@@ -13690,7 +13690,7 @@ externalities
 externalization
 eupractic
 externalized
-externalizes
+externalizes 1
 earbash
 exocardial
 enarration 1
