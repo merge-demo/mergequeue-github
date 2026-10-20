@@ -22968,7 +22968,7 @@ asthenopic
 argyraspides 1
 asquat
 archaical
-atriplex
+atriplex 1
 atrypoid
 assimilation
 antigovernment
