@@ -19160,7 +19160,7 @@ acrobystitis
 antipolo
 aggravated
 antispastic
-adjiger
+adjiger 1
 allentiac
 arthropoda
 accessorized
