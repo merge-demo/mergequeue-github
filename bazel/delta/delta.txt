@@ -8686,7 +8686,7 @@ dryads
 dialectology
 diastasimetry
 dipnoan
-devilfishes
+devilfishes 1
 deraigned
 demobbed
 desalinizing
