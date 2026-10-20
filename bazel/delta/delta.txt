@@ -6354,7 +6354,7 @@ doctrinal
 dolus
 discontinuing
 dislimn
-divorcing
+divorcing 1
 duras
 dejeune
 dermophobe
