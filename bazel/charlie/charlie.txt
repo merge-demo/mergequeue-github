@@ -15240,7 +15240,7 @@ cywydd
 clamatory
 cartooned
 clutterer
-casimeres
+casimeres 1
 cricks
 catholicise
 clambake

@@ -2708,7 +2708,7 @@ flaggella
 factorization
 fouette
 fervor
-flamenco
+flamenco 1
 frondous
 fashions
 fruitive 1
