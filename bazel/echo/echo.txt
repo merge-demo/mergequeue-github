@@ -7115,7 +7115,7 @@ episcenia
 excerpting
 envelope
 exurbanites
-envelopments
+envelopments 1
 endpaper
 envelops
 euphorbiaceous
