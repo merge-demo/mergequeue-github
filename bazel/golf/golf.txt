@@ -339,7 +339,7 @@ gorling
 gaussian 1
 grilses
 gleen
-gerontologic
+gerontologic 1
 gangetic
 governingly
 gastrohepatitis
