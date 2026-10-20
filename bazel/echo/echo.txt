@@ -2042,7 +2042,7 @@ eyeshot
 excussing
 enmist
 easter
-evangelican
+evangelican 1
 embreathement
 eskimo
 elaeometer
