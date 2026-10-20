@@ -7499,7 +7499,7 @@ endeign
 eugenia
 epidiascopic
 effluency
-ephor
+ephor 1
 encounterer
 ekphory
 euda
