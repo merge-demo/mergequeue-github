@@ -1452,7 +1452,7 @@ compresbyter
 catelectrotonus 1
 coexecutor
 currents
-calyptrata
+calyptrata 1
 cheapener
 carretela
 calyptratae
