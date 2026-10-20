@@ -17526,7 +17526,7 @@ archipelagoes
 abeyancy
 anthracaemia
 afar
-apteroid
+apteroid 1
 apophthegmatist
 amalings
 appeasements
