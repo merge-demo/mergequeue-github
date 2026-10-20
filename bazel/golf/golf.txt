@@ -3235,7 +3235,7 @@ ghosty
 gilgul
 goldenwing
 galoot
-greatish
+greatish 1
 getatability
 gally
 graffage
