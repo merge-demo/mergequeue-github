@@ -3407,7 +3407,7 @@ embark
 epichorial
 embarkations
 epitomize
-embarkment
+embarkment 1
 embarks
 equipage
 exteroceptor
