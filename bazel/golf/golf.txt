@@ -2752,7 +2752,7 @@ girths
 gorgers
 gunfire
 greenflies
-germanism
+germanism 1
 gauger
 guestchamber
 gorraf
