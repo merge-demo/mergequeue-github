@@ -1803,7 +1803,7 @@ embrutes
 epigonism
 enfranch
 eyespots
-epexegetically
+epexegetically 1
 eyewaiter
 eogaea
 episepalous
