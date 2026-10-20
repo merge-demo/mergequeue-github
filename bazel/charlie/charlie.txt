@@ -30394,7 +30394,7 @@ cadenced
 claughting
 caserio
 crustade
-charted
+charted 1
 cresotinic
 crustalogy
 crustalogical
