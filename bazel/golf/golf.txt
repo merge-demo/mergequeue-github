@@ -4198,7 +4198,7 @@ gymnorhinal
 gaspergou
 gluttony
 gienah
-gene
+gene 1
 graphomania
 grandfather
 gnathopod
