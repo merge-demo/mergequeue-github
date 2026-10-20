@@ -15583,7 +15583,7 @@ dehnstufe
 dyvours
 doodlebug
 doodlers
-doodlesack
+doodlesack 1
 demeanors
 dentolingual
 deconcatenate
