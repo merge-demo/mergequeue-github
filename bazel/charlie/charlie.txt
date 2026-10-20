@@ -28860,7 +28860,7 @@ chollers
 consignified
 chorti
 countless
-cretism
+cretism 1
 cretize
 cretonne
 collogue
