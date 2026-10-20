@@ -1821,7 +1821,7 @@ geryoniidae
 gthite
 goala
 gulleries
-giddies
+giddies 1
 generativeness
 gainspeaker
 grummeter
