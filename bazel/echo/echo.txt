@@ -12487,7 +12487,7 @@ exility
 exanthem
 eyestones
 educatory
-enneadic
+enneadic 1
 electrifying
 electroosmosis
 enomania
