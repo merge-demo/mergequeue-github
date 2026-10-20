@@ -13862,7 +13862,7 @@ emandibulate
 equitably
 extraparental
 extroverts
-encyst
+encyst 1
 endgame
 extraneity
 ethiop
