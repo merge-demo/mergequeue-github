@@ -8392,7 +8392,7 @@ forlanas
 floppy
 forleit
 felling
-forcipes
+forcipes 1
 framboise
 familist
 fornications
