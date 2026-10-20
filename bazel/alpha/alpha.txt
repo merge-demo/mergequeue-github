@@ -21201,7 +21201,7 @@ appius
 ashamed
 arctalia
 accumulatively
-ashamnu
+ashamnu 1
 aggrandizers
 ashanti
 archilla
