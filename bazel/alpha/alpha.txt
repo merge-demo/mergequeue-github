@@ -1667,7 +1667,7 @@ aphonias
 ainsells
 arriccios
 accueil
-acculturate
+acculturate 1
 acculturated
 acculturates
 astr

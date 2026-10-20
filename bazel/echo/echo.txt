@@ -10013,7 +10013,7 @@ euptelea
 eternalised 1
 enweb
 extradict
-emotiomuscular
+emotiomuscular 1
 electrode
 eurhythmical
 electrodiagnostically
