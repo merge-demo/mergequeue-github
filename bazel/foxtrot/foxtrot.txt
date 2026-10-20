@@ -5507,7 +5507,7 @@ formatters
 fanjets
 fleshliest
 fiddlies
-faroelite
+faroelite 1
 fleshliness
 faceteness
 fw
