@@ -16821,7 +16821,7 @@ brumbee
 bacterioid
 bicolligate
 buffable
-buffalo
+buffalo 1
 buffalofish
 burglarised
 buffaloing
