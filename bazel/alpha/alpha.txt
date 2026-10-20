@@ -11514,7 +11514,7 @@ amuze
 advertisable
 apogamously
 amuzzle
-amphigastria
+amphigastria 1
 anabantid
 aeneus
 actory
