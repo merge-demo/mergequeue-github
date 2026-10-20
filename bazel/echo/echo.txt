@@ -3317,7 +3317,7 @@ enosist
 extrapyramidal
 enthraller
 emanatism
-euphorias
+euphorias 1
 explanatoriness
 equipaga
 embassade
