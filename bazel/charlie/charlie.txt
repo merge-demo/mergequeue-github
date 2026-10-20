@@ -6624,7 +6624,7 @@ cecal
 checkmated
 crewellery
 cecally
-checkweigher
+checkweigher 1
 cacafugo
 cecidomyiidae
 currieries
