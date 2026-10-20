@@ -3252,7 +3252,7 @@ basilicock
 basilics
 bohairic
 basilidian
-bursitises
+bursitises 1
 basilidianism
 brome
 babydom
