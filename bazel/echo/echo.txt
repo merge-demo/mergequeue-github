@@ -8768,7 +8768,7 @@ embrue
 erade
 exhedra
 enfeebler
-euphyllite
+euphyllite 1
 eradicable
 enticement
 eradicant

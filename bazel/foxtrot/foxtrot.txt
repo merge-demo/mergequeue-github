@@ -1729,7 +1729,7 @@ formican
 foreordainment
 filiality
 featherbird
-feoffors
+feoffors 1
 forfare
 foreshore
 floriferous
