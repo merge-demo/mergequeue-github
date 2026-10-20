@@ -9707,7 +9707,7 @@ bacchante
 byssal
 bigam
 bissellia
-bullbats
+bullbats 1
 balding
 bombylious
 begobs
