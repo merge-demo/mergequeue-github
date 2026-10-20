@@ -12445,7 +12445,7 @@ entomostracan
 exhortingly
 exhorts
 exaltations
-exhumate
+exhumate 1
 egoisms
 elusoriness
 esquire
