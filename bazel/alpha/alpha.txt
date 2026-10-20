@@ -20666,7 +20666,7 @@ airsome
 azides
 arthroxerosis
 arthrozoa
-amaine
+amaine 1
 atlaslike
 annunciates
 afflicts
