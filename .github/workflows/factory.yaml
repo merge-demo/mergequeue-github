@@ -34,9 +34,9 @@ jobs:
 
       - name: run mq
         id: edits
-        run:
-          ./mq generate --gh-token=${{ secrets.ELI_MERGEDEMO }} --gh-token=${{ secrets.SAM_MERGEDEMO
-          }} --gh-token=${{ secrets.ROBERT_MERGEDEMO }} --gh-token=${{ secrets.PHIL_MERGEDEMO }}
+        # Only ELI_MERGEDEMO can create PRs in this repo. mq does not move on to the next token when
+        # one fails, so a token without access here (SAM_MERGEDEMO) stalls the rest of the run.
+        run: ./mq generate --gh-token=${{ secrets.ELI_MERGEDEMO }}
         env:
           # used by tools/gh_enqueue.sh (merge.run) to add each PR to the GitHub merge queue
           GH_TOKEN: ${{ secrets.ELI_MERGEDEMO }}
@@ -44,9 +44,7 @@ jobs:
       - name: run mq
         if: always()
         id: clean
-        run:
-          ./mq housekeeping --gh-token=${{ secrets.ELI_MERGEDEMO }} --gh-token=${{
-          secrets.SAM_MERGEDEMO }}
+        run: ./mq housekeeping --gh-token=${{ secrets.ELI_MERGEDEMO }}
 
       # GitHub merge queue removes failed PRs without a comment, so mq housekeeping (which matches
       # Trunk's "removed from the merge queue" comment) never sees them. Close PRs that are neither

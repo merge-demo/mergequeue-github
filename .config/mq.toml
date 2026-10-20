@@ -1,5 +1,5 @@
-# GitHub merge queue comparison repo. Load and Bazel tuning mirror merge-demo/mergequeue-bazel so the
-# two queues see the same traffic; only the queue differs.
+# GitHub merge queue comparison repo. Bazel tuning (change_code_path, deps_distribution) mirrors
+# merge-demo/mergequeue-bazel; load, test time and stacks are tuned here.
 # singlequeue: GitHub merge queue has no impacted-targets API, so nothing is uploaded to Trunk.
 mode = "singlequeue"
 build = "bazel"
@@ -11,13 +11,19 @@ email = "bot@trunk.io"
 [test]
 flake_rate = 0.01
 # how long test should spin for (can be described as 10s, 7m, 1hr)
-sleep_for = "8m"
+sleep_for = "10m"
 
 [pullrequest]
-labels = ""                     # label to apply to pull request on creation (comma separated list)
+labels = ""            # label to apply to pull request on creation (comma separated list)
 comment = ""
-requests_per_hour = 60          # target number of pull requests per hour
-run_generate_for = "50 minutes"
+requests_per_hour = 60 # target number of pull requests per hour
+# match the factory's 30 minute cron so runs don't overlap and the rate stays ~60/hour
+run_generate_for = "30 minutes"
+
+# share of PRs by stack depth; each PR in a stack counts against requests_per_hour. Per 30-PR run
+# this is ~12 solo PRs, 3 stacks of 2 and 4 stacks of 3. Stacks are registered with GitHub's
+# stacks API and only the tip is enqueued, which queues the whole stack.
+stacks_distribution = "0.4x1,0.2x2,0.4x3"
 change_code_path = "bazel"
 
 # how to distribute changes of impacted deps
