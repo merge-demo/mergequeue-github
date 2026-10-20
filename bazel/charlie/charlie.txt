@@ -4506,7 +4506,7 @@ carminette
 corvetto
 controvertibly
 carmot
-carn
+carn 1
 carnacian
 carnaged
 chortling
