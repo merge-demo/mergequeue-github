@@ -3420,7 +3420,7 @@ gibraltar
 galleting
 gyromancy
 gentisate
-giggit
+giggit 1
 geometrized
 glossolaryngeal
 globularia
