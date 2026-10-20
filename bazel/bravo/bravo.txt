@@ -9988,7 +9988,7 @@ barbell
 bn
 baroscopical
 bargainor
-biverb
+biverb 1
 beblear
 bedfast
 breeched
