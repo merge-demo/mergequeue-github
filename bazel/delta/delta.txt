@@ -16288,7 +16288,7 @@ downingia
 diabrosis
 degenerescent
 decator
-discoloring
+discoloring 1
 downlink
 desertion
 downloading
