@@ -7473,7 +7473,7 @@ escobadura
 ephemeridae
 ephemeroptera
 eigne
-extrafocal
+extrafocal 1
 electronographic
 eyess
 extracivically
