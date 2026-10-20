@@ -25097,7 +25097,7 @@ aeolopantalon
 axiality
 anthropos
 armorplated
-axiate
+axiate 1
 atmos
 archeress
 amphicondyla
