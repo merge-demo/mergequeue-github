@@ -11460,7 +11460,7 @@ degassing
 downcomes
 dissuasive
 discodactylous
-damasse
+damasse 1
 dispositive
 deskbound
 dyotheletic
