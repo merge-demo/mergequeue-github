@@ -18330,7 +18330,7 @@ arlington
 amphimixis
 ancones
 also
-authoriser
+authoriser 1
 aragonitic
 acrobatic
 annulations

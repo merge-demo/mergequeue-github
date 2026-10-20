@@ -479,7 +479,7 @@ fanciers
 foreclosures
 fleetful
 fuseau
-fakeer
+fakeer 1
 fissiparism 1
 fretting
 featherleaf
