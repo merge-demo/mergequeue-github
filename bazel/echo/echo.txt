@@ -9057,7 +9057,7 @@ enhypostasis
 ephyrae
 evocatively
 etnean
-epicyclic
+epicyclic 1
 europeans
 enbranglement
 exordial
