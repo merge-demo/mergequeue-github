@@ -5196,7 +5196,7 @@ demoness
 danceress
 doctrinalist
 dartoic
-debone
+debone 1
 dyings
 daemon
 doghole
