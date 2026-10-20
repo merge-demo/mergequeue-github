@@ -89,7 +89,7 @@ catamaran
 cephaeline
 coemptor
 cabbed
-cubics
+cubics 1
 cabby
 cabbie
 crenelate
