@@ -14117,7 +14117,7 @@ antemetallic
 anestrus
 antemillennial
 aurorally
-ambulomancy
+ambulomancy 1
 antemundane
 antennae
 amazers
