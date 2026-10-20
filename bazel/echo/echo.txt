@@ -12932,7 +12932,7 @@ expatiating
 electable
 esses
 embracery
-erigible
+erigible 1
 expatriate
 expatriating
 enthusiastic
