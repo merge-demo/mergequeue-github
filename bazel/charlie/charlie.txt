@@ -15546,7 +15546,7 @@ classicality
 chaya
 classicise
 chromophoric
-classicism
+classicism 1
 classicist
 classicists
 cheshire
