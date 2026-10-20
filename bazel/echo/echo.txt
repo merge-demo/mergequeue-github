@@ -9776,7 +9776,7 @@ explaining
 essoined
 embolemia
 eachwhere
-exfoliated
+exfoliated 1
 equalisation
 ejectamenta
 extenuator
