@@ -4148,7 +4148,7 @@ discomfited
 dolling
 datelined
 darnedest
-delirium
+delirium 1
 disconanthae
 didrachmal
 dreikanters

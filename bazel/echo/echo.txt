@@ -2180,7 +2180,7 @@ endocyclic
 evanescently
 elbowy
 elbowpiece
-elbows
+elbows 1
 explores
 everywoman
 elcaja
