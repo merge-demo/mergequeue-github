@@ -14724,7 +14724,7 @@ dobos
 drumlier
 dactyloscopic
 detained
-decahedral
+decahedral 1
 doctorbird
 doc
 dekametre
