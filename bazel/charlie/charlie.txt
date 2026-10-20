@@ -7993,7 +7993,7 @@ cucullately
 crystalliform
 clottedness
 chablis
-coelarium
+coelarium 1
 crannog
 chabouk
 crankshaft
