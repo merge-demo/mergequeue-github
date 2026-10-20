@@ -7309,7 +7309,7 @@ griddlecake
 goyetian
 gambled
 ganglion
-gyrostatic
+gyrostatic 1
 genet
 gutturally
 guze
