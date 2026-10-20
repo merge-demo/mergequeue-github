@@ -5688,7 +5688,7 @@ flint
 fluffer
 ferratin
 footpound
-folioliferous
+folioliferous 1
 fresnels
 factional
 facilitator
