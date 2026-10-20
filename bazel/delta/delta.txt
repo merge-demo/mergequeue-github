@@ -5260,7 +5260,7 @@ dissymmetry
 densate
 diogenean
 deerstealer
-dalapon
+dalapon 1
 densely
 daviely
 dioptase
