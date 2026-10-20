@@ -613,7 +613,7 @@ deposes
 doff
 damnability
 damnabilities
-disegno
+disegno 1
 dawut
 deadrize
 disintegrating
