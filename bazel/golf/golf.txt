@@ -8473,7 +8473,7 @@ grandeurs
 garoting
 gandhara
 gravitations
-grudgers
+grudgers 1
 geotaxis
 gelada
 glossingly
