@@ -21454,7 +21454,7 @@ anaclasis
 alantol
 anthelion
 aspergilli
-anatira
+anatira 1
 anosmatic
 aspergillin
 aspergillosis
