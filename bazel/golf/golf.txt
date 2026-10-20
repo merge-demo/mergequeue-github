@@ -2227,7 +2227,7 @@ galas
 gaster
 gastrocatarrhal
 goodbyes
-ganefs
+ganefs 1
 gnomonology
 generosities
 galactohemia
