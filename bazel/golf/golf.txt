@@ -6411,7 +6411,7 @@ gematria
 gymnoblastea
 gymnodiniidae
 gongorist
-geostationary
+geostationary 1
 grieshoch
 grimm
 glycogenetic
