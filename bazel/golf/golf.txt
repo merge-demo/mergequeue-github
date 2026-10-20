@@ -4867,7 +4867,7 @@ glaciates
 gladiator
 grabbiest
 guatemalan
-grooviest
+grooviest 1
 gummiferous
 gladiatorial
 gagelike
