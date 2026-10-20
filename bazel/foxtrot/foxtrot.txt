@@ -9236,7 +9236,7 @@ frivolism
 frillback
 fetuses
 floccus
-ficin
+ficin 1
 feminate
 fissioning
 flopped
