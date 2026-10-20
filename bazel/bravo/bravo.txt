@@ -11330,7 +11330,7 @@ bedcap
 bestiarianism
 blubberers
 barabbas
-balanism
+balanism 1
 bestialising
 bankable
 bromegrass
