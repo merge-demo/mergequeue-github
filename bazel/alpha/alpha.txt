@@ -1566,7 +1566,7 @@ attaintment
 antidrag
 accorporation
 antilogism
-anglicizes
+anglicizes 1
 accost
 arbuscule
 aecidium
