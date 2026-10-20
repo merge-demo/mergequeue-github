@@ -31490,7 +31490,7 @@ currycombs
 cheesily
 cogitators
 curricula
-curricularize
+curricularize 1
 cardiomyoliposis
 chid
 currier
