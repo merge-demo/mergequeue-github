@@ -12054,7 +12054,7 @@ chorussed
 chorusses
 cathedralic
 chorussing
-creatively
+creatively 1
 coll
 cymbalo
 cerfoil
