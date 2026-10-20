@@ -4690,7 +4690,7 @@ extroversive
 eisodic
 eucrites
 elbowing
-eyeopener
+eyeopener 1
 eryhtrism
 encyclopaedically
 extraterritorially

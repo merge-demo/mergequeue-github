@@ -27742,7 +27742,7 @@ chuprassi
 champagnizing
 cowry
 cowrie
-cowries
+cowries 1
 calina
 crescentic
 catbrier
