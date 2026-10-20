@@ -2101,7 +2101,7 @@ diddle
 decalogue
 decalvant
 definitizing
-doses
+doses 1
 dynasts
 dromedary
 dissyllabism
