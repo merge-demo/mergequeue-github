@@ -18539,7 +18539,7 @@ animists
 apostrophise
 androseme
 arborous
-arborvitaes
+arborvitaes 1
 arcticwards
 amidine
 arrises
