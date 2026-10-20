@@ -12197,7 +12197,7 @@ chinotto
 clangula
 chaoticness
 chrysobalanus
-chrysoberyl
+chrysoberyl 1
 chrysobull
 cinchonising
 chrysocarpous
