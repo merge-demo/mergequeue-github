@@ -22731,7 +22731,7 @@ ascared
 annumerate
 abhorson
 allomerous
-acclimatizing
+acclimatizing 1
 aggies
 abridgers
 atonia
