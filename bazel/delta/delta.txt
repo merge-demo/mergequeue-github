@@ -14640,7 +14640,7 @@ depressing
 diallel
 dixain
 decentre
-diplococcocci
+diplococcocci 1
 decameter
 draftees
 dora
