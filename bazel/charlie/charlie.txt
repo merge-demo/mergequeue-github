@@ -926,7 +926,7 @@ chaptalization
 cakewalked
 cakewalker
 cakewalking
-caressant
+caressant 1
 carnotite
 caky
 clientelage
