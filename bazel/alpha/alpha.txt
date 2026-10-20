@@ -25023,7 +25023,7 @@ awless
 awlwort
 aweary
 awmous
-awned
+awned 1
 angelhood
 awner
 acquires
