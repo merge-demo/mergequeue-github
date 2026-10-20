@@ -5659,7 +5659,7 @@ bodgie
 beleaguering
 bongar
 badgeless
-beleapt
+beleapt 1
 belection
 brining
 belecture
