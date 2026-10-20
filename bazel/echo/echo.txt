@@ -6380,7 +6380,7 @@ enthrals
 evenfalls
 endangiitis
 enshield
-endostitis
+endostitis 1
 ebbed
 episcopize
 eprouvette
