@@ -17484,7 +17484,7 @@ buplever
 buprestidae
 backspins
 berzelianite
-birdikin
+birdikin 1
 bena
 buprestis
 briskening
