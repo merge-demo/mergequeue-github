@@ -864,7 +864,7 @@ entourages
 epistolizer
 eigenfunction
 erythrocytolysin 1
-electrocution
+electrocution 1
 encomiastical
 endophyte
 entailed
