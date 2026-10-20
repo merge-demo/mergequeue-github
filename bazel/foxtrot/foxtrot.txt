@@ -3023,7 +3023,7 @@ forma
 fiars
 fiascos
 ferricyanogen
-ferrotype
+ferrotype 1
 fulgurantly
 fortepiano
 flukily
