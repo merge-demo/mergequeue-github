@@ -4473,7 +4473,7 @@ demibeast
 demibelt
 dinornithes
 dislink
-deists
+deists 1
 dyspareunia
 deradelphus
 deerstalker
