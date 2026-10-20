@@ -6584,7 +6584,7 @@ finfishes
 fortuitist
 flyboats
 falconiform
-foaling
+foaling 1
 franseria
 friary
 flunkeyism
