@@ -11812,7 +11812,7 @@ discriminator
 dirigibility
 diegueno
 disembrangle
-deferrals
+deferrals 1
 dislodges
 discriminoid
 decemberly
