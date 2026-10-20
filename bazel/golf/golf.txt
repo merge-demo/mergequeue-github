@@ -10332,7 +10332,7 @@ gravemaster
 grammaticism
 greenwax
 gelatinigerous
-globulicide
+globulicide 1
 gnattiest
 grasslike
 guland
