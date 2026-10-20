@@ -7510,7 +7510,7 @@ dogtrots
 drosera
 decocainize
 deutencephalon
-dumfounding
+dumfounding 1
 dehgan
 deuteranomaly
 deuteranope
