@@ -3059,7 +3059,7 @@ decarbonized
 desegregation
 deers
 deerstalkers
-detailist
+detailist 1
 deerstalking
 deerweed
 dollyway
