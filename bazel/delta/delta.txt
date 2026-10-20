@@ -2272,7 +2272,7 @@ dogmas
 decempedal
 demotion
 dominiums
-decemplex
+decemplex 1
 dissocialize
 decempunctate
 doused
