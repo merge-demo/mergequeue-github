@@ -4728,7 +4728,7 @@ fougue
 feathermonger
 fobbing
 fijian
-fulgor
+fulgor 1
 ferrugineous
 flabella
 frises
