@@ -13090,7 +13090,7 @@ dustlessness
 deutocarbonate
 displicency
 diastyle
-dispensatory
+dispensatory 1
 detrain
 develed
 dispensatress
