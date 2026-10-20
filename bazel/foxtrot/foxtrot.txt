@@ -7840,7 +7840,7 @@ forepaws
 flingdust
 foveolets
 furcellate
-fractionisation
+fractionisation 1
 fungify
 favorite
 fligged
