@@ -4970,7 +4970,7 @@ endeavour
 endamaging
 estreated
 ericeticolous
-exilable
+exilable 1
 emulsifiable
 embole
 endowed
