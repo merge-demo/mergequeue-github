@@ -12668,7 +12668,7 @@ divining
 dehorts
 diatrymiformes
 dridder
-disdiplomatize
+disdiplomatize 1
 dendrobates
 disfavour
 duplicability
