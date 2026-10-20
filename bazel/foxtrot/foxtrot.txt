@@ -11493,7 +11493,7 @@ flamboyant
 flotant
 faddisms 1
 fructuousness
-fashery
+fashery 1
 furunculous
 furzeling
 furzy
