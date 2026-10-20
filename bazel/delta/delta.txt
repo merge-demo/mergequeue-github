@@ -8170,7 +8170,7 @@ darger
 diachronically
 dicranum
 diacid
-detachment
+detachment 1
 duellists
 duple
 deprecate
