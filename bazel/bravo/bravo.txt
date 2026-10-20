@@ -6905,7 +6905,7 @@ balmony
 beshadowed
 beauxite
 briolette
-biplosive
+biplosive 1
 breediness
 betail
 baselessness
