@@ -2525,7 +2525,7 @@ barycenter
 bemused
 burmite
 brillolette
-barid
+barid 1
 bronchostenosis
 bereaving
 burgus
