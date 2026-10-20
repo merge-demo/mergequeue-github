@@ -13668,7 +13668,7 @@ disturbances
 demisemitone
 dissymmetrically
 danseurs
-discoursive
+discoursive 1
 dissymmettric 1
 dissympathize
 drupal
