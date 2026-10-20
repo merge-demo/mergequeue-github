@@ -2249,7 +2249,7 @@ fain
 fenced
 fencelessness
 forkiest
-fengite
+fengite 1
 fanout
 frolics
 filigerous
