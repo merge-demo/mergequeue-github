@@ -24807,7 +24807,7 @@ axle
 avis
 aflare
 ambagitory
-augitite
+augitite 1
 atractaspis
 almas
 aeluroid
