@@ -8493,7 +8493,7 @@ aurora
 alkedavy
 alkekengi
 alkene
-aroid
+aroid 1
 alkenyl
 alkes
 awreck
