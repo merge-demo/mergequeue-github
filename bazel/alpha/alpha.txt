@@ -5575,7 +5575,7 @@ auxofluor
 andiroba
 absolute
 afters
-amphibrach
+amphibrach 1
 allomerism
 attentat
 apholate
