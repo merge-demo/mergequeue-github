@@ -7112,7 +7112,7 @@ desynchronizing
 demonstratable
 destroy
 divisionally
-dollops
+dollops 1
 dietical
 dolthead
 diagnostic
