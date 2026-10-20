@@ -4433,7 +4433,7 @@ footpick
 fishily
 fatigues
 farinaceously
-fishiness
+fishiness 1
 fenbank
 fluigramme
 frogwort
