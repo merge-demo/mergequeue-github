@@ -5390,7 +5390,7 @@ biographical
 begrutten
 beguess
 beguilement
-biunial
+biunial 1
 beguilements
 biferous
 banstickle
