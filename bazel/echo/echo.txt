@@ -11629,7 +11629,7 @@ exclosure 1
 emollition
 eyedroppers
 exacerbates
-empaneled
+empaneled 1
 enhances
 enforcibility
 embordering
