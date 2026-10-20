@@ -12063,7 +12063,7 @@ demantoid
 dijudicated
 disensure
 disentail
-deprecatively
+deprecatively 1
 disentangle
 dissensious
 dentine
