@@ -7335,7 +7335,7 @@ electrooptics
 escaping
 epanisognathism
 expositively
-entameba
+entameba 1
 epizoal
 elongate
 economy
