@@ -6748,7 +6748,7 @@ abucco
 alt
 aftermarket
 arpeggio
-allomerize
+allomerize 1
 agglutination
 atrioporal
 abnormities
