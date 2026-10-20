@@ -8334,7 +8334,7 @@ geanticlinal
 glaciated
 ghostwritten
 gammacismus
-geomagnetics
+geomagnetics 1
 gentes
 greeneries
 gladness
