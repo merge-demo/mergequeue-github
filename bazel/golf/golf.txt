@@ -990,7 +990,7 @@ glyconin
 glycogenesis
 goldhammer
 ganderess
-gamester
+gamester 1
 grimace
 geanticline
 gubernia
