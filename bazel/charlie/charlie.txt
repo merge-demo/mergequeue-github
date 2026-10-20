@@ -1681,7 +1681,7 @@ caloric
 caloriduct
 calorie
 claytonia
-cele
+cele 1
 curlicuing
 circ
 cestoi
