@@ -1336,7 +1336,7 @@ dorsigerous
 disorder
 dault
 docetic
-dysteleologically
+dysteleologically 1
 departure
 daundering
 daitya
