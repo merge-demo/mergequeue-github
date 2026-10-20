@@ -18426,7 +18426,7 @@ cognoscent
 changeling
 castelli
 cognoscente
-cognoscing
+cognoscing 1
 cognoscitive
 cognovit
 coude
