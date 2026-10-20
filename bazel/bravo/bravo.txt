@@ -7818,7 +7818,7 @@ bibbler
 blooms
 bufonite
 borazon
-bajri
+bajri 1
 broose
 bibelot
 balneography
