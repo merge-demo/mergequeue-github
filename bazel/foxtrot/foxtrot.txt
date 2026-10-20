@@ -598,7 +598,7 @@ forints
 feasted
 fade
 featherdom
-finders
+finders 1
 filippic
 fumishness
 falsehood
