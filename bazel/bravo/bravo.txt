@@ -12895,7 +12895,7 @@ burdenable
 birle
 bungmaker
 babka
-bouffante
+bouffante 1
 bump
 bursectomy
 brachigerous
