@@ -3422,7 +3422,7 @@ frillier
 feminality
 fierasferoid
 farcie
-fustanella
+fustanella 1
 floc
 flecker
 featherlike
