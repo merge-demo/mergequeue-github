@@ -13461,7 +13461,7 @@ equilibrize
 ensuingly
 encopresis
 eatanswill
-emf
+emf 1
 elizabethanize
 expurgate
 equivocate
