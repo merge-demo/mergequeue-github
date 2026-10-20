@@ -462,7 +462,7 @@ folkmoter
 foliosity
 facticity
 faithworthiness
-fireplaces
+fireplaces 1
 faitours
 fornicatress
 fomented
