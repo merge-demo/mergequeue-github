@@ -4909,7 +4909,7 @@ funiculi
 fascial
 fruitfulness
 fireworkless
-fulgural
+fulgural 1
 flourescent
 fino
 fourscore
