@@ -13725,7 +13725,7 @@ educating
 elfhood
 euphemised
 emblazoning
-extersive
+extersive 1
 exerting
 epitrochoidal
 ectosphere
