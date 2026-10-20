@@ -4279,7 +4279,7 @@ gramineousness
 greenwithe
 geoform
 goon
-gantleting
+gantleting 1
 gramophones
 gusto
 garnishing
