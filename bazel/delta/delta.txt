@@ -8946,7 +8946,7 @@ disklike
 dirigible
 denaturalization
 documenter
-deidesheimer
+deidesheimer 1
 dichotomy
 detruck
 dwarfness
