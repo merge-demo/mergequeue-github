@@ -1560,7 +1560,7 @@ deaden
 droops
 docked
 drippings
-dices
+dices 1
 deputising
 dyssodia
 deadfalls
