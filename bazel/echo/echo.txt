@@ -6692,7 +6692,7 @@ eutychianism
 enkindler
 electromotiv
 enchelycephali
-enterosepsis
+enterosepsis 1
 enterotome
 encharged
 enright
