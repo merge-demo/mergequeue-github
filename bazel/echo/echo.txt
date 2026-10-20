@@ -8084,7 +8084,7 @@ eaglehawk
 expositor
 epiglottidean
 epiphloeum
-etherize
+etherize 1
 essoign
 emotional
 exceptive

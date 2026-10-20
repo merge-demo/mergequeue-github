@@ -15683,7 +15683,7 @@ amygdalectomy
 andamentos
 aphetic
 alehoof
-adsignify
+adsignify 1
 atrazine
 achromatism
 armoury
