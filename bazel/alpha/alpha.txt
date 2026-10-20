@@ -5608,7 +5608,7 @@ afterthought
 afterthoughts 1
 afterthrift
 apastron
-armil
+armil 1
 anchoritically
 absorptivity
 aphototaxis

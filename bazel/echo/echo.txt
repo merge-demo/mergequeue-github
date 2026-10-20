@@ -4415,7 +4415,7 @@ emphasised
 electrobioscopy
 endoparasite
 environmentally
-encanthis
+encanthis 1
 expectorations
 enfacing
 ensigncies
