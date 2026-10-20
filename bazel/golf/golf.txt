@@ -686,7 +686,7 @@ gideon
 granulomatosis
 goneril
 gastronomer
-gallying
+gallying 1
 gonfalon
 goniotropous
 gratillity
