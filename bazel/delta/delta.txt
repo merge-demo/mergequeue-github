@@ -10711,7 +10711,7 @@ dipolar
 dingar
 dumbnesses
 diaculum
-depit
+depit 1
 dormin
 digitalize
 demurs
