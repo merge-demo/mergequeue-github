@@ -8333,7 +8333,7 @@ alimentation
 alimentativeness
 arsenium
 alimented
-alimentic
+alimentic 1
 alabandite
 automatical
 amphiphithyra
