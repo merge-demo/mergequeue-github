@@ -3428,7 +3428,7 @@ gourmets
 gerrymander
 gorgons
 goldwater
-gerrymanders
+gerrymanders 1
 guilts
 genitofemoral
 goldenrod
