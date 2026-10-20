@@ -12386,7 +12386,7 @@ etholide
 embace
 euphemia 1
 eelbob
-exhaustive
+exhaustive 1
 eryon
 essencing
 electrolyze
