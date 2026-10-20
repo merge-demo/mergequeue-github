@@ -1323,7 +1323,7 @@ acc
 accable
 accel
 accelerable
-animalizing
+animalizing 1
 accelerando
 analgize
 argentojarosite

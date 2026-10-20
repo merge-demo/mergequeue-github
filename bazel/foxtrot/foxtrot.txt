@@ -10767,7 +10767,7 @@ fructiculose
 femme
 footglove
 fustic
-fervent
+fervent 1
 fatalism
 feretrum
 fashious
