@@ -12470,7 +12470,7 @@ anecdotage
 antiprimer
 astart
 ajowan
-anecdote
+anecdote 1
 anecdotes
 anecdotic
 anova
