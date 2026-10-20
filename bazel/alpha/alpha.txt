@@ -4216,7 +4216,7 @@ autogenous
 adoration
 adoratory
 agatelike
-adorer
+adorer 1
 andhra
 acquisita
 adorers
