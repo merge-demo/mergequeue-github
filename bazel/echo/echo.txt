@@ -10275,7 +10275,7 @@ ergal
 extravasate
 eulogium
 excipulum
-experimentize
+experimentize 1
 electronography
 erump
 ethmyphitis
