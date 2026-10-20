@@ -26590,7 +26590,7 @@ coulie
 coulisses
 couloir
 coinmaking
-copperas
+copperas 1
 cornbird
 cystectomies
 coulombmeter
