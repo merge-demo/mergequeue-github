@@ -5777,7 +5777,7 @@ extinguish
 ephorus
 enticers
 englacial
-expose
+expose 1
 embossments
 esophagomalacia
 emaciation
