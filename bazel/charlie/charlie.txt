@@ -12864,7 +12864,7 @@ cathodic
 chummily
 chilliwack
 curried
-churchwardenism
+churchwardenism 1
 columbines
 churchwardenize
 constitutionless
