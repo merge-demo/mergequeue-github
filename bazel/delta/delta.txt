@@ -2026,7 +2026,7 @@ dogwoods
 decagynous
 dinornis
 dearling
-denationalized
+denationalized 1
 diplococcal
 daucus
 decagonally
