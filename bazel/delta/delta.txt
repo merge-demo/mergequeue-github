@@ -5012,7 +5012,7 @@ dinamode
 decussion
 delustered
 diplopy
-duellers
+duellers 1
 drouked
 demure
 diplographical
