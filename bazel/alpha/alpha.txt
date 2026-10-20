@@ -19774,7 +19774,7 @@ abrogated
 ambystoma
 armadas
 agrologies
-armadilla
+armadilla 1
 acetylide
 antimedievalist
 anhydridize
