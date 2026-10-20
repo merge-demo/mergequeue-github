@@ -11553,7 +11553,7 @@ euphoric
 ess 1
 extypal
 extraburghal
-elenchus
+elenchus 1
 encodement
 embrittled
 errantness
