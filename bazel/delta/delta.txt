@@ -7051,7 +7051,7 @@ desserts
 dykage
 dessertspoon
 distillage
-disenthroning
+disenthroning 1
 duramen
 destinezite
 driveable
