@@ -4696,7 +4696,7 @@ graecism
 goglet
 glissader
 girted
-galactoside
+galactoside 1
 guarapucu
 grego
 guaranteeship
