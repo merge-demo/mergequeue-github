@@ -4187,7 +4187,7 @@ ergotized
 epopt
 extrications
 empoririums
-emporiums
+emporiums 1
 eyewink
 ethynyls
 emporte
