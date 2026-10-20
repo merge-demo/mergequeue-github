@@ -9723,7 +9723,7 @@ embryol
 escopette
 external
 epicoelar
-extraterritorial
+extraterritorial 1
 ethylhydrocupreine
 essedones
 eisoptrophobia
