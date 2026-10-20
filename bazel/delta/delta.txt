@@ -17247,7 +17247,7 @@ dirigo
 dentinasal
 droger
 disthrone
-depreciative
+depreciative 1
 dictyogenous
 degausses
 desulphurated
