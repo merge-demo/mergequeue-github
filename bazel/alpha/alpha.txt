@@ -14039,7 +14039,7 @@ anapes
 alexiteric
 atamans
 axopodium
-atmometry
+atmometry 1
 accomplished
 aetiotropic
 antiparastatitis
