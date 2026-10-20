@@ -7212,7 +7212,7 @@ clivia
 cavaedia
 centriole
 chalazogam
-confiture
+confiture 1
 codebreak
 chymous
 centripetence
