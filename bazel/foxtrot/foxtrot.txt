@@ -1252,7 +1252,7 @@ forevouch
 femalize
 fatuate
 fearful
-flatten
+flatten 1
 filmdom
 frostier
 fasti
