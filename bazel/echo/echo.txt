@@ -6187,7 +6187,7 @@ eustatic
 enneandrian
 etherealizing
 edacious
-equiparant
+equiparant 1
 eschatologist
 enneandrous
 enneaphyllous
