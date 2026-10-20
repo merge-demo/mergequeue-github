@@ -16622,7 +16622,7 @@ dabber
 dedolent
 dadouchos
 desoxyribonuclease
-dragoonable
+dragoonable 1
 dation
 denunciable
 dragoonage
