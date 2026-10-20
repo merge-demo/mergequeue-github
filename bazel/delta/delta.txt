@@ -9997,7 +9997,7 @@ debriefs
 disopinion
 dimoric
 demigoddess
-dotardism
+dotardism 1
 derv
 disconnectiveness
 dimorph
