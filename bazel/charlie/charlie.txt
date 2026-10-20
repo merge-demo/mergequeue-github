@@ -15025,7 +15025,7 @@ choanoid
 countercondemnation
 cipollino
 circuitable
-compunctive
+compunctive 1
 civilizable
 civilizationally
 citola
