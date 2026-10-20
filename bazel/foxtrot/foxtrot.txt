@@ -9464,7 +9464,7 @@ fraternities
 fumarates
 figboy
 fantasm
-featish
+featish 1
 farming
 fortuitousness
 femininism
