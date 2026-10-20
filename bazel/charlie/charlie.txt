@@ -18211,7 +18211,7 @@ catchment
 clubbiness
 coextends
 creep
-coextent
+coextent 1
 cofactors
 castrating
 cofane
