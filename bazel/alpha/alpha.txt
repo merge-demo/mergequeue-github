@@ -309,7 +309,7 @@ abdominous
 abduces
 articulate
 ampullulae
-abducted
+abducted 1
 abductions
 allegro
 abductor
