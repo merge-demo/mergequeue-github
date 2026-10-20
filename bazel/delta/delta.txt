@@ -6792,7 +6792,7 @@ defectious
 desynonymize
 decorticating
 demodex
-desiodothyroxine
+desiodothyroxine 1
 desirableness
 disseminated
 dojo
