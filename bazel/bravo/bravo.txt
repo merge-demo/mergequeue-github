@@ -8624,7 +8624,7 @@ bebization
 brochette
 bewig
 balcone
-bubalis 1
+bubalis 2
 blockheaded
 behear
 basins
