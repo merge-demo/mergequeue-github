@@ -5173,7 +5173,7 @@ anatomicomedical
 af
 avernal
 arbalos
-anelastic
+anelastic 1
 amourist
 accend
 avouching
