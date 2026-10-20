@@ -12627,7 +12627,7 @@ excoriate
 exoculate
 expostulates
 ecclesiasticalness
-exoculation
+exoculation 1
 exoderm
 elohistic
 electrophore
