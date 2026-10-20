@@ -7470,7 +7470,7 @@ ceratioid
 capsuligerous
 curarized
 caffle
-ceratitis
+ceratitis 1
 ceratitoidea
 cataleptics
 ceratoblast
