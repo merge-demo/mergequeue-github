@@ -30541,7 +30541,7 @@ cubical
 catskinner
 catonic
 cubicities
-cofferfish
+cofferfish 1
 cubicula
 costly
 cubicular
