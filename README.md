@@ -4,6 +4,13 @@
 
 ### Welcome
 
+> **This repo runs on GitHub merge queue, not Trunk.** It is the comparison twin of
+> [merge-demo/mergequeue-bazel](https://github.com/merge-demo/mergequeue-bazel): same Bazel tuning,
+> PR load and simulated test time and flake rate in `.config/mq.toml`, but PRs are enqueued with
+> `gh pr merge --auto` (`tools/gh_enqueue.sh`) and tested on the `merge_group` event. The merge
+> queue itself is configured in the `main` ruleset (Settings → Rules), which requires the `test`
+> check.
+
 This repository is used to demonstrate the performance characteristics of a merge graph under
 different simulated loads.
 

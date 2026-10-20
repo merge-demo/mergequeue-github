@@ -12,7 +12,6 @@ permissions:
 
 jobs:
   create-pr:
-    # needs: merge-pr
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -33,31 +32,33 @@ jobs:
           fileName: mq-*-x86_64-unknown-linux-gnu.tar.gz
           extract: true
 
-      - name: Get trunk API config
-        id: get-trunk-token
-        run: |
-          trunk_api=$(./mq config trunk.api)
-          echo "api_url=https://${trunk_api}:443/v1/setImpactedTargets" >> $GITHUB_OUTPUT
-          if [ "$trunk_api" = "api.trunk.io" ]; then
-            echo "token=${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}" >> $GITHUB_OUTPUT
-          else
-            echo "token=${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}" >> $GITHUB_OUTPUT
-          fi
-
       - name: run mq
         id: edits
         run:
           ./mq generate --gh-token=${{ secrets.ELI_MERGEDEMO }} --gh-token=${{ secrets.SAM_MERGEDEMO
           }} --gh-token=${{ secrets.ROBERT_MERGEDEMO }} --gh-token=${{ secrets.PHIL_MERGEDEMO }}
-          --trunk-token=${{ steps.get-trunk-token.outputs.token }}
         env:
-          TRUNK_TOKEN: ${{ steps.get-trunk-token.outputs.token }}
+          # used by tools/gh_enqueue.sh (merge.run) to add each PR to the GitHub merge queue
+          GH_TOKEN: ${{ secrets.ELI_MERGEDEMO }}
 
       - name: run mq
         if: always()
         id: clean
         run:
           ./mq housekeeping --gh-token=${{ secrets.ELI_MERGEDEMO }} --gh-token=${{
-          secrets.SAM_MERGEDEMO }} --trunk-token=${{ steps.get-trunk-token.outputs.token }}
+          secrets.SAM_MERGEDEMO }}
+
+      # GitHub merge queue removes failed PRs without a comment, so mq housekeeping (which matches
+      # Trunk's "removed from the merge queue" comment) never sees them. Close PRs that are out of
+      # the queue with auto-merge off once they are older than pullrequest.close_stale_after.
+      - name: close PRs dropped from the merge queue
+        if: always()
+        run: |
+          cutoff=$(date -u -d "$(./mq config pullrequest.close_stale_after) ago" +%Y-%m-%dT%H:%M:%SZ)
+          gh pr list --state open --limit 1000 --json number,createdAt,isInMergeQueue,autoMergeRequest \
+            --jq ".[] | select(.isInMergeQueue == false and .autoMergeRequest == null and .createdAt < \"${cutoff}\") | .number" |
+            while read -r pr; do
+              gh pr close "${pr}" --comment "Closed: dropped from the GitHub merge queue and stale"
+            done
         env:
-          TRUNK_TOKEN: ${{ steps.get-trunk-token.outputs.token }}
+          GH_TOKEN: ${{ secrets.ELI_MERGEDEMO }}

@@ -1,8 +1,8 @@
-mode = "parallelqueue"
-build = "turbo"
-
-[trunk]
-api = "api.trunk.io"
+# GitHub merge queue comparison repo. Load and Bazel tuning mirror merge-demo/mergequeue-bazel so the
+# two queues see the same traffic; only the queue differs.
+# singlequeue: GitHub merge queue has no impacted-targets API, so nothing is uploaded to Trunk.
+mode = "singlequeue"
+build = "bazel"
 
 [git]
 name = "trunk bot"
@@ -11,21 +11,21 @@ email = "bot@trunk.io"
 [test]
 flake_rate = 0.01
 # how long test should spin for (can be described as 10s, 7m, 1hr)
-sleep_for = "25m"
+sleep_for = "8m"
 
 [pullrequest]
 labels = ""                     # label to apply to pull request on creation (comma separated list)
 comment = ""
-requests_per_hour = 70          # target number of pull requests per hour
-run_generate_for = "60 minutes"
-change_code_path = "turbo"
+requests_per_hour = 60          # target number of pull requests per hour
+run_generate_for = "50 minutes"
+change_code_path = "bazel"
 
 # how to distribute changes of impacted deps
-# 75% - 1 dep change
-# 15% - 2 dep change
+# 55% - 1 dep change
+# 35% - 2 dep change
 # 9%  - 3 deps
 # 1% - ALL will be specified
-deps_distribution = "0.75x1,0.15x2,0.09x3,0.01xALL"
+deps_distribution = "0.55x1,0.35x2,0.09x3,0.01xALL"
 
 # rate at which PRs should simulate a logical merge conflict and need to be rejected
 logical_conflict_every = 100
@@ -34,8 +34,6 @@ logical_conflict_file = "logical-conflict.txt"
 close_stale_after = "48 hours"
 
 [merge]
-# trigger = "api"
-# label to apply to pull request to queue
-labels = ""
-# comment to post to queue
-comment = "/trunk merge"
+# enqueue into the GitHub merge queue with `gh pr merge --auto` (see tools/gh_enqueue.sh)
+trigger = "run"
+run = "tools/gh_enqueue.sh {{PR_NUMBER}}"
