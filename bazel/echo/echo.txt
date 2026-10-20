@@ -4622,7 +4622,7 @@ erethizontidae
 epilimnion
 echevin
 exeunt
-elucubrate
+elucubrate 1
 excellent
 exarchs
 egotists
