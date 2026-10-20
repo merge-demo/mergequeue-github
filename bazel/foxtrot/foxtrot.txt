@@ -8996,7 +8996,7 @@ flagellates
 foelike
 feature
 foursquareness
-faustian
+faustian 1
 fourteener
 frangibleness
 fourteenths
