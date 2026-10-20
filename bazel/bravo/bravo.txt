@@ -6190,7 +6190,7 @@ benet
 brazas
 beneventan
 bibliography
-bijugous
+bijugous 1
 benevolency
 bengalese
 batavian
