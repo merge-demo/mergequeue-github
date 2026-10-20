@@ -11167,7 +11167,7 @@ expatriation
 embroiderer
 exiguousness
 ensiform
-ectatic
+ectatic 1
 evacuator
 evaded
 echinoidea
