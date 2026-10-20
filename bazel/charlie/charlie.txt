@@ -15924,7 +15924,7 @@ cakemaker
 comitant
 countertrippant
 cleanly
-cleped
+cleped 1
 clepsydra
 contorniate
 clepsine
