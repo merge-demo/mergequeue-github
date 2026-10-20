@@ -2960,7 +2960,7 @@ encamped
 eliminant
 ennoblers
 ethid
-externalising
+externalising 1
 elicitors
 eloined 1
 endonuclear
