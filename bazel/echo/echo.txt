@@ -1374,7 +1374,7 @@ examinative
 efficacy
 envying
 ethene
-efficacies
+efficacies 1
 endochylous
 exhortation
 eleutherodactyli
