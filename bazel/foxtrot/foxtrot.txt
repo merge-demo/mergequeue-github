@@ -8659,7 +8659,7 @@ flaunt
 flawed
 fillebeg
 fumistery
-foretastes
+foretastes 1
 filicoids
 flanched
 folkboat

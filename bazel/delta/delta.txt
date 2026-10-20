@@ -488,7 +488,7 @@ dame
 deveining
 declivous
 decistere
-doctrinarian
+doctrinarian 1
 distilling
 dogs
 dalesfolk
