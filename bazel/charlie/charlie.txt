@@ -11851,7 +11851,7 @@ cagn
 choragi
 choragic
 coxalgia
-choragion
+choragion 1
 choristers
 calashes
 chorai
