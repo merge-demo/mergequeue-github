@@ -1735,7 +1735,7 @@ euroclydon
 eliding
 eyelessness
 epikia
-exert
+exert 1
 ecdemic
 eyelet
 empaled
