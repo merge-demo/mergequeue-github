@@ -10662,7 +10662,7 @@ calci
 cavies
 caribou
 cytoplasmic
-chimes
+chimes 1
 chymes
 caseoses
 ctenophorous
