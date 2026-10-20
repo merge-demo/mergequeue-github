@@ -14653,7 +14653,7 @@ atle
 antianaphylaxis
 autoparasitism
 anakinetomer
-artinesses
+artinesses 1
 antianarchic
 antiangular
 antiannexation
