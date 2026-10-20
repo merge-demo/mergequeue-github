@@ -7809,7 +7809,7 @@ endaze
 excyst
 electromagnetize
 extrudable
-envisage
+envisage 1
 ethnobotany
 endearedly
 eburnean
