@@ -13058,7 +13058,7 @@ barf
 blizzard
 borecoles
 buddhic
-bored
+bored 1
 borsches
 boehmenist
 boreen
