@@ -3338,7 +3338,7 @@ batocrinus
 beal
 bromargyrite
 basketwork
-beggiatoaceous
+beggiatoaceous 1
 blueballs
 baskish
 basnat
