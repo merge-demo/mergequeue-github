@@ -6501,7 +6501,7 @@ amebula
 ahir
 alternant
 autunian
-affiancing
+affiancing 1
 animalian
 anthemed
 ahmed
