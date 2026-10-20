@@ -9375,7 +9375,7 @@ drooling
 dockages
 demonstrance
 dunlin
-depulse
+depulse 1
 dottels
 demasted
 dentirostres
