@@ -12311,7 +12311,7 @@ demigrate
 desynchronize
 diphosphate
 diaconia
-delineates
+delineates 1
 daredevilism
 dormy
 dictynidae
