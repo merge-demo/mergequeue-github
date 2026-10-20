@@ -8932,7 +8932,7 @@ foragers
 flu
 fountain
 fragged
-fossicker
+fossicker 1
 flueman
 filosus
 faultfinder
