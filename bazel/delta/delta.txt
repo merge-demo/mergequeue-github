@@ -6942,7 +6942,7 @@ despecialization
 disembarrassed
 dispute
 domineer
-despecialize
+despecialize 1
 despecificate
 despecification
 desperado
