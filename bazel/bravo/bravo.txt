@@ -10131,7 +10131,7 @@ bromising
 bonhomous
 biopsychologies
 battue
-beatitudes
+beatitudes 1
 browsers
 blackcaps
 bejeweled
