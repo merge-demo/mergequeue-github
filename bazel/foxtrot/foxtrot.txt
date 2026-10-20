@@ -652,7 +652,7 @@ fimetic
 farrand
 featherbedding
 formulates
-farnesol
+farnesol 1
 fluotitanic
 fames
 fuddled
