@@ -10675,7 +10675,7 @@ excitory
 endocytosis
 estragon
 easternism
-eugenically
+eugenically 1
 eugenie
 eugenism
 epikouros
