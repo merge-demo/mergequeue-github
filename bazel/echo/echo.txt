@@ -3688,7 +3688,7 @@ everywheres
 enchytrae
 entrancer
 envenom
-eternised
+eternised 1
 exergues
 embryological
 endocoeliac

@@ -14137,7 +14137,7 @@ disanimate
 diol
 desacralize
 diapason
-disulfiram
+disulfiram 1
 doyst
 disulfonic
 dispread
