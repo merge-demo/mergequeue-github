@@ -3009,7 +3009,7 @@ cantline
 cantling
 canto
 confederatism
-cortege
+cortege 1
 colander
 cantonal
 cantonalism
