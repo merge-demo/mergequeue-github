@@ -10535,7 +10535,7 @@ gonal
 gunfights
 ghillie
 griffinhood
-gossipingly
+gossipingly 1
 gudesakes
 gentamicin
 gunge
