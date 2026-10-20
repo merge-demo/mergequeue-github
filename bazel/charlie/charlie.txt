@@ -16302,7 +16302,7 @@ caraco
 clypeated
 clypeiform
 clypeola
-clypeolar
+clypeolar 1
 clypeus
 cyanomethaemoglobin
 clipped
