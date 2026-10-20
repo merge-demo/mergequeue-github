@@ -6603,7 +6603,7 @@ guesswork
 gonycampsis
 gastrohyperneuria
 guerillas
-galeass
+galeass 1
 grenadiers
 gigolos
 graphalloy
