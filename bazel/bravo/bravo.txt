@@ -8833,7 +8833,7 @@ bombycids
 bedchamber
 bible
 binotonous
-bedeck
+bedeck 1
 brachystaphylic
 boilerman
 blackfishes
