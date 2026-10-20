@@ -6963,7 +6963,7 @@ entrain
 enantiomorphy
 elicitate
 embrocado
-entraining
+entraining 1
 earwig
 entrainment
 entrains
