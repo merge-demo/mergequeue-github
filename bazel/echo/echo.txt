@@ -5443,7 +5443,7 @@ ectene
 excantation
 earthtongue
 endpoints
-endrudge
+endrudge 1
 extrabulbar
 ecderonic
 endseal
