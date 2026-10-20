@@ -24418,7 +24418,7 @@ cooped
 cooperage
 cooperate
 cooperated
-cooperates
+cooperates 1
 carapaxes
 caracals
 crusadoes
