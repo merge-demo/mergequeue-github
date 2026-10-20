@@ -6329,7 +6329,7 @@ balandra
 bibs
 benzanthrone
 bifarious
-bipolarize
+bipolarize 1
 begalling
 begrace
 buffalofishes
