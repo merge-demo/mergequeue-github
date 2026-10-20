@@ -11622,7 +11622,7 @@ fibrous
 fylgja
 fosite
 funestal
-finestiller
+finestiller 1
 forehew
 fustigatory
 fumy
