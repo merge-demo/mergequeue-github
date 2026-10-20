@@ -10511,7 +10511,7 @@ fumelike
 firetail
 farandman
 frousty
-frouzy
+frouzy 1
 flirtiest
 fazendas
 frouziest

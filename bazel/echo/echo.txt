@@ -4721,7 +4721,7 @@ esthematology
 epanaphora
 electroencephalographs
 enmuffle
-entrammel
+entrammel 1
 ensuance
 englishism
 enciphering
