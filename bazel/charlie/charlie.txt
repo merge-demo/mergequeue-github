@@ -2511,7 +2511,7 @@ cantorial
 countermands
 coasters
 candies
-candying
+candying 1
 candymaker
 cardiophobe
 candymaking
