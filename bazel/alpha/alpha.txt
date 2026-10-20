@@ -5281,7 +5281,7 @@ affinitive
 affirmable
 asiaticism
 affirmably
-aplysia
+aplysia 1
 achaetous
 anchor
 arnica
