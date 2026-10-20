@@ -1483,7 +1483,7 @@ bespottedness
 beglad
 bathyhyperesthesia
 bemadamed
-boser
+boser 1
 bacteremia
 borstal
 bistable
