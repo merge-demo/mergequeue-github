@@ -5368,7 +5368,7 @@ diageotropism
 dentil
 discussional
 dentiled
-dimin
+dimin 1
 delivery
 disappropriation
 dipmeter
