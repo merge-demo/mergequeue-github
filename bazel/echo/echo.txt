@@ -12680,7 +12680,7 @@ extrapolation
 exomphalos
 erotogenic 1
 effrontery
-excrementary
+excrementary 1
 entame
 echoisms
 epicotyledonary
