@@ -14624,7 +14624,7 @@ divulged
 diminuted
 drivelling
 despite
-dyslalia
+dyslalia 1
 divulger
 dianodal
 derisible
