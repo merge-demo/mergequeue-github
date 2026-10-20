@@ -7963,7 +7963,7 @@ fumatoriums
 fibrinogenous
 fitness
 freestones
-foreshow
+foreshow 1
 flatfoot
 fistulous
 flajolotite

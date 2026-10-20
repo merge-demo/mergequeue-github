@@ -5319,7 +5319,7 @@ gangmaster
 gasify
 glycyrrhizin
 gimps
-glycogenolytic
+glycogenolytic 1
 gangsters
 gammaroid
 goodman 1
