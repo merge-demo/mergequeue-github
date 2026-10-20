@@ -1602,7 +1602,7 @@ faffle
 funambulo
 functionating
 fallalery
-faniente
+faniente 1
 favouring
 footroom
 floriage
