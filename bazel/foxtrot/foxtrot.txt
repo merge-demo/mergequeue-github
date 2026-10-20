@@ -5711,7 +5711,7 @@ foremilks
 flyproof
 flush
 flavins
-flirt
+flirt 1
 fixatif
 footed
 flirtatiously
