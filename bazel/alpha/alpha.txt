@@ -6260,7 +6260,7 @@ achoo
 antiracing
 agorot
 abearance
-agos
+agos 1
 afteryears
 anteprostatic
 analogion
