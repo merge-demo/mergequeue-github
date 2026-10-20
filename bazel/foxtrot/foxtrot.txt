@@ -2866,7 +2866,7 @@ fungid
 familistery
 fortuned
 fameflower
-fettered
+fettered 1
 frowstiness
 foozle
 flouter
