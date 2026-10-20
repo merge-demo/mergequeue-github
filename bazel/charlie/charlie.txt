@@ -20402,7 +20402,7 @@ conjurison
 calycanthemous
 compadres
 compage
-compagnies
+compagnies 1
 cresols
 condonative
 concamerate
