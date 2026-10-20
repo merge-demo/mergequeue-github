@@ -14113,7 +14113,7 @@ enthralls
 exhortatively
 emplastrum
 exposers
-extroitive
+extroitive 1
 extremist
 extrorse
 extrospect
