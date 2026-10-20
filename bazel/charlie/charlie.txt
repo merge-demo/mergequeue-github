@@ -10921,7 +10921,7 @@ chirogymnast
 cautel
 cornu
 chirognomy
-cerement
+cerement 1
 chirognomic
 chirognomically
 chuppahs
