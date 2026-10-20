@@ -22275,7 +22275,7 @@ alkalinuria
 astragalocentral
 adz
 aponia
-aurated
+aurated 1
 alcibiades
 antiquates
 astragalomancy
