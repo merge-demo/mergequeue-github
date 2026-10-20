@@ -10288,7 +10288,7 @@ corometer
 charlies
 calctuffs
 chichling
-chick
+chick 1
 chelidosaurus
 chickabiddy
 chemosorb
