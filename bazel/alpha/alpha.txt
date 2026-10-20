@@ -10493,7 +10493,7 @@ absolutistically
 amicronucleate
 aubaine
 anomite
-affirmly
+affirmly 1
 assertorily
 amidation
 aliofar
