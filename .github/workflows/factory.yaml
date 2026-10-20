@@ -49,14 +49,24 @@ jobs:
           secrets.SAM_MERGEDEMO }}
 
       # GitHub merge queue removes failed PRs without a comment, so mq housekeeping (which matches
-      # Trunk's "removed from the merge queue" comment) never sees them. Close PRs that are out of
-      # the queue with auto-merge off once they are older than pullrequest.close_stale_after.
+      # Trunk's "removed from the merge queue" comment) never sees them. Close PRs that are neither
+      # in the queue nor waiting on auto-merge once they are older than pullrequest.close_stale_after.
+      # isInMergeQueue is GraphQL-only (not in `gh pr list --json`), and a queued PR has no
+      # autoMergeRequest, so both are needed.
       - name: close PRs dropped from the merge queue
         if: always()
         run: |
           cutoff=$(date -u -d "$(./mq config pullrequest.close_stale_after) ago" +%Y-%m-%dT%H:%M:%SZ)
-          gh pr list --state open --limit 1000 --json number,createdAt,isInMergeQueue,autoMergeRequest \
-            --jq ".[] | select(.isInMergeQueue == false and .autoMergeRequest == null and .createdAt < \"${cutoff}\") | .number" |
+          gh api graphql --paginate -F owner="${GITHUB_REPOSITORY_OWNER}" -F repo="${GITHUB_REPOSITORY#*/}" \
+            -f query='query($owner: String!, $repo: String!, $endCursor: String) {
+              repository(owner: $owner, name: $repo) {
+                pullRequests(states: OPEN, first: 100, after: $endCursor) {
+                  pageInfo { hasNextPage endCursor }
+                  nodes { number createdAt isInMergeQueue autoMergeRequest { enabledAt } }
+                }
+              }
+            }' \
+            --jq ".data.repository.pullRequests.nodes[] | select(.isInMergeQueue == false and .autoMergeRequest == null and .createdAt < \"${cutoff}\") | .number" |
             while read -r pr; do
               gh pr close "${pr}" --comment "Closed: dropped from the GitHub merge queue and stale"
             done
