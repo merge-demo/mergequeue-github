@@ -1303,7 +1303,7 @@ balanta
 bescorn
 bottine
 balantidic
-balaos
+balaos 1
 baroquely
 benzamino
 barbed
