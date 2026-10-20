@@ -17066,7 +17066,7 @@ divisory
 diaconus
 dismally
 diclinies
-diaplexus
+diaplexus 1
 datacell
 dimensional
 disaffected
