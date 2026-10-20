@@ -472,7 +472,7 @@ expostulated
 empasm
 envelopers
 exody
-extended
+extended 1
 etesians
 endoconidium
 extorsion
