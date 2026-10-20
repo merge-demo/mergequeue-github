@@ -2357,7 +2357,7 @@ floaters
 flunked
 friarly
 funerary
-favel
+favel 1
 femineity
 frightener
 fanhouse
