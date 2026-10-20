@@ -14192,7 +14192,7 @@ deathful
 disuse
 desquamate
 disbranching
-diapensiaceous
+diapensiaceous 1
 disuses
 disutility
 disutilize
