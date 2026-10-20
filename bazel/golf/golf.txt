@@ -8957,7 +8957,7 @@ gothicity
 gall
 genuclast
 genteel
-getae
+getae 1
 gallicola
 grizzlyman
 greenth
