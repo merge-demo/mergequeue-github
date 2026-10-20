@@ -2999,7 +2999,7 @@ cantily
 codenization
 cantina
 canting
-cantingly
+cantingly 1
 cousins
 cantingness
 clairschach
