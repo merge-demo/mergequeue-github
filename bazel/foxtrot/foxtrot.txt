@@ -4368,7 +4368,7 @@ foreacquaint
 fencer
 fuliginously
 fise
-forb
+forb 1
 furosemide
 fisetin
 focuser
