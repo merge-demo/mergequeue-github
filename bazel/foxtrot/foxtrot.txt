@@ -5888,7 +5888,7 @@ forehear
 ferrichloride
 furnishings
 flocculent
-flushes
+flushes 1
 flaxier
 flocker
 filaree
