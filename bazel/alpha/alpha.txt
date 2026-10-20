@@ -9960,7 +9960,7 @@ amazulu
 aphthongal
 abayah
 antaranga
-abele
+abele 1
 abluents
 activator
 authenticities
