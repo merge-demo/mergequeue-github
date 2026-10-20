@@ -235,7 +235,7 @@ dorsula
 displanting
 diff
 discrepencies
-duotoned
+duotoned 1
 discorrespondency
 distrest
 dottore
