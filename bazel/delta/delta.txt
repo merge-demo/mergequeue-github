@@ -3523,7 +3523,7 @@ deformation
 deflections
 delete
 deformations
-deformedly
+deformedly 1
 dandily
 downfold
 deuterostomata
