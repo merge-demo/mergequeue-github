@@ -3124,7 +3124,7 @@ actinotrichium
 actinozoa
 actinozoan
 actins
-abstractness
+abstractness 1
 archigonocyte
 ascendance
 antimonous
