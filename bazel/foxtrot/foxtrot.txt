@@ -6074,7 +6074,7 @@ faba
 funicule
 flavoring
 floristically
-feringhee
+feringhee 1
 ferrivorous
 funker
 fizzling
