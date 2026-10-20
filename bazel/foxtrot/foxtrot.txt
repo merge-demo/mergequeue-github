@@ -691,7 +691,7 @@ fanweed
 fanatico
 fleshlike
 forzandos
-fobs
+fobs 1
 familism
 firebolted
 farmstead
