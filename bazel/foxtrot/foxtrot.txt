@@ -2046,7 +2046,7 @@ fireboat
 flindosa
 forwander
 flatlander
-faunlike
+faunlike 1
 fogbows
 fascicule
 flaunting

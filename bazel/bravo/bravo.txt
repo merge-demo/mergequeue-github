@@ -10253,7 +10253,7 @@ boracic
 blacksmithing
 biochemy
 beastdom
-botargo
+botargo 1
 boyang
 biflorous
 beehead
