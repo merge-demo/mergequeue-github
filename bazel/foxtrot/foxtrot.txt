@@ -2738,7 +2738,7 @@ framing
 feedy
 fedity
 fascis
-foliolate
+foliolate 1
 fiercer
 fragmentarily
 fellinic
