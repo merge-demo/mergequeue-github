@@ -19380,7 +19380,7 @@ agio
 argent
 argentamid
 amadi
-astasias
+astasias 1
 aerocar
 abysms
 argentines
