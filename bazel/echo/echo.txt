@@ -2305,7 +2305,7 @@ etnas
 espressos
 exurbias
 endocrania
-edana
+edana 1
 expert
 essene
 entheal
