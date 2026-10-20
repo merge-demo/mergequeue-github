@@ -13706,7 +13706,7 @@ expiatist
 ermanaric
 enfasten
 epiplasm
-equiaxe
+equiaxe 1
 ergocalciferol
 externs
 endothelioblastoma
