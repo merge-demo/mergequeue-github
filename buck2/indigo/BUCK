@@ -1,0 +1,5 @@
+filegroup(
+    name = "indigo",
+    srcs = glob(["**/*.txt"]),
+    visibility = ["PUBLIC"],
+)

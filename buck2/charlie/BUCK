@@ -1,0 +1,5 @@
+filegroup(
+    name = "charlie",
+    srcs = glob(["**/*.txt"]),
+    visibility = ["PUBLIC"],
+)
