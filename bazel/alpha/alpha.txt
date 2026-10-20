@@ -8269,7 +8269,7 @@ antisera
 antisiccative
 athermous
 avenges
-alienigenate
+alienigenate 1
 acetannin
 augmentative
 acquent
