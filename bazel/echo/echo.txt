@@ -6566,7 +6566,7 @@ emiction
 endothelioma
 eclectic
 engroove
-entelechies
+entelechies 1
 entomologic
 engorging
 entendre
