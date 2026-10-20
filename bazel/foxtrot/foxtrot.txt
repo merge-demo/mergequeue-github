@@ -191,7 +191,7 @@ flier
 factorable
 flimsies
 forcut
-finitary
+finitary 1
 factoryship 1
 floatiness
 fraudulence
