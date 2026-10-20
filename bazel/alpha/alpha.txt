@@ -1473,7 +1473,7 @@ acclinal
 adhesivemeter
 arhythmical
 autopolyploidy
-acclinate
+acclinate 1
 amidocyanogen
 admittatur
 acclivities
