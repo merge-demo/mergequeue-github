@@ -6088,7 +6088,7 @@ disarmers
 disgraded
 disannulling
 disintegrant
-diastasic
+diastasic 1
 dysmenorrhoea
 dream
 dactyliographic
