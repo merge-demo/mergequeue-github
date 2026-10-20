@@ -2567,7 +2567,7 @@ dorsocephalic
 distiller
 declensionally
 declensions
-decretist
+decretist 1
 declimatize
 driblets
 declinational
