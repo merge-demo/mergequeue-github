@@ -9638,7 +9638,7 @@ flotations
 freers
 farthest
 foresign
-fecklessly
+fecklessly 1
 feliform
 fulcrumage
 flabrum
