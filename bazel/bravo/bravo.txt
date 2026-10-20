@@ -33,7 +33,7 @@ beatificate
 berline
 babbittry
 biplosion
-banally
+banally 1
 brachydomal
 bodleian
 brutalizes
