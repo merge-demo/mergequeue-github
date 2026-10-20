@@ -11244,7 +11244,7 @@ cokery
 codettas
 canaut
 chloridellidae
-chlorides
+chlorides 1
 covers
 chloridic
 chloridized
