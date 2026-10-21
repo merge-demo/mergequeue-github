@@ -3678,7 +3678,7 @@ eunomy
 extravert
 encolpion
 exomion
-excogitates
+excogitates 1
 engarment
 emaciated
 erythrons
