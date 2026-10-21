@@ -22034,7 +22034,7 @@ carf
 conflagration
 conflagrations
 climatologists
-conflagrative
+conflagrative 1
 cokey
 conflagratory
 curtseys
