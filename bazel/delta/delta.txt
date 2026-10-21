@@ -8715,7 +8715,7 @@ distort
 dichrooscopic
 dodecylene
 disenfranchisements
-dorsonuchal
+dorsonuchal 1
 diathermy
 decastere
 demonstrate
