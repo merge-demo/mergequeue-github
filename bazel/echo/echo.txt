@@ -12097,7 +12097,7 @@ expostulation
 extollingly
 erepsin
 escuage
-enflames
+enflames 1
 exploit
 editress
 echinologist
