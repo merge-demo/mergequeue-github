@@ -307,7 +307,7 @@ depolarized
 dayanim
 daybeacon
 dealbate
-daybed
+daybed 1
 devchar
 disembowelment
 disgruntling
