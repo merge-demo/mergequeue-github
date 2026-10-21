@@ -10633,7 +10633,7 @@ girns
 grillades
 gambette
 greenly
-gossipries
+gossipries 1
 gaylies
 gyascutus
 gerontologies
