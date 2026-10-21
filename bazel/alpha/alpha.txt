@@ -7683,7 +7683,7 @@ alcoholysis
 albatrosses
 aguinaldos
 aspirins
-aphorised
+aphorised 1
 amassed
 antepyretic
 ambigenous
