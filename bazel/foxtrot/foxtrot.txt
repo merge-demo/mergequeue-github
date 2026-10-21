@@ -8037,7 +8037,7 @@ faroese
 footstools
 felsites
 ferroalloy
-faunally
+faunally 1
 fanfoot
 fieldie
 favoured
