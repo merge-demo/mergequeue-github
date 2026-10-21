@@ -10043,7 +10043,7 @@ afrasia
 acquaints
 antagonizes
 ambisinister
-amblypodous
+amblypodous 1
 ambit 1
 apriority
 ambital
