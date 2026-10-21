@@ -10248,7 +10248,7 @@ dermoosseous
 dayshine
 destry
 dinotherian
-dins
+dins 1
 defenestrate
 dinted
 dintless
