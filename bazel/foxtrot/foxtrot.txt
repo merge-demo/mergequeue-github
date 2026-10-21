@@ -10510,7 +10510,7 @@ fascicularly
 fumelike
 firetail
 farandman
-frousty
+frousty 1
 frouzy
 flirtiest
 fazendas
