@@ -5338,7 +5338,7 @@ adenophthalmia
 aluminosity
 authorizations
 allmouth
-aspheterism
+aspheterism 1
 avadavats
 agrionidae
 affloof
