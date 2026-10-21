@@ -4207,7 +4207,7 @@ emprises
 epinastically
 emprison
 euphausiid
-emulgent
+emulgent 1
 emprosthotonic
 electrothanatosis
 effeteness
