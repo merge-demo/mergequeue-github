@@ -6500,7 +6500,7 @@ dentellated
 disqualification
 delignated 1
 disomatous
-descendent
+descendent 1
 dolichosoma
 dunged
 diadromous
