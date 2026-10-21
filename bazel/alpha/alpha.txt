@@ -14444,7 +14444,7 @@ anthrahydroquinone
 androgynism
 anthramine
 aphesis
-anthranyl
+anthranyl 1
 afterswarming
 adrue
 anthranilic
