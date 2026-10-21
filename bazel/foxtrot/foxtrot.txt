@@ -10940,7 +10940,7 @@ fess
 fulnesses 1
 flanconade
 forgetness
-feuded
+feuded 1
 furfuran 1
 forewit
 foreseing
