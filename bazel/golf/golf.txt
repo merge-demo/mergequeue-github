@@ -6732,7 +6732,7 @@ gonidic
 genes
 gauges
 gyrostats
-glomerate
+glomerate 1
 globulimeter
 geyseral
 gurdfish
