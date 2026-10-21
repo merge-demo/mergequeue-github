@@ -14335,7 +14335,7 @@ dittographic
 dutcher
 ditrochean
 dynastical
-deign
+deign 1
 deanship
 desoxyribose
 dishallucination
