@@ -1614,7 +1614,7 @@ fraischeur
 funfair
 favoredly
 fawned
-fretize
+fretize 1
 fleaseed
 fellmongery
 fawners
