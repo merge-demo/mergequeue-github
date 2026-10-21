@@ -5629,7 +5629,7 @@ fuci
 flyless
 forbearingly
 fuddle
-fulgurata
+fulgurata 1
 foxite 1
 firetop
 flimflamming
