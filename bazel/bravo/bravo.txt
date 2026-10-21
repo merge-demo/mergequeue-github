@@ -5155,7 +5155,7 @@ bootmaker
 befouling
 bazookas
 befoulment
-biacuminate
+biacuminate 1
 befraught
 befreight
 befountained
