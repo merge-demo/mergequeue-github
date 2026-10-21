@@ -9481,7 +9481,7 @@ fraudulentness
 ferreting
 frauen
 fideicommissumissa
-friseur
+friseur 1
 financed
 fishwoman
 facinorous
