@@ -20159,7 +20159,7 @@ commissurotomies
 commit
 commitment
 clavecinist
-curiouser
+curiouser 1
 commitments
 commits
 calycoid
