@@ -4305,7 +4305,7 @@ gynecophorous
 gynecratic
 gelidness
 gorgonia
-gyneolater
+gyneolater 1
 guinfo
 gelsemia 1
 germicide
