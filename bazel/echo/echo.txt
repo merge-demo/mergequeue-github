@@ -10301,7 +10301,7 @@ ethmopalatal
 ectases
 epiphyllous
 ensignment
-ethnicist
+ethnicist 1
 endymal
 elingued
 erasable
