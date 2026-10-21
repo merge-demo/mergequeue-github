@@ -50,7 +50,7 @@ brushable
 babbit
 baton
 botrytises
-barberish
+barberish 1
 beebreads
 babblings
 beauclerk
