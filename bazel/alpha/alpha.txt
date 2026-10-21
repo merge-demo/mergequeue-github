@@ -19785,7 +19785,7 @@ astrocyte
 arythmically
 aminolytic
 armado
-amphicyonidae
+amphicyonidae 1
 acrodermatitis
 airplanes
 alteratively
