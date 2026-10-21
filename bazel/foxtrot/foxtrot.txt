@@ -9772,7 +9772,7 @@ fencers
 frescoed
 fraxinella
 fresheners
-freshening
+freshening 1
 freshets
 finals
 falcula
