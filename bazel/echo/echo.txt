@@ -4167,7 +4167,7 @@ encaustes
 exporter
 elaeosia
 engraphy
-eyeroot
+eyeroot 1
 escaloped
 echiurida
 enacted
