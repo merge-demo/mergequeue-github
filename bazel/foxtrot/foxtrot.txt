@@ -5246,7 +5246,7 @@ fortemente
 fratcher
 flavoriness
 falangist
-faveoli
+faveoli 1
 fitful
 fierceness
 fishmen
