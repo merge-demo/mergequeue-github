@@ -10765,7 +10765,7 @@ alterableness
 amitate
 antighostism
 abandonments
-anteinitial
+anteinitial 1
 amities
 amitotic
 azotizes
