@@ -6434,7 +6434,7 @@ gobiesocid
 geostrophic
 gymnocladus
 grows
-gentlemanliness
+gentlemanliness 1
 gocart
 giddypate
 girnie
