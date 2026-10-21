@@ -8150,7 +8150,7 @@ excursed
 epithermal
 elleck
 eliminative 1
-elmy
+elmy 1
 eclectically
 erudit
 echeveria
