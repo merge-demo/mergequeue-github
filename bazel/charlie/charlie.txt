@@ -10913,7 +10913,7 @@ contrariety
 chlorotrifluoroethylene
 chirmed
 chirming
-chirms
+chirms 1
 crumena
 chirocosmetics
 chirogale
