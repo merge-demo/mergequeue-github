@@ -2120,7 +2120,7 @@ eurycephalous
 edenite
 exudes
 emberiza
-effete
+effete 1
 eberthella
 electrography
 ethicized
