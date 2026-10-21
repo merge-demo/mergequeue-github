@@ -6224,7 +6224,7 @@ fairgrounds
 forlana
 fatlings
 fargoing
-floccules
+floccules 1
 focusable
 fascinative
 formwork
