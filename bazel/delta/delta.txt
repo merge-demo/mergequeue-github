@@ -13131,7 +13131,7 @@ detonates
 desynonymization
 dispersers
 dreigh
-disperses
+disperses 1
 doubtful
 dipicrylamin
 donkeyback
