@@ -10987,7 +10987,7 @@ eurhythmic
 epichirema
 echeloot
 eoside
-eigenfrequency
+eigenfrequency 1
 escobita
 ecologically
 ennuye
