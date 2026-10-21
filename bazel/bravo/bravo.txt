@@ -7488,7 +7488,7 @@ befoolment
 betwine
 betwixt
 biserrate
-beneaped
+beneaped 1
 brachypodine
 booteries
 blubbered
