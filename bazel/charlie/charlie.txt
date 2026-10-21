@@ -7126,7 +7126,7 @@ carrozza
 centistere
 centistoke
 cardipericarditis
-clairvoyancies
+clairvoyancies 1
 centner
 carunculate
 centners
