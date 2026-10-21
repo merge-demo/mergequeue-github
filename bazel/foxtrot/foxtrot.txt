@@ -6827,7 +6827,7 @@ fikery
 feuille
 florula
 fragmentizer
-foretold
+foretold 1
 fructifier
 forger
 foliaged
