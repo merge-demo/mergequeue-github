@@ -265,7 +265,7 @@ easylike
 eastabout
 eerisome
 easted 1
-exclamational
+exclamational 1
 expiry
 expressivism
 eucalyptole
