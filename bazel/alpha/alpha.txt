@@ -25253,7 +25253,7 @@ allemontite
 adjudicate
 azygote
 armfuls
-antimonopolization
+antimonopolization 1
 actuaries
 amenity
 auriform
