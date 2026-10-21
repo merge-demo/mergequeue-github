@@ -26397,7 +26397,7 @@ cliffier
 coterminousness
 cotes
 cycloidian
-cerenkov
+cerenkov 1
 cothon
 cothouse
 cothurn
