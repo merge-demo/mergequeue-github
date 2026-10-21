@@ -13403,7 +13403,7 @@ extralinguistic
 eudaemonical
 empire 1
 earlship
-expressage
+expressage 1
 edgily
 edacities
 escalates
