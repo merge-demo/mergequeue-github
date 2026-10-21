@@ -2908,7 +2908,7 @@ epitheliomuscular
 elevenses
 eleventeenth
 eleventh
-evicts
+evicts 1
 excitation
 emplaning 1
 elevons
