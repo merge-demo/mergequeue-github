@@ -741,7 +741,7 @@ bifrost
 badiaga
 breathy
 boneshaw
-bannerman
+bannerman 1
 bushmanship
 badigeon
 beadsman
