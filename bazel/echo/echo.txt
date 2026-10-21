@@ -4064,7 +4064,7 @@ ex
 enringing
 evangelised
 encyclopaedism
-embroils
+embroils 1
 epitheca
 enamelers
 ecstasize
