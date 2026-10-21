@@ -10394,7 +10394,7 @@ garibaldian
 gidyea
 gangliocyte
 geshurites
-gayish
+gayish 1
 greypate
 generalisable
 graciousness
