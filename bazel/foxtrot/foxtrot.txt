@@ -1599,7 +1599,7 @@ fiddlebow
 forereaching
 floppies
 faffle
-funambulo
+funambulo 1
 functionating
 fallalery
 faniente
