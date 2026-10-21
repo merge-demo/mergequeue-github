@@ -16858,7 +16858,7 @@ clubland
 clubman
 cloveroot
 clubmate
-chiccory
+chiccory 1
 coexists
 crosswort
 clubroom
