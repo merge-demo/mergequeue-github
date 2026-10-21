@@ -12007,7 +12007,7 @@ epithermally
 excreation
 exclamatory
 exclaves
-excavational
+excavational 1
 expensed
 eryngium
 everyone
