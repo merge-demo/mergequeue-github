@@ -2679,7 +2679,7 @@ guaican
 glyconean
 goggled
 gymnodont
-genic
+genic 1
 gradgrindian
 georgians
 gooseweed
