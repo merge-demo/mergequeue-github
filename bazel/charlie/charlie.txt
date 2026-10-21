@@ -12532,7 +12532,7 @@ cadjan
 cranemen
 chromotypy
 cynegetics
-chromotypography
+chromotypography 1
 chromotypographic
 chromotropy
 chromotropic
