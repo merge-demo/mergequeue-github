@@ -15534,7 +15534,7 @@ disvalued
 derobe
 dispassionateness
 dement
-dewanny
+dewanny 1
 disuniformity
 doloriferous
 dedicatee
