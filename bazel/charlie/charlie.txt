@@ -9575,7 +9575,7 @@ commentating
 cheddites
 crooked
 cheders
-chedite
+chedite 1
 chee
 cheecha
 ciceronism
