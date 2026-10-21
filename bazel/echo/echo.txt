@@ -9046,7 +9046,7 @@ eperotesis
 epibranchial
 ectocyst
 erythrocytoblast 1
-explanate
+explanate 1
 epizooty
 ebbets
 equalize

@@ -25958,7 +25958,7 @@ coruco
 circuitousness
 chlamydoselachus
 corve
-cousiny
+cousiny 1
 corvees
 centered
 corven

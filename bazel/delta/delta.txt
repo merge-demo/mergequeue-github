@@ -989,7 +989,7 @@ drest
 darics
 devwsor
 darien
-disinclinations
+disinclinations 1
 dimmest
 deiform
 drupes
