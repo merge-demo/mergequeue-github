@@ -8919,7 +8919,7 @@ erichthoid
 ewder
 ergotoxine
 ergots
-evap
+evap 1
 erses
 egestive
 essive
