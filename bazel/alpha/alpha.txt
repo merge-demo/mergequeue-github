@@ -6089,7 +6089,7 @@ aminocaproic
 airproofed
 apothegmatic 1
 anostosis
-axumite
+axumite 1
 availment
 apogeny
 agitatorial

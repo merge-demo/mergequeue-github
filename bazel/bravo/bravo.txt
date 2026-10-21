@@ -17153,7 +17153,7 @@ broll
 bezaleel
 bombards
 bullyism
-bintangor
+bintangor 1
 brushmaking
 bullion
 balkanization
