@@ -10157,7 +10157,7 @@ exsomatic
 edgier
 emmove
 earlyish
-exhausts
+exhausts 1
 encroaching
 embroideress 1
 emeraldine
