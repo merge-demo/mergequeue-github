@@ -15672,7 +15672,7 @@ approvableness
 afrite
 alcedininae
 albify
-armpits
+armpits 1
 antioptionist
 abysm
 antiorthodoxy
