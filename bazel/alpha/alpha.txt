@@ -7912,7 +7912,7 @@ atropines
 annexitis
 abacas
 ascella
-afforestation
+afforestation 1
 appropriates
 alembic
 automatontons
