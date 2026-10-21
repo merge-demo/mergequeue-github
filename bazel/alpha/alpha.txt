@@ -10186,7 +10186,7 @@ ambulatorium
 ahepatokla
 avo
 acmaesthesia
-amburbial
+amburbial 1
 airframe
 anxiolytic
 aughtlins
