@@ -8295,7 +8295,7 @@ ecophobia
 erythrismal
 enroller
 eschynite
-embosoms
+embosoms 1
 epithalamize
 efractory
 equivalve
