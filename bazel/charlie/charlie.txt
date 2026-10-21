@@ -20568,7 +20568,7 @@ cherishable
 compensator
 compensatory
 cotillions
-compensators
+compensators 1
 compenser
 countree
 compere
