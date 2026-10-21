@@ -17127,7 +17127,7 @@ apogonid
 afterdrain
 acquirement
 apographic
-apographical
+apographical 1
 antibreakage
 autosensitization
 apoidea
