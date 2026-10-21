@@ -26839,7 +26839,7 @@ chilled
 counterfactually
 captivately
 counterfeisance
-counterfeit
+counterfeit 1
 counterfeitly
 captaculum
 cudava
