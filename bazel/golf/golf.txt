@@ -9394,7 +9394,7 @@ grosshead
 grossly
 grosso
 gowans
-gabriel
+gabriel 1
 grizzled
 genocide 1
 genesis
