@@ -5404,7 +5404,7 @@ graphometry
 groundswell
 generall
 glucosid
-gutwise
+gutwise 1
 glycaemic
 grimmer
 gremmy
