@@ -20369,7 +20369,7 @@ cybister
 comox
 cistae
 cuiejos
-compact
+compact 1
 coutures
 compactability
 communisteries
