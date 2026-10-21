@@ -22038,7 +22038,7 @@ astable
 astay
 anisometropic
 aegithognathism
-anaphylaxis
+anaphylaxis 1
 astare
 anaplerosis
 acetbromamide
