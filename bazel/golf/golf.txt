@@ -4138,7 +4138,7 @@ gangrenate
 guiltful
 gymnasic
 galeidae
-genitivally
+genitivally 1
 grapsidae
 gentilities
 grundy
