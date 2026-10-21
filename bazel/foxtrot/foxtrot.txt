@@ -5155,7 +5155,7 @@ fatigued
 flywheels
 fjords
 flatman
-foreseeingly
+foreseeingly 1
 formnail
 filtering
 frotteur
