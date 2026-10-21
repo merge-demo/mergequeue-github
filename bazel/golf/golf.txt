@@ -152,7 +152,7 @@ ghettoized
 glunimie
 galactosyl
 galvanosurgery
-gybe
+gybe 1
 glacialize
 graphorrhea
 guesthouse
