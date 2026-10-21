@@ -6623,7 +6623,7 @@ enseam
 egyptianism
 expulsatory
 enterocoela
-eructed
+eructed 1
 execrate
 epaleaceous 1
 easterliness
