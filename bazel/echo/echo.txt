@@ -12741,7 +12741,7 @@ elaeodochon
 esprove
 enthelminthes
 embryography
-exceeds
+exceeds 1
 exorbitation
 eloah
 epidemiologically
