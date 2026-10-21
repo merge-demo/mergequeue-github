@@ -7219,7 +7219,7 @@ erythropoietic
 electrotropic
 ephemeromorphic
 eupnoeas
-exudate
+exudate 1
 enthronize
 eyalet
 enzootics
