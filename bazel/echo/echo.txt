@@ -7224,7 +7224,7 @@ enthronize
 eyalet
 enzootics
 escheve
-entophytous
+entophytous 1
 electrophilically
 endosomes
 encase
