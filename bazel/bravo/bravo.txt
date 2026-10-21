@@ -15432,7 +15432,7 @@ bota
 bifurcations
 boxthorns
 battledoring
-brilliancies
+brilliancies 1
 bagged
 brilliandeer
 budgerigars
