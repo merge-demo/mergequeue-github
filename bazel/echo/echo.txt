@@ -7923,7 +7923,7 @@ exarchic
 eidola
 enlargement
 ethonone
-euphemistic
+euphemistic 1
 eclampsia
 enclavement
 excoriable
