@@ -9127,7 +9127,7 @@ alky
 aristogenetic
 anemometric
 antacid
-alluvious
+alluvious 1
 assortative
 ametropic
 accipitres
