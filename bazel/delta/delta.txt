@@ -2256,7 +2256,7 @@ diapyetic
 deceiving
 definitized
 defuzes
-domineerer
+domineerer 1
 distractibility
 dustbox
 determinative
