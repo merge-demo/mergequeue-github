@@ -6884,7 +6884,7 @@ flaggings
 figurist
 feline
 fatuous
-fornacic
+fornacic 1
 forebackwardly
 farmout
 farris
