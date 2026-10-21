@@ -2359,7 +2359,7 @@ friarly
 funerary
 favel
 femineity
-frightener
+frightener 1
 fanhouse
 feres
 floatstone
