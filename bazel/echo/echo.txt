@@ -2059,7 +2059,7 @@ erupts
 embitterments
 eunuchoidism
 echoencephalography
-encouragingly
+encouragingly 1
 elaic
 enteroplegia
 elaioplast
