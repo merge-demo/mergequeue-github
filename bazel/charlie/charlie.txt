@@ -31199,7 +31199,7 @@ cuprites
 cuproammonium
 cunningly
 coccygeus
-cuprobismutite
+cuprobismutite 1
 cryolite
 corrosive
 cuproiodargyrite
