@@ -12434,7 +12434,7 @@ conacre
 courtroom
 chromium
 chromiums
-chromize
+chromize 1
 crocard
 congoese
 chromizing
