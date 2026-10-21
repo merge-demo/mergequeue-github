@@ -7343,7 +7343,7 @@ dreariment
 daysman
 duecentos
 doctrinist
-doyen
+doyen 1
 deterrence
 disprejudice
 deterrent
