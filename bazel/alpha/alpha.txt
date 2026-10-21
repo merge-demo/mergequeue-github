@@ -14130,7 +14130,7 @@ antefixes
 acraturesis
 antennula
 agapae
-antiegoistically
+antiegoistically 1
 antenodal
 angelic
 antenumber
