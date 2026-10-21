@@ -9704,7 +9704,7 @@ alvearies
 advent
 alvearium
 alveolariform
-antitetanic
+antitetanic 1
 alveolate
 alveolation
 alveole

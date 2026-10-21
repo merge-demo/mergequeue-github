@@ -13653,7 +13653,7 @@ ecphonesis
 extenuative
 exorcisation
 epilogism
-earners
+earners 1
 embacle
 evirate 1
 elevon
