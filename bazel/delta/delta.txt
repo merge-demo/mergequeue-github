@@ -1261,7 +1261,7 @@ disaffirmative
 dothienenteritis
 devitalizing
 diarrheal
-discovert
+discovert 1
 datiscosid
 delacerate
 drosograph
