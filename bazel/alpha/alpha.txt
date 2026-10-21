@@ -21757,7 +21757,7 @@ assertable
 antinganting
 assagaied
 awesomely
-amphitheater
+amphitheater 1
 asserter
 adscription
 automatics
