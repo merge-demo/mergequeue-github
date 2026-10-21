@@ -8746,7 +8746,7 @@ amolish
 asterophyllite
 adet
 autoincrements
-allgovite
+allgovite 1
 anthologized
 antiperistatically
 amblosis
