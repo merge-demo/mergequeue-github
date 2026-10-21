@@ -10246,7 +10246,7 @@ boolean
 bellweather
 bulldogs
 beheads
-biborate
+biborate 1
 broadmindedly
 belly
 boracic
