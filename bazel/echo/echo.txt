@@ -2622,7 +2622,7 @@ elliptically
 exercitor
 enjelly
 epithelize
-exothecate
+exothecate 1
 electrophoretogram
 expansure
 exturb

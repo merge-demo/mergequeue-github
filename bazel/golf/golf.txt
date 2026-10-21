@@ -4054,7 +4054,7 @@ gabendum
 genesic
 ginorite
 giantish
-glum
+glum 1
 gastritic
 grisettes
 gelatines
