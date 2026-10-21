@@ -1813,7 +1813,7 @@ bialystoker
 bandaged
 bandaging
 berylloid
-bowlin 1
+bowlin 2
 bushranging
 bandala
 buggery
