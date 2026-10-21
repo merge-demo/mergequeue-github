@@ -1281,7 +1281,7 @@ autocorrelate
 autosomally
 advectitious
 affrontee
-acatamathesia
+acatamathesia 1
 artinskian
 azurean
 acataphasia

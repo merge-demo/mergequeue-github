@@ -24958,7 +24958,7 @@ corbies
 consimilarity
 carpools
 celtist
-curacies
+curacies 1
 corbina
 condurango
 colloped
