@@ -3009,7 +3009,7 @@ gibbering
 gentilhomme
 goldenknop
 gorgoniacean
-gaps
+gaps 1
 goatherdess
 guildsmen
 geomancy
