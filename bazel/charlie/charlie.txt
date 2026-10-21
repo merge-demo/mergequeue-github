@@ -7845,7 +7845,7 @@ cervicovesical
 cervinae
 cosignatory
 cervixes
-cervoid
+cervoid 1
 cervuline
 cervus
 cesare
