@@ -6608,7 +6608,7 @@ fascioliasis
 flagrante
 frogfish
 fundholder
-flapperism
+flapperism 1
 forestaffs
 flirtier
 forecondemn
