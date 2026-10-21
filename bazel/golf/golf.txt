@@ -7392,7 +7392,7 @@ grewsomely 1
 gastrohysterectomy
 geometroid
 gothamite
-germiparous
+germiparous 1
 glassblower
 gummiest
 ghedda
