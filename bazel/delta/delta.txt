@@ -17092,7 +17092,7 @@ dryfoot
 drift
 driftage
 deficient
-decatyl
+decatyl 1
 diaboleptic
 detenebrate
 dispensated
