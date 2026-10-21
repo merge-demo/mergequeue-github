@@ -1460,7 +1460,7 @@ calyptriform
 calyptrimorphous
 coracoscapular
 ceriornis
-carnosin
+carnosin 1
 calisayas
 clave
 chicks
