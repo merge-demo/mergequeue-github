@@ -898,7 +898,7 @@ gueparde
 glutathione
 geognost
 grassfire
-gobioid
+gobioid 1
 gusseted
 goosebird
 gez
