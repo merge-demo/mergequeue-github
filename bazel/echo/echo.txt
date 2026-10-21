@@ -11321,7 +11321,7 @@ exalbuminous
 evaporimeter
 electrocute
 ecdysons
-epupillate
+epupillate 1
 enwrap
 evaporitic
 enforcively
