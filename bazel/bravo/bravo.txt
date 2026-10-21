@@ -17380,7 +17380,7 @@ bylawman
 busheling
 buccinator
 bunger
-bimorphemic
+bimorphemic 1
 bijection
 bunghole
 biathlons
