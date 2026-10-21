@@ -5764,7 +5764,7 @@ droves
 deliberating 1
 debater
 duree
-disjoint
+disjoint 1
 descriptor
 decasualizing
 depolymerize
