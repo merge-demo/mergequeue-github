@@ -3934,7 +3934,7 @@ deference
 dekes
 derivationally
 drisheen
-douser
+douser 1
 duopoly
 disleal
 diaphemetric
