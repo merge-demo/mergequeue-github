@@ -1101,7 +1101,7 @@ katz
 kaua
 kauaf
 kauaqq
-kaubsp
+kaubsp 1
 kaubvpxgusf
 kaubyxa
 kauc
