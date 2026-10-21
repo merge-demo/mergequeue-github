@@ -1953,7 +1953,7 @@ dobla
 deckload
 doze
 dungy
-dicrotism
+dicrotism 1
 debunkers
 dispergated
 debunks
