@@ -23805,7 +23805,7 @@ atwixt
 australian
 australioid
 anticonservatively
-allicit
+allicit 1
 amatorious
 allelomorphism
 apostatic
