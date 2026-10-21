@@ -13818,7 +13818,7 @@ elucidative
 effervescingly
 electrophilic
 earworm 1
-extracystic
+extracystic 1
 equiarticulate
 entomolite
 extracivic
