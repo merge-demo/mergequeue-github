@@ -15190,7 +15190,7 @@ disbalance
 doleance
 delectably
 directory
-dolefully
+dolefully 1
 detainment
 deeryards
 drawlier
