@@ -13752,7 +13752,7 @@ emberizine 1
 equilibrated
 effervescence
 emancipationist
-evokers
+evokers 1
 enki
 extispex
 epithalamial
