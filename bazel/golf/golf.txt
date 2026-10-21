@@ -4803,7 +4803,7 @@ gravedo
 glorifies
 gibbosity
 governorship
-galgal
+galgal 1
 gweducks
 gargoylishly
 gobiiform
