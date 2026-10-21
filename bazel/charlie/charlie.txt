@@ -5656,7 +5656,7 @@ cataphrygian
 cataphrygianism
 cataplane
 cataplasia
-conepate
+conepate 1
 cataplasis
 cogwood
 capering
