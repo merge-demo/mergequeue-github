@@ -4928,7 +4928,7 @@ dynastic
 depositum
 demonstrations
 doctrinary
-derotreme
+derotreme 1
 decrescence
 daktylon
 duskily
