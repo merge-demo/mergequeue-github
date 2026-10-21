@@ -10052,7 +10052,7 @@ gondoliers
 ginn
 gueridons
 gasking
-garnering
+garnering 1
 gongman
 galette
 gossypols
