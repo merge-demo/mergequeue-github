@@ -13810,7 +13810,7 @@ elating
 extracarpal
 extratropical
 extendible
-excepted
+excepted 1
 editorializing
 extracerebral
 embolo
