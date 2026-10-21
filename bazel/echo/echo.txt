@@ -7521,7 +7521,7 @@ enviously
 estoil
 externate
 encyc
-elevato
+elevato 1
 epiblasts
 englishhood
 exemplifiers
