@@ -228,7 +228,7 @@ embryulcuses
 erionite 1
 enmew 1
 esophagal
-earwigginess
+earwigginess 1
 exsiccation
 emmetrope
 environs

@@ -7624,7 +7624,7 @@ aktivist
 anabaptism
 anisokonia
 abnegator
-allograph
+allograph 1
 adiactinic
 abstracters
 alchemists
