@@ -13777,7 +13777,7 @@ elephas
 extolls
 eskimos
 extorters
-extortion
+extortion 1
 embroiling
 endopterygotism
 earthliness
