@@ -11622,7 +11622,7 @@ dieselizing
 dreamlessness
 downweed
 diapnoe
-defectionist
+defectionist 1
 discontinuities
 dicatalexis
 discontinuously
