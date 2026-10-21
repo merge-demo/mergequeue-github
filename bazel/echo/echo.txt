@@ -3400,7 +3400,7 @@ exacters
 emphase
 egoist
 embargoes 1
-endocrinologist
+endocrinologist 1
 enc
 eavedropper
 embark
