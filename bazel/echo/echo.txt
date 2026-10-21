@@ -3889,7 +3889,7 @@ electroculture
 exotheca
 emigrating
 enflagellate
-enfeebled
+enfeebled 1
 eclipsis
 eyeletting
 executers
