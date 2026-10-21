@@ -8642,7 +8642,7 @@ dorsocervical
 disfavored
 diarticular
 dias
-depertible
+depertible 1
 dermatographia
 downstream
 diametrically
