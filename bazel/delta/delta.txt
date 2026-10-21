@@ -8355,7 +8355,7 @@ depredation
 disvouch
 decalobate
 dyed
-dromed
+dromed 1
 decigrams
 doricize
 decaffeinates
