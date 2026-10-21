@@ -345,7 +345,7 @@ cacodemon
 cacodemonia
 cowtongue
 cacodemoniac
-chlamydes
+chlamydes 1
 citizendom
 cacodemonial
 cacodemonize
