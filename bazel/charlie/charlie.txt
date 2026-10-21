@@ -30878,7 +30878,7 @@ capreoline
 cathop
 cosmologygy
 culpeo
-compar
+compar 1
 culpose
 considerability
 cypselid
