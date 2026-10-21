@@ -6685,7 +6685,7 @@ blowsily
 bepimple
 brilliantine
 berkeleianism
-berkelium
+berkelium 1
 berkovets
 berkovtsi
 bedull
