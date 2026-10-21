@@ -18881,7 +18881,7 @@ audient
 anaemia
 antipolitics
 archidoxis
-astoned
+astoned 1
 airy
 archmonarchist
 alights
