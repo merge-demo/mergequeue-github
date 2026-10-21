@@ -6305,7 +6305,7 @@ gobinism
 griece
 gymnasial
 guidsire 1
-gyrons
+gyrons 1
 guijo
 gastroatonia
 gastriloquous
