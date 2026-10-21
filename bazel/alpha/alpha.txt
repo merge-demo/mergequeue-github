@@ -18849,7 +18849,7 @@ archdeaconess
 alamire
 alloplasty
 amis
-antiaphthic
+antiaphthic 1
 autoerotic
 asculae
 awards
