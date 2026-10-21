@@ -7366,7 +7366,7 @@ cephalodium
 cephalofacial
 cephalogram
 cephaloid
-culminates
+culminates 1
 cuticles
 crepuscle
 cephalology

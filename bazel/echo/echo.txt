@@ -4433,7 +4433,7 @@ encapsuling
 encaptivate
 essence
 expectorate
-eternized
+eternized 1
 electrophysiologic
 excentrical
 endenizen
