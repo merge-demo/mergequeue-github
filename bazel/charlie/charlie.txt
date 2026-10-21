@@ -3120,7 +3120,7 @@ clone
 capanna
 cystolithectomy
 caparison
-caparisoned
+caparisoned 1
 caparisoning
 caparisons
 capataz
