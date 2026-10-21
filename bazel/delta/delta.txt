@@ -4505,7 +4505,7 @@ demicuirass
 doxologies
 danubian
 defused
-drinkableness
+drinkableness 1
 destruction
 demiculverin
 dodgiest
