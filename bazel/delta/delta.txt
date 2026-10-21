@@ -13412,7 +13412,7 @@ disquisitor
 disquisitional
 dismarble
 deepfreezed
-disform
+disform 1
 diffusion
 dennstaedtia
 disrated
