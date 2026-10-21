@@ -8775,7 +8775,7 @@ arctoid
 alligatorfish
 alligatorfishes
 arbinose
-allying
+allying 1
 abecedarius
 astatine
 allylation
