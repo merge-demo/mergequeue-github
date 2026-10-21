@@ -18971,7 +18971,7 @@ collator
 chorotega
 couldna
 clumped
-collators
+collators 1
 coenobitic
 ciseleur
 culbut
