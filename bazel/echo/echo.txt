@@ -7172,7 +7172,7 @@ excandescence
 earthshine
 endymion
 eposes
-empassion
+empassion 1
 eglandulous
 expirer
 equestrians
