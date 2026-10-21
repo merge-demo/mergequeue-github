@@ -30290,7 +30290,7 @@ crumping
 compressions
 crumpled
 chorten
-crumply
+crumply 1
 cargoose
 crumps
 convoluted
