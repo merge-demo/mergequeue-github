@@ -9286,7 +9286,7 @@ afflate
 along
 ambeer
 ataxiameter
-alongships
+alongships 1
 alongshore
 archbishops
 alemana
