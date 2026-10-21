@@ -15030,7 +15030,7 @@ civilizable
 civilizationally
 citola
 chawan
-chevrons
+chevrons 1
 contemns
 civilized
 civilizee
