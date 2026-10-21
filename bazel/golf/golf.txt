@@ -7077,7 +7077,7 @@ gynandrarchy
 gunnage
 guelphic
 giottesque
-glaces
+glaces 1
 gestalter
 gourounut
 gaus
