@@ -6505,7 +6505,7 @@ dolichosoma
 dunged
 diadromous
 dispositionally
-dissevering
+dissevering 1
 determinate
 dactylogram 1
 demounted
