@@ -12796,7 +12796,7 @@ betatters
 book
 borocarbide
 brasses
-burstone
+burstone 1
 boolya
 blebs
 braiding
