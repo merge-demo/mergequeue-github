@@ -789,7 +789,7 @@ emotionalization
 electrobus
 equiponderance
 encaged
-exadverso
+exadverso 1
 endosulfan
 earthmaking
 exodus
