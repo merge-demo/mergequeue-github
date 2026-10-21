@@ -14284,7 +14284,7 @@ amphibolies
 autochthonous
 anhedonia
 anthelix
-archaeomagnetism
+archaeomagnetism 1
 anthem
 anthemas
 anthemata
