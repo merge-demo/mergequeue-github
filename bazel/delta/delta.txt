@@ -4522,7 +4522,7 @@ demifigure
 decentres
 disinflated
 downdraught
-detroiter
+detroiter 1
 demigauntlet
 doting
 disclosing
