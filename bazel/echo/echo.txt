@@ -12060,7 +12060,7 @@ electrostenolytic
 enforcible
 elflike
 exotoxins
-expurgatorial
+expurgatorial 1
 embalmed
 excortication
 eschewals
