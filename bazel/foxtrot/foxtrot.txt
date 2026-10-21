@@ -8748,7 +8748,7 @@ fala
 frizzled
 featheriest
 fortunes
-faintise
+faintise 1
 frankfort
 freddo
 forbiddable
