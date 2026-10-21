@@ -2075,7 +2075,7 @@ gomari
 giftless
 glossers
 gingkoes
-glorious
+glorious 1
 geleem
 grandbaby
 gamblers
