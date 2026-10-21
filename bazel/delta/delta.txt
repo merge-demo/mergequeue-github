@@ -4858,7 +4858,7 @@ durableness
 demonise
 dactyliotheca
 dodlet
-deaneries
+deaneries 1
 ductile
 declive
 durrie
