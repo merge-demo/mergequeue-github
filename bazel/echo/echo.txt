@@ -12255,7 +12255,7 @@ expounding
 exegesis
 exasperative
 execrated
-elegists
+elegists 1
 extemporizer
 exegetics
 exing
