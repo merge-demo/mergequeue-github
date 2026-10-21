@@ -8296,7 +8296,7 @@ erythrismal
 enroller
 eschynite
 embosoms
-epithalamize
+epithalamize 1
 efractory
 equivalve
 ennobles
