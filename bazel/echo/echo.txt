@@ -4514,7 +4514,7 @@ earlock
 enamelling
 euchysiderite 1
 esthesiophysiology
-elsewhat
+elsewhat 1
 enforcing
 exterminator 1
 encephalomas
