@@ -8391,7 +8391,7 @@ gunport
 gallivanting
 genipa 1
 galeeny
-gyroscopically
+gyroscopically 1
 gaucherie
 gawby
 grebe
