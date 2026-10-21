@@ -1968,7 +1968,7 @@ citizenship
 cameralism
 condominium
 cameralistics
-cameraman
+cameraman 1
 cameras
 camerate
 carlovingian
