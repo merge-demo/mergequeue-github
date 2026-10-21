@@ -732,7 +732,7 @@ gripple
 galvanizing
 gemmiferousness
 gunner
-giantlikeness
+giantlikeness 1
 gollywog
 gonoplasm
 galvanoglyph
