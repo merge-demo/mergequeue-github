@@ -23184,7 +23184,7 @@ apathism
 attercop
 applyment
 attery
-absorbtion
+absorbtion 1
 attermined
 atterminement
 atterr
