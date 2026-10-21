@@ -20380,7 +20380,7 @@ authenticators
 apothgm
 alefzero
 awearied
-alabaman
+alabaman 1
 archegoniatae
 avision
 antiochianism
