@@ -15414,7 +15414,7 @@ dolichoprosopic
 dimity
 daisycutter
 diapophysial
-directing
+directing 1
 dilators
 diastema
 domineering
