@@ -3910,7 +3910,7 @@ adjoints
 apieces
 akiskemikinik
 adjourn
-allurance
+allurance 1
 adjournal
 adjoust
 aleyrodidae
