@@ -8336,7 +8336,7 @@ fontlet
 ferrotyping
 firmament
 fatherlike
-flapperish
+flapperish 1
 fittiest
 fair
 foundling
