@@ -19235,7 +19235,7 @@ adventurish
 arduousness
 apathia
 astrocaryum
-ardurous
+ardurous 1
 amphipneust
 acetylglycine
 areach
