@@ -18268,7 +18268,7 @@ arabinosic
 arabinoside
 alibility
 adultlike
-arabism
+arabism 1
 abstinent
 aquiculture
 arabist
