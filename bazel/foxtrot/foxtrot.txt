@@ -1374,7 +1374,7 @@ fatiscent 1
 fullword
 filicology
 fishboat
-fatly
+fatly 1
 floscularia
 februation
 formularistic
