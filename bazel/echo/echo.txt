@@ -4531,7 +4531,7 @@ easement
 epirrheme
 encephalomyelitis
 entalent
-eery
+eery 1
 enrange
 entrepreneurial
 ectotheca
