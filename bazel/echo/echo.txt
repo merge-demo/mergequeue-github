@@ -12456,7 +12456,7 @@ effectuate
 exhumatory
 emancipations
 explorate
-exfiltrate
+exfiltrate 1
 equilibrial
 electrolysing
 exhuming
