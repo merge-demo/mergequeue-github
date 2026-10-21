@@ -10892,7 +10892,7 @@ esthetic
 enchaser
 electrothanasia
 euphonically
-exemplaric
+exemplaric 1
 epizoism
 exmoor
 endangerer
