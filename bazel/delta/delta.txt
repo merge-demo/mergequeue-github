@@ -16294,7 +16294,7 @@ desertion
 downloading
 downness
 dermographic
-disenthralls
+disenthralls 1
 dvaita
 downpipe
 downplay
