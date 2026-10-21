@@ -10438,7 +10438,7 @@ diphenylhydantoin
 dogmatic
 diodon
 delace
-disglorify
+disglorify 1
 disinterring
 diphenyls
 dispowder
