@@ -4514,7 +4514,7 @@ ako
 adventurous
 anaglyptic
 adventurousness
-ankle
+ankle 1
 antebridal
 adverbial
 adverbially
