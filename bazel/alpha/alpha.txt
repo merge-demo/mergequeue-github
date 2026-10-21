@@ -12527,7 +12527,7 @@ avidities
 anemony
 anaspida
 anguillidae
-anemopathy
+anemopathy 1
 astroscope
 antisudorific
 anemoscope
