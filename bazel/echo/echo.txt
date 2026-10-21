@@ -6509,7 +6509,7 @@ evidently
 ephelis
 envisaging
 epistropheal
-erythrochroism
+erythrochroism 1
 euphratean
 exstruct
 euphonicalness
