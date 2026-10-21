@@ -216,7 +216,7 @@ ehuawa
 eyesores
 earthwall
 entte
-exoticalness
+exoticalness 1
 edaphodont
 empetrous
 eluvium
