@@ -1206,7 +1206,7 @@ guestive
 guttate
 garfishes
 grappler
-glaux
+glaux 1
 gimcrackery
 gimmicking
 glanders
