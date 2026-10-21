@@ -12095,7 +12095,7 @@ emblazonry
 ekphoria
 expostulation
 extollingly
-erepsin
+erepsin 1
 escuage
 enflames
 exploit
