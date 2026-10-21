@@ -7473,7 +7473,7 @@ gourmandizer
 grapplement
 gomerals
 gasconaded
-gists
+gists 1
 geodesy
 gades
 gonorrhoea
