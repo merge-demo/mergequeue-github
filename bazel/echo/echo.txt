@@ -2116,7 +2116,7 @@ excretory
 elastica
 extrapolator
 elastically
-eurycephalous
+eurycephalous 1
 edenite
 exudes
 emberiza
