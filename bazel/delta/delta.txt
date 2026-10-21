@@ -2774,7 +2774,7 @@ dirige
 dineric
 daddies
 drawhorse
-dearies
+dearies 1
 dives
 dihydrate
 dahomeyan
