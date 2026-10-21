@@ -10506,7 +10506,7 @@ feodality
 featherback
 frotton
 fum
-fascicularly
+fascicularly 1
 fumelike
 firetail
 farandman
