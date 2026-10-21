@@ -17641,7 +17641,7 @@ cochairing
 chlorothiazide
 cocher
 colonopexy
-cochero
+cochero 1
 cochief
 containerized
 cochleae
