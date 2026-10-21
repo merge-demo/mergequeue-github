@@ -7923,7 +7923,7 @@ foreseize
 flatteries
 fike
 firy
-fantasticness
+fantasticness 1
 federalisation
 fopdoodle
 freeheartedness 1
