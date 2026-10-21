@@ -9125,7 +9125,7 @@ floozies
 fr
 flintlike
 furdle
-funambulated
+funambulated 1
 faulkner
 frizzers
 forepoint
