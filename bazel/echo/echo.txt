@@ -13500,7 +13500,7 @@ evaporite
 eristic
 endangeitis
 epitomic
-epigrapher
+epigrapher 1
 expanses
 elinor
 equipollence
