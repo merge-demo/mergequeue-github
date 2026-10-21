@@ -15664,7 +15664,7 @@ clausule
 cheekily
 clausure
 claut
-clavacin
+clavacin 1
 clavae
 centres
 claval
