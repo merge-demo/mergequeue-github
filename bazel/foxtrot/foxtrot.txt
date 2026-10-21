@@ -3065,7 +3065,7 @@ flatcar
 foregone
 fractionalization
 fibril
-fuzing
+fuzing 1
 filtratable
 fairily
 fluorin
