@@ -19468,7 +19468,7 @@ adrenocorticosteroid
 argillous
 advantage
 arkab
-appetible
+appetible 1
 argin
 argyranthous
 acroceridae
