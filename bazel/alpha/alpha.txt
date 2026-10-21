@@ -4045,7 +4045,7 @@ atalan
 ailurophilia
 abiotrophic
 amyotaxia
-allylic
+allylic 1
 autorotational
 aloyau
 afric
