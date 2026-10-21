@@ -22158,7 +22158,7 @@ arrowstone
 apetalousness
 archeology
 asthenolith
-asthenology
+asthenology 1
 anabaptistry
 asthenophobia
 anguid
