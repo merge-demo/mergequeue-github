@@ -18694,7 +18694,7 @@ autocephality
 archbishopry
 archbishopric
 acroamata
-awhet
+awhet 1
 archbotcher
 aretes
 alerts
