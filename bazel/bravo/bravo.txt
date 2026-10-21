@@ -273,7 +273,7 @@ buna
 bacilligenic
 booths
 bedotted
-boltuprightness
+boltuprightness 1
 bespangled
 belar
 back
