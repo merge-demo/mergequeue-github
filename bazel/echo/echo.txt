@@ -6817,7 +6817,7 @@ eutrophies
 efflation
 enwombing
 entitative
-exostema
+exostema 1
 elaphine
 enrooted
 entoil
