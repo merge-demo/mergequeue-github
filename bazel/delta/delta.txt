@@ -274,7 +274,7 @@ downspout
 dolichopodous
 dhotee
 degermed
-doradilla
+doradilla 1
 daguerreotyped
 daguerreotyping
 digitonin
