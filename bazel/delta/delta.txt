@@ -3973,7 +3973,7 @@ dominatingly
 ditchdigging
 dominant
 delightedly
-diarize
+diarize 1
 dkm
 delassation
 dindling
