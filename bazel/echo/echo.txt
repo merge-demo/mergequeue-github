@@ -4598,7 +4598,7 @@ expatiations
 equalised
 endpleasure
 enam
-emplore
+emplore 1
 effigies
 ectochondral
 ectomesoblast
