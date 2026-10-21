@@ -2794,7 +2794,7 @@ fluorimeter
 forgift
 fistulized
 forbearer
-ftncmd
+ftncmd 1
 foxtailed
 fotch
 filao
