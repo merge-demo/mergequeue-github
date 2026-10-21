@@ -3111,7 +3111,7 @@ galvanoscopic
 granula
 gymnasisia
 groined
-glucosine
+glucosine 1
 gelatinity
 grassie
 gumdrops
