@@ -13008,7 +13008,7 @@ ephebos
 equipollently
 extubate
 exhaustingly
-expostulatory
+expostulatory 1
 estive
 expeded
 expatiated
