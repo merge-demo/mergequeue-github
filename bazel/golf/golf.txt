@@ -9561,7 +9561,7 @@ goster
 geophagies
 graphical
 glamorized
-geodynamical
+geodynamical 1
 guidage
 groveller
 gauteite
