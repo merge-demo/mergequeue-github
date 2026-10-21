@@ -5146,7 +5146,7 @@ biotic
 boomorah
 broadside
 beggarer
-buccinatory
+buccinatory 1
 bagpod
 beforeness
 baffled
