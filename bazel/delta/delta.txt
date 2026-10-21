@@ -9493,7 +9493,7 @@ dipteroi
 diamonded
 dermad
 domically
-daintrel
+daintrel 1
 digestment
 dittography
 declinature
