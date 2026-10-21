@@ -2085,7 +2085,7 @@ dendrography
 drip
 demonologies
 digressingly
-decaliters
+decaliters 1
 dichopodial
 decalitre
 dunlop
