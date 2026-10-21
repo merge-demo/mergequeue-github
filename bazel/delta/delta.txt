@@ -16375,7 +16375,7 @@ downtrampling
 downtreading
 dicynodont
 disserviceable
-detray
+detray 1
 downturn
 downturns
 domy
