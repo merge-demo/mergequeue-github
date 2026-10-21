@@ -5540,7 +5540,7 @@ catadicrotism
 cartbote
 capitulations
 coenosarcous
-coulometer
+coulometer 1
 catadioptrical
 catadioptrics
 conserved
