@@ -18485,7 +18485,7 @@ cheve
 cohens
 cronk
 curr
-coherence
+coherence 1
 cataractal
 coherent
 coherer
