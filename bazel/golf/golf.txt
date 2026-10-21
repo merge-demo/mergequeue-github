@@ -4613,7 +4613,7 @@ gufought
 gloggs
 galbulae
 galipoipin
-gamboge
+gamboge 1
 gnaphalium
 gymnanthes
 gluttonism
