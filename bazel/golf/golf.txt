@@ -7307,7 +7307,7 @@ gnocchi
 grossness
 griddlecake
 goyetian
-gambled
+gambled 1
 ganglion
 gyrostatic
 genet
