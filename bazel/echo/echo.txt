@@ -10443,7 +10443,7 @@ embryoniferous
 etymon
 ectocondyle
 equalities 1
-etiolated
+etiolated 1
 etiology
 europeanism
 enlacing

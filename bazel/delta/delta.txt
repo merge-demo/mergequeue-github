@@ -14664,7 +14664,7 @@ doubtfully
 drill
 djebels
 djehad
-deferens
+deferens 1
 djellabah
 decanically
 dampest
