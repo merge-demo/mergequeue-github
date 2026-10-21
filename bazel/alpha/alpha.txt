@@ -12630,7 +12630,7 @@ aleuron
 arrayan
 aesopic
 advene
-allochroite
+allochroite 1
 algosis
 aneurisms
 arithmetician
