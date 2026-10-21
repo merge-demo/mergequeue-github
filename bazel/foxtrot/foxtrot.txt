@@ -9488,7 +9488,7 @@ facinorous
 ffa
 frauleins
 formaliter
-fissiparousness
+fissiparousness 1
 flatbottom
 forbreak
 floatman
