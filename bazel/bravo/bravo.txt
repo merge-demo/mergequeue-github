@@ -5602,7 +5602,7 @@ brough
 bulletheaded
 battlement
 blepharal
-bewigs
+bewigs 1
 barbitone
 businessmen
 bardes
