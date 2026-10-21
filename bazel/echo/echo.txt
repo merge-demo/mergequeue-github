@@ -5000,7 +5000,7 @@ equinia
 engraphic
 earthgall
 exencephalia
-ebonises
+ebonises 1
 exiguous
 essentia
 exul
