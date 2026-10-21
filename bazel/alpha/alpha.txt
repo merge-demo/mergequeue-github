@@ -8902,7 +8902,7 @@ arrayers
 amidosuccinamic 1
 amorphi
 aridest
-automatically
+automatically 1
 anguimorpha
 alloerotism
 analgia 1
