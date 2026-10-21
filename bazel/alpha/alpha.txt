@@ -1651,7 +1651,7 @@ accruer
 anatta
 adiabatic
 accrues
-accruing
+accruing 1
 antiprophet
 aneurismal
 agonists
