@@ -22628,7 +22628,7 @@ counterpleading
 casuarinaceae
 clowning
 cabinets
-connotate
+connotate 1
 connotation
 ceratitoid
 connotations
