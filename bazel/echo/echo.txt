@@ -3888,7 +3888,7 @@ endometry
 electroculture
 exotheca
 emigrating
-enflagellate
+enflagellate 1
 enfeebled
 eclipsis
 eyeletting
