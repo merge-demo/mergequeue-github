@@ -19756,7 +19756,7 @@ caesiums
 chromatism
 copolymers
 combustible
-cornloft
+cornloft 1
 chambellan
 cressed
 combustibleness
