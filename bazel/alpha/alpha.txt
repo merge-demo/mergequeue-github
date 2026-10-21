@@ -18214,7 +18214,7 @@ aquinist
 alcoholicity
 anenterous
 aerodynes
-allophone
+allophone 1
 autotheism
 architect
 adiantum
