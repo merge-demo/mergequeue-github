@@ -10948,7 +10948,7 @@ disforestation
 doublethinking
 dorsoradial
 digressions
-disadvance
+disadvance 1
 dreamingful
 disadvancing
 disbursals
