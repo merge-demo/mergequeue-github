@@ -7716,7 +7716,7 @@ cernuous
 cerographer
 contestants
 contracter
-cerographical
+cerographical 1
 ceroline
 cerolite
 ciliolate
