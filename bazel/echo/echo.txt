@@ -1677,7 +1677,7 @@ eyeballed
 eyeballing
 entrusting
 eyebalm
-estraying
+estraying 1
 electromotograph
 entarthrotic
 eyeberry
