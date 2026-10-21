@@ -20336,7 +20336,7 @@ coeloblastula
 couseranite
 chakra
 communize
-catholicoses
+catholicoses 1
 communized
 commutability
 commutable
