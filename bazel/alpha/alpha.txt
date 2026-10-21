@@ -13222,7 +13222,7 @@ animize
 amaltas
 anilidic
 allude
-animo
+animo 1
 archchampion
 antipathic
 academizing
