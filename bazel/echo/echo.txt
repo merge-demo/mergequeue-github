@@ -4076,7 +4076,7 @@ esquimau
 expositorily
 exospheric
 enforcement
-erratical
+erratical 1
 encrusting
 eremian
 engross
