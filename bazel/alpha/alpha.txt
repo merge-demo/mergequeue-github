@@ -6740,7 +6740,7 @@ amortisable
 ainoi
 appellatory
 antioxygen
-amplifies
+amplifies 1
 accepters
 armyworm
 alliage
