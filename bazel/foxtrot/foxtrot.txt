@@ -10639,7 +10639,7 @@ frogstool
 filtrability
 facultate
 fegatella
-flatulent
+flatulent 1
 fickly
 forcibly
 fitzroy
