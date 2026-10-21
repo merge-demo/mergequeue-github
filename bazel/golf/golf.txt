@@ -10768,7 +10768,7 @@ graminin
 gorhen
 gimbals
 gallium
-glamourie
+glamourie 1
 geranyl
 gibblegable
 glycyl
