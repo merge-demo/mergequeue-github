@@ -3488,7 +3488,7 @@ fatigation
 fighting
 formboard
 figo
-favillae
+favillae 1
 fumaroid
 fibbed
 figshell
