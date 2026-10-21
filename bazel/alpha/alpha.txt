@@ -20517,7 +20517,7 @@ arteriorenal
 accentless
 amnesty
 airfreight
-arteriospasm
+arteriospasm 1
 arteriostenosis
 admix
 arteriotrepsis
