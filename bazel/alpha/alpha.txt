@@ -6596,7 +6596,7 @@ anaesthesiology
 aigialosauridae
 aigialosaurus
 apothecaries
-archpriest
+archpriest 1
 antasthenic
 amber
 antiparliament
