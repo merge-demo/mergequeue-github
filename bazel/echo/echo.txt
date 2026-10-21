@@ -161,7 +161,7 @@ erotopath
 enunciations
 earthly
 enriched
-exequy
+exequy 1
 earmarked
 eelbobber
 expiring
