@@ -14838,7 +14838,7 @@ doctress
 due
 discombobulation
 drafted
-duologs
+duologs 1
 dynametric
 doctrinality
 doorbells
