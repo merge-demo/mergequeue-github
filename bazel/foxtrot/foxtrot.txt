@@ -681,7 +681,7 @@ floccing
 funkier
 flannelmouths
 feathercut
-fairish
+fairish 1
 featlier
 filmically
 flapper
