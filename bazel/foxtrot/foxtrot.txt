@@ -251,7 +251,7 @@ fibrillous
 floozy
 freeload
 forspend
-fidgets
+fidgets 1
 fluviation
 forwhy
 florigenic
