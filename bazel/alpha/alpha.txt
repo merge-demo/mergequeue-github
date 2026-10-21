@@ -18231,7 +18231,7 @@ alectorioid
 ashet
 aquopentamminecobaltic
 arcady
-aquose
+aquose 1
 analogistic
 ar
 ara
