@@ -3174,7 +3174,7 @@ ferrugo
 fingerpost
 ferment
 frighty
-frisii
+frisii 1
 fenceplay
 fisheries
 flowerier
