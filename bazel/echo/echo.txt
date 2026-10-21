@@ -2354,7 +2354,7 @@ euphuistic
 explorational
 entocele
 explosive
-electrochemistry
+electrochemistry 1
 electromobilism
 excrementitial
 excrete
