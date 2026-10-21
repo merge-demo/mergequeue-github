@@ -10796,7 +10796,7 @@ floundered
 faintful
 fuchsine
 flustra
-foveation
+foveation 1
 foredestined
 fleeten
 feudalising
