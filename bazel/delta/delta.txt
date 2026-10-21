@@ -13012,7 +13012,7 @@ disparagements
 documenting
 daleth
 disparate
-disestablish
+disestablish 1
 decuple
 disparation
 downlike
