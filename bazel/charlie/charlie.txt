@@ -12709,7 +12709,7 @@ compellation
 chufas
 cinenchymatous
 ceratomania
-crinite
+crinite 1
 catakinesis
 concede
 catafalques
