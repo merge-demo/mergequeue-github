@@ -9628,7 +9628,7 @@ florate
 freemasonic
 floriform
 freemasonical
-finitesimal
+finitesimal 1
 flatfootedness
 freen
 featherfoil
