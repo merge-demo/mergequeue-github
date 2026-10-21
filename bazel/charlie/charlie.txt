@@ -10789,7 +10789,7 @@ concameration
 cilicious
 chalkcutter
 chorisos
-castigatories
+castigatories 1
 cheeter
 chinners
 chinny
