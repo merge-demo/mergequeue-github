@@ -6,7 +6,7 @@ blepharosyndesmitis
 braille
 blackland
 baalim
-baalize
+baalize 1
 backlogs
 baals
 browning
