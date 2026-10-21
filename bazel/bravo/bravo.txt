@@ -697,7 +697,7 @@ banjo
 baddie
 betimber
 bathtubs
-bathetically
+bathetically 1
 baddies
 boral
 bade
