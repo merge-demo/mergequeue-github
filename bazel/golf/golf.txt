@@ -6677,7 +6677,7 @@ gekkota
 gild
 gundelow
 gynodioeciously 1
-gunsman
+gunsman 1
 glitters
 guard
 garmentless
