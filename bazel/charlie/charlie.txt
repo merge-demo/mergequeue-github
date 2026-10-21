@@ -27173,7 +27173,7 @@ countertechnicality
 countertendency
 cavalry
 carcasses
-cataspilite
+cataspilite 1
 counterterrorism
 clasping
 counterterrorist
