@@ -1395,7 +1395,7 @@ balebos
 baled
 baleen
 bobance
-battable
+battable 1
 balefires
 bewreak
 barmbrack
