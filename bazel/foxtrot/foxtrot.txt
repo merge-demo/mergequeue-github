@@ -11337,7 +11337,7 @@ fertilisational
 forecastors
 fermage
 furlan
-foreglimpsed
+foreglimpsed 1
 forswat
 foldure
 fellic
