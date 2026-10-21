@@ -10984,7 +10984,7 @@ chiropodous
 chiropompholyx
 contraposita
 chiroptera
-chiropterygian
+chiropterygian 1
 chiropterite
 chiros
 chirospasm
