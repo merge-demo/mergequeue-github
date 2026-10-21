@@ -5784,7 +5784,7 @@ distributee
 doodler
 depopulation
 denitrize
-debeak
+debeak 1
 depopulative
 dowve
 disimitation
