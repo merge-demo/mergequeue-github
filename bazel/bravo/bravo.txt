@@ -5482,7 +5482,7 @@ behowled
 broken
 brouze
 bey
-bindi
+bindi 1
 boxed
 bardic
 byliny
