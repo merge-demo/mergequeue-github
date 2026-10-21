@@ -5471,7 +5471,7 @@ deorganization
 deistic
 decolouriser
 deorganize
-deregister
+deregister 1
 disenablement
 deorsum
 deossification
