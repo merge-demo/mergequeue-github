@@ -17848,7 +17848,7 @@ dabb
 desubstantialize
 dunst
 dezincing
-dudism
+dudism 1
 diaconicum
 defilement
 dudleya
