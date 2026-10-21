@@ -6136,7 +6136,7 @@ aglyphodont
 algodonite
 awaken
 alcyones
-adversaria
+adversaria 1
 aglitter
 aspartokinase
 actinoneuritis
