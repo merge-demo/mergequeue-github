@@ -5420,7 +5420,7 @@ daffodil
 denudant
 dendra
 decontrol
-delim
+delim 1
 deschampsia
 denudating
 disordained 1
