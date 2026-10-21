@@ -1478,7 +1478,7 @@ etymologised
 eurythermic
 electrometric
 euphonia
-equisetums
+equisetums 1
 enplaning
 encompasses
 eurythermous
