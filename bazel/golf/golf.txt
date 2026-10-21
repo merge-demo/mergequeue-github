@@ -7644,7 +7644,7 @@ grafts
 gestureless
 gleaminess
 geospiza
-gradationally
+gradationally 1
 grandeza
 gassier
 gramarye
