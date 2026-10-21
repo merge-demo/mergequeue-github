@@ -8719,7 +8719,7 @@ assurable
 alliaceae
 annuities
 alleve
-alleviate
+alleviate 1
 anthobian
 arachnological
 accessed
