@@ -3099,7 +3099,7 @@ ergatocracy
 expropriates
 ellipsograph
 executiveness
-esemplastic
+esemplastic 1
 ellipticity
 extemporize
 elliptograph
