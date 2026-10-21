@@ -5261,7 +5261,7 @@ densate
 diogenean
 deerstealer
 dalapon
-densely
+densely 1
 daviely
 dioptase
 dialogistic
