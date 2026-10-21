@@ -8335,7 +8335,7 @@ expressibly
 endured 1
 enchannel
 exercised
-emulating
+emulating 1
 eagling
 epitheme
 evangelise
