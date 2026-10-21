@@ -15229,7 +15229,7 @@ duplexer
 doliidae
 dolioform
 dabblings
-dioritic
+dioritic 1
 depreciated
 downing
 defamers
