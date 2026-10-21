@@ -3233,7 +3233,7 @@ defend
 dikast
 dolmenic
 demimondaine
-dissentient
+dissentient 1
 distrainor
 defendant
 discocephalous
