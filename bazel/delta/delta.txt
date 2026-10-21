@@ -8690,7 +8690,7 @@ devilfishes
 deraigned
 demobbed
 desalinizing
-dichastasis
+dichastasis 1
 deathrate 1
 depolarizing
 diethylethanolamine
