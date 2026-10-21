@@ -7157,7 +7157,7 @@ examples
 edriophthalmous
 envisioning
 epistolising
-enshadow
+enshadow 1
 exoner
 episterna
 effectuation
