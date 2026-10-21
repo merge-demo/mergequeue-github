@@ -23712,7 +23712,7 @@ auriphrygia
 auripigment
 aurir
 auriscalpia
-auriscopy
+auriscopy 1
 aurist
 aurists
 assentiveness
