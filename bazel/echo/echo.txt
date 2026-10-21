@@ -11874,7 +11874,7 @@ everwhich
 enteroparesis
 enfranchisement
 extbook
-embowing
+embowing 1
 ergonomically
 emptysis
 emptying
