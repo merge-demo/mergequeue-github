@@ -11206,7 +11206,7 @@ elver
 extatic
 exportations
 evanescible
-evanescing
+evanescing 1
 exorbitancy
 expilation
 exostracism
