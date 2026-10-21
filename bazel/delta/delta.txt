@@ -12996,7 +12996,7 @@ dysoxidation
 dollarfishes
 disoxygenation
 dioscuri
-debacchate
+debacchate 1
 dight
 distater
 dispand
