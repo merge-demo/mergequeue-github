@@ -8539,7 +8539,7 @@ acervately
 antipodagric
 analytical
 alkoxyl
-anopisthographic
+anopisthographic 1
 assise
 amylophagia
 availabile
