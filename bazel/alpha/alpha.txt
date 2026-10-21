@@ -6447,7 +6447,7 @@ agudist
 arsonite
 acolous
 agueweeds
-alphitomancy
+alphitomancy 1
 aguglia
 arachnidan
 aguilt
