@@ -1829,7 +1829,7 @@ eudemony
 evaginated
 effervescive
 ensouling
-encipherer
+encipherer 1
 elench
 eurypterida
 explicatory
