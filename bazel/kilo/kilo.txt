@@ -9186,7 +9186,7 @@ kopg
 kopgkw
 kophrsurrhv
 kophtv
-kopipq
+kopipq 1
 kopj
 kopjhnfuv
 kopjp
