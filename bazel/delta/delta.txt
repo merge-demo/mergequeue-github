@@ -9553,7 +9553,7 @@ digitron
 demanders
 dialogising
 digladiating
-decken
+decken 1
 duellos
 diglots
 desmatippus
