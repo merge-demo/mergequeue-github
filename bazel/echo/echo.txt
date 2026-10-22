@@ -4537,7 +4537,7 @@ entrepreneurial
 ectotheca
 erucin
 encephalomyocarditis
-emancipate
+emancipate 1
 enactive
 emerita
 ephorate
