@@ -1055,7 +1055,7 @@ edgar
 expatiatory
 edgeboned
 eringos
-eagerly
+eagerly 1
 exsheath
 edged
 eidolon
