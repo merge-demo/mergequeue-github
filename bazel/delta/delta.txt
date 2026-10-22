@@ -2923,7 +2923,7 @@ dedanite
 dedecorous
 divide
 desmodont
-duodecimomos
+duodecimomos 1
 dedicant
 dichotic
 downbeat
