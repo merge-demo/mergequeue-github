@@ -1499,7 +1499,7 @@ epics
 endosiphonate
 equippers
 estivate
-eclegme
+eclegme 1
 effusively
 entasias
 effuviate
