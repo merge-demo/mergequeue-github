@@ -5610,7 +5610,7 @@ formerness
 fourgons
 flight
 frusla
-fortitude
+fortitude 1
 flighter
 fraik
 fleysome
