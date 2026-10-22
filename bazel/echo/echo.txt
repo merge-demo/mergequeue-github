@@ -14189,7 +14189,7 @@ extracapsular
 experrection
 eranthis
 enqueues
-eupanorthus
+eupanorthus 1
 enterococci
 ectosome
 esthetics
