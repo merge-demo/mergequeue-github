@@ -3205,7 +3205,7 @@ enamelwork
 emmeleia
 elopes
 elops
-elicit
+elicit 1
 emission
 epiphanized
 everything
