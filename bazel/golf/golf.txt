@@ -4725,7 +4725,7 @@ guanacos
 gallinula
 gynodioecism
 gymnasiast
-gumshoe
+gumshoe 1
 glucosuria
 grudgingly
 garnisheeing
