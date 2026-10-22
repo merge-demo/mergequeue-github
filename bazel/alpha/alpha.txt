@@ -24345,7 +24345,7 @@ autoreflection
 asterochiton
 allopurinol
 autoregulative
-activisms
+activisms 1
 arg
 archducal 1
 autorhythmus
