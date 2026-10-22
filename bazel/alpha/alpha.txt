@@ -15106,7 +15106,7 @@ antidromically
 apparance
 antidrug
 anemotropic
-applied
+applied 1
 archcheater
 analcimes
 abaci
