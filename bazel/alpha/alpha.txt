@@ -12392,7 +12392,7 @@ andriana
 auk
 abnormally
 aloofe
-andrias
+andrias 1
 acervuli
 anticourt
 anisotropic
