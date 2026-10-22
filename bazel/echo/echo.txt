@@ -13079,7 +13079,7 @@ embrothelled 1
 embolomeri 1
 echites
 expending
-eleuin
+eleuin 1
 ejectable
 expenditrix
 ecclesiophobia
