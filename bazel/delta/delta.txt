@@ -6565,7 +6565,7 @@ descriptivism
 doddies
 descrive
 descure
-dabchick
+dabchick 1
 desecrater
 duckfooted
 duet
