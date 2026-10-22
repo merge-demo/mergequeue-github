@@ -20670,7 +20670,7 @@ amaine 1
 atlaslike
 annunciates
 afflicts
-artiad
+artiad 1
 artichoke
 acidimetrical
 afghani
