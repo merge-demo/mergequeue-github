@@ -10121,7 +10121,7 @@ cystencyte
 chevaliers
 chippewa
 categorizers
-compagnie
+compagnie 1
 chevener
 cheventayn
 cheverel
