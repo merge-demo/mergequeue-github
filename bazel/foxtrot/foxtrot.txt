@@ -7594,7 +7594,7 @@ fatimid
 foredoomer
 fgn
 fructuarius
-funiculus
+funiculus 1
 flintworker
 flays
 forespeak
