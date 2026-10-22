@@ -4802,7 +4802,7 @@ grandiloquent
 gravedo
 glorifies
 gibbosity
-governorship
+governorship 1
 galgal
 gweducks
 gargoylishly
