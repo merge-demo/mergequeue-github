@@ -11672,7 +11672,7 @@ equimomental
 elasmobranch
 electromechanics
 ethnical
-exaestuate
+exaestuate 1
 eyeball
 erept
 embracers
