@@ -21602,7 +21602,7 @@ condensator
 corbeled
 crateris
 condense
-condensed
+condensed 1
 condensedness
 condensers
 condenses
