@@ -4182,7 +4182,7 @@ cannibal
 cardioneurosis
 cardiopath
 cardiopathic
-chloanthite
+chloanthite 1
 calthrop
 cardiopulmonary
 cardiorenal
