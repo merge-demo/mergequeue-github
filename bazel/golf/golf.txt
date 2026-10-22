@@ -7469,7 +7469,7 @@ guereza
 glossist
 grabbier
 grunerite
-gourmandizer
+gourmandizer 1
 grapplement
 gomerals
 gasconaded
