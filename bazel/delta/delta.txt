@@ -8246,7 +8246,7 @@ diaglyphic
 desmopelmous
 dell
 davainea
-ductus 1
+ductus 2
 distrito
 diagnosed
 diagnostical
