@@ -2112,7 +2112,7 @@ gastrostege
 geison
 gawking
 glucinic
-gastrins
+gastrins 1
 gawkish
 grecomania 1
 gipsied

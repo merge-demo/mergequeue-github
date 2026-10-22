@@ -211,7 +211,7 @@ begary
 bioassays
 bigwigged
 bradyesthesia
-banditries
+banditries 1
 brainpower
 biofog
 bandicoot
