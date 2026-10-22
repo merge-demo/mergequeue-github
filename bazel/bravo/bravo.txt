@@ -7563,7 +7563,7 @@ beweeper
 beneficent
 beweeps
 bombilate
-bastardize
+bastardize 1
 bloodripe
 begiggle
 barnacle
