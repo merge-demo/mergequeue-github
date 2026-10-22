@@ -8498,7 +8498,7 @@ gelatinization
 gravely
 galops
 groupers
-gayal
+gayal 1
 galleon
 geomorphological
 geotectonically
