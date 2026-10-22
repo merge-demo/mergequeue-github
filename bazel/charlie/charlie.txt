@@ -30756,7 +30756,7 @@ cuisines
 crine
 cos
 chummy
-cuisse
+cuisse 1
 canonical
 composing
 cuitlateco
