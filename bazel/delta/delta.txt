@@ -6656,7 +6656,7 @@ draughtswoman
 desertification
 dodecahedric
 deserting
-drabs
+drabs 1
 diastimeter
 desertlessly
 dungaree
