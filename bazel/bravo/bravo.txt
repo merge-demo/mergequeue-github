@@ -1759,7 +1759,7 @@ bamalip
 basswood
 bamban
 bambochade
-bosuns
+bosuns 1
 bamboozles
 bamboozling
 bilanders
