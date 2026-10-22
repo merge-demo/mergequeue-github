@@ -3100,7 +3100,7 @@ expropriates
 ellipsograph
 executiveness
 esemplastic
-ellipticity
+ellipticity 1
 extemporize
 elliptograph
 elliptoid
