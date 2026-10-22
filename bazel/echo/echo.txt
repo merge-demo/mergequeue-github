@@ -2352,7 +2352,7 @@ ever
 electrocardiographic
 euphuistic
 explorational
-entocele
+entocele 1
 explosive
 electrochemistry
 electromobilism

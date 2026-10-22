@@ -1260,7 +1260,7 @@ dating
 disaffirmative
 dothienenteritis
 devitalizing
-diarrheal
+diarrheal 1
 discovert
 datiscosid
 delacerate
