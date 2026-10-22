@@ -4216,7 +4216,7 @@ exhorter
 echolalic
 electroetching
 exocardiac
-enghle
+enghle 1
 emeutes
 egoize
 enwound
