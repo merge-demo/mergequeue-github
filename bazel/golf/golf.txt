@@ -7789,7 +7789,7 @@ greasiest
 graying
 guapena
 grayling
-galivanted
+galivanted 1
 guessers
 girnal
 glacial 1
