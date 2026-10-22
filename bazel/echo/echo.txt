@@ -10274,7 +10274,7 @@ elasticizer
 ergal
 extravasate
 eulogium
-excipulum
+excipulum 1
 experimentize
 electronography
 erump
