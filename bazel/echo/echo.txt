@@ -12679,7 +12679,7 @@ elzevir
 extrapolation
 exomphalos
 erotogenic 1
-effrontery
+effrontery 1
 excrementary
 entame
 echoisms
