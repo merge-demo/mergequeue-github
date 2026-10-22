@@ -10073,7 +10073,7 @@ ethanolamine
 ephemeralness
 equidense
 ethanolysis
-excretion
+excretion 1
 ensepulcher
 exode
 ethnologists 1

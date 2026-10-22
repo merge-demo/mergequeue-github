@@ -10781,7 +10781,7 @@ gonadectomy
 gammadia
 grandevous
 gandered
-gignitive
+gignitive 1
 gamesomely
 gaincall
 guttated
