@@ -3724,7 +3724,7 @@ barrace
 blushiness
 battlesome
 brigantes
-bimestrial
+bimestrial 1
 battlestead
 battlewagon
 bendays
