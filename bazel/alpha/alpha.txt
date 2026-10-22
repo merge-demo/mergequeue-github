@@ -4046,7 +4046,7 @@ ailurophilia
 abiotrophic
 amyotaxia
 allylic
-autorotational
+autorotational 1
 aloyau
 afric
 application
