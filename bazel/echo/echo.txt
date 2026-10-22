@@ -5988,7 +5988,7 @@ enigmatist
 enigmatizing
 enigmatographer
 emotionality
-exempts
+exempts 1
 erogenic
 encoronet
 enisled
