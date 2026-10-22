@@ -25488,7 +25488,7 @@ chastens
 cervicohumeral
 contradictions
 corollarial
-corollarially
+corollarially 1
 callionymus
 corollaries
 corollet

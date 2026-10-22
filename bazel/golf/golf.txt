@@ -2203,7 +2203,7 @@ graphanalysis
 granitiferous
 granes
 guarantying
-ghosting
+ghosting 1
 guberniya
 ganophyllite
 glucolipide
