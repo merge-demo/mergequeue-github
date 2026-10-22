@@ -9274,7 +9274,7 @@ allover
 adjudicata
 alogically
 alogotrophy
-arkose
+arkose 1
 alderwoman
 aloid
 ashfall
