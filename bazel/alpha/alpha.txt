@@ -17610,7 +17610,7 @@ adjudgeable
 antimask
 antiphonical
 abdominales
-ascended
+ascended 1
 almandite
 apperceptionism
 anoura
