@@ -1844,7 +1844,7 @@ errableness
 enigmatical
 eared
 eighties
-exhalable
+exhalable 1
 eightieth
 eightling
 edematose
