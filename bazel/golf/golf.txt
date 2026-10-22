@@ -5387,7 +5387,7 @@ gritrock
 guiltless
 guacin
 gracelessly
-glykopexic
+glykopexic 1
 gastroduodenal
 greenest
 gurgled
