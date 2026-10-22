@@ -9601,7 +9601,7 @@ finalism
 faqir
 foreseeability
 filipinize
-fleeceable
+fleeceable 1
 fdub
 frailest
 fragmentitious
