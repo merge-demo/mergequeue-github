@@ -6154,7 +6154,7 @@ ergoplasm
 excommunicant
 entozoans
 epicentre
-eaved
+eaved 1
 earlywood
 ervipiame
 enmeshment
