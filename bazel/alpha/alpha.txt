@@ -8950,7 +8950,7 @@ allopathic
 anticoagulan
 actiniaria
 adlerian
-allopathically
+allopathically 1
 affrightingly
 allopathist
 audited
