@@ -9765,7 +9765,7 @@ guidon
 gagaku
 gymnastic
 gasworks
-gluttonizing
+gluttonizing 1
 gradino
 goonda
 gastriloquial
