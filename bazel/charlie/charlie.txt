@@ -13080,7 +13080,7 @@ ceibos
 charming
 cybernation
 cybernetic
-chimblies
+chimblies 1
 cybernetical
 cybernetically
 cybernetician
