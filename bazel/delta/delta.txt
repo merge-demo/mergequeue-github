@@ -1787,7 +1787,7 @@ dalradian
 debamboozle
 dinitril
 debarbarization
-dilation
+dilation 1
 desmoscolex
 dilemma
 debark
