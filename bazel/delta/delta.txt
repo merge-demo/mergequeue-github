@@ -2711,7 +2711,7 @@ deconsideration
 decontaminating
 diatessaron
 dortiness
-dejectly
+dejectly 1
 decontaminators
 depressionary
 dvornik
