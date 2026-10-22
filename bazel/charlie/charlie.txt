@@ -5235,7 +5235,7 @@ casque
 casqued
 cushat
 casquetel
-colemouse
+colemouse 1
 cassabas
 cassabully
 customs
