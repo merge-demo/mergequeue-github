@@ -7512,7 +7512,7 @@ decocainize
 deutencephalon
 dumfounding
 dehgan
-deuteranomaly
+deuteranomaly 1
 deuteranope
 deuterate
 deuteration
