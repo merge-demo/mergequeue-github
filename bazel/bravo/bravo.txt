@@ -9742,7 +9742,7 @@ baidak
 bruce
 bossies
 burdocks 1
-basifugal
+basifugal 1
 buffered
 bistipulate
 bistort
