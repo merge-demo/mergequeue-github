@@ -5957,7 +5957,7 @@ dingly
 damascening 1
 dianthus
 destalinize
-discussible
+discussible 1
 dayfly
 diplodus
 deprogrammed
