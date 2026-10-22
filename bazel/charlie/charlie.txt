@@ -14538,7 +14538,7 @@ cystelcosis
 cosmologic
 cistercian
 choppy
-cistercianism
+cistercianism 1
 cisternae
 cariocas
 cisternal
