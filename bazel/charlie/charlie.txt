@@ -7032,7 +7032,7 @@ centaury
 carburetted
 carnal
 chink
-centauric
+centauric 1
 checkline
 centauridium
 chaetognath
