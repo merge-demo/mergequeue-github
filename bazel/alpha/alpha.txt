@@ -10106,7 +10106,7 @@ antinationally
 archecclesiastic
 amylosynthesis
 adelpholite
-alumin
+alumin 1
 acidyl
 antiluetic
 aspirin
