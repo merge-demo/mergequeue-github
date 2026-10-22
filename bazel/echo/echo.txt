@@ -9496,7 +9496,7 @@ enstore
 equipondious
 escry
 escribientes
-escrime
+escrime 1
 eschatologically
 embryoferous
 epiphanising
