@@ -5348,7 +5348,7 @@ evaders
 embaphium
 ethenyl
 emendicate
-endosmoses
+endosmoses 1
 explicit
 enjewel
 emim
