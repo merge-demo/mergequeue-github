@@ -3009,7 +3009,7 @@ eleoblast
 evaluate
 extine
 efflorescence
-evocative
+evocative 1
 extern
 encorpore
 externa
