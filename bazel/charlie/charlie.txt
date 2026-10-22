@@ -21292,7 +21292,7 @@ concessory
 concettism
 conch
 concha
-corniches
+corniches 1
 countenance
 celiitis
 cogitated
