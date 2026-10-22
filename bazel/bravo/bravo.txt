@@ -17383,7 +17383,7 @@ bunger
 bimorphemic
 bijection
 bunghole
-biathlons
+biathlons 1
 brachistochronic
 beignets
 bottles
