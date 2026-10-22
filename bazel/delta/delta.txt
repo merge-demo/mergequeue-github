@@ -11586,7 +11586,7 @@ diplococcic
 disconnector
 demicannon
 denotable
-dollarfish
+dollarfish 1
 devillike
 disconsent
 diphthongised
