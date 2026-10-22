@@ -1119,7 +1119,7 @@ giddier
 gesith
 grotesco
 grope
-galatic
+galatic 1
 gastrointestinal
 gruntled
 gashes
