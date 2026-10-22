@@ -26760,7 +26760,7 @@ counterconditioning
 countercoupe
 countercourant
 countercry
-countercriticism
+countercriticism 1
 countercultural
 counterculture
 coagulums
