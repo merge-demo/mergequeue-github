@@ -8464,7 +8464,7 @@ epos
 elianic
 encinas
 epizootic
-epoxyed
+epoxyed 1
 epoxies
 employed
 evangelistaries
