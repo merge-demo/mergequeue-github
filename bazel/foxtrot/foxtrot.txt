@@ -6706,7 +6706,7 @@ fenner
 flingers
 flaggily 1
 faubourg
-faintheartedly
+faintheartedly 1
 fundamentalism
 frontrunner
 frustrations
