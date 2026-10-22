@@ -4207,7 +4207,7 @@ glotum
 gatchwork
 greying
 ges
-geod
+geod 1
 gleesome
 ganef
 gulflike
