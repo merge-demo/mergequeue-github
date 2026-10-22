@@ -6498,7 +6498,7 @@ ahi
 azotometer
 algaesthesis
 amebula
-ahir
+ahir 1
 alternant
 autunian
 affiancing
