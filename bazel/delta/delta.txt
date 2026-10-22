@@ -2747,7 +2747,7 @@ disaffiliate
 devonshire
 dictates
 dissembling
-decore
+decore 1
 dewcup
 decorist
 dragged
