@@ -11724,7 +11724,7 @@ essayism
 epinard
 expunge
 enclasped
-epicrises
+epicrises 1
 examen
 elementals
 enregistry
