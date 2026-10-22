@@ -16421,7 +16421,7 @@ dozens
 dishpan
 dimorphous
 deviousness
-dozzle
+dozzle 1
 dozzled
 dr
 draba
