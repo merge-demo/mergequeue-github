@@ -8342,7 +8342,7 @@ dialectician
 dual
 decapodous
 droopingness
-diplois
+diplois 1
 dejerate
 dargue
 daemonies
