@@ -1772,7 +1772,7 @@ entophytically
 eyeservant
 eyeshade
 exolve
-enticingness
+enticingness 1
 euglenales
 enterocentesis
 echinital
