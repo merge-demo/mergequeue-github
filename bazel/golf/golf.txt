@@ -1401,7 +1401,7 @@ gaits
 ganyie
 gallotannin
 gasified
-gausterer
+gausterer 1
 gearshift
 gcd
 gangplow
