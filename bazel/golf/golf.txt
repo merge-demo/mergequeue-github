@@ -765,7 +765,7 @@ gawkily
 geometrically
 graywether
 galvanotherapy
-geomorphic
+geomorphic 1
 galvanotropism
 guntub
 globulolysis
