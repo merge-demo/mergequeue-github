@@ -2372,7 +2372,7 @@ entendres
 electroplating
 expostulate
 electroplates
-ecumenical
+ecumenical 1
 emulsifying
 egba
 episteme
