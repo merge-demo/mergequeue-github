@@ -2357,7 +2357,7 @@ canals
 cylindrocellular
 cumin
 calinda
-ccw
+ccw 1
 canamo
 cranesbill
 chaetognathous
