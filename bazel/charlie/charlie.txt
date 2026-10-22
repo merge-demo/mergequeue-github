@@ -7329,7 +7329,7 @@ cephalate
 cephalhematoma
 coracovertebral
 cephalic
-chequering
+chequering 1
 cephalina
 cephaline
 cephalins
