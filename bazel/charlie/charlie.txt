@@ -25744,7 +25744,7 @@ corrigibleness
 citrines
 chatta
 compote
-coronal
+coronal 1
 cleruch
 corrigibly
 corrigiola
