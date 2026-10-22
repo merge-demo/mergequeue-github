@@ -37,7 +37,7 @@ banally
 brachydomal
 bodleian
 brutalizes
-bracketwise
+bracketwise 1
 babblers
 bodement
 beneficiation
