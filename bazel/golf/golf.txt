@@ -10711,7 +10711,7 @@ gastrolytic
 gutnic
 gracioso
 guywire
-gerbera
+gerbera 1
 germinated
 gushily
 gaumless
