@@ -15765,7 +15765,7 @@ dormouse
 digallic
 dornic
 deletive
-deterred
+deterred 1
 dornick
 dornicks
 datival
