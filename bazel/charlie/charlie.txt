@@ -24090,7 +24090,7 @@ croatian
 cricothyroid
 catoptrics
 commiserator
-chomper
+chomper 1
 conversusi
 chylocele
 converters
