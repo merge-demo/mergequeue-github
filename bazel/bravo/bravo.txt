@@ -14692,7 +14692,7 @@ blackhander
 brassies
 brachiorrheuma
 beautician
-beatas
+beatas 1
 belili
 bestraught
 brasslike
