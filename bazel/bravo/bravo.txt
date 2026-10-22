@@ -6823,7 +6823,7 @@ bushpig
 boaedon
 bivouac
 busboy
-battalia
+battalia 1
 bitulithic
 besagne
 bisexually
