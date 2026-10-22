@@ -12249,7 +12249,7 @@ endosteal
 enchases
 expertized
 encommon
-executrixes
+executrixes 1
 evolutionarily
 expounding
 exegesis
