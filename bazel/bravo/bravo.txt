@@ -2260,7 +2260,7 @@ bianco
 bysen
 broadbrim
 bactericholia
-bide
+bide 1
 bathochromy
 bellman
 brownly
