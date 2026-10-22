@@ -12249,7 +12249,7 @@ disgarnish
 descartes
 deliberativeness
 dossiere
-demoniacism
+demoniacism 1
 drubbing
 desegregate
 dysadaptation
