@@ -2389,7 +2389,7 @@ dino
 decidedly
 dewclaw
 decidence
-destabilized
+destabilized 1
 dwyka
 deciders
 dubitante
