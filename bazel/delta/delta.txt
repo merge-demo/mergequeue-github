@@ -5329,7 +5329,7 @@ distincter
 dialkylamine
 distitle
 defiant
-donis
+donis 1
 dolor
 dentatoserrate
 decennary
