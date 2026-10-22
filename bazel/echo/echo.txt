@@ -7477,7 +7477,7 @@ extrafocal
 electronographic
 eyess
 extracivically
-ephetae
+ephetae 1
 effulged
 ephetic
 epitaphs
