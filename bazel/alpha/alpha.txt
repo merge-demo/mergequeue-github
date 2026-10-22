@@ -1818,7 +1818,7 @@ adduct
 antiketogenesis
 acephalus
 azotaemia
-atridean
+atridean 1
 adolesced
 acequia
 assignable
