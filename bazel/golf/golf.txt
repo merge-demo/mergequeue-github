@@ -1402,7 +1402,7 @@ ganyie
 gallotannin
 gasified
 gausterer
-gearshift
+gearshift 1
 gcd
 gangplow
 grundyite
