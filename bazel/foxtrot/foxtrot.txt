@@ -6703,7 +6703,7 @@ frequent
 finableness
 forecontrive
 fenner
-flingers
+flingers 1
 flaggily 1
 faubourg
 faintheartedly
