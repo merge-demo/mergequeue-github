@@ -10007,7 +10007,7 @@ dissatisfactorily
 dally
 disparted
 desophisticate
-deforests
+deforests 1
 dimorphotheca
 devitalize
 dogwood
