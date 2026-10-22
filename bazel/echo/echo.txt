@@ -4535,7 +4535,7 @@ eery
 enrange
 entrepreneurial
 ectotheca
-erucin
+erucin 1
 encephalomyocarditis
 emancipate
 enactive
