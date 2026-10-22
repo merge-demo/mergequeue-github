@@ -364,7 +364,7 @@ galoped
 galactosis
 grimsire
 gastrodynia
-gauric
+gauric 1
 glovelike
 galactotrophy
 goodhumoredness

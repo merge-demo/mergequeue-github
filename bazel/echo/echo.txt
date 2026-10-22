@@ -7384,7 +7384,7 @@ execrableness
 euclases
 eucyclic
 epeirogenesis
-epiphanic
+epiphanic 1
 ennobler
 eelblennies
 epeirogenically
