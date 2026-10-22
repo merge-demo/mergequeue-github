@@ -1825,7 +1825,7 @@ assignable
 aethered
 aceraceous
 acerae
-arcual
+arcual 1
 angling
 acerate
 acerated
