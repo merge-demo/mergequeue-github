@@ -8652,7 +8652,7 @@ channelled
 channelling
 commiseratingly
 channelure
-cestus
+cestus 1
 chronoscope
 chansonette
 commissionaire

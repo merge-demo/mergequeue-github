@@ -9193,7 +9193,7 @@ granulating
 grippiness
 gratulatory
 glycolytically
-guanajuatite
+guanajuatite 1
 galvanometer
 greenwich
 gynarchies
