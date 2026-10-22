@@ -15819,7 +15819,7 @@ chien
 caranga 1
 catnapper
 clearsightedness
-clearstarcher
+clearstarcher 1
 clearstory
 chocker
 clearstoried
