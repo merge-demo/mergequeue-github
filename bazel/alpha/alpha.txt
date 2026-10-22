@@ -12785,7 +12785,7 @@ antimilitarist
 angiokeratoma
 apocopation
 anthocerotales
-angioleucitis
+angioleucitis 1
 antihemagglutinin
 annelid
 angioma
