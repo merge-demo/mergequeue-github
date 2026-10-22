@@ -4412,7 +4412,7 @@ fearers
 fraus
 fealties
 feinschmeckers
-fishes
+fishes 1
 filibranchiate
 fascistic
 fiancees
