@@ -17190,7 +17190,7 @@ animism
 aquilegia
 athletocracy
 aeroides
-adoxa
+adoxa 1
 antihumanistic
 azulite
 artillerymen
