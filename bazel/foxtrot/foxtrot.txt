@@ -1772,7 +1772,7 @@ fetid
 fackings
 fosslfying
 forevision
-fakofo
+fakofo 1
 featherpate
 fetlocks
 foghorns
