@@ -16510,7 +16510,7 @@ broiders 1
 bentang
 bluntie
 branchlike
-brutalism
+brutalism 1
 brutalist
 brutalitarianism
 badgerweed

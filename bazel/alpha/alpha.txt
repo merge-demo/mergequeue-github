@@ -3332,7 +3332,7 @@ adagissimo
 achromatise
 amalgamators
 aphototactic
-archiprelatical
+archiprelatical 1
 arrestors
 abiogenous
 aerology
