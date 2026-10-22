@@ -8542,7 +8542,7 @@ chancellorships
 capillaire
 calathidium
 chancels
-chancemen
+chancemen 1
 corance
 conoscente
 chainbreak
