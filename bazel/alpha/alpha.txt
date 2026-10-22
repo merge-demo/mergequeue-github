@@ -8882,7 +8882,7 @@ allocyanine
 antireform
 arbusterin
 archduchesses
-algorismic
+algorismic 1
 allodia
 allodial
 alicula
