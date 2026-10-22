@@ -4724,7 +4724,7 @@ guzmania
 guanacos
 gallinula
 gynodioecism
-gymnasiast
+gymnasiast 1
 gumshoe
 glucosuria
 grudgingly
