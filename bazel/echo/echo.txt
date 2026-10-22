@@ -12669,7 +12669,7 @@ expunges
 exogenetic
 enkolpion
 exometritis
-elychnious
+elychnious 1
 excogitate
 endeavors
 echo
