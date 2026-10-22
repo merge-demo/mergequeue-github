@@ -3054,7 +3054,7 @@ disestablishment
 deerhound
 diphthongs
 deucedly
-dowress
+dowress 1
 decarbonized
 desegregation
 deers
