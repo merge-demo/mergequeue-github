@@ -28973,7 +28973,7 @@ corroborated
 cheilotomy
 cyanic
 cricoid
-cricoids
+cricoids 1
 couper
 cricopharyngeal
 cricothyreotomy
