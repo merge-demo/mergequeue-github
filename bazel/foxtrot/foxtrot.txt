@@ -431,7 +431,7 @@ feal
 flitting
 fogmen
 fairway
-fulminate
+fulminate 1
 fragilariaceae
 fieldbird
 forebitt
