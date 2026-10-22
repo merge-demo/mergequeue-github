@@ -16680,7 +16680,7 @@ clomb
 cloth
 clothe
 clothed
-confusional
+confusional 1
 calathian
 clothesbag
 clothesyard
