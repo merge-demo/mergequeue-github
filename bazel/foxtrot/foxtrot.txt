@@ -2214,7 +2214,7 @@ fixe
 fibrinopurulent
 fogged
 feminal
-fruiting
+fruiting 1
 feminility
 feminin
 frecklish

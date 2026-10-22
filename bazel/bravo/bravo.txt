@@ -4289,7 +4289,7 @@ brabbled
 bembecidae
 bathyscaph
 battledore
-bacterious
+bacterious 1
 bebreech
 bigeminy
 backcourtman
