@@ -6634,7 +6634,7 @@ contempt
 cecitis
 cecomorphic
 classily
-cecopexy
+cecopexy 1
 cecrops
 cecum
 cecums 1
