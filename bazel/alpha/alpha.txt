@@ -21400,7 +21400,7 @@ antidraft
 agitation
 atabeg
 asleep
-aslumber
+aslumber 1
 aspergillales
 arolla
 abkar
