@@ -3350,7 +3350,7 @@ deliriate
 diastem
 demitting
 desisted
-duddery
+duddery 1
 destiny
 domesticable
 dynamometry
