@@ -1061,7 +1061,7 @@ floriken
 floter
 foredestining
 furriery
-farolito
+farolito 1
 flustration
 fiberboard
 ferriages
