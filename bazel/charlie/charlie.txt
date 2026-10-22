@@ -28773,7 +28773,7 @@ circulator
 crescentader
 cleaving
 crescented
-clocked
+clocked 1
 compensate
 coacervated
 crescentiform
