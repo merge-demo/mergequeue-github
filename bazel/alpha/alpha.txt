@@ -13767,7 +13767,7 @@ approved
 amusable
 abortuses
 ambisyllabic
-altimeter
+altimeter 1
 accrementition
 ancyrene
 alani
