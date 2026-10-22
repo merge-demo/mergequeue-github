@@ -3670,7 +3670,7 @@ entombment
 epigrammatist
 endura 1
 euploids
-exscinded
+exscinded 1
 endocrinopathic
 entangling
 embryogenesis
