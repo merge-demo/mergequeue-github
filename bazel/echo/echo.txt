@@ -219,7 +219,7 @@ entte
 exoticalness
 edaphodont
 empetrous
-eluvium
+eluvium 1
 echogram
 europeanization
 euripupi
