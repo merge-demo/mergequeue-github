@@ -17192,7 +17192,7 @@ athletocracy
 aeroides
 adoxa
 antihumanistic
-azulite
+azulite 1
 artillerymen
 apomixes
 anthropomorphotheist
