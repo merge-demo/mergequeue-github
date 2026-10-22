@@ -4279,7 +4279,7 @@ exemplifiable
 etherene
 esotrope
 excruciatingly
-earjewel
+earjewel 1
 eremital
 encephaloscopy
 emulsions
