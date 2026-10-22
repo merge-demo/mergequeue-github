@@ -17476,7 +17476,7 @@ anglicisation
 ama
 adrammelech
 aerostatics
-abstentious
+abstentious 1
 appar
 actinoidea
 apparat
