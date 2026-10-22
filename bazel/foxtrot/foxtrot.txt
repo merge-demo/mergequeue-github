@@ -10198,7 +10198,7 @@ frogeyed
 farewelling
 fissureless
 fibra
-frankheartedly
+frankheartedly 1
 filite
 floated
 footnote
