@@ -5265,7 +5265,7 @@ exospherical
 embarcadero
 ensphere
 edginesses
-edificative
+edificative 1
 euchroic
 exsected
 enantiomeride
