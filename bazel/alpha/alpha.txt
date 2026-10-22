@@ -12061,7 +12061,7 @@ alpenhorns
 autocratical
 abduced
 anastases
-anthropophagize
+anthropophagize 1
 admiral
 assentation
 anastasia
