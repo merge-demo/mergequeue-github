@@ -386,7 +386,7 @@ dadap
 daimyos
 drinkers
 daimiote
-defension
+defension 1
 deployable
 disembargoing
 dimmet
