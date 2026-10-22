@@ -7637,7 +7637,7 @@ gears
 glancingly 1
 guenons
 guardianless 1
-geomantic
+geomantic 1
 gradated
 gatecrasher
 grafts
