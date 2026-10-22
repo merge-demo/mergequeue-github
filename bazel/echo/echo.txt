@@ -7428,7 +7428,7 @@ etruria
 etalon
 encheat
 escarpment
-eternalizing
+eternalizing 1
 eperua
 embitters
 enworthed
