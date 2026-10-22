@@ -1900,7 +1900,7 @@ eyrant
 erasability
 equiseta
 extrovert
-errata
+errata 1
 eximiousness
 encashes
 enwisen
