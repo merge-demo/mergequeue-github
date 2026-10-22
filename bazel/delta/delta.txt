@@ -12880,7 +12880,7 @@ dismissal
 dismissals
 dismissed
 distemperate
-dismisses
+dismisses 1
 dismissing
 dismissory
 discographically
