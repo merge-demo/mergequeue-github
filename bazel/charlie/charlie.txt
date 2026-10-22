@@ -8926,7 +8926,7 @@ charcoaly
 collecting
 cryptologic
 closterium
-chards
+chards 1
 coralliferous
 chared
 charely
