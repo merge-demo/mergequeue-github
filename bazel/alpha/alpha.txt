@@ -9493,7 +9493,7 @@ animals
 acinarious
 attemperate
 antivenins
-alternatively
+alternatively 1
 alternativeness
 acaleph
 alternatives
