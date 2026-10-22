@@ -669,7 +669,7 @@ abonnement
 artesian
 aborad
 aboral
-abord
+abord 1
 aboriginality
 anhydrosis 1
 aborigines
