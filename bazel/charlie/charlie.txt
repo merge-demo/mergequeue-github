@@ -1593,7 +1593,7 @@ crafts
 calloses
 callosities
 conductimetric
-calloused
+calloused 1
 callouses
 contraprogressist
 chronostichon
