@@ -15773,7 +15773,7 @@ dornock
 dornocks
 desanded
 diffugient
-demolishes
+demolishes 1
 dumka
 dorp
 diphthongalize
