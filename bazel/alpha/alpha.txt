@@ -706,7 +706,7 @@ amyloplastic
 apiales
 abounding
 acrolithic
-abounds
+abounds 1
 about
 anticytotoxin
 astrofel
