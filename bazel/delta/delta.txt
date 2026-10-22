@@ -18598,7 +18598,7 @@ dustee
 dusters
 desperadoism
 dustheap
-dedo
+dedo 1
 daincha
 dustless
 droguet
