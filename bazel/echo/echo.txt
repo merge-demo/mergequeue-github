@@ -8653,7 +8653,7 @@ elutriating
 emergently
 equinate
 enameller
-emerging
+emerging 1
 excretions
 equinumerally
 equinus
