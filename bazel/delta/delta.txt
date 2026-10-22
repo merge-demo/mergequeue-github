@@ -9859,7 +9859,7 @@ disclander
 dinars
 diluvianism
 demibastioned
-denty
+denty 1
 diluvium
 digests
 draconically
