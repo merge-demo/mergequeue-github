@@ -4352,7 +4352,7 @@ enamorment
 endoute
 economize
 enterointestinal
-exceeders
+exceeders 1
 exothermous
 enterodynia
 emulative
