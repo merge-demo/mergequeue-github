@@ -9431,7 +9431,7 @@ gobia
 galliot
 gouramis
 gemmate
-garroted
+garroted 1
 glandulation
 gluttingly
 geonic
