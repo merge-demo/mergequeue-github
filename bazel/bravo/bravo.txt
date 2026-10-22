@@ -9021,7 +9021,7 @@ bidental
 boulevardier
 bringal
 bize
-bitentaculate
+bitentaculate 1
 busheler
 barbershop
 burnouts
