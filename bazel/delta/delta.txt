@@ -12161,7 +12161,7 @@ disfaith
 disconsolance
 disfashion
 diplosome
-deaerating
+deaerating 1
 duennadom
 dewata
 dyophysitism
