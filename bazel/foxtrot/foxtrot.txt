@@ -8116,7 +8116,7 @@ floatation
 favouredness
 foretaster
 forefin
-foretasting
+foretasting 1
 fretsaw
 falisci
 forewrought

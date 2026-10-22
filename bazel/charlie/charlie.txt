@@ -23622,7 +23622,7 @@ clarichord
 contoured
 copestone
 cleping
-chivvies
+chivvies 1
 courteous
 contr
 contrabandage
