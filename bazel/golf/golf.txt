@@ -6913,7 +6913,7 @@ ganglioform
 geographer
 geneserine
 gangliglia
-gulosity
+gulosity 1
 gestations
 galacthidrosis
 gaoling
