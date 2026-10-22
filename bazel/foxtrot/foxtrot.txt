@@ -583,7 +583,7 @@ flagstaff
 frighteningly
 furmety
 forelocks
-faufel
+faufel 1
 forlornity
 fallowist
 fardh
