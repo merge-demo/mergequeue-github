@@ -7103,7 +7103,7 @@ estivage
 emulsible
 estuous
 edicule
-equiprobability
+equiprobability 1
 electrophoric
 enchainments
 epiplankton
