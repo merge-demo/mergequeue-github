@@ -13390,7 +13390,7 @@ expostulatively
 euscaro
 escapeway
 exemplify
-exposture
+exposture 1
 epanaphoral
 exter
 expounder
