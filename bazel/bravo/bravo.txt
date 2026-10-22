@@ -16340,7 +16340,7 @@ beflower
 bowels
 broadswords
 bicarb
-bleatingly
+bleatingly 1
 bdft
 bothies 1
 beloved
