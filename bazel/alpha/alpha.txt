@@ -16050,7 +16050,7 @@ adviceful
 antirepublicanism
 ampulla
 antireservationist
-actionize
+actionize 1
 aubretias
 atmidalbumin
 anaphasic
