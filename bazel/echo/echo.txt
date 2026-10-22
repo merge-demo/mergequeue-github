@@ -4703,7 +4703,7 @@ evolutionize
 endemics
 electromagnets
 encyclopedic
-ebauche
+ebauche 1
 encyclopedical
 etherialisation
 erpetology
