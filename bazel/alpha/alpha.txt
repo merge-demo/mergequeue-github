@@ -6455,7 +6455,7 @@ astucious
 antiweed
 aguirage 1
 aguise
-antimeter
+antimeter 1
 axanthopsia 1
 antignostical
 ameliorant
