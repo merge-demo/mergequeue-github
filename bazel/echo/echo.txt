@@ -4606,7 +4606,7 @@ expede
 enfettered
 encheason
 enchequer
-ethnopsychic
+ethnopsychic 1
 euphemism
 endosarcode
 ethnolinguistics
