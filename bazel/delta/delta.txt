@@ -9974,7 +9974,7 @@ diminutive
 dimiss
 deindustrialization
 dimissaries
-dimitry
+dimitry 1
 decamped
 democratian
 demoiselle
