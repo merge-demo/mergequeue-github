@@ -4228,7 +4228,7 @@ foolishest
 fluviatile
 fridge
 furtherly
-figurative
+figurative 1
 fallotomy
 firelight
 flab

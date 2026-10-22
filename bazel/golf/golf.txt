@@ -6859,7 +6859,7 @@ gobonee
 gnomonic
 gloryingly
 gypsied
-glauconite
+glauconite 1
 granulomas
 gaffsman
 gonosphere
