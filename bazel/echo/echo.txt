@@ -1670,7 +1670,7 @@ epiphloedal
 electromerism
 electrotaxis
 emigr
-ejusdem
+ejusdem 1
 eyeish
 eisteddfodic
 eyeballed
