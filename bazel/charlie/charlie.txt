@@ -30656,7 +30656,7 @@ compole
 cucurbita
 cucurbitaceous
 cucurbite
-clinicist
+clinicist 1
 compromis
 champagne
 coequation
