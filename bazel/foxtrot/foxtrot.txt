@@ -6996,7 +6996,7 @@ fumant
 flannels
 fineries
 freemason 1
-fondly
+fondly 1
 fluorspar
 flop
 fondlingly
