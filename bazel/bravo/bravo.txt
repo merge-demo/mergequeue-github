@@ -10537,7 +10537,7 @@ bootikin
 backlash
 blatch
 bouviers
-boychiks
+boychiks 1
 bambuco
 blate
 blately
