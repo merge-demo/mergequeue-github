@@ -12022,7 +12022,7 @@ electioneerer
 enthusiasts
 ectromelian
 exclusive
-enaunter
+enaunter 1
 escutellate
 exclusiveness
 effectuality

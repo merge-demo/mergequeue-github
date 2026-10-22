@@ -3533,7 +3533,7 @@ dinitrotoluene
 disapproving
 defrayable
 disembarrassment
-dismissable
+dismissable 1
 doom
 defrayers
 defraying
