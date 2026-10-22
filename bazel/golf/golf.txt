@@ -8166,7 +8166,7 @@ galbanum
 generalissimo
 grager
 gironde
-gordiaceous
+gordiaceous 1
 granulocytic
 gambroon
 glazier
