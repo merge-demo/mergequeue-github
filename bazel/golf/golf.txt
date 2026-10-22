@@ -4302,7 +4302,7 @@ glyptotherium
 goboes
 glabellum
 gynecophorous
-gynecratic
+gynecratic 1
 gelidness
 gorgonia
 gyneolater
