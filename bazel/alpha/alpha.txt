@@ -19379,7 +19379,7 @@ admaxillary
 agio
 argent
 argentamid
-amadi
+amadi 1
 astasias
 aerocar
 abysms
