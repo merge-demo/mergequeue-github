@@ -4347,7 +4347,7 @@ demandingly
 demands
 denay
 desyl
-dendrodic
+dendrodic 1
 dysphagic
 delead
 demersal

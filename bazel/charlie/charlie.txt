@@ -11288,7 +11288,7 @@ centripetency
 chlorocalcite
 chlorochromates
 construing
-corrects
+corrects 1
 claritude
 cwo
 checkups
