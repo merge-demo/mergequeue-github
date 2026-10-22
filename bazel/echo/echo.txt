@@ -5270,7 +5270,7 @@ euchroic
 exsected
 enantiomeride
 extrascriptural
-escartelly
+escartelly 1
 euphuizing
 esphresis
 expenseless
