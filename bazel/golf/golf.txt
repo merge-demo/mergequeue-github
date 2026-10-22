@@ -1297,7 +1297,7 @@ gnawingly
 gargalize
 guttles
 grump
-gerendum
+gerendum 1
 government
 gulliver
 geodiatropism
