@@ -16438,7 +16438,7 @@ antres
 antrophose
 antrorse
 antrorsely
-antroscope
+antroscope 1
 antiromanticism
 antrotympanitis
 areopagus
