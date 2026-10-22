@@ -10440,7 +10440,7 @@ gumdrop
 gelseminine
 gumly
 gruffs
-gesticulatory
+gesticulatory 1
 gambeer
 gobiidae
 genevas
