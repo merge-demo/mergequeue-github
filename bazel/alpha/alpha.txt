@@ -13487,7 +13487,7 @@ accomplish
 antagonisable
 apicifixed
 apse
-abanic
+abanic 1
 annihilationist 1
 annihilationistic
 arrobas
