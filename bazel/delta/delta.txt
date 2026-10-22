@@ -308,7 +308,7 @@ dayanim
 daybeacon
 dealbate
 daybed
-devchar
+devchar 1
 disembowelment
 disgruntling
 dissuasiveness
