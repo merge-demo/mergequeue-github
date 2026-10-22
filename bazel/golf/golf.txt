@@ -82,7 +82,7 @@ goop
 gluey
 guidelines
 groupoid 1
-gallops
+gallops 1
 grutten
 gadabouts
 gualaca
