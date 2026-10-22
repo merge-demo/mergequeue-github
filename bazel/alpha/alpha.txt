@@ -11211,7 +11211,7 @@ antistrophic
 achaenodon
 amphictyons
 anisospore
-amphid
+amphid 1
 amphophile
 amphidiarthrosis
 aryans
