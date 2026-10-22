@@ -27570,7 +27570,7 @@ cupmaker
 coves
 censured
 covet
-cerealin
+cerealin 1
 covetable
 coveted
 coveter
