@@ -1905,7 +1905,7 @@ gammaridae
 gaucho
 generalists
 gerbillus
-gamelote
+gamelote 1
 germaniums
 groundable
 gowd
