@@ -2755,7 +2755,7 @@ candyfloss
 chintzes
 castrametation
 cannelons
-clitorises
+clitorises 1
 cannelure
 clatsop
 compete
