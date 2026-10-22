@@ -9115,7 +9115,7 @@ grindable
 gibbose
 grissel
 gingerol
-gadite
+gadite 1
 gelseminic
 gummers
 grinders
