@@ -4961,7 +4961,7 @@ anthonomus
 aerometer
 aspen
 amygdalus
-amenite
+amenite 1
 amphictyonies
 autonomously
 antelucan
