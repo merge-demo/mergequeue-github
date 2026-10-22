@@ -11335,7 +11335,7 @@ amphibian
 autoclasis
 attaste
 antipeptone
-anticodon
+anticodon 1
 alloquy
 anticreeper
 amphitrichate
