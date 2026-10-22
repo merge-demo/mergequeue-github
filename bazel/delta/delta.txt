@@ -13970,7 +13970,7 @@ dystopian
 dystopias
 dolichosaur
 dilantin
-depriving
+depriving 1
 dinkies
 dildos
 drammach
