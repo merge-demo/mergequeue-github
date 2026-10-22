@@ -7441,7 +7441,7 @@ elbowbush
 ephas
 ephebea
 enchaining
-excepts
+excepts 1
 employes
 elenctic
 escapers
