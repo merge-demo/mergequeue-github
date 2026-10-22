@@ -15096,7 +15096,7 @@ dogmatical
 dogmatically
 danube
 distylar
-diagrammable
+diagrammable 1
 disfrequent
 dogmatise
 dogmatised
