@@ -11057,7 +11057,7 @@ disapostle
 disapparel
 descriptive 1
 disappear
-divorcees
+divorcees 1
 disbowelling
 distended
 decrepitly
