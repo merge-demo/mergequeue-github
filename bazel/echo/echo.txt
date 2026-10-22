@@ -3593,7 +3593,7 @@ edifier
 extracellularly
 excelsin
 emydes 1
-eventerate
+eventerate 1
 exhibitable
 euclea
 egocerus
