@@ -2004,7 +2004,7 @@ ekphorias
 empetrum
 experienceless
 eryngo
-ekron
+ekron 1
 encephalocele
 educement
 epidemics
