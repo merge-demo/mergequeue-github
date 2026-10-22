@@ -3367,7 +3367,7 @@ desulphurized
 dogmouth
 dentils
 doles
-dagos
+dagos 1
 deturn
 dictative
 defis
