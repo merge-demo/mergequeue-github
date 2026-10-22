@@ -8184,7 +8184,7 @@ ferula
 fantastry
 feverberries
 formicinae
-faddle
+faddle 1
 fraught
 flourishable
 furores
