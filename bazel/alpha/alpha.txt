@@ -20653,7 +20653,7 @@ arthrospore 1
 arthrostome
 arthrostomy
 arthrotyphoid
-amputative
+amputative 1
 azimide
 arthrotome
 ansi
