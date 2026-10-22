@@ -4456,7 +4456,7 @@ disillusioning
 dendrons
 dibbling
 divelling
-directoral
+directoral 1
 dampcourse
 demethylate
 definitize
