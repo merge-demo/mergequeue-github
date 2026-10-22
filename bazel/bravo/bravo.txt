@@ -7326,7 +7326,7 @@ bigly
 bugi
 bethesda
 beneplacit
-biangular
+biangular 1
 boatels
 babirussa
 bootstrap
