@@ -3384,7 +3384,7 @@ glaucescence
 griseous
 garment
 gigartinaceae
-gypseous
+gypseous 1
 gaertnerian
 gynandries
 gospodin
