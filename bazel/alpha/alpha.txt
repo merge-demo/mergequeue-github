@@ -11735,7 +11735,7 @@ acacatechin
 ablator
 acnodes
 anagogic
-ambar
+ambar 1
 aventayle
 apposes
 advecting
