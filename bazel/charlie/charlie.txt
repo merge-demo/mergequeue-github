@@ -6799,7 +6799,7 @@ cerinthian
 cowshard
 capless
 celioscope
-cella
+cella 1
 cellarage
 cellared
 chamoix
