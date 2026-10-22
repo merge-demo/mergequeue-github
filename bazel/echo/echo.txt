@@ -1069,7 +1069,7 @@ embryonically
 edgrow
 encephaloscope
 enormous
-ead
+ead 1
 ensanguining
 edhs
 esculic
