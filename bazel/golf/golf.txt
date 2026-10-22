@@ -1719,7 +1719,7 @@ glaciation 1
 gloated
 glaucin
 gussie
-goblinish
+goblinish 1
 governmentally
 gnarlier
 gallicize
