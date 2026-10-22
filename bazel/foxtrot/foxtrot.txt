@@ -2487,7 +2487,7 @@ fry
 fernyear
 furison
 funs
-fernshaw
+fernshaw 1
 fordo
 forehatch
 flavic
