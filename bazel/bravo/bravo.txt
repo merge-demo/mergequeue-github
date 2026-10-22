@@ -3550,7 +3550,7 @@ bipinnaria
 bathymetry
 bathymetrical
 biggonet
-bathing
+bathing 1
 bastinadoes
 beckoning
 bridgekeeper
