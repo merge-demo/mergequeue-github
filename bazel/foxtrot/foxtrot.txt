@@ -5493,7 +5493,7 @@ fricassee
 friezy
 fiduciarily
 friseurs
-fossed
+fossed 1
 fretwork
 forbarred
 fratching
