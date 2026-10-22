@@ -1038,7 +1038,7 @@ golp
 glanced
 gymnonoti
 gayness
-groan
+groan 1
 glassfuls
 gabardine
 gnarl
