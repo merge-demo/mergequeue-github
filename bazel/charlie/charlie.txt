@@ -3193,7 +3193,7 @@ capful
 caphar
 clistogastra
 cotillon
-clerkage
+clerkage 1
 capias
 capilaceous
 cushaw
