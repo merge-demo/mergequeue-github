@@ -4012,7 +4012,7 @@ galliasses
 gamari
 galravage
 galvanograph
-gteau
+gteau 1
 geared
 gilbertian
 girlishness
