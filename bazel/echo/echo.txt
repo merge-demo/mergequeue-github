@@ -458,7 +458,7 @@ escapements
 erf
 eunuchal
 eveners
-enanthesis
+enanthesis 1
 expediteness
 evector
 ecclesia
