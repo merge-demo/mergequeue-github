@@ -10078,7 +10078,7 @@ ensepulcher
 exode
 ethnologists 1
 endoparasitism
-epipolize
+epipolize 1
 englishing
 epinglette
 escharine
