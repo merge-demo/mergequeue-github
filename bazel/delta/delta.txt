@@ -1638,7 +1638,7 @@ daylong
 dimetrodon
 deodate
 datolitic
-domify
+domify 1
 devertebrated
 daydrudge
 dealkylate
