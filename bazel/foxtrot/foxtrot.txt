@@ -2343,7 +2343,7 @@ fra
 fiftyfold
 footstalk
 formalizing
-fer
+fer 1
 firecoat
 featherstitching
 ferae
