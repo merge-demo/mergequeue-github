@@ -9405,7 +9405,7 @@ glumiflorae
 guatoan
 glissandi
 gymel
-glycerolize
+glycerolize 1
 grottoes
 gelatose
 gaywings
