@@ -829,7 +829,7 @@ flummox
 fannia
 forbecause
 fanon
-fronted
+fronted 1
 fantailed
 fingermark
 fermi
