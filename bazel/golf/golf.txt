@@ -2487,7 +2487,7 @@ glandules
 goading
 grassing
 grewia
-grots
+grots 1
 guttersnipes
 gibbetwise
 genitalic
