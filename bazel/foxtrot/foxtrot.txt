@@ -6075,7 +6075,7 @@ funicule
 flavoring
 floristically
 feringhee
-ferrivorous
+ferrivorous 1
 funker
 fizzling
 frecken
