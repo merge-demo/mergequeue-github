@@ -6483,7 +6483,7 @@ encumberment
 ectodactylism
 endometriosis
 embolismus
-eurypteroidea
+eurypteroidea 1
 ensoul
 ensouled
 ecru
