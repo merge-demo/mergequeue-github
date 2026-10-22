@@ -20975,7 +20975,7 @@ ascendence
 aftershaves
 ascending
 alaster
-ascendingly
+ascendingly 1
 azodicarboxylic
 ascends
 aerogeologist
