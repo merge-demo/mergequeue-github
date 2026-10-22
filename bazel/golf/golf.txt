@@ -269,7 +269,7 @@ geoplagiotropism
 grenada
 gnomon
 glauconiferous
-groser
+groser 1
 gigavolt
 gummata
 galiongee
