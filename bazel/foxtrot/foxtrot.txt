@@ -4817,7 +4817,7 @@ fasciolaria
 fancifulness
 flinching
 floatiest
-fullwords
+fullwords 1
 faena
 fellowshipping
 falsen
