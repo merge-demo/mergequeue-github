@@ -2912,7 +2912,7 @@ acrostic
 accidentiality
 anacromyodian
 armamentary
-advisive
+advisive 1
 aerobatics
 albugineous
 acrostical
