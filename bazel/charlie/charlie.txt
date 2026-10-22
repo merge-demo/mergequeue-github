@@ -7802,7 +7802,7 @@ cerulific
 cerulignol
 cerumen
 cerumens
-ceruminal
+ceruminal 1
 costean
 chemoautotrophy
 charabancer
