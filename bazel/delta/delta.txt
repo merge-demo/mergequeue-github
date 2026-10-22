@@ -7995,7 +7995,7 @@ discording
 degummer
 deemsters
 demanganize
-deliberate
+deliberate 1
 dextrousness
 dispergating
 duodecuple
