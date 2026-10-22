@@ -229,7 +229,7 @@ erionite 1
 enmew 1
 esophagal
 earwigginess
-exsiccation
+exsiccation 1
 emmetrope
 environs
 enhaulse
