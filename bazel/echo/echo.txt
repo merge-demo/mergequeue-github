@@ -2493,7 +2493,7 @@ embryographer
 electroharmonic
 empanelment
 electrohemostasis
-endearing
+endearing 1
 ebony
 epicleses
 endexines
