@@ -3413,7 +3413,7 @@ flowcharts
 fiascoes
 foretalk
 fiendly
-featurely
+featurely 1
 fc 1
 fetishlike
 firmed
