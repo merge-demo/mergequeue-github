@@ -13196,7 +13196,7 @@ exponentiation
 epaxial
 exotica
 eremophyte
-emmantle
+emmantle 1
 expirations
 extruded
 elicited
