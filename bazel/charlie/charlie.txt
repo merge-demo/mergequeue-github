@@ -8027,7 +8027,7 @@ countermovement
 cytozoa
 codirectional
 chacte
-chad
+chad 1
 chadarim
 chadelle
 colloquy
