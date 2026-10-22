@@ -4945,7 +4945,7 @@ bitriseptate
 beehive
 boatel
 bandy
-beek
+beek 1
 balkers
 bioclimatologies
 beekeepers
