@@ -12020,7 +12020,7 @@ bertin
 bojite
 biscuitry
 boxberry
-boycott
+boycott 1
 brot
 bubonidae
 boycotted
