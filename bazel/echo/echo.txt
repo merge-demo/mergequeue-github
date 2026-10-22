@@ -3271,7 +3271,7 @@ euphonize
 ethopoeia
 ellwand
 ermitophobia
-empathizes
+empathizes 1
 empiriological
 effacement
 ethnographic

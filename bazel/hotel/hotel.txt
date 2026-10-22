@@ -5374,7 +5374,7 @@ hiftjharbt
 hiftk
 hiftsbw
 hiftv
-hifupx
+hifupx 1
 hifv
 hifvom
 hifvrpkff
