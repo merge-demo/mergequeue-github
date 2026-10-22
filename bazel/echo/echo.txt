@@ -11694,7 +11694,7 @@ expends
 erythrogenic
 estragons
 ecphasis
-entoplastic
+entoplastic 1
 exaggeratively
 exagitate
 effluence
