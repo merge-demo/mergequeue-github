@@ -2739,7 +2739,7 @@ feedy
 fedity
 fascis
 foliolate
-fiercer
+fiercer 1
 fragmentarily
 fellinic
 fesses
