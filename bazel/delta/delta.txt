@@ -1307,7 +1307,7 @@ diastaltic
 decoloured
 daubreite
 degaussing
-dobsons
+dobsons 1
 dinitro
 densified 1
 dryermen
