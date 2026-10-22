@@ -10783,7 +10783,7 @@ amlikar
 amlong
 ammelide
 apodemal
-apothecary
+apothecary 1
 ammer
 adductor
 ammeter
