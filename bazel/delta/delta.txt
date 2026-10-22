@@ -16811,7 +16811,7 @@ diametrical
 delaines
 dominee
 dey
-demurely
+demurely 1
 decurtate
 daniglacial
 disallowances
