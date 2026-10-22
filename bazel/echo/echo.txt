@@ -5637,7 +5637,7 @@ europe
 epistemology
 enteroscopy
 elysium
-esophoria
+esophoria 1
 enforceable
 ectocarpous
 encitadel
