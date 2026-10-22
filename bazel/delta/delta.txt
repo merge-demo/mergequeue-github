@@ -10810,7 +10810,7 @@ directionally
 deckles
 dhan
 demoralizingly
-directly
+directly 1
 dijudicating
 directorate
 deviscerate
