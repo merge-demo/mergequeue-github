@@ -4039,7 +4039,7 @@ episporium
 ergotization
 empyemata
 empyemic
-empiercement
+empiercement 1
 evirato
 extensibleness
 epirogenetic
