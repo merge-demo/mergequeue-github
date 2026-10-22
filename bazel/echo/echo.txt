@@ -4380,7 +4380,7 @@ exotically
 embrasure
 enantiomorph
 encratic
-equinovarus
+equinovarus 1
 electrolyzer
 encephalosclerosis
 evisite
