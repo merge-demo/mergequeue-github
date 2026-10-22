@@ -6771,7 +6771,7 @@ gaolers
 glaireous
 gobleted
 graybeards
-ganev
+ganev 1
 garvanzo
 ganocephala
 gonionia
