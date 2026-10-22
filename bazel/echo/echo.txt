@@ -3322,7 +3322,7 @@ explanatoriness
 equipaga
 embassade
 emanatist
-epical
+epical 1
 emanativ
 erupt
 enwreath
