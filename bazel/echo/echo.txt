@@ -10600,7 +10600,7 @@ expensing
 englobing
 evernioid
 elvanite
-eparchate
+eparchate 1
 eledone
 enterpriseless
 epiplopexy
