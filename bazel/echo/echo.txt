@@ -5490,7 +5490,7 @@ earmark
 epilobium
 entranced
 elding
-energeticness
+energeticness 1
 epacrid
 estimatingly
 extrasystole
