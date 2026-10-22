@@ -2042,7 +2042,7 @@ feudary
 fundi
 facedown
 faucalize
-fireboat
+fireboat 1
 flindosa
 forwander
 flatlander
