@@ -11776,7 +11776,7 @@ dullardism
 dehydrogenize
 drawplate
 dexamethasone
-distally
+distally 1
 dogblow
 disported
 debellate
