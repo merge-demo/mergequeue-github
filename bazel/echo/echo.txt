@@ -8587,7 +8587,7 @@ endemial
 electrotherapeutic
 encompassing
 epigrammatism
-egall
+egall 1
 ergatomorph
 equidimensional
 equidist
