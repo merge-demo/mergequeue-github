@@ -2832,7 +2832,7 @@ geraniales
 gentlemouthed
 galactorrhea
 glace
-gentler
+gentler 1
 guenon
 gutnish
 gingelly
