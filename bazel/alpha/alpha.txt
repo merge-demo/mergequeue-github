@@ -11883,7 +11883,7 @@ apishly
 amuguis
 archai
 aissaoua
-anamorphoscope
+anamorphoscope 1
 apophlegmatism
 arrears
 ankylenteron
