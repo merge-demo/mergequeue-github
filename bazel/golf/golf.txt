@@ -17,7 +17,7 @@ greedsome
 gledy
 genetous
 granitize 1
-goter
+goter 1
 gastroadynamic
 gashouse
 geotropic
