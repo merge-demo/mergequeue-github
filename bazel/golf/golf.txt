@@ -8614,7 +8614,7 @@ guider
 grauwacke
 greeds
 glutaminase
-gerrymanderer
+gerrymanderer 1
 gemmeous
 genethliacs
 gentlemanly
