@@ -8096,7 +8096,7 @@ extraprovincial
 epiphragm
 enlargedness
 encover
-extrasyphilitic
+extrasyphilitic 1
 extraordinaries
 expressable
 epiplasmic
