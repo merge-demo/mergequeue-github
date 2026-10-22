@@ -16948,7 +16948,7 @@ aplacentaria
 anton
 aminization
 aftertan
-affectedness
+affectedness 1
 angliae
 amphorette
 aplanatic
