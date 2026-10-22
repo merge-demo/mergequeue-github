@@ -2287,7 +2287,7 @@ genecologic
 glimpses
 granulocytopoiesis
 geitonogamy
-gonostyle
+gonostyle 1
 geomoroi
 grange
 granulosa
