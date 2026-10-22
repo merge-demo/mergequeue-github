@@ -4583,7 +4583,7 @@ demineralizes
 deadhouse
 demineralizing
 demiofficial
-demiorbit
+demiorbit 1
 disbarment
 dendrolagus
 discharging
