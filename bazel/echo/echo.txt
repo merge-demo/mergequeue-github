@@ -4981,7 +4981,7 @@ enthronise
 exigenter
 entoplastron
 endeavourer
-encouragement
+encouragement 1
 enstamp
 endeavouring
 egression
