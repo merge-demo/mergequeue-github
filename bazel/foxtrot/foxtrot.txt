@@ -3387,7 +3387,7 @@ feeless
 familistic
 foreyards
 fusilades
-fastigate
+fastigate 1
 fopling
 fossilification
 flappering
