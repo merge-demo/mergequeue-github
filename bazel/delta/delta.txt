@@ -2407,7 +2407,7 @@ dessertspoonful
 dimercuric
 decyl
 deciles
-decylic
+decylic 1
 dorsiparous
 deciliter
 druidry
