@@ -12096,7 +12096,7 @@ deplaceable
 disentrail
 disentrainment
 disentrance
-devilism
+devilism 1
 defuzed
 disrank
 diamondback
