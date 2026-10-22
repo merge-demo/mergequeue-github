@@ -4779,7 +4779,7 @@ crewels
 choanoflagellata
 cowlings
 carpoidea
-chalcidid
+chalcidid 1
 carpolith
 confides
 clitellus
