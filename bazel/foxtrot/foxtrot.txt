@@ -5403,7 +5403,7 @@ formable
 flecking
 firehouses
 fusarole
-fennel
+fennel 1
 friending 1
 frigefact
 futurity
