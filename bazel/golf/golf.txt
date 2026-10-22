@@ -9294,7 +9294,7 @@ groenlandicus
 glucuronic
 goyana
 gurge
-gangliate
+gangliate 1
 galactophagous
 gunj
 gi
