@@ -4069,7 +4069,7 @@ agamoid
 asarotum
 areometric
 admit
-allowanced
+allowanced 1
 anisosthenic
 aldrin
 admits
