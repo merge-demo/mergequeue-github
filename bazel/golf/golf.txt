@@ -1140,7 +1140,7 @@ gerontocracies
 gallnut
 galyac
 groupment
-gunpowder
+gunpowder 1
 genion
 granddam
 gypsologist
