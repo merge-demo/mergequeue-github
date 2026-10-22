@@ -3186,7 +3186,7 @@ doltishness
 depolarizes
 devotionalness
 dimitting
-defectless
+defectless 1
 declaratives
 defectlessness
 delegatory
