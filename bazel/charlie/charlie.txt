@@ -6683,7 +6683,7 @@ chard
 cursorial
 ceibo
 counterthrust
-ceil
+ceil 1
 clamoring
 celestine
 ceilers
