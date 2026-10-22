@@ -770,7 +770,7 @@ galvanotropism
 guntub
 globulolysis
 gaulter
-glossolalist
+glossolalist 1
 gutter
 gluck
 gutturize
