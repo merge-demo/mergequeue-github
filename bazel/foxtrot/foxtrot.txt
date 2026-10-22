@@ -11162,7 +11162,7 @@ fungia
 fremdness
 flyblowing
 fungian
-felspar
+felspar 1
 fungibility
 fadeout
 fideists
