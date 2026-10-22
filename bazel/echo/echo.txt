@@ -1637,7 +1637,7 @@ ehretiaceae
 env
 entrez
 enterobacterium
-eyah
+eyah 1
 embliss
 equating
 earthpea
