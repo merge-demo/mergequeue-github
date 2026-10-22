@@ -12120,7 +12120,7 @@ artou
 aegeriid
 appels
 anathematizer
-angularly
+angularly 1
 antihumanist
 anatheme
 anatidae
