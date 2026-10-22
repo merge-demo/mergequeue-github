@@ -2079,7 +2079,7 @@ dodecylic
 dilatory
 decalage
 dinghy
-decalcifies
+decalcifies 1
 dartle
 dendrography
 drip
