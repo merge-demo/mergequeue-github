@@ -9695,7 +9695,7 @@ dungbred
 diageotropy
 deinoceras
 dilactic
-dilactone
+dilactone 1
 dilamination
 dilaniate
 doubled
