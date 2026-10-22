@@ -2133,7 +2133,7 @@ genderless
 gen
 glumiferous
 galla
-globosity
+globosity 1
 gaudete
 graced
 glycoluric
