@@ -4918,7 +4918,7 @@ es
 entablements
 excisions
 ef
-encumbrance
+encumbrance 1
 extrabureau
 english
 erythroneocytosis
