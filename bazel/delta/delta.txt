@@ -2742,7 +2742,7 @@ deductibility
 decoration
 diogenic
 decorator
-deliberated
+deliberated 1
 disaffiliate
 devonshire
 dictates
