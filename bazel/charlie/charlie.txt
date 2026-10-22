@@ -23196,7 +23196,7 @@ cromlechs
 constricted
 cobby
 carpomania
-constricting
+constricting 1
 constriction
 coelomic
 constrictive
