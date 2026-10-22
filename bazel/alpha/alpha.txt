@@ -10415,7 +10415,7 @@ amesite
 abamp
 anteed
 acroama
-anezeh
+anezeh 1
 asterisms
 amess
 akmudar
