@@ -3999,7 +3999,7 @@ friarling
 february
 fairydom
 felicitation
-frontlessness
+frontlessness 1
 formability
 flukewort
 forechoose
