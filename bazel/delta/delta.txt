@@ -3259,7 +3259,7 @@ deferents
 datiscetin 1
 drakefly
 dudder
-deferrable
+deferrable 1
 deferrer
 deferrize
 disturbative
