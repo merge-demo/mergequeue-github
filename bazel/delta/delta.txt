@@ -7997,7 +7997,7 @@ deemsters
 demanganize
 deliberate
 dextrousness
-dispergating
+dispergating 1
 duodecuple
 dataset
 disallowance
