@@ -6367,7 +6367,7 @@ ekamanganese
 enshade
 enshawl
 espace
-ensheathe
+ensheathe 1
 excitomotion
 eburna
 ensheathing
