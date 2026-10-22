@@ -7060,7 +7060,7 @@ bennetweed
 bespattered
 batara
 barracks
-bannerette
+bannerette 1
 briquetting
 bespeak
 bodyless
