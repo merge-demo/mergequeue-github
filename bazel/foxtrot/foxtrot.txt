@@ -391,7 +391,7 @@ fancifully
 fairground
 fairy
 foresettle
-fructuous
+fructuous 1
 failings
 fittingness
 factors
