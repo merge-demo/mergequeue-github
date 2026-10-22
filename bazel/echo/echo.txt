@@ -12746,7 +12746,7 @@ exorbitation
 eloah
 epidemiologically
 epispinal
-emulatively
+emulatively 1
 ethers
 emmenagogic
 equivoque
