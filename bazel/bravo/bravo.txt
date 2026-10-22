@@ -16908,7 +16908,7 @@ bugbearish
 burdened
 barretry
 brassbound
-beneficiate
+beneficiate 1
 banditti
 bugeyes
 baddy
