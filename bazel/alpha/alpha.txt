@@ -11512,7 +11512,7 @@ amusive
 amutter
 amuze
 advertisable
-apogamously
+apogamously 1
 amuzzle
 amphigastria
 anabantid
