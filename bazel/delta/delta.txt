@@ -4603,7 +4603,7 @@ derere
 dights
 diastases
 decard
-disorienting
+disorienting 1
 dellies
 disroof
 debentured
