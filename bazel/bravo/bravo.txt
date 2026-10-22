@@ -2018,7 +2018,7 @@ bidactyl
 bloodstones
 bankcard
 bethought
-banky
+banky 1
 banknote
 bristly
 biophysicist
