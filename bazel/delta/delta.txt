@@ -14187,7 +14187,7 @@ deals
 disusage
 dynamoscope
 dibbles
-defeater
+defeater 1
 deathful
 disuse
 desquamate
