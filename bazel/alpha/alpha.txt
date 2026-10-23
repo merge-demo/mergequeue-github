@@ -12417,7 +12417,7 @@ androgynal
 alterity
 arillode
 androgyne
-androgynia
+androgynia 1
 androgynies
 angiostomy
 androgone
