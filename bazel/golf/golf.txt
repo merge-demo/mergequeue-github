@@ -10355,7 +10355,7 @@ goadlike
 gallivorous
 glaur
 grouseberry
-gelate
+gelate 1
 garretmaster
 gynic
 gonidiospore
