@@ -16114,7 +16114,7 @@ deoppilative
 decayedness
 doulce
 dementie
-defectology
+defectology 1
 designators
 doulocracy
 doum
