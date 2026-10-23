@@ -5727,7 +5727,7 @@ fetor
 flirty
 feculent
 ferulas
-frontis
+frontis 1
 farced
 ferule
 fleuronnee 1
