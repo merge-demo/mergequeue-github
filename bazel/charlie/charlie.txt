@@ -7181,7 +7181,7 @@ centrepiece
 canephoroe
 centrer
 closely
-chol
+chol 1
 chatterbox
 centrev
 chivalrous
