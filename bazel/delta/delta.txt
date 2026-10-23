@@ -13993,7 +13993,7 @@ disruptionist 1
 distortions
 delocalise
 differentiable
-distorts
+distorts 1
 dolomitising
 dentoid
 diphosphide
