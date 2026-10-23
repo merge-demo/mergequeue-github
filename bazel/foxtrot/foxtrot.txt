@@ -5448,7 +5448,7 @@ figurativeness
 formulator
 famished
 foresummer
-feridjee
+feridjee 1
 furfuration
 fanatic
 fretsome
