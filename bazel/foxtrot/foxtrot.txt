@@ -8304,7 +8304,7 @@ ferrule
 fosterage
 faultiness
 freestyler
-fusspots
+fusspots 1
 forenames
 forepole
 foregame
