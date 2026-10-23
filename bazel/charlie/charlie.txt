@@ -8205,7 +8205,7 @@ chaitra
 cheekpiece
 chakavski
 classics
-chakdar
+chakdar 1
 cymbling
 callower
 chakobu
