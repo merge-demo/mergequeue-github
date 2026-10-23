@@ -7117,7 +7117,7 @@ garbologist
 goatherd
 gothics
 glaucously
-getting
+getting 1
 gatter
 grottoed
 glottological
