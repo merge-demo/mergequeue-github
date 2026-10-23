@@ -2445,7 +2445,7 @@ epitaxial
 earthnut
 exciting
 exciple
-ebonist
+ebonist 1
 electroencephalographical
 essentialize
 evoker
