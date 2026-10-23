@@ -594,7 +594,7 @@ fellon
 foreknows
 forpet
 fossilisation
-forints
+forints 1
 feasted
 fade
 featherdom
