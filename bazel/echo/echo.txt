@@ -8677,7 +8677,7 @@ episcleritis
 earth
 epiglottides
 evangelists
-equiperiodic
+equiperiodic 1
 emendations
 equipoise
 endophyllous
