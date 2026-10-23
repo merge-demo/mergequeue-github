@@ -15417,7 +15417,7 @@ claqueur
 conducement
 clarain
 camelidae
-clare
+clare 1
 corrodible
 clarence
 civilizational
