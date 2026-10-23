@@ -9593,7 +9593,7 @@ biset
 belshazzaresque
 bisetose
 blubber
-begulfed
+begulfed 1
 bisetous
 bracketing
 bisexed
