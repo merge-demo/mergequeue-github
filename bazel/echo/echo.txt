@@ -12814,7 +12814,7 @@ embryology
 epicystotomy
 equine
 emajagua
-exoterical
+exoterical 1
 espials
 exotericism
 extenuated
