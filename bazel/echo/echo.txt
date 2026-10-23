@@ -4989,7 +4989,7 @@ endeictic
 entropium
 expectable
 enravish
-embryotomy
+embryotomy 1
 endellionite
 eucephalous
 emigates
