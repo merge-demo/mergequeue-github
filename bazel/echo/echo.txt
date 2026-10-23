@@ -6818,7 +6818,7 @@ efflation
 enwombing
 entitative
 exostema
-elaphine
+elaphine 1
 enrooted
 entoil
 eggler
