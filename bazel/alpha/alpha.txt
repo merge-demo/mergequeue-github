@@ -23833,7 +23833,7 @@ aphonic
 aphorising
 anthozoan
 arthrolithiasis
-antimonarchically
+antimonarchically 1
 abyssinians
 arduinite
 anabohitsite
