@@ -13931,7 +13931,7 @@ acraspedote
 ardisia
 antae
 antaean
-antaeus
+antaeus 1
 agriotypidae
 alvelos
 advantaging
