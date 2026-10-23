@@ -16267,7 +16267,7 @@ denominationalist
 desiderant
 dowels
 decrown
-demiowl
+demiowl 1
 duchery
 ductilimeter
 diaheliotropism
