@@ -2555,7 +2555,7 @@ disjudication
 declass
 dimorphs
 dweller
-declassification
+declassification 1
 derringer
 diachrony
 declassifies
