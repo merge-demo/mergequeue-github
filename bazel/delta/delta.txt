@@ -1624,7 +1624,7 @@ derision
 disenrol
 damagingly
 decl
-dealcoholize
+dealcoholize 1
 dinoceratan
 datisca
 deutsche
