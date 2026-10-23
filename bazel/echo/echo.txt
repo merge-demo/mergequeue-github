@@ -8356,7 +8356,7 @@ exuvial
 eyetooth
 enthrallments
 educative
-excitomotory
+excitomotory 1
 estivated
 exclusory
 endiadem
