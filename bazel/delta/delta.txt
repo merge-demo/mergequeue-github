@@ -8911,7 +8911,7 @@ dioptidae
 disconnect
 dissolvability
 desex
-dichas
+dichas 1
 dichasia
 decolonizing
 distributiveness
