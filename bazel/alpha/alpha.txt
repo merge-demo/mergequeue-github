@@ -10779,7 +10779,7 @@ aged
 amiantuses
 amyxorrhea
 architis
-amlikar
+amlikar 1
 amlong
 ammelide
 apodemal
