@@ -15589,7 +15589,7 @@ dentolingual
 deconcatenate
 drying
 determinedly
-dool
+dool 1
 duumviri
 deviable
 doolfu
