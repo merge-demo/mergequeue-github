@@ -10494,7 +10494,7 @@ galangals
 gumweeds
 geerah
 gramenite
-gregal
+gregal 1
 genizero
 geyserite
 gaggers
