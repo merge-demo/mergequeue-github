@@ -6407,7 +6407,7 @@ eluvivia
 elapid
 ensemble
 engastrimyth
-engrained
+engrained 1
 electrocontractility
 exes
 equilocation
