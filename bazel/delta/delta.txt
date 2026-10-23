@@ -1312,7 +1312,7 @@ dinitro
 densified 1
 dryermen
 declinate
-disfranchisements
+disfranchisements 1
 dauding
 dicotyledones
 dogate
