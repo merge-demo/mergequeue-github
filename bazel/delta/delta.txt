@@ -7301,7 +7301,7 @@ defecters
 defecation
 donnie
 dress
-diphthongia
+diphthongia 1
 diphthongization
 determinated
 driftwood
