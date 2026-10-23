@@ -1484,7 +1484,7 @@ cystidicolous 1
 callais
 callaloo
 caviares
-callants
+callants 1
 chanciest
 clausular
 chilenite
