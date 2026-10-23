@@ -5196,7 +5196,7 @@ exceedingness
 endothermically
 epimeride
 enounced
-elephants
+elephants 1
 electrology
 economists
 entocoele
