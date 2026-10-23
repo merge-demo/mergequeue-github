@@ -18952,7 +18952,7 @@ chromonemata
 collateralizing
 collaterally
 chalta
-collateralness
+collateralness 1
 collaterals
 canzone
 cohobating
