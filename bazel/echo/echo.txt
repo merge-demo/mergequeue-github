@@ -7654,7 +7654,7 @@ exocrine
 ellachick
 exhumations
 eccentricities
-elapse
+elapse 1
 eoliths
 enterohelcosis
 epiparodos

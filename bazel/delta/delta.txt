@@ -2393,7 +2393,7 @@ destabilized
 dwyka
 deciders
 dubitante
-disownment
+disownment 1
 disguisements
 diplontic
 dismantlement
