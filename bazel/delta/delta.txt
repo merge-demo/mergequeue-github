@@ -17192,7 +17192,7 @@ drysne
 dictyonema
 director
 diaphoresis
-decursive
+decursive 1
 depletory
 drive
 diastrophism
