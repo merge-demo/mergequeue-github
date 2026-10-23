@@ -4264,7 +4264,7 @@ foreignize
 feverish
 fungose
 flatterers
-frenzying
+frenzying 1
 fission
 fleckier
 forenoted
