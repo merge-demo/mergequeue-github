@@ -11715,7 +11715,7 @@ frowns
 furriered
 forebitter
 ferruled
-foredesign
+foredesign 1
 friars
 fosslology
 flighty
