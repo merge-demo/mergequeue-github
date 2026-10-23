@@ -30920,7 +30920,7 @@ cultivative
 cultivator
 cultive
 cultrate
-cultrated
+cultrated 1
 cyclitol
 cults
 cultual
