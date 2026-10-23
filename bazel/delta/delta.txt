@@ -16385,7 +16385,7 @@ drunkery
 downwardly
 devourment
 delocalized
-dispellable
+dispellable 1
 dogtrotted
 downgrowth
 deducive
