@@ -2817,7 +2817,7 @@ elves
 elenchize
 ecthlipsis
 eath
-endamask
+endamask 1
 effeminately
 epipubic
 exampleless
