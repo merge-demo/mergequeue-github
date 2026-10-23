@@ -27525,7 +27525,7 @@ covenance
 cammed
 covenantal
 corrodant
-cypridinoid
+cypridinoid 1
 cisted
 covenantee
 complementizer
