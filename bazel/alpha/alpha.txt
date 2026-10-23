@@ -11451,7 +11451,7 @@ alephs
 ateeter
 adnexitis
 adonic
-amygdalae
+amygdalae 1
 asphodeline
 amu
 arteriae
