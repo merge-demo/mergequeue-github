@@ -14342,7 +14342,7 @@ amerce
 alexipharmacum
 additamentary
 anthoecological
-arithmetic
+arithmetic 1
 anthoecologist
 anthogenetic 1
 anticreation
