@@ -4375,7 +4375,7 @@ excrescence
 embody
 emphlysis
 eritrean
-esoenteritis
+esoenteritis 1
 exotically
 embrasure
 enantiomorph
