@@ -14426,7 +14426,7 @@ datedness
 depreciatory
 demeter 1
 diversory
-disfiguringly
+disfiguringly 1
 dressmaker
 dimethylamine
 divert
