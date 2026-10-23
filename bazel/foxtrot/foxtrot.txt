@@ -11367,7 +11367,7 @@ fremescence
 frothless
 foreprovision
 footways
-foister
+foister 1
 factish
 focalizing 1
 fluorindin
