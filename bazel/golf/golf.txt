@@ -4929,7 +4929,7 @@ gliomata
 gorier
 gavotted
 glaiks
-gorse
+gorse 1
 glauberite
 glair
 glaire
