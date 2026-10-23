@@ -19624,7 +19624,7 @@ airheads
 apposing
 arikara
 anthracomartus
-aplastic
+aplastic 1
 alternativity
 annotate
 ark
