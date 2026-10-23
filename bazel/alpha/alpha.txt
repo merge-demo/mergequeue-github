@@ -15460,7 +15460,7 @@ anaptomorphidae
 antimedievalism 1
 antimedievally
 antimelancholic
-attainder
+attainder 1
 antimensia
 assented
 anapestic

@@ -4921,7 +4921,7 @@ demonstrater
 demonstrates
 demonstrationist
 demagnetizes
-devilwise
+devilwise 1
 dicondylian
 dacrycystalgia
 dynastic
