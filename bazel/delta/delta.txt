@@ -15726,7 +15726,7 @@ dacryocystocele
 doricism
 dorylinae
 dyemaker
-deflectometer
+deflectometer 1
 dakota
 dendrochronologist
 diphosphid
