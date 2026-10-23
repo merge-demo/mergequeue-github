@@ -1782,7 +1782,7 @@ golliwogs
 gallic
 gonion
 grx
-guanine
+guanine 1
 grouchiest
 gastropulmonic
 granitic
