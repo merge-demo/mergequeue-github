@@ -2106,7 +2106,7 @@ croaker
 coalmonger
 conjunctly 1
 campanologically
-coniology
+coniology 1
 campanologist
 capillaceous
 corrober
