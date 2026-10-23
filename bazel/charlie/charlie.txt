@@ -6899,7 +6899,7 @@ compaction
 caffein
 celtization
 cardiorrhexis
-consol
+consol 1
 camis
 ceratomandibular
 clocklike
