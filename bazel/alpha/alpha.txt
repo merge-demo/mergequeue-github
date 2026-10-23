@@ -15502,7 +15502,7 @@ antimissionary
 androconia
 antipyretic
 avijja
-attntrp
+attntrp 1
 annullable
 armguard
 antimystic
