@@ -19885,7 +19885,7 @@ armings
 avn
 autor
 analogized
-arminianize
+arminianize 1
 arminianizer
 armipotence
 analeptical
