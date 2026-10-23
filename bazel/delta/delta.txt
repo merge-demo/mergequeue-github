@@ -4354,7 +4354,7 @@ demersal
 demanganization
 deliberator
 dishonourableness
-ductal
+ductal 1
 daunton
 dispersonalize
 demarcates
