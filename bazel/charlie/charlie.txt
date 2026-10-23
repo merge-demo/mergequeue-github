@@ -7742,7 +7742,7 @@ cerote
 chastises
 cerotin
 chorogi
-cerotypes
+cerotypes 1
 confirmedly
 cerous
 cerrial

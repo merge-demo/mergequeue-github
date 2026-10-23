@@ -24416,7 +24416,7 @@ autosoterism
 accoutered
 appanaging
 auteciously
-architrave
+architrave 1
 adstipulated
 argenter
 ampullated
