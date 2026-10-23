@@ -2395,7 +2395,7 @@ exasperating
 epidotization
 exognathion
 etherealisation
-exauthorize
+exauthorize 1
 excentricity
 electroscopes
 ethnotechnics
