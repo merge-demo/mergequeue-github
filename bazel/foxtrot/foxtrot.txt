@@ -10128,7 +10128,7 @@ freakier
 frivolities
 froughy
 fumarium
-frivolling
+frivolling 1
 feasibility
 falchions
 finalize
