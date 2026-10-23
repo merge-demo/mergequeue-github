@@ -11084,7 +11084,7 @@ disapprobatory
 disappropriate
 diabolisation
 drakonite 1
-determinateness
+determinateness 1
 disapprovals
 demagog
 disapproves
