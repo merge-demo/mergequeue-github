@@ -15579,7 +15579,7 @@ diazobenzene
 doodab
 demurrages
 dowdyish
-dehnstufe
+dehnstufe 1
 dyvours
 doodlebug
 doodlers
