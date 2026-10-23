@@ -11198,7 +11198,7 @@ fungoids
 fixating
 foremanship
 fippence
-futuric
+futuric 1
 fasciolae
 fictil
 frittata
