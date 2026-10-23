@@ -27697,7 +27697,7 @@ cowish
 copsole
 circumdate
 cowitch
-coercionist
+coercionist 1
 corrigendum
 cadaveric
 chamite
