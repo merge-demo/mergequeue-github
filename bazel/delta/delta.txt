@@ -1636,7 +1636,7 @@ deliverable
 difficulty
 daylong
 dimetrodon
-deodate
+deodate 1
 datolitic
 domify
 devertebrated
