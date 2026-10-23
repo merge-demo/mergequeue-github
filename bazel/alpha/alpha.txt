@@ -22761,7 +22761,7 @@ australianize
 arras
 antispast
 atimon
-asthenobiotic
+asthenobiotic 1
 advantageousness
 attainture
 atypy

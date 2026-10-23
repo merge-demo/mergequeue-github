@@ -7363,7 +7363,7 @@ eparchies
 eternization 1
 equinoctial
 eparterial
-emasculations
+emasculations 1
 experiencible
 epaulement
 enstranged
