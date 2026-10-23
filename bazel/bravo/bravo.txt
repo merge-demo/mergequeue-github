@@ -10883,7 +10883,7 @@ beadledom
 biggity
 bibbling
 blindball
-bindable
+bindable 1
 befingered
 bangers
 boxball
