@@ -8351,7 +8351,7 @@ encumberingly
 epithetically 1
 entifical
 epithets
-enterocolostomy
+enterocolostomy 1
 exuvial
 eyetooth
 enthrallments
