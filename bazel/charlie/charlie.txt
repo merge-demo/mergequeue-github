@@ -19552,7 +19552,7 @@ columbeion
 climath
 columbiad
 columbid
-columbidae
+columbidae 1
 cobblestones
 cankerous
 columbiferous
