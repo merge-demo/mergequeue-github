@@ -29136,7 +29136,7 @@ crinolette
 chickenweed
 crinoline
 crinolines
-crinosity
+crinosity 1
 crinula
 callitrichaceae
 cnemides
