@@ -4627,7 +4627,7 @@ excellent
 exarchs
 egotists
 equinities
-enchyma
+enchyma 1
 estheticism 1
 exencephalus
 electorally
