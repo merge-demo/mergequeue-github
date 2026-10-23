@@ -3048,7 +3048,7 @@ ensheathes
 epiphenomenal
 esophagoscope
 epigram
-everich
+everich 1
 eschalot
 exogamy
 epidermis
