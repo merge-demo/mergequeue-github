@@ -511,7 +511,7 @@ dalliances
 dallied
 discomforter
 disenthralling
-denaturalize
+denaturalize 1
 dinkey
 droddum
 descended
