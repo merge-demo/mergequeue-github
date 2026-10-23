@@ -22603,7 +22603,7 @@ archhouse
 athabasca
 acetylcholine
 acater
-athamantid
+athamantid 1
 acontium
 aliased
 acuate
