@@ -4470,7 +4470,7 @@ dovetailing
 demiangel
 diazotization
 demibeast
-demibelt
+demibelt 1
 dinornithes
 dislink
 deists
