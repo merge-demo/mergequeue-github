@@ -4639,7 +4639,7 @@ firked
 factorizations
 fullnesses
 fanging 1
-frigidities
+frigidities 1
 formulations
 fireboard
 fluctuate
