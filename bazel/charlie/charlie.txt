@@ -3265,7 +3265,7 @@ capite 1
 christianized
 capitellate
 canteen
-capitellum
+capitellum 1
 capitle
 cerebrum
 compenetrate
