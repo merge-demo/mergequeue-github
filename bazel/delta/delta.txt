@@ -12309,7 +12309,7 @@ driblet
 denitration
 demigrate
 desynchronize
-diphosphate
+diphosphate 1
 diaconia
 delineates
 daredevilism
