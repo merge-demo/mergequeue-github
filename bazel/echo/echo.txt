@@ -10728,7 +10728,7 @@ eaver
 enwraps
 exedra
 elicitory
-equiformal
+equiformal 1
 employless
 egriot
 eulachan
