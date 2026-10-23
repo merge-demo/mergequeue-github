@@ -9624,7 +9624,7 @@ disruption
 dowing
 dihybridism
 dihybrids
-disfunctions
+disfunctions 1
 dupers
 dihydrochloride
 draconin
