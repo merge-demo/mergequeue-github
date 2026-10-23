@@ -2290,7 +2290,7 @@ canafistulo
 chlorapatite
 concertgoer
 canaglia
-canaigre
+canaigre 1
 canaille
 canailles
 cymoid
