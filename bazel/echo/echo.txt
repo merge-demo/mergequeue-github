@@ -11642,7 +11642,7 @@ expulses
 enddamaged
 exactable
 extemporising
-exactas
+exactas 1
 ergastoplasm
 elaterite
 epileptogenic
