@@ -9669,7 +9669,7 @@ defiliation
 dillies
 dicerion
 definitive
-devisee
+devisee 1
 dika
 dotage
 dampened
