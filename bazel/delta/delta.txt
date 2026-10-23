@@ -7526,7 +7526,7 @@ dearnesses 1
 directions
 daemonology
 disrupting
-dentiloquy
+dentiloquy 1
 decapper
 deuterium
 deinocephalia
