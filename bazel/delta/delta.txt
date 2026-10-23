@@ -2127,7 +2127,7 @@ disciplinarian
 debaser
 decipher
 decandria
-didst
+didst 1
 decandrous
 discrepate
 decane
