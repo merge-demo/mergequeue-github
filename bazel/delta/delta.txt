@@ -8830,7 +8830,7 @@ deterring
 drachmas
 dibbled
 degame
-dybbuk
+dybbuk 1
 dominantly
 decentralized
 dibbuks
