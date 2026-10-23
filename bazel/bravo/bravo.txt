@@ -12519,7 +12519,7 @@ benchy
 bongoes
 bongoist
 bypast
-borrows
+borrows 1
 bannimus
 beaus
 bedposts
