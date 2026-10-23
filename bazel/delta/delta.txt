@@ -2477,7 +2477,7 @@ defeatists
 distinctly
 decisional
 decisions
-decisis
+decisis 1
 dribbled
 delays
 dixy
