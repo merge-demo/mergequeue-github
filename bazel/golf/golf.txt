@@ -1489,7 +1489,7 @@ galaginae
 glumly
 gunmaker
 gymnarchus
-gluconate
+gluconate 1
 galosh
 guacamole
 gastrulae
