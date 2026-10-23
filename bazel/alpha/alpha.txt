@@ -6825,7 +6825,7 @@ airfoil
 airfoils
 airglows
 airgraphics
-anisometropia
+anisometropia 1
 androcyte
 airhead
 ascula
