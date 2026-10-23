@@ -16585,7 +16585,7 @@ aparthrosis
 animately
 aloisiite
 alicia
-apartness
+apartness 1
 apass
 apast
 absolutive
