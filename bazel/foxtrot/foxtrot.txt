@@ -11546,7 +11546,7 @@ fledgy
 folio
 fretfully
 ferociousness
-footlessly
+footlessly 1
 fetting
 fusiform
 fusil
