@@ -4940,7 +4940,7 @@ fluidised
 foining
 fluoresced
 forsooth
-foppishly
+foppishly 1
 fourteens
 flamen
 flamandization
