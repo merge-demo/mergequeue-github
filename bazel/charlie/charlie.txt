@@ -25246,7 +25246,7 @@ calesa
 cephaldemae
 corium
 chiasmal
-chirurgic
+chirurgic 1
 contradistinctively
 canonicate
 coryza
