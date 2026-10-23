@@ -48,7 +48,7 @@ earflap
 expender
 enzyms
 excites
-exciton
+exciton 1
 electroretinograph
 excursion
 escarped
