@@ -10165,7 +10165,7 @@ etherially
 extravagances
 eyedropper
 exertion
-expressness
+expressness 1
 electrothermally
 endocarpoid
 elenctical
