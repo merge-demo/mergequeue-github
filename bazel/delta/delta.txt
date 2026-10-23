@@ -5191,7 +5191,7 @@ dietine
 desulphurizing
 dumbfounded
 denyingly
-denim
+denim 1
 demoness
 danceress
 doctrinalist
