@@ -30046,7 +30046,7 @@ clearstarch
 chromo
 capriciously
 challengeable
-casualties
+casualties 1
 cinchonate
 counterparts
 cognising
