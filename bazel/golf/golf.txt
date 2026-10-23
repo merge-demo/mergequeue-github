@@ -7530,7 +7530,7 @@ galvanotonic
 greathead 1
 guideless
 gatelike
-goliardery
+goliardery 1
 greenbone
 gorbellies
 gymnast
