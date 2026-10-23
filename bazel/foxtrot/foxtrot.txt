@@ -3390,7 +3390,7 @@ fusilades
 fastigate
 fopling
 fossilification
-flappering
+flappering 1
 fishermen 1
 frivols
 filipinos
