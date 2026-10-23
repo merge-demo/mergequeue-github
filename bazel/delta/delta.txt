@@ -1852,7 +1852,7 @@ defeudalize
 debilitates
 debilitative
 dermatoglyphics
-devirginator
+devirginator 1
 debitum
 declaratory
 douvecot
