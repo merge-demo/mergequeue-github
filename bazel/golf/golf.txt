@@ -9216,7 +9216,7 @@ germanous
 guaka
 glairing
 gunebo
-geoscience
+geoscience 1
 gibberosity
 grippleness
 grazier
