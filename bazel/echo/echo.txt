@@ -311,7 +311,7 @@ enantiosis
 ealderman
 endark
 espousage
-exserting
+exserting 1
 extortionate
 expedient
 ebon
