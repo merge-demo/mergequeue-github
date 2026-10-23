@@ -11264,7 +11264,7 @@ duckpins
 divinistre
 definability
 deposure
-dyspathy
+dyspathy 1
 duncishly 1
 dieretic
 dystrophy
