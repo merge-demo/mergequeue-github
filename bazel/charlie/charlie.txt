@@ -17520,7 +17520,7 @@ chorioepitheliomas
 cocaine
 cocaines
 cygneous
-camelback
+camelback 1
 cocainisation
 circumscriptively
 cocainised
