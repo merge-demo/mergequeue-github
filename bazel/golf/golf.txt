@@ -2436,7 +2436,7 @@ geologian
 gesticulation
 graduator
 goas
-gype
+gype 1
 grograms
 glutch
 grandpas
