@@ -10689,7 +10689,7 @@ footband
 fastidiously
 forecar
 finnier
-fantasizes
+fantasizes 1
 fatherliness
 figent
 fitfully
