@@ -8944,7 +8944,7 @@ emotiomotor
 extrovertive
 erigerons
 echoers
-enables
+enables 1
 enzymatic
 expatiators
 erring
