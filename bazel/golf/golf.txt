@@ -9422,7 +9422,7 @@ gabionage
 groupies
 ghastfully
 grouchiness
-geminally
+geminally 1
 gitksan
 goldtit
 garbline
