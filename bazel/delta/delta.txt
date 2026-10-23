@@ -18473,7 +18473,7 @@ decals
 dermatophony
 devastavit
 dipterous
-diose
+diose 1
 dislocation
 dupped
 dyschronous
