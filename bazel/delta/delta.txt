@@ -15140,7 +15140,7 @@ disilicid
 dandruff
 demidandiprat
 dulcity
-doilies
+doilies 1
 decancellating
 diglottism
 divarication
