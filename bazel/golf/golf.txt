@@ -9952,7 +9952,7 @@ garb
 gumptions
 grilladed
 guarico
-gonidial
+gonidial 1
 graphostatic
 getaways
 grievousness
