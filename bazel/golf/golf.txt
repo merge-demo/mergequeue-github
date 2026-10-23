@@ -5677,7 +5677,7 @@ grizzler
 grenat
 gaucie
 gaultheria
-galvanographic
+galvanographic 1
 glandulous
 gallophile
 gristliest

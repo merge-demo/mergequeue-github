@@ -21800,7 +21800,7 @@ conduplicate
 caterwauler
 crumped
 crunchable
-condurangin
+condurangin 1
 cone
 compt
 communistical
