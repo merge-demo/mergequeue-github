@@ -36,7 +36,7 @@ fabricates
 fabricator
 formularize
 flintless
-furies
+furies 1
 farmscape
 flick
 fervently
