@@ -1106,7 +1106,7 @@ apomorphine
 abutment
 articulant
 accusal
-assertible
+assertible 1
 acylogen
 angiocavernous
 aluminish
