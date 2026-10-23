@@ -2661,7 +2661,7 @@ bluestone
 bertholletia
 barghest
 breechloader
-brugh
+brugh 1
 basiliscus
 backlins
 berrugate
