@@ -1328,7 +1328,7 @@ equilibristat
 enclog
 effectuated
 encastage
-effectuating
+effectuating 1
 effervesced
 exuberate
 effectuous
