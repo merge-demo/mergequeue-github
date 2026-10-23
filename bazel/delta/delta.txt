@@ -5727,7 +5727,7 @@ decastich
 dysthymia
 drepanid
 demit
-deplorabilia
+deplorabilia 1
 dextrane
 deplorability
 duals
