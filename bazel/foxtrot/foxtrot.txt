@@ -10875,7 +10875,7 @@ forehinting
 freestone
 flayer
 furore
-fullish
+fullish 1
 foeman
 frigorifico
 fulgurated
