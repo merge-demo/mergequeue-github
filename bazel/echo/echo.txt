@@ -10375,7 +10375,7 @@ ethnozoology
 ethography
 excepter
 entropion
-ethology
+ethology 1
 ethnogeographer
 ethologies
 electrocataphoretic
