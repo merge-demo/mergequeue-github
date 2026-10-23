@@ -8739,7 +8739,7 @@ equivaluer
 exposited
 evulgation
 extempore
-effs
+effs 1
 ektexines
 emmergoose
 entombing
