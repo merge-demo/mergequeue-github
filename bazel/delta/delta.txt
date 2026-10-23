@@ -8545,7 +8545,7 @@ dyschromatopsia
 duchy
 dethrone
 dewbeam
-didacts
+didacts 1
 diaphanometric
 dampishness
 debateful
