@@ -2659,7 +2659,7 @@ bribeable
 barling
 bluestone
 bertholletia
-barghest
+barghest 1
 breechloader
 brugh
 basiliscus
