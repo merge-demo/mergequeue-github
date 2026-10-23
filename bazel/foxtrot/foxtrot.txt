@@ -5021,7 +5021,7 @@ functioned
 foremartyr
 fiddlewood
 filet
-fluctuable
+fluctuable 1
 faceable
 frowsier
 feathers
