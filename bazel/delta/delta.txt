@@ -1175,7 +1175,7 @@ decrementing
 dasyuridae
 dasyurine
 dactylopatagium
-docimastic
+docimastic 1
 delineatory
 dassent
 deadheads
