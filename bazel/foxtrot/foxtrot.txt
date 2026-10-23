@@ -11300,7 +11300,7 @@ fenagled
 fusspot
 firearm
 fulmicotton
-fatwa
+fatwa 1
 firedog
 formatted
 feverfew
