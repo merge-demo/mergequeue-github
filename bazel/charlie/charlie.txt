@@ -21962,7 +21962,7 @@ canteens
 coinsurable
 coexclusive
 clinohedrite
-configurating
+configurating 1
 configuration
 configurationally
 configurations
