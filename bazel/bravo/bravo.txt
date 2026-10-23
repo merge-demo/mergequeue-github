@@ -656,7 +656,7 @@ bkpr
 boigid
 bacterized
 barefacedly
-brisk
+brisk 1
 bullroarer
 babua
 basos
