@@ -17344,7 +17344,7 @@ droopiest
 demarcators
 doney
 disphenoid
-divisural
+divisural 1
 drow
 delilah
 desquamation
