@@ -2939,7 +2939,7 @@ cryptoprocta
 cantering
 canthal
 curling
-cantharic
+cantharic 1
 cantharidae
 cake
 chytrid
