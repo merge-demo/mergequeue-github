@@ -6965,7 +6965,7 @@ feloniously
 firecracker
 frizzler
 flindosy
-flexographically
+flexographically 1
 faintling
 faineance
 fluoboric
