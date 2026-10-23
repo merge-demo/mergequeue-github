@@ -14569,7 +14569,7 @@ bacis
 blatterer
 branding 1
 brandiron
-buddle
+buddle 1
 bimaculate
 billhooks
 blume
