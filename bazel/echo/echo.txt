@@ -443,7 +443,7 @@ ecbole
 explained
 ellipsone
 extraembryonal
-emmer
+emmer 1
 eremitical
 eftsoons
 ecchymosis

@@ -17551,7 +17551,7 @@ disappeared
 drumlinoid
 decelerated
 dactylate
-diatomous
+diatomous 1
 dactyls
 drumlins
 dorsiferous
