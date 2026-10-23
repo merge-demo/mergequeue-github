@@ -15376,7 +15376,7 @@ brachypterous
 brigandine
 bandhu
 brigantia
-brigantines
+brigantines 1
 brigatry
 brigetty
 beliquoring
