@@ -17772,7 +17772,7 @@ downlooked
 donga
 dorsosternal
 desoxycorticosterone
-depa
+depa 1
 desoxyanisoin
 duckbill
 dossing
