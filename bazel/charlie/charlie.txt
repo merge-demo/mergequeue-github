@@ -16303,7 +16303,7 @@ clypeated
 clypeiform
 clypeola
 clypeolar
-clypeus
+clypeus 1
 cyanomethaemoglobin
 clipped
 clippers

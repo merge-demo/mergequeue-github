@@ -10729,7 +10729,7 @@ gairfish
 gassers
 gaddi
 gustard
-guergal
+guergal 1
 gustatorial
 groupie
 gustfully
