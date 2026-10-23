@@ -25193,7 +25193,7 @@ conversantly
 cads
 cyanicide
 clocking
-corymbiate
+corymbiate 1
 corymbiated
 craylet
 coachlet
