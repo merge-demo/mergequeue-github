@@ -8783,7 +8783,7 @@ deuterodome
 diazins
 dulcifying
 declarators
-defeat
+defeat 1
 defrocking
 dictaphone
 dequeen
