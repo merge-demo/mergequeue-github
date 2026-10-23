@@ -2221,7 +2221,7 @@ decreative
 dendrophile
 dissipativity
 decasualise
-disgavel
+disgavel 1
 decasualized
 dialectological
 didymous
