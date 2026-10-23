@@ -11161,7 +11161,7 @@ fungation
 fungia
 fremdness
 flyblowing
-fungian
+fungian 1
 felspar
 fungibility
 fadeout
