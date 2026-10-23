@@ -312,7 +312,7 @@ flexuosity
 fraternation
 feints
 fag
-feint
+feint 1
 fostell
 finagles 1
 fibrillated
