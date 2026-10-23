@@ -21601,7 +21601,7 @@ alkyl
 allegement
 antiphonaries
 angary
-allegorist
+allegorist 1
 asporogenic
 aphronia
 annexes
