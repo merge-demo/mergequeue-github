@@ -3527,7 +3527,7 @@ heszilgwsqkt
 heszleef
 heta
 hetbiosnjc
-hetcft
+hetcft 1
 hetcknnqp
 hetclsncr 1
 hetcopxyp

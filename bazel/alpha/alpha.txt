@@ -649,7 +649,7 @@ abomasus
 alkylize
 abominably
 abominate
-avifaunal
+avifaunal 1
 adulates
 amniotitis
 autotomic
