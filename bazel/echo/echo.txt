@@ -11144,7 +11144,7 @@ evocation 1
 entanglingly
 enjambments
 eavesdrip
-encomy
+encomy 1
 evacuant
 eighteenmos
 episome
