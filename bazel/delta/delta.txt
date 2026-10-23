@@ -4387,7 +4387,7 @@ dematerialised
 divinified
 donal
 disproportionation
-dioeciousness
+dioeciousness 1
 disclaimed
 dematerialized
 dematerializing
