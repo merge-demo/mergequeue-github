@@ -9234,7 +9234,7 @@ butyrals
 bow
 bipinnatisect
 bobsledding
-brighter
+brighter 1
 bipyramid
 bring
 bipyridyl
