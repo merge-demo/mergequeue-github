@@ -3059,7 +3059,7 @@ fibrefill
 fenestra
 fasciolidae
 foursquare
-fishier
+fishier 1
 fibreless
 flatcar
 foregone
