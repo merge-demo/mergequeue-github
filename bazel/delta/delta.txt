@@ -4868,7 +4868,7 @@ dormmice
 denicotinize
 demagnetized
 devotionary
-dyspeptically
+dyspeptically 1
 diphenylacetylene
 demonishness
 disozonize
