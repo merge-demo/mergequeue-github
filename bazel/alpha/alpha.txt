@@ -7092,7 +7092,7 @@ abantes
 akia
 acetylene
 antiplethoric
-amphiarthrodial
+amphiarthrodial 1
 akin
 anoxaemic
 azury
