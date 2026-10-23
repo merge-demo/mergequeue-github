@@ -5290,7 +5290,7 @@ deligated
 drammer
 density
 defat
-degasifier
+degasifier 1
 dispositioned
 diatomaceoid
 denouncers
