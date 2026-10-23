@@ -21493,7 +21493,7 @@ aspersive
 abirritant
 adephaga
 assertorical
-allagophyllous
+allagophyllous 1
 anderun
 aspersively
 anosia
