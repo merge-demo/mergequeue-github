@@ -12230,7 +12230,7 @@ chrysophyte
 chromonemic
 chrysopid
 chrysopidae
-chrysoprase
+chrysoprase 1
 chrysoprasus
 chasmic
 counteradvice
