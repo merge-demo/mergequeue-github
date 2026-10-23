@@ -4907,7 +4907,7 @@ corallinaceae
 carageen
 carses
 cogitable
-carsick
+carsick 1
 carsickness
 caviteno
 carrottop
