@@ -24600,7 +24600,7 @@ azosulphine
 apotheosize
 amantadine
 associateship 1
-avalanches
+avalanches 1
 acrologic
 actless
 assortive
