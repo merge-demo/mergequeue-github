@@ -10269,7 +10269,7 @@ frillies
 flagitiousness
 ferricyanhydric
 frolicsome
-fishful
+fishful 1
 fratched
 frammit
 fibrinolysin 1
