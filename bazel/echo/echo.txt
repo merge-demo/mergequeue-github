@@ -11591,7 +11591,7 @@ earringed
 ectromelic
 encephalosepsis
 evolutoid
-elegize
+elegize 1
 enchiridion
 explicating
 entablatured
