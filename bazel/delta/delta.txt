@@ -3628,7 +3628,7 @@ degerminator
 distentions
 degerming
 degerms
-discerptive
+discerptive 1
 douzeper
 disked
 deontological
