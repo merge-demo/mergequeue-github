@@ -3961,7 +3961,7 @@ ganner
 graphis
 gimping
 grubworms
-gigawatts
+gigawatts 1
 glioma
 glossoscopia
 geoty
