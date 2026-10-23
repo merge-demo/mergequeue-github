@@ -8124,7 +8124,7 @@ diacoelia
 desmolase
 dextroduction
 dupping
-diabolise
+diabolise 1
 diabolising
 diabolist
 denitrificator

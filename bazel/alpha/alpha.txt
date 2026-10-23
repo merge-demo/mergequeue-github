@@ -21770,7 +21770,7 @@ abuta
 assertion
 androids
 actinologue
-assertional
+assertional 1
 awninged
 appreciating
 assertively
