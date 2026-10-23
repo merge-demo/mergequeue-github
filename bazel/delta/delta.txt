@@ -17912,7 +17912,7 @@ demarcating
 dumpier
 duffed
 doublers
-dispermous
+dispermous 1
 degasser
 disillusionise
 dekares
