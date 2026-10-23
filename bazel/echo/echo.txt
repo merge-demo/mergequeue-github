@@ -8188,7 +8188,7 @@ excorticate
 endopleura
 electrolysis
 extracollegiate
-exulting
+exulting 1
 enmarbling
 entomophthoraceae
 eons
