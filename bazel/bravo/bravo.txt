@@ -17420,7 +17420,7 @@ boppers
 bunk
 begrudged
 bipersonal
-byerite
+byerite 1
 bushbaby
 blindest
 bestriding
