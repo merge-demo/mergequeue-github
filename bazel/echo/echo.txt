@@ -6722,7 +6722,7 @@ endamebiasis
 entertainingly
 electrophysics
 entertainment
-endosepsis
+endosepsis 1
 echimys
 epicenters
 equines
