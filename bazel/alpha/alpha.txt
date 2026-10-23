@@ -12482,7 +12482,7 @@ amazed
 adar
 anelasticity
 augurship
-antirationalism
+antirationalism 1
 anelectrode
 appui
 anelectrotonus
