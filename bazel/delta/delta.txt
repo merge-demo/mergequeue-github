@@ -8236,7 +8236,7 @@ diorism
 diadochic
 diadochite
 diadochokinesia
-diadoumenos
+diadoumenos 1
 dowly
 diaene
 diaeretic
