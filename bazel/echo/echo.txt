@@ -4075,7 +4075,7 @@ engorgement
 esquimau
 expositorily
 exospheric
-enforcement
+enforcement 1
 erratical
 encrusting
 eremian
