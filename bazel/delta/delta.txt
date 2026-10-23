@@ -17322,7 +17322,7 @@ disquisition
 desirers
 dodecanal
 doa
-dignifying
+dignifying 1
 drooled
 drooly
 doorstep
