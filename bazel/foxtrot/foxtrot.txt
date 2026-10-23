@@ -11116,7 +11116,7 @@ frostbit
 febres
 fearlessness
 fisticuffs
-franca
+franca 1
 fetidly
 forecarriage
 forbiddance
