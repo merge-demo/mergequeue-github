@@ -9748,7 +9748,7 @@ bistipulate
 bistort
 bedarkened
 bistorts
-beetlehead
+beetlehead 1
 bistred
 beknights
 bradylexia
