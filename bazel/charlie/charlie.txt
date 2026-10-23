@@ -13079,7 +13079,7 @@ cusks
 ceibos
 charming
 cybernation
-cybernetic
+cybernetic 1
 chimblies
 cybernetical
 cybernetically
