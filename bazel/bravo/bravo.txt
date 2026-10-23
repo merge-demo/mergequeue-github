@@ -6091,7 +6091,7 @@ bend
 bub
 bendee
 bullwhips
-beamier
+beamier 1
 bittering
 bibliographical
 bendees
