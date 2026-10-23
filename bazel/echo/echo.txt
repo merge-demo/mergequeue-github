@@ -3608,7 +3608,7 @@ expostulatingly
 epitomically
 embows
 exanimate
-enculturate
+enculturate 1
 entamoeba
 encyclopaediac
 effusive

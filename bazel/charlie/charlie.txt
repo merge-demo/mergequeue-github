@@ -795,7 +795,7 @@ cahita
 coprophagan
 continency
 cahiz
-cunas
+cunas 1
 collyr
 circulating
 circumvent
