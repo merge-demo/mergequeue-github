@@ -1547,7 +1547,7 @@ guara
 gazump
 grimgribber
 gastrologist
-goatpox
+goatpox 1
 gasper
 grounder
 gazetting
