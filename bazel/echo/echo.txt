@@ -4771,7 +4771,7 @@ embarrass
 eyren
 executions
 existent
-exodos
+exodos 1
 endosmosic
 ebulliometry
 excircle
