@@ -9963,7 +9963,7 @@ chequer
 chequered
 chequers
 creosoted
-chalukya
+chalukya 1
 chequerwork
 chequin
 cherchez

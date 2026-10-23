@@ -772,7 +772,7 @@ discursory
 dandisette
 decoyer
 dandizette
-dayflies
+dayflies 1
 decasyllabic
 duvetyne
 destains
