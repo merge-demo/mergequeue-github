@@ -4942,7 +4942,7 @@ geomaly
 gangway
 guvacoline
 gallimatia
-gradational
+gradational 1
 grasping
 gynecocentric
 gapingly
