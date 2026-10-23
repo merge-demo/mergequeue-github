@@ -1576,7 +1576,7 @@ fooster
 favored
 feasibilities
 favorer
-foresty
+foresty 1
 ferrash
 fleecelike
 fourstrand
