@@ -5218,7 +5218,7 @@ bergamots
 befurbelowed
 befurred
 begabled
-bowla
+bowla 1
 begad
 bedders
 boskopoid
