@@ -3016,7 +3016,7 @@ externa
 eliot
 eliphalet
 elbowroom
-excrementize
+excrementize 1
 endometrial
 eviscerate
 eliquidate
