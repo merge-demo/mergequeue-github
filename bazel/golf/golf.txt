@@ -3941,7 +3941,7 @@ gastroschisis
 genetical
 geoduck
 gemmily
-gyroceras
+gyroceras 1
 gleeting
 garrisons
 gipsy
