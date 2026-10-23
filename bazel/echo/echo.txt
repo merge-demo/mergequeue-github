@@ -6106,7 +6106,7 @@ eugenic
 eulachon
 elasmosaur
 ebullience
-evanesce
+evanesce 1
 epifauna
 epirrhema
 electrocardiography

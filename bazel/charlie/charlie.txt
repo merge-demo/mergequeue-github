@@ -21046,7 +21046,7 @@ computatively 1
 computativeness
 computer
 computerese
-computerise
+computerise 1
 computerization
 computerizes
 computerizing
