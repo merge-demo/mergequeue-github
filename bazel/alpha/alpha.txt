@@ -20629,7 +20629,7 @@ arthrophlogosis
 abdaria
 appete
 abruptiones
-arthropodal
+arthropodal 1
 ambustion
 abmhos
 archaists
