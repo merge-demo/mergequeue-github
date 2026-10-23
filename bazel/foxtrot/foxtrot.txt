@@ -1608,7 +1608,7 @@ footroom
 floriage
 frijol
 fervescence
-flannel
+flannel 1
 fawkener
 fraischeur
 funfair
