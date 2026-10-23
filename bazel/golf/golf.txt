@@ -8500,7 +8500,7 @@ galops
 groupers
 gayal
 galleon
-geomorphological
+geomorphological 1
 geotectonically
 gravelish
 guardian
