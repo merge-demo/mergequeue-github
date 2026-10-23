@@ -9714,7 +9714,7 @@ extraorganismal
 exceptional
 empathize
 european
-essart
+essart 1
 edulcorative
 esse
 evangelizing
