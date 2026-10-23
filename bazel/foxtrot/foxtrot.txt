@@ -5843,7 +5843,7 @@ fervidly
 fierasfer
 fodders
 flounders
-flotas
+flotas 1
 floatier
 flustrum
 fulcrums
