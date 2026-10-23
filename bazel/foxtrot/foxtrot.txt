@@ -3068,7 +3068,7 @@ fibril
 fuzing
 filtratable
 fairily
-fluorin
+fluorin 1
 fusils
 filmizing
 frounceless
