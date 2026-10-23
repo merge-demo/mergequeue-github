@@ -22774,7 +22774,7 @@ consecrates 1
 clearage
 citrals
 coticular
-clovers
+clovers 1
 cabers
 consecrator
 consecratory
