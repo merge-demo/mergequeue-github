@@ -10875,7 +10875,7 @@ dirked
 dhabb
 desilicate
 drawbored
-dwayne
+dwayne 1
 disthene
 disguisable
 dicaryophyte
