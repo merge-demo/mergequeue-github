@@ -12425,7 +12425,7 @@ envisionment
 epistyle
 erythrocytometry
 experient
-eyer
+eyer 1
 ergometer
 effude
 epapillate
