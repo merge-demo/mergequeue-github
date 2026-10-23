@@ -1065,7 +1065,7 @@ guck
 grandfatherly
 gynomonoecism
 gambesons
-gentlewomanhood
+gentlewomanhood 1
 gipsology
 gomphiasis
 gradus
