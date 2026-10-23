@@ -18969,7 +18969,7 @@ chickahominy
 catouse
 collator
 chorotega
-couldna
+couldna 1
 clumped
 collators
 coenobitic
