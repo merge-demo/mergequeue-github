@@ -154,7 +154,7 @@ alanyl
 alcumy
 abating
 abatis
-asbolin
+asbolin 1
 atoms
 abatised
 alliable
