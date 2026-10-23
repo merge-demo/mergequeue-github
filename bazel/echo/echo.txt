@@ -1014,7 +1014,7 @@ educationary 1
 electropolar
 escargot
 edemas
-exinite
+exinite 1
 exclaimingly
 eldership
 epilabra
