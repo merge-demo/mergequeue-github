@@ -3867,7 +3867,7 @@ formicary
 fiberscope
 forgiveable
 fungistat
-flavanthrene
+flavanthrene 1
 favous
 fimbriating
 farcer
