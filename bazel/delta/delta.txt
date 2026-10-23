@@ -15283,7 +15283,7 @@ dolmans
 diurnation
 diamylose
 diluviums
-dolmas
+dolmas 1
 dolmen
 desubstantiate
 dolomedes
