@@ -13187,7 +13187,7 @@ cyclamine
 cyclane
 cataphonic
 clin
-craftsmanlike
+craftsmanlike 1
 chetahs
 coworker
 compesce
