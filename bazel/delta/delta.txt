@@ -12375,7 +12375,7 @@ decempartite
 didymiums 1
 decoagulation
 dishaunt
-deflationary
+deflationary 1
 dichromaticism
 deathweed
 dishcloth
