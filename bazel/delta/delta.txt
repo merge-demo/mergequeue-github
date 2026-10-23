@@ -8684,7 +8684,7 @@ diglossia
 disgustedness
 dryads
 dialectology
-diastasimetry
+diastasimetry 1
 dipnoan
 devilfishes
 deraigned
