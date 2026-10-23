@@ -5795,7 +5795,7 @@ decaliter
 deportability
 deportations
 decriminalized
-dissipatedly
+dissipatedly 1
 dewer
 disoxygenate
 dainties
