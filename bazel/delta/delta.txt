@@ -3148,7 +3148,7 @@ downfolded
 defaults
 decked
 defaulture
-dayworker
+dayworker 1
 dialings
 doat
 defeasibility
