@@ -14637,7 +14637,7 @@ divulsion
 divvy
 derating 1
 depressing
-diallel
+diallel 1
 dixain
 decentre
 diplococcocci
