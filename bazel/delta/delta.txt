@@ -5958,7 +5958,7 @@ damascening 1
 dianthus
 destalinize
 discussible
-dayfly
+dayfly 1
 diplodus
 deprogrammed
 drillstock
