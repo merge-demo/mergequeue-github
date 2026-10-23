@@ -18082,7 +18082,7 @@ amazonian
 anschauung
 agromyza
 anconeal
-aptiana
+aptiana 1
 aptychus
 aptitude
 aptnesses
