@@ -6392,7 +6392,7 @@ fluoroform
 fluorescigenous
 fumarolic
 fricasseing
-faence
+faence 1
 forefoot
 fronture
 furry
