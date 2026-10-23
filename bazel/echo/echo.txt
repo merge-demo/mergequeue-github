@@ -6816,7 +6816,7 @@ escribing
 eutrophies
 efflation
 enwombing
-entitative
+entitative 1
 exostema
 elaphine
 enrooted
