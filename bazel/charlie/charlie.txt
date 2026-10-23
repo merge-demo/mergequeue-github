@@ -3824,7 +3824,7 @@ carbolfuchsin
 curlewberry
 carbolic
 carbolics
-centricity
+centricity 1
 carbolising
 carbolize
 carbolized
