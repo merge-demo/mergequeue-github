@@ -9966,7 +9966,7 @@ frigolabile
 fumigate
 fadlike 1
 friendships
-feloniousness
+feloniousness 1
 frigoric
 foun
 futureless
