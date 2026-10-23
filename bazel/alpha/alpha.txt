@@ -13295,7 +13295,7 @@ amphodelite
 alcoholometry
 anorexia
 archiater
-abstemiously
+abstemiously 1
 anisoles
 adipopexic
 albireo
