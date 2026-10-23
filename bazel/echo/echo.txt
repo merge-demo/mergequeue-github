@@ -1810,7 +1810,7 @@ episepalous
 emanium
 esrogim
 emigrant
-exoclinal
+exoclinal 1
 exhorters
 engraulis
 erodium
