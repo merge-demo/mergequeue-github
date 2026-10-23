@@ -27071,7 +27071,7 @@ counterquartered
 caneva
 celibatarian
 counterraid
-counterreckoning
+counterreckoning 1
 counterrefer
 congoni
 coccule
