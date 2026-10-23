@@ -12069,7 +12069,7 @@ chott
 chunky
 chotts
 chou
-chinkiest
+chinkiest 1
 chouan
 chouanize
 committment
