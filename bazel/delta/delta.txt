@@ -15085,7 +15085,7 @@ dicycle
 deboshed
 doglike
 dekabrist
-dufrenite
+dufrenite 1
 delicti
 domitian
 dedicative
