@@ -3944,7 +3944,7 @@ firmamental
 fraple
 ferrocyanogen
 falsehearted
-furrowed
+furrowed 1
 fireboxes
 fluoresces
 flemish
