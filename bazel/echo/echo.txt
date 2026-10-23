@@ -10895,7 +10895,7 @@ euphonically
 exemplaric
 epizoism
 exmoor
-endangerer
+endangerer 1
 eucrasia
 equaller
 electromyographically
