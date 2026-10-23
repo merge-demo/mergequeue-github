@@ -12680,7 +12680,7 @@ diffrangibility
 disleaved
 disjointure
 disepalous
-dentalize
+dentalize 1
 demiheavenly
 dogger
 desexualize
