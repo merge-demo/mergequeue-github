@@ -3135,7 +3135,7 @@ fulminancy
 fibroferrite
 fundic
 firewarden
-furioso
+furioso 1
 franciscans
 facile
 finca
