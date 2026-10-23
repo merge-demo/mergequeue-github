@@ -13502,7 +13502,7 @@ bags
 bigamistic
 bourre
 beseek 1
-boondoggle
+boondoggle 1
 boneyards
 botulisms
 brief
