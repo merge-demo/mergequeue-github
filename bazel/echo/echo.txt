@@ -1077,7 +1077,7 @@ envergure
 exostotic
 edible
 expeditive
-embase
+embase 1
 endothelial
 embeddable
 epistolic
