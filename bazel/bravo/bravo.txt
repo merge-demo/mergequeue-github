@@ -2438,7 +2438,7 @@ bactericidal
 blencher
 bareheadedness
 bareknuckled
-bdellatomy
+bdellatomy 1
 bellabella
 blustery
 barenecked
