@@ -2994,7 +2994,7 @@ enfelon
 etiologies
 embind
 explait
-emony
+emony 1
 equiprobabilism
 eliminated
 ectopia
