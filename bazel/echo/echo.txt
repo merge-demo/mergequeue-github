@@ -775,7 +775,7 @@ egger
 ecrase
 enclitic
 escort
-extense
+extense 1
 eremophilous
 experimental
 epitheliliums
