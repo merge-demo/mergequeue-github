@@ -1159,7 +1159,7 @@ edomitish
 expective
 eutomous
 exorbitate
-enterograph
+enterograph 1
 edoni
 excisemen
 entrochite
