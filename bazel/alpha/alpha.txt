@@ -15287,7 +15287,7 @@ antigravitate
 annale
 alleviator
 agamically
-awalim
+awalim 1
 amorality
 alhambra
 antigravitational
