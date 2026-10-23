@@ -5691,7 +5691,7 @@ dawdled
 dolorousness 1
 drumler
 deplant
-disvertebrate
+disvertebrate 1
 denominational
 deozonize
 delegacies
