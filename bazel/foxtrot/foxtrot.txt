@@ -9599,7 +9599,7 @@ flanger
 flagellant
 finalism
 faqir
-foreseeability
+foreseeability 1
 filipinize
 fleeceable
 fdub
