@@ -864,7 +864,7 @@ defix
 dubiosity
 devoicing
 decalcification
-dowered
+dowered 1
 disorchard
 dankishness
 discardable
