@@ -23792,7 +23792,7 @@ contrastiveness
 chemicalization
 contrasts
 contrasuggestible
-cruiskeen
+cruiskeen 1
 catface
 contratenor
 contravalence
