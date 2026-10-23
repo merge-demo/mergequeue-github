@@ -3049,7 +3049,7 @@ gromet
 genii
 giraffidae
 gorra
-globulins
+globulins 1
 gastromyces
 geometridae
 gangshag
