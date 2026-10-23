@@ -10195,7 +10195,7 @@ extrahazardous
 emancipation
 escrowed
 emmarbled
-electrotelegraphic
+electrotelegraphic 1
 escargotieres
 esperantic
 esophagomycosis
