@@ -1952,7 +1952,7 @@ goclenian
 germicides
 glucosidal
 gorbellied
-glutetei
+glutetei 1
 gruft
 gustoso
 gastrilegous
