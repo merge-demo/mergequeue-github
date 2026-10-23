@@ -5591,7 +5591,7 @@ flocculently
 fiords
 flickermouse
 flannelmouthed
-flowery
+flowery 1
 furbearer
 froebelist
 fanaticized
