@@ -7911,7 +7911,7 @@ draconianism
 desperadoes
 defrock
 droughty
-diminuting
+diminuting 1
 degringolade
 dewlapped
 deuniting
