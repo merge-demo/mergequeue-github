@@ -473,7 +473,7 @@ cadastral
 cadastration
 cadastres
 cadaver
-capronic
+capronic 1
 cadaverin
 cormus
 cadaverous
