@@ -5365,7 +5365,7 @@ gyrencephalate
 goiters
 glees
 gormands
-ganoses
+ganoses 1
 gipsyism
 geotechnics
 glycosidically
