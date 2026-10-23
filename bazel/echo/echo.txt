@@ -9299,7 +9299,7 @@ electroreceptive
 entomolegist
 erthen
 eumorphous
-ekistic
+ekistic 1
 enkennel
 erthly
 estriate
