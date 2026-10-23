@@ -1403,7 +1403,7 @@ duotriode
 dayless
 decephalize
 diorites
-daviesite
+daviesite 1
 deleted
 demilitarize
 dispel
