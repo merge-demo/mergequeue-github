@@ -381,7 +381,7 @@ glossophagine
 goto
 gansy
 glumpily 1
-goatskins
+goatskins 1
 grandmamma
 guisian
 gps
