@@ -13809,7 +13809,7 @@ ethnography
 elating
 extracarpal
 extratropical
-extendible
+extendible 1
 excepted
 editorializing
 extracerebral
