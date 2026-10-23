@@ -13959,7 +13959,7 @@ dichroism
 deys
 distomatous
 daubed
-distomes
+distomes 1
 distomidae
 dubby
 deturb
