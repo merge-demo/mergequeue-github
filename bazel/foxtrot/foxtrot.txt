@@ -5057,7 +5057,7 @@ flappet
 fermions
 figlike
 fishline
-fosses
+fosses 1
 foveated
 fezes
 freir
