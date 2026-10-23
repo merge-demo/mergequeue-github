@@ -6686,7 +6686,7 @@ counterthrust
 ceil
 clamoring
 celestine
-ceilers
+ceilers 1
 ceilidhe
 connexivum
 ceiling
