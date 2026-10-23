@@ -2501,7 +2501,7 @@ ecocide
 emotionalise
 electroing
 electrokinetic
-eluviate
+eluviate 1
 ecosphere
 epicanthic
 exterminative
