@@ -3775,7 +3775,7 @@ jexlgqi
 jexljd
 jexlloqntf
 jexnrg
-jexo
+jexo 1
 jexotyc
 jexp
 jexposycgsk
