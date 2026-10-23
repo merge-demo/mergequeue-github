@@ -7389,7 +7389,7 @@ cephalophine
 cryostats
 cervisia
 consorted
-cryoprobe
+cryoprobe 1
 cephalopoda
 clodded
 convolvulinolic
