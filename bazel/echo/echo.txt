@@ -7705,7 +7705,7 @@ epideistic
 enthymematical
 eriocaulaceous
 effluxion
-estrus
+estrus 1
 esprise
 extruder
 ellipticalness
