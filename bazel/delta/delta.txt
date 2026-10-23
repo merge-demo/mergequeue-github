@@ -2042,7 +2042,7 @@ declasse
 despised
 diverberate
 decahedron
-disclassify
+disclassify 1
 drearier
 degamis
 dentatocrenate
