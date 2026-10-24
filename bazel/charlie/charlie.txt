@@ -2073,7 +2073,7 @@ chests
 cosherer
 camp
 campagi
-coquettes
+coquettes 1
 counteraverment
 campagna
 campagne
