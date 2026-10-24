@@ -4664,7 +4664,7 @@ epimerase
 epimerising
 eusuchian
 eddies
-excretionary
+excretionary 1
 enrapting
 eustachian
 exinanite
