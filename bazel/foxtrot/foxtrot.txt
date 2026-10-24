@@ -3540,7 +3540,7 @@ flexuoseness
 feud
 fitchets
 floundering
-figuriste
+figuriste 1
 flicked
 fyke
 fains
