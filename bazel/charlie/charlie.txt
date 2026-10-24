@@ -29177,7 +29177,7 @@ carajo
 chantlate
 cryophile
 chemawinite
-chalazae
+chalazae 1
 cryophyllite
 cryophyte
 criophore
