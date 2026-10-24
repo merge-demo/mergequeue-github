@@ -4317,7 +4317,7 @@ bdrm
 bulimia
 becap
 backslides 1
-becarpeted
+becarpeted 1
 bulbourethral
 bradykinin
 because
