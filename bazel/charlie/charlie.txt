@@ -10648,7 +10648,7 @@ cryptesthetic
 conenchyma
 conglomerated
 comfortably
-cervicorn
+cervicorn 1
 chimbly
 constructional
 calcaemia
