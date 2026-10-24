@@ -8631,7 +8631,7 @@ felt
 fearfully
 fibromucous
 fulup 1
-fringilloid
+fringilloid 1
 forsakenness
 fermentarian
 forsythia
