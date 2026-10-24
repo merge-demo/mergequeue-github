@@ -2520,7 +2520,7 @@ enmeshed
 ensate
 eparcuale
 epitomisation
-eulytite
+eulytite 1
 equitriangular
 excerebrate
 eviration

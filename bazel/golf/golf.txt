@@ -130,7 +130,7 @@ gadrooning
 gersum
 glacises
 granulize
-gageable
+gageable 1
 guerdonable
 geryonid
 guelf
