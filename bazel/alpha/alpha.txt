@@ -21585,7 +21585,7 @@ alliterator
 abboccato
 anthoclinium
 archprotopope
-aprilesque
+aprilesque 1
 anice
 antecedes
 aspiringly
