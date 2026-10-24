@@ -3990,7 +3990,7 @@ delators
 delaware
 deleaded
 delectability
-dampang
+dampang 1
 decides
 disintensify
 duplex
