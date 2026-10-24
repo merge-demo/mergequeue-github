@@ -12817,7 +12817,7 @@ chupatty
 crases
 countermanifesto
 crithmene
-chuppah
+chuppah 1
 cornuate
 cecile
 chuprassy
