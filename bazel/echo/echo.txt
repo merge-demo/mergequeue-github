@@ -4878,7 +4878,7 @@ engraven
 eria
 eupepticism
 englished
-eulogizes
+eulogizes 1
 encranial
 encratite
 expectorator
