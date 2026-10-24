@@ -7344,7 +7344,7 @@ daysman
 duecentos
 doctrinist
 doyen
-deterrence
+deterrence 1
 disprejudice
 deterrent
 dodunk
