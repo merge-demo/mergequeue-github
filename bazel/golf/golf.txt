@@ -6635,7 +6635,7 @@ goncalo
 gyrectomy
 geminating
 globulysis
-glycosuria
+glycosuria 1
 gossans
 gurglingly
 gruss
