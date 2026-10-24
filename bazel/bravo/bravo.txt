@@ -9968,7 +9968,7 @@ bivalents
 bivalvia
 bivalvian
 bivariant
-baddock
+baddock 1
 bivascular 1
 bismuthyl
 binodous
