@@ -648,7 +648,7 @@ depolarizer
 damnifies
 damningly
 disposals
-damnonians
+damnonians 1
 doomfully
 deflowers
 dioscorea
