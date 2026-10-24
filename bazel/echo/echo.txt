@@ -981,7 +981,7 @@ exhumes
 entera 1
 expanse
 excavatory
-emasculating
+emasculating 1
 enthymematic
 ensaffron
 ensealing
