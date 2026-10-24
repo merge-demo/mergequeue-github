@@ -14279,7 +14279,7 @@ dominicker
 denotationally
 dytiscid
 daubier
-dytiscus
+dytiscus 1
 ditokous
 dichrooscope
 dibasic
