@@ -9893,7 +9893,7 @@ friskier
 folliculous
 foliaceousness
 fibrofatty
-freckly
+freckly 1
 ferreters
 friendlessness
 fancier
