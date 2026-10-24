@@ -3805,7 +3805,7 @@ deific
 dhobey
 deification
 disaugment
-dressiness
+dressiness 1
 drepanididae
 despited
 describes
