@@ -8931,7 +8931,7 @@ grandiloquous
 gwag
 globy
 galvanising
-gnaw
+gnaw 1
 glycosidic
 geranomorphic
 gothicize
