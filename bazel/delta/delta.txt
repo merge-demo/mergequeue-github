@@ -9259,7 +9259,7 @@ dieresis
 dihydrazone
 disemic
 debite
-digitalic
+digitalic 1
 dateableness
 dyes
 damfoolish
