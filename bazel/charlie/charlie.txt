@@ -19123,7 +19123,7 @@ collocated
 cord
 crystallographer
 cauked
-cartomancy
+cartomancy 1
 collocating
 chkfile
 carambola
