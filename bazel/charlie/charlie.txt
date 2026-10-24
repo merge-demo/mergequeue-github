@@ -6859,7 +6859,7 @@ cytologist
 cellulofibrous
 celluloid
 confabbing
-chartaceous
+chartaceous 1
 cellulosic
 contented
 cellulosing
