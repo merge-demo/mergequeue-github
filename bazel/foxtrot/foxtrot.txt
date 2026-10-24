@@ -8199,7 +8199,7 @@ fribblery
 foothils
 flakier
 forewritten
-fundamentals
+fundamentals 1
 forgeries
 fatigated
 fictioneer
