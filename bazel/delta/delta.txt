@@ -1851,7 +1851,7 @@ degeneratively
 defeudalize
 debilitates
 debilitative
-dermatoglyphics
+dermatoglyphics 1
 devirginator
 debitum
 declaratory
