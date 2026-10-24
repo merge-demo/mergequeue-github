@@ -7171,7 +7171,7 @@ centrarchoid
 clar
 compare
 centraxonial
-centre
+centre 1
 clinoaxis
 centreboard
 centred
