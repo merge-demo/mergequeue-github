@@ -411,7 +411,7 @@ daintiness
 daiquiri
 dingle
 diriment
-diathermia
+diathermia 1
 dominos
 dwelt
 destructing
