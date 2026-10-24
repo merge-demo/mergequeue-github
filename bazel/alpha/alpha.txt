@@ -18236,7 +18236,7 @@ analogistic
 ar
 ara
 arabesks
-anguish
+anguish 1
 arabesquely
 alleluja
 aptyalia
