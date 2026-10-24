@@ -284,7 +284,7 @@ gaslock
 gaddish
 groundliness
 grubstaked
-globins
+globins 1
 geet
 gummier
 glossophora

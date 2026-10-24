@@ -3726,7 +3726,7 @@ adequacies
 adequate
 acclivity
 almuerzo
-appenage
+appenage 1
 annum
 adespoton
 analemmatic
