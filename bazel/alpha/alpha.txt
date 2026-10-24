@@ -24466,7 +24466,7 @@ autotomizing
 astragals
 autotoxic
 autotractor
-autotransformer
+autotransformer 1
 archeologically
 attemperately
 aetheric
