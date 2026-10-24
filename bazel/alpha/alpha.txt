@@ -8286,7 +8286,7 @@ axiologist
 accenting
 aculea
 archin
-artefac
+artefac 1
 aselli
 aliethmoid
 axonal
