@@ -16292,7 +16292,7 @@ discoloring
 downlink
 desertion
 downloading
-downness
+downness 1
 dermographic
 disenthralls
 dvaita
