@@ -1036,7 +1036,7 @@ billons
 busway
 bustiest
 boyaus
-basanite
+basanite 1
 bersil
 boroughmaster
 bailiwick
