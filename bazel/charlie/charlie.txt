@@ -14292,7 +14292,7 @@ crosspieces
 circumparallelogram
 circumpentagon
 convexed
-circumplanetary
+circumplanetary 1
 crone
 chrysazin
 circumplicate
