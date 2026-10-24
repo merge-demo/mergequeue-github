@@ -1630,7 +1630,7 @@ glaucosuria
 gyrinid 1
 gaucheness
 glassteel
-gravitational
+gravitational 1
 grimly
 grimines
 glibness
