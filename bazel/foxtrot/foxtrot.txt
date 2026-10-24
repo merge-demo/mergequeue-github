@@ -8880,7 +8880,7 @@ faulter
 foujdarry
 fibrousness
 foul
-fogger
+fogger 1
 finesse
 foulder
 fiberizer
