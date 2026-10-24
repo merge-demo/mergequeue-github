@@ -10741,7 +10741,7 @@ amire
 anthracometric
 amyris
 abattis
-amyrol
+amyrol 1
 amyroot
 allodiaries
 alodiary
