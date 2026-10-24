@@ -10632,7 +10632,7 @@ geronto
 girns
 grillades
 gambette
-greenly
+greenly 1
 gossipries
 gaylies
 gyascutus
