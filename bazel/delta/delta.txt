@@ -17112,7 +17112,7 @@ driftingly 1
 driftless
 driftlessness
 drepanium
-divulging
+divulging 1
 disclose
 degenerative
 drifters
