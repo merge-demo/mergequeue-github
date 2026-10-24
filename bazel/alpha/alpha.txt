@@ -24769,7 +24769,7 @@ aviculturist
 antistrike
 avidin
 abacot
-angioasthenia
+angioasthenia 1
 aymara
 alexines
 adamine
