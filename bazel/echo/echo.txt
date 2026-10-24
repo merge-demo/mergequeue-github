@@ -7073,7 +7073,7 @@ encompassed
 enumerability
 entry
 epris 1
-expansionary
+expansionary 1
 exemptile
 earthfast
 experiencer
