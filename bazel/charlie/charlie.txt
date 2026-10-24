@@ -18549,7 +18549,7 @@ coiffed
 caustics
 clavers
 coiffeur
-coiffeurs
+coiffeurs 1
 coiffeuses
 coiffured
 ceroxylon
