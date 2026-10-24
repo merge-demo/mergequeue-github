@@ -8062,7 +8062,7 @@ expiator
 embarred
 epigrammatizer
 earnests
-epiphegus
+epiphegus 1
 enwombed
 emgalla
 eteocles
