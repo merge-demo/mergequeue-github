@@ -2545,7 +2545,7 @@ fairyhood
 funduck
 ferryboat
 fatties
-fitchews
+fitchews 1
 faithbreach
 fishpot
 fretter
