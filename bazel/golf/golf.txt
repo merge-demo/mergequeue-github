@@ -379,7 +379,7 @@ glaive
 gentiles
 glossophagine
 goto
-gansy
+gansy 1
 glumpily 1
 goatskins
 grandmamma
