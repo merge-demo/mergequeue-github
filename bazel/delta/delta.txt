@@ -11847,7 +11847,7 @@ disponee
 disgorger
 dawing
 deuteroprism
-decentralism
+decentralism 1
 diamines
 discurre
 dislikable
