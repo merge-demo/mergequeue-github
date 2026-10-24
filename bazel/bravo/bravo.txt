@@ -5174,7 +5174,7 @@ buoyage
 befriended
 bellbind
 beardfish
-befriender
+befriender 1
 benignly
 blasphemously
 balanoblennorrhea
