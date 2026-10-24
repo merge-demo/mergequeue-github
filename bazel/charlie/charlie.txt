@@ -26098,7 +26098,7 @@ cosmetics
 chakravartin
 crosswalks
 cosmicality
-clausulae
+clausulae 1
 calcutta
 congruential
 cosmically
