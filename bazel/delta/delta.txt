@@ -4023,7 +4023,7 @@ delesseriaceous
 draggling
 deleter
 demur
-deleteriousness
+deleteriousness 1
 dirge
 deletions
 disdub
