@@ -7290,7 +7290,7 @@ deglutinated
 dentines
 dowage
 disseized
-diffusivity
+diffusivity 1
 dollies
 diaxone
 disturbor
