@@ -2078,7 +2078,7 @@ decal
 dodecylic
 dilatory
 decalage
-dinghy
+dinghy 1
 decalcifies
 dartle
 dendrography
