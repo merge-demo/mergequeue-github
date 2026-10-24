@@ -14391,7 +14391,7 @@ desolative
 detainable
 dephlogisticated
 dolicholus
-divaricator
+divaricator 1
 divast
 doubtable
 divebomb
