@@ -27707,7 +27707,7 @@ cowk
 cowkine
 cumulatively
 coordinately
-cowl
+cowl 1
 cowle
 citrin
 conduits
