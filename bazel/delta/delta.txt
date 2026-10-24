@@ -7814,7 +7814,7 @@ dramatisable
 devon
 devons
 desirability
-devoration
+devoration 1
 dadaists
 dairyings
 devoted
