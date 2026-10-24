@@ -13125,7 +13125,7 @@ exhalation
 encroaches
 empaestic
 esocidae
-ejuration
+ejuration 1
 erymanthian
 euthyneurous
 evolved
