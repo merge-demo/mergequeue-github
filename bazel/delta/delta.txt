@@ -5629,7 +5629,7 @@ dozy
 desaturation
 depetalize
 disorganiser
-disprivilege
+disprivilege 1
 detainingly
 depravingly
 dorsumbonal
