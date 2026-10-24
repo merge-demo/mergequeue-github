@@ -9974,7 +9974,7 @@ bismuthyl
 binodous
 brahmic
 berbery
-barrenness
+barrenness 1
 bivector
 biventer
 backseat
