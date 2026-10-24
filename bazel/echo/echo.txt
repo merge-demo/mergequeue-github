@@ -12100,7 +12100,7 @@ escuage
 enflames
 exploit
 editress
-echinologist
+echinologist 1
 eartag
 electromagnet
 emasculation
