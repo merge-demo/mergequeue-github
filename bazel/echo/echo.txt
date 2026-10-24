@@ -5815,7 +5815,7 @@ edeoscopy
 enceintes
 euchre
 enterons
-encrinal
+encrinal 1
 episode
 encloser
 enray
