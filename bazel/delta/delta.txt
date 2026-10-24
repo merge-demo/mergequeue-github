@@ -5673,7 +5673,7 @@ depilated
 dragees
 discommodate
 dispiritedness
-depilating
+depilating 1
 depilatory
 depilatories
 discos
