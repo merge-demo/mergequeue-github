@@ -283,7 +283,7 @@ anolian
 abdominalian
 appurtenances
 accuracy
-autotropism
+autotropism 1
 abdominally
 aeroacoustic
 aguamas
