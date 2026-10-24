@@ -5146,7 +5146,7 @@ gyps
 glaucophanite
 goldcrest
 gimpiest
-gallinaginous
+gallinaginous 1
 guerdon 1
 gammick
 geologised
