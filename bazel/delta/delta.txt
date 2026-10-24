@@ -6685,7 +6685,7 @@ diversly
 dilatations
 dactylis
 dodecasyllabic
-dioptres
+dioptres 1
 diminutely
 defoliation
 desesperance
