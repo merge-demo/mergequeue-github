@@ -14427,7 +14427,7 @@ cirriped
 chowsed
 cirripedia
 conservable
-cirripedial
+cirripedial 1
 centiare
 carate
 crosscrosslet
