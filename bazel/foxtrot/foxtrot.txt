@@ -1913,7 +1913,7 @@ franklinization
 federalised
 fanglike
 federalism
-fykes
+fykes 1
 fecalith
 frithborh
 fixure
