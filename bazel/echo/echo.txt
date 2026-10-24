@@ -3393,7 +3393,7 @@ espier
 enteropneustal
 estimator
 equivocally
-epinephelus
+epinephelus 1
 ebullate
 exurbanite
 exacters
