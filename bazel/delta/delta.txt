@@ -5979,7 +5979,7 @@ draughtiest
 downbeats
 darcy
 doctorlike
-decimetres
+decimetres 1
 doubledamn
 deckswabber
 debord
