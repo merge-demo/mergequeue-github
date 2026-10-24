@@ -12413,7 +12413,7 @@ defibrillator
 deamidize
 deplantation
 drybrush
-desecate
+desecate 1
 disheriting
 deforms
 declivate
