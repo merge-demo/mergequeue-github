@@ -27030,7 +27030,7 @@ counterposting
 counterpotence
 cantilated
 counterpotency
-counterpotent
+counterpotent 1
 constance
 centenarian
 cajuela
