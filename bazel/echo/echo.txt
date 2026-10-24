@@ -1173,7 +1173,7 @@ edriophthalmatous
 extramental
 educand
 emulsive
-evanished
+evanished 1
 educatability
 eident 1
 educatable
