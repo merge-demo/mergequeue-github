@@ -5741,7 +5741,7 @@ gyrolite
 gurus
 geologize
 gratia
-gammons
+gammons 1
 goldsmithery
 glockenspiel
 gallopade
