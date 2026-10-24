@@ -1529,7 +1529,7 @@ foreseat
 feedbox
 flippant
 foodless
-fanfaron
+fanfaron 1
 foulish
 foreshift
 foetuses
