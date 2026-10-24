@@ -69,7 +69,7 @@ dactylar
 doggerelizer
 dactylically
 disputants
-dactylics
+dactylics 1
 darndests
 dacoiting
 depressibility
