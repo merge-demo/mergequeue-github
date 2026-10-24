@@ -8271,7 +8271,7 @@ gurries
 gara
 geopolitist 1
 galenite
-glissaded
+glissaded 1
 groundless
 gladii
 graphophone
