@@ -1125,7 +1125,7 @@ gruntled
 gashes
 globalization
 glossing
-ganoidian
+ganoidian 1
 graptolitoidea
 gaillardia
 geonyctitropic
