@@ -1262,7 +1262,7 @@ amay
 acarophobia
 acarotoxic
 arcturus
-aerognosy
+aerognosy 1
 australopithecine
 ails
 antifoggant
