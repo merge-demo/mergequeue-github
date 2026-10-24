@@ -17991,7 +17991,7 @@ digladiation
 dulcets
 discordantly
 dulcianas
-dulcify
+dulcify 1
 dulcification
 dropforging
 dislodgeable
