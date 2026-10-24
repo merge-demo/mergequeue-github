@@ -14684,7 +14684,7 @@ disagrees
 debauchee
 dolent
 djuka
-diaskeuast
+diaskeuast 1
 dk
 dkg
 dkl
