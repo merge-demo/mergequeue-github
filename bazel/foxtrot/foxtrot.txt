@@ -2926,7 +2926,7 @@ fortressing
 footmark
 frontogenesis
 flock
-frizzen
+frizzen 1
 factoring
 fumier
 flagonless
