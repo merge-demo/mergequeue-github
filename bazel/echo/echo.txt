@@ -14100,7 +14100,7 @@ egbo
 enjoyer
 ericad
 exorcize
-eustatically
+eustatically 1
 enzymically
 extendedness
 epiphyses

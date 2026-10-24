@@ -888,7 +888,7 @@ kapudizbi
 kapuez
 kapukehkjey
 kapuomi
-kaputpw
+kaputpw 1
 kapv
 kapvsyayxyg
 kapwc
