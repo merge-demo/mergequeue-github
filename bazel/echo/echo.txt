@@ -3408,7 +3408,7 @@ epichorial
 embarkations
 epitomize
 embarkment
-embarks
+embarks 1
 equipage
 exteroceptor
 equilibrium
