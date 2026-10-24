@@ -26394,7 +26394,7 @@ concavities
 centipoise
 clergess
 cliffier
-coterminousness
+coterminousness 1
 cotes
 cycloidian
 cerenkov
