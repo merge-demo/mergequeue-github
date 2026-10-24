@@ -5018,7 +5018,7 @@ filmcard
 flaneur
 frescoes 1
 functioned
-foremartyr
+foremartyr 1
 fiddlewood
 filet
 fluctuable
