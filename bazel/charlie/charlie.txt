@@ -4769,7 +4769,7 @@ carpocephala
 canicular
 carpocephalum
 caryotins
-carpocerite
+carpocerite 1
 carpocratian
 carpogam
 carpogamy
