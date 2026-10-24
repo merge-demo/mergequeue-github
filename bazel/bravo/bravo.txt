@@ -9576,7 +9576,7 @@ blastomata
 biscutate
 bisdiapason
 binary
-bicapsular
+bicapsular 1
 bandlimits
 bisectors
 bisectrices
