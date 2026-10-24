@@ -4664,7 +4664,7 @@ frivoling
 futharcs
 filmgoer
 faust
-fulani
+fulani 1
 faeroe
 fells
 ferrotungsten
