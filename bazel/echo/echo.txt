@@ -10197,7 +10197,7 @@ escrowed
 emmarbled
 electrotelegraphic
 escargotieres
-esperantic
+esperantic 1
 esophagomycosis
 envenomation
 ethician
