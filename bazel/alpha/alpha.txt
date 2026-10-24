@@ -1168,7 +1168,7 @@ acana
 antilopine
 anemophily
 acanonical
-antisupernaturalistic
+antisupernaturalistic 1
 acanthaceous
 aeacus
 applauses
