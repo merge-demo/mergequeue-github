@@ -4023,7 +4023,7 @@ aeschylus
 apprise
 athodyd
 antacids
-anastomus
+anastomus 1
 allegiantly
 administrates
 antihemolytic
