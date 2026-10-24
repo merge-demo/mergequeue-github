@@ -1465,7 +1465,7 @@ ann
 alpinery
 acclimatizer
 adrenalectomy
-amphipneustic
+amphipneustic 1
 acquaintancy
 agreeableness
 anticness
