@@ -12392,7 +12392,7 @@ devachan
 daphnean
 dharmakaya
 depresses
-dishellenize
+dishellenize 1
 deigning
 dantist
 decomposing
