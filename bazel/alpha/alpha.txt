@@ -8827,7 +8827,7 @@ allobrogical
 abidance
 absorption
 atturn
-allocate
+allocate 1
 adelina
 anglophobes
 autoimmunization
