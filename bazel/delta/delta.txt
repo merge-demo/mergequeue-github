@@ -585,7 +585,7 @@ decolonized
 daunch
 damfool
 div
-digenea
+digenea 1
 dodecaheddra
 diwata
 decopperization
