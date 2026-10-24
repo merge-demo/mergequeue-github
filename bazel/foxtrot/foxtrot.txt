@@ -7116,7 +7116,7 @@ football
 flaglet
 frowning
 feh
-frigid
+frigid 1
 foundress
 feeder
 ferly
