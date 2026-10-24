@@ -5470,7 +5470,7 @@ doss
 deorganization
 deistic
 decolouriser
-deorganize
+deorganize 1
 deregister
 disenablement
 deorsum
