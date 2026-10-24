@@ -5110,7 +5110,7 @@ cascrom
 colonoscope
 caesarship
 case
-casease
+casease 1
 concipiency
 caseases 1
 caseated
