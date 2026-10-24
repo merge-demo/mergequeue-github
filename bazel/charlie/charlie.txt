@@ -24032,7 +24032,7 @@ conventual
 cerebri
 converge
 connive
-cuspal
+cuspal 1
 concealment
 caprimulgi
 cirrolite
