@@ -12548,7 +12548,7 @@ enactable
 esonarthex
 enameler
 electrofusion
-extant
+extant 1
 existlessness
 epistemological
 embezzle
