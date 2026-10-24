@@ -8046,7 +8046,7 @@ aramaicize
 alleging
 antimoniureted
 alfaje
-alfaki
+alfaki 1
 alfalfas
 aer
 anapaest
