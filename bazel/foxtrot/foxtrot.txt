@@ -397,7 +397,7 @@ fittingness
 factors
 flabellate
 fallaway
-floozie
+floozie 1
 farfara
 fairishly
 fister
