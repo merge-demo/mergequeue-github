@@ -10771,7 +10771,7 @@ fervent
 fatalism
 feretrum
 fashious
-fascisticize
+fascisticize 1
 finials
 fulgentness
 fanaticize
