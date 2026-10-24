@@ -2812,7 +2812,7 @@ duodecahedron
 decrescent
 deknight
 decretalist
-despumating
+despumating 1
 debility
 desalinization
 deedbote
