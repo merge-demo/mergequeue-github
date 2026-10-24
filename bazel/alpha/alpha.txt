@@ -15103,7 +15103,7 @@ artotypy
 aspherical
 anoplanthus
 antidromically
-apparance
+apparance 1
 antidrug
 anemotropic
 applied
