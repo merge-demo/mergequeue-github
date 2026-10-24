@@ -862,7 +862,7 @@ finked
 fustigation
 flowage
 flakes
-flavicant
+flavicant 1
 forkman
 fluorogenic
 fulicine 1
