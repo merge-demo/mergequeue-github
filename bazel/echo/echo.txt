@@ -11157,7 +11157,7 @@ entity
 eadi
 evacuated
 epitomatory
-endeavored
+endeavored 1
 epexegetical
 evacuations
 evulse
