@@ -8737,7 +8737,7 @@ gismo
 groundenell
 grubby
 gambit
-glucosuric
+glucosuric 1
 garrets
 games
 governess
