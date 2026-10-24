@@ -13820,7 +13820,7 @@ electrophilic
 earworm 1
 extracystic
 equiarticulate
-entomolite
+entomolite 1
 extracivic
 energeticist
 engenderer
