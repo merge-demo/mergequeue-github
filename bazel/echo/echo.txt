@@ -12855,7 +12855,7 @@ erythremomelalgia
 episcopal
 exoticness
 enantioses
-ensile
+ensile 1
 exotics
 exotoxic
 exacerbate
