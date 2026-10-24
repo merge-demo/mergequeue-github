@@ -1952,7 +1952,7 @@ depressant
 dobla
 deckload
 doze
-dungy
+dungy 1
 dicrotism
 debunkers
 dispergated
