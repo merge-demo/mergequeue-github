@@ -13160,7 +13160,7 @@ cicelies
 ciceronage
 ciceroni
 crossbreeds
-ciceronian
+ciceronian 1
 chiaroscuro
 clon
 ciceronianisms
