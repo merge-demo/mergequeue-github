@@ -25015,7 +25015,7 @@ cleptomania
 cordiceps
 cordyceps
 communicator
-cordicole
+cordicole 1
 cordillera
 carbonizes
 cordilleran
