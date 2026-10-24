@@ -13158,7 +13158,7 @@ epicoelian
 epiphonema
 epistlar
 endergonic
-eugenist
+eugenist 1
 ereptase
 ethnicize
 euryalus
