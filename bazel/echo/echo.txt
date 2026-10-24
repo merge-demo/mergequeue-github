@@ -12730,7 +12730,7 @@ exopterygotism
 eurypygae
 epha
 extol
-espressivo
+espressivo 1
 englishman
 exorable
 exactingness
