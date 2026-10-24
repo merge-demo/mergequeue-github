@@ -3432,7 +3432,7 @@ caprifolium
 cincinnatia
 capriform
 caprigenous
-caprylic
+caprylic 1
 cymene
 caprylyl
 coat
