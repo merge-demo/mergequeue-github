@@ -9126,7 +9126,7 @@ fr
 flintlike
 furdle
 funambulated
-faulkner
+faulkner 1
 frizzers
 forepoint
 foldboating
