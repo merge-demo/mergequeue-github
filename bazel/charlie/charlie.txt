@@ -10507,7 +10507,7 @@ connexity
 chiliahedron
 chiliarchia
 chiliast
-commuting
+commuting 1
 comprehend
 chakar
 chiliastic
