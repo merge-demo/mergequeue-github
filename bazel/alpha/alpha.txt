@@ -22432,7 +22432,7 @@ aforenamed
 apprend
 arctically
 asterina
-allegorization
+allegorization 1
 astrometry
 agric
 animalising
