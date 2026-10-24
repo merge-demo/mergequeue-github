@@ -249,7 +249,7 @@ diskettes
 dagging
 disavaunce
 dollhouses
-decameters
+decameters 1
 daggles
 dassie
 dochmiasis
