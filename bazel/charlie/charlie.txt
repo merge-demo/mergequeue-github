@@ -3328,7 +3328,7 @@ caponata
 chloroacetic
 capone
 caponette
-caponier
+caponier 1
 caponiere
 cognominate
 caponiers
