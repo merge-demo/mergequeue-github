@@ -1372,7 +1372,7 @@ eucalyptol
 echelon
 examinative
 efficacy
-envying
+envying 1
 ethene
 efficacies
 endochylous
