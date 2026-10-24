@@ -4020,7 +4020,7 @@ extirpated
 epionychia
 empexa
 emphasize
-emphasized
+emphasized 1
 embargos
 exogens
 eyeblack
