@@ -9626,7 +9626,7 @@ frons
 freeloaded
 florate
 freemasonic
-floriform
+floriform 1
 freemasonical
 finitesimal
 flatfootedness
