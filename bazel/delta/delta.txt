@@ -18151,7 +18151,7 @@ dumple
 donators
 dive
 dishearten
-devote
+devote 1
 dissceptring
 disavowable
 digress
