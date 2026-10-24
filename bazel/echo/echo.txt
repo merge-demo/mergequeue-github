@@ -403,7 +403,7 @@ ectoproctan
 eriphyle
 equivocator
 emotiveness
-ebonized
+ebonized 1
 enfolden
 epact
 eutrophic
