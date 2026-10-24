@@ -14046,7 +14046,7 @@ dragging
 dunlap
 depravation
 dextrotropous
-decommissioning
+decommissioning 1
 dyspepsies
 dichlorohydrin
 draughtman
