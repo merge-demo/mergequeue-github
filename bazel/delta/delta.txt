@@ -18509,7 +18509,7 @@ durations
 durbachite
 dissimulating
 dustwoman
-diocesans
+diocesans 1
 decolonisation
 disownable
 distortional

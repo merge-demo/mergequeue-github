@@ -5704,7 +5704,7 @@ antiquely
 aeolistic
 afterwash
 agamete
-angulates
+angulates 1
 agamy
 agamian
 appendicitis
