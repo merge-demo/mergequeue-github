@@ -8440,7 +8440,7 @@ felonsetter
 febronian
 fique
 flaucht
-fantail
+fantail 1
 fathercraft
 fidelia
 fescues
