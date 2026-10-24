@@ -9263,7 +9263,7 @@ archcriminal
 armaries
 aloesol
 amphion
-analemmas
+analemmas 1
 acellular
 aloetical
 anthracocide

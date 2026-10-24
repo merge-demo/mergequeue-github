@@ -15231,7 +15231,7 @@ chlorphenol
 crassina
 clam
 cabriolet
-clamant
+clamant 1
 circumnavigatory
 clamantly
 clamaroo
