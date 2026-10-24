@@ -23174,7 +23174,7 @@ abiding
 altared
 attenuable
 automanipulative
-attenuator
+attenuator 1
 antitheistic
 aliethmoidal
 attenuators
