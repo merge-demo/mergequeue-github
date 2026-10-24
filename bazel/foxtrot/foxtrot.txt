@@ -2689,7 +2689,7 @@ frogeater
 foundational
 filaze
 fawner
-frizziness
+frizziness 1
 fervence
 fortnightlies
 futilize
