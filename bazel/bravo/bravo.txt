@@ -1831,7 +1831,7 @@ banderma
 banderol
 banderole
 bindings
-brigading
+brigading 1
 banders
 broadlings
 befogging
