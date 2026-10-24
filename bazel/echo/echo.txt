@@ -741,7 +741,7 @@ endocytotic
 ecumenically
 ecosystem
 ephthianura
-enstyle
+enstyle 1
 erythristic
 ecospecific
 emblematised
