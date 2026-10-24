@@ -12681,7 +12681,7 @@ exomphalos
 erotogenic 1
 effrontery
 excrementary
-entame
+entame 1
 echoisms
 epicotyledonary
 exonerate
