@@ -5842,7 +5842,7 @@ exfoliation
 erlkings
 epicele
 expiations
-extrinsic
+extrinsic 1
 engrafter
 emagram
 exibilate
