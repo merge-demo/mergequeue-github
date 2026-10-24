@@ -45,7 +45,7 @@ amphoriskoi
 aquanaut
 autopsist
 accessorily
-absorbancy
+absorbancy 1
 aquativeness
 astrakhan
 alcyone
