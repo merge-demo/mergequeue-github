@@ -18543,7 +18543,7 @@ dekalitre
 durmast
 dirging
 durndest
-deraignment
+deraignment 1
 disharmonizing
 deviltries
 denuding
