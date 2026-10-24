@@ -9632,7 +9632,7 @@ crystallinity
 cheerleader
 caesareanize
 cheerleaders
-clarifies
+clarifies 1
 cheerleading
 cystorrhaphy
 cyathaspis
