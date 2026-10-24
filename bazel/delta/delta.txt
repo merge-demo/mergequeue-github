@@ -17950,7 +17950,7 @@ dugongs
 determinacy
 demandable
 dossals
-dietitian
+dietitian 1
 dugouts
 dugs
 dugway
