@@ -17810,7 +17810,7 @@ banghy
 begani
 bursarial
 blypes
-bursaries
+bursaries 1
 bursars
 bursch
 bianisidine
