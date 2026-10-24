@@ -1220,7 +1220,7 @@ fixator
 fissure
 frustrately
 firmitude
-frigidity
+frigidity 1
 fenders
 flexural
 flinched
