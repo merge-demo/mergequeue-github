@@ -9115,7 +9115,7 @@ chartable
 charter
 charterer
 charterers
-charterhouse
+charterhouse 1
 chartering
 charterism
 charterless
