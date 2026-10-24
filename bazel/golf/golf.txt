@@ -2389,7 +2389,7 @@ granddaughterly
 gongoristic
 gentianal
 gilver
-geminates
+geminates 1
 gote
 gaulish
 gambadoes
