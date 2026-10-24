@@ -2154,7 +2154,7 @@ achkan
 alcovinometer
 acidhead
 aimfully
-achlorhydria
+achlorhydria 1
 aflame
 admixing
 adoptional
