@@ -10598,7 +10598,7 @@ amiidae
 amyl
 ainu
 amylan
-aphorismatic
+aphorismatic 1
 attomy
 anorthographically
 amylases
