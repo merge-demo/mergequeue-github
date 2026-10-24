@@ -25412,7 +25412,7 @@ corniform
 chaft
 cornigerous
 conies
-cornin
+cornin 1
 consignable
 corning
 cornishman
