@@ -7913,7 +7913,7 @@ gastrulated
 glycopexia
 glogg
 geotic
-germanically
+germanically 1
 geophagia
 generalist
 gouged
