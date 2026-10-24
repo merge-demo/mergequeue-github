@@ -12240,7 +12240,7 @@ chrysopsis
 crispy
 chorally
 caliche
-camphorphorone
+camphorphorone 1
 chrysosperm
 chrysosplenium
 chrysothrix
