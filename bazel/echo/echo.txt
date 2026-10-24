@@ -12090,7 +12090,7 @@ endued
 engulfs
 edentates
 expressor
-easels
+easels 1
 emblazonry
 ekphoria
 expostulation
