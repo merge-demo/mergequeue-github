@@ -3561,7 +3561,7 @@ captives
 comatulae
 captor
 capturable
-catechized
+catechized 1
 capture
 captured
 captures
