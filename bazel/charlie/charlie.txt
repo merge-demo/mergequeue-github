@@ -12021,7 +12021,7 @@ commissural
 coronene
 choroidoretinitis
 choroids
-chorology
+chorology 1
 cylloses
 coheres
 choromanic
