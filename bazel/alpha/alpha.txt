@@ -14391,7 +14391,7 @@ accidentary
 apometabolism
 anthophora
 anglicizing
-amphistomous
+amphistomous 1
 awful
 acolyte
 anthotaxis
