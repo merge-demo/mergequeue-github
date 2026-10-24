@@ -8677,7 +8677,7 @@ gawkishly
 geotactic
 goosing
 gree
-glean
+glean 1
 gynaecoid
 glissading
 gismondite
