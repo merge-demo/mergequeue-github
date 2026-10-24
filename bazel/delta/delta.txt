@@ -582,7 +582,7 @@ dambonitol
 derived
 dialers
 decolonized
-daunch
+daunch 1
 damfool
 div
 digenea
