@@ -9284,7 +9284,7 @@ foldwards
 fogrum 1
 foldboats
 fistulization
-frowsiness
+frowsiness 1
 filthiest
 frances
 figurants
