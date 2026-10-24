@@ -10342,7 +10342,7 @@ electroplaque
 ethnographer 1
 echium
 existently
-euornithic
+euornithic 1
 ethnohistoric
 equinox
 elephantine
