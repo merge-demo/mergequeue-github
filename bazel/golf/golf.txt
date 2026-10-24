@@ -4894,7 +4894,7 @@ gimme
 grandstanding
 gladiola
 granatite
-goldurns
+goldurns 1
 goatly
 gastroenteric
 gladship

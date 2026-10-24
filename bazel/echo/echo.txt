@@ -6837,7 +6837,7 @@ emmenology
 epicranial
 exoticism
 entombs
-excremental
+excremental 1
 eviscerator
 entomere
 entomic
