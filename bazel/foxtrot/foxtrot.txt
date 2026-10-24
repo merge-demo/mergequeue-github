@@ -10772,7 +10772,7 @@ fatalism
 feretrum
 fashious
 fascisticize
-finials
+finials 1
 fulgentness
 fanaticize
 flittermice
