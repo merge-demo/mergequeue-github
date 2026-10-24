@@ -5096,7 +5096,7 @@ blazoning
 befittingness
 behoof
 boundedness
-beflag
+beflag 1
 bamboo
 binits
 basilicon
