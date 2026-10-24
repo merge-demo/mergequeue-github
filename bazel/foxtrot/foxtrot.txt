@@ -635,7 +635,7 @@ flagmen
 falsity
 faltboat
 flugelmen
-faltere
+faltere 1
 flavored
 frequenter
 frithsoken
