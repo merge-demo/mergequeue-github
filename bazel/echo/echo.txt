@@ -8541,7 +8541,7 @@ eudaemons
 ecclesiasticize
 essentializing
 echinated 1
-embezzling
+embezzling 1
 eastlin
 etherify
 existing
