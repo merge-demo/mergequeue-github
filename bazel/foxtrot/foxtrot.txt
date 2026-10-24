@@ -10910,7 +10910,7 @@ fruitist
 forgeful
 footgrip
 fi
-foilable
+foilable 1
 fiscalizing
 fullonian 1
 ferrying
