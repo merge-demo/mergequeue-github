@@ -134,7 +134,7 @@ bedash
 boolian
 bacin
 bourne
-banister
+banister 1
 basidiocarp
 biocoenosis
 beeheaded 1
