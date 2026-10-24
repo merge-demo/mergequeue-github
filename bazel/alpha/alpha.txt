@@ -4880,7 +4880,7 @@ aerodynamics
 abnormous
 ambitionist
 allochirally
-astonisher
+astonisher 1
 anthroposophist
 amaranthine
 auslaut
