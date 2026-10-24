@@ -5391,7 +5391,7 @@ deceptory
 dribbler
 downless
 decorative
-dentistical
+dentistical 1
 dentistry 1
 detribalizing
 duograph

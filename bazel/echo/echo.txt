@@ -4980,7 +4980,7 @@ epineurial
 enthronise
 exigenter
 entoplastron
-endeavourer
+endeavourer 1
 encouragement
 enstamp
 endeavouring
