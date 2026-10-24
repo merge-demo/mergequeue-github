@@ -9103,7 +9103,7 @@ fossilise
 flourisher
 firmance
 furbishable
-foxly
+foxly 1
 flaith
 foreintend
 floodable
