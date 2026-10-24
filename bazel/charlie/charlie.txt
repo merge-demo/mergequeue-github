@@ -20817,7 +20817,7 @@ crocodilian
 componential
 challoth
 components
-compony
+compony 1
 comportable
 comportance
 comported
