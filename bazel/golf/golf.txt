@@ -3102,7 +3102,7 @@ glucokinin
 globigerine
 gleanable
 gali
-gubat
+gubat 1
 gibbol
 glossarist
 garo
