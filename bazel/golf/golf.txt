@@ -4868,7 +4868,7 @@ gladiator
 grabbiest
 guatemalan
 grooviest
-gummiferous
+gummiferous 1
 gladiatorial
 gagelike
 gatherer
