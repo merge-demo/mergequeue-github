@@ -2267,7 +2267,7 @@ feluccas
 ficoid
 facaded
 florentinism
-flatulence
+flatulence 1
 firebombed
 fumaria
 forshape
