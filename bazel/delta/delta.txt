@@ -10611,7 +10611,7 @@ doleritic
 drudger
 deben
 decolorizing
-diplomates
+diplomates 1
 diplomatically
 diethyl
 dysergia
