@@ -6953,7 +6953,7 @@ ays
 antipneumococcic
 anatomopathologic
 alogism
-acetaldehydrase
+acetaldehydrase 1
 aissor
 age
 ashot
