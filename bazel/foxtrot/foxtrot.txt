@@ -10474,7 +10474,7 @@ feuillet
 fantasticality
 frostily
 fluorate
-forwearying
+forwearying 1
 fordid
 flegm
 fluitant
