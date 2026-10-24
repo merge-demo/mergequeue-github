@@ -9620,7 +9620,7 @@ baptists
 bilateral
 bishopling
 biol
-bishopstool
+bishopstool 1
 bishopweed
 bobbinets
 bestir
