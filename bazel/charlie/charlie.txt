@@ -16909,7 +16909,7 @@ clumpish
 cinquecentism
 capitano
 clumpishness
-cohere
+cohere 1
 clumps
 canavalin
 curst
