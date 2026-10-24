@@ -12823,7 +12823,7 @@ embossmen
 extraretinal
 evangelicity
 ensepulchered
-ecanda
+ecanda 1
 edgeways
 excavation
 empacket
