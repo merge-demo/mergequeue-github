@@ -793,7 +793,7 @@ completories
 cahincic
 cahita
 coprophagan
-continency
+continency 1
 cahiz
 cunas
 collyr
