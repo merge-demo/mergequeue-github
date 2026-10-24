@@ -6699,7 +6699,7 @@ enright
 enterotoxemia
 enterotoxication
 evenmindedness
-enlight
+enlight 1
 equestrianize
 ecartes
 eclipser
