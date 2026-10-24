@@ -24982,7 +24982,7 @@ cordaitaceae
 circumflant
 cordaitaceous
 cordaites
-cowperitis
+cowperitis 1
 circumpolar
 cordal
 cordate
