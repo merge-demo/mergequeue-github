@@ -13143,7 +13143,7 @@ biseriate
 boroughmonger
 blaspheme
 basileis
-bankrupts
+bankrupts 1
 borowolframic
 borracha
 barometrograph

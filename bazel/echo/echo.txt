@@ -6108,7 +6108,7 @@ elasmosaur
 ebullience
 evanesce
 epifauna
-epirrhema
+epirrhema 1
 electrocardiography
 enochic
 enlightenment
