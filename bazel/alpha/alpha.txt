@@ -1007,7 +1007,7 @@ artifice
 arthrochondritis
 antidromous
 abtruse
-aquitanian
+aquitanian 1
 affluxes
 abstractitious
 abstractive
