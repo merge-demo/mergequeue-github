@@ -2137,7 +2137,7 @@ eleusine
 externat
 emperish 1
 equilibrio
-epipubes
+epipubes 1
 equiangle
 elastomers 1
 elastose
