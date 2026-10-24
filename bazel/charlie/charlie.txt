@@ -6212,7 +6212,7 @@ chibcha
 chew
 caudation
 calycophorae
-caudatory
+caudatory 1
 clergies
 corbel
 corticifugal
