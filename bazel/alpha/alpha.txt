@@ -9722,7 +9722,7 @@ alveolosubnasal
 accustomized
 antagonising
 aux
-alvissmal
+alvissmal 1
 antirabic
 actinical
 alwite
