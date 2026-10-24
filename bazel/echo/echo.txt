@@ -8393,7 +8393,7 @@ epistolography
 emissile
 epitrachelia
 estrum
-exceedable
+exceedable 1
 englory
 earplug
 espontoon
