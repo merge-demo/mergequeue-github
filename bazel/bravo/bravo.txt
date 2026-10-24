@@ -12602,7 +12602,7 @@ bakshaish
 beshag 1
 beaproned
 buttresses
-bonspiel
+bonspiel 1
 bookbind
 boruca
 bronchocele
