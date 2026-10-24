@@ -28306,7 +28306,7 @@ craticular
 cratinean
 crating
 confederation
-cratometer
+cratometer 1
 cratometry
 carobs
 cumberment
