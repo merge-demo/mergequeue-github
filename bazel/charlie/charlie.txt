@@ -10632,7 +10632,7 @@ chimaerid
 chimaeroid
 chimakum
 curled
-cogon
+cogon 1
 cephalomancy
 chimakuan
 chimaphila
