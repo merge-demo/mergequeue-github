@@ -6909,7 +6909,7 @@ closefisted
 cembalo
 cembalon
 curiousnesses
-chrome
+chrome 1
 caecostomy
 cement
 chochos
