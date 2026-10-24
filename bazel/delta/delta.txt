@@ -13300,7 +13300,7 @@ disprofitable
 disproofs
 disinformation
 dishevelments
-directrix
+directrix 1
 disproportional
 dossety
 disproportionately
