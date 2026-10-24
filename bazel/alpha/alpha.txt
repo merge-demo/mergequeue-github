@@ -15280,7 +15280,7 @@ antigrammatical
 aminoacetanilide
 arcadings
 anisotropal
-arar
+arar 1
 acetimetry
 afterdinner
 antigravitate
