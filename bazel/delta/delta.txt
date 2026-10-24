@@ -14830,7 +14830,7 @@ doctorize
 distinctness
 distributive
 diallage
-doctorless
+doctorless 1
 diffusibly
 dimissorial
 disorderly
