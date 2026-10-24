@@ -10432,7 +10432,7 @@ etymic
 ergosterin
 endomyces
 electrochronometer
-engraved
+engraved 1
 estruation
 etymologization
 evaluator
