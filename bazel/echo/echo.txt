@@ -7935,7 +7935,7 @@ ensiferi
 entreater
 epizootiology
 epinikion
-epilogical
+epilogical 1
 entomophaga
 eurystomatous
 emitter
