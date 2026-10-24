@@ -1489,7 +1489,7 @@ fairgoer
 fila
 flutings
 furibund
-flunkeyish
+flunkeyish 1
 furanose
 foundering
 fient
