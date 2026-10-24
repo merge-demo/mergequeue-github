@@ -11272,7 +11272,7 @@ furanoid
 fricandeaus
 fantasticism
 familiarizer
-furlane
+furlane 1
 fractionary
 friskets
 furbish
