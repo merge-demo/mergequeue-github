@@ -2579,7 +2579,7 @@ broadwives
 biscuit 1
 ballons
 balanophoraceous
-baritenor
+baritenor 1
 barberry
 bucerotinae
 bulletined
