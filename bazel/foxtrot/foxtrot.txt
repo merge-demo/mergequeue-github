@@ -1882,7 +1882,7 @@ fewer
 fecundize
 flintier
 footingly
-foredoom
+foredoom 1
 footstep
 fourdrinier
 flamboyantize
