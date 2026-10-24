@@ -5678,7 +5678,7 @@ depilatory
 depilatories
 discos
 decerniture
-delineation
+delineation 1
 depilitant
 deplace
 dermatine
