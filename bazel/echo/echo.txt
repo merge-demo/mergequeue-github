@@ -12295,7 +12295,7 @@ entremess
 errorless
 exemptions
 ephemerist
-eviternal
+eviternal 1
 excerp
 exemptive
 exendospermous
