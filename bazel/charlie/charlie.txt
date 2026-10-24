@@ -28836,7 +28836,7 @@ counterorator
 chirographic
 commander
 comte
-cretaceously
+cretaceously 1
 creach
 cretacic
 coastwaiter
