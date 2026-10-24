@@ -12956,7 +12956,7 @@ demivoice
 discriminability
 decentralist
 dolomitized
-delusionist
+delusionist 1
 disfavourer
 drang
 decomplex
