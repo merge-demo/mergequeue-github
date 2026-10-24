@@ -11427,7 +11427,7 @@ fingerlike
 furred
 frieze
 frowstiest
-fettering
+fettering 1
 forebemoaned
 founte
 fortunetell
