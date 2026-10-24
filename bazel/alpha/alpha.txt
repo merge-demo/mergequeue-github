@@ -24968,7 +24968,7 @@ archconfraternities
 awee
 aweek
 acanthology
-aweel
+aweel 1
 anaerobism
 acyl
 arthrophyma
