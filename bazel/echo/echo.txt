@@ -1895,7 +1895,7 @@ eir
 eclat
 epurate
 eptatretidae
-entrepeneur
+entrepeneur 1
 eyrant
 erasability
 equiseta
