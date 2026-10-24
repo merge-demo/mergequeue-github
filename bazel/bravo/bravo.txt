@@ -1176,7 +1176,7 @@ blackbelly
 bonnaz
 braising
 bewails
-bakal
+bakal 1
 biasteric
 bajoire
 buoys
