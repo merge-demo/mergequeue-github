@@ -1140,7 +1140,7 @@ diporpa
 dashmaker
 deprocedured
 disoriented
-depotentiate
+depotentiate 1
 defilers
 decadarchy
 desertic
