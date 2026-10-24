@@ -12931,7 +12931,7 @@ daunii
 disdiazo
 downswing
 dowment
-deniability
+deniability 1
 dimensionless
 disomatic
 doubtmonger
