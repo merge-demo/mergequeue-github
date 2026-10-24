@@ -16616,7 +16616,7 @@ dragonish
 drunkeness
 dragonroot
 dilutant
-detesting
+detesting 1
 dragonwort
 dabber
 dedolent
