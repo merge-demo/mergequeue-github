@@ -13126,7 +13126,7 @@ diadem
 deflourish
 decurved
 didactive
-dispersedness
+dispersedness 1
 detonates
 desynonymization
 dispersers
