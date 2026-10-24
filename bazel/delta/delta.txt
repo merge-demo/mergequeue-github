@@ -12617,7 +12617,7 @@ definitise
 dephase
 dae
 disinvagination
-deepfroze
+deepfroze 1
 directs
 dargsman
 decupled
