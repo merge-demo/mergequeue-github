@@ -26629,7 +26629,7 @@ counseled
 champagned
 counselee
 counsellable
-curer
+curer 1
 counsellor
 chilopodan
 counselor
