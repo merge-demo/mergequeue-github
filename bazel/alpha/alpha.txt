@@ -11369,7 +11369,7 @@ amphigaean
 amigas
 asperite
 answerably
-amplectant
+amplectant 1
 argyrocephalous
 adempt
 arcuses
