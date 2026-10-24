@@ -1169,7 +1169,7 @@ epipany
 electrotyped
 epaulette
 expectancies
-edriophthalmatous
+edriophthalmatous 1
 extramental
 educand
 emulsive
