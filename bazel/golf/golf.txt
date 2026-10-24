@@ -2031,7 +2031,7 @@ glacon
 gonna
 giggly
 gel
-gelatiniform
+gelatiniform 1
 gases
 gaveled
 gibbosities
