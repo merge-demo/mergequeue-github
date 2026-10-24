@@ -24576,7 +24576,7 @@ cognomen
 chook
 copycat
 copycats
-citywide
+citywide 1
 copycatting
 creedite
 cyclopaedias
