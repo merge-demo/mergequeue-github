@@ -7736,7 +7736,7 @@ dexiocardia
 dissociation
 diastataxy
 deformative
-devirginate
+devirginate 1
 diapered
 deils
 disembarrass
