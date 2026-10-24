@@ -491,7 +491,7 @@ decistere
 doctrinarian
 distilling
 dogs
-dalesfolk
+dalesfolk 1
 droughtiest
 dustblu
 defoliant
