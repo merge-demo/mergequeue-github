@@ -6764,7 +6764,7 @@ dribbed
 doubly
 disuniters
 decollating
-delate
+delate 1
 deceased
 desilt
 disregular
