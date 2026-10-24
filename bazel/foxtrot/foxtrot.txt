@@ -2896,7 +2896,7 @@ freighted
 fackins
 firefighters
 footstall
-fettucini
+fettucini 1
 fungiferous
 fistulate
 fruitlet
