@@ -1250,7 +1250,7 @@ fama
 favella
 forevouch
 femalize
-fatuate
+fatuate 1
 fearful
 flatten
 filmdom

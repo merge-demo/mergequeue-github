@@ -5174,7 +5174,7 @@ af
 avernal
 arbalos
 anelastic
-amourist
+amourist 1
 accend
 avouching
 amnioallantoic
