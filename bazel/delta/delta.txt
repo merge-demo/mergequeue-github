@@ -15576,7 +15576,7 @@ diathermize
 donzels
 doob
 diazobenzene
-doodab
+doodab 1
 demurrages
 dowdyish
 dehnstufe
