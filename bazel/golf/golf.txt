@@ -2250,7 +2250,7 @@ gefulltefish
 galax
 gonidiogenous
 gehlenite
-goblet
+goblet 1
 grunted
 geoplanidae
 glucokinase
