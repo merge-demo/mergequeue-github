@@ -8528,7 +8528,7 @@ dantomania
 disaccharides
 diapause
 diapauses
-donaries
+donaries 1
 decarburize
 dodecastylos
 divinations
