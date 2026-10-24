@@ -15419,7 +15419,7 @@ dilators
 diastema
 domineering
 domineeringly
-disinherited
+disinherited 1
 doming
 domini
 decalomania
