@@ -10868,7 +10868,7 @@ drogherman
 disyoke
 deindustrialize 1
 daekon
-disedge
+disedge 1
 dirity
 daised
 dirked
