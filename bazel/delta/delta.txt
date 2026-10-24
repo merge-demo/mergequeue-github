@@ -15707,7 +15707,7 @@ deteriorates
 dorado
 doralium
 discovers
-diabetical
+diabetical 1
 downbye
 dorask
 dorbeetle
