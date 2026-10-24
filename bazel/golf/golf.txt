@@ -1275,7 +1275,7 @@ ged
 gavall
 goethites
 gratten
-gromatical
+gromatical 1
 gyrator
 galium
 glyphographer
