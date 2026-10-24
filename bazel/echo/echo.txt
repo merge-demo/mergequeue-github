@@ -11922,7 +11922,7 @@ enragement
 earthenware
 expurgation
 ephidrosis
-excerebration
+excerebration 1
 extraphysical
 endemiology
 eudaemonistically
