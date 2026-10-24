@@ -2079,7 +2079,7 @@ bannocks
 boilinglike
 bivittate
 banovina
-banquet
+banquet 1
 blindish
 bardiest
 banqueting
