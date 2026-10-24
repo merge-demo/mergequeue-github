@@ -6368,7 +6368,7 @@ bardo
 bacteriostasis
 bobeches
 businesswomen
-bibulous
+bibulous 1
 benzodiazole
 burdener
 benzofulvene
