@@ -895,7 +895,7 @@ ectoproctous
 enteroptosis
 engineery
 eumolpique
-endopolyploidy
+endopolyploidy 1
 ectosarc
 essoining
 exercises
