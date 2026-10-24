@@ -5142,7 +5142,7 @@ befools
 bridgeport
 budworm
 before
-biotic
+biotic 1
 boomorah
 broadside
 beggarer
