@@ -8045,7 +8045,7 @@ ergs
 expilate
 ejections
 eggar
-ease
+ease 1
 entoconid
 enstatitic
 easements
