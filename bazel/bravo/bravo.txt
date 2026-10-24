@@ -2841,7 +2841,7 @@ benignantly
 beebread
 binaurally
 bawrel
-bioscopies
+bioscopies 1
 backslashes
 bitterbump
 bullionist
