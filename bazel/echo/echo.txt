@@ -3431,7 +3431,7 @@ eriometer
 episyllogism
 edeotomy
 eucirripedia
-embogue
+embogue 1
 electrophobia
 ennuyant
 ecalcavate
