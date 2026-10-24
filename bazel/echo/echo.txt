@@ -2799,7 +2799,7 @@ encoronate
 eluded
 embelic
 evasive
-exclamations
+exclamations 1
 enjeopard
 elementish
 extricates
