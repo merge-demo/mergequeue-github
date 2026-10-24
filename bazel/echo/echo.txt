@@ -6341,7 +6341,7 @@ eloquent
 enlargingly
 emporium
 ergotin
-eschar
+eschar 1
 euchred
 expiatory
 ensphered
