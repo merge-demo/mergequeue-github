@@ -13517,7 +13517,7 @@ drumbeater
 dissceptered
 dislike
 dissceptre
-deceivance
+deceivance 1
 denaturized 1
 dolesome
 diocletian
