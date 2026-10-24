@@ -23472,7 +23472,7 @@ augers
 auget
 autocomplexes
 augh
-aughts
+aughts 1
 algebraists
 astringer
 augite
