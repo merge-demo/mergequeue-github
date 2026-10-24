@@ -19519,7 +19519,7 @@ cornstook
 colstaff
 cnidogenous
 congresswoman
-chasid
+chasid 1
 coltishly
 coltlike
 calicos
