@@ -6303,7 +6303,7 @@ exspoliation
 electroengrave
 embolectomies
 enrober
-enrive
+enrive 1
 enrockment
 eyeholes
 enroll
