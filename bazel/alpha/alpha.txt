@@ -18666,7 +18666,7 @@ asporulate
 alodium
 archaist
 albuminometry
-allotheist
+allotheist 1
 agrosterol
 ak
 agonista
