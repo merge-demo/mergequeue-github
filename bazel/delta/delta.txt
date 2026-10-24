@@ -2066,7 +2066,7 @@ daikered
 devotion
 dimedon
 downgate
-debilities
+debilities 1
 decaying
 diopsimeter
 diety
