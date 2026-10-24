@@ -9934,7 +9934,7 @@ dispart
 deodorizers
 dissonancy
 dimidiation
-dissinew
+dissinew 1
 downcourt
 dodecatoic
 dipneustal
