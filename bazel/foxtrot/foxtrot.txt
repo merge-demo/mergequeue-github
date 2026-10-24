@@ -220,7 +220,7 @@ fenestellidae
 figuline 1
 faire
 fishingly
-flatway
+flatway 1
 facular
 fruitworm
 feverroot
