@@ -4500,7 +4500,7 @@ ginning
 garvance
 giraffe
 gynocardic
-gypsyism
+gypsyism 1
 gowk
 glossokinesthetic
 gypsywise
