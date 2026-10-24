@@ -8496,7 +8496,7 @@ formicid
 foreadvertise
 formicine
 floormen
-fashiousness
+fashiousness 1
 fondler
 fluidal
 formylal
