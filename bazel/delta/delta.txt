@@ -13482,7 +13482,7 @@ disrooting
 debenture
 ditrigonal
 dizygous
-disruddered
+disruddered 1
 disruly
 dehepatize
 dairymaid
