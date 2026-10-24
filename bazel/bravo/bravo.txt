@@ -3181,7 +3181,7 @@ bashment
 barcan
 balkanizing
 basiarachnoiditis
-befanned
+befanned 1
 bauld
 bronchiarctia
 basically
