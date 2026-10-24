@@ -14210,7 +14210,7 @@ circumesophageal
 circumfer
 circumferential
 circumferentially
-circinately
+circinately 1
 cawnie
 circumfluence
 catline
