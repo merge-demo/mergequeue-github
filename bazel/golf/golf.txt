@@ -9387,7 +9387,7 @@ grossed
 graphomaniacal
 grebes
 ginkgoaceae 1
-griots
+griots 1
 genotypic
 gesticulating
 grosshead
