@@ -8126,7 +8126,7 @@ foretell 1
 filmiest
 fillister 1
 fathogram
-fumigator
+fumigator 1
 foretellers
 forethrift
 fusel
