@@ -9576,7 +9576,7 @@ deglazes 1
 dignitary
 dignitarian
 demophoon
-doubloons
+doubloons 1
 dignities
 drunks
 dignotion
