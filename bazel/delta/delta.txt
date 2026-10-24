@@ -15403,7 +15403,7 @@ delineament
 decarburization
 disserviceably
 derisions
-desperacy
+desperacy 1
 digestedness
 deforestation
 detoxify
