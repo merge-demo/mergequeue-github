@@ -1873,7 +1873,7 @@ gallonage
 gill
 gawkihood
 grecizing
-gossip
+gossip 1
 gyrostabilized
 gleir
 graptolithina
