@@ -13209,7 +13209,7 @@ dronte
 deportable
 deuterofibrinose
 dinnerless
-dyspnea
+dyspnea 1
 distempered
 dyspneas
 ducat
