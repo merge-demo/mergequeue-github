@@ -12480,7 +12480,7 @@ burntness
 bather
 bagpiped
 buphthalmos
-bone
+bone 1
 bejaundice
 bumpily
 bonebreaker
