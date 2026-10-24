@@ -10046,7 +10046,7 @@ ambisinister
 amblypodous
 ambit 1
 apriority
-ambital
+ambital 1
 anisole
 anomaly
 arteriococcygeal
