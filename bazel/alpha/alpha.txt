@@ -18755,7 +18755,7 @@ andrew
 archebanc
 archebancs
 alkine
-amylocoagulase
+amylocoagulase 1
 aguilarite
 ascocarpous
 arsenophenol
