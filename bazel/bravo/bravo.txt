@@ -17603,7 +17603,7 @@ burggrave
 burghbote
 brandished
 bristling
-burgherage
+burgherage 1
 beguine
 bigonial
 bottomlessly
