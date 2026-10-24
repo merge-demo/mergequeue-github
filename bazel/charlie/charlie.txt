@@ -5128,7 +5128,7 @@ counterenamel
 compeller
 chondrectomy
 caseharden
-capsaicin
+capsaicin 1
 callosity
 casehardening
 candida
