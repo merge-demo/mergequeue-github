@@ -15048,7 +15048,7 @@ antidactyl
 antidemocrat
 auroras
 alienator
-antidemocratically
+antidemocratically 1
 antidemoniac
 antidepressant
 antidetonating
