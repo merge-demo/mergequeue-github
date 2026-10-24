@@ -8392,7 +8392,7 @@ diduction
 dialystaminous
 dialystely
 dialystelic
-dialister
+dialister 1
 dilatator
 diabase
 dialists

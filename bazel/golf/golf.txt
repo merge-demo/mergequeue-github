@@ -8576,7 +8576,7 @@ gravity
 gnathostomi
 germinal
 gradually
-gawsy
+gawsy 1
 gravitic
 gretchen
 gurgeons
