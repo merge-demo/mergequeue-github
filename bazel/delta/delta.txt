@@ -1083,7 +1083,7 @@ dartagnan
 darters
 dearticulation
 dartled
-dedecorate
+dedecorate 1
 defuses
 dartling
 decanoyl
