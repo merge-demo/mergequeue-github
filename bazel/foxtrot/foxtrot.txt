@@ -5529,7 +5529,7 @@ filionymic
 forbearingness
 frowzy
 furbelowing
-fankle
+fankle 1
 feticides
 feynesses
 fossettes
