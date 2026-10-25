@@ -2092,7 +2092,7 @@ bulker
 billbeetle
 botoyan
 bloodbeat
-banshies
+banshies 1
 bornan
 bronchostomy
 besetment
