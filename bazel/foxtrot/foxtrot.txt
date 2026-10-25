@@ -6387,7 +6387,7 @@ floreal
 funiliform
 finick
 fetichic
-ferinely
+ferinely 1
 fluoroform
 fluorescigenous
 fumarolic
