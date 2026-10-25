@@ -4652,7 +4652,7 @@ depas
 didynamia
 diploglossate
 delineable
-drysalter
+drysalter 1
 dislodging
 decem
 dualisms
