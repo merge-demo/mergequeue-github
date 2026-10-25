@@ -2491,7 +2491,7 @@ copperish
 conject
 conversive
 candidacy
-candidacies
+candidacies 1
 careeristic
 collinal 1
 coontie
