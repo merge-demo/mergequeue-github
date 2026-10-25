@@ -6417,7 +6417,7 @@ deewans
 deportment
 disadvanced 1
 derride
-derriere
+derriere 1
 dactyli
 duster
 discriminatory
