@@ -13548,7 +13548,7 @@ bratina
 bouffe
 botulin
 bumpiness
-bouffon
+bouffon 1
 bremeness 1
 bopster
 baizing

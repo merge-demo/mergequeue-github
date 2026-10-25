@@ -9808,7 +9808,7 @@ escapade
 estaminet
 emittance
 exergue
-emunctories
+emunctories 1
 exprobrate
 estampage
 empiric

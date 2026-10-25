@@ -3675,7 +3675,7 @@ dysteleological
 degorge
 degradative
 degraded
-degradement
+degradement 1
 dozing
 depsid
 disrupt
