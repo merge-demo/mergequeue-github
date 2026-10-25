@@ -167,7 +167,7 @@ dadoes
 deiparous
 dadoxylon
 desireful
-diestocks
+diestocks 1
 dressage
 delicates
 doweral
