@@ -9678,7 +9678,7 @@ griphe
 gametange
 gradative
 glareous
-galapee
+galapee 1
 guzzle
 graniform
 govt
