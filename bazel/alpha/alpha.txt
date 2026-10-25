@@ -5362,7 +5362,7 @@ affranchise
 adiadokokinesi
 affret
 acanthous
-aptotic
+aptotic 1
 agnosticism
 agglutinable
 affriended
