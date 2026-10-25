@@ -13194,7 +13194,7 @@ displat
 displeasance
 displeasant
 dechloridizing
-displeasedly
+displeasedly 1
 disreverence
 displeasing
 discountenancer
