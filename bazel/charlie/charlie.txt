@@ -10656,7 +10656,7 @@ chime
 chimer
 chimeral
 chanteys
-chimeric
+chimeric 1
 coptic
 calci
 cavies
