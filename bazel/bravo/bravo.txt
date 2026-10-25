@@ -13184,7 +13184,7 @@ brigue
 bisext
 brachystomata
 bender
-begemmed
+begemmed 1
 boschveld
 boulevardize
 bewit
