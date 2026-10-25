@@ -3461,7 +3461,7 @@ gesseron
 gessoes
 gerrhosauridae
 gila
-gestalt
+gestalt 1
 gestaltist
 gallicisms
 gynecology
