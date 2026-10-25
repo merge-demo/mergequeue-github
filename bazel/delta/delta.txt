@@ -1611,7 +1611,7 @@ digression
 deafness
 deairing
 discernableness
-deairs
+deairs 1
 disomic
 dealate
 drupelet
