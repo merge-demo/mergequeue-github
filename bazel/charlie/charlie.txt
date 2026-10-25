@@ -26768,7 +26768,7 @@ countercurrent
 countercurrently
 cubitometacarpal
 capelocracy
-countercurrentwise
+countercurrentwise 1
 conversant
 counterdance
 counterdeclaration
