@@ -9994,7 +9994,7 @@ foredeclare
 frilled
 flacons
 flexitime
-finicky
+finicky 1
 fopped
 flenching
 frypans
