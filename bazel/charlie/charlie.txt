@@ -30218,7 +30218,7 @@ cains
 cursed
 crudity
 crudities
-companions
+companions 1
 countryfied
 crudle
 cruds
