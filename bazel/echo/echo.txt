@@ -2069,7 +2069,7 @@ episcope
 electrophorese
 evilly
 eudialyte
-elanet
+elanet 1
 elanus
 enantiopathia
 extravenate
