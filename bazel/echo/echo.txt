@@ -5025,7 +5025,7 @@ executional
 escalop
 encapsule
 enfoncee
-encamp
+encamp 1
 erogeneity
 eggplants
 epithelioblastoma
