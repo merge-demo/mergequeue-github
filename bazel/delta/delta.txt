@@ -16355,7 +16355,7 @@ desmognathism
 devout
 douras
 dispersal
-derelictions
+derelictions 1
 drainable
 downstate
 dolmens
