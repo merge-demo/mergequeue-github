@@ -1006,7 +1006,7 @@ fenester
 flustrating
 factorability
 forweend
-flashes
+flashes 1
 fluorapatite
 fluoborid
 feeblest
