@@ -13570,7 +13570,7 @@ dissented
 dissenter
 daemonic
 dissentience
-duende
+duende 1
 dehydrofrozen
 deerhorn
 decimally
