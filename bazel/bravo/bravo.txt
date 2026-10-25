@@ -12636,7 +12636,7 @@ bewrite
 beaklike
 bloodlessly
 bewrayed
-birdied
+birdied 1
 babacoote
 boobily
 boobish
