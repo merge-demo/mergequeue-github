@@ -26399,7 +26399,7 @@ cotes
 cycloidian
 cerenkov
 cothon
-cothouse
+cothouse 1
 cothurn
 cothurnus
 coticed
