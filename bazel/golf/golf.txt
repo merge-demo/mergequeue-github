@@ -9568,7 +9568,7 @@ gauteite
 gruels
 girgasite
 gesticularious
-gymnostomata
+gymnostomata 1
 galactopoiesis
 giftlike
 geophones
