@@ -3319,7 +3319,7 @@ enthraller
 emanatism
 euphorias
 explanatoriness
-equipaga
+equipaga 1
 embassade
 emanatist
 epical
