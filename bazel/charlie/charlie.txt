@@ -23274,7 +23274,7 @@ consulates
 consulship
 coloquintida
 clavieristic
-consulta
+consulta 1
 captors
 carminate
 consultable
