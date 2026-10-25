@@ -851,7 +851,7 @@ erastianize
 exfetation
 epizootiologically
 echoey
-eloquentness
+eloquentness 1
 extensity
 eriglossate
 eudemonism
