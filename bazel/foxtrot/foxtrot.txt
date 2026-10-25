@@ -7647,7 +7647,7 @@ fixed
 fritillaries
 floruits
 faeculence
-foreimagination
+foreimagination 1
 flashlike
 foregift
 forgiveless
