@@ -27914,7 +27914,7 @@ cracker
 coenobium
 correal
 cionoptosis
-crackerjacks
+crackerjacks 1
 crackers
 cradlemaking
 consolidates
