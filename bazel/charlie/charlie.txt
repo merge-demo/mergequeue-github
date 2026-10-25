@@ -26200,7 +26200,7 @@ cantharidism
 calabazilla
 cancriform
 clinchingness
-chanceman
+chanceman 1
 cosovereignty
 cospecies
 coryphodont
