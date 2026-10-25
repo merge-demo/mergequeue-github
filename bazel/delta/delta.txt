@@ -10269,7 +10269,7 @@ differentialize
 dermatologists
 deceasing
 dioceses
-disenjoy
+disenjoy 1
 dismettled
 dowed
 doggonedest
