@@ -9920,7 +9920,7 @@ fortuitism
 formulising
 forsythias
 ferromagnetism
-furze
+furze 1
 friesian
 fittable
 friezer
