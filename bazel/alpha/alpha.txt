@@ -17085,7 +17085,7 @@ atomic
 apodemas
 autogamy
 asportation
-apodematal
+apodematal 1
 abstinence
 apodiabolosis
 arithmetize

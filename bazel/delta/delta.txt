@@ -8531,7 +8531,7 @@ diapauses
 donaries
 decarburize
 dodecastylos
-divinations
+divinations 1
 decongesting
 diapedeses
 diapedetic
