@@ -6936,7 +6936,7 @@ euxenites
 extravaganzas
 estreats
 exiled
-eudora
+eudora 1
 encradle
 enzone
 esau
