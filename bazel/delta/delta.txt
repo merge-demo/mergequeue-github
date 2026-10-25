@@ -8586,7 +8586,7 @@ demonship
 dimercury
 diaphtherin
 dulcifies
-durative
+durative 1
 demihake
 digressionary
 devourer
