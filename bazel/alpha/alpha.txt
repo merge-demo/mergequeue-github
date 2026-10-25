@@ -16540,7 +16540,7 @@ aquation
 apabhramsa
 axletree
 appress
-acutorsion
+acutorsion 1
 apache
 attained
 apadana
