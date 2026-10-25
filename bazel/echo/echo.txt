@@ -8428,7 +8428,7 @@ evisceration
 egyptianize
 equip
 enjoyment
-eglogue
+eglogue 1
 endothecate
 ethicosocial
 epizootology
