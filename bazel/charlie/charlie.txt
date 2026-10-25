@@ -26701,7 +26701,7 @@ cammock
 careering
 counterattack
 colonels
-capellane
+capellane 1
 counterattacked
 cacanthrax
 cyclamate
