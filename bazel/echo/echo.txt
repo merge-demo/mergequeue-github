@@ -9982,7 +9982,7 @@ endocrinal
 earsplitting
 etalage
 endamnify
-ensures
+ensures 1
 etamins
 enamdar
 entepicondylar
