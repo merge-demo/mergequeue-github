@@ -1201,7 +1201,7 @@ educationist
 eurypyga
 embolum
 excommune
-endogamic
+endogamic 1
 eatche
 edaciousness 1
 ephesians
