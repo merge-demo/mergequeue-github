@@ -19257,7 +19257,7 @@ ared
 airbuses
 arefact
 areg
-areic
+areic 1
 armchair
 arena
 arenaria
