@@ -2430,7 +2430,7 @@ autoriser
 atrochal
 arbitry
 archaizing
-arisings
+arisings 1
 acknowledged
 adoxography
 aconic
