@@ -11926,7 +11926,7 @@ excerebration
 extraphysical
 endemiology
 eudaemonistically
-excursory
+excursory 1
 equiradical
 excess
 epithelia

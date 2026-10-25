@@ -13782,7 +13782,7 @@ atazir
 anoplonemertini
 aphelenchus
 anoplotherioid
-amid
+amid 1
 arteriopalmus
 anoplura
 amnic
