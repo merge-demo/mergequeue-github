@@ -2955,7 +2955,7 @@ gastroscopic
 gooseflower
 grotty
 gunks
-guardingly
+guardingly 1
 ganymede
 gusts
 gaddang
