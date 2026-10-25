@@ -11501,7 +11501,7 @@ eidolic
 electrophotometer
 evigilation
 emenders
-endocrinous
+endocrinous 1
 exsecant
 exoergic
 echinopanax
