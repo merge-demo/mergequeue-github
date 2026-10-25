@@ -6461,7 +6461,7 @@ fellatrix
 forsar
 flurn
 flurried
-futhorks
+futhorks 1
 fernbird
 furiosa 1
 ferried 1
