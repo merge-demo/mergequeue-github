@@ -2824,7 +2824,7 @@ exampleless
 ecodeme
 eleomargaric
 encephalon
-eleoplast
+eleoplast 1
 epipolic
 equivalencing
 externalness
