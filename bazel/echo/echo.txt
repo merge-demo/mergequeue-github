@@ -13793,7 +13793,7 @@ egyptologist
 extortions
 establishmentarianism
 extortive
-equiped
+equiped 1
 epicheirema
 engraftment
 extorts
