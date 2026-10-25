@@ -13806,7 +13806,7 @@ aventurin
 africanism
 antonovics
 amidoacetic
-averred
+averred 1
 anorectous
 athrill
 anorexy
