@@ -13190,7 +13190,7 @@ expiators
 expirate
 endostracal
 echinopsine
-eyrar
+eyrar 1
 expiration
 exponentiation
 epaxial
