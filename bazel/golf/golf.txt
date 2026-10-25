@@ -7035,7 +7035,7 @@ grindle
 gomart
 gigameter
 gaudish
-gooseberry
+gooseberry 1
 gimbaled
 gramash
 greenweed
