@@ -7612,7 +7612,7 @@ devas
 duole
 dird
 ditch
-devastating
+devastating 1
 dancingly
 devastation
 disabler
