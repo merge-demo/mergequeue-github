@@ -271,7 +271,7 @@ bacilliform
 bigamic
 buna
 bacilligenic
-booths
+booths 1
 bedotted
 boltuprightness
 bespangled
