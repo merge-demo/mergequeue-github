@@ -24201,7 +24201,7 @@ alnein
 autolyzate
 autolyzes
 autoloader
-autology 1
+autology 2
 autological
 antiatheist
 alalite
