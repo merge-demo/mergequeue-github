@@ -10176,7 +10176,7 @@ geostrategist
 gerusia
 gastropathy
 granulated
-greed
+greed 1
 governable
 gloriana
 goosery
