@@ -1969,7 +1969,7 @@ cameralism
 condominium
 cameralistics
 cameraman
-cameras
+cameras 1
 camerate
 carlovingian
 countervolition
