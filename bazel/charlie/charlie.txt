@@ -20449,7 +20449,7 @@ comparatively
 callianassidae
 cacophonia
 comparatives
-cpi
+cpi 1
 contratabular
 comparativist
 cardiodysesthesia
