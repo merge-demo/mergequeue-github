@@ -5321,7 +5321,7 @@ glycyrrhizin
 gimps
 glycogenolytic
 gangsters
-gammaroid
+gammaroid 1
 goodman 1
 globularly
 gutturalism
