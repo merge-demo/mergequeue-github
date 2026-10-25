@@ -58,7 +58,7 @@ fetwa 1
 flavonoid
 flauntier
 forebless
-foresight
+foresight 1
 friskily
 faster
 fibrolite
