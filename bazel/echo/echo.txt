@@ -3456,7 +3456,7 @@ eutelegenic
 enchained
 encolden
 embers
-estival
+estival 1
 enate
 epees
 elaeothesium
