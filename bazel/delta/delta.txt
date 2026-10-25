@@ -1188,7 +1188,7 @@ dextrinize
 dogfall
 desmotropy
 discepted
-deglutitory
+deglutitory 1
 deaminization
 disestablishmentarian
 dastardize
