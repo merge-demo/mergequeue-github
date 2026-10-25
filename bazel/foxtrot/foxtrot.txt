@@ -6694,7 +6694,7 @@ flouts
 fogfruits
 frizel
 fluerics
-formicariae
+formicariae 1
 foofaraws
 furrier
 freshwater
