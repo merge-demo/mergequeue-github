@@ -18928,7 +18928,7 @@ arteriostosis
 alsatian
 artilize
 anthropologist
-aesculapian
+aesculapian 1
 auricle
 archipallium
 appetizingly
