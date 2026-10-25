@@ -19915,7 +19915,7 @@ ampoules
 alastors
 adjuration
 armorials 1
-armoric
+armoric 1
 arkansawyer
 armorican
 albescence
