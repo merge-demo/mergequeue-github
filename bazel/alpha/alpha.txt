@@ -8790,7 +8790,7 @@ allis
 aristocrat
 alliterate
 announceable
-acescence
+acescence 1
 atwind
 alcidae
 alliterates
