@@ -8042,7 +8042,7 @@ fanfoot
 fieldie
 favoured
 folksay
-fredricite 1
+fredricite 2
 fourteenthly
 forestation
 faceup
