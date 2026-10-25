@@ -1852,7 +1852,7 @@ acerolas
 agnosy
 airinesses
 acerous
-acertannin
+acertannin 1
 allseed
 awn
 antitabetic
