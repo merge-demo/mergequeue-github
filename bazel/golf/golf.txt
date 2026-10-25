@@ -884,7 +884,7 @@ goffer
 ghatti
 gymnophiona
 guerrilla
-gametangia
+gametangia 1
 gerontomorphosis
 grillwork
 gotha
