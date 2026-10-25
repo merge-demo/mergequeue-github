@@ -10854,7 +10854,7 @@ culvert
 chipmunk
 claviharp
 chipmunks
-chrysochrous
+chrysochrous 1
 chipolata
 coleopteroid
 cordwain
