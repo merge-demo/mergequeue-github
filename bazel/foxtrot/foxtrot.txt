@@ -7851,7 +7851,7 @@ findings
 foreplay 1
 feudally
 fratricides
-fencible
+fencible 1
 flits
 flagellating
 fibrotuberculosis 1
