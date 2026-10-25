@@ -2348,7 +2348,7 @@ canalizes
 celeomorph
 canalizing
 charmers
-canalla
+canalla 1
 compulsivity
 colorcasted
 canalled
