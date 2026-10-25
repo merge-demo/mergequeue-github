@@ -9134,7 +9134,7 @@ accipitres
 ambulates
 acarodermatitis
 applejack
-allwork
+allwork 1
 adarbitrium
 afrikaner
 anthroposophic
