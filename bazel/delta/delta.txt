@@ -5694,7 +5694,7 @@ deplant
 disvertebrate
 denominational
 deozonize
-delegacies
+delegacies 1
 demigods
 desterilized
 dialysed
