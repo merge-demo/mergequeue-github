@@ -2827,7 +2827,7 @@ baudery
 beclap
 barothermograph
 barotrauma
-bulgurs
+bulgurs 1
 behowling
 bravest
 barotraumas
