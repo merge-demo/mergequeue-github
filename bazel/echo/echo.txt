@@ -7364,7 +7364,7 @@ eternization 1
 equinoctial
 eparterial
 emasculations
-experiencible
+experiencible 1
 epaulement
 enstranged
 epauleted
