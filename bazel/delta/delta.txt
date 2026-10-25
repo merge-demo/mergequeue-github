@@ -958,7 +958,7 @@ dueful
 dadaistically
 drolushness
 detonational
-departed
+departed 1
 dizzardly
 dardan
 desists
