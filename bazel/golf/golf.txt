@@ -5706,7 +5706,7 @@ glaciometer
 gorilline
 gesundheit
 gomavel
-glossies
+glossies 1
 glossiest
 gybed
 glossinas
