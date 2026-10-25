@@ -2616,7 +2616,7 @@ gowf 1
 glossolabial 1
 geiger
 goutte
-garabato
+garabato 1
 galluot
 glisters
 genesial 1

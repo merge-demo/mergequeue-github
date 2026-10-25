@@ -818,7 +818,7 @@ arachnoiditis
 abruptness
 apptd
 ambilogy
-algarot
+algarot 1
 authoritatively
 additur
 anisogeny
