@@ -11888,7 +11888,7 @@ encounter
 excelsior
 eventfulness
 earthily
-emotivism
+emotivism 1
 excentric
 eumeromorphic
 entrepot
