@@ -6854,7 +6854,7 @@ danuri
 desmogenous
 desmography
 desmoids
-disproportionalness
+disproportionalness 1
 draughted
 drawgear
 dupla
