@@ -19561,7 +19561,7 @@ argusianus
 arguslike
 alexipharmic
 aegyrite
-anchorable
+anchorable 1
 autointoxicant
 aglisten
 argutation
