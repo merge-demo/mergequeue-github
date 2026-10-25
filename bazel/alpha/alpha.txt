@@ -18825,7 +18825,7 @@ assever
 assumptiveness
 adhibit
 archfiend
-apprize
+apprize 1
 aroma
 archflamen
 archfoe
