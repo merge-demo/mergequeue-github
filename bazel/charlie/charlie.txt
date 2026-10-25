@@ -5232,7 +5232,7 @@ casparian
 caspian
 coriariaceous
 casque
-casqued
+casqued 1
 cushat
 casquetel
 colemouse
