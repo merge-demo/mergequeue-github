@@ -8028,7 +8028,7 @@ gloves
 gusted
 gallocyanine
 gumless
-gettering
+gettering 1
 gustable
 greekess
 gentilize
