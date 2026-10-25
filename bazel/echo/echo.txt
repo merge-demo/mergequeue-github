@@ -2154,7 +2154,7 @@ electrosurgical
 endleaf
 enfoil
 exterminatress 1
-enanthematous
+enanthematous 1
 epoxy
 esophagostenosis
 eyestring
