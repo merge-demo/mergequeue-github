@@ -866,7 +866,7 @@ devoicing
 decalcification
 dowered
 disorchard
-dankishness
+dankishness 1
 discardable
 disprovement
 delesseria
