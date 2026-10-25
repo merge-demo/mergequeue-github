@@ -10702,7 +10702,7 @@ gonadectomies
 gucked
 germanophobic
 garbanzo
-gu
+gu 1
 grams
 gumma
 gunship
