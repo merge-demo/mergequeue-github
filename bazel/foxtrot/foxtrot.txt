@@ -6442,7 +6442,7 @@ fungi
 fistulariidae
 finery
 flapjack
-fluorotic
+fluorotic 1
 firring
 floretty
 fisherboat
