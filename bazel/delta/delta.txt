@@ -273,7 +273,7 @@ daguerreotype
 downspout
 dolichopodous
 dhotee
-degermed
+degermed 1
 doradilla
 daguerreotyped
 daguerreotyping
