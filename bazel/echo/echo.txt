@@ -6878,7 +6878,7 @@ entomologize
 entrap
 entomologized
 enstatolite
-exaugurate
+exaugurate 1
 euryalidan
 expectative
 engle
