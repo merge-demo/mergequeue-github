@@ -2071,7 +2071,7 @@ glutted
 gherkins
 gavots
 glycerophosphoric
-gomari
+gomari 1
 giftless
 glossers
 gingkoes
