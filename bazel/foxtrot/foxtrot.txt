@@ -11252,7 +11252,7 @@ featherwork 1
 funnels
 fourer
 funny
-fundamentality
+fundamentality 1
 flagellants
 frumaryl
 filibusterer
