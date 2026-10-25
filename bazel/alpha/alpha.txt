@@ -24235,7 +24235,7 @@ astrachan
 aeciotelia
 anthelices
 aluminoferric
-automatous
+automatous 1
 automechanical
 almoner
 actinically
