@@ -265,7 +265,7 @@ glyph
 gumminess
 grapta
 graziery
-geoplagiotropism
+geoplagiotropism 1
 grenada
 gnomon
 glauconiferous
