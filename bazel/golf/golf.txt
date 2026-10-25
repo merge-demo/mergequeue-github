@@ -6099,7 +6099,7 @@ glengarries
 goosebeak
 gullibly
 gryphosaurus
-gigahertz
+gigahertz 1
 gnessic
 gastromancy
 golcondas
