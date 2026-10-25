@@ -10499,7 +10499,7 @@ diphthongize
 diazoalkane
 diphthongizing
 daubentoniidae
-didos
+didos 1
 decares
 deess
 disputative
