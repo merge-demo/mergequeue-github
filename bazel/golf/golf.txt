@@ -5357,7 +5357,7 @@ gynecomastism
 grandevity
 globuliferous
 gombeenism
-goofer
+goofer 1
 gonopod
 gnomon
 generalisation
