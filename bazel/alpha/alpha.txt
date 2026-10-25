@@ -11269,7 +11269,7 @@ alienating
 abfarads
 antiballistic
 avidious
-amphiprostylar
+amphiprostylar 1
 anaglyptographic
 antiusurious
 aquocellolitis
