@@ -9010,7 +9010,7 @@ bionics
 brachyprosopic
 bionomic
 backswordman
-bursas
+bursas 1
 batton
 bionomically
 bionomies
