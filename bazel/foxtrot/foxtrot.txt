@@ -7782,7 +7782,7 @@ fettucine
 foremother
 frithbot
 flyblew
-flickery
+flickery 1
 faint
 fraenum
 forgathering
