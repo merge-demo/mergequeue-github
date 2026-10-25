@@ -10970,7 +10970,7 @@ disaffiliated
 duodrama
 disaffinity
 disaffirmance
-dheri
+dheri 1
 dictyosiphon
 disaffirmation
 decidedness
