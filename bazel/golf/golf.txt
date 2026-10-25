@@ -3072,7 +3072,7 @@ genepi
 glom
 grypanian
 gluttonized
-gerate
+gerate 1
 grangerised
 geomorphologically
 glycopexis

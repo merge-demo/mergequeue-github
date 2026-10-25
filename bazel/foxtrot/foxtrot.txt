@@ -1963,7 +1963,7 @@ formalistically
 forecaster
 fothergilla
 fancy
-feebless
+feebless 1
 filatory
 fillock
 fernticle
