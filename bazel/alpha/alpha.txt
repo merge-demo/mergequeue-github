@@ -8578,7 +8578,7 @@ allantoinase
 ampullosity
 acetoxim
 allantoxaidin
-anthropoclimatology
+anthropoclimatology 1
 actinouranium
 allegorised
 anisogenous
