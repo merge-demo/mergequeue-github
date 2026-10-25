@@ -15162,7 +15162,7 @@ autocatalysis
 anteconsonantal
 antievolutionist
 antiexpansion
-antiexpansionism
+antiexpansionism 1
 austrine
 antiexpressionism
 antepagment
