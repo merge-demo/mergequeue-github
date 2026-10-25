@@ -12869,7 +12869,7 @@ embarked
 expandable
 escropulo
 erotopathic
-erethisms
+erethisms 1
 exsert
 endamoeba
 expandedly
