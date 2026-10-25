@@ -20729,7 +20729,7 @@ avid
 arterially
 antarchy
 augmenting
-acquitment
+acquitment 1
 artifactitious
 altitonant
 artifactually
