@@ -1343,7 +1343,7 @@ daitya
 didappers
 daunt
 daunted
-dhobies
+dhobies 1
 daunters
 decertified
 daffy
