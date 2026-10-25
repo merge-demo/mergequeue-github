@@ -301,7 +301,7 @@ benzacridine
 backslided
 backberend
 backbite
-beeman
+beeman 1
 burgeon
 baize
 backbitingly
