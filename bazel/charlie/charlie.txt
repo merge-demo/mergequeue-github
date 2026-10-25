@@ -3267,7 +3267,7 @@ capitellate
 canteen
 capitellum
 capitle
-cerebrum
+cerebrum 1
 compenetrate
 corns
 capito
