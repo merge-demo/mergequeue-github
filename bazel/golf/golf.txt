@@ -4219,7 +4219,7 @@ geomagnetic
 gimped
 gimpier
 guidable
-galactolytic
+galactolytic 1
 gippers
 gliosa
 greenovite
