@@ -6744,7 +6744,7 @@ celebrity
 counterinterpretation
 cornbin
 ciscos
-cribbages
+cribbages 1
 clavecin
 celebs
 celemin
