@@ -13072,7 +13072,7 @@ affronty
 allmouths
 arsonous
 acidimetry
-aniconic
+aniconic 1
 aniconism
 anicut
 alamodes
