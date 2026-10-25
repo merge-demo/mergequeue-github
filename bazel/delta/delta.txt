@@ -9414,7 +9414,7 @@ diffusible
 demagoguism
 diffusibleness
 diffusing
-deuteranomalous
+deuteranomalous 1
 dereling
 dowerless
 dredge
