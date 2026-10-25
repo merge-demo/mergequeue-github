@@ -4536,7 +4536,7 @@ annotativeness
 artesonados
 adversifoliate
 antimythic
-arrogance
+arrogance 1
 amania
 arbutin
 accumulable
