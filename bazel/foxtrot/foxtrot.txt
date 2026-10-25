@@ -8749,7 +8749,7 @@ frizzled
 featheriest
 fortunes
 faintise
-frankfort
+frankfort 1
 freddo
 forbiddable
 flogged

@@ -10192,7 +10192,7 @@ goalies
 gladiolar
 guids
 guidwife 1
-groundly
+groundly 1
 geladas
 grimy
 grammaticize
