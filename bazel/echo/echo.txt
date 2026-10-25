@@ -13283,7 +13283,7 @@ estranger
 englishable
 evict
 eponymize
-epignathous
+epignathous 1
 egregious
 enflagellation
 extrorsely
