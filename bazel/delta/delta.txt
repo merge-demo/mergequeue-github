@@ -8366,7 +8366,7 @@ dilution
 descensional
 divinify
 dialypetalous
-diplumbic
+diplumbic 1
 dichotomization
 dialysability
 diastolic
