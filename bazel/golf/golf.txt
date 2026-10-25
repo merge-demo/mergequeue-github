@@ -8291,7 +8291,7 @@ graping
 grappa
 grandaunts
 gruff 1
-gentians
+gentians 1
 grapples
 grappling
 germanish
