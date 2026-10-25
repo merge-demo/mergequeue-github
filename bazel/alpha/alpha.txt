@@ -7533,7 +7533,7 @@ acrostolium
 alepot
 alloplasm
 alodiaries
-anoopsias
+anoopsias 1
 albuminorrhea
 albuminoscope
 acari
