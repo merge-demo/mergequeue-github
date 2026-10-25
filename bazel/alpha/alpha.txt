@@ -15296,7 +15296,7 @@ automobiling
 antigravity
 antigrowth
 affectible
-anatomizes
+anatomizes 1
 aminosis
 antihalation
 alcantarines
