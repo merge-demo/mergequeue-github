@@ -9219,7 +9219,7 @@ brended
 bobbinet
 besting
 biphenylene
-biphenol
+biphenol 1
 bashfulness
 bipinnariae
 bastnasite
