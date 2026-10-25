@@ -10148,7 +10148,7 @@ eurhodine
 effluent
 expressionful
 equivalences
-elope
+elope 1
 extraorbital
 etherialised
 epicrates
