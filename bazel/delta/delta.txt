@@ -9165,7 +9165,7 @@ didodecahedron
 didoes
 didonia
 duodenas
-dihexahedron
+dihexahedron 1
 daubry
 dipsaceae
 decapods
