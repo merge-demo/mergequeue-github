@@ -4804,7 +4804,7 @@ flaggy
 formicated
 foaly
 foreshowed
-facetted
+facetted 1
 forfeiting
 fraudful
 flubdubbery
