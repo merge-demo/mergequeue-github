@@ -2693,7 +2693,7 @@ frizziness
 fervence
 fortnightlies
 futilize
-ferventness
+ferventness 1
 frighteningness
 floodwall
 fishify
