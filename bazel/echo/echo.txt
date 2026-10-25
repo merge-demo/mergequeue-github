@@ -9388,7 +9388,7 @@ eventail
 embolies
 eucleid
 edifyingness
-ebdomade
+ebdomade 1
 extensionalism
 enantiobiosis
 epidemiographist
