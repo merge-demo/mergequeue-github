@@ -18676,7 +18676,7 @@ darwinically 1
 detersively
 dwarfs
 diaulos
-dwindled
+dwindled 1
 dwindlement
 deports
 dwindles
