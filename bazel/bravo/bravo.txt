@@ -4077,7 +4077,7 @@ bardling
 brontosaurs
 bronchomucormycosis
 beriberic
-beaniest
+beaniest 1
 barmy
 bixaceae
 beaning
