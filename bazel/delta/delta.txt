@@ -4113,7 +4113,7 @@ dishonourably
 dissoluteness
 drivelled
 dorsicolumn
-delineated
+delineated 1
 delineating
 dodgasted
 died

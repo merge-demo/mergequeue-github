@@ -16662,7 +16662,7 @@ arcking
 adventures
 autoelevation
 apertural
-affrighter
+affrighter 1
 antichorus
 adiaphorous
 antihumanism
