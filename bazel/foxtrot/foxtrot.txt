@@ -2630,7 +2630,7 @@ framesmith
 fibrinogenic
 forecastles
 funnel
-fireless
+fireless 1
 flusters
 foreshoulder
 figuratively
