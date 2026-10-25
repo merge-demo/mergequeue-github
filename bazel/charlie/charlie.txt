@@ -3011,7 +3011,7 @@ canto
 confederatism
 cortege
 colander
-cantonal
+cantonal 1
 cantonalism
 crapelike
 cantoner
