@@ -17718,7 +17718,7 @@ apocentre
 achitophel
 appliances
 appliant
-appendectomy
+appendectomy 1
 arenous
 applicable
 anticyclonically
