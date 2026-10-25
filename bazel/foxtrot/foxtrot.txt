@@ -11319,7 +11319,7 @@ fictional
 formful
 furfures
 fusulina
-foldless
+foldless 1
 fps
 furfurine
 funebrious
