@@ -13892,7 +13892,7 @@ baptizee
 bowsman
 botanomancy
 bows
-bootlessness
+bootlessness 1
 benzopyran
 bankroll
 bodkinwise
