@@ -25644,7 +25644,7 @@ colombian
 confinedness
 completed
 corpuscularity
-corpuscule
+corpuscule 1
 corpusculous
 chairlift
 corradial
