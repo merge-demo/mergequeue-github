@@ -4199,7 +4199,7 @@ deloul
 decocted
 dibbers
 deloused
-dribs
+dribs 1
 decimal
 deodorisation
 doorjamb
