@@ -13823,7 +13823,7 @@ airthing
 anorth
 atacamite
 anorthite
-adriana
+adriana 1
 antiparalytic
 anorthitic
 anorthographic
