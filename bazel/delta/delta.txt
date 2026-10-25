@@ -7202,7 +7202,7 @@ diaphorase
 diemaking
 dotting
 detaches
-dicast
+dicast 1
 dynamis
 demijohns
 demulsifying
