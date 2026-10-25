@@ -13641,7 +13641,7 @@ erma
 ecyphellate
 elongating
 extenuate
-extenuates
+extenuates 1
 empicture
 eerier
 eliminates
