@@ -6445,7 +6445,7 @@ blanchers
 ballast
 bisulcate 1
 bulldogged
-biostratigraphy
+biostratigraphy 1
 borderings
 bergmannite
 bilati
