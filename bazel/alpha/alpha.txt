@@ -19098,7 +19098,7 @@ anthocyanidin
 acetaminophen
 archpriestship
 archprimate
-acroataxia
+acroataxia 1
 archregent
 archrogue
 archruler
