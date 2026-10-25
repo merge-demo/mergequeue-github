@@ -9825,7 +9825,7 @@ enanthema
 estats
 eternise
 ethnolinguistic
-enamelware
+enamelware 1
 elenchtical
 exact
 estrich
