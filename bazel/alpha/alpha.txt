@@ -3138,7 +3138,7 @@ actionably
 assoc
 avertin
 adalat
-airplays
+airplays 1
 autokinetic
 amphipyrenin
 actionary
