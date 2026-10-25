@@ -5316,7 +5316,7 @@ beglerbeglic
 blatant
 bakalai
 burka
-behew
+behew 1
 brahmaic
 beglerbegluc
 biannulate
