@@ -511,7 +511,7 @@ blastophoric
 bombsights
 butomaceous
 backstroke
-beckoners
+beckoners 1
 bicentennial
 backstromite
 boart
