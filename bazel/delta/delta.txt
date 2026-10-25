@@ -17882,7 +17882,7 @@ disgrace
 disburser
 deterministically
 durance
-dejectedly
+dejectedly 1
 donate
 duenas
 duenesses
