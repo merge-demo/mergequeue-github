@@ -6966,7 +6966,7 @@ appropriately
 akron
 anagrammatised
 aberrator
-adores
+adores 1
 aith
 anniversarily
 aithochroi
