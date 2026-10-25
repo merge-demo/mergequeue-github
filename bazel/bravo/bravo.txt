@@ -7499,7 +7499,7 @@ beveil
 bevelled
 bardism
 belayer
-beveller
+beveller 1
 bookbinder
 bardelle
 biathlon
