@@ -10330,7 +10330,7 @@ epeirogenic
 encyclopaedical
 epipastic
 exporting
-eroticist
+eroticist 1
 eclecticist 1
 extraquiz
 epibole
