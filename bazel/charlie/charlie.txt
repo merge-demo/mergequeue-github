@@ -6272,7 +6272,7 @@ caulinar
 caulinary
 ceroplast
 caulis
-cannular
+cannular 1
 caulivorous
 choanosomal
 caulk
