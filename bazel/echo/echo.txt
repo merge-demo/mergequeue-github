@@ -13080,7 +13080,7 @@ embolomeri 1
 echites
 expending
 eleuin
-ejectable
+ejectable 1
 expenditrix
 ecclesiophobia
 enfonced
