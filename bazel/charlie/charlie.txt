@@ -25484,7 +25484,7 @@ coroll
 cartooning
 corollary
 centrosymmetric
-chastens
+chastens 1
 cervicohumeral
 contradictions
 corollarial
