@@ -3236,7 +3236,7 @@ fourcher
 foots
 friers
 frostwort
-flexionless
+flexionless 1
 fango
 fuchsone
 forefend
