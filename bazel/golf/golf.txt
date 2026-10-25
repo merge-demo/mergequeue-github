@@ -2838,7 +2838,7 @@ gutnish
 gingelly
 gilgulim
 glassite
-gifture
+gifture 1
 geolinguistics
 grandpap
 gentrices

@@ -14370,7 +14370,7 @@ crepitant
 circumvallation 1
 circumvented
 circumventing
-circumvention
+circumvention 1
 circumventions
 camphor
 circumventor
