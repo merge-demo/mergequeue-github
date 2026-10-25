@@ -17030,7 +17030,7 @@ apocha
 automorphic
 apochromatism
 archimorula
-astrophotometry
+astrophotometry 1
 albus
 ascitic
 auriscalp
