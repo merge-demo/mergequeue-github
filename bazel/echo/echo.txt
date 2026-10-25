@@ -5600,7 +5600,7 @@ estimably
 enrichment
 endogens
 ethologist
-enflaming
+enflaming 1
 epiklesis
 equuleus
 embryulcus
