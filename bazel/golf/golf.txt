@@ -5327,7 +5327,7 @@ globularly
 gutturalism
 gingals
 glaived
-gourds
+gourds 1
 gonidia
 glomerulate
 galactosemic
