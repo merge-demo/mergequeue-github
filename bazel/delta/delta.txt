@@ -11101,7 +11101,7 @@ disarmed
 drollness
 daturas
 disennui
-disarms
+disarms 1
 dishonouring
 disarray
 dictatorial

@@ -3684,7 +3684,7 @@ glyptician
 gnomoniaceae
 gametes
 gutturotetany
-gory
+gory 1
 ghost
 gnathonism
 gasoliner
