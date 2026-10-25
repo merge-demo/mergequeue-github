@@ -3688,7 +3688,7 @@ gory
 ghost
 gnathonism
 gasoliner
-glyceral
+glyceral 1
 guardstone
 gulist
 griphus
