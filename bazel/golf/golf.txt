@@ -6694,7 +6694,7 @@ gastropancreatic
 gymnoglossa
 genuflected
 goniatites
-garterless
+garterless 1
 gainsayer
 guttler
 grint
