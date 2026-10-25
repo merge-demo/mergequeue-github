@@ -16861,7 +16861,7 @@ durwan
 disceptation
 diminutival
 drawtongs
-dehumanizes
+dehumanizes 1
 deaired
 ddt
 dicyclic
