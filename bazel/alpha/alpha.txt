@@ -9326,7 +9326,7 @@ alpenstocks
 alpestrine
 aircraft
 atomiferous
-alphabetarian
+alphabetarian 1
 acclimatizable
 aboiteau
 amphibiontic
