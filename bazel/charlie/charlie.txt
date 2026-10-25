@@ -20451,7 +20451,7 @@ cacophonia
 comparatives
 cpi
 contratabular
-comparativist
+comparativist 1
 cardiodysesthesia
 churada
 colombier
