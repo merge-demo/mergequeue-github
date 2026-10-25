@@ -14138,7 +14138,7 @@ chartology
 conversably
 circularizes
 choriambs
-circularly
+circularly 1
 circularness
 circulars
 circulatable
