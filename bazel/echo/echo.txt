@@ -5491,7 +5491,7 @@ epilobium
 entranced
 elding
 energeticness
-epacrid
+epacrid 1
 estimatingly
 extrasystole
 exospheres 1
