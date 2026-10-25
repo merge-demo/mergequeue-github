@@ -5633,7 +5633,7 @@ disprivilege
 detainingly
 depravingly
 dorsumbonal
-deuterotokous
+deuterotokous 1
 dogtrick
 dephycercal
 demounting
