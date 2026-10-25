@@ -3797,7 +3797,7 @@ deicers
 defacingly
 deicides
 dismutation
-deictical
+deictical 1
 devilkin
 dreissiger
 dunno
