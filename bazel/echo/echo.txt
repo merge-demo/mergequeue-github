@@ -610,7 +610,7 @@ eciliate
 emporia
 emetics
 eurypharynx
-euro
+euro 1
 eciton
 eversions
 entertained
