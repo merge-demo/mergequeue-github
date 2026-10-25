@@ -13268,7 +13268,7 @@ evangelicism
 explicitness
 ectocuneiform
 epitheliomata
-elapids
+elapids 1
 eglantine
 etches
 electrohomeopathy
