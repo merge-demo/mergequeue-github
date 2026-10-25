@@ -2785,7 +2785,7 @@ equipartition
 epidiplosis
 eighteenmo
 economicalness
-encroach
+encroach 1
 empalement
 elementalistic
 extrathoracic
