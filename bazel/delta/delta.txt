@@ -8086,7 +8086,7 @@ denaturant
 domesticated
 dysgenetic
 disendowment
-desugar
+desugar 1
 durzi
 dhourras
 dispersedye
