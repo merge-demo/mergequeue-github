@@ -8929,7 +8929,7 @@ gigi
 gladelike
 grandiloquous
 gwag
-globy
+globy 1
 galvanising
 gnaw
 glycosidic
