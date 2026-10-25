@@ -1448,7 +1448,7 @@ balanopreputial
 bloomier
 balkanize
 besoot
-bints
+bints 1
 belliferous
 biddulphia
 balkans

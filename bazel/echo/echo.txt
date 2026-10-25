@@ -1273,7 +1273,7 @@ epiky
 estotiland
 embowl
 exploringly
-escaloping
+escaloping 1
 eneugh 1
 evangelistically
 eelworm
