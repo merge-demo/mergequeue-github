@@ -6483,7 +6483,7 @@ garrupa
 gannister
 gastraead
 guarded
-gie
+gie 1
 guanare
 gapeworms
 gurry
