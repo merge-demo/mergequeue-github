@@ -10922,7 +10922,7 @@ dispondaic
 dazzlement
 disacceptance
 dannock
-disaccomodate
+disaccomodate 1
 dromons
 dobsonflies
 droplike

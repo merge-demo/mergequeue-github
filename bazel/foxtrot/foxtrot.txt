@@ -2779,7 +2779,7 @@ fodgel
 forgettery
 furriest
 festooneries
-flunkyite
+flunkyite 1
 festivally
 fourieristic
 flareboard
