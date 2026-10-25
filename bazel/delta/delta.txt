@@ -3358,7 +3358,7 @@ datiscoside
 delaying
 distemperer
 dicot
-dayment
+dayment 1
 distressfulness
 denims
 dullery
