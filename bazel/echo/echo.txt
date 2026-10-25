@@ -8460,7 +8460,7 @@ exocannibalism
 epigrammatical
 eryops
 embroidering
-epos
+epos 1
 elianic
 encinas
 epizootic
