@@ -1599,7 +1599,7 @@ embay
 euphonetics
 enablers
 eyewitnesses
-egomania
+egomania 1
 elodea
 erecting
 emblems
