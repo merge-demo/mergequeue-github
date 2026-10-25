@@ -19604,7 +19604,7 @@ columniation
 caballing
 columniferous
 crackback
-columniform
+columniform 1
 contralto
 cherimoya
 circumaction
