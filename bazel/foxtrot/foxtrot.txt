@@ -7886,7 +7886,7 @@ factiousness
 franklinia
 foreruns
 flacket
-frightenable 1
+frightenable 2
 frottole
 firmaments
 flourishingly
