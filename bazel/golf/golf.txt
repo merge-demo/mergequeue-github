@@ -6248,7 +6248,7 @@ greaves 1
 gopura
 goatstone
 gaum
-goatweed
+goatweed 1
 guerrillaism
 genitures
 gelfomino
