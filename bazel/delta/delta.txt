@@ -12968,7 +12968,7 @@ dactylitis
 disordering
 downwith
 decasyllables
-disordinance
+disordinance 1
 disordinate
 devastator
 disconsider
