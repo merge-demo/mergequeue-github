@@ -13550,7 +13550,7 @@ devaluation 1
 darlings
 divergence
 disseminations
-digredient
+digredient 1
 dismeasured
 depeopling
 disseminative
