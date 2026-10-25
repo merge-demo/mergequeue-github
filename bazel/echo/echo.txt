@@ -1902,7 +1902,7 @@ equiseta
 extrovert
 errata
 eximiousness
-encashes
+encashes 1
 enwisen
 evanescency
 eulogically
