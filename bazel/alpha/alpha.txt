@@ -18290,7 +18290,7 @@ absinthism
 apostatising
 austenitize
 aracana
-anarthria
+anarthria 1
 aracanga
 antefebrile
 arach
