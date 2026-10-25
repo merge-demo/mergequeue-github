@@ -6110,7 +6110,7 @@ evanesce
 epifauna
 epirrhema
 electrocardiography
-enochic
+enochic 1
 enlightenment
 enticing
 eructates
