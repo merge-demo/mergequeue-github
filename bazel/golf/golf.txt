@@ -9393,7 +9393,7 @@ gesticulating
 grosshead
 grossly
 grosso
-gowans
+gowans 1
 gabriel
 grizzled
 genocide 1

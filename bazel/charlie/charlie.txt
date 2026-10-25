@@ -6860,7 +6860,7 @@ cellulofibrous
 celluloid
 confabbing
 chartaceous
-cellulosic
+cellulosic 1
 contented
 cellulosing
 cellulosity
