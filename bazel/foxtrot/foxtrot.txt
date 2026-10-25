@@ -10250,7 +10250,7 @@ ferronickel
 forebow
 flavedos
 froideur
-froise
+froise 1
 frokin
 filum
 felons
