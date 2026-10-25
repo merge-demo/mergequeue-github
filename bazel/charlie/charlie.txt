@@ -21784,7 +21784,7 @@ cobless
 cutization
 culmy
 concentive
-corresponsive
+corresponsive 1
 conductometric
 conductor
 conductorial
