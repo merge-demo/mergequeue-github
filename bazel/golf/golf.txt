@@ -2332,7 +2332,7 @@ gavials
 guaiacols
 goloe
 gibbartas
-galopin
+galopin 1
 geldings
 gol
 garlandage
