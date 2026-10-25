@@ -2165,7 +2165,7 @@ del
 ditheistic
 dehydration
 drowsing
-dinguses
+dinguses 1
 decarbonated
 decarbonation
 declaratively
