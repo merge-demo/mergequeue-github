@@ -5963,7 +5963,7 @@ diplodus
 deprogrammed
 drillstock
 dottling
-devonic
+devonic 1
 dollish
 depeculate
 deadeningly

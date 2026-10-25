@@ -12481,7 +12481,7 @@ bather
 bagpiped
 buphthalmos
 bone
-bejaundice
+bejaundice 1
 bumpily
 bonebreaker
 boned
