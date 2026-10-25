@@ -27773,7 +27773,7 @@ coxalgy
 crepusculum
 coxalgias
 cholents
-curatorship
+curatorship 1
 convolutedness
 calceiform
 coxankylometer
