@@ -8338,7 +8338,7 @@ firmament
 fatherlike
 flapperish
 fittiest
-fair
+fair 1
 foundling
 fils
 furriner
