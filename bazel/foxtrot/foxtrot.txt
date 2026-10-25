@@ -8991,7 +8991,7 @@ fox
 fantaddish
 flixweed
 fuster
-fourrier
+fourrier 1
 flagellates
 foelike
 feature
