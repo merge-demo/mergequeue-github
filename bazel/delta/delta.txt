@@ -10790,7 +10790,7 @@ diver
 disposal
 disadvantageous
 diquat
-dirdums
+dirdums 1
 demirelief
 directdiscourse
 dynodes
