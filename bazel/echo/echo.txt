@@ -2552,7 +2552,7 @@ elaborations
 euonymous
 endosmose
 egremoigne
-encomiologic
+encomiologic 1
 expeditely
 enacts
 escadrilles
