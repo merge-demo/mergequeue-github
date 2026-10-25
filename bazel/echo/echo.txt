@@ -10294,7 +10294,7 @@ extralite
 elevatedly
 elapses
 eemis
-epidemial
+epidemial 1
 expecters
 effacer
 ethmopalatal
