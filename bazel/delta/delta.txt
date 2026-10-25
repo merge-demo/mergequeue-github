@@ -4021,7 +4021,7 @@ discomposedly
 drenchingly
 delesseriaceous
 draggling
-deleter
+deleter 1
 demur
 deleteriousness
 dirge
