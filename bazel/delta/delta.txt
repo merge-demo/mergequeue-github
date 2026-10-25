@@ -4262,7 +4262,7 @@ delubra
 deluce
 delude
 didunculus
-dishonored
+dishonored 1
 dipperful
 detribalized
 decorously
