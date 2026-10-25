@@ -12904,7 +12904,7 @@ anglogaea
 anthemwise
 antennarius
 antiliturgically
-anglomane
+anglomane 1
 awkward
 acinetaria
 anglophilic
