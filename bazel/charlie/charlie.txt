@@ -2861,7 +2861,7 @@ canonizing
 churchreeve
 canonry
 canons
-canonship
+canonship 1
 canoodles
 counsinhood
 canopy

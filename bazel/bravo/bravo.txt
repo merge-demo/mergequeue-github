@@ -659,7 +659,7 @@ barefacedly
 brisk
 bullroarer
 babua
-basos
+basos 1
 briars
 barren
 brioche
