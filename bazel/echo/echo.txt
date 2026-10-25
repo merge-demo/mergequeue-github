@@ -1839,7 +1839,7 @@ euryprognathous
 ethicists
 eyeglasses
 enginous
-electroballistic
+electroballistic 1
 errableness
 enigmatical
 eared
