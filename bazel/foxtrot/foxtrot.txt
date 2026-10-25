@@ -2428,7 +2428,7 @@ freemasons
 fractur
 frizzle
 fingered
-frisco
+frisco 1
 farandola
 foils
 flutterable
