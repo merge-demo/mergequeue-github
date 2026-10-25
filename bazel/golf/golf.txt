@@ -20,7 +20,7 @@ granitize 1
 goter
 gastroadynamic
 gashouse
-geotropic
+geotropic 1
 gabbro
 gabelleman
 grouchy
