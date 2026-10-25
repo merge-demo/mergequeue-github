@@ -14879,7 +14879,7 @@ alveolary
 anticipatable
 anodic
 anomorhomboidal
-anticipates
+anticipates 1
 azoxy
 arpens
 anticipatingly
