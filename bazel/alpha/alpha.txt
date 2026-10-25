@@ -22218,7 +22218,7 @@ antepaschal
 anthropophagism
 argumentativeness
 astogeny
-aglutition
+aglutition 1
 arrestees
 anticholinergic
 astomia
