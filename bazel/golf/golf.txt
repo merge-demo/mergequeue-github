@@ -2918,7 +2918,7 @@ gledes
 gonocyte
 gallinulelike
 gombos
-gingerous
+gingerous 1
 gee
 gelose
 gaylussite
