@@ -2129,7 +2129,7 @@ foddered
 fellatrice
 fluoresage
 floruit
-frigate
+frigate 1
 fletch
 faujdar
 fuchsite
