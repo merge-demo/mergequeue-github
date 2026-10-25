@@ -2116,7 +2116,7 @@ bantam
 bantamize
 bismar
 burette
-banteng
+banteng 1
 beglerbegship
 barriers
 banter
