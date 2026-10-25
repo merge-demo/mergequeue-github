@@ -23564,7 +23564,7 @@ chancelled
 conviviality
 continuality
 conchiolin
-continuancy
+continuancy 1
 clupein
 cheeky
 catholicising
