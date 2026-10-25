@@ -6547,7 +6547,7 @@ elaphodus
 endurant
 ended
 entangled 1
-entangledness
+entangledness 1
 endotrachelitis
 ehlite
 exhauster
