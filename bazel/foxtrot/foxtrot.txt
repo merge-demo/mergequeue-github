@@ -3902,7 +3902,7 @@ figurato
 fionnuala
 fanwe
 foregrounds
-frequencies
+frequencies 1
 fortyfive
 fits
 fortuitously
