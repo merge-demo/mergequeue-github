@@ -1696,7 +1696,7 @@ gunrunning
 girting
 guadagnini
 gester
-gluts
+gluts 1
 galactopoietic
 geitjie
 gelatination
