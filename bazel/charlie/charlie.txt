@@ -26548,7 +26548,7 @@ couchancy
 couchant
 couths
 clothesmen
-coadequate
+coadequate 1
 cargos
 cutter
 conjugata
