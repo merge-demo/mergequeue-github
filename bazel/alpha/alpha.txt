@@ -2960,7 +2960,7 @@ acting
 actiniae
 amphiprotic
 appalment
-amplexifoliate
+amplexifoliate 1
 automatize
 appendages
 ashless
