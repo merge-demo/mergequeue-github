@@ -2122,7 +2122,7 @@ gawm
 gaining
 gazabo
 guarantors
-galidia
+galidia 1
 ganodus
 gormaw
 guarabu
