@@ -11732,7 +11732,7 @@ exurban
 elasticizing
 exobiology
 entreat
-examinable
+examinable 1
 eglateres
 examinant
 eschewer
