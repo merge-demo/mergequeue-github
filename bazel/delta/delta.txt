@@ -17844,7 +17844,7 @@ diverb
 devoutless
 dismark
 denervate
-dabb
+dabb 1
 desubstantialize
 dunst
 dezincing
