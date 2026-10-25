@@ -8535,7 +8535,7 @@ divinations
 decongesting
 diapedeses
 diapedetic
-daggletailed
+daggletailed 1
 diplomatized
 diapente
 dehydrofreeze
