@@ -19405,7 +19405,7 @@ argentic
 amphorophony
 allicins
 arkie
-allowance
+allowance 1
 auspicating
 argentin
 anglicanism
