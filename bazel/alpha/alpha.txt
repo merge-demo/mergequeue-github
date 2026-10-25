@@ -14126,7 +14126,7 @@ antennariid
 antennariidae
 antennate
 antennifer
-antefixes
+antefixes 1
 acraturesis
 antennula
 agapae
