@@ -6633,7 +6633,7 @@ fairgrass
 fruitery
 funds
 fancymonger
-fatuousness 1
+fatuousness 2
 focussed
 fetlocked
 ferricyanic
