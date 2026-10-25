@@ -10593,7 +10593,7 @@ fulgent
 foiling
 foilsman
 filaceous
-fusht
+fusht 1
 furtive
 famular
 finched
