@@ -4903,7 +4903,7 @@ encrustation
 elepaio
 excitoglandular
 empoisons 1
-exoperidium
+exoperidium 1
 ecchymoses
 enculturation
 ergatandromorph
