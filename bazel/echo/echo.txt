@@ -10115,7 +10115,7 @@ earthlike
 extrusible
 endorses
 ethereally
-entwined
+entwined 1
 emprosthotonos
 etherealness
 escherichia
