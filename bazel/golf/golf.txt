@@ -10667,7 +10667,7 @@ guric
 grog
 granitization
 gelatinobromide
-gurl
+gurl 1
 geocentricism
 glyceryl
 grove
