@@ -6250,7 +6250,7 @@ eradiation
 enostosis
 elisions
 erugatory
-espresso
+espresso 1
 enoughs
 editorialize
 enforcedly

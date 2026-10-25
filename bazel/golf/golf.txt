@@ -7628,7 +7628,7 @@ gracing
 gunpaper
 greyly 1
 graft
-gyal
+gyal 1
 glossoepiglottic
 gunkholing
 girlies
