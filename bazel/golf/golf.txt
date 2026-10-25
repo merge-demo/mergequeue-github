@@ -41,7 +41,7 @@ gmelina
 grammes
 gabions
 gynecologies
-gunfires
+gunfires 1
 genotypically
 gableboard
 groats
