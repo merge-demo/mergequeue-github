@@ -6000,7 +6000,7 @@ hirbsym
 hircdtvg
 hird
 hirdkf
-hirdm
+hirdm 1
 hirfaoiroeq
 hirfk
 hirfniwip
