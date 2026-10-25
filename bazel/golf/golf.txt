@@ -4303,7 +4303,7 @@ goboes
 glabellum
 gynecophorous
 gynecratic
-gelidness
+gelidness 1
 gorgonia
 gyneolater
 guinfo
