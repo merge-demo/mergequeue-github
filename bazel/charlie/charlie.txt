@@ -27015,7 +27015,7 @@ corrido
 conformance
 counterplotter
 curatage
-conjure
+conjure 1
 contoid
 chimneypot
 counterpoints
