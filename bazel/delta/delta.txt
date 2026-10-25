@@ -13187,7 +13187,7 @@ dovetailed
 demoralize
 dysplasia
 demonish
-determination
+determination 1
 dislocates
 durums
 displat
