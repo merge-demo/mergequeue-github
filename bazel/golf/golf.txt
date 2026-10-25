@@ -1453,7 +1453,7 @@ germiparity
 garnishee
 glovemaker
 guidebookish
-geophagous
+geophagous 1
 glossagra
 ghenting
 grossart
