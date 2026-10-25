@@ -2938,7 +2938,7 @@ dedicatory
 despitous
 dedicatorily
 doggoner
-dedicators
+dedicators 1
 deaconry
 dewar
 ducatus
