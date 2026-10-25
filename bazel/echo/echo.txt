@@ -5328,7 +5328,7 @@ externes
 erectors
 ernest
 estocs
-ergodicity
+ergodicity 1
 elegiast
 eliminability
 endosclerite
