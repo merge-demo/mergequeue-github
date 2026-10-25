@@ -4901,7 +4901,7 @@ encroachments
 epitaxic
 encrustation
 elepaio
-excitoglandular
+excitoglandular 1
 empoisons 1
 exoperidium
 ecchymoses
