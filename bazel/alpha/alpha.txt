@@ -6294,7 +6294,7 @@ agranuloplastic
 abelite
 agrapha
 agraphia
-anuran
+anuran 1
 agraphic
 arcato
 aratory
