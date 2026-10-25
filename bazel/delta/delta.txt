@@ -4920,7 +4920,7 @@ dehiscing
 demonstrater
 demonstrates
 demonstrationist
-demagnetizes
+demagnetizes 1
 devilwise
 dicondylian
 dacrycystalgia
