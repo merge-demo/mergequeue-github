@@ -2527,7 +2527,7 @@ frondescent
 ferrelling
 fluorine
 fiatconfirmatio
-fanam
+fanam 1
 feeler
 frugivorous
 fibromembranous
