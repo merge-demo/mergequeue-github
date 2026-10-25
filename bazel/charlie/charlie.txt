@@ -19850,7 +19850,7 @@ cryptoglaux
 comfortableness
 comfortation
 churchly
-comfortative
+comfortative 1
 comforters
 comfortingly
 comfortlessly
