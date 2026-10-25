@@ -14281,7 +14281,7 @@ dytiscid
 daubier
 dytiscus
 ditokous
-dichrooscope
+dichrooscope 1
 dibasic
 ditolyl
 ditremid

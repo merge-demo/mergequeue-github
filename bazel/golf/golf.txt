@@ -1387,7 +1387,7 @@ glyconeogenetic
 guttular
 garniec
 gamily
-governs
+governs 1
 ganodonta
 glossanthrax
 garnison
