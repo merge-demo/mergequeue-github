@@ -12821,7 +12821,7 @@ angiorrhea
 armorwise
 ammocoetid
 angioscope
-angiosymphysis
+angiosymphysis 1
 anopia
 antiatoms
 ailantine
