@@ -7414,7 +7414,7 @@ gepeoo
 grantsmen
 goosefoot
 galvanometers
-giga
+giga 1
 granduncle
 gnatproof
 geylies
