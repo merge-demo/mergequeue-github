@@ -25048,7 +25048,7 @@ chiliadic
 choppered
 cuprotungstite
 cordwainer
-choleraic
+choleraic 1
 cloves
 core
 corecipient
