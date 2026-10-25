@@ -9807,7 +9807,7 @@ fragmentary
 flowoff
 fattens
 foredooming
-fleck
+fleck 1
 faddist
 foamy
 fretum
