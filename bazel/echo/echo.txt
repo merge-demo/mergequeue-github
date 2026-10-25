@@ -126,7 +126,7 @@ enantiomorphous
 engaol
 enigmatized
 ethnological
-exterminable
+exterminable 1
 evolate
 erosionist
 elocutioner
