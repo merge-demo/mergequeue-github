@@ -20909,7 +20909,7 @@ comprehensiveness 1
 campership
 coleoptile
 chenopodiaceous
-collegiums
+collegiums 1
 compresence
 compresent
 cai
