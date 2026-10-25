@@ -147,7 +147,7 @@ demissionary
 deino
 dudler
 delapse
-daemonistic
+daemonistic 1
 disconducive
 decarboxylated
 depopulates

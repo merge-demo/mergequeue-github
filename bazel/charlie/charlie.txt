@@ -9923,7 +9923,7 @@ cribration
 countersignatures
 carcinomas
 crackjaw
-cephalotaceous
+cephalotaceous 1
 chemotrophic
 chemotropically
 chempaduk
