@@ -13344,7 +13344,7 @@ erithacus
 entitled
 exceedingly
 enrough
-entreated
+entreated 1
 epicotyleal
 encyclopaedias
 ethicist
