@@ -13594,7 +13594,7 @@ edriophthalmian
 exarteritis
 electropyrometer
 expulsory
-ectad
+ectad 1
 exiledom
 eyeblink
 extemporary
