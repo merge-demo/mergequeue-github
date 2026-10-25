@@ -6556,7 +6556,7 @@ aidance
 apostasy
 aidant
 aided
-amphigamae
+amphigamae 1
 amchoor
 aydendron
 achenocarp
