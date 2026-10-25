@@ -5573,7 +5573,7 @@ boletes
 bouleuterion
 borons
 beknighted
-ballistite
+ballistite 1
 beknotted
 burrio
 brassicaceous
