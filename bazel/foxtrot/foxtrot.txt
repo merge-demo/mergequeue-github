@@ -5778,7 +5778,7 @@ flutteration
 farmage
 furyl
 fulfilling
-flurriedly
+flurriedly 1
 faailk
 fluorocarbon
 faunated
