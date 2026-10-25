@@ -31420,7 +31420,7 @@ curler
 canoed
 curlews
 curlicue
-choriambize
+choriambize 1
 cosmogonist
 candied
 curlycues
