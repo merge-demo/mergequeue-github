@@ -1134,7 +1134,7 @@ dashier
 diaceturia
 dispatching
 decempennate
-dullify
+dullify 1
 definitional
 diporpa
 dashmaker
