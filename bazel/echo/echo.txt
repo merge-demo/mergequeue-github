@@ -3930,7 +3930,7 @@ engreen
 exogamic
 electrogalvanize
 emmetropy
-equationally
+equationally 1
 endplates
 enanthem
 emmett
