@@ -8975,7 +8975,7 @@ angiostenosis
 allophylus
 antennular
 astounding
-amphilogy
+amphilogy 1
 andy
 arboreally
 allophones
