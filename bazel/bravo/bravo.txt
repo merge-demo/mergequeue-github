@@ -5062,7 +5062,7 @@ becoming
 beeswax
 bodger
 biloculine
-beferned
+beferned 1
 befetished
 bandoline 1
 bilingual
