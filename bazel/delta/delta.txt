@@ -12447,7 +12447,7 @@ dishorn
 discontinue
 douching
 dislocable
-diastematic
+diastematic 1
 dishrags
 dishtowels
 detrital
