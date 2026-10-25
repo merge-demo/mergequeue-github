@@ -70,7 +70,7 @@ gloiosiphonia
 gandum 1
 graftproof
 galliums
-grayish
+grayish 1
 giddap
 glowing
 graticule
