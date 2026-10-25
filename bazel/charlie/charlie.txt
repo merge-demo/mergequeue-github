@@ -2130,7 +2130,7 @@ campbellisms
 campbellites
 cixiid
 capriciousness
-campcraft
+campcraft 1
 campe
 cumbers
 cryal
