@@ -10989,7 +10989,7 @@ farde
 forecatharping
 fausen
 frostiest
-flintiest
+flintiest 1
 foreproffer
 foreweep
 fatlike

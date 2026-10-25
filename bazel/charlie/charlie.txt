@@ -18397,7 +18397,7 @@ chatchkas
 chirimoya
 clypeal
 compactedness
-cognition
+cognition 1
 cucullated
 conclude
 canmaking

@@ -1627,7 +1627,7 @@ egret
 exsanguine
 egromancy
 egurgitate
-egurgitated
+egurgitated 1
 euphonon
 eheu
 explanatively
