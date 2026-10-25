@@ -7882,7 +7882,7 @@ gurdle
 ghostlikeness
 grammatics 1
 gastropodous
-galik
+galik 1
 graved
 grammatistical
 gratinated
