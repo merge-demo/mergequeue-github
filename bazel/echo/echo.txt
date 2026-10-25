@@ -12208,7 +12208,7 @@ economised
 emoluments
 execrator
 emeraude
-enthroning
+enthroning 1
 empiriocritical
 ephemera
 execute
