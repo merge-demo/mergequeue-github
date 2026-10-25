@@ -11851,7 +11851,7 @@ excandescent
 explemental 1
 erythrochroic
 endocrinopathy
-eulogized
+eulogized 1
 expenders
 excarnificate
 entoproctous
