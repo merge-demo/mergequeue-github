@@ -1622,7 +1622,7 @@ doweled
 diadrome
 derision
 disenrol
-damagingly
+damagingly 1
 decl
 dealcoholize
 dinoceratan
