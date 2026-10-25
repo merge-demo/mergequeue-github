@@ -19563,7 +19563,7 @@ condemned
 colonizing
 creophagist
 columbine
-climactic
+climactic 1
 chamfrons
 cusp
 crocky
