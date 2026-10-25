@@ -6043,7 +6043,7 @@ deceitfully
 denunciative 1
 disillusion
 dammit
-dolesomeness
+dolesomeness 1
 desmotrope
 deflates
 dicephalism
