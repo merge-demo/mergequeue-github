@@ -25113,7 +25113,7 @@ aotearoa
 axillae
 antiamylase
 axillar
-axillaries
+axillaries 1
 absurdest
 axing
 anagenesis
