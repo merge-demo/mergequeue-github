@@ -9587,7 +9587,7 @@ fizzed 1
 fichus
 friableness
 fusteric
-frizzing
+frizzing 1
 fraternality
 fortifications
 fishpound
