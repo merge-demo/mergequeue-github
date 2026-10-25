@@ -11504,7 +11504,7 @@ emenders
 endocrinous
 exsecant
 exoergic
-echinopanax
+echinopanax 1
 exhibited
 expended
 electromyogram
