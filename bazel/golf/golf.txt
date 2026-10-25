@@ -2023,7 +2023,7 @@ gnaeus
 galactia
 grithman
 gauzy
-galatae
+galatae 1
 goitrogenicity
 groof
 gainsayers
