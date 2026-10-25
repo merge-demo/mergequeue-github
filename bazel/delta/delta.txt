@@ -1576,7 +1576,7 @@ deadish
 dysgenesic
 dhanush
 demand
-disposition
+disposition 1
 determinatively
 desitive
 disembody
