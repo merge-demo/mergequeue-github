@@ -7754,7 +7754,7 @@ foremast
 fritters
 fidicula
 franciscanism
-fisticuffery
+fisticuffery 1
 favillous
 flabelliform
 forsaker
