@@ -6988,7 +6988,7 @@ cenotaphy
 contorsive
 craighle
 cenotes
-ceremonially
+ceremonially 1
 cuerda
 counterimitation
 censitaire
