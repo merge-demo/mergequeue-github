@@ -10699,7 +10699,7 @@ euglenoid
 electrotypic
 evenworthy
 ecossaise
-egosyntonic
+egosyntonic 1
 etiquet
 endfile
 excusable
