@@ -990,7 +990,7 @@ darics
 devwsor
 darien
 disinclinations
-dimmest
+dimmest 1
 deiform
 drupes
 disavowedly
