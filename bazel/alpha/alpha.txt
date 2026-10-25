@@ -13888,7 +13888,7 @@ abreact
 aerobium
 anseis
 anselm
-anser
+anser 1
 angola
 anserated
 abrasions 1
