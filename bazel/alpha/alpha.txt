@@ -845,7 +845,7 @@ acesodyne
 anam
 abscission
 absconce
-abscond
+abscond 1
 absconded
 apperceptive
 absconder
