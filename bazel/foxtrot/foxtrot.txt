@@ -92,7 +92,7 @@ fiendish
 flagrantness
 famousness
 facetely
-froufrous
+froufrous 1
 falsest
 fuminess
 furfuroid
