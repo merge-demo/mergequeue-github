@@ -10866,7 +10866,7 @@ frowardly
 fon
 frontalis
 fluvioterrestrial
-fustianist
+fustianist 1
 filigreing
 filagreing
 fractiously
