@@ -26384,7 +26384,7 @@ continuous
 cotenancy
 cotenant
 cotenants
-chrismatories
+chrismatories 1
 cotenure
 concaved
 cinderlike
