@@ -11030,7 +11030,7 @@ agomphious 1
 adelphophagy
 amorphism
 amorphophallus
-armorician
+armorician 1
 antisocially
 alopecic
 amorphously
