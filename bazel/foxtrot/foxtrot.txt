@@ -11411,7 +11411,7 @@ flushboard
 feasor
 flocculose
 furniture
-flummoxing
+flummoxing 1
 frustrable
 footlicking
 furl 1
