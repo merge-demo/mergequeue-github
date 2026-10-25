@@ -28667,7 +28667,7 @@ cortins
 crotches
 crenation
 cellblocks
-clarisse
+clarisse 1
 consequentially
 classific
 canonicalize
