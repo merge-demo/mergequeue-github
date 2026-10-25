@@ -17918,7 +17918,7 @@ apprizers
 almaciga
 apprizing
 appro
-amate
+amate 1
 approach
 aristodemocracy
 anthracotheriidae
