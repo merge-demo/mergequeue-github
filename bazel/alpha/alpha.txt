@@ -12884,7 +12884,7 @@ anglian
 apportionment
 anglicanisms
 antispiritual
-abscise
+abscise 1
 arverni
 apolysin
 anatabine
