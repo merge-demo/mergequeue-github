@@ -605,7 +605,7 @@ falsehood
 flosculet
 frazil
 fertility
-faintingly
+faintingly 1
 festschriften
 fluctiferous
 flavorless 1
