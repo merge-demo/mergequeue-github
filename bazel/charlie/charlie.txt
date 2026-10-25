@@ -9937,7 +9937,7 @@ collaborations
 crystallophyllian
 conspurcate
 cambists
-crescographic
+crescographic 1
 caseconv 1
 chaoses
 comedians
