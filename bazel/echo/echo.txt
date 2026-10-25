@@ -2132,7 +2132,7 @@ effortlessly
 evolution
 equably
 euxenite
-elastivity
+elastivity 1
 eleusine
 externat
 emperish 1
