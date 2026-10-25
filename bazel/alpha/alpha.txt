@@ -23740,7 +23740,7 @@ anagrammatical
 anisuria
 aurums
 alopecurus
-auscultascope
+auscultascope 1
 adzes
 andropetalar
 academic
