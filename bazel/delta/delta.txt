@@ -7967,7 +7967,7 @@ dartos
 dithyrambically
 durenol
 dextrocularity
-daphnes
+daphnes 1
 dedicature
 disincorporation
 drowse
