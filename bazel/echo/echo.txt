@@ -2099,7 +2099,7 @@ emu
 endamoebae
 eldfather
 eggberry
-ethmoturbinal
+ethmoturbinal 1
 extrovertedness
 extirpateo
 expropriatory
