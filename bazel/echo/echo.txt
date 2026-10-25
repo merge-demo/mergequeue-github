@@ -12349,7 +12349,7 @@ exertions
 ergate
 enurny
 eseptate
-equilobate
+equilobate 1
 eupepsies
 edgeling
 evase
