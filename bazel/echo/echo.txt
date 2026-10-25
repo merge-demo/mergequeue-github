@@ -4724,7 +4724,7 @@ enmuffle
 entrammel
 ensuance
 englishism
-enciphering
+enciphering 1
 enrapture
 eulogism
 engerminate
