@@ -2250,7 +2250,7 @@ fenced
 fencelessness
 forkiest
 fengite
-fanout
+fanout 1
 frolics
 filigerous
 fayalite
