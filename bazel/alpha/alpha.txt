@@ -17221,7 +17221,7 @@ apoop
 acroparesthesia
 apopenptic
 anteroom
-apophatic
+apophatic 1
 akhrot
 atonements
 anticrepuscule
