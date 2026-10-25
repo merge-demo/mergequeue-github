@@ -6195,7 +6195,7 @@ frothier
 fluavile
 flubbed
 feudum
-foreread
+foreread 1
 fairgoing
 flaxes
 fulgurate
