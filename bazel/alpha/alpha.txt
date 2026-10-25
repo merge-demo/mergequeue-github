@@ -19793,7 +19793,7 @@ armamentarium
 autoskeleton
 affeerment
 attachable
-armangite
+armangite 1
 adularia
 armarian
 auriculars
