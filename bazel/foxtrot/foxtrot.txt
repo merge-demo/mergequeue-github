@@ -7098,7 +7098,7 @@ ferret
 fibulare
 frocking
 filipinization
-flagger
+flagger 1
 footstick
 fickler
 figurant
