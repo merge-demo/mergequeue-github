@@ -8941,7 +8941,7 @@ admiralships
 arris
 appreciate
 antenatal
-amalg
+amalg 1
 alloo
 annelids 1
 allopathetic
