@@ -14044,7 +14044,7 @@ enliven
 eidolons
 excandescency
 embellishments
-extrathermodynamic
+extrathermodynamic 1
 equationism
 emes
 excitonic
