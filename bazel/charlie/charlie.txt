@@ -4052,7 +4052,7 @@ cicatrise
 cardamon
 centenary
 cardamum
-cardanol
+cardanol 1
 chymist
 cardboard
 crissum
