@@ -1442,7 +1442,7 @@ filasse
 firmness
 futhork
 fatuitous
-foothil
+foothil 1
 familiarise
 floorwalkers
 fringing
