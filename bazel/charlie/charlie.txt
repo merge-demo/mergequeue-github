@@ -24023,7 +24023,7 @@ conventioneers
 countercoup
 conventioner
 chainplate
-conventionize
+conventionize 1
 copperworks
 conventions
 coralwort
