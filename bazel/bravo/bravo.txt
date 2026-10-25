@@ -7566,7 +7566,7 @@ bombilate
 bastardize 1
 bloodripe
 begiggle
-barnacle
+barnacle 1
 bewhisker
 biplicate
 bleater
