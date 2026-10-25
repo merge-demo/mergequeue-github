@@ -9861,7 +9861,7 @@ fricando
 fakement
 feminize
 funge
-feria
+feria 1
 fundatorial
 flavanthrone
 fogeys
