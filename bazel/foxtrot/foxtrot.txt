@@ -11714,7 +11714,7 @@ fiancailles
 frowns
 furriered
 forebitter
-ferruled
+ferruled 1
 foredesign
 friars
 fosslology
