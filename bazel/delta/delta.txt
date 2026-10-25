@@ -4025,7 +4025,7 @@ deleter
 demur
 deleteriousness
 dirge
-deletions
+deletions 1
 disdub
 departmentize
 dehumanizing
