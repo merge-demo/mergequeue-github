@@ -2310,7 +2310,7 @@ granulation
 gelatinating
 greyfish
 geognosis
-guaranis 1
+guaranis 2
 gelatine
 gerastian
 ge
