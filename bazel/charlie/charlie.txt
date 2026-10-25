@@ -10857,7 +10857,7 @@ chipmunks
 chrysochrous
 chipolata
 coleopteroid
-cordwain
+cordwain 1
 chippendale
 chemiatrist
 chippered
