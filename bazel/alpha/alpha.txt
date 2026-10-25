@@ -7940,7 +7940,7 @@ adobos
 adorningly
 aristippus
 aleppo
-alerce
+alerce 1
 alerse
 agglutinates
 alerta
