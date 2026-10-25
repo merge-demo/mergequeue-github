@@ -16878,7 +16878,7 @@ crotonbug
 chinches
 cometoid
 cypselae
-compendiously
+compendiously 1
 clucky
 concussional
 connectional

@@ -15955,7 +15955,7 @@ articulationist
 ascensor
 andantes
 antiquarianize
-anachronism
+anachronism 1
 antiquaries
 antiquartan
 americas
