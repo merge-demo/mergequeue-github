@@ -6654,7 +6654,7 @@ gangliform
 gamboller
 gordius
 glossolabiopharyngeal
-gucks
+gucks 1
 ganda
 goneness 1
 grumped
