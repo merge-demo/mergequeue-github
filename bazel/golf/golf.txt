@@ -8213,7 +8213,7 @@ gelatinise
 geometricize
 grandfatherless
 gestative
-gooseneck
+gooseneck 1
 graphemically
 gris
 gasconading
