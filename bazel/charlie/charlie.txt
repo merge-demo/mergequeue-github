@@ -31322,7 +31322,7 @@ curdoo
 conceivably
 cured
 clarinos
-cornix
+cornix 1
 cureless
 corypha
 curelessness
