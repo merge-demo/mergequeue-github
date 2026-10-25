@@ -1927,7 +1927,7 @@ forksful
 freight
 furling
 friable
-fangot
+fangot 1
 froze
 forebearing
 floccule
