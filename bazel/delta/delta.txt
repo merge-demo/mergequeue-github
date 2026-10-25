@@ -6911,7 +6911,7 @@ dahabiyeh
 deadliest
 deficit 1
 desorption
-drollist
+drollist 1
 discomposes
 desoxalic
 dichromasy
