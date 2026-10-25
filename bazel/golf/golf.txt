@@ -5584,7 +5584,7 @@ gesticulacious 1
 gelilah
 goutier
 greenroom
-glucaemia
+glucaemia 1
 gumming
 gaysome
 gripless

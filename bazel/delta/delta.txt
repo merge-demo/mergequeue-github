@@ -10977,7 +10977,7 @@ decidedness
 disaffirming
 debussed
 dermococcus
-dayberry
+dayberry 1
 dissyllabising
 deepwaterman
 decapoda
