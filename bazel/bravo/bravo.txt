@@ -5910,7 +5910,7 @@ bouillabaisse
 belostomidae
 belotte
 bowden 1
-bechancing
+bechancing 1
 benzalcyanhydrin
 beden
 backswordmen
