@@ -6529,7 +6529,7 @@ glycogenosis
 ghis
 gunster
 geotherm
-gamopetalous
+gamopetalous 1
 goldsmithry
 grays
 groveler
