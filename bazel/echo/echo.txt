@@ -611,7 +611,7 @@ emporia
 emetics
 eurypharynx
 euro
-eciton
+eciton 1
 eversions
 entertained
 eclaircissement
