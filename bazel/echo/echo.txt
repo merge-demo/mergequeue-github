@@ -11516,7 +11516,7 @@ endlessly
 embryoma
 evincible
 ectopterygoid
-elegancies
+elegancies 1
 epicurean
 elastometer
 emcee 1
