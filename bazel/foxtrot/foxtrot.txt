@@ -6634,7 +6634,7 @@ fruitery
 funds
 fancymonger
 fatuousness 1
-focussed
+focussed 1
 fetlocked
 ferricyanic
 fecche
