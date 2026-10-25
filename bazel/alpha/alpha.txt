@@ -1963,7 +1963,7 @@ armorial
 acetins
 acardite
 archigony
-adangle
+adangle 1
 acetize
 assertions
 acetla
