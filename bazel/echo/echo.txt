@@ -4792,7 +4792,7 @@ enscrolling
 elucubration
 elator 1
 enclosures
-emprent
+emprent 1
 emmenia
 erethic
 eguttulate
