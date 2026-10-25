@@ -4410,7 +4410,7 @@ aurae
 antonella
 amaryllidaceous
 acastus
-almightiness
+almightiness 1
 alphanumerics
 anconeous
 ambulators
