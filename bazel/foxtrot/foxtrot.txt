@@ -3294,7 +3294,7 @@ ferrimagnetically
 foreknowable
 fieldpieces
 feudovassalism
-forefeet
+forefeet 1
 fungilliform
 filopodium
 fiddlestick
