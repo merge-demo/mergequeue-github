@@ -7967,7 +7967,7 @@ coquilles
 chaga
 cevenole
 chryselephantine
-cossets
+cossets 1
 cevian
 ceviche
 cevine
