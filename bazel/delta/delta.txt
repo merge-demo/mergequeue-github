@@ -2004,7 +2004,7 @@ documentalist
 denehole
 dentello
 dimble
-defaecate
+defaecate 1
 dysphasia
 dictation
 dacryocele
