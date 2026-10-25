@@ -12304,7 +12304,7 @@ bacteriophagic
 bathycurrent
 bullwhacker
 betrayer
-bombardments
+bombardments 1
 bombline
 bowdrill
 bombast
