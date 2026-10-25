@@ -19003,7 +19003,7 @@ collectivize
 collectivized
 collectivizes
 collectivizing
-collectivum
+collectivum 1
 cocrucify
 collectorate
 collectors
