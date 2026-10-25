@@ -9814,7 +9814,7 @@ gue
 globulinuria
 glossemes
 glares
-gnathostoma
+gnathostoma 1
 guahiban
 groundbreaker
 gutsily
