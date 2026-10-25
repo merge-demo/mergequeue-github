@@ -25731,7 +25731,7 @@ carphosiderite 1
 corresponsively 1
 churchlet
 corridas
-chedlock
+chedlock 1
 corridors
 corriedale
 corrige
