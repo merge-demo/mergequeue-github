@@ -9341,7 +9341,7 @@ essoinee
 eruptiveness
 endear
 earable
-eruptivity
+eruptivity 1
 echinuliform
 effierce
 esbatement
