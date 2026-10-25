@@ -9765,7 +9765,7 @@ fluentness
 faerie
 foresettled
 flyspeck
-flummoxed
+flummoxed 1
 fastiia
 fascists
 fencers
