@@ -10046,7 +10046,7 @@ esculetin
 evolutions
 emergent
 encastered
-egrets
+egrets 1
 ethambutol
 ethmovomerine
 exitial

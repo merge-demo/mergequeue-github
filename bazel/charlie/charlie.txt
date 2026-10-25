@@ -3698,7 +3698,7 @@ carapacho
 chapfallenly
 contumacity
 cognates
-carapacic
+carapacic 1
 carapax
 climacterial
 coachable
