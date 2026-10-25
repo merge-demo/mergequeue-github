@@ -14305,7 +14305,7 @@ acetoacetanilide
 antiempirically 1
 angiotensin
 arabesk
-antherozoid
+antherozoid 1
 antherozooidal 1
 anthers
 anisopogonous
