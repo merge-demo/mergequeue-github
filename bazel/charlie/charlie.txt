@@ -19805,7 +19805,7 @@ comedo
 cuchan
 catacumbal
 cassareep
-comely
+comely 1
 coursings
 comelier
 comeling
