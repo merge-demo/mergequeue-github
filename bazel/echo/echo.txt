@@ -13315,7 +13315,7 @@ explosimeter
 exembryonate
 ecphore
 englishmen
-exorcisms
+exorcisms 1
 explosively
 explosiveness
 equipt
