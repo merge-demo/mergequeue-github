@@ -16175,7 +16175,7 @@ dits
 demospongiae
 dowagers
 dispersions
-dertra
+dertra 1
 degas
 droplet
 desalinized
