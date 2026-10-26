@@ -5160,7 +5160,7 @@ endocrinic 1
 existentialistic
 enterocoel
 emergencies
-entogenous
+entogenous 1
 enteroptotic
 extrudability
 eisell
