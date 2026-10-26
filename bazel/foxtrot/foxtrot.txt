@@ -5721,7 +5721,7 @@ fundament
 floodwater 1
 fitroot
 flippancies
-freshness
+freshness 1
 ferrary
 fetor
 flirty
