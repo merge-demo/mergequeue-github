@@ -17084,7 +17084,7 @@ administrant
 atomic
 apodemas
 autogamy
-asportation
+asportation 1
 apodematal
 abstinence
 apodiabolosis
