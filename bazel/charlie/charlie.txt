@@ -6992,7 +6992,7 @@ ceremonially
 cuerda
 counterimitation
 censitaire
-champion
+champion 1
 curiosity
 chitchats
 cisalpine
