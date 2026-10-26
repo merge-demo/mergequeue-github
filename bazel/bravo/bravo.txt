@@ -7552,7 +7552,7 @@ beguilingly
 bandolier
 beloam
 begirding
-bewary
+bewary 1
 bewaste
 beweary
 besottedness

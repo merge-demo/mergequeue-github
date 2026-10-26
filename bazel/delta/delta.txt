@@ -76,7 +76,7 @@ depressibility
 debilitating
 dactylion
 deltal
-dobbin
+dobbin 1
 disfavorer
 damning
 direcly

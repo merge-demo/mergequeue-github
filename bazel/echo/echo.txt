@@ -7954,7 +7954,7 @@ estragol
 ensilation
 expounds
 epimanikion
-epimeres
+epimeres 1
 electrostenolysis
 epimerism
 enterolithiasis
