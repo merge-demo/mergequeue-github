@@ -4371,7 +4371,7 @@ fise
 forb
 furosemide
 fisetin
-focuser
+focuser 1
 forfeitable
 frate
 fibroplastic
