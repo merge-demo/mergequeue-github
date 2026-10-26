@@ -11927,7 +11927,7 @@ anapaestically
 ancientness
 ataraxic
 anew
-amenism
+amenism 1
 aricin
 anapaite
 aenean
