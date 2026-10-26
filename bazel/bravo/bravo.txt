@@ -10603,7 +10603,7 @@ brigittine
 bajulate
 blaze
 blazers
-bursts
+bursts 1
 blazes
 blazy
 borzois
