@@ -7609,7 +7609,7 @@ droppingly
 durandarte
 devalues
 devas
-duole
+duole 1
 dird
 ditch
 devastating
