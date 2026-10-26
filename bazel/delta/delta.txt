@@ -13890,7 +13890,7 @@ dephased
 dimerous
 discina
 distil
-derisive
+derisive 1
 distyle
 demiurgic
 disinhabit
