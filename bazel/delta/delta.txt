@@ -2754,7 +2754,7 @@ dragged
 durum
 demilancer
 disfeatured
-defeaters
+defeaters 1
 decorticated
 disparages
 dacryelcosis
