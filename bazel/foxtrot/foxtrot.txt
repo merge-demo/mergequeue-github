@@ -795,7 +795,7 @@ flipe
 flea
 floosy
 fustanelle
-fantasticalness
+fantasticalness 1
 forcible
 flautists
 frisk
