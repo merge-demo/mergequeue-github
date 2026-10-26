@@ -23861,7 +23861,7 @@ autarchies
 autarchist
 antipapalist
 acalypterae
-autarkies
+autarkies 1
 allosaurus
 anisostichus
 airmailing
