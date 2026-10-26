@@ -2227,7 +2227,7 @@ dialectological
 didymous
 decathlons 1
 disunionist
-digitoxose
+digitoxose 1
 dripped
 diallyl
 diapalma
