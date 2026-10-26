@@ -6398,7 +6398,7 @@ cautery
 cauteries
 cauterisation
 couche
-cauterise
+cauterise 1
 collision
 cauterising
 cloudland
