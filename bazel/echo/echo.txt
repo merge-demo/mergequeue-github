@@ -7964,7 +7964,7 @@ encephalonarcosis
 equisetic
 explainingly
 evaniidae
-epimerized
+epimerized 1
 ephebus
 enclisis
 ectozoic
