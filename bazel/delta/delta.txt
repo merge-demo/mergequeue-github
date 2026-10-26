@@ -6221,7 +6221,7 @@ depleted
 damascened
 digametic
 dermabrasion
-dithyramb
+dithyramb 1
 degrades
 drabness
 dipsades
