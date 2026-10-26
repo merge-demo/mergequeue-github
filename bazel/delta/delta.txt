@@ -3333,7 +3333,7 @@ dolabre
 decigram
 dartrous
 definish
-decolored
+decolored 1
 decapitalization
 definite
 definitely
