@@ -12118,7 +12118,7 @@ edrioasteroid
 excerpter
 eubacterium
 ency
-excruciating
+excruciating 1
 enascent
 excruciator
 ennomic
