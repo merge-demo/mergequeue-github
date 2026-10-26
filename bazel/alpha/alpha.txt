@@ -18170,7 +18170,7 @@ aquatintist
 analogically
 advowee
 acanthocephala
-ascender
+ascender 1
 arminian
 atip
 aquatone
