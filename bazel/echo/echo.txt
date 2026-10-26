@@ -9522,7 +9522,7 @@ epimorphism
 extrasolar
 exempt
 envois
-esuriently
+esuriently 1
 esebrias
 ellops
 enantiotropy
