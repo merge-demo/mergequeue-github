@@ -2471,7 +2471,7 @@ destrudo
 decipium
 diphase
 diplodocus
-dipyre
+dipyre 1
 decision
 defeatists
 distinctly
