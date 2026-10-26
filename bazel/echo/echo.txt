@@ -14039,7 +14039,7 @@ exch
 ecclesiasticalism
 escoting
 eyeline
-elektra
+elektra 1
 enliven
 eidolons
 excandescency
