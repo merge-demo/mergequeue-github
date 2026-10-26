@@ -9233,7 +9233,7 @@ enweaved
 entrant
 extirpate
 epizzoa
-eloquential
+eloquential 1
 educationalist
 extrapleural
 extrapolative
