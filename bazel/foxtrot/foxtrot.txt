@@ -6156,7 +6156,7 @@ fraughts
 furiosity
 ferrums
 fuses
-fewness
+fewness 1
 fcp
 fewneses
 farrieries
