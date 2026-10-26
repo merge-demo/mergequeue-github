@@ -6865,7 +6865,7 @@ floribunda
 fasces
 forthby
 ferritungstite
-fattiest
+fattiest 1
 farewell
 fiery
 flasks
