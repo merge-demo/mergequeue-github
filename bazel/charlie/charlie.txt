@@ -16363,7 +16363,7 @@ clistothecium
 chastening
 clit
 clitch
-clite
+clite 1
 counterplea
 clites
 cleridae
