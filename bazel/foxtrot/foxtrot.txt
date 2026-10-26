@@ -10935,7 +10935,7 @@ fadridden
 fack
 francs
 fulminurate
-fulness
+fulness 1
 fess
 fulnesses 1
 flanconade
