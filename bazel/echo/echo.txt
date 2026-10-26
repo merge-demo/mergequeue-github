@@ -9887,7 +9887,7 @@ electrotelethermometer
 editorial
 eugenicist
 esthiomene
-extenuatingly
+extenuatingly 1
 exiles
 ectophloic
 estimable
