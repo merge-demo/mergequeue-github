@@ -12165,7 +12165,7 @@ embastioned
 elasmobranchian
 exiguity
 excusably
-enswathing
+enswathing 1
 entertainments
 ethaldehyde
 estrado
