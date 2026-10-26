@@ -9922,7 +9922,7 @@ chemotherapist
 cribration
 countersignatures
 carcinomas
-crackjaw
+crackjaw 1
 cephalotaceous
 chemotrophic
 chemotropically
