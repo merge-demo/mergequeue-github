@@ -4905,7 +4905,7 @@ excitoglandular
 empoisons 1
 exoperidium
 ecchymoses
-enculturation
+enculturation 1
 ergatandromorph
 epispastic
 extrapolates
