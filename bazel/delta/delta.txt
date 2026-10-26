@@ -16727,7 +16727,7 @@ descriptively
 dicey
 desalt
 disauthorize
-disentomb
+disentomb 1
 drape
 disharmonized
 decourse
