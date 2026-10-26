@@ -4723,7 +4723,7 @@ electroencephalographs
 enmuffle
 entrammel
 ensuance
-englishism
+englishism 1
 enciphering
 enrapture
 eulogism
