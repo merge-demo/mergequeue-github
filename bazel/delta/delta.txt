@@ -1074,7 +1074,7 @@ depositions
 darrein
 devonite
 darshan
-dampening
+dampening 1
 dorsomesal
 darsonval
 deontology
