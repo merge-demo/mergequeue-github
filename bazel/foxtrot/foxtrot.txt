@@ -11423,7 +11423,7 @@ furomethyl
 furcated
 fishings
 furfuraceously
-fingerlike
+fingerlike 1
 furred
 frieze
 frowstiest
