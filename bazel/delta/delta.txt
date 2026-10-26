@@ -17682,7 +17682,7 @@ diecase
 dichotomistic
 downlying
 democratifiable
-desmonosology
+desmonosology 1
 duodenojejunal
 duarch
 decarburizing
