@@ -21370,7 +21370,7 @@ asynergy
 asynergia
 adamantly
 annuluses
-asyngamy
+asyngamy 1
 antiabrin
 analyzing
 asyntactic
