@@ -8212,7 +8212,7 @@ fluoroscoping
 fishways
 faded
 frijolito
-faze
+faze 1
 forage
 funicles
 fauvists
