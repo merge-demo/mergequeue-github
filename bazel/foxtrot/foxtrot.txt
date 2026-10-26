@@ -5395,7 +5395,7 @@ farinaceous
 furole
 forecounsel
 flyswat
-feridji
+feridji 1
 figuration
 fruittime
 forthbringer
