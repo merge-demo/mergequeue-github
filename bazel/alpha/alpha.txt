@@ -11185,7 +11185,7 @@ ascaricide
 amphicarpium
 aluconidae
 apocalyptist
-alterius
+alterius 1
 apian
 amphicarpogenous
 amphichroic
