@@ -9050,7 +9050,7 @@ drinkproof
 dictaphones
 dictating
 dabbers
-deglycerine
+deglycerine 1
 disentangler
 dictatingly
 distichiasis
