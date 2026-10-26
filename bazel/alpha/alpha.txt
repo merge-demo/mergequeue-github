@@ -20857,7 +20857,7 @@ amplifiable
 actium
 allecret
 antick
-asa
+asa 1
 anticynically
 aneath
 asale
