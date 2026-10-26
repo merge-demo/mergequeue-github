@@ -7268,7 +7268,7 @@ gormandised
 geissolomataceous
 graduators
 grace
-gormandism
+gormandism 1
 gormandize
 glomi
 gormandizes 1
