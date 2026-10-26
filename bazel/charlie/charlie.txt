@@ -10821,7 +10821,7 @@ chinooks
 centerpieces
 chinotoxine
 cleverishly
-chinse
+chinse 1
 chinsing
 coragio
 chintses
