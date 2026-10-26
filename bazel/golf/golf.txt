@@ -5457,7 +5457,7 @@ glyptolith
 galvanocontractility
 grotesques
 girsle
-gonfanon
+gonfanon 1
 gallah
 gluing
 gladful
