@@ -8614,7 +8614,7 @@ electrovital
 espavel
 equielliptical
 equigranular
-equilateral
+equilateral 1
 eriogonum
 equilibrant
 extractively
