@@ -11448,7 +11448,7 @@ entheate
 embryotic
 expdt 1
 elided
-evetide
+evetide 1
 extirpating
 encipherment
 ethanim
