@@ -25321,7 +25321,7 @@ aegirinolite
 analysands
 axer
 astrophobia
-adscriptive
+adscriptive 1
 azonaphthalene
 azons
 antisplitting
