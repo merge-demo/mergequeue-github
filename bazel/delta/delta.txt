@@ -409,7 +409,7 @@ desiccating
 diversity
 daintiness
 daiquiri
-dingle
+dingle 1
 diriment
 diathermia
 dominos
