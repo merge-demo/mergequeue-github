@@ -14004,7 +14004,7 @@ deaurate
 distraction 1
 distractions
 distractive
-defending
+defending 1
 dumpling
 disproportion
 disorb
