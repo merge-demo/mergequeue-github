@@ -11126,7 +11126,7 @@ asswage
 antiaphrodisiac
 anglomania
 assures
-ampersands
+ampersands 1
 amphanthia
 amphanthium
 ampherotokous
