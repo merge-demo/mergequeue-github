@@ -10671,7 +10671,7 @@ gurl
 geocentricism
 glyceryl
 grove
-glyphographic
+glyphographic 1
 generalty
 glycerols
 gurnard
