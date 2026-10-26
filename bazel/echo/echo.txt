@@ -2197,7 +2197,7 @@ examination
 elderberries
 erythemic
 emissitious
-elderliness
+elderliness 1
 exponentiated
 expect
 enchurch
