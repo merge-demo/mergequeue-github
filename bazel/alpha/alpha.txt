@@ -23764,7 +23764,7 @@ anisopodous
 acetifier
 avowance
 alto
-auspice
+auspice 1
 authenticated
 asouth
 aerohydroplane
