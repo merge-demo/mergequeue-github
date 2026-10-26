@@ -13378,7 +13378,7 @@ ephererist
 ethnopsychological
 enfevers
 exits
-expositorially
+expositorially 1
 expostulating
 ecophysiological
 endurable
