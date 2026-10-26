@@ -12205,7 +12205,7 @@ dysphonic
 disflesh
 disfoliage
 disrelate
-disfoliaged
+disfoliaged 1
 distich
 descendibility
 disherent
