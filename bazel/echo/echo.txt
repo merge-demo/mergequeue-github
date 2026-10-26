@@ -1560,7 +1560,7 @@ eggnog
 exareolate
 embrasures
 eggrolls
-eggs
+eggs 1
 emplastra
 excerptive
 encyclopedial
