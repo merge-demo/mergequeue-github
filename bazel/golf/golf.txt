@@ -7184,7 +7184,7 @@ gospoda
 gillotage
 granuloma
 gonomery
-geniuses
+geniuses 1
 geelbeck
 grassier
 galactophorous
