@@ -8232,7 +8232,7 @@ divers
 damasked
 dissectors
 dulcor
-diorism
+diorism 1
 diadochic
 diadochite
 diadochokinesia
