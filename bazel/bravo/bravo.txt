@@ -15109,7 +15109,7 @@ berlina
 breviconic
 bunkered
 brevilingual
-bestirring
+bestirring 1
 besmearer
 breviloquent
 blimp
