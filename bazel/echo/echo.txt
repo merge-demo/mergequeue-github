@@ -5324,7 +5324,7 @@ emeriti
 epicoracoidal
 eustachium
 enravishes
-externes
+externes 1
 erectors
 ernest
 estocs
