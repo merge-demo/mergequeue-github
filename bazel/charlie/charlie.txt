@@ -22089,7 +22089,7 @@ couvert
 conformations
 canoe
 cedrium
-conformator
+conformator 1
 conformed
 conformer
 coercibleness
