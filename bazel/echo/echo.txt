@@ -4037,7 +4037,7 @@ erosionally
 emendatory
 episporium
 ergotization
-empyemata
+empyemata 1
 empyemic
 empiercement
 evirato
