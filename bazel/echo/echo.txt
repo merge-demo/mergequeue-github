@@ -3908,7 +3908,7 @@ exterminating
 eminent
 easternized
 esperance 1
-eminently
+eminently 1
 enamored
 expressionless
 executorship
