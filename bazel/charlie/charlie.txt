@@ -24428,7 +24428,7 @@ cuissart
 cilioscleral
 cooperatives
 coopered
-cooperia
+cooperia 1
 cooperies
 coopering
 checksummed
