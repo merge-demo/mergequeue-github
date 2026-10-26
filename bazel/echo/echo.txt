@@ -9739,7 +9739,7 @@ emotionable
 eomecon
 eastlings
 entotrophi 1
-entitles
+entitles 1
 eradiates
 enodal
 equisonance
