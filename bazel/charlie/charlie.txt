@@ -29469,7 +29469,7 @@ crystallites
 coilyear
 constabless
 cyprinus
-coprides
+coprides 1
 cherishingly
 crystallizable
 crystallization
