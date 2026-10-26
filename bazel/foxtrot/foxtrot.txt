@@ -33,7 +33,7 @@ fieldmen
 fibrolitic
 fibrocyst
 fabricates
-fabricator
+fabricator 1
 formularize
 flintless
 furies
