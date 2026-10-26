@@ -21530,7 +21530,7 @@ cubital
 cupromanganese
 concubinary
 coeducation
-concubinarian
+concubinarian 1
 chondropterygii
 concubinate
 chatelaine
