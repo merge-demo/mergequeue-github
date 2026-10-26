@@ -9638,7 +9638,7 @@ epacris
 espagnole
 elaeagnus
 enfrai
-esparsette
+esparsette 1
 encloud
 embost
 espartos
