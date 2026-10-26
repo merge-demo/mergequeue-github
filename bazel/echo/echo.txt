@@ -6369,7 +6369,7 @@ enshawl
 espace
 ensheathe
 excitomotion
-eburna
+eburna 1
 ensheathing
 eruditely
 endoangiitis
