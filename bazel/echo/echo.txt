@@ -2982,7 +2982,7 @@ eligibles
 entrecotes
 equipede
 elbowchair
-enjoining
+enjoining 1
 encephalopsychesis
 exister
 extraovate

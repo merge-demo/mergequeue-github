@@ -10217,7 +10217,7 @@ fluoroscopically
 fatherlands
 fasciodesis
 frat
-freakily
+freakily 1
 flunkers
 funders
 frogmarch
