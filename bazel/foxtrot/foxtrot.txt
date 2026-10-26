@@ -8091,7 +8091,7 @@ forenews
 faunistic
 foyboat
 fulminated
-foveolae
+foveolae 1
 funkiest
 flatcar
 fingan
