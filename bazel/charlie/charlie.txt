@@ -27551,7 +27551,7 @@ cerberean
 covercle
 coprolalia
 carangidae
-covered
+covered 1
 coverer
 campfire
 coverings
