@@ -14053,7 +14053,7 @@ extravagance
 extravagantly
 enchantingly
 euemerism
-emulsibility
+emulsibility 1
 extravaganza
 eutectoid
 extravaginal
