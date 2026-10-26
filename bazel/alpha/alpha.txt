@@ -23538,7 +23538,7 @@ auksinas
 allotropy
 andalusite
 aldeia
-amidocapric
+amidocapric 1
 advents
 algedi
 alizarate
