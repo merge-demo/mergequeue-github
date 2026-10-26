@@ -3604,7 +3604,7 @@ embowelling
 egocentric
 esperantism
 exhibits
-expostulatingly
+expostulatingly 1
 epitomically
 embows
 exanimate
