@@ -3745,7 +3745,7 @@ glabellae
 griffons
 gasterothecal
 gallein
-glinse
+glinse 1
 goonie
 graveldiver
 geometdecrne
