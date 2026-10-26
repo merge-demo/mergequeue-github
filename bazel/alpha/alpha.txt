@@ -19097,7 +19097,7 @@ amendable
 anthocyanidin
 acetaminophen
 archpriestship
-archprimate
+archprimate 1
 acroataxia
 archregent
 archrogue
