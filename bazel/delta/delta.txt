@@ -6266,7 +6266,7 @@ dividable
 defenser
 dermatomere
 dermatomyces
-deploredness
+deploredness 1
 diplokaryon
 dweeble
 debat
