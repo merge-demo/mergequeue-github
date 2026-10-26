@@ -6569,7 +6569,7 @@ bahima
 berberidaceae
 broils
 berberidaceous
-berberis
+berberis 1
 berberry
 brunizem
 bournous
