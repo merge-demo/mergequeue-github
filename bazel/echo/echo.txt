@@ -958,7 +958,7 @@ equilibristic
 ecumenicism
 expulser
 embalming
-entailments
+entailments 1
 emanator
 euchrone
 effronteries

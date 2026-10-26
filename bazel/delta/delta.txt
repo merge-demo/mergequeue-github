@@ -15473,7 +15473,7 @@ dona
 danker
 donaciform
 donack
-dowsed
+dowsed 1
 daishiki
 defibrillate
 deduit
