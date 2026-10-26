@@ -3841,7 +3841,7 @@ demodocus
 diremption
 dentalised
 disappointingly
-dukedom
+dukedom 1
 deinstitutionalization
 didactylism
 demagnetizable
