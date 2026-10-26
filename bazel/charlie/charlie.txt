@@ -21597,7 +21597,7 @@ condensaries
 condensates
 cultivars
 crick
-condensation
+condensation 1
 condensator
 corbeled
 crateris
