@@ -22964,7 +22964,7 @@ adiabatically
 atriocoelomic
 atriopore
 atrip
-asthenopic
+asthenopic 1
 argyraspides 1
 asquat
 archaical
