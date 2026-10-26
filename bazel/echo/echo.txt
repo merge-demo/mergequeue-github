@@ -4511,7 +4511,7 @@ encephalographic
 ekphorize
 episematic
 earlock
-enamelling
+enamelling 1
 euchysiderite 1
 esthesiophysiology
 elsewhat
