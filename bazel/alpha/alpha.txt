@@ -17083,7 +17083,7 @@ antistes
 administrant
 atomic
 apodemas
-autogamy
+autogamy 1
 asportation
 apodematal
 abstinence
