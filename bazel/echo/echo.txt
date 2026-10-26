@@ -2075,7 +2075,7 @@ enantiopathia
 extravenate
 encampments
 enthusiasm
-embalm
+embalm 1
 enterocinesia
 elaphurus
 enology
