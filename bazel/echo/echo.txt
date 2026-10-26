@@ -4143,7 +4143,7 @@ enrooting
 eslabon
 entangler
 envisaged
-endives
+endives 1
 exedral
 epirote
 eiffel
