@@ -167,7 +167,7 @@ faradopalpation
 fictionary
 felaheen
 foreribs
-farcialize
+farcialize 1
 formicaroid
 factionistism
 flirtatious
