@@ -1497,7 +1497,7 @@ explanatorily
 exonarthex
 epics
 endosiphonate
-equippers
+equippers 1
 estivate
 eclegme 1
 effusively
