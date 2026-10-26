@@ -584,7 +584,7 @@ eurypelma
 ecclesiastes
 electrostatically
 excommunicates
-electromeric
+electromeric 1
 elocutionize
 egomanias
 electrodynamics
