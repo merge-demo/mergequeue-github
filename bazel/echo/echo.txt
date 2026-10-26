@@ -913,7 +913,7 @@ endosporous
 eriodictyon
 ectotoxin
 exampled
-exegesist
+exegesist 1
 epilogistic
 enteritidis
 echinoids
