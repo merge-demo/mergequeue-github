@@ -3536,7 +3536,7 @@ gracile
 gawish
 garotting
 gunkholed
-gibbsites
+gibbsites 1
 gumbotils
 gapo
 glucogene
