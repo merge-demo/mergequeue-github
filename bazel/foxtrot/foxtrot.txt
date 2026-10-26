@@ -11744,7 +11744,7 @@ foliiform
 flneur
 foresin
 fremdly
-florimanist
+florimanist 1
 flanking
 followings
 factorage
