@@ -25259,7 +25259,7 @@ corkages
 corkboard
 conventionalized
 chachapuya
-corker
+corker 1
 corkers
 corkier
 chytridiaceous
