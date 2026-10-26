@@ -24549,7 +24549,7 @@ autosauri
 auxinically
 anaconda
 anisated
-amober
+amober 1
 auxoamylase
 autofecundation
 auxocardia

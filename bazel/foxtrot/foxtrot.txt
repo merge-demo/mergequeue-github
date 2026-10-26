@@ -2752,7 +2752,7 @@ ficary
 festered
 faliscan
 frizer
-friedelite
+friedelite 1
 foreparts
 fights
 festerment 1
