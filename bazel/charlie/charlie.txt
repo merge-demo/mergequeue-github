@@ -16018,7 +16018,7 @@ cleuks
 cephaletron
 caleche
 comprizal
-cleve
+cleve 1
 cleveite
 confiscatory
 clever
