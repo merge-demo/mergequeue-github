@@ -7310,7 +7310,7 @@ goyetian
 gambled
 ganglion
 gyrostatic
-genet
+genet 1
 gutturally
 guze
 gravelling
