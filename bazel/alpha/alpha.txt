@@ -10928,7 +10928,7 @@ atafter
 amoyan 1
 amobyr
 abel
-amoebaea
+amoebaea 1
 avowable
 alipata
 artlike
