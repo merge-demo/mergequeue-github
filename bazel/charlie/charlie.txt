@@ -12211,7 +12211,7 @@ chrysology
 carapa
 chattelized
 cupbearers
-chrysome
+chrysome 1
 chrysomyia
 chrysomonadales
 copihues
