@@ -7512,7 +7512,7 @@ glitzy
 glabellous
 gryllus
 gubernaculum
-grigri
+grigri 1
 graypate
 gemstones
 giggling
