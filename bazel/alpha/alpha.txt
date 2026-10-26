@@ -83,7 +83,7 @@ abama
 akhara
 abecedary
 aband
-abandon
+abandon 1
 androecial
 amphipods
 abandoned
