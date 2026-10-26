@@ -1580,7 +1580,7 @@ disposition
 determinatively
 desitive
 disembody
-deadlocking
+deadlocking 1
 decipolar
 duplicia
 direfulness
