@@ -17029,7 +17029,7 @@ cortisone
 cnidopod
 conoids
 confoundable
-cardiacs
+cardiacs 1
 capernoity
 coabode
 colliquative
