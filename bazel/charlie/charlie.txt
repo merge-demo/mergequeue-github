@@ -9250,7 +9250,7 @@ compel
 chatsome
 chattah
 chattanooga
-cemeteries
+cemeteries 1
 colliers
 cenanthous
 conceptualists
