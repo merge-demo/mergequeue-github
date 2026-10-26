@@ -15696,7 +15696,7 @@ doppio
 dactyloscopy
 dissipators
 dorab
-daiquiris
+daiquiris 1
 divaporation 1
 discriminatorily
 dorad
