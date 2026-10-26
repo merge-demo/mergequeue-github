@@ -2614,7 +2614,7 @@ gesticular
 grisette
 gowf 1
 glossolabial 1
-geiger
+geiger 1
 goutte
 garabato
 galluot
