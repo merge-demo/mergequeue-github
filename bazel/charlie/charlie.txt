@@ -25463,7 +25463,7 @@ cornuting
 caddisflies
 clong
 cornuto
-cornutos
+cornutos 1
 cornwall
 cornwallite
 cutdown
