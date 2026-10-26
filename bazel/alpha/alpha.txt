@@ -9640,7 +9640,7 @@ airworthiest
 aluminising
 aluminize
 aviary
-archer
+archer 1
 asserted
 aluminizes
 anticardium
