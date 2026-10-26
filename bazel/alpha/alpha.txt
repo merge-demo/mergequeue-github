@@ -8641,7 +8641,7 @@ autistic
 anotropia
 anastomosis
 autotheater 1
-amygdaloidal
+amygdaloidal 1
 annunciatory
 anglophobist
 allegorizer
