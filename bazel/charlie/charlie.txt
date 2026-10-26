@@ -14206,7 +14206,7 @@ chrysomonad
 circumducing
 circumducted
 coastguard
-circumesophageal
+circumesophageal 1
 circumfer
 circumferential
 circumferentially
