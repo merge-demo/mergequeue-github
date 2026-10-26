@@ -16259,7 +16259,7 @@ draughtswomanship
 deforest
 deteriorate
 downface
-downstair
+downstair 1
 duodenocystostomy
 dacryolite
 dipsaceous
