@@ -24530,7 +24530,7 @@ aerophile
 abstrude
 aglaos
 athwart
-abbreviatable
+abbreviatable 1
 auxiliaries
 abigailship
 acinuni
