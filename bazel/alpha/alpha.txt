@@ -10552,7 +10552,7 @@ amidulin
 abnegating
 absinthiating
 amyelencephalous
-actionizing
+actionizing 1
 apomictically
 adenoidism
 aviator
