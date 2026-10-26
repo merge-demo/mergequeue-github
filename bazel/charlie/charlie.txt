@@ -14369,7 +14369,7 @@ corkwoods
 crepitant
 circumvallation 1
 circumvented
-circumventing
+circumventing 1
 circumvention
 circumventions
 camphor
