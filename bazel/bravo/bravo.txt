@@ -3456,7 +3456,7 @@ basts
 banuyo
 basural
 bovarism
-basuto
+basuto 1
 bancos
 buphaga
 bander
