@@ -1536,7 +1536,7 @@ foetuses
 fauterer
 fauteuil
 fussy
-foreteach
+foreteach 1
 farrow
 forepayment
 frundel
