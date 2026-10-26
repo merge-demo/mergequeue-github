@@ -915,7 +915,7 @@ absolutest
 argyrose 1
 actinopterygii
 antiopium
-apostrophi
+apostrophi 1
 absolutist
 absolutize
 absolutory
