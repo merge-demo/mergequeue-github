@@ -750,7 +750,7 @@ effaces
 endermatic
 effascinate
 exuvium
-ecotype
+ecotype 1
 ecotipically
 ecotypically
 ecotonal
