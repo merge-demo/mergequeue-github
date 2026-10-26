@@ -6667,7 +6667,7 @@ berimed
 beseemly
 berimes
 bradypnoea
-bering
+bering 1
 beneficences
 broughtas
 burghs

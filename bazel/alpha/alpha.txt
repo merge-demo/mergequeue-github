@@ -4281,7 +4281,7 @@ anneslia
 acilius
 adrench
 adrenergic 1
-allegate
+allegate 1
 adrenin
 addu
 adrenitis
