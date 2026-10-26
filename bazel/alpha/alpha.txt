@@ -22525,7 +22525,7 @@ antelopian
 antivirotic
 accessioned
 atavi
-anansi
+anansi 1
 atavic
 atmoclastic
 auxesis
