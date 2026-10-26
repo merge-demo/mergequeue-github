@@ -2494,7 +2494,7 @@ candidacy
 candidacies
 careeristic
 collinal 1
-coontie
+coontie 1
 colage
 candidated
 candidates
