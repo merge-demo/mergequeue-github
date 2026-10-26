@@ -362,7 +362,7 @@ flattering
 fiercening
 faults
 featherway
-finspot
+finspot 1
 fungales
 foredenounce
 fibrolipoma
