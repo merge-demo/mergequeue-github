@@ -17016,7 +17016,7 @@ caryatides
 cneorum
 cytotrophy
 cnicin
-cnidae
+cnidae 1
 cnidarian
 cnidian
 crayoned
