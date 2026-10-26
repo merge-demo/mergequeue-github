@@ -15952,7 +15952,7 @@ antiquarianism
 antelope
 anticonscience
 articulationist
-ascensor
+ascensor 1
 andantes
 antiquarianize
 anachronism
