@@ -1627,7 +1627,7 @@ giblet
 gastralgia
 gastreas
 glaucosuria
-gyrinid 1
+gyrinid 2
 gaucheness
 glassteel
 gravitational
