@@ -3029,7 +3029,7 @@ dochmius
 dermapteran
 deeper
 dealings
-dies
+dies 1
 dismantling
 deepfreeze
 dilettantish
