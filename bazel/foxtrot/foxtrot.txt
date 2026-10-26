@@ -6858,7 +6858,7 @@ folkish
 faradizes
 fierasferidae
 foliose
-flachery
+flachery 1
 flittingly
 foliot
 floribunda
