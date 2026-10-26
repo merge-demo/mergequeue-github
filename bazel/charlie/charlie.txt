@@ -699,7 +699,7 @@ colometry
 caffeol
 chrysography
 caffeone
-caffetannic
+caffetannic 1
 caballed
 caffetannin
 cloyingness
