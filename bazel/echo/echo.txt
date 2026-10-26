@@ -3865,7 +3865,7 @@ estivator
 eggcupful
 emersonianism
 emesa
-emeses
+emeses 1
 effigiate
 epalpate
 ethnobotanical
