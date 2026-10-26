@@ -1834,7 +1834,7 @@ gratility
 gaggling
 gouts
 gemmiparity
-guinean
+guinean 1
 gullah
 gingiva
 gatekeeper
