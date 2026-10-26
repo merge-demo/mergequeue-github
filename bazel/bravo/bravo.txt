@@ -17111,7 +17111,7 @@ bulletlike
 burghmote
 braconniere
 breadseller
-bacteric
+bacteric 1
 bombazeen
 bulletproofing
 blowhard
