@@ -738,7 +738,7 @@ cephalata
 cordylanthus
 cageless
 cagelike
-canorous
+canorous 1
 cycloses
 cageman
 caranda 1
