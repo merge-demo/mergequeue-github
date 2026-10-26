@@ -6443,7 +6443,7 @@ downwards
 disinfection
 desaccharification
 defalcation
-decarburisation
+decarburisation 1
 dozened
 desacralization
 drizzled
