@@ -12670,7 +12670,7 @@ exogenetic
 enkolpion
 exometritis
 elychnious
-excogitate
+excogitate 1
 endeavors
 echo
 erotized
