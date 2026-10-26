@@ -9247,7 +9247,7 @@ femality
 fichat
 feretra
 forfend
-fraise
+fraise 1
 fortunately
 fraised
 frug
