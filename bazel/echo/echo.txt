@@ -2011,7 +2011,7 @@ epidemics
 ektenes
 expeditious
 endmatcher
-excitableness
+excitableness 1
 epilate
 ektexine
 elabor
