@@ -13467,7 +13467,7 @@ ahnfeltia
 annexa
 attitudist
 annexation
-annexational
+annexational 1
 areaways
 alette
 annexationism
