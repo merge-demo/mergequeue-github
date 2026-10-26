@@ -5117,7 +5117,7 @@ fainness
 flashgun
 fifteenth
 factitive
-fict
+fict 1
 furnishment
 furculae
 flashiest
