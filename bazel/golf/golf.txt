@@ -6078,7 +6078,7 @@ guly 1
 gonzo
 gallature
 grinding 1
-gnathostomata
+gnathostomata 1
 gastrocnemial
 gypsography
 gph
