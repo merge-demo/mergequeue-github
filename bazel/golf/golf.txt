@@ -1569,7 +1569,7 @@ gypsumed 1
 grana
 gentlemens
 gasser
-glutelin
+glutelin 1
 gripe
 glassless
 ghegish
