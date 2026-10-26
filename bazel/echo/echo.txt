@@ -14023,7 +14023,7 @@ epitrophic
 electromotive
 exr
 enthrallingly
-enteroclisis
+enteroclisis 1
 extractorship
 extrasterile
 extrastomachal
