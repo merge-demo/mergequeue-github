@@ -9927,7 +9927,7 @@ airers
 ascolichenes
 adminiculate
 abducens
-anticlastic
+anticlastic 1
 auricled
 amativeness 1
 arcing
