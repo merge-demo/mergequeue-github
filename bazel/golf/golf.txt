@@ -3802,7 +3802,7 @@ galliass
 grungier
 gastrosuccorrhea
 gibbosely
-goosepimply
+goosepimply 1
 gibbous
 gentilesse
 ganching
