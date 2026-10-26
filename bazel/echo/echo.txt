@@ -13582,7 +13582,7 @@ enjoinder
 embroiders
 epoxides
 elementally
-excern
+excern 1
 enteroceptor
 endosteomas
 extance
