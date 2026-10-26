@@ -2765,7 +2765,7 @@ ferrimagnet
 festy
 festilogies
 feddans
-festinance
+festinance 1
 festoonery
 foretellable
 familistere
