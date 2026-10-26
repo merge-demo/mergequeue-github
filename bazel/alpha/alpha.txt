@@ -5825,7 +5825,7 @@ agatizes
 agatizing
 agatoid
 alarbus
-agaze
+agaze 1
 agallop
 agedness
 agee
