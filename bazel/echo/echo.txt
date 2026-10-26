@@ -2972,7 +2972,7 @@ emaciate
 elides
 electrotropism
 europiums
-epistoler
+epistoler 1
 ekronite
 entomology
 elidible
