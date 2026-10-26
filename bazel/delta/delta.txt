@@ -3633,7 +3633,7 @@ douzeper
 disked
 deontological
 degging
-devices
+devices 1
 deglamorizing
 doubtlessly
 disrespectfulness
