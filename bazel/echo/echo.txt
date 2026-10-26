@@ -2136,7 +2136,7 @@ elastivity
 eleusine
 externat
 emperish 1
-equilibrio
+equilibrio 1
 epipubes
 equiangle
 elastomers 1
