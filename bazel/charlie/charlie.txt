@@ -7526,7 +7526,7 @@ calelectricity
 cercaria
 corticosterone
 chivvy
-canroyer
+canroyer 1
 caressing
 cacoenthes
 cercarial
