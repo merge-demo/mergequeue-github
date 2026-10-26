@@ -7486,7 +7486,7 @@ freakiest
 florally
 faultlessness
 faltered
-flatuses
+flatuses 1
 fluor
 fourbagger
 fluellin
