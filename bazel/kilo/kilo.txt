@@ -4872,7 +4872,7 @@ khinstkb 1
 khinthxpw
 khioct
 khipcid
-khipf
+khipf 1
 khiqa
 khira
 khissjcvkafxouur
