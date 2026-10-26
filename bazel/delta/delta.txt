@@ -3581,7 +3581,7 @@ dakoities
 dissociative
 degage
 degames
-deganglionate
+deganglionate 1
 dystome
 degasify
 duco
