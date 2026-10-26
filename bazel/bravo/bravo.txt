@@ -7467,7 +7467,7 @@ blackmailer
 babushkas
 basebred
 betulinic
-bipyramidal
+bipyramidal 1
 betumbled
 blitheful
 balconied
