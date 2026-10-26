@@ -9522,7 +9522,7 @@ flavonol
 furcilia
 flitches
 farcinoma
-flawn
+flawn 1
 freaks
 fatiguingly
 forested

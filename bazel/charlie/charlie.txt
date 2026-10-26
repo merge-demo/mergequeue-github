@@ -12144,7 +12144,7 @@ chrysalida
 cascarilla
 chrysaline
 chromophilous
-chrysalis
+chrysalis 1
 chrysalises
 cardiaplegia
 chrysaloid
