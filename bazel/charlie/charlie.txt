@@ -19589,7 +19589,7 @@ camphors
 columnarian
 calamaries
 columnate
-centimolar
+centimolar 1
 cupseed
 columnates
 columnation
