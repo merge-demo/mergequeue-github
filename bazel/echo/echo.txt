@@ -7054,7 +7054,7 @@ eglatere
 enepidermic
 editorials
 eliquate
-excorticated
+excorticated 1
 ephods
 enheritance
 exclamation
