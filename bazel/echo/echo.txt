@@ -10106,7 +10106,7 @@ exploitee
 elenchically
 eumolpus
 eutopia
-euphausiacea
+euphausiacea 1
 entities
 ethereality
 epiboly 1
