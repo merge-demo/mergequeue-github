@@ -10851,7 +10851,7 @@ enchase
 eisteddfodau
 euphotic
 entailable
-equitability 1
+equitability 2
 eructation
 ereption
 euphemian
