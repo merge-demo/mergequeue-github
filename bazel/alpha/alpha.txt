@@ -1113,7 +1113,7 @@ aluminish
 ataghans
 abuttals
 abetting
-allegros
+allegros 1
 abwab
 aureateness
 ac
