@@ -9666,7 +9666,7 @@ fruit
 fowled
 flipflop
 foretoken
-faldstool
+faldstool 1
 fringe
 fouquieria
 foldouts
