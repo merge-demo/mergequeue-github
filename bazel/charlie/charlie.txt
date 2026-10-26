@@ -574,7 +574,7 @@ councilors
 convokes
 colloque
 confort
-caduac
+caduac 1
 cruiseway
 commilitant 1
 catalineta
