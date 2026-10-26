@@ -9014,7 +9014,7 @@ allotypes
 annotates
 acidified
 anthroropolith
-angelon
+angelon 1
 allineate
 annulata
 akoluthia
