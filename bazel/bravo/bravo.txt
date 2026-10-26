@@ -17144,7 +17144,7 @@ baselike
 bestial
 bullier
 boreades
-beltir
+beltir 1
 backheel
 bodier
 bim
