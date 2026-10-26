@@ -23536,7 +23536,7 @@ assagai
 accipenser
 auksinas
 allotropy
-andalusite
+andalusite 1
 aldeia
 amidocapric
 advents
