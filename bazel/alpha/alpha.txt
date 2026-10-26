@@ -10541,7 +10541,7 @@ ameliorativ
 amidoplast
 amidoplastid
 amidoxyl
-australopithecinae
+australopithecinae 1
 anagrammatize
 amids
 apolarity
