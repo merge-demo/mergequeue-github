@@ -5315,7 +5315,7 @@ ethylmorphine
 excretolic
 enslaves
 endocorpuscular
-endorsed
+endorsed 1
 enchantress
 emendating
 effector
