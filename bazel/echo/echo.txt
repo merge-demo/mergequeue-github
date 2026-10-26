@@ -10089,7 +10089,7 @@ ethenol
 eyecups
 ensorcelize
 eschatocol
-ebb
+ebb 1
 erythrosin
 etheostominae
 elytroid
