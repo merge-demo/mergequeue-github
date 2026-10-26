@@ -17209,7 +17209,7 @@ decemberish
 drivelingly
 driveller
 deutonymphal
-drivellingly
+drivellingly 1
 devulcanization
 drivenness
 drivepipe
