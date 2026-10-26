@@ -6640,7 +6640,7 @@ agorae
 aikane
 automatictacessing
 aikido
-amatories
+amatories 1
 anarcestean
 ably
 aikinite
