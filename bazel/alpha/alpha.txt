@@ -15441,7 +15441,7 @@ anhedonic
 afterstrain
 adversa
 argenton
-adjurations
+adjurations 1
 airliners
 alogical
 antimechanism 1
