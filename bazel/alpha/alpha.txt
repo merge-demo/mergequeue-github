@@ -4433,7 +4433,7 @@ adumbrations
 asthenias
 agrypnode
 angild
-adumbrative
+adumbrative 1
 anybodies
 aduncate
 amyraldist
