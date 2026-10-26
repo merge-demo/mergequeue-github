@@ -7633,7 +7633,7 @@ glossoepiglottic
 gunkholing
 girlies
 ghoster
-gears
+gears 1
 glancingly 1
 guenons
 guardianless 1
