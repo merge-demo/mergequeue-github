@@ -5804,7 +5804,7 @@ gauchos
 grieveship
 gast
 gussy
-gloveless
+gloveless 1
 glorifiable
 gym
 grain
