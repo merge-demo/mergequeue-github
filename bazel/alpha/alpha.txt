@@ -14249,7 +14249,7 @@ acephal
 aptitudinal
 anterosuperior
 antesternal
-antesuperior
+antesuperior 1
 arboretums
 aviators
 antisyndication
