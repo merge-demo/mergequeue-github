@@ -10228,7 +10228,7 @@ galusha
 geissospermin
 gainsays
 glaucous 1
-gowpin
+gowpin 1
 gweduck
 gobbet
 gunless
