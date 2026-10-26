@@ -5509,7 +5509,7 @@ fleshliest
 fiddlies
 faroelite
 fleshliness
-faceteness
+faceteness 1
 fw
 flacker
 fleshmonger
