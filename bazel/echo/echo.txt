@@ -8358,7 +8358,7 @@ enthrallments
 educative
 excitomotory
 estivated
-exclusory
+exclusory 1
 endiadem
 epithyme
 extacie
