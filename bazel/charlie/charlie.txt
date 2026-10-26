@@ -9718,7 +9718,7 @@ censer
 cheyneys
 cankeredly
 cimex
-chromotype
+chromotype 1
 cheiranthus
 cheirogaleus
 cheirography
