@@ -1313,7 +1313,7 @@ densified 1
 dryermen
 declinate
 disfranchisements
-dauding
+dauding 1
 dicotyledones
 dogate
 directest
