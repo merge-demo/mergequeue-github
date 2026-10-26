@@ -13724,7 +13724,7 @@ acquiet
 anaesthatic
 anutraminosa
 anomie
-apparatchik
+apparatchik 1
 andorran
 anomodont
 aythya
