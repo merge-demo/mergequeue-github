@@ -3502,7 +3502,7 @@ capsulectomy
 chloroforming
 centinody
 countershaft
-chappow
+chappow 1
 capsuliferous
 coldcock
 cheloniid
