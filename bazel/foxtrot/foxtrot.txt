@@ -3270,7 +3270,7 @@ freestanding
 fibrosity
 forthrightly
 faradizer
-foppery
+foppery 1
 flaught
 filbert
 freit
