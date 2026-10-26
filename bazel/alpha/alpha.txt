@@ -17040,7 +17040,7 @@ apocyte
 apocopate
 audiometrist
 apocopated
-alumian
+alumian 1
 artily
 alcid
 angulus
