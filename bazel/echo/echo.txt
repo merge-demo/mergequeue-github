@@ -1470,7 +1470,7 @@ epipleural
 envelop
 enfarce
 euxanthate
-euhemerism
+euhemerism 1
 efforts
 effraction
 eighths
