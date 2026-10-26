@@ -19409,7 +19409,7 @@ connoisseurs
 crosscurrents
 colorin
 coloring
-colorings
+colorings 1
 conges
 colorisms
 cystous
