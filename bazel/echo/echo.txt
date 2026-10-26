@@ -1050,7 +1050,7 @@ etchareottine
 excisable
 eyeless
 endoskeleton
-eqpt
+eqpt 1
 edgar
 expatiatory
 edgeboned
