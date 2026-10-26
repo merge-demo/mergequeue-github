@@ -9485,7 +9485,7 @@ disconfirmation
 decline
 dinornithidae
 digesting
-dodecadrachm
+dodecadrachm 1
 digestively 1
 dural
 digestiveness
