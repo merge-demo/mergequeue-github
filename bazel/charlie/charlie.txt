@@ -8827,7 +8827,7 @@ compensativeness
 clitoridectomies
 characeae
 clabbered
-characids
+characids 1
 cataria
 cheville
 characine
