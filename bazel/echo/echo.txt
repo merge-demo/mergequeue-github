@@ -1828,7 +1828,7 @@ eigenvalues
 eudemony
 evaginated
 effervescive
-ensouling
+ensouling 1
 encipherer
 elench
 eurypterida
