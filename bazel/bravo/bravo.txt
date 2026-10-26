@@ -10585,7 +10585,7 @@ bister
 brined
 bransle
 blatting
-blattodea
+blattodea 1
 blattoid
 brinny
 boresomely
