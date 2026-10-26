@@ -6679,7 +6679,7 @@ fortifier
 faqirs
 feted
 flyblow
-flores
+flores 1
 fogdogs
 frippery
 fairways
