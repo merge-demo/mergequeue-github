@@ -3570,7 +3570,7 @@ enervator
 exceeder
 equoid
 epicureanism
-erysipelatoid
+erysipelatoid 1
 exothermally
 epidesmine
 emboscata
