@@ -11812,7 +11812,7 @@ exauctorate
 empoisoned
 epiphytous
 enrolment
-elaphrium
+elaphrium 1
 euryon
 exaudi
 ethenoidal
