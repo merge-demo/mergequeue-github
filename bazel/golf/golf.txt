@@ -1367,7 +1367,7 @@ germanely
 green
 garments
 gerodermia
-gauss
+gauss 1
 ginners
 garglers
 graplins
