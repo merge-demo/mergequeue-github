@@ -12435,7 +12435,7 @@ entorganism
 exigently
 exhilaratingly
 encasserole
-endite
+endite 1
 easting
 epifaunas
 exhortations
