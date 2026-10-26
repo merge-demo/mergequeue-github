@@ -3024,7 +3024,7 @@ groped
 guaiacol
 gaulding
 ginglymoidal
-gregarinosis
+gregarinosis 1
 gloom
 geogenic
 gorily
