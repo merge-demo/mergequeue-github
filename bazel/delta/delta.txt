@@ -7542,7 +7542,7 @@ deuterogamy
 dihydromorphinone
 dreegh
 duniwassal
-deplorably
+deplorably 1
 dextrogyratory
 demidoctor
 dolichocranic
