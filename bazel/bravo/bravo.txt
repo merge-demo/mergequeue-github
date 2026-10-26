@@ -17391,7 +17391,7 @@ bejeled
 bungling
 bullit
 bungos
-bichromic
+bichromic 1
 bamboozler
 boychik
 baetylic
