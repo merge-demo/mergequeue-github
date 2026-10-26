@@ -12848,7 +12848,7 @@ anathematizes
 asemia
 awardable
 antefuture
-angiotonic
+angiotonic 1
 almoravide
 abjunction
 apinch
