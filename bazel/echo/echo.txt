@@ -9306,7 +9306,7 @@ estriate
 ericaceous
 enticeful
 espieglerie
-erubescent
+erubescent 1
 entelechy
 ecus
 electroori
