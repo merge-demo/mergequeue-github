@@ -7637,7 +7637,7 @@ amphicarpic 1
 antisepticist
 alcidine
 abstracter
-alcine
+alcine 1
 alphabetically
 atomist
 alcyonacean
