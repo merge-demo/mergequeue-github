@@ -2574,7 +2574,7 @@ declinational
 decasualization
 dipneumones
 dimmed
-distelfink
+distelfink 1
 dynasty
 declinatory
 disentwined
