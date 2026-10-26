@@ -1952,7 +1952,7 @@ curdling
 colletic
 camenes
 coveters
-confeder
+confeder 1
 cypriote
 crotalid
 checkered
