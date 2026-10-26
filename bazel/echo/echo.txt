@@ -13596,7 +13596,7 @@ electropyrometer
 expulsory
 ectad
 exiledom
-eyeblink
+eyeblink 1
 extemporary
 extemporisation
 ewing
