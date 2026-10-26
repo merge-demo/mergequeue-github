@@ -7692,7 +7692,7 @@ deviations
 dusting
 deviatory
 discission
-densimetrically
+densimetrically 1
 devil
 disciplinary
 devildom
