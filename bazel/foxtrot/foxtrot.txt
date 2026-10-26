@@ -1657,7 +1657,7 @@ farmerette
 focalises 1
 federate
 fuddledness
-fealty
+fealty 1
 fumigates
 forebrace
 flacourtiaceous
