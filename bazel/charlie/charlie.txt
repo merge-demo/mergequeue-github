@@ -6023,7 +6023,7 @@ catholicity
 condole
 ctenodontidae
 catholicize
-corotating
+corotating 1
 catholicly
 catholicness
 centricipital
