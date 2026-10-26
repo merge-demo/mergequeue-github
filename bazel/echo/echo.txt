@@ -5272,7 +5272,7 @@ enantiomeride
 extrascriptural
 escartelly
 euphuizing
-esphresis
+esphresis 1
 expenseless
 euphonium
 endopods
