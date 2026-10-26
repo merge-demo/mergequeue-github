@@ -2605,7 +2605,7 @@ foresheet
 ferromanganese
 ferrometer
 filagreed
-ferronatrite
+ferronatrite 1
 follis
 fluorouracil 1
 financiere

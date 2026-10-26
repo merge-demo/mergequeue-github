@@ -12595,7 +12595,7 @@ epsomite
 etymologist
 euphon
 ethion
-eunuchry
+eunuchry 1
 exocoelar
 exocoele
 excusing
