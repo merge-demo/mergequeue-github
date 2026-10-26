@@ -9665,7 +9665,7 @@ bismite
 bankrupcy
 bismuthal
 bumblefoot
-bismuthate
+bismuthate 1
 burhinus
 birchbark
 bismuthide

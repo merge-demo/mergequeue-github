@@ -19447,7 +19447,7 @@ autocarpian
 aseptate
 alleyed 1
 archaecraniate
-allative
+allative 1
 anallantoidea
 archaeoceti
 attempting
