@@ -623,7 +623,7 @@ bacteriolyze
 bacteriology
 breadnut
 bronchoaspergillosis
-betterness
+betterness 1
 biscuitmaking
 blinds
 bacteriologists
