@@ -4625,7 +4625,7 @@ exeunt
 elucubrate
 excellent
 exarchs
-egotists
+egotists 1
 equinities
 enchyma
 estheticism 1
