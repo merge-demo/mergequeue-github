@@ -10768,7 +10768,7 @@ femme
 footglove
 fustic
 fervent
-fatalism
+fatalism 1
 feretrum
 fashious
 fascisticize 1
