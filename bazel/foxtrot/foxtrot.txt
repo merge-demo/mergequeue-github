@@ -7029,7 +7029,7 @@ fons
 fauxbourdon
 folkloristic
 ferrum
-forgiveness
+forgiveness 1
 fontal
 freakout
 fulmining

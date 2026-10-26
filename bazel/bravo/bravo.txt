@@ -14097,7 +14097,7 @@ bistipular
 blot
 babbage
 blasters
-bugged
+bugged 1
 butsudan
 brekkle
 bumbaze
