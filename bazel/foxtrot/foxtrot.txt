@@ -10668,7 +10668,7 @@ fruitlets
 fainting
 foxy
 felsophyre
-forescent
+forescent 1
 feralin
 fivepenny
 fairstead
