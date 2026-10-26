@@ -9084,7 +9084,7 @@ alphyl
 amidoacetal
 anaeroplastic
 allround
-alls
+alls 1
 adolesce
 artabe
 appeasive
