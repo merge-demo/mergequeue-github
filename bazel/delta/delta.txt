@@ -10264,7 +10264,7 @@ decrepid
 denitrator
 dryops
 dositheans
-debateable
+debateable 1
 differentialize
 dermatologists
 deceasing
