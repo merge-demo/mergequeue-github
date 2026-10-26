@@ -3699,7 +3699,7 @@ embryonic
 encyrtidae
 erythromycin
 expectant
-elec
+elec 1
 eluates
 effluvium
 epitheliosis
