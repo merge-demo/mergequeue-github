@@ -13000,7 +13000,7 @@ debacchate
 dight
 distater
 dispand
-descaling
+descaling 1
 diphthongized
 deallocated
 doweries
