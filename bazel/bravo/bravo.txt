@@ -18024,7 +18024,7 @@ bellmouthed
 beautied
 busload
 busman
-bondmanship
+bondmanship 1
 busmen
 benda
 busses
