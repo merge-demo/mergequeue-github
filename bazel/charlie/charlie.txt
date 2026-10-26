@@ -27164,7 +27164,7 @@ cava
 countersurprise
 chrotta
 countersway
-countersworn
+countersworn 1
 countertack
 countertally
 countertaste
