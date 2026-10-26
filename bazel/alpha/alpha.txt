@@ -12771,7 +12771,7 @@ anaunter
 aubergine
 angiodermatitis
 angiodiascopy
-allegiare
+allegiare 1
 angiogeny
 anyway
 angiohemophilia
