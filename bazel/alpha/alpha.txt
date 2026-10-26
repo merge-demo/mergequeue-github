@@ -20478,7 +20478,7 @@ arterying
 angelin
 autoicous
 alkalous
-adusk
+adusk 1
 attempter
 agilmente
 ambushment
