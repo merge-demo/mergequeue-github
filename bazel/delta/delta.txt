@@ -10649,7 +10649,7 @@ dotingly
 dustcoat
 degeneration
 diploplaculate
-degarnish
+degarnish 1
 dolomize
 doon
 discoveries

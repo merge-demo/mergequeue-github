@@ -7585,7 +7585,7 @@ extemporal
 epichondrosis
 epichordal
 etiologically
-erosely
+erosely 1
 enterocoelous
 ensnarled
 ensouls
