@@ -28363,7 +28363,7 @@ crawl
 crawled
 cuterebra
 crawley
-chaptalized
+chaptalized 1
 cierzos
 contributing
 crawlerize
