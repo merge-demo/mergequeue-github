@@ -17046,7 +17046,7 @@ bulkheading
 bulky
 bulkier 1
 bulkily
-bitterweed
+bitterweed 1
 befavour
 bihydrazine
 bulkish
