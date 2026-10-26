@@ -1090,7 +1090,7 @@ fudgy
 fishling
 fastback
 farrisite
-fleerish
+fleerish 1
 firehalls
 figulate
 forthcame
