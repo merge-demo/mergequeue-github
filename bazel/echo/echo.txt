@@ -2454,7 +2454,7 @@ encipher
 epoist
 enslavements
 exquisiteness
-exterminist
+exterminist 1
 electroextraction
 euchological
 effulgences
