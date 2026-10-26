@@ -4850,7 +4850,7 @@ encountered
 epigenesist
 endothecium
 entranceway
-encashing
+encashing 1
 encountering
 eros
 ethical
