@@ -8721,7 +8721,7 @@ esculapian
 emulsifies
 equitableness
 employee
-equitative
+equitative 1
 electrican
 experimentee
 experimentator
