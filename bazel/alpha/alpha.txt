@@ -14482,7 +14482,7 @@ anthrophore
 anthropical
 acquisition
 anthropobiology
-apneumatosis
+apneumatosis 1
 automaton
 anthropocentric
 absvolt
