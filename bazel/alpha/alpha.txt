@@ -7283,7 +7283,7 @@ animas
 alarum
 alarumed
 atmiatry
-antitypically
+antitypically 1
 alaruming
 astrand
 antepaschel
