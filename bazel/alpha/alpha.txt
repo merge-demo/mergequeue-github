@@ -11951,7 +11951,7 @@ anaemias
 apostrophal
 anaphylactin
 anaphylactogenic
-anaphylatoxin
+anaphylatoxin 1
 apectomy
 anaphyte
 alkoxide
