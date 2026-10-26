@@ -2595,7 +2595,7 @@ adjacent
 acquest
 armenite
 actutate
-applies
+applies 1
 arriswise
 acquiesce
 addiction
