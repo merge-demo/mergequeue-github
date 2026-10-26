@@ -9470,7 +9470,7 @@ electives
 eliquation
 exsculp
 electronic
-extroverted
+extroverted 1
 escortage
 ekaboron
 emergences

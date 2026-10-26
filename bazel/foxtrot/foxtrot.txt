@@ -8283,7 +8283,7 @@ fortunate
 flirting
 farmings
 fractious
-feists
+feists 1
 flump
 forehoof
 frontlets
