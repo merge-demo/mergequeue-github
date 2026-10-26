@@ -25122,7 +25122,7 @@ combinantive
 corers
 cores
 carbonates
-chlorospinel
+chlorospinel 1
 coresign
 coresonant
 convento
