@@ -16077,7 +16077,7 @@ antisavage
 antiscabious
 aquatint
 aortectasia
-amphichromy
+amphichromy 1
 adminiculum
 antiscale
 arteritis
