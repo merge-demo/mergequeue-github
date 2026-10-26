@@ -7926,7 +7926,7 @@ ethonone
 euphemistic 1
 eclampsia
 enclavement
-excoriable
+excoriable 1
 enneastylar
 engender
 enframes
