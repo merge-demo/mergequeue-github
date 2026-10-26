@@ -13325,7 +13325,7 @@ eyewear
 encomendero
 expone
 ephoralty
-exponency
+exponency 1
 extrared
 educated
 exponentiates
