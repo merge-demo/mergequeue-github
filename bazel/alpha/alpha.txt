@@ -177,7 +177,7 @@ arizona
 antepagments
 abave
 anaberoga
-allosematic
+allosematic 1
 apagogical
 apoembryony
 autoschediaze
