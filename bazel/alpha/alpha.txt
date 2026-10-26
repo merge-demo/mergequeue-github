@@ -8810,7 +8810,7 @@ acetylcholinesterase
 afforests
 acescents
 alodial
-antisensuously
+antisensuously 1
 allium
 alliums
 antiministerialist
