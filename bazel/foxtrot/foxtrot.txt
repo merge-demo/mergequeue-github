@@ -6168,7 +6168,7 @@ fragmentized
 finality
 flowerage
 fluxation
-forever
+forever 1
 flowerers
 fumiferana
 future
