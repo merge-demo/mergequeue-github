@@ -2208,7 +2208,7 @@ campo
 creedbound
 campodeoid
 campong
-campongs
+campongs 1
 convincing
 counterclaiming
 cheiropodist
