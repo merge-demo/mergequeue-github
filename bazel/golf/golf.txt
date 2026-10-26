@@ -6473,7 +6473,7 @@ goldfinny
 gypsoplast
 guising
 gardenesque
-goldy
+goldy 1
 glimmerous
 galahads
 guileless
