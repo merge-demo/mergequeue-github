@@ -17436,7 +17436,7 @@ calimancos
 colibacterin
 chirps
 consolers
-cobaltocyanic
+cobaltocyanic 1
 cobalts
 carbineers
 chokeable
