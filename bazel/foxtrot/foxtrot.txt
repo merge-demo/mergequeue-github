@@ -5915,7 +5915,7 @@ ferruginate 1
 fusibility
 flocs
 frontomalar
-facilely
+facilely 1
 folliculosis
 forjesket
 frostbites
