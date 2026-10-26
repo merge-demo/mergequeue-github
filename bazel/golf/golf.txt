@@ -6706,7 +6706,7 @@ gromatic
 gibbergunyah
 gymnosperm
 grattage
-gewgawed
+gewgawed 1
 growse
 grittle
 gardenize
