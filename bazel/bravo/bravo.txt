@@ -10010,7 +10010,7 @@ bushranger
 bedeviled
 battuto
 becrusted 1
-boors
+boors 1
 benefiter
 bywalking
 buckleya
