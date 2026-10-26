@@ -8402,7 +8402,7 @@ entertain
 ethylenation
 elroquite
 exindusiate
-epitrope
+epitrope 1
 exclusionism
 epivalve
 elatcha
