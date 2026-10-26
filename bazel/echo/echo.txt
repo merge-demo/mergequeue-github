@@ -12847,7 +12847,7 @@ eisteddfods
 enumerations
 evangelistship
 efecks
-exoticist
+exoticist 1
 eudipleural
 encircled
 exoterically
