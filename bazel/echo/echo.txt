@@ -131,7 +131,7 @@ evolate
 erosionist
 elocutioner
 embrew
-europocentric
+europocentric 1
 enderonic
 excellency
 epoxidize
