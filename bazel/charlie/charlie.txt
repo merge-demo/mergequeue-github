@@ -25603,7 +25603,7 @@ cassites
 concetti
 corporativism
 corporealization 1
-coagule
+coagule 1
 corporeally
 cravenhearted
 corporeals
