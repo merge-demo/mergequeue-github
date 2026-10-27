@@ -8339,7 +8339,7 @@ ditrigonally
 dresses
 dockmaster
 dialectician
-dual
+dual 1
 decapodous
 droopingness
 diplois
