@@ -7943,7 +7943,7 @@ eatery
 extrastapedial
 endosmosis
 exudates
-exptl
+exptl 1
 exordia
 epimandibular
 enthrone
