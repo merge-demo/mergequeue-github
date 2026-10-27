@@ -12305,7 +12305,7 @@ etheostomidae
 electronegative
 eerock
 equilucent 1
-exerce
+exerce 1
 equimultiple
 exceptious
 extramarginal
