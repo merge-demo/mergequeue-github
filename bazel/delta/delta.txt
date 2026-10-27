@@ -16838,7 +16838,7 @@ dilettante
 drawloom
 dungari
 dorestane
-discontinual
+discontinual 1
 determinativeness
 discharity
 dozes
