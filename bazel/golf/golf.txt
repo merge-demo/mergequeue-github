@@ -415,7 +415,7 @@ gotham
 gelder
 gneu
 gymnogynous
-gymmal
+gymmal 1
 gabion
 glomeration
 greatened
