@@ -17550,7 +17550,7 @@ appellatived
 appellativeness
 arriccioci
 appellee
-appellor
+appellor 1
 aminobenzene
 arguteness
 albacea
