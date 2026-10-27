@@ -1319,7 +1319,7 @@ episynaloephe
 effectors
 effectress
 encapsulate
-elengeness
+elengeness 1
 ennuied
 effects
 enlarge
