@@ -2203,7 +2203,7 @@ decarnated
 dongolese
 disinfective
 decartelization
-decartelize
+decartelize 1
 decatize
 doggeries
 decartelizing
