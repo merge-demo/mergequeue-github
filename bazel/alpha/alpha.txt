@@ -23746,7 +23746,7 @@ andropetalar
 academic
 auscultates
 athrong
-auscultating
+auscultating 1
 apism
 auscultation
 amphicyrtic
