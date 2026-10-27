@@ -26141,7 +26141,7 @@ cosmogonists
 cosmography
 chigoe
 cosmographic
-cosmographical
+cosmographical 1
 concomitantly
 cosmographically
 cosmographies
