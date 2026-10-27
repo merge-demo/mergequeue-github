@@ -10598,7 +10598,7 @@ gigmanity
 gigging
 gallbladder
 grandame
-glossmeter
+glossmeter 1
 gadidae
 geohydrologist
 gourmetism
