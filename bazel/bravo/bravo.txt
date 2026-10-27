@@ -17064,7 +17064,7 @@ brodekin
 bullate
 bullback
 bullbaiting
-bibb
+bibb 1
 boulterer
 beforetime
 baetylus

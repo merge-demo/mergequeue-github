@@ -10759,7 +10759,7 @@ amissing
 amita
 apartmental
 adherends
-aplanatically
+aplanatically 1
 arthroses
 alterableness
 amitate

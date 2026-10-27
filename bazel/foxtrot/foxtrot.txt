@@ -6101,7 +6101,7 @@ flossiest
 filibusterism
 flossiness
 ferrer
-frondeur
+frondeur 1
 fortnights
 fervidity
 freighter
