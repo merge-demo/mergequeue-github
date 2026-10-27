@@ -3682,7 +3682,7 @@ foreglow
 finedrawing
 fluxweed
 fungible
-federalize
+federalize 1
 freeboots
 footbreadth
 fibroadipose
