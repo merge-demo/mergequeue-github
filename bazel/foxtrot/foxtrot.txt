@@ -9458,7 +9458,7 @@ fulcrate 1
 flounderingly
 fratricelli
 furculum
-fastwalk
+fastwalk 1
 fidele
 fraternities
 fumarates
