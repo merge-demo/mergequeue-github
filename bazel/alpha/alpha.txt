@@ -10829,7 +10829,7 @@ augmentor
 asphodelaceae
 antiquate
 antithenar
-animoso
+animoso 1
 abyssal
 anisogamete
 agape
