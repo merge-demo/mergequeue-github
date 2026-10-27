@@ -8205,7 +8205,7 @@ fatigated
 fictioneer
 feudalities
 flaggelated
-friezing
+friezing 1
 forfaulture
 francophile
 fluoroscoping
