@@ -9965,7 +9965,7 @@ forcers
 frigolabile
 fumigate
 fadlike 1
-friendships
+friendships 1
 feloniousness
 frigoric
 foun
