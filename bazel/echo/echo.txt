@@ -13359,7 +13359,7 @@ erogenous
 ethnogeographically
 egyptize
 emporiria
-extraenteric
+extraenteric 1
 epicorolline
 elegizing
 exposes
