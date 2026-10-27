@@ -9875,7 +9875,7 @@ eleutheropetalous
 esthesiology
 elementarily
 endothermous
-excludingly
+excludingly 1
 eden
 enstatite
 equivalency

@@ -27238,7 +27238,7 @@ counterweights
 counterwheel
 counterwilling
 counterwitness
-counterwork
+counterwork 1
 counterworker
 counterworking
 committee
