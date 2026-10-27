@@ -1245,7 +1245,7 @@ eelboat
 eudendrium
 epicures
 enjoyable
-enroot
+enroot 1
 efficiently
 earthshock
 ethylidyne
