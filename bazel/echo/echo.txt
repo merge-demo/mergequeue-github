@@ -2964,7 +2964,7 @@ externalising
 elicitors
 eloined 1
 endonuclear
-elicits
+elicits 1
 engagee
 equaeval
 epihydrinic
