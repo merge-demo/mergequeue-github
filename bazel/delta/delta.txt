@@ -16628,7 +16628,7 @@ denunciable
 dragoonage
 dragrope
 decades
-dexterousness
+dexterousness 1
 debiteuse
 deathbeds
 dragstaff
