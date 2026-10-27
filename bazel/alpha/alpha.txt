@@ -25259,7 +25259,7 @@ amenity
 auriform
 adulatress
 althorns
-amnestying
+amnestying 1
 azimene
 antepenultima
 academus
