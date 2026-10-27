@@ -10349,7 +10349,7 @@ dioptrical
 duhr
 diorama
 daroo
-diophantine
+diophantine 1
 driftpiece
 dowsing
 dentata

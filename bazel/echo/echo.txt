@@ -13488,7 +13488,7 @@ exposing
 ethmoidal
 eudaemonic
 eucalypti
-equianharmonic
+equianharmonic 1
 egocentricities
 edge
 erk
