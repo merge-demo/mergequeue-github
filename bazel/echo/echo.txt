@@ -6726,7 +6726,7 @@ endosepsis
 echimys
 epicenters
 equines
-espaliers
+espaliers 1
 epithecal
 evaginable
 emunge
