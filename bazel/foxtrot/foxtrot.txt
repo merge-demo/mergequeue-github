@@ -11072,7 +11072,7 @@ flaminica
 fractionated
 forficated
 fumariaceous
-freightment
+freightment 1
 flense
 footrace
 flew
