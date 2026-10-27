@@ -22501,7 +22501,7 @@ ata
 anoas
 atabals
 alexandreid
-adjudge
+adjudge 1
 atacamenan
 ataigal
 ataiyal
