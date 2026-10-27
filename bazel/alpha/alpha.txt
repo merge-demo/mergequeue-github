@@ -12675,7 +12675,7 @@ anthodium
 arsenicize
 ameliorated
 abroad
-angelate
+angelate 1
 angeleen
 airsick
 angelet

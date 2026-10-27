@@ -2750,7 +2750,7 @@ festally
 festellae
 ficary
 festered
-faliscan
+faliscan 1
 frizer
 friedelite
 foreparts
