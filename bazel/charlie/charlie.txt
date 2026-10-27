@@ -6606,7 +6606,7 @@ calamariaceae
 cebalrai
 culteranismo
 cebell
-crystallite
+crystallite 1
 cecidogenous 1
 cebid
 coutel
