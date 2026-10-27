@@ -4799,7 +4799,7 @@ gjedost
 gastropleuritis
 gyniatrics
 grandiloquent
-gravedo
+gravedo 1
 glorifies
 gibbosity
 governorship
