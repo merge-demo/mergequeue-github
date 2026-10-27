@@ -2550,7 +2550,7 @@ beltways
 bloodberry
 bardel
 barylalia
-beleaped
+beleaped 1
 blens
 bactrian
 backtalk
