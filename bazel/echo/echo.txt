@@ -6148,7 +6148,7 @@ estuary
 endocystitis
 enlodgement
 enlumine
-entheos
+entheos 1
 evelyn 1
 ergoplasm
 excommunicant
