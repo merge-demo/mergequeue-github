@@ -6511,7 +6511,7 @@ ahmedi
 aholds
 ahom
 achromia
-ahu
+ahu 1
 admonitions 1
 aminoethionic
 arienzo
