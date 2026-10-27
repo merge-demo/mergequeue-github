@@ -8304,7 +8304,7 @@ exactions
 epithalline
 elastase
 einstein
-earthwards
+earthwards 1
 electropuncturation
 ecumenicality
 embryonated
