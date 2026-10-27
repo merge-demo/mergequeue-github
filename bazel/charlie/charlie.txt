@@ -6011,7 +6011,7 @@ catholic
 courtesans
 cardinalated
 cryptostomata
-catholicalness
+catholicalness 1
 chalkography
 catholicisation
 choreographs
