@@ -11249,7 +11249,7 @@ blouse
 blearier
 basks
 blouses
-bloviated
+bloviated 1
 blowballs 1
 bhaktis
 blowbys
