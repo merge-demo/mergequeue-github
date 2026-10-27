@@ -26917,7 +26917,7 @@ counterly
 creeshie 1
 counterlight
 counterlilit
-counterlove
+counterlove 1
 countermaid
 conflictingly
 contrectation
