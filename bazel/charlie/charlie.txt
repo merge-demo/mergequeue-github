@@ -10067,7 +10067,7 @@ crestings
 clothesbrush
 chimney
 chemise
-chesoun
+chesoun 1
 chessboards
 counterfugue
 collab
