@@ -6423,7 +6423,7 @@ foliates
 fireflower
 fetialis
 flibbertigibbet
-freshish
+freshish 1
 farmed
 facsimileing
 fluorimetric
