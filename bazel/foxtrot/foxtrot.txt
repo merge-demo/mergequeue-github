@@ -10872,7 +10872,7 @@ filagreing
 fractiously
 foreskins
 forehinting
-freestone
+freestone 1
 flayer
 furore
 fullish
