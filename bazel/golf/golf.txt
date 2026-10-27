@@ -6328,7 +6328,7 @@ goblins
 goldenpert
 gallivanters
 gebang
-gobo
+gobo 1
 gaybine
 gobony
 gaily
