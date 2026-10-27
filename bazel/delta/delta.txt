@@ -6519,7 +6519,7 @@ dialectic
 dircaean
 dynel
 descension
-dereligion
+dereligion 1
 descensionist
 descensive
 donor
