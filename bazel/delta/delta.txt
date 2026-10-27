@@ -3729,7 +3729,7 @@ drepanoid
 didact
 dehydrogenate
 dawtet
-distillable
+distillable 1
 disentangled
 devisable
 dehydrogenisation

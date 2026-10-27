@@ -191,7 +191,7 @@ glaky
 glede
 garbage
 gager 1
-governessdom
+governessdom 1
 gastronomic
 gaggery
 greenage
