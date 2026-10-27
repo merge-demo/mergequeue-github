@@ -2797,7 +2797,7 @@ emperil
 essang
 encoronate
 eluded
-embelic
+embelic 1
 evasive
 exclamations
 enjeopard
