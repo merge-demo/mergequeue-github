@@ -18970,7 +18970,7 @@ alidade
 architecturalist
 architecture
 anticize
-architypographer
+architypographer 1
 astringence
 angiolith
 actinine
