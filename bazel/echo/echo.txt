@@ -9034,7 +9034,7 @@ evaginating 1
 euchring 1
 epicardiac
 epiphyll
-entria
+entria 1
 ephesine
 emlen
 endothermic
