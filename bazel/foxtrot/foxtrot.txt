@@ -959,7 +959,7 @@ flenched 1
 facetiousness
 fluorids
 frape
-fastigiums
+fastigiums 1
 forkers
 formalizer
 fillagreed
