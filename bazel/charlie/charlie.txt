@@ -11617,7 +11617,7 @@ counterbore
 choriambuses
 cholelithotrity
 crosscurrent
-coed
+coed 1
 crankbird
 configurationism
 cholepoietic
