@@ -5012,7 +5012,7 @@ abnormalist
 awaft 1
 accentuable
 avigate
-abv
+abv 1
 aerophysics
 areolation
 apologising
