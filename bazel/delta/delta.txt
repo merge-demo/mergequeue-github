@@ -5194,7 +5194,7 @@ denyingly
 denim
 demoness
 danceress
-doctrinalist
+doctrinalist 1
 dartoic
 debone
 dyings
