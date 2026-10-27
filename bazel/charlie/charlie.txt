@@ -12722,7 +12722,7 @@ countercraft
 cauliflowers
 chugalug
 chugalugged
-candidas
+candidas 1
 chauvinists
 cholecystoileostomy
 canalage
