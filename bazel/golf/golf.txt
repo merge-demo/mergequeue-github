@@ -7039,7 +7039,7 @@ gooseberry
 gimbaled
 gramash
 greenweed
-glacially
+glacially 1
 galilees
 genteelism
 geomantical
