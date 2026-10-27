@@ -177,7 +177,7 @@ goliathize
 goniometry
 gluteoperineal
 guesting
-gradgrind
+gradgrind 1
 golfer
 goaled
 gabarit
