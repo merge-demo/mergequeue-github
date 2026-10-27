@@ -1610,7 +1610,7 @@ frijol
 fervescence
 flannel
 fawkener
-fraischeur
+fraischeur 1
 funfair
 favoredly
 fawned
