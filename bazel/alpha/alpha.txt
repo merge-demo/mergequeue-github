@@ -8653,7 +8653,7 @@ allegresse
 allegrettos
 apasttra
 adobes
-annulosan
+annulosan 1
 africanization
 alienee
 archigenesis
