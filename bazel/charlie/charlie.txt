@@ -10987,7 +10987,7 @@ chiroptera
 chiropterygian
 chiropterite
 chiros
-chirospasm
+chirospasm 1
 chirotherian
 casern
 corrals
