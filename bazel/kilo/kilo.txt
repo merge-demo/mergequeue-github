@@ -1114,7 +1114,7 @@ kauenghi
 kaueturte
 kaueuk
 kaufr
-kaug
+kaug 1
 kaugg
 kaugnmdev
 kaugzsywp
