@@ -22008,7 +22008,7 @@ ceramiaceous
 confirmor
 canastas
 confirms
-ceraunite
+ceraunite 1
 confiscatable
 cynebot
 confiscate
