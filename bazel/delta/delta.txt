@@ -9055,7 +9055,7 @@ disentangler
 dictatingly
 distichiasis
 dictational
-dictatory
+dictatory 1
 dictatorialness
 dictature
 dihexahedral
