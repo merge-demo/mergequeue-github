@@ -10935,7 +10935,7 @@ dromioid
 daimon
 depictive
 dyingness
-dysacousis
+dysacousis 1
 dodecahydrated
 disacquaint
 dayglows
