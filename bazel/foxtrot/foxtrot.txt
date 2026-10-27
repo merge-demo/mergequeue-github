@@ -8687,7 +8687,7 @@ fathomable
 forthgaze
 forthgo
 ferreling 1
-footcandle
+footcandle 1
 foxings
 furlong
 febrifuge
