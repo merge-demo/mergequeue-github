@@ -5496,7 +5496,7 @@ estimatingly
 extrasystole
 exospheres 1
 eigenstate
-entitledness
+entitledness 1
 edematous
 energical
 energid
