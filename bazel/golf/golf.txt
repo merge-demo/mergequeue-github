@@ -3427,7 +3427,7 @@ globularia
 gourmets
 gerrymander
 gorgons
-goldwater
+goldwater 1
 gerrymanders
 guilts
 genitofemoral
