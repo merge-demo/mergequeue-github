@@ -2246,7 +2246,7 @@ emotionist
 elysee
 electic
 ethnal
-electioneer
+electioneer 1
 elaphurine
 elections
 elevatory 1
