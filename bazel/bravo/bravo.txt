@@ -12384,7 +12384,7 @@ bombus
 bombardelle
 bomi
 bomos
-beloveds
+beloveds 1
 bon
 backrope
 bonacis
