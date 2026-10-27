@@ -7860,7 +7860,7 @@ froppish
 forepossessed
 fenestrule
 filler
-foreshots 1
+foreshots 2
 furfuraldehyde
 facings
 flenses
