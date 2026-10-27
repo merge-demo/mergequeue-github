@@ -20548,7 +20548,7 @@ compendia
 correlativity
 celtophobe
 compendious
-compendium
+compendium 1
 compendiums 1
 contenders
 counterterror
