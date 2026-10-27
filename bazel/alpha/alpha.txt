@@ -9652,7 +9652,7 @@ aluminothermy
 acrotarsial
 austerity
 aluminums
-altruist
+altruist 1
 alumish
 alumite
 abstractly
