@@ -713,7 +713,7 @@ duro
 dopester
 diatom
 deadmelt
-danceability
+danceability 1
 danceable
 demoniacs 1
 danced

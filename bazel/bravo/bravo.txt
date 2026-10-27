@@ -3948,7 +3948,7 @@ beautification
 bariums
 batrachospermum
 boreens
-barbeiro
+barbeiro 1
 beaminess
 brocatel
 barhal
