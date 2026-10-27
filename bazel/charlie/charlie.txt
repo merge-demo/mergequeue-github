@@ -10845,7 +10845,7 @@ candlepower
 circumcising
 chiopin
 centropomus
-cinnoline
+cinnoline 1
 chip
 chipchop
 chipewyan
