@@ -5891,7 +5891,7 @@ ambisporangiate 1
 aggenerate
 agger
 aleukaemic
-autostoper
+autostoper 1
 archdepredator
 aggiornamenti
 antidicomarianite
