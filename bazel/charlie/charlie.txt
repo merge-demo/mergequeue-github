@@ -6650,7 +6650,7 @@ ceders
 confocally
 copepods
 cottiers
-cedilla
+cedilla 1
 cedillas
 ceding
 cedis
