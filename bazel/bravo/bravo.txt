@@ -8875,7 +8875,7 @@ bandoras
 baisakh
 biocycle
 biocycles
-biocidal
+biocidal 1
 biocide
 bookcases
 bioclimatic
