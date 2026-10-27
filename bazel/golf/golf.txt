@@ -9177,7 +9177,7 @@ greenhornism 1
 gripment
 grimacers
 grypotherium
-gooral
+gooral 1
 gridlock
 gliss
 greenstick
