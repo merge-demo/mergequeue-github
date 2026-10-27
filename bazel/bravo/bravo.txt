@@ -15705,7 +15705,7 @@ broadsword
 bamangwato
 bromethyl
 brob
-betorcin
+betorcin 1
 bolder
 blithesomeness
 brocardic
