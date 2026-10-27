@@ -4099,7 +4099,7 @@ glucolipid 1
 gimel
 gobernadora
 gegenschein
-gogglebox
+gogglebox 1
 genus
 gelechiid
 goosemouth
