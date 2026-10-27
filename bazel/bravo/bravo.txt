@@ -7059,7 +7059,7 @@ bezzant
 bennetweed
 bespattered
 batara
-barracks
+barracks 1
 bannerette
 briquetting
 bespeak
