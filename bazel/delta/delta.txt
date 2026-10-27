@@ -7561,7 +7561,7 @@ dunziekte
 desilverization
 deuterosy
 drubber
-ducktail
+ducktail 1
 druidesses
 discs
 deuterotype
