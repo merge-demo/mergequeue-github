@@ -6436,7 +6436,7 @@ fluoaluminate
 fainted
 frictionable
 flatcap
-fairs
+fairs 1
 fibrinolysis
 fungi
 fistulariidae
