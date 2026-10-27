@@ -8625,7 +8625,7 @@ ectal
 equilibrates
 exonerators
 ethylamide
-egol
+egol 1
 equilibria
 equilibriate
 ergasia
