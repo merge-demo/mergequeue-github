@@ -6970,7 +6970,7 @@ dorcas
 dispatcher
 despisableness
 downfalls
-despiser
+despiser 1
 decemvii
 dipleuric
 desertness
