@@ -5527,7 +5527,7 @@ electroscope
 elritch
 ectocarpic
 excitate
-equiformity
+equiformity 1
 enzymosis
 enervation 1
 ethnically
