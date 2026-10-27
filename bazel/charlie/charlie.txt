@@ -23760,7 +23760,7 @@ contraregularity
 centrisciform
 conductimeter
 contraremonstrance
-contrariant
+contrariant 1
 contraries
 contrarily
 chancellory
