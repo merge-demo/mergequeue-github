@@ -12994,7 +12994,7 @@ bloomers
 bombazine
 balanid
 boracite
-boracous
+boracous 1
 borage
 bruchidae
 bueno

@@ -9679,7 +9679,7 @@ gametange
 gradative
 glareous
 galapee
-guzzle
+guzzle 1
 graniform
 govt
 ghanaians
