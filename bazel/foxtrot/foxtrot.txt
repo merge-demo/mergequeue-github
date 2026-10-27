@@ -5074,7 +5074,7 @@ fessely
 flumps
 flamelet
 fun
-fuligo
+fuligo 1
 fundless
 fumettes
 frsikets
