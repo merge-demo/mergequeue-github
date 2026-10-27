@@ -17720,7 +17720,7 @@ dubiety
 demutization
 dubio
 devot
-diene
+diene 1
 discoloredness
 discriminateness
 derivate
