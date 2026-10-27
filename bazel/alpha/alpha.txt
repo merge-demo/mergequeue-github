@@ -7483,7 +7483,7 @@ apometabolous
 amban
 albuginitis
 album
-algedonic
+algedonic 1
 admittee
 archibenthal
 abhorrences
