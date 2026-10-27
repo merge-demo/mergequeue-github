@@ -7921,7 +7921,7 @@ entomeric
 exuccous
 exarchic
 eidola
-enlargement
+enlargement 1
 ethonone
 euphemistic 1
 eclampsia
