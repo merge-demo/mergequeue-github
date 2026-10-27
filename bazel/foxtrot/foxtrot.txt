@@ -5889,7 +5889,7 @@ ferrichloride
 furnishings
 flocculent
 flushes
-flaxier
+flaxier 1
 flocker
 filaree
 fasts
