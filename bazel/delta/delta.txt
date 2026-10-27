@@ -11974,7 +11974,7 @@ dictionaries
 diducing
 disemboweling
 delundung
-disaffirm
+disaffirm 1
 disembowelments
 dermatalgia
 disparition 1

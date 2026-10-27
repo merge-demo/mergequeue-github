@@ -9787,7 +9787,7 @@ biblioklept
 bromatology
 bocca
 bitable
-bidialectal
+bidialectal 1
 bytalks
 bitanhol
 bitartrate
