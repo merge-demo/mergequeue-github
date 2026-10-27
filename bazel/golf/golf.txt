@@ -8266,7 +8266,7 @@ grippingness
 giardiasis
 gre
 garamond
-gaseosity
+gaseosity 1
 gurries
 gara
 geopolitist 1
