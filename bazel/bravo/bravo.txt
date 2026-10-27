@@ -1889,7 +1889,7 @@ bodiced
 bareheaded
 bubonalgia
 bandanas
-bergama
+bergama 1
 bandogs
 bediademed
 barken
