@@ -5519,7 +5519,7 @@ glutinously
 grudgeons
 greencoat
 glob
-gestured
+gestured 1
 gnetum
 graduand 1
 glucinum
