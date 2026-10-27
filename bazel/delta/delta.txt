@@ -5657,7 +5657,7 @@ dermomycosis
 depictment
 dandilly
 depictors
-depicture
+depicture 1
 distract
 debe
 diopsidic
