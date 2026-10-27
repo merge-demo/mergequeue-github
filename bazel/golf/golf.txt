@@ -8183,7 +8183,7 @@ goos
 gazers
 grapelike
 gazingstock
-galeodes
+galeodes 1
 grapery 1
 goaded
 geniohyoid
