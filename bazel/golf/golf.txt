@@ -1786,7 +1786,7 @@ guanine
 grouchiest
 gastropulmonic
 granitic
-globously
+globously 1
 gambados
 guiba
 guaycuruan
