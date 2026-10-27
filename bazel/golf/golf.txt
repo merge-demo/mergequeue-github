@@ -3634,7 +3634,7 @@ gladen
 guanylic
 granilla 1
 glottalize
-gigantal
+gigantal 1
 gld
 grouching
 gedder
