@@ -1772,7 +1772,7 @@ bowmen
 balanops
 balloonet
 bedsprings
-bambute
+bambute 1
 blackheart
 becombed
 baserunning

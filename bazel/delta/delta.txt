@@ -4743,7 +4743,7 @@ democrat
 dawdles
 douar
 dogbody
-depraves
+depraves 1
 dsnames
 democratic
 dividedness
