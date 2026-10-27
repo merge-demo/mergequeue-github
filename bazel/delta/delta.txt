@@ -647,7 +647,7 @@ debarration
 depolarizer
 damnifies
 damningly
-disposals
+disposals 1
 damnonians
 doomfully
 deflowers

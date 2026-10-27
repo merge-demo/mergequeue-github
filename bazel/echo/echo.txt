@@ -5970,7 +5970,7 @@ effate
 enhunger
 emissary
 eruc
-erythrose
+erythrose 1
 euflavine
 epicondylitis
 expectorates
