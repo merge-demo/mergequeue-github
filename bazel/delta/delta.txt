@@ -3133,7 +3133,7 @@ disbodied
 demihuman
 defamy
 delegating
-desmoneme
+desmoneme 1
 delicious
 dihydrite
 distoclusion
