@@ -18025,7 +18025,7 @@ dislocations
 diffusiometer
 duler
 dissimilating 1
-dull
+dull 1
 dillydallier
 dullard
 debind
