@@ -27184,7 +27184,7 @@ countertime
 cellulipetal
 candidating
 calcines
-countertype
+countertype 1
 cooter
 classisms
 countertouch
