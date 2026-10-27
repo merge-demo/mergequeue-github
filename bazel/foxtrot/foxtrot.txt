@@ -4709,7 +4709,7 @@ fairyish
 forsake
 fjord
 fancify
-fizziest
+fizziest 1
 friand
 fluidram
 forefeels
