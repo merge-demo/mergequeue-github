@@ -2042,7 +2042,7 @@ gavelock
 grunion
 givenness
 gyroscopics
-gerocomia
+gerocomia 1
 gavelocks
 gattine
 gasometrically
