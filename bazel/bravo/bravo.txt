@@ -1568,7 +1568,7 @@ ballised
 biradial
 britches
 binate
-ballista
+ballista 1
 basketlike
 beatinest
 ballistician
