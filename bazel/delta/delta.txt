@@ -6068,7 +6068,7 @@ diopsis
 deputing
 diaconicon
 digitalization
-dorps
+dorps 1
 delicacy
 dilli
 dehumanise
