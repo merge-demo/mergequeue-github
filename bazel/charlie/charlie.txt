@@ -13220,7 +13220,7 @@ cyclism
 choanoflagellida
 cyclitic
 commesso
-conscribe
+conscribe 1
 cyclization
 cyclizes
 cauld
