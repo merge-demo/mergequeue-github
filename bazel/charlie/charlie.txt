@@ -3096,7 +3096,7 @@ centare
 contrabandist
 capacious
 capaciousness
-capacitate
+capacitate 1
 carbonyl
 cofounder
 cheesecurd
