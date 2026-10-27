@@ -30943,7 +30943,7 @@ culturologically
 cavaliero
 cardinalitial
 caroid
-costate
+costate 1
 cacatua
 culturologist
 cultus
