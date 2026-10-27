@@ -31688,7 +31688,7 @@ cushionlike
 cushions
 cushitic
 cusie
-cusinero
+cusinero 1
 consent
 cusk
 collodium
