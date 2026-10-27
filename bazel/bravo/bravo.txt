@@ -10514,7 +10514,7 @@ breakage
 bradyuria
 bashlik
 blastoporal
-blastosphere
+blastosphere 1
 balanus
 bromal
 buttonhold
