@@ -9032,7 +9032,7 @@ biophilous 1
 biophysic
 biophysiography
 balibuntal
-biophysiology
+biophysiology 1
 barky
 butterier
 bisegment
