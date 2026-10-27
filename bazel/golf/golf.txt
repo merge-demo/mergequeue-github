@@ -7636,7 +7636,7 @@ ghoster
 gears
 glancingly 1
 guenons
-guardianless 1
+guardianless 2
 geomantic
 gradated
 gatecrasher
