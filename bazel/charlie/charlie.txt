@@ -19869,7 +19869,7 @@ comicalness
 cubited
 comices
 cognominal
-comicocynical
+comicocynical 1
 curlicues
 colnaria
 conjugally
