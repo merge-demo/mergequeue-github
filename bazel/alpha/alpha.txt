@@ -2979,7 +2979,7 @@ arginine
 actinium
 anopias
 actiniums
-antiacid
+antiacid 1
 austerest
 alisma
 actinobaccilli

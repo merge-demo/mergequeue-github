@@ -5560,7 +5560,7 @@ catalatic
 circulatories
 cycledom
 cedre
-comicoprosaic
+comicoprosaic 1
 crushingly
 catalepsis
 catalexes
