@@ -3504,7 +3504,7 @@ bargemen
 bogging
 bitterhearted
 bateau
-bateleur
+bateleur 1
 barbered
 bowerwoman
 bovista
