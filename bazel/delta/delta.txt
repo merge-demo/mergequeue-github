@@ -8551,7 +8551,7 @@ dampishness
 debateful
 daimonion
 dewfall
-diaphanously
+diaphanously 1
 douglas
 diaphyseal
 discommodious
