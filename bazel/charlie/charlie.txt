@@ -4643,7 +4643,7 @@ caromel
 caroming
 coucher
 caroms
-carone
+carone 1
 convictiveness
 caronic
 cliffless
