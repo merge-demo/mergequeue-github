@@ -164,7 +164,7 @@ enriched
 exequy
 earmarked
 eelbobber
-expiring
+expiring 1
 expressive
 elses
 escallop
