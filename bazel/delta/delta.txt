@@ -15027,7 +15027,7 @@ determ
 doggerel
 doggerelism
 doggerelist
-desperate
+desperate 1
 doggerelizing
 diphthongising
 disrout
