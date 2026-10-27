@@ -1670,7 +1670,7 @@ frisker
 fearedness
 fluidizes
 fathometer
-frypan
+frypan 1
 faucets
 flatworm
 fieldmice
