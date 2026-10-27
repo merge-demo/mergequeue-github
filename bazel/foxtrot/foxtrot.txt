@@ -11015,7 +11015,7 @@ fumet
 forcipate
 falafel
 fumets
-fumiest
+fumiest 1
 fluoroscope
 frivolist
 fossilizes
