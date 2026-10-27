@@ -9742,7 +9742,7 @@ entotrophi 1
 entitles
 eradiates
 enodal
-equisonance
+equisonance 1
 everyplace
 eddo
 emerick
