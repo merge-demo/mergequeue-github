@@ -6695,7 +6695,7 @@ fogfruits
 frizel
 fluerics
 formicariae
-foofaraws
+foofaraws 1
 furrier
 freshwater
 flaughtbred

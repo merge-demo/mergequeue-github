@@ -2780,7 +2780,7 @@ ebracteate
 eurithermophilic
 excecate
 elytrous
-eutropic
+eutropic 1
 equipartition
 epidiplosis
 eighteenmo
