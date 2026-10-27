@@ -413,7 +413,7 @@ dingle
 diriment
 diathermia
 dominos
-dwelt
+dwelt 1
 destructing
 desulfurise
 darwan
