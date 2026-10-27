@@ -7434,7 +7434,7 @@ chacun
 choliambic
 caback
 cerambycid
-coruscations
+coruscations 1
 cerambycidae
 cyclonist
 ceramicite
