@@ -5095,7 +5095,7 @@ bejuco
 blazoning
 befittingness
 behoof
-boundedness
+boundedness 1
 beflag
 bamboo
 binits
