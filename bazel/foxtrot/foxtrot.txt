@@ -4043,7 +4043,7 @@ fluxibly
 fibrin
 finis
 fadelessly
-finish
+finish 1
 flatling
 fletchings
 fungoid
