@@ -3254,7 +3254,7 @@ frankheartness 1
 fictionizing
 foutre
 forcene
-fireballs
+fireballs 1
 fictitiousness
 fistularioid
 fable
