@@ -9890,7 +9890,7 @@ flitching
 fraghan
 frits
 friskier
-folliculous
+folliculous 1
 foliaceousness
 fibrofatty
 freckly
