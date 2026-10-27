@@ -911,7 +911,7 @@ fadaise
 fleabug
 fallouts
 ferrate
-faquir
+faquir 1
 farad
 faradaic
 filleted
