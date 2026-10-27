@@ -927,7 +927,7 @@ cakewalked
 cakewalker
 cakewalking
 caressant
-carnotite
+carnotite 1
 caky
 clientelage
 conformant
