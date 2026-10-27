@@ -10167,7 +10167,7 @@ antithetically 1
 acraein
 antennata
 acotyledonous
-ambulancer
+ambulancer 1
 ambulated
 atropinism
 alkalimetrically
