@@ -4887,7 +4887,7 @@ goyim
 girderage
 gladier
 guaranteeing
-gleam
+gleam 1
 glozes
 gyrotheca
 gimme
