@@ -21972,7 +21972,7 @@ configures
 coxcombry
 confinable
 confine
-comports
+comports 1
 confined
 cadging
 confinedly
