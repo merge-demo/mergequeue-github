@@ -2343,7 +2343,7 @@ gymnics
 geographism
 gelees
 geologist
-gurging
+gurging 1
 gymnocerata
 gadinic
 glassy
