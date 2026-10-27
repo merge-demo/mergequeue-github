@@ -9117,7 +9117,7 @@ fortresses
 fribblish
 filters
 fantasias
-fortifies
+fortifies 1
 fielded
 fleeceflower
 floridly
