@@ -1214,7 +1214,7 @@ aqueously
 acanthopteran
 ataunt
 airlike 1
-acanthopterygian
+acanthopterygian 1
 adversed
 acromia
 acanthopterygii
