@@ -10704,7 +10704,7 @@ analities
 anisodactyl
 antiorgastic
 aminopherase
-aminopyrine
+aminopyrine 1
 agrobiologic
 angulometer
 armitas
