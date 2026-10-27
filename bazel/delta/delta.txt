@@ -1300,7 +1300,7 @@ delusive
 diphycercal
 dauber
 distinguishingly
-dauberies
+dauberies 1
 dramatic
 dumpings
 diastaltic
