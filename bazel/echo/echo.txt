@@ -11909,7 +11909,7 @@ exultation
 eyr
 enhypostatic 1
 entrepreneurship
-epiphytes
+epiphytes 1
 emissivity
 exceptless
 emends
