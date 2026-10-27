@@ -8749,7 +8749,7 @@ encrotchet 1
 exuberated
 exteriorized
 expatiator
-equivocal
+equivocal 1
 exuperable
 extermination
 encystment
