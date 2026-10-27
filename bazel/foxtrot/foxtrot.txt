@@ -2004,7 +2004,7 @@ fautor
 fours
 feeze
 fimicolous
-furmity
+furmity 1
 funnelled
 feezes
 forejudge
