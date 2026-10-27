@@ -4860,7 +4860,7 @@ adoptionism
 aerocraft
 arbutes
 aspheterize
-amas
+amas 1
 amoebous
 arkwright
 aerodermectasia
