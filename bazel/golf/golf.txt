@@ -2961,7 +2961,7 @@ gusts
 gaddang
 guilt
 gurkha
-gollop
+gollop 1
 geomance
 guapilla
 gibes

@@ -10804,7 +10804,7 @@ directexamination
 diluteness
 decreement
 divaricatingly
-diseur
+diseur 1
 directionalize
 directionally
 deckles
