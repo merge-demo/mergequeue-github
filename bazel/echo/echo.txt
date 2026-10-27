@@ -7358,7 +7358,7 @@ eriophyes
 eased
 etiolates
 eccoprotic
-eleut
+eleut 1
 eparchies
 eternization 1
 equinoctial

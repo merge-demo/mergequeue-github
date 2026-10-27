@@ -750,7 +750,7 @@ hapctgostqn
 hapdeb
 hapeoxvsync
 hapepallcl
-hapf
+hapf 1
 hapfzftjcthm
 hapg
 hapgblcu 1
