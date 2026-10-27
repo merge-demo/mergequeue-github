@@ -6029,7 +6029,7 @@ geminative
 gutturonasal
 gingerly
 goodwilly
-geranium
+geranium 1
 gamier
 gelatinously
 griffinesque
