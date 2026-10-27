@@ -1353,7 +1353,7 @@ embusque
 earthiest
 effendis
 empty
-efferently
+efferently 1
 efferents
 effervescency
 eights
