@@ -4610,7 +4610,7 @@ fistwise
 fit
 fontally
 fringilliform
-fitchee
+fitchee 1
 fibrocalcareous
 filagrees
 ferring
