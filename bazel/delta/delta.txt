@@ -3085,7 +3085,7 @@ downbent
 doohickus
 dentaria
 defacer
-dentiscalp
+dentiscalp 1
 desole
 delible
 designated
