@@ -151,7 +151,7 @@ folden
 fellaheen
 facks
 forefront
-fumitories
+fumitories 1
 foremostly
 favus
 falls
