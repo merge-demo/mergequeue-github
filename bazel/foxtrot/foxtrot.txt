@@ -1862,7 +1862,7 @@ fiances
 flabellation
 frutify
 fatuously
-fec 1
+fec 2
 fight
 fantoddish
 feelingly
