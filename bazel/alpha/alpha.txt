@@ -6355,7 +6355,7 @@ alliteratively
 asunder
 antisepsin
 aerage
-apolegamic
+apolegamic 1
 anamorphoses
 anacoluttha
 anticlassicism
