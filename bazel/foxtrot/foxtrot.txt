@@ -8567,7 +8567,7 @@ fanfarons
 frownful
 fornaxid
 foraminule
-fratchety
+fratchety 1
 featherer
 frogtongue
 futurities
