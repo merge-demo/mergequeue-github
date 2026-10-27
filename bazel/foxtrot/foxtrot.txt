@@ -11588,7 +11588,7 @@ floscular
 fissional
 foregallery
 fussbudgety
-fevers
+fevers 1
 filtrates
 fussers
 faradic
