@@ -8747,7 +8747,7 @@ downright 1
 dinting
 defocusses
 deescalations
-diatomist
+diatomist 1
 dover
 dot
 debadge
