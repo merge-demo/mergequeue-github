@@ -9990,7 +9990,7 @@ gelsemiumia
 gubbins
 geoethnic 1
 glutamic
-gubernative
+gubernative 1
 gunwale
 grills
 glazer
