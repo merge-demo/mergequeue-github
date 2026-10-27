@@ -6586,7 +6586,7 @@ flyboats
 falconiform
 foaling
 franseria
-friary
+friary 1
 flunkeyism
 feltness
 frounce
