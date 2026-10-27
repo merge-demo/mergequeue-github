@@ -3233,7 +3233,7 @@ forel 1
 fosterable
 fictionalize
 fourcher
-foots
+foots 1
 friers
 frostwort
 flexionless
