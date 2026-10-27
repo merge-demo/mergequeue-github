@@ -8131,7 +8131,7 @@ aciduric
 algernon
 assassinator
 algesiometer
-algidity
+algidity 1
 autocatharsis
 algidities
 algidness
