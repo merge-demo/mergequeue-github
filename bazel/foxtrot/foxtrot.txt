@@ -8341,7 +8341,7 @@ fittiest
 fair
 foundling
 fils
-furriner
+furriner 1
 flagellata
 forkedness
 folderol
