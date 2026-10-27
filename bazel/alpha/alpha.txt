@@ -14686,7 +14686,7 @@ antiaristocracies
 attendees 1
 arauna
 agaricine
-antarctically
+antarctically 1
 arteriectasis
 alpinisms
 antinormal
