@@ -3351,7 +3351,7 @@ crispate
 caponized
 contrasty
 caponizer
-caponizing 1
+caponizing 2
 caponniere
 capons
 caporal
