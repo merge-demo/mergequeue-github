@@ -11353,7 +11353,7 @@ fiasco
 fannies
 furloughed 1
 ferlied
-flustrine
+flustrine 1
 fuchsin
 forfended
 furmenty
