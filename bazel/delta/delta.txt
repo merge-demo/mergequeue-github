@@ -1411,7 +1411,7 @@ downdale
 dismain
 demonomanie
 dorsiflexor
-digitals
+digitals 1
 delis
 drapability
 dissatisfactoriness
