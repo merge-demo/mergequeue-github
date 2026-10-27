@@ -6830,7 +6830,7 @@ chairmaker
 cathodofluorescence
 celloidin
 constative
-counterbalance
+counterbalance 1
 cellose
 cognizance
 coadunative
