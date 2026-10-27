@@ -9578,7 +9578,7 @@ gynecologist
 galactoscope
 grind
 gnus
-gingersnap
+gingersnap 1
 grovellingly
 geishas
 gneissoid
