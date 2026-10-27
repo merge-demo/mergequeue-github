@@ -6031,7 +6031,7 @@ frottage
 fluty
 floreating
 folletto
-flabbiness
+flabbiness 1
 fresco
 fermorite
 flightiness
