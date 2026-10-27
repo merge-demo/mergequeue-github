@@ -10026,7 +10026,7 @@ eternalize
 eternally
 extill
 embarking
-exempting
+exempting 1
 equalist
 endocrinism
 endoperidial
