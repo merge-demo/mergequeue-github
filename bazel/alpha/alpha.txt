@@ -19317,7 +19317,7 @@ ankylos
 anthologizer
 areopagite
 areopagitica
-allyic
+allyic 1
 anoxemia
 autoreinfusion
 adjutor
