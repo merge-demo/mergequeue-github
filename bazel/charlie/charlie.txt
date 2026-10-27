@@ -20405,7 +20405,7 @@ compage
 compagnies
 cresols
 condonative
-concamerate
+concamerate 1
 companable
 companage
 circumfluent
