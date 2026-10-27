@@ -10151,7 +10151,7 @@ chiropatagium
 charioteer
 cumbha
 cronied
-chevronwise
+chevronwise 1
 chevrotain
 chevvy
 capsa
