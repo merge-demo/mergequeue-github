@@ -7960,7 +7960,7 @@ gyniolatry
 gloucester
 gulas
 grandfathers
-gangster
+gangster 1
 gaboons
 galvanotaxis
 glossina
