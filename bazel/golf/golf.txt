@@ -7394,7 +7394,7 @@ geometroid
 gothamite
 germiparous 1
 glassblower
-gummiest
+gummiest 1
 ghedda
 greenfish
 gunflints
