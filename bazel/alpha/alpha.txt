@@ -8194,7 +8194,7 @@ algorithmically
 alguifou
 antependium
 alhambraic
-asteria
+asteria 1
 apogeotropically
 alhenna
 alia
