@@ -6543,7 +6543,7 @@ flytime
 flutterboard
 faucal
 fluotantalate
-flutteriness
+flutteriness 1
 flagrate
 fluttering
 forswears
