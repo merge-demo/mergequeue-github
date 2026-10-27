@@ -14728,7 +14728,7 @@ decahedral
 doctorbird
 doc
 dekametre
-declinedness
+declinedness 1
 darnation
 dioptrically
 dedolomitize
