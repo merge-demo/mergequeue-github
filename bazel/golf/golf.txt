@@ -3071,7 +3071,7 @@ gamelin
 genepi
 glom
 grypanian
-gluttonized
+gluttonized 1
 gerate
 grangerised
 geomorphologically
