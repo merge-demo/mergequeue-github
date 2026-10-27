@@ -8287,7 +8287,7 @@ ellagate
 exemplification
 epitaxies
 epitaxis
-ebonizes
+ebonizes 1
 epidemicity
 epigrammatized
 enlife
