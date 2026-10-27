@@ -24434,7 +24434,7 @@ coopering
 checksummed
 caroli
 coopers
-coops
+coops 1
 coparty
 catchpole
 cooptate
