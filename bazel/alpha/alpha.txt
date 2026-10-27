@@ -1132,7 +1132,7 @@ acclimatized
 aoul
 academes
 academy
-apheliotropism
+apheliotropism 1
 aploperistomatous
 anaplasis
 antirusts
