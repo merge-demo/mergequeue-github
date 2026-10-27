@@ -10794,7 +10794,7 @@ footpads
 fuchsian
 floundered
 faintful
-fuchsine
+fuchsine 1
 flustra
 foveation
 foredestined

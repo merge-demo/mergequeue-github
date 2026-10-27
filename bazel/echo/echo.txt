@@ -11610,7 +11610,7 @@ evulsions
 ewery
 exciding
 empires
-ewes
+ewes 1
 engraphia
 eucalypt
 envenomous 1
