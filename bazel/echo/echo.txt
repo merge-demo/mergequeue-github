@@ -1174,7 +1174,7 @@ extramental
 educand
 emulsive
 evanished
-educatability
+educatability 1
 eident 1
 educatable
 educatedness
