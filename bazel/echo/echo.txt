@@ -11820,7 +11820,7 @@ exaun
 earthrise
 ectomorphy
 euglenida 1
-ectothermic
+ectothermic 1
 exists
 exauthorate
 exauthorizeexc
