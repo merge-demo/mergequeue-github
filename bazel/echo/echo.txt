@@ -3457,7 +3457,7 @@ enchained
 encolden
 embers
 estival
-enate
+enate 1
 epees
 elaeothesium
 enginemen
