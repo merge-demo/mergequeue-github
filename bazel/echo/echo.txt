@@ -473,7 +473,7 @@ empasm
 envelopers
 exody
 extended
-etesians
+etesians 1
 endoconidium
 extorsion
 extrasensorial
