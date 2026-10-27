@@ -903,7 +903,7 @@ extensivity
 eschewing
 expeditionary
 enures
-emperies
+emperies 1
 extrastate
 electrostrictive
 episedia
