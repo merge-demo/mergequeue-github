@@ -7084,7 +7084,7 @@ euphone
 efficiency
 enlinked
 enshell
-entoiling
+entoiling 1
 enunciability
 etymologer
 euphemous
