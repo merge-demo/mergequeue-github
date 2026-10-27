@@ -12144,7 +12144,7 @@ dorine
 discontent
 diffide
 dynamoelectrical
-defuzing
+defuzing 1
 disexcommunicate
 detrition
 decalin
