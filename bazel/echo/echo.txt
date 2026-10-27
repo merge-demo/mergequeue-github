@@ -9116,7 +9116,7 @@ exploding
 erythrosiderite
 exosporous
 egoistically
-exacerbescent
+exacerbescent 1
 erythrosis
 eriglossa
 ephemeras
