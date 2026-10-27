@@ -900,7 +900,7 @@ aures
 absyrtus
 amylon
 absis
-absit
+absit 1
 absoil
 acorn
 absterging
