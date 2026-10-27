@@ -3230,7 +3230,7 @@ fusicoccum
 ficklest
 ficklety
 forel 1
-fosterable
+fosterable 1
 fictionalize
 fourcher
 foots
