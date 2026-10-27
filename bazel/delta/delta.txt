@@ -8813,7 +8813,7 @@ diazotype
 dromicia
 deluding
 disadvise
-deratization
+deratization 1
 dolefuller
 douricouli
 displacements
