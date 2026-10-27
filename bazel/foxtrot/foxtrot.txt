@@ -10034,7 +10034,7 @@ foreleader
 fustiest
 forearms
 flauntily
-feasibleness
+feasibleness 1
 feedman
 fantee
 ferriferous
