@@ -6467,7 +6467,7 @@ furiosa 1
 ferried 1
 fumagine
 fouquieriaceous
-flightful
+flightful 1
 foulness
 fictor
 fruitages
