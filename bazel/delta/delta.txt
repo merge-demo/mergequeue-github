@@ -10222,7 +10222,7 @@ defrauded
 dinking
 defatting
 dinkum
-detractory
+detractory 1
 duroc
 dinnerly
 decillionth
