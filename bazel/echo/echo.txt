@@ -8498,7 +8498,7 @@ enneatical
 epulo
 ecphoriae
 eurindic
-explants
+explants 1
 erases
 elongates
 epuration
