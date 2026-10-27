@@ -1450,7 +1450,7 @@ attires
 alewhap
 acclimates
 acclimatisation
-affixable
+affixable 1
 archaisms
 amortize
 acclimatise
