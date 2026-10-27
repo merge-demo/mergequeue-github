@@ -15039,7 +15039,7 @@ deposals
 disbutton
 decnet
 drysalteries
-doggers
+doggers 1
 dyspnoeas
 dilogarithm
 dentonasal
