@@ -6556,7 +6556,7 @@ earsore
 epaenetic
 entanglements
 extraplanetary
-egophonic
+egophonic 1
 entangles
 empanel
 eatings
