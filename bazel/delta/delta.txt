@@ -1498,7 +1498,7 @@ decidual
 dracma
 dc
 donmeh
-dcb
+dcb 1
 depressure
 deaccessioning
 drawbolt
