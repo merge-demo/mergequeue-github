@@ -14722,7 +14722,7 @@ disposableness
 doblon
 dobos
 drumlier
-dactyloscopic
+dactyloscopic 1
 detained
 decahedral
 doctorbird
