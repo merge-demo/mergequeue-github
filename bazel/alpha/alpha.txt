@@ -17721,7 +17721,7 @@ appliant
 appendectomy
 arenous
 applicable
-anticyclonically
+anticyclonically 1
 antiliberally
 androgonia
 applicableness
