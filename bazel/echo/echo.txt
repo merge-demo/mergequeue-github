@@ -5584,7 +5584,7 @@ eerinesses
 encasement
 enucleator
 erroneousness
-essentiality
+essentiality 1
 endostome
 evocators
 eugenists
