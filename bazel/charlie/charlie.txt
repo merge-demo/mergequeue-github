@@ -7172,7 +7172,7 @@ clar
 compare
 centraxonial
 centre
-clinoaxis
+clinoaxis 1
 centreboard
 centred
 centref

@@ -21357,7 +21357,7 @@ amphoras
 azobacter
 asyndeton
 abditive
-asyndetons
+asyndetons 1
 artesonado
 acacin
 asinego
