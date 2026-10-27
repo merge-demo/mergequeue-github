@@ -1062,7 +1062,7 @@ dutra
 darner
 dipterad
 darners
-darning
+darning 1
 dewooled
 dimeters
 decarch
