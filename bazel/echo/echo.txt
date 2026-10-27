@@ -92,7 +92,7 @@ ecardine
 earning
 ecotone
 engraffed
-enviableness
+enviableness 1
 ephydridae
 epithelioma
 enumerate
