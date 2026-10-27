@@ -11915,7 +11915,7 @@ choreographed
 choreographer
 cypseloid
 choreographers
-choreographic
+choreographic 1
 chuzwi
 choreographically
 choreographing
