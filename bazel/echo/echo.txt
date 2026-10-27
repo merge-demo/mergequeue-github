@@ -4210,7 +4210,7 @@ euphausiid
 emulgent
 emprosthotonic
 electrothanatosis
-effeteness
+effeteness 1
 emptied
 exhorter
 echolalic
