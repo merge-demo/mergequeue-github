@@ -4827,7 +4827,7 @@ escape
 erugate
 estrogenicity
 embrangle
-encomiastically
+encomiastically 1
 extols
 emulously
 encomic
