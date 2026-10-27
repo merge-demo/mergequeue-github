@@ -358,7 +358,7 @@ iagpth
 iagqsckw
 iagrir
 iagrsw
-iagsmh
+iagsmh 1
 iagspm
 iagswkrtfpl
 iagthcnpn
