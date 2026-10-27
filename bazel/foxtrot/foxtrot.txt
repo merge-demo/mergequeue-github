@@ -2391,7 +2391,7 @@ foredating
 fromfile
 foreordinating
 freakpot
-fantods
+fantods 1
 fervidor
 formicivorous
 filtrable 1
