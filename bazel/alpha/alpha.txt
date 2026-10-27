@@ -23875,7 +23875,7 @@ abanga
 apilary
 appulse
 ashed
-autecism
+autecism 1
 autecology
 arrach
 artic
