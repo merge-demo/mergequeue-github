@@ -10861,7 +10861,7 @@ emborders
 econometrics
 ergot
 esodic
-enologist
+enologist 1
 excised
 exanthematic
 encalendar
