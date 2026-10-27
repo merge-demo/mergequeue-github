@@ -21789,7 +21789,7 @@ apsidally
 amalaita
 assertress
 annunciator
-athetesis
+athetesis 1
 asserts
 assertum
 agricolous
