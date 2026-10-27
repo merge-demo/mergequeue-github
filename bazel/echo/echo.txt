@@ -4140,7 +4140,7 @@ epigene
 epicanthus
 ejacula
 enrooting
-eslabon
+eslabon 1
 entangler
 envisaged
 endives

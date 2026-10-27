@@ -1282,7 +1282,7 @@ deplane
 desmids
 dossil
 dermoptera
-deti
+deti 1
 distressfully
 dandyism
 disking
