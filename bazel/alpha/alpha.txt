@@ -23753,7 +23753,7 @@ amphicyrtic
 anagnorises
 auscultatory
 ausform
-amyotrophy
+amyotrophy 1
 ausforming
 arrent
 auslaute
