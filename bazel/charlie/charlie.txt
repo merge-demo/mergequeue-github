@@ -23018,7 +23018,7 @@ consomme
 consommes
 consonance
 consonancy
-consonant
+consonant 1
 consonantal
 consonantalize
 consonantic
