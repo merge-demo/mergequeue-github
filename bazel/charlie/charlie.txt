@@ -15258,7 +15258,7 @@ calamospermae
 chivalry
 capricornus
 clamjamfery
-clamjamfry
+clamjamfry 1
 clammed
 caramelizes
 clammy
