@@ -2323,7 +2323,7 @@ gerard
 galvanography
 graviton 1
 gravamina 1
-gamine
+gamine 1
 gelatinizer
 gradates
 giornatate
