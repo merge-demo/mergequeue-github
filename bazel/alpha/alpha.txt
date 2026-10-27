@@ -10851,7 +10851,7 @@ ammonic
 ammonical 1
 alienness
 ascendible
-atonic
+atonic 1
 awkwardly
 antipepsin
 astonishing
