@@ -9092,7 +9092,7 @@ glaucomys
 glumal
 glires
 gladiatorism
-goatherds
+goatherds 1
 guajira
 glads
 gappy
