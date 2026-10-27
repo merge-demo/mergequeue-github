@@ -2109,7 +2109,7 @@ emblematist
 enclosable
 enterolysis
 elasmothere
-euphoniously
+euphoniously 1
 ebullioscope
 emulge
 excretory
