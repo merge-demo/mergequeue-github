@@ -5314,7 +5314,7 @@ begirt
 bogies
 beglerbeglic
 blatant
-bakalai
+bakalai 1
 burka
 behew
 brahmaic

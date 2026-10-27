@@ -2198,7 +2198,7 @@ differing
 directorship
 dissympathy
 decarburized
-disgraceful
+disgraceful 1
 decarnated
 dongolese
 disinfective
