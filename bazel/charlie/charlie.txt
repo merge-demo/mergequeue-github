@@ -19154,7 +19154,7 @@ coalsheds
 czarship
 colloidochemical
 chemesthesis
-cordless
+cordless 1
 cattan
 concrescences
 collophane
