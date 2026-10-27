@@ -6165,7 +6165,7 @@ derelicts
 demast
 droshkies
 dolours
-decrepitness
+decrepitness 1
 derestrict
 disputations
 derf
