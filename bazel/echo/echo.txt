@@ -4311,7 +4311,7 @@ ejectment
 exaltedness
 electrochemical
 entangle
-exosmoses
+exosmoses 1
 enflowered
 echiniform
 exospores
