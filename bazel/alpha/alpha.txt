@@ -9329,7 +9329,7 @@ atomiferous
 alphabetarian
 acclimatizable
 aboiteau
-amphibiontic
+amphibiontic 1
 acerose
 alphabetic
 abbotships
