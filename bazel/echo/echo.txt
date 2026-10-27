@@ -14200,7 +14200,7 @@ exurge
 exuscitate
 enlists
 effecters
-enow
+enow 1
 equiradiate
 exerciser
 exust
