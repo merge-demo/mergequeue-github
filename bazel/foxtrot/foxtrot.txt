@@ -4871,7 +4871,7 @@ froglet
 flagellatory
 ferocities
 formalness
-followable
+followable 1
 fulgora
 flails
 feuilletonism
