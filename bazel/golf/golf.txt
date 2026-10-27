@@ -6207,7 +6207,7 @@ gamboler
 genecologist
 governmentalize
 grabbings
-glyptographic
+glyptographic 1
 ganglionless
 grivois
 gossipdom
