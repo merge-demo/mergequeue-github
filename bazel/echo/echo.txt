@@ -12478,7 +12478,7 @@ epigenetic
 exiguously
 exilarchate
 extemporariness
-expiated
+expiated 1
 ethicality
 exilement
 escalading
