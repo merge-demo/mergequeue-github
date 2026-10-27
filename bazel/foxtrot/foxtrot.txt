@@ -2633,7 +2633,7 @@ funnel
 fireless
 flusters
 foreshoulder
-figuratively
+figuratively 1
 fastidious
 frumentation
 familiarisation
