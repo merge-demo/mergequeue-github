@@ -8504,7 +8504,7 @@ geomorphological
 geotectonically
 gravelish
 guardian
-geognostical
+geognostical 1
 gulpers
 genie
 gabling
