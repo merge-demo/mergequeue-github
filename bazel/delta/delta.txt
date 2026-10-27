@@ -2130,7 +2130,7 @@ decandria
 didst
 decandrous
 discrepate
-decane
+decane 1
 debauchment
 decanery
 decanes
