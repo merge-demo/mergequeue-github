@@ -7272,7 +7272,7 @@ footiest
 ferbam
 fenestrate 1
 failance
-furazan
+furazan 1
 freesheet
 figuring
 fiants

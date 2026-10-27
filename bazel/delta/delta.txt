@@ -1422,7 +1422,7 @@ dulcid
 dechoralize
 deportation
 dawdling
-dibbed
+dibbed 1
 dryster
 dichotomized
 damnit
