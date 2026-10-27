@@ -14035,7 +14035,7 @@ extratellurian
 extrait
 electroergometer
 embiotocoid
-exch
+exch 1
 ecclesiasticalism
 escoting
 eyeline
