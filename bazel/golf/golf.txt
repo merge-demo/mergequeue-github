@@ -3443,7 +3443,7 @@ geggery
 glamourize
 greyware
 gesturist
-geothermic
+geothermic 1
 girdingly
 guimpes
 goutily 1
