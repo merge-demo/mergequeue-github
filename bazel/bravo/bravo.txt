@@ -6557,7 +6557,7 @@ boatside
 borickite
 brekky
 benzothiazole
-berberi
+berberi 1
 breastrope
 bout
 biohazard
