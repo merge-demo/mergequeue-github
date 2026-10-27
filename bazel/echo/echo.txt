@@ -4163,7 +4163,7 @@ expungement
 erythrodermia
 externum
 encl
-encaustes
+encaustes 1
 exporter
 elaeosia
 engraphy
