@@ -17936,7 +17936,7 @@ coelect
 cystonephrosis
 coelection
 coelector
-cloacean
+cloacean 1
 cephalomyitis
 copulable
 chololith
