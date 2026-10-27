@@ -15822,7 +15822,7 @@ dorsiflex
 does
 dorsiflexion
 deuteron
-detects
+detects 1
 diacetic
 deluge
 dissertations
