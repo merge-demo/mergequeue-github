@@ -22378,7 +22378,7 @@ anangioid
 astrogeology
 astrogeologist
 ariadne
-anniversaries
+anniversaries 1
 astroglia
 actify
 arcturia
