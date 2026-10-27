@@ -9875,7 +9875,7 @@ felinophobe
 frickle
 ferrel
 frontager
-furilic
+furilic 1
 frozenly
 fibropericarditis
 feverless
