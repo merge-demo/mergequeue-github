@@ -4768,7 +4768,7 @@ adroop
 astrometeorological
 aerations
 abbreviator
-avaunt
+avaunt 1
 anthologizing
 aftermath
 asterionella
