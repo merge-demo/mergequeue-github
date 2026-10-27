@@ -750,7 +750,7 @@ denumerant
 douceness
 didelphia
 decelerometer
-dedolence
+dedolence 1
 disordinated
 discloses
 dnieper
