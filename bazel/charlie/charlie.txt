@@ -1479,7 +1479,7 @@ calkins
 calks
 callainite
 croze
-counterservice
+counterservice 1
 cystidicolous 1
 callais
 callaloo
