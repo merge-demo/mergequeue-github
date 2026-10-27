@@ -5278,7 +5278,7 @@ gliadine
 galvanism
 geomedicine
 gymnogenous
-gurish
+gurish 1
 glaucophane
 garish
 galoubet
