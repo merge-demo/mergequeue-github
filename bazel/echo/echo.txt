@@ -14022,7 +14022,7 @@ endothecia
 epitrophic
 electromotive
 exr
-enthrallingly
+enthrallingly 1
 enteroclisis
 extractorship
 extrasterile
