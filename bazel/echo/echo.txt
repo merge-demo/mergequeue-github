@@ -8298,7 +8298,7 @@ eschynite
 embosoms
 epithalamize
 efractory
-equivalve
+equivalve 1
 ennobles
 exactions
 epithalline
