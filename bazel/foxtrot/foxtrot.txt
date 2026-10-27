@@ -11608,7 +11608,7 @@ frack
 forewinning
 fulgour
 formulizer
-fragilely
+fragilely 1
 fermata
 fustics
 fussbudget
