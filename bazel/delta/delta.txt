@@ -10848,7 +10848,7 @@ dynameter
 darkest
 distant
 dipleurobranchiate
-dauntingly
+dauntingly 1
 dimerized
 displays
 dirged
