@@ -6093,7 +6093,7 @@ feak
 foretriangle
 fleyland
 forecome
-floush
+floush 1
 focalisation
 fouls
 foudroyant
