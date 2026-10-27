@@ -7672,7 +7672,7 @@ emplead
 enterostasis
 earworms
 eton
-epicrasis
+epicrasis 1
 equinal
 eumenid
 enemylike
