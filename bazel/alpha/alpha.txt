@@ -17337,7 +17337,7 @@ aposteme
 amidosulphonal
 aposteriori
 aerogun
-arithmometer
+arithmometer 1
 apostille
 argos
 antagonist
