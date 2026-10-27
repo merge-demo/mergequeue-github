@@ -195,7 +195,7 @@ finitary
 factoryship 1
 floatiness
 fraudulence
-fusinite
+fusinite 1
 flashily
 feuar
 foreignism
