@@ -8010,7 +8010,7 @@ bleakish
 babble
 bicolorous
 betrayal
-bicolors
+bicolors 1
 beadleism
 biconcave
 bidder
