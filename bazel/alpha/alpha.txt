@@ -4183,7 +4183,7 @@ archaeornithes
 adoptee
 alkaphrah
 autozooid
-attributiveness
+attributiveness 1
 autocarpous
 apophthegmatic
 ablare
