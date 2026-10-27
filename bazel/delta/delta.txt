@@ -18503,7 +18503,7 @@ durances
 downcast
 divorced
 duraspinalis 1
-diacritic
+diacritic 1
 duration
 durations
 durbachite
