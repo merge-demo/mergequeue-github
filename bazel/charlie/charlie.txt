@@ -29859,7 +29859,7 @@ canadianism
 crossbar
 crossbars
 cerianthid
-compatience
+compatience 1
 conflates
 columellar
 cowslipped
