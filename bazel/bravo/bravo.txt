@@ -729,7 +729,7 @@ bizcacha
 bolter
 brinjal
 badgerlike
-bending
+bending 1
 befoul
 babiches
 bandsawing
