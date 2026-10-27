@@ -3099,7 +3099,7 @@ defade
 dichlamydeous
 defaillance
 defaitiste
-defalcated
+defalcated 1
 diethyltryptamine
 digraphs
 depleting
