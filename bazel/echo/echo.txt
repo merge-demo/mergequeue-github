@@ -1265,7 +1265,7 @@ ecclesiarch
 eversive
 eking
 electrocystoscope
-equalness
+equalness 1
 eclated
 expands
 eeliest
