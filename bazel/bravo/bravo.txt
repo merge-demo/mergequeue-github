@@ -3272,7 +3272,7 @@ basinets
 basinful
 benzines
 bewhig
-begartered
+begartered 1
 bethank
 bookkeeps
 basidiophore
