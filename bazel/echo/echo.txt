@@ -10531,7 +10531,7 @@ estop
 eucharistial
 eurylaimoid
 eudaemony
-eucharistic
+eucharistic 1
 eucharistically
 earthfall
 ephthalite
