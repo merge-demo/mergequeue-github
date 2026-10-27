@@ -2483,7 +2483,7 @@ ejecting
 electrogram
 endows
 eupolyzoa
-eleve
+eleve 1
 exegete
 ellipsoids
 eurythmical
