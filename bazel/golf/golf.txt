@@ -6702,7 +6702,7 @@ gibbet
 gulae
 gobmouthed
 growable
-gromatic
+gromatic 1
 gibbergunyah
 gymnosperm
 grattage
