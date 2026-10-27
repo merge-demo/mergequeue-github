@@ -26804,7 +26804,7 @@ countered
 cypselomorph
 counterefficiency
 countereffort
-comfortful
+comfortful 1
 cottiest
 counterembattled
 counterenergy
