@@ -10792,7 +10792,7 @@ disadvantageous
 diquat
 dirdums
 demirelief
-directdiscourse
+directdiscourse 1
 dynodes
 doyleys
 diastereoisomeric
