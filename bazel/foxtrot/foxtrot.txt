@@ -5575,7 +5575,7 @@ fallaciously
 filamentar
 fiendlike
 flaxlike 1
-folkvangr
+folkvangr 1
 flockowner
 fossicking
 firefight
