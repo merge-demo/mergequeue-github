@@ -11131,7 +11131,7 @@ footmarks
 furuncular
 flaggery
 formylated
-forumize
+forumize 1
 foreallot
 fanega
 freeings
