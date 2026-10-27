@@ -11939,7 +11939,7 @@ endamebas
 exchanges
 eristical
 electrotherapist
-exalter
+exalter 1
 exocataphoria
 ese
 exairesis
