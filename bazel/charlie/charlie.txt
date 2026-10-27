@@ -1256,7 +1256,7 @@ cameo
 calendarial
 chusite
 cicadid
-counterpoise
+counterpoise 1
 calendaring
 cyprine
 coilability
