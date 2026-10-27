@@ -6965,7 +6965,7 @@ elicitate
 embrocado
 entraining
 earwig
-entrainment
+entrainment 1
 entrains
 emissaryship
 entrancedly
