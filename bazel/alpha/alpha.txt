@@ -17433,7 +17433,7 @@ anodizing
 astronomer
 apozem
 astrophel
-angiostomize
+angiostomize 1
 apozema
 apozymase
 argemony
