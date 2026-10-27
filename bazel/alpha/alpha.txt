@@ -19289,7 +19289,7 @@ aristas
 absentmindedly
 arenoid
 alation
-australis
+australis 1
 arenosity
 areographical
 areolae
