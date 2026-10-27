@@ -16581,7 +16581,7 @@ dragomanate
 disharmonic
 decompile
 disclaims
-daman
+daman 1
 dambose
 dissimilated
 denunciate

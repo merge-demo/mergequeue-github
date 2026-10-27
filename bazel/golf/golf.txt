@@ -8006,7 +8006,7 @@ gratitude
 geste
 gemse
 ghosthood
-gangsman
+gangsman 1
 gouvernante
 grapnels
 glaucine
