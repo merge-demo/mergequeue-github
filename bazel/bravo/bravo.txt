@@ -13902,7 +13902,7 @@ bowshot
 bulbaceous 1
 brainish
 bowshots
-bombarder
+bombarder 1
 backstopped
 backhauled
 billback
