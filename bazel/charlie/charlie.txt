@@ -30559,7 +30559,7 @@ contraprops
 cubitale
 caninal
 cubitalia 1
-cubiti
+cubiti 1
 cubitiere
 cubito
 cubitocarpal
