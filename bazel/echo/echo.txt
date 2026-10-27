@@ -3486,7 +3486,7 @@ enserfment
 emblazers
 erke
 emblazes
-envies
+envies 1
 evelight
 emblazoned
 emblazoner
