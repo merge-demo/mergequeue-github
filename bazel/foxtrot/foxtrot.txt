@@ -8798,7 +8798,7 @@ flossification
 fondlike
 forthbring
 frizzlier
-frontosphenoidal
+frontosphenoidal 1
 fulfills
 flancard
 fecundation
