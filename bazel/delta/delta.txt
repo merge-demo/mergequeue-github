@@ -8312,7 +8312,7 @@ diaclastic
 doryline
 disabused
 disregardance
-diaguite
+diaguite 1
 dyak
 diaka
 despeed
