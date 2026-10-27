@@ -15224,7 +15224,7 @@ anacoenoses
 amylogens
 askewness
 antiflattering
-accordantly
+accordantly 1
 antiflatulent
 antiflux
 anticlergy
