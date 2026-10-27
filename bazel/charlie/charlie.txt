@@ -2895,7 +2895,7 @@ curatively
 cacaos
 cantabile
 clothesmonger
-chalcis
+chalcis 1
 cantabrian
 cantabrigian
 cantalever
