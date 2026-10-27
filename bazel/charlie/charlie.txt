@@ -27208,7 +27208,7 @@ chelas
 corses
 counterturned
 cicatrised
-curnock
+curnock 1
 colutea
 cosin
 camisade

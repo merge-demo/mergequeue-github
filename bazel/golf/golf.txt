@@ -7519,7 +7519,7 @@ giggling
 gloomfully
 glossopharyngeal
 glitch
-guessable
+guessable 1
 glottalized
 gat
 governed
