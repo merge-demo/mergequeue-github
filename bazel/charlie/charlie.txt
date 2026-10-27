@@ -1013,7 +1013,7 @@ calanque
 calantas
 chromocenter
 chondroid
-calapite
+calapite 1
 caprelline
 calappidae
 calas
