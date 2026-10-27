@@ -20964,7 +20964,7 @@ ascendable
 ayenbite
 amortisseur
 ahtena
-antirust
+antirust 1
 athreptic
 autotroph
 ascendancy
