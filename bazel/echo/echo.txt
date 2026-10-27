@@ -1045,7 +1045,7 @@ emblem
 epipleura
 elberta
 expeditions
-exadversum
+exadversum 1
 etchareottine
 excisable
 eyeless
