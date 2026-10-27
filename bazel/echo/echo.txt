@@ -10718,7 +10718,7 @@ emplacement
 euhemerist
 erichthus
 encrease
-emacerate
+emacerate 1
 emblazer
 ecologic
 euhyostylic
