@@ -13998,7 +13998,7 @@ dolomitising
 dentoid
 diphosphide
 donary
-dependably
+dependably 1
 distracter
 deaurate
 distraction 1
