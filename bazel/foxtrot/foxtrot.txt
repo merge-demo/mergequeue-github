@@ -9805,7 +9805,7 @@ fretten
 firedamps
 fragmentary
 flowoff
-fattens
+fattens 1
 foredooming
 fleck
 faddist
