@@ -8463,7 +8463,7 @@ deration
 dibutyl
 didymis
 diamat
-dermochrome
+dermochrome 1
 diambic
 diamegnetism
 diazepam
