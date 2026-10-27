@@ -5616,7 +5616,7 @@ fraik
 fleysome
 forehock
 funicular
-faddiest
+faddiest 1
 florescent
 flightier
 foster
