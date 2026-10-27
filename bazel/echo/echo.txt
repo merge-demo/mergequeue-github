@@ -5704,7 +5704,7 @@ eustacies
 emendator
 eflagelliferous
 evomit
-eppie
+eppie 1
 extraventricular
 extras
 episcopalism
