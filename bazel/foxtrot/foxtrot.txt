@@ -5703,7 +5703,7 @@ forfeitures
 fungitoxicity
 fubsiest
 frasse
-fracturableness
+fracturableness 1
 flipperling
 flawlessly
 furious
