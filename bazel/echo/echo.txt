@@ -10575,7 +10575,7 @@ ergatandromorphic
 erotomania
 epephragmal
 enthusing
-entomophily
+entomophily 1
 exhibitory
 epiclidal
 esprits

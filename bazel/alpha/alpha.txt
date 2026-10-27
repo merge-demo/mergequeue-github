@@ -25034,7 +25034,7 @@ akala
 awnless
 argentinean
 assassinated
-ablepsia
+ablepsia 1
 allodium
 allocheiria
 anklung
