@@ -7667,7 +7667,7 @@ devexity
 dividedly
 dobzhansky 1
 drumbled
-divesture
+divesture 1
 deunam
 debell
 deviance

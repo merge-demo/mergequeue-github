@@ -11343,7 +11343,7 @@ coopted
 capman
 chloromycetin
 curbed
-chiasmatype 1
+chiasmatype 2
 chloronitrate
 cruche
 colonizer
