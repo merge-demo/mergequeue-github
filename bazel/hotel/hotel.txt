@@ -278,7 +278,7 @@ hafjp
 hafl
 hafllhx
 hafly
-hafn
+hafn 1
 hafo
 hafpbwv
 hafpjikety
