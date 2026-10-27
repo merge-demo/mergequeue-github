@@ -9914,7 +9914,7 @@ debarred
 dimethylsulphoxide
 dekarch
 dislock
-dimethoxy
+dimethoxy 1
 donatistical
 descents
 descendingly
