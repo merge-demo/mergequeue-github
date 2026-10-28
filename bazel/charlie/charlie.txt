@@ -16852,7 +16852,7 @@ caravanned
 cahokia
 clubhauled
 clubhauls
-clubhouses
+clubhouses 1
 clubionidae
 clubland
 clubman
