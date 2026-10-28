@@ -2044,7 +2044,7 @@ givenness
 gyroscopics
 gerocomia
 gavelocks
-gattine
+gattine 1
 gasometrically
 goaf
 gallied
