@@ -6416,7 +6416,7 @@ druidic
 deewans
 deportment
 disadvanced 1
-derride
+derride 1
 derriere
 dactyli
 duster

@@ -3677,7 +3677,7 @@ gillnets
 gigantine
 ghizite
 glops
-gurgly
+gurgly 1
 governorships
 gadgeteers
 glyptician
