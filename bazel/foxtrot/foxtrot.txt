@@ -3034,7 +3034,7 @@ floodage
 flogster
 fioriture
 fairyology
-firemanship
+firemanship 1
 feoffers
 footwears
 frostflower
