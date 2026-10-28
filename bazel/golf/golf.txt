@@ -3407,7 +3407,7 @@ gainor
 guttulate 1
 gymnoceratous
 geosid
-gerontocrat
+gerontocrat 1
 gigglish
 grains
 gregarinian
