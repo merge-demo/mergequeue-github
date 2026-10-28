@@ -2668,7 +2668,7 @@ ectocornea
 evil
 exciples
 embiidina
-electrostriction
+electrostriction 1
 epizootiologic
 ejurate
 epitomizing
