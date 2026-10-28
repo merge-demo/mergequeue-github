@@ -10876,7 +10876,7 @@ antiproteolysis
 argolian
 ammono
 ammonoidea
-ammonoidean
+ammonoidean 1
 aerocartography
 anaglyphy
 ammonoids
