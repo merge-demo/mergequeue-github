@@ -6807,7 +6807,7 @@ entoblastic
 entobronchium
 eelgrass
 ellinge
-entocyemate
+entocyemate 1
 everett
 efoliolate
 enneatic
