@@ -22855,7 +22855,7 @@ atoke
 assemblages
 alphenic
 anyhow
-assonate
+assonate 1
 aquo
 atmosphereless
 announces
