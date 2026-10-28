@@ -6670,7 +6670,7 @@ bradypnoea
 bering
 beneficences
 broughtas
-burghs
+burghs 1
 busto
 babbles
 berytidae
