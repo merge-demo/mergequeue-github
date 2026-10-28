@@ -1052,7 +1052,7 @@ gorgonin
 gompholobium
 ganglioid
 ganglioma
-gangliomas
+gangliomas 1
 ganglionate
 ganglionated
 gymnoconia
