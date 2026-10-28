@@ -11671,7 +11671,7 @@ electrophone
 equimomental
 elasmobranch
 electromechanics
-ethnical
+ethnical 1
 exaestuate
 eyeball
 erept
