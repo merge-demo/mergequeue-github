@@ -5138,7 +5138,7 @@ foreadvise
 fellas
 flashover
 frivolous
-fawns
+fawns 1
 fructure
 flasker
 furless
