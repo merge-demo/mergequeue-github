@@ -1935,7 +1935,7 @@ camelopardalis
 consubstantiation
 carcinus
 cinnamomum
-chiliarchy
+chiliarchy 1
 camelopards
 cotterite
 constant
