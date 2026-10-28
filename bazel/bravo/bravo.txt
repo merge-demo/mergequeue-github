@@ -4628,7 +4628,7 @@ bedecking
 beholdingness
 bulletproofed
 broadens
-bedehouse
+bedehouse 1
 broadenings
 byrewards
 bullrushes
