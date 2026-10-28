@@ -2474,7 +2474,7 @@ candelabras
 candelabrum
 corelatively
 candelilla
-conductible
+conductible 1
 choraguses
 certitude
 clang
