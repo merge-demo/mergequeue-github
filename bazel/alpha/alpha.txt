@@ -23213,7 +23213,7 @@ antwerp
 akemboll
 abyssinia
 attestor
-aggrandizes
+aggrandizes 1
 anorthopia
 attests
 aleuromancy
