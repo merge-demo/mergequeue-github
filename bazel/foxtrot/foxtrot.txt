@@ -11373,7 +11373,7 @@ focalizing 1
 fluorindin
 fibropolypus
 fruitade
-faute
+faute 1
 furnacelike
 firetraps
 fosters
