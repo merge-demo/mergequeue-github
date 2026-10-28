@@ -15732,7 +15732,7 @@ dendrochronologist
 diphosphid
 denunciation
 dismarch
-deescalation
+deescalation 1
 disintegrates
 dewools
 disbuds
