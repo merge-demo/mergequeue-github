@@ -254,7 +254,7 @@ gainage
 griselda
 greenlandic 1
 geologizing
-ghostlike
+ghostlike 1
 gambrelled
 glamorous
 guao
