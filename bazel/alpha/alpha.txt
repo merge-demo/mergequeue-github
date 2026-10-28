@@ -17425,7 +17425,7 @@ asciferous
 autographism
 aftershave
 apotropous
-anthomedusan
+anthomedusan 1
 aldimine
 adoxies
 apofenchene
