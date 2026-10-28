@@ -5357,7 +5357,7 @@ abuseful
 affrayers
 affraying
 affrays
-admeasured
+admeasured 1
 affranchise
 adiadokokinesi
 affret
