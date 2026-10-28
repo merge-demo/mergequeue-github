@@ -23620,7 +23620,7 @@ auntlike
 auntre 1
 acanthon
 acidemia
-antistrophal
+antistrophal 1
 auntrous
 antiethnic
 algebraic
