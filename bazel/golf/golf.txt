@@ -10558,7 +10558,7 @@ gimpy
 gambetta
 grandmaster
 goustie
-gemmiest
+gemmiest 1
 gatepost
 glyphs
 guanays
