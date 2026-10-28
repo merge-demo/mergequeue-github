@@ -3037,7 +3037,7 @@ backswordsman
 bookbinderies
 bubba
 bartramian
-banish
+banish 1
 beetmister
 bliest
 burlesks

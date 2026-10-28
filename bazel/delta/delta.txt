@@ -9585,7 +9585,7 @@ desmitis
 deuterons
 digonal
 digoneutism
-differentness
+differentness 1
 divisi
 digoxins
 digraphically
