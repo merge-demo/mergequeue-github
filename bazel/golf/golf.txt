@@ -2921,7 +2921,7 @@ gombos
 gingerous
 gee
 gelose
-gaylussite
+gaylussite 1
 gobiiformes
 gwiniad
 glitter
