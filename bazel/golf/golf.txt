@@ -5187,7 +5187,7 @@ gainsay
 gunbright
 grandioseness
 gaussbergite
-gleamy
+gleamy 1
 gorer
 gangliglions
 gumboots 1
