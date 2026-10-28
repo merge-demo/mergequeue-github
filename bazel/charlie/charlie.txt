@@ -17954,7 +17954,7 @@ colics
 cattlehide
 coelenterate
 catharses
-crotin
+crotin 1
 coelenterates
 coelenteric
 copyman

@@ -4225,7 +4225,7 @@ bromol
 blanketeer
 beaupere
 beausire
-batetela
+batetela 1
 bilharziasis
 beauteous
 beauti
