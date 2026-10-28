@@ -7036,7 +7036,7 @@ centauric
 checkline
 centauridium
 chaetognath
-centauries
+centauries 1
 constructure
 centauromachy
 centauromachia
