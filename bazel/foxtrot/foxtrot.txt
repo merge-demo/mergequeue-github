@@ -9417,7 +9417,7 @@ flammed
 faciendum
 franz
 felidae
-foliiferous
+foliiferous 1
 flamines
 fliers
 foodstuff
