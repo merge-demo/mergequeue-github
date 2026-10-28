@@ -12297,7 +12297,7 @@ exemptions
 ephemerist
 eviternal
 excerp
-exemptive
+exemptive 1
 exendospermous
 environal
 exenterate
