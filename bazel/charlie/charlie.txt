@@ -20773,7 +20773,7 @@ cricketings
 coenesthesis
 coalyard
 complimental
-complimentally
+complimentally 1
 complimentarily
 complimentariness
 complimentarity
