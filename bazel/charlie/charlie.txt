@@ -27568,7 +27568,7 @@ colloquialist
 cadency
 cupmaker
 coves
-censured
+censured 1
 covet
 cerealin
 covetable
