@@ -11716,7 +11716,7 @@ furriered
 forebitter
 ferruled
 foredesign
-friars
+friars 1
 fosslology
 flighty
 fawnskin
