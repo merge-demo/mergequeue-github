@@ -1023,7 +1023,7 @@ guttle
 glanduliferous
 gully
 geognostic
-geodetician
+geodetician 1
 ganger
 guesten
 genthite
