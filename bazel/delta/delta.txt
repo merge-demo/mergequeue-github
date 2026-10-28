@@ -12504,7 +12504,7 @@ disimpark
 disimpassioned
 disempower
 dispersoidological
-disimprison
+disimprison 1
 dentinitis
 diopsidae
 daube
