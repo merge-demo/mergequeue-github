@@ -15214,7 +15214,7 @@ clairvoyances
 clairvoyancy
 clairvoyant
 chinaberry
-claystone
+claystone 1
 curtained
 cynomoriaceous
 claith
