@@ -2577,7 +2577,7 @@ etrogs
 electron
 elastins
 exenteration
-escapeful
+escapeful 1
 ethchlorvynol
 everest
 evaporator
