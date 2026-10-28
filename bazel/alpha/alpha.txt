@@ -15721,7 +15721,7 @@ antiparticles
 addice
 antipasch
 antipastic
-antipastos
+antipastos 1
 aureolin
 archaeocyathus
 acromania
