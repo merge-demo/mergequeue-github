@@ -1396,7 +1396,7 @@ caligation
 caliginosity
 caliginously
 cyanin
-cunctipotent
+cunctipotent 1
 cylindrical
 cabbling
 caligrapher
