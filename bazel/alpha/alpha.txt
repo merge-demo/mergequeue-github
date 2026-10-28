@@ -5274,7 +5274,7 @@ arthron
 anthomedusae 1
 alemanni
 aggerate
-affinities
+affinities 1
 affinition
 apostrophe
 affinitive
