@@ -23312,7 +23312,7 @@ consumer
 consumerist
 consumes 1
 catamnestic
-cardioblast
+cardioblast 1
 consuming
 consumingly
 consummated
