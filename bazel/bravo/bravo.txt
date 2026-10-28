@@ -7634,7 +7634,7 @@ biogenies
 beeper
 burgling
 bewraps
-basilisks
+basilisks 1
 belesprit
 bewrapt
 bewreck
