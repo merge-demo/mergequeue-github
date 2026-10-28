@@ -8772,7 +8772,7 @@ euphyllite
 eradicable
 enticement
 eradicant
-epineolithic
+epineolithic 1
 equilibrity
 embossable
 enround
