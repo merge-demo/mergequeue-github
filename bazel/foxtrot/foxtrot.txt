@@ -4288,7 +4288,7 @@ foreshortens
 foiblesse
 foreordains
 fendable
-fastuous
+fastuous 1
 firk
 febrifuges
 filacer
