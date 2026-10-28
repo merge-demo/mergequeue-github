@@ -8037,7 +8037,7 @@ busked
 bluntness
 bicornate
 bowery
-brutal
+brutal 1
 bicorned
 booby
 bochur
