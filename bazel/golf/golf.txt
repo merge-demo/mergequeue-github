@@ -8396,7 +8396,7 @@ gaucherie
 gawby
 grebe
 gizzards
-gulping
+gulping 1
 grippes
 giantry
 gunplay
