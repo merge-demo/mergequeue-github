@@ -14154,7 +14154,7 @@ coxalgies
 concentricity
 catatonia
 circulators
-circulus
+circulus 1
 cavaedium
 circumambiency
 circumambient
