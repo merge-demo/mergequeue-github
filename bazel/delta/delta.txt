@@ -4579,7 +4579,7 @@ dovetail
 demineralized
 demonstrators
 dumontia
-demineralizes
+demineralizes 1
 deadhouse
 demineralizing
 demiofficial
