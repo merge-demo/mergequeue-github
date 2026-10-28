@@ -5979,7 +5979,7 @@ enigma
 egotism
 enigmas
 enjambements
-enigmata
+enigmata 1
 eluvial
 exquisite
 etourderie
