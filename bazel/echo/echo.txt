@@ -9529,7 +9529,7 @@ enantiotropy
 esemplasy
 extremities
 educationese
-earthworm
+earthworm 1
 enteradenology
 emboldened
 englutting
