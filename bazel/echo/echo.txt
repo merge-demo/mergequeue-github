@@ -6181,7 +6181,7 @@ ectoparasitic
 embronze
 evagation
 entertainers
-entrancing
+entrancing 1
 eyepoints
 eustatic
 enneandrian
