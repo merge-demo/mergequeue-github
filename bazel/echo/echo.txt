@@ -8036,7 +8036,7 @@ envapour
 emigating
 epipanies
 endovasculitis
-exsanguious
+exsanguious 1
 euthenist
 encoop
 electrodentistry
