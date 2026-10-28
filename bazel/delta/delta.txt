@@ -15187,7 +15187,7 @@ dolcino
 dididae
 discloak
 disbalance
-doleance
+doleance 1
 delectably
 directory
 dolefully
