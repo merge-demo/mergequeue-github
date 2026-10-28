@@ -11653,7 +11653,7 @@ bisymmetric
 badju
 boatsteerer
 biracialism
-buddies
+buddies 1
 brandying
 bilsted
 blindfast
