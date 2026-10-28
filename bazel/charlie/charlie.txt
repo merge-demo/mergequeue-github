@@ -8935,7 +8935,7 @@ crinivorous
 crowds
 catechumenical
 catholicizing 1
-chareter
+chareter 1
 charette
 censers
 chemisms
