@@ -1593,7 +1593,7 @@ entires
 enumerator
 eucaines
 eff
-estopped
+estopped 1
 erogenetic
 embay
 euphonetics
