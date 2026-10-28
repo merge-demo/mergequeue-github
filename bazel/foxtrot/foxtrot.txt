@@ -3645,7 +3645,7 @@ farmable
 fridstool
 frictionlessly
 flashing
-faintishness
+faintishness 1
 fielder
 floatsman
 froglets
