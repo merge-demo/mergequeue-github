@@ -9519,7 +9519,7 @@ gorgeted
 gyred
 grimp
 giftbook
-gymnosporous
+gymnosporous 1
 granting
 guiltiness
 gentilitious
