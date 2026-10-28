@@ -8087,7 +8087,7 @@ fissuriform
 fumer
 flusterated
 forejudged
-forenews
+forenews 1
 faunistic
 foyboat
 fulminated
