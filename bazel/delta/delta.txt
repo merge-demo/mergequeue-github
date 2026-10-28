@@ -16138,7 +16138,7 @@ divinity
 dendrocoelous 1
 dourest
 douroucouli
-dousing
+dousing 1
 dout
 desorbing
 decrypted
