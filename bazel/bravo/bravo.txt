@@ -8200,7 +8200,7 @@ blowtorch
 biflagelate
 bewaring
 boring
-borrow
+borrow 1
 biflex
 benchfellow
 beginger
