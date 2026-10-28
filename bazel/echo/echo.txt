@@ -7952,7 +7952,7 @@ eolopile
 equivocatory
 estragol
 ensilation
-expounds
+expounds 1
 epimanikion
 epimeres
 electrostenolysis
