@@ -4465,7 +4465,7 @@ gip
 gpd
 gleba
 gladiatorship
-galloman
+galloman 1
 gaultherine
 gipon 1
 gaetulan
