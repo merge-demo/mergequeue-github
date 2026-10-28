@@ -9063,7 +9063,7 @@ charnockite
 covarecan
 charnockites
 charnu
-conglomeratic
+conglomeratic 1
 ceratostomella
 compartmentalized
 culturalist
