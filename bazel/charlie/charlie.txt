@@ -2627,7 +2627,7 @@ cheeseflower
 cursaro
 coign
 camelopardel
-canes
+canes 1
 caprellidae
 canescence
 chaetetes
