@@ -6751,7 +6751,7 @@ exhilarate
 enthral
 eschewers
 enthralldom 1
-exurb
+exurb 1
 enormously
 enveloping
 esterifies
