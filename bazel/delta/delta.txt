@@ -4082,7 +4082,7 @@ degrain
 despicably
 divaricate
 dealerships
-domestication
+domestication 1
 delightfulness
 discant
 danize
