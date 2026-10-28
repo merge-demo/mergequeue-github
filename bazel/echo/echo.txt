@@ -1192,7 +1192,7 @@ educational
 extratracheal
 estipulate
 estimation
-eroded
+eroded 1
 elenge
 entirities
 espathate
