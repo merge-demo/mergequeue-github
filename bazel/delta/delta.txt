@@ -4860,7 +4860,7 @@ dactyliotheca
 dodlet
 deaneries 1
 ductile
-declive
+declive 1
 durrie
 depredationist
 dispersity
