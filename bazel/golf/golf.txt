@@ -3948,7 +3948,7 @@ gipsy
 gynaecocratic 1
 geneal
 gigawatt
-gutser
+gutser 1
 glochchidia
 garote
 gratuito

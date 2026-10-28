@@ -360,7 +360,7 @@ doorboy
 dailamite
 dotiness
 demonifuge
-defames
+defames 1
 daylights
 deutomalar
 desalters
