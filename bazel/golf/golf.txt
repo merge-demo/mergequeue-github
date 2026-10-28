@@ -8544,7 +8544,7 @@ gourmand
 grabbling
 generates
 geranomorph
-geodetical
+geodetical 1
 gusla
 gilo
 germaneness
