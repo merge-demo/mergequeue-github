@@ -2318,7 +2318,7 @@ forbysen
 fens
 fluctuates
 furrowless
-frangipane
+frangipane 1
 fritter
 fensive
 faulkland
