@@ -3361,7 +3361,7 @@ candlestick
 catapetalous
 counterweighing
 capotasto
-capotastos
+capotastos 1
 choicest
 chronographically
 celsius
