@@ -17809,7 +17809,7 @@ anthranone
 aegialitis
 attacapan
 appose
-appeasable
+appeasable 1
 amplex
 alex
 alisphenoid
