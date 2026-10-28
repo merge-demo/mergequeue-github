@@ -4808,7 +4808,7 @@ descendentalism
 detournement
 deux 1
 dishing
-distemperedness
+distemperedness 1
 diffusively
 demolish
 detrained
