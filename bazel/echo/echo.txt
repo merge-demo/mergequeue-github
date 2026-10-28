@@ -6732,7 +6732,7 @@ evaginable
 emunge
 enuresis
 entertake
-exstimulate
+exstimulate 1
 exhumed
 eonism
 exstill
