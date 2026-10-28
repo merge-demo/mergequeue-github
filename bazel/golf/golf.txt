@@ -5542,7 +5542,7 @@ guttiferous
 germinally
 gangplanks
 glycidol
-gorsier
+gorsier 1
 gowning
 gad
 grumbles
