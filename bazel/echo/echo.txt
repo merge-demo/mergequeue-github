@@ -10471,7 +10471,7 @@ emblemed
 enteroviral
 etherin
 epochist
-exalate
+exalate 1
 encroachingly
 elance
 etiquette
