@@ -8682,7 +8682,7 @@ argyrite
 almes
 alternationist
 allelomorphic
-allelotropy
+allelotropy 1
 allelotropic
 attendantly
 aldehydase
