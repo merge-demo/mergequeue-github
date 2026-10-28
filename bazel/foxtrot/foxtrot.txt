@@ -1052,7 +1052,7 @@ foined
 floricomous
 forensal
 fringillidae
-foraging
+foraging 1
 fogas
 fastigiately
 faro
