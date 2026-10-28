@@ -1808,7 +1808,7 @@ billycans
 bancha
 bivial
 beslime
-bullose 1
+bullose 2
 bialystoker
 bandaged
 bandaging
