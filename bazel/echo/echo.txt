@@ -10849,7 +10849,7 @@ endostomata
 envineyard
 enchase
 eisteddfodau
-euphotic
+euphotic 1
 entailable
 equitability 1
 eructation
