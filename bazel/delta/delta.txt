@@ -6735,7 +6735,7 @@ dacron
 dimedone
 dispeopled
 decapetalous
-disacidify
+disacidify 1
 date
 designatum
 designedly
