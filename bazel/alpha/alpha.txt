@@ -24890,7 +24890,7 @@ arundinaria
 assimilate
 antineurotoxin
 arterializing
-amblyocarpous
+amblyocarpous 1
 adiponitrile
 antiaggression
 amurru
