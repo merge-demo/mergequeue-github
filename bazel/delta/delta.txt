@@ -12058,7 +12058,7 @@ discous
 discontinuity
 doorlike
 ditheist
-delirant
+delirant 1
 demantoid
 dijudicated
 disensure
