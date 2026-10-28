@@ -6305,7 +6305,7 @@ agraria
 amyelonic
 aerotactic
 attenuant
-abvolt
+abvolt 1
 adjectively
 aute
 animative
