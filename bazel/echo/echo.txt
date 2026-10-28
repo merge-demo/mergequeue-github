@@ -7606,7 +7606,7 @@ euglena
 earnestness
 exterminate
 eikonology
-enfeoffs
+enfeoffs 1
 essling
 effoliate
 ersar

@@ -1217,7 +1217,7 @@ clobbering
 chiding
 causativeness
 cestuses
-cecily
+cecily 1
 caledonite
 clape
 confections
