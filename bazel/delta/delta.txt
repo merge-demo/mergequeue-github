@@ -17942,7 +17942,7 @@ deve
 durras
 dugento
 devouress
-dactylous
+dactylous 1
 dugongidae
 diminutional
 deliriously
