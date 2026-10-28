@@ -7164,7 +7164,7 @@ alabamide
 alabamine
 armillaria
 alkalinizes
-alabarch
+alabarch 1
 aidmanmen
 alabaster
 atellan
