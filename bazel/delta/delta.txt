@@ -619,7 +619,7 @@ deadrize
 disintegrating
 deadhand
 derelinquendi
-disgracefulness
+disgracefulness 1
 definientia
 disinhumed
 determinantal
