@@ -11760,7 +11760,7 @@ chondrography
 cytomegalic
 conduplication
 chondroitic
-chondroitin
+chondroitin 1
 cucurbitaceae
 chondromatous
 chondromyces
