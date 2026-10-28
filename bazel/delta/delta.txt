@@ -10882,7 +10882,7 @@ dicaryophyte
 damns
 drudging
 dirty
-donates
+donates 1
 dirtied
 denazifying
 dirtying
