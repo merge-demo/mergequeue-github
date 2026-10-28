@@ -10542,7 +10542,7 @@ cardon
 cirsocele
 cymbocephaly
 cicadae
-chill
+chill 1
 cyclanthaceous
 chilla
 cerebric
