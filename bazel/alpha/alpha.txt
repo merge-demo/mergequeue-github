@@ -982,7 +982,7 @@ amassette
 abstergent
 absterges
 antituberculin
-amphigastrula
+amphigastrula 1
 abstersiveness
 aggregable
 abstertion
