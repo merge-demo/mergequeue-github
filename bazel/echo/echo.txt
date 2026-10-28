@@ -6426,7 +6426,7 @@ ensilist
 exceptions
 ensilver
 ensisternum
-equilibrating
+equilibrating 1
 esquiring
 eye
 earthling
