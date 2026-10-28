@@ -1183,7 +1183,7 @@ dicaeology
 dodecaphony
 diiamb
 donnybrook
-diachoretic
+diachoretic 1
 dextrinize
 dogfall
 desmotropy
