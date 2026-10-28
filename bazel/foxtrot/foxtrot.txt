@@ -5681,7 +5681,7 @@ flingy 1
 funded
 fiddlestring
 flings
-freestyle
+freestyle 1
 fishwife
 flinkite
 flint
