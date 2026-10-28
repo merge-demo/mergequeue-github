@@ -9129,7 +9129,7 @@ funambulated
 faulkner
 frizzers
 forepoint
-foldboating
+foldboating 1
 frusta
 fooner
 fracid 1
