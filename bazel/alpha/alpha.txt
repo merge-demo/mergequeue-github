@@ -12627,7 +12627,7 @@ aneuric
 azo
 amentiferae
 aleuron
-arrayan
+arrayan 1
 aesopic
 advene
 allochroite
