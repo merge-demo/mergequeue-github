@@ -13217,7 +13217,7 @@ alloplasmic
 animistic
 anabatic
 accretionary
-apraxias
+apraxias 1
 animize
 amaltas
 anilidic
