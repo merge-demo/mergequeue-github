@@ -11548,7 +11548,7 @@ disubstituted
 defassa
 discommoned
 dextrinase
-detective
+detective 1
 dcolletage
 denationalised
 downland
