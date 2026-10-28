@@ -929,7 +929,7 @@ astriction
 atomistics
 absolvitor
 aldolize
-alloxy
+alloxy 1
 animous
 appeasably
 absonous
