@@ -24532,7 +24532,7 @@ copeia
 copelata
 copeman
 copemate
-copending
+copending 1
 colonialist
 calorizes
 copenetrate
