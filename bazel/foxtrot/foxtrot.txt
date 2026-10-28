@@ -7127,7 +7127,7 @@ flinchers 1
 footboard
 footboards
 frotteurs
-feckful
+feckful 1
 friszka
 footboy
 fossette
