@@ -9776,7 +9776,7 @@ amalgam
 ammochaetae
 apophonies
 amalgamate
-ambolic
+ambolic 1
 adjutory
 antimonarchical
 anamesite
