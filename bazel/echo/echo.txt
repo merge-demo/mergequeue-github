@@ -12870,7 +12870,7 @@ expandable
 escropulo
 erotopathic
 erethisms
-exsert
+exsert 1
 endamoeba
 expandedly
 engrace
