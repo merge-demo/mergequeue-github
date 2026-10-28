@@ -1139,7 +1139,7 @@ definitional
 diporpa
 dashmaker
 deprocedured
-disoriented
+disoriented 1
 depotentiate
 defilers
 decadarchy
