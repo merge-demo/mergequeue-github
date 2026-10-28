@@ -1001,7 +1001,7 @@ darings
 dithematic
 darius
 dinornithine
-doubleprecision
+doubleprecision 1
 dark
 dinkeys
 darked
