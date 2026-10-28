@@ -4767,7 +4767,7 @@ decarbonization
 decodable
 demodectic
 disarticulate
-detachably
+detachably 1
 deaved
 diadochokinetic
 dromophobia
