@@ -16423,7 +16423,7 @@ dimorphous
 deviousness
 dozzle
 dozzled
-dr
+dr 1
 draba
 disassembles
 drabant
