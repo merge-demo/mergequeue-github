@@ -10324,7 +10324,7 @@ electuaries
 exosmic
 extemporise
 exaggerative
-ethonomics
+ethonomics 1
 ethnocentric
 epeirogenic
 encyclopaedical
