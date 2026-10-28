@@ -24031,7 +24031,7 @@ anantherate
 axmaster
 anthracnosis
 antimellin
-ansate
+ansate 1
 alemite
 autocopist
 acrophonies
