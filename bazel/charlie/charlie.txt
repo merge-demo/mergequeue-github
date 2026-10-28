@@ -26997,7 +26997,7 @@ compartmentize
 counterpaned
 counterparry 1
 counterpart
-counterpassant
+counterpassant 1
 counterpendent
 culpa
 chartae
