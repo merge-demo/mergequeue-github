@@ -1993,7 +1993,7 @@ baning
 bandcutter
 bhaiachara
 banisher
-banishing
+banishing 1
 banishment
 banyuls
 baniva
