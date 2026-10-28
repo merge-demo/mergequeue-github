@@ -6772,7 +6772,7 @@ berrichonne
 bosquet
 berrier
 berries
-bitterbur
+bitterbur 1
 beaut
 buhls
 barytosulphate
