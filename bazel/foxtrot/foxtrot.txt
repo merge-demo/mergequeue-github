@@ -9620,7 +9620,7 @@ falcata
 ferias
 fortalice
 finalities
-flukier
+flukier 1
 foamer
 frons
 freeloaded
