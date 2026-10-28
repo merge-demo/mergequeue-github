@@ -8912,7 +8912,7 @@ experimentally
 eleutheromaniac
 ergoted
 explosible
-encephalomalaxis
+encephalomalaxis 1
 ergotism
 ergotizing
 erichthoid
