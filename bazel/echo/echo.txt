@@ -6541,7 +6541,7 @@ endostosis
 ephyra
 exactly
 extratension
-entail
+entail 1
 entomophthora
 elaphodus
 endurant
