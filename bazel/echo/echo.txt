@@ -8801,7 +8801,7 @@ eventuations
 eldmother
 equestrial
 elide
-ensellure
+ensellure 1
 eight
 etruscans
 egritude
