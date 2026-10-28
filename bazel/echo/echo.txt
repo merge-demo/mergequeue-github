@@ -4885,7 +4885,7 @@ expectorator
 electroed
 exportable
 episcopolatry
-encrinic
+encrinic 1
 encrinidae
 encrinital
 elegance
