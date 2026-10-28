@@ -5407,7 +5407,7 @@ fennel
 friending 1
 frigefact
 futurity
-fleabiting
+fleabiting 1
 fledgeling
 fiendhead
 foxfinger
