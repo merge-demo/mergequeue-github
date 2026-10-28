@@ -4267,7 +4267,7 @@ gubbo
 gnu
 gynecocracies
 goby
-gynecocrat
+gynecocrat 1
 gunshots
 gleamed
 gastroscope
