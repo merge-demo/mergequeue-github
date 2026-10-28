@@ -3867,7 +3867,7 @@ emersonianism
 emesa
 emeses
 effigiate
-epalpate
+epalpate 1
 ethnobotanical
 emesis
 entrapment
