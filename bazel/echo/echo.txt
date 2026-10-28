@@ -8086,7 +8086,7 @@ epiglottidean
 epiphloeum
 etherize
 essoign
-emotional
+emotional 1
 exceptive
 empowerment
 equicrural
