@@ -22273,7 +22273,7 @@ astragalocalcaneal
 algums
 alkalinuria
 astragalocentral
-adz
+adz 1
 aponia
 aurated
 alcibiades
