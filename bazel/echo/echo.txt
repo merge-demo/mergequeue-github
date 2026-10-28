@@ -8200,7 +8200,7 @@ episkeletal
 eequinoctium
 enroots
 ethnicity
-expirant
+expirant 1
 episodical
 earsh
 episodically
