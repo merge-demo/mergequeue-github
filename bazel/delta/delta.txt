@@ -5562,7 +5562,7 @@ deoxygenized
 demicolumn
 diffusionism
 depascent
-debilitation
+debilitation 1
 disrepute
 depasture
 depatriate
