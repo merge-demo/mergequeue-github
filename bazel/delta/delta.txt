@@ -10684,7 +10684,7 @@ derationalize
 dreadlessness
 denunciating
 demorage
-disendower
+disendower 1
 disapprover
 drownproofing
 doyle
