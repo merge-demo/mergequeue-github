@@ -607,7 +607,7 @@ galactose
 galbulinae
 guaranian
 glockenspiels
-glossopalatine
+glossopalatine 1
 grieben
 guineas
 gorgoniacea
