@@ -10717,7 +10717,7 @@ aminoquin
 aminosuccinamic
 applicants
 anthropoid
-aushar
+aushar 1
 araru
 abrazo
 amins
