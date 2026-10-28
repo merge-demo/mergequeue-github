@@ -12643,7 +12643,7 @@ iutkrx
 iutlpvypipua
 iutm
 iutmodirzoe
-iutmotd
+iutmotd 1
 iutmpxflrotc
 iutmv
 iutmxlxhc
