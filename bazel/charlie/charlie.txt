@@ -15806,7 +15806,7 @@ clearinghouse
 congratulating
 chauffeur
 clearinghouses
-clearings
+clearings 1
 clearish
 condescendence
 clears
