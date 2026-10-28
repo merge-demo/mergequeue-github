@@ -9948,7 +9948,7 @@ dehorned
 dette
 diminuendoes
 degu
-disingenuous
+disingenuous 1
 digitule
 discursus
 denticulation
