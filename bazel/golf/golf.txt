@@ -2925,7 +2925,7 @@ gaylussite
 gobiiformes
 gwiniad
 glitter
-gabbled
+gabbled 1
 geocerite
 gubernation
 greenheaded
