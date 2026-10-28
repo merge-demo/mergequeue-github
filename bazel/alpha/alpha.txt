@@ -17385,7 +17385,7 @@ asynaptic
 anthraconecrosis
 assemblee
 antifideism
-astrean
+astrean 1
 archpatron
 allay
 aestivated
