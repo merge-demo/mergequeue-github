@@ -9513,7 +9513,7 @@ episodic
 escrow
 escrowing
 esculents
-esculin
+esculin 1
 expansively
 essences
 evenhead
