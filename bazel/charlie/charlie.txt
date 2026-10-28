@@ -25093,7 +25093,7 @@ cottoid
 coreligionist
 cooperancy
 cueball
-calipers
+calipers 1
 colophonian
 corema
 counternatural
