@@ -10431,7 +10431,7 @@ ehatisaht
 etymic
 ergosterin
 endomyces
-electrochronometer
+electrochronometer 1
 engraved
 estruation
 etymologization
