@@ -8681,7 +8681,7 @@ glean
 gynaecoid
 glissading
 gismondite
-gutterling
+gutterling 1
 gimcracks
 glacification
 germanious
