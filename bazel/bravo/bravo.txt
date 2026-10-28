@@ -16585,7 +16585,7 @@ basements
 beefish
 bubals
 belling 1
-bubastid
+bubastid 1
 backorder
 blightingly
 bubby
