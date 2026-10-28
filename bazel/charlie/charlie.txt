@@ -22490,7 +22490,7 @@ conjubilant
 conjuctiva
 chitinized
 cochlearifoliate
-collingly
+collingly 1
 conjugales
 conjugality
 cv
