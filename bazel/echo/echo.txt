@@ -5889,7 +5889,7 @@ endophytous
 erasures
 erg
 engreaten
-evirtuate
+evirtuate 1
 evan
 enocyte
 electrotyping
