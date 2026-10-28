@@ -6008,7 +6008,7 @@ fusty
 foolscaps
 felspars
 flacon
-fumattoria
+fumattoria 1
 foo
 fidiculae
 ferroelectrically
