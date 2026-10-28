@@ -3250,7 +3250,7 @@ curtana
 casques
 capitalizing
 capitalness
-capitan
+capitan 1
 capitana
 capitasti
 capitated
