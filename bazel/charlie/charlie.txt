@@ -3382,7 +3382,7 @@ capping
 cervelas
 cyclopite
 coenact
-comfits
+comfits 1
 cappings
 coagencies
 capple
