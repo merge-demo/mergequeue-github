@@ -4229,7 +4229,7 @@ batetela
 bilharziasis
 beauteous
 beauti
-beauty
+beauty 1
 brachyphalangia
 bracing
 brumstone
