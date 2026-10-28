@@ -7108,7 +7108,7 @@ akkad
 appense
 ajonjoli
 alist
-apoxesis
+apoxesis 1
 aphoriser
 arthresthesia
 albuminized
