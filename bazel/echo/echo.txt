@@ -3292,7 +3292,7 @@ esophagismus
 endoproct
 eugenols 1
 eperlan
-embattlement
+embattlement 1
 elapidae
 eremitish
 effeminization
