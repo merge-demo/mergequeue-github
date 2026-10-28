@@ -826,7 +826,7 @@ corticole
 cailliach
 caimacam
 capitalizes
-choreograph
+choreograph 1
 cy
 clasts
 caiman
