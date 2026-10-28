@@ -2234,7 +2234,7 @@ galactohemia
 gleit
 glossopathy
 grounders
-globetrotting
+globetrotting 1
 grieced
 ghazies
 grisled
