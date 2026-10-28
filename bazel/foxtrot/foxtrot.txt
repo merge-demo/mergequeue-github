@@ -7035,7 +7035,7 @@ freakout
 fulmining
 fougasse
 fontful
-fantassin
+fantassin 1
 forehandedly
 fonticulus
 flapmouthed
