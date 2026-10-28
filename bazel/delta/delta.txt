@@ -760,7 +760,7 @@ desmognathous
 diselectrification
 didnt
 diselenide
-demagnetisable
+demagnetisable 1
 delimitized
 dominicale
 drapeable
