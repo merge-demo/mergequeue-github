@@ -8219,7 +8219,7 @@ demurrer
 decouples
 dyadics
 diadkokinesia
-diadochi
+diadochi 1
 ductible
 depigment
 deossify
