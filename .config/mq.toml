@@ -27,6 +27,13 @@ change_code_path = "bazel"
 # 1% - ALL will be specified
 deps_distribution = "0.55x1,0.35x2,0.09x3,0.01xALL"
 
+# how much of the PR budget is created as stacks (probabilityxdepth, must sum to 1.0)
+# 60% - solo PRs
+# 25% - 2-deep stacks
+# 15% - 3-deep stacks
+# only the top PR of a stack is enqueued; mq registers the stack with GitHub's stacks API first
+stacks_distribution = "0.6x1,0.25x2,0.15x3"
+
 # rate at which PRs should simulate a logical merge conflict and need to be rejected
 logical_conflict_every = 100
 logical_conflict_file = "logical-conflict.txt"
