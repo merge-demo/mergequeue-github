@@ -4399,7 +4399,7 @@ flexive
 forky
 fisheyes
 forecomingness
-fistify
+fistify 1
 funiculitis
 fenian
 fertiliser
