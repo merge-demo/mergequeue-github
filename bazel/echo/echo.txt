@@ -8730,7 +8730,7 @@ eluted
 euphemisms
 ethysulphuric
 embrowd
-explodable
+explodable 1
 equities
 equivalenced
 equivalent
