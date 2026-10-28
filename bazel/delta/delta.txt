@@ -3672,7 +3672,7 @@ decathlon
 disinhibition 1
 decomposite
 dysteleological
-degorge
+degorge 1
 degradative
 degraded
 degradement

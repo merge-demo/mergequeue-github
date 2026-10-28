@@ -20936,7 +20936,7 @@ comprisal
 controllability
 conceives
 casseroles
-comprise
+comprise 1
 coqueluche
 comprised
 confrication
