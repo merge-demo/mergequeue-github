@@ -481,7 +481,7 @@ abyssopelagic
 actinide
 airstream
 abyssus
-abit
+abit 1
 abstriction
 agriculture
 abbreviate
