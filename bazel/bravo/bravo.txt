@@ -16548,7 +16548,7 @@ bathorse
 bargeese
 barbarianize
 brownish
-biflorate
+biflorate 1
 backbiters
 bushmen
 botrydium
