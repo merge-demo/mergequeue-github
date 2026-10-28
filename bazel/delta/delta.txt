@@ -8577,7 +8577,7 @@ devoutlessness
 diaphoretics
 denaturalise
 doozy
-diaphorite
+diaphorite 1
 decating
 deuterovitellose
 diaphragmatically
