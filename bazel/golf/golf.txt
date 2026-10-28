@@ -5111,7 +5111,7 @@ guernseyed
 glareproof
 griskin
 grainsmen 1
-grenadine
+grenadine 1
 goldeneye
 greesagh
 gte
