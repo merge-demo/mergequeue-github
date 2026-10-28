@@ -5363,7 +5363,7 @@ denticle
 dentiferous
 dentification
 desegmented
-dentifrice
+dentifrice 1
 diageotropism
 dentil
 discussional
