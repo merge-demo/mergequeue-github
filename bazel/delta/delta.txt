@@ -14450,7 +14450,7 @@ daibutsu
 disguisedness
 disruptment
 diverticulitis 1
-diverticulosis
+diverticulosis 1
 dacyorrhea
 decarbonizer
 discomforting
