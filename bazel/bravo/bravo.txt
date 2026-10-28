@@ -7991,7 +7991,7 @@ beslipper
 bespatterer
 bicircular
 bitemporal
-beedged
+beedged 1
 byname
 bick
 bicycler
