@@ -4286,7 +4286,7 @@ fulsomely
 ferdwit
 foreshortens
 foiblesse
-foreordains
+foreordains 1
 fendable
 fastuous
 firk
