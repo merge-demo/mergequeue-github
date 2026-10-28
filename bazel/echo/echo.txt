@@ -1472,7 +1472,7 @@ enfarce
 euxanthate
 euhemerism
 efforts
-effraction
+effraction 1
 eighths
 etymologised
 eurythermic
