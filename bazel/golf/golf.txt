@@ -8993,7 +8993,7 @@ galingale
 guaranteed
 gradgrindish
 glander
-gushers
+gushers 1
 getable
 gigant
 glenlike
