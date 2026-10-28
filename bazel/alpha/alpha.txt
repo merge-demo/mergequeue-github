@@ -12271,7 +12271,7 @@ acneiform
 acrider
 anatropous
 antiecclesiastic
-alnico
+alnico 1
 apprehensions 1
 ambisexual
 avanyu
