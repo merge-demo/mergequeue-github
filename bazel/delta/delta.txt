@@ -2921,7 +2921,7 @@ divia
 dashel
 dedanite
 dedecorous
-divide
+divide 1
 desmodont
 duodecimomos
 dedicant
