@@ -7959,7 +7959,7 @@ defunctive
 downsteepy
 diathermal
 decimeters
-dextroaural
+dextroaural 1
 diacanthous
 dismes
 drupiferous
