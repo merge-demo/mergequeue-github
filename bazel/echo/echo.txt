@@ -3650,7 +3650,7 @@ expellant
 edna
 egads
 epilatory
-eleutherism
+eleutherism 1
 electrocuted
 ennoic 1
 epichilium
