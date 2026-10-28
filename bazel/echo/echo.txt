@@ -1672,7 +1672,7 @@ electrotaxis
 emigr
 ejusdem
 eyeish
-eisteddfodic
+eisteddfodic 1
 eyeballed
 eyeballing
 entrusting
