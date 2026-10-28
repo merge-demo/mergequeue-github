@@ -15881,7 +15881,7 @@ awaits
 antipopes
 asplenium
 attributed
-antiportable
+antiportable 1
 aclemon
 adenoid
 acrophony
