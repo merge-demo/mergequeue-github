@@ -13301,7 +13301,7 @@ exploratively
 ectrogeny
 eupterotidae
 egency
-estoile
+estoile 1
 espousers
 efformation
 eminences
