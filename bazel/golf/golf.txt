@@ -5843,7 +5843,7 @@ gonophoric
 glochidia 1
 gendarmes
 gruiformes
-ghettoing
+ghettoing 1
 geroderma
 graffito
 glycolaldehyde
