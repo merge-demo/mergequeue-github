@@ -1854,7 +1854,7 @@ geopolitically
 generalcies
 gousty
 goloshes
-geographize
+geographize 1
 gossypium
 gatemaker
 gladfully
