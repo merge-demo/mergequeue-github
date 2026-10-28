@@ -666,7 +666,7 @@ brioche
 bicorne
 bombo
 bungey
-biannual
+biannual 1
 begall
 bronchiolitis
 bathyesthesia
