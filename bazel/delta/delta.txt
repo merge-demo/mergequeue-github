@@ -9477,7 +9477,7 @@ digestibility
 disserting 1
 demark
 digestible
-dite
+dite 1
 digestibleness
 digestibly
 delesseriaceae
