@@ -1762,7 +1762,7 @@ deathtrap
 devocalization
 drof
 deathward
-dikaryon
+dikaryon 1
 ductility
 docent
 downlier
