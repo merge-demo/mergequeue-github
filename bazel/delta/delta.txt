@@ -10602,7 +10602,7 @@ diploidize
 doorman
 diploma
 decasyllabon 1
-dolorogenic
+dolorogenic 1
 domitable
 dolven
 diplomaing
