@@ -5701,7 +5701,7 @@ catatony
 catatonic 1
 coeloglossum
 countersignal
-catawampous
+catawampous 1
 catawamptiously
 catawampus
 cenogenetically
