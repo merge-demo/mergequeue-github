@@ -11552,7 +11552,7 @@ executry
 euphoric
 ess 1
 extypal
-extraburghal
+extraburghal 1
 elenchus
 encodement
 embrittled
