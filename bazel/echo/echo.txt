@@ -1792,7 +1792,7 @@ engravers
 embankments
 electrification
 encompasser
-enable
+enable 1
 estimates
 entresse
 eocene
