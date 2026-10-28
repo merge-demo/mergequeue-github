@@ -4496,7 +4496,7 @@ frangulin
 fluctuant 1
 ferrotitanium
 faddy
-frowst
+frowst 1
 flatting
 forlane
 fertilizers
