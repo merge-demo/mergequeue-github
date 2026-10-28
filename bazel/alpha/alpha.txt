@@ -2240,7 +2240,7 @@ articulability
 allows
 achronism
 atmograph
-announcement
+announcement 1
 arusa
 albanians
 achtehalber
