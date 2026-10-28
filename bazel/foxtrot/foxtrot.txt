@@ -1878,7 +1878,7 @@ fecundator
 fuligula
 feedwater
 fallow
-fewer
+fewer 1
 fecundize
 flintier
 footingly
