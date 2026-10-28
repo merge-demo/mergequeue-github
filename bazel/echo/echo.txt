@@ -8935,7 +8935,7 @@ epicanthi
 exteroceptive
 erythematic
 ericas
-eastwardly
+eastwardly 1
 ericetal
 esophagitis
 exothecium
