@@ -20606,7 +20606,7 @@ anesthetists
 azrael
 arthrogryposis
 arbalist
-aedegi
+aedegi 1
 alpestral
 adulators
 arthromeric
