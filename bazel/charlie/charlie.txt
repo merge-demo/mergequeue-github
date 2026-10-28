@@ -12779,7 +12779,7 @@ cruth
 chumship
 comdia
 chumships
-clonism
+clonism 1
 cicindelidae
 curbing
 coelogastrula
