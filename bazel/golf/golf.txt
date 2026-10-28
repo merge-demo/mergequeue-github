@@ -1850,7 +1850,7 @@ garlands
 grasses
 glutenous
 goundou
-geopolitically
+geopolitically 1
 generalcies
 gousty
 goloshes
