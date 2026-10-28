@@ -3277,7 +3277,7 @@ effacement
 ethnographic
 eurafrican
 enigmatically
-evadne
+evadne 1
 exdividend
 edgiest
 ektene
