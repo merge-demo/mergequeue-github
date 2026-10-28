@@ -5939,7 +5939,7 @@ depressurize
 disentraced
 dere
 defeatee
-depreter
+depreter 1
 depriment
 deprint
 depriorize
