@@ -9695,7 +9695,7 @@ altiplanicie
 aphthonite
 antennule
 anglicans
-alvar
+alvar 1
 anecdotist
 asmack
 anaemic
