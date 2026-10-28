@@ -27566,7 +27566,7 @@ coverslip
 covertly 1
 colloquialist
 cadency
-cupmaker
+cupmaker 1
 coves
 censured
 covet
