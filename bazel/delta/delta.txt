@@ -15897,7 +15897,7 @@ droop
 dakerhens
 dorcatherium
 dosis
-deepeningly
+deepeningly 1
 dossel
 dossels
 disclaiming
