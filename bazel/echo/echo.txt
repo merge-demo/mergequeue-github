@@ -10109,7 +10109,7 @@ eutopia
 euphausiacea
 entities
 ethereality
-epiboly 1
+epiboly 2
 etherealization
 earthlike
 extrusible
