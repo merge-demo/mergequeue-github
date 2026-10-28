@@ -18322,7 +18322,7 @@ depository
 dasyproctidae
 disshadow
 debussing
-detonate
+detonate 1
 duodecastyle
 duodecennial
 duodecillions
