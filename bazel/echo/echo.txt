@@ -1628,7 +1628,7 @@ exsanguine
 egromancy
 egurgitate
 egurgitated
-euphonon
+euphonon 1
 eheu
 explanatively
 elchee
