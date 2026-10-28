@@ -4100,7 +4100,7 @@ cardiasthenia
 claying
 copromoter
 collops
-cardiectasis
+cardiectasis 1
 compileable
 chamoisette
 cardiectomize
