@@ -14471,7 +14471,7 @@ antipharisaic
 antimonate
 arunta
 adjudged
-antiburgher
+antiburgher 1
 ail
 alima
 armigero
