@@ -5057,7 +5057,7 @@ evens
 endophragmal
 equimolal
 entomb
-enqueued
+enqueued 1
 excuses
 encumbrances
 eucosmid
