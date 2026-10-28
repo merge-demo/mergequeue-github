@@ -17360,7 +17360,7 @@ drophead
 ditchbur
 darksomeness
 dropkicker
-deficiencies
+deficiencies 1
 drib
 dasypygal
 doigt
