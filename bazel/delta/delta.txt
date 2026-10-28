@@ -3595,7 +3595,7 @@ depending
 disguise
 desilverize
 debunker
-degass
+degass 1
 degassed
 disappears
 dodecant
