@@ -4419,7 +4419,7 @@ encanthis
 expectorations
 enfacing
 ensigncies
-endosmometric
+endosmometric 1
 eubacteria
 ecumenist
 elaeis
