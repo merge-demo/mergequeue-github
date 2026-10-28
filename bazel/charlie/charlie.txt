@@ -3893,7 +3893,7 @@ cincinatti
 countertranslation
 charmfulness
 carbonization
-carbonize
+carbonize 1
 charlatanism
 carbonizers
 concn
