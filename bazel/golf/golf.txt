@@ -5380,7 +5380,7 @@ gruelings
 gingal
 graph
 gammadion
-gliddery
+gliddery 1
 gloaters
 gemmary
 gritrock
