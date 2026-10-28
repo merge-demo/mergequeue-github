@@ -9509,7 +9509,7 @@ gyving
 gyroscope
 groupwise
 garvey
-glenn
+glenn 1
 generalizer
 gloving
 ganoidean
