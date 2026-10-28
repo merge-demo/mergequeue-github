@@ -8064,7 +8064,7 @@ appropriators
 aeciotelium
 artarine
 alfileria
-astert
+astert 1
 anthropocosmic
 acrosporous
 ambusher
