@@ -10647,7 +10647,7 @@ equivalencies
 epinephrine
 empurpling
 excamber
-elopers
+elopers 1
 epithet
 excusingly
 eastlake
