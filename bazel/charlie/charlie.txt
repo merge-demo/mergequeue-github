@@ -26000,7 +26000,7 @@ clumbers
 coseasonal
 chelidonian
 cryptomeria
-coseat
+coseat 1
 cosecant
 conducive
 cosecants
