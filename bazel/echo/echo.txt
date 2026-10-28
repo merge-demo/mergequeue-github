@@ -8900,7 +8900,7 @@ entoderms
 ergograph
 epistrophic
 embitter
-emeroids
+emeroids 1
 ergomaniac
 eragrostis
 electrophori
