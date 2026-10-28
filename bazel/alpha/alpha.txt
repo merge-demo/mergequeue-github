@@ -18314,7 +18314,7 @@ accidence
 astrophyton
 ampullitis
 arachnism
-apotheoses
+apotheoses 1
 anaesthetizing
 asor
 arachnoidea
