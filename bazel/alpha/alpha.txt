@@ -19045,7 +19045,7 @@ anana
 archphilosopher
 announcer
 archpilferer
-adornment
+adornment 1
 aneurismatic
 accentuating
 adulteration
