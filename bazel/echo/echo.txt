@@ -1574,7 +1574,7 @@ epinasty 1
 envigor
 exogeny
 exaggeratedness
-emball
+emball 1
 egises
 euosmite
 enterokinetic
