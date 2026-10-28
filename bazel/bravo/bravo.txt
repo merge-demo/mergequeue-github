@@ -4260,7 +4260,7 @@ bistoury
 bitypic
 beriming
 blunderheadedness
-beaverize
+beaverize 1
 bacillariales
 beaverkin
 bosnian
