@@ -13047,7 +13047,7 @@ epiperipheral
 elocutionary
 expediter
 enunciates
-eulogistically
+eulogistically 1
 expeditiously
 erythrocarpous
 ecstasies
