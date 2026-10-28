@@ -6979,7 +6979,7 @@ airts
 aquila 1
 aitutakian
 algerine
-ayu
+ayu 1
 activize
 aminoplast
 avocationally
