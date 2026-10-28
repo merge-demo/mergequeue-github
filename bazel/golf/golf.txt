@@ -4999,7 +4999,7 @@ gymnospermal
 gallantize
 gyrenes
 gingelis
-germanization
+germanization 1
 genom
 ganof
 gurgoyl
