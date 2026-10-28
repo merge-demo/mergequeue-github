@@ -6823,7 +6823,7 @@ antimoralist
 aglipayan
 airfoil
 airfoils
-airglows
+airglows 1
 airgraphics
 anisometropia
 androcyte
