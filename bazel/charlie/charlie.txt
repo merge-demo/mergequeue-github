@@ -6402,7 +6402,7 @@ cauterise 1
 collision
 cauterising
 cloudland
-cauterism
+cauterism 1
 carafe
 correcter
 conchfish
