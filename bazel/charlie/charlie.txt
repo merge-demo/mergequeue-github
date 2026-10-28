@@ -22253,7 +22253,7 @@ congestion
 calk
 congestive
 conceitedly
-conglaciate
+conglaciate 1
 cornered
 circumlocutional
 cameleers
