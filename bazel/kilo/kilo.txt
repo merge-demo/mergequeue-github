@@ -6088,7 +6088,7 @@ kiskevday
 kismgdqu
 kismnh
 kisnlvymvecz
-kisnp
+kisnp 1
 kisoavb
 kisp
 kisqnmzdaov
