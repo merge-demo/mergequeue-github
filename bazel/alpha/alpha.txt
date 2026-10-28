@@ -17925,7 +17925,7 @@ anthracotheriidae
 approachable
 approached
 administration
-amphirhine
+amphirhine 1
 amblypod
 aliesterase
 alcoholist
