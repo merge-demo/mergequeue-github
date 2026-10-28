@@ -17065,7 +17065,7 @@ disthroning
 divisory
 diaconus
 dismally
-diclinies
+diclinies 1
 diaplexus
 datacell
 dimensional
