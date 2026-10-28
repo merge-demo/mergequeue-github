@@ -9971,7 +9971,7 @@ diminutions
 dolichocephalous
 deener
 diminutive
-dimiss
+dimiss 1
 deindustrialization
 dimissaries
 dimitry
