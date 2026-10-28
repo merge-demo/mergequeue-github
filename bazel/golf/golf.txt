@@ -9289,7 +9289,7 @@ groenendael
 gecko
 gallstone
 graduale
-geoffrey
+geoffrey 1
 groenlandicus
 glucuronic
 goyana
