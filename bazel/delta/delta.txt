@@ -3885,7 +3885,7 @@ deism
 decentred
 deistical
 dressages
-dismast
+dismast 1
 discastle
 dissect
 disp
