@@ -3254,7 +3254,7 @@ downsizes
 drays
 defensibly
 defensively
-deferentitis
+deferentitis 1
 deferents
 datiscetin 1
 drakefly
