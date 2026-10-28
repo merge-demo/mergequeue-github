@@ -15181,7 +15181,7 @@ cacothelin
 claimers
 claymore
 claims
-covenable
+covenable 1
 claypans
 clair
 clairaudience
