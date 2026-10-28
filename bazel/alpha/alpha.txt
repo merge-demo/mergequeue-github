@@ -13643,7 +13643,7 @@ antituberculous
 anticum
 anesthesia
 abeam
-automa
+automa 1
 abolition
 annuler
 anodontia
