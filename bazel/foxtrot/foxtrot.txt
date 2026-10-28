@@ -5848,7 +5848,7 @@ floatier
 flustrum
 fulcrums
 flidge
-fitz
+fitz 1
 farine
 fertilisable
 fowling
