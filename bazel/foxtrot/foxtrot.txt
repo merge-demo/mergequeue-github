@@ -9996,7 +9996,7 @@ flacons
 flexitime
 finicky
 fopped
-flenching
+flenching 1
 frypans
 frillily
 falderal
