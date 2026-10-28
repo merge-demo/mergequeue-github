@@ -4618,7 +4618,7 @@ damned
 deproceduring
 diazid
 drabbest
-deaconship
+deaconship 1
 discharm
 disfranchised
 deaness
