@@ -6970,7 +6970,7 @@ capitellar
 cenobies
 cenobites
 cenobitic
-caseworkers
+caseworkers 1
 cenobitically
 cenobitism
 cretion
