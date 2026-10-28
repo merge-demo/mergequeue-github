@@ -2245,7 +2245,7 @@ drch
 dartre
 danes
 dishelm
-dedan
+dedan 1
 deceitfulness
 debase
 dinoflagellatae
