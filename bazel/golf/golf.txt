@@ -5323,7 +5323,7 @@ glycogenolytic
 gangsters
 gammaroid
 goodman 1
-globularly
+globularly 1
 gutturalism
 gingals
 glaived
