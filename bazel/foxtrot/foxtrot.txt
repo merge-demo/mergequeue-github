@@ -9058,7 +9058,7 @@ fleetwing
 frap
 feruling
 frasco
-foxbane
+foxbane 1
 foxberry
 falcular
 fribbleism
