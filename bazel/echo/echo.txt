@@ -2777,7 +2777,7 @@ exchangeably
 equangular
 explorations
 ebracteate
-eurithermophilic
+eurithermophilic 1
 excecate
 elytrous
 eutropic
