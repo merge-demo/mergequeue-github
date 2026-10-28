@@ -16545,7 +16545,7 @@ apache
 attained
 apadana
 astronautic
-apaesthetize
+apaesthetize 1
 articulatory
 anophthalmus
 apagogic
