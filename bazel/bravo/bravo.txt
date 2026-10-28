@@ -5338,7 +5338,7 @@ beglue
 beerage
 barbola
 begnaw
-biharmonic 1
+biharmonic 2
 borderlines
 balmy
 ballroom
