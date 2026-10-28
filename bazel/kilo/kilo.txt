@@ -8493,7 +8493,7 @@ kobsm
 kobtesmm
 kobtferk
 kobtfqn
-kobu
+kobu 1
 kobuflbdpe
 kobuho
 kobvsetyuxba
