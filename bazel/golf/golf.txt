@@ -9886,7 +9886,7 @@ gagate
 ghoom
 glycerose
 guanize
-gamasid
+gamasid 1
 graticulation
 genders
 guaracha
