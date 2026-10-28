@@ -10175,7 +10175,7 @@ anisogamy
 aminded
 avulsion
 artotyrite
-ambulator
+ambulator 1
 ambulatory
 additiment
 aluminas
