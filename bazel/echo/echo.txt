@@ -12668,7 +12668,7 @@ exognathite
 expunges
 exogenetic
 enkolpion
-exometritis
+exometritis 1
 elychnious
 excogitate
 endeavors

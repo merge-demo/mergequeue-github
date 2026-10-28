@@ -2643,7 +2643,7 @@ arius
 actresses
 acranial
 alcaaba
-aphthic
+aphthic 1
 amiloun
 aethalia 1
 assignor
