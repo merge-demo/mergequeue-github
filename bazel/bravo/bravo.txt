@@ -6099,7 +6099,7 @@ buyout
 biobibliographies
 behusband
 bendies
-bends
+bends 1
 bendwise
 begay
 balaneutics
