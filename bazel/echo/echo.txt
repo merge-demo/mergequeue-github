@@ -8059,7 +8059,7 @@ ealdormen
 epiphanous
 expansiveness
 expiator
-embarred
+embarred 1
 epigrammatizer
 earnests
 epiphegus
