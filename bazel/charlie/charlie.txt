@@ -10323,7 +10323,7 @@ chickenpox
 chickenwort
 chicker
 chickhood
-coveting
+coveting 1
 coprosterol
 coheir
 chickories
