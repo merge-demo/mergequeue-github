@@ -5909,7 +5909,7 @@ disaccustomed
 dandyisms
 dispender
 danicism
-depressibilities
+depressibilities 1
 deozonization
 depressingly
 denuders

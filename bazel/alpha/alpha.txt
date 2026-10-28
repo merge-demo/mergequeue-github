@@ -5684,7 +5684,7 @@ anisomelus
 agalena
 agalenidae
 ambalam
-asperating
+asperating 1
 agallochs
 acupunctuation
 afunction
