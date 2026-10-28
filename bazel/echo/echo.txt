@@ -1255,7 +1255,7 @@ elsewheres
 exposition
 episomal
 evaluation
-endopleuritic
+endopleuritic 1
 enmanche
 eelfare
 encrinite
