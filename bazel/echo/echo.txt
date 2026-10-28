@@ -4825,7 +4825,7 @@ epidosite
 eccoproticophoric
 escape
 erugate
-estrogenicity
+estrogenicity 1
 embrangle
 encomiastically
 extols
