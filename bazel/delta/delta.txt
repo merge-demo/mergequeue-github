@@ -11769,7 +11769,7 @@ determinating
 discrepantly
 decaudation
 demasts
-discrepated
+discrepated 1
 diskless
 discrepation
 dullardism
