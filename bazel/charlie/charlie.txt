@@ -26279,7 +26279,7 @@ cylindromata
 cavallas
 costiveness
 changeableness
-calliper
+calliper 1
 costlessness
 charivari
 csk
