@@ -9526,7 +9526,7 @@ breviger
 bakerdom
 bis
 borussian
-bachelorize
+bachelorize 1
 besputter
 bicipitous
 boarfish
