@@ -579,7 +579,7 @@ frappe
 feeblish
 funerate
 fenugreek
-flagstaff
+flagstaff 1
 frighteningly
 furmety
 forelocks
