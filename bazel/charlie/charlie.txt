@@ -27220,7 +27220,7 @@ countervallation
 countervalue
 coxarthrocace
 countervenom
-countervibration
+countervibration 1
 countervindication
 countervolley
 chymiferous
