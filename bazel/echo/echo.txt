@@ -1588,7 +1588,7 @@ exobiologist
 eglomerate
 eaglets
 eglomise
-errite
+errite 1
 entires
 enumerator
 eucaines
