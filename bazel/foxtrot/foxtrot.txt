@@ -2069,7 +2069,7 @@ feldspathoid
 foys
 forehook
 fwelling
-flocky
+flocky 1
 foggara
 filibuster
 feudalisation
