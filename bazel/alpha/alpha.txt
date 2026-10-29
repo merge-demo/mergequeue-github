@@ -5582,7 +5582,7 @@ apholate
 aftershaft
 aftershafted
 acetylcholinic
-almagests
+almagests 1
 aftershocks
 alexandria
 aftersound
