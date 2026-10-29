@@ -8686,7 +8686,7 @@ euphemizing
 epilepsy 1
 ejecta
 equipotential
-externalize
+externalize 1
 exconjugant
 endostyle
 epicoeliac
