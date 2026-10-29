@@ -8699,7 +8699,7 @@ flattens
 feteless
 fame
 forgive
-flotage
+flotage 1
 fizzing
 filii
 fourness
