@@ -6010,7 +6010,7 @@ ethrog
 equiexcellency
 expanding
 epilated
-enjoinders
+enjoinders 1
 expatiatingly
 enjoiner
 excubant
