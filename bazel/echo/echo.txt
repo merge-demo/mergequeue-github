@@ -9456,7 +9456,7 @@ euryale
 eses
 epicism
 erythron
-egests
+egests 1
 exegetes
 eschrufe
 escopeta
