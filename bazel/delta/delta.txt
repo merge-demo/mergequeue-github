@@ -14590,7 +14590,7 @@ dwells
 demureness
 denotive
 demiurgically
-disastrousness
+disastrousness 1
 dysfunction
 damourite
 divorcible
