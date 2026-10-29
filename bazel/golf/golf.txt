@@ -5138,7 +5138,7 @@ gnatflower
 gaumed
 gallweed
 glomera
-goblinesque
+goblinesque 1
 gutturine
 gentlehearted
 goldylocks

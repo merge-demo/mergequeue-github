@@ -4273,7 +4273,7 @@ endometrium
 electrodispersive
 evertile
 exclusivism
-eptatretus
+eptatretus 1
 emulsion
 exemplifiable
 etherene
