@@ -15458,7 +15458,7 @@ aslantwise
 antimedicine
 anaptomorphidae
 antimedievalism 1
-antimedievally
+antimedievally 1
 antimelancholic
 attainder
 antimensia
