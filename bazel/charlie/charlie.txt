@@ -19071,7 +19071,7 @@ colligative
 carmela
 collimate
 coeds
-chiefess
+chiefess 1
 cabalism
 clarencieux
 cardiasthma
