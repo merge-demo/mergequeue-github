@@ -6682,7 +6682,7 @@ enculturative
 epibatus
 eyas
 extraduction
-enthalpies
+enthalpies 1
 excusers
 enarthrodial
 enterorrhagia
