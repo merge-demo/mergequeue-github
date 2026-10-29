@@ -5080,7 +5080,7 @@ economization
 emerited
 endoauscultation
 effervescently
-epitonic
+epitonic 1
 etchant
 escritoires
 excipula

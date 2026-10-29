@@ -5898,7 +5898,7 @@ disembargoed
 deodars
 diablene
 duffy
-duplicity
+duplicity 1
 deprehend
 disprofit
 damsel
