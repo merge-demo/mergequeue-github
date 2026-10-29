@@ -2547,7 +2547,7 @@ excepting
 epithelilia
 echoist
 electromagnetism
-euomphalus
+euomphalus 1
 elaborations
 euonymous
 endosmose
