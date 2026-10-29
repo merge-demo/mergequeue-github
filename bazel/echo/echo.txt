@@ -3717,7 +3717,7 @@ etherialise
 embryotegae
 eweries
 embryotome
-exhalatory
+exhalatory 1
 eeten
 exculpated
 ephemerons
