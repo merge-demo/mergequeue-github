@@ -10836,7 +10836,7 @@ greengrocery
 greenbackism
 grayhead
 generality
-gyrofrequency
+gyrofrequency 1
 genethlialogical
 gyrograph
 guttar
