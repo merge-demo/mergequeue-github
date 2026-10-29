@@ -7165,7 +7165,7 @@ envolume
 embarment
 enwall
 epistemonic
-eucaryote
+eucaryote 1
 extraequilibrium
 enwallow
 excandescence
