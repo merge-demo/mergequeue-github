@@ -4212,7 +4212,7 @@ colorum
 cardoon
 cardoons
 cardophagus
-clearwing
+clearwing 1
 carbamido
 carnet
 chiron
