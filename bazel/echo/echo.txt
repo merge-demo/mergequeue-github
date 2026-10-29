@@ -4141,7 +4141,7 @@ epicanthus
 ejacula
 enrooting
 eslabon
-entangler
+entangler 1
 envisaged
 endives
 exedral
