@@ -11392,7 +11392,7 @@ aftercause
 amplificative
 avanguardisti
 amplitudinous
-accurate
+accurate 1
 amoibite
 antiplenist
 admirers
