@@ -9182,7 +9182,7 @@ aorta
 anticlimactical
 arrha
 autoallogamous
-anstoss
+anstoss 1
 aetobatus
 almohades
 almon
