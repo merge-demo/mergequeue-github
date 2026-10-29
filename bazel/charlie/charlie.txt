@@ -25268,7 +25268,7 @@ ciliola
 crome
 conicein
 corklike
-chiromant
+chiromant 1
 corkline
 calendars
 corks
