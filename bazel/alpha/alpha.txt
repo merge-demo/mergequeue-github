@@ -2110,7 +2110,7 @@ agglutinations
 allopatry
 antadiform
 achilleine
-antimonarchic
+antimonarchic 1
 abnormalness
 anthropological
 aragonite
