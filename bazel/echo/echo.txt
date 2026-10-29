@@ -10478,7 +10478,7 @@ etiquette
 entocranial
 erectilities
 etiquettical
-explicable
+explicable 1
 etna
 effortful
 etoile
