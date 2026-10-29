@@ -7254,7 +7254,7 @@ garlicmonger
 governorate
 gourmands
 glassmaker
-generosity
+generosity 1
 gribble
 gleby
 gingernut
