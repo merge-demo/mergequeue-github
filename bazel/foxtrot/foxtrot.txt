@@ -9671,7 +9671,7 @@ fringe
 fouquieria
 foldouts
 fourfiusher
-frigga
+frigga 1
 fraising
 fustle
 fallalishly
