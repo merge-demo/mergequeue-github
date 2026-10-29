@@ -19646,7 +19646,7 @@ comamie
 carrara
 coman
 comanche
-comanchean
+comanchean 1
 cohesion
 chlordan
 comanches
