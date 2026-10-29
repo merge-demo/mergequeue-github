@@ -10185,7 +10185,7 @@ dispassioned
 deripia
 declarable
 dehonestate
-demirevetment
+demirevetment 1
 disallowing
 distillation
 dinging
