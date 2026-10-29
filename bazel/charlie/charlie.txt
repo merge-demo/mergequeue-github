@@ -28187,7 +28187,7 @@ crankpin
 cytolysin
 crankpins
 colipyuria
-churchman
+churchman 1
 cranks
 corpulent
 crannage
