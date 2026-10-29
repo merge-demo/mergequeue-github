@@ -12999,7 +12999,7 @@ dioscuri
 debacchate
 dight
 distater
-dispand
+dispand 1
 descaling
 diphthongized
 deallocated
