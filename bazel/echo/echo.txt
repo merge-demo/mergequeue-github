@@ -4603,7 +4603,7 @@ effigies
 ectochondral
 ectomesoblast
 expede
-enfettered
+enfettered 1
 encheason
 enchequer
 ethnopsychic
