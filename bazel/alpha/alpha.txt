@@ -11387,7 +11387,7 @@ aiguiere
 amplication
 amplicative
 autoelectrolytic
-amplificate
+amplificate 1
 aftercause
 amplificative
 avanguardisti
