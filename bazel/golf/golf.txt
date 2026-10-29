@@ -8279,7 +8279,7 @@ grossulariaceae
 graphophonic
 gasteria
 graphoscope
-glycoprotein
+glycoprotein 1
 grinderies 1
 gamestress
 graphotype
