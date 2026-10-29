@@ -2017,7 +2017,7 @@ fardels
 feetfirst
 fireworky
 fractionizing
-furlongs
+furlongs 1
 freshens 1
 farmers
 fieldwards
