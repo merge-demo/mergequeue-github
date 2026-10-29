@@ -13234,7 +13234,7 @@ ancestors
 aegithognathous
 animus
 administrationist
-animuses
+animuses 1
 anionic
 amiles
 anisado
