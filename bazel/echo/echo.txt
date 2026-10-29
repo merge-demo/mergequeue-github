@@ -10992,7 +10992,7 @@ escobita
 ecologically
 ennuye
 electrokinematics
-excavates
+excavates 1
 eurybenthic 1
 endeared
 etacist
