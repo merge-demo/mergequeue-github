@@ -4135,7 +4135,7 @@ evenly
 electrovalence
 employe
 estado
-etamin
+etamin 1
 epigene
 epicanthus
 ejacula
