@@ -7817,7 +7817,7 @@ desirability
 devoration
 dadaists
 dairyings
-devoted
+devoted 1
 dipsomaniacal
 dissettlement
 dialogistical
