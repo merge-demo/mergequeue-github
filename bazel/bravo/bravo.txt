@@ -3635,7 +3635,7 @@ bedighting
 bipinnately 1
 batlon
 blackball
-budded
+budded 1
 bumbleberry
 betacism
 brazenfacedly

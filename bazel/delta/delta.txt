@@ -8918,7 +8918,7 @@ distributiveness
 dichasium
 deordination
 deash
-diminutiveness
+diminutiveness 1
 dictyophora
 disillusionised
 departition
