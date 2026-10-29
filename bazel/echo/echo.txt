@@ -7692,7 +7692,7 @@ embrued
 enukki
 effumability
 ellipsometry
-epideictic
+epideictic 1
 endomesoderm
 eightieths
 endotheliomata
