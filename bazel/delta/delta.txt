@@ -11697,7 +11697,7 @@ daubiest
 disjunction
 dyotheletian
 dele
-discouraged
+discouraged 1
 displeasureably
 discouragingly
 daydreamlike
