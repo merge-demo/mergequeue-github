@@ -1730,7 +1730,7 @@ glunch
 governail
 guaba
 gambado
-gangwayman
+gangwayman 1
 glossoscopy
 gadoids
 glycerinate
