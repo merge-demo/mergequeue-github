@@ -532,7 +532,7 @@ fleeces
 forfeiter
 factitial
 funambulant
-folium
+folium 1
 falcons
 falculate
 fawnery
