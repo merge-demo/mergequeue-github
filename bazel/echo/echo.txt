@@ -8420,7 +8420,7 @@ epizoon
 edemic
 emblossom
 exulceration
-epinasties
+epinasties 1
 epulones
 exchange
 electrizer
