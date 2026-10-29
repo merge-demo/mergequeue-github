@@ -671,7 +671,7 @@ eclipses
 eudaemonistic
 ephraimitic
 entoparasitic
-epilogate
+epilogate 1
 eubasidii
 elmiest
 enhance
