@@ -8302,7 +8302,7 @@ demivolts
 dispossess
 droob
 dissimile
-disinvigorate
+disinvigorate 1
 defocus
 diagredium
 dermatopathia
