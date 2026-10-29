@@ -8449,7 +8449,7 @@ cuttable
 chamoisite
 chamoline
 chamorro
-copalcocote
+copalcocote 1
 cunei
 chromotherapist
 chamos
