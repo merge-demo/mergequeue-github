@@ -16,7 +16,7 @@ gabelles
 greedsome
 gledy
 genetous
-granitize 1
+granitize 2
 goter
 gastroadynamic
 gashouse

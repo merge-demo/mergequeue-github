@@ -5996,7 +5996,7 @@ hiranwwulpic
 hirawhs
 hirb
 hirbecnwjtnm
-hirbsym
+hirbsym 1
 hircdtvg
 hird
 hirdkf
