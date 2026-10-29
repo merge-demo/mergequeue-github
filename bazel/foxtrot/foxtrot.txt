@@ -2019,7 +2019,7 @@ fireworky
 fractionizing
 furlongs
 freshens 1
-farmers
+farmers 1
 fieldwards
 fathomage
 fradicin
