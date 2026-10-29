@@ -6093,7 +6093,7 @@ grume
 gonococcoid
 gnaws
 gramineous
-gneiss
+gneiss 1
 grotesquely
 glengarries
 goosebeak

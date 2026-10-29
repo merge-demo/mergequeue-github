@@ -11037,7 +11037,7 @@ eyne
 endogenies
 elderwomen
 enrollments
-episcopacies
+episcopacies 1
 eliminator
 eurythmics
 epiphenomena
