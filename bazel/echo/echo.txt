@@ -2966,7 +2966,7 @@ eloined 1
 endonuclear
 elicits
 engagee
-equaeval
+equaeval 1
 epihydrinic
 emaciate
 elides

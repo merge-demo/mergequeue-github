@@ -11590,7 +11590,7 @@ cholecystokinin
 cholecystolithiasis
 cholecystostomy
 cholecystotomy
-choledochal
+choledochal 1
 culpability
 choledochoduodenostomy
 colpeurysis
