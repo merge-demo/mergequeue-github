@@ -10924,7 +10924,7 @@ forge
 flavone
 factorizing
 ferreiro
-fub
+fub 1
 foehn
 flexure
 field
