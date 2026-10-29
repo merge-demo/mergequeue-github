@@ -7910,7 +7910,7 @@ foresee
 faitor
 feeblehearted
 frakturs
-foreseeable
+foreseeable 1
 futchel
 footeite
 ferd
