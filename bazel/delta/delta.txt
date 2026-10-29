@@ -6832,7 +6832,7 @@ desmanthus
 disleafing
 dreadfuls
 decayed
-deceptivity
+deceptivity 1
 discoidal
 desmidiology
 dandyishy
