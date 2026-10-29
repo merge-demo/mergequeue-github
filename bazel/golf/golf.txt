@@ -2111,7 +2111,7 @@ gardenia
 gastrostege
 geison
 gawking
-glucinic
+glucinic 1
 gastrins
 gawkish
 grecomania 1
