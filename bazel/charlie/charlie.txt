@@ -4997,7 +4997,7 @@ cartularies
 carapache
 cabbagelike
 collaring
-cartware
+cartware 1
 cabossed
 confervoid
 cartwheel
