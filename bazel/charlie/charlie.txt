@@ -7282,7 +7282,7 @@ century
 coda
 centurial
 concerto
-covenably
+covenably 1
 centuriator
 conehead
 centuries
