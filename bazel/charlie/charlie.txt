@@ -21228,7 +21228,7 @@ chibchan
 concernancy
 concerned
 cumbersome
-concerning
+concerning 1
 chubsucker
 concerningly
 checked
