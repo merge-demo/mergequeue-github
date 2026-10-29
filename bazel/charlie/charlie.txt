@@ -8288,7 +8288,7 @@ chalybeate
 chalybes
 chalybite
 chalice
-chancelry
+chancelry 1
 chaliced
 chalicosis
 chalicothere
