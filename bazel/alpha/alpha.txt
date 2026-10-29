@@ -4093,7 +4093,7 @@ astrophotographer
 asmalte
 antiegoist
 aeolididae
-affinal
+affinal 1
 anglification
 admonishments
 appressor
