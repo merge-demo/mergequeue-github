@@ -14995,7 +14995,7 @@ dogear
 dogears
 drumly
 dogedom
-diptote
+diptote 1
 dipppy
 dyslogistic
 dogeys

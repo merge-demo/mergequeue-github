@@ -1501,7 +1501,7 @@ equippers
 estivate
 eclegme 1
 effusively
-entasias
+entasias 1
 effuviate
 efl
 efoliose
