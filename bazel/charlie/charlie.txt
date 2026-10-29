@@ -17940,7 +17940,7 @@ cloacean
 cephalomyitis
 copulable
 chololith
-captiving
+captiving 1
 colpocele
 coelectron
 centrist
