@@ -10388,7 +10388,7 @@ arco
 adenochondrosarcoma
 americans
 americanum
-amphicarpa
+amphicarpa 1
 avocados
 aliment
 americophobe
