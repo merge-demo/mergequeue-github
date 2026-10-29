@@ -1932,7 +1932,7 @@ froze
 forebearing
 floccule
 finagling
-fonly
+fonly 1
 flanchard
 forworn
 felonwood
