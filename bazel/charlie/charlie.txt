@@ -5962,7 +5962,7 @@ contractibly
 cutcha
 cathedrated
 cathedratic
-cathedraticum
+cathedraticum 1
 cathepsin
 cathern
 catties
