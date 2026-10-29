@@ -4400,7 +4400,7 @@ forky
 fisheyes
 forecomingness
 fistify
-funiculitis
+funiculitis 1
 fenian
 fertiliser
 foretop
