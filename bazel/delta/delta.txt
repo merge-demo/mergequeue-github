@@ -9947,7 +9947,7 @@ dulcet
 dehorned
 dette
 diminuendoes
-degu
+degu 1
 disingenuous
 digitule
 discursus
