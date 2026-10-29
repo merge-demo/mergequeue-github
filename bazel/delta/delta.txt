@@ -8733,7 +8733,7 @@ dimps
 diatoma
 diapase
 deems
-diastase
+diastase 1
 din
 domelike
 disproportionateness
