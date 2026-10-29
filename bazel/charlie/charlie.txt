@@ -9789,7 +9789,7 @@ chelys
 cydon
 chellean
 cheloids
-cutinizing
+cutinizing 1
 chelonia
 contrails
 chelonian
