@@ -2395,7 +2395,7 @@ gaulish
 gambadoes
 gobioidei
 geminid
-geminous
+geminous 1
 gratinating
 gestating
 gemma
