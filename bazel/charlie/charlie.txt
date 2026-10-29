@@ -6876,7 +6876,7 @@ celomata
 consultee
 celotomies
 clonks
-cloze
+cloze 1
 celsian
 cashbox
 celt
