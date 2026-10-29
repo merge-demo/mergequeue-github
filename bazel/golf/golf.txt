@@ -1075,7 +1075,7 @@ gangplows
 geomalic
 gist
 glaucoma
-glor
+glor 1
 gonimous
 gilden
 gangrened

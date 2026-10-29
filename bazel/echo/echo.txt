@@ -194,7 +194,7 @@ excurvature
 ethylthioether
 evicting
 expediting
-equinoctially
+equinoctially 1
 eten
 entincture
 ectoplacenta
