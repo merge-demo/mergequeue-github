@@ -11175,7 +11175,7 @@ chloraemia
 chloragogue
 chloral
 chloralformamide
-cluniac
+cluniac 1
 cupelling
 comburimeter
 cymbocephalic
