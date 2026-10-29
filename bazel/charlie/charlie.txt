@@ -1707,7 +1707,7 @@ calotermes
 calotype
 cyclodiolefine
 calotypic
-calotypist
+calotypist 1
 crossbolt
 congratulated
 cryptovalency
