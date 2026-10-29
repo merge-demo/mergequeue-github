@@ -18386,7 +18386,7 @@ dysphagia
 denter
 dimorphite
 damsons
-deepfreezing
+deepfreezing 1
 dorrs
 divulgers
 detracting
