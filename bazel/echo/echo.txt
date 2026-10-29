@@ -619,7 +619,7 @@ epeus
 ey
 echeneidoid
 enchant
-enneaeteric
+enneaeteric 1
 empyreumatic 1
 epipaleolithic
 evincement
