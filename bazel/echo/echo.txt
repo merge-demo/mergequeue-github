@@ -1330,7 +1330,7 @@ effectuated
 encastage
 effectuating
 effervesced
-exuberate
+exuberate 1
 effectuous
 endostracum
 epigastrical
