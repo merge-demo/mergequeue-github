@@ -2134,7 +2134,7 @@ decane
 debauchment
 decanery
 decanes
-diabolify
+diabolify 1
 decangular
 daedalus 1
 decently
