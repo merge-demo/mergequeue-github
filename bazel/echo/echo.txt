@@ -8362,7 +8362,7 @@ exclusory
 endiadem
 epithyme
 extacie
-eloped
+eloped 1
 epityphlitis
 erythrosinophile
 effrenate
