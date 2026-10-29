@@ -1929,7 +1929,7 @@ characteries
 camellike
 cornwallises
 camellin
-caser
+caser 1
 cameloidea
 camelopardalis
 consubstantiation
