@@ -1484,7 +1484,7 @@ encompasses
 eurythermous
 electivism
 electroshocks
-exposal
+exposal 1
 embolium
 embarrased
 empathic
