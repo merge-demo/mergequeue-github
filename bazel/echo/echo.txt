@@ -11690,7 +11690,7 @@ emundation
 exaggeratingly
 exoascus
 extralinguistically
-expends
+expends 1
 erythrogenic
 estragons
 ecphasis
