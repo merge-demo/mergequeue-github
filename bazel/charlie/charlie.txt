@@ -7132,7 +7132,7 @@ carunculate
 centners
 centones
 centonism
-capitals
+capitals 1
 centonization
 centos
 cerebropathy
