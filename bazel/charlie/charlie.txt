@@ -4669,7 +4669,7 @@ centerline
 carotinemia
 cronying
 carotinoid
-corespondency
+corespondency 1
 carotol
 chalcedonian
 carouba
