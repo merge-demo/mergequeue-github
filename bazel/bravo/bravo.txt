@@ -5923,7 +5923,7 @@ belowground
 brandenburgs
 biggety
 buffaloes
-beltane
+beltane 1
 belauding
 bimetalic
 belter
