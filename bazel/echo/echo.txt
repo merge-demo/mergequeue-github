@@ -10809,7 +10809,7 @@ estivates 1
 euphemizer
 emanation
 ethicalism
-exequatur
+exequatur 1
 eighteenth
 exoplasm
 eunuchism
