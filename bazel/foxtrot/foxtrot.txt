@@ -6377,7 +6377,7 @@ fudgy
 fluorenes
 fluctuability
 ferriage
-foveolar
+foveolar 1
 fixup
 fluvio
 fluoresceine
