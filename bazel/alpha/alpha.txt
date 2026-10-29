@@ -250,7 +250,7 @@ acantholysis
 adenomata
 abbreviates
 achariaceous
-abbreviation
+abbreviation 1
 abc
 angiohypotonia
 abcoulomb
