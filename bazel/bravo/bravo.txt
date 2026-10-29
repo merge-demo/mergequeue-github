@@ -2472,7 +2472,7 @@ bottom
 busies
 bifunctional
 benzoiodohydrin
-bechalked
+bechalked 1
 bultow
 bruting
 blurriest
