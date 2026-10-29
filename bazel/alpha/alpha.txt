@@ -10071,7 +10071,7 @@ ambler
 awakes
 appulsive
 axmen
-antiformant
+antiformant 1
 amblycephalus
 atmology
 amblydactyla
