@@ -720,7 +720,7 @@ grissen
 gersdorffite
 gentianic
 gor
-gentlepeople
+gentlepeople 1
 galactotherapy
 gambling
 gluteal 1
