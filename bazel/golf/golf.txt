@@ -5836,7 +5836,7 @@ golliwog
 geocarpic
 gastriloquy 1
 ginglymoarthrodia
-galumptious
+galumptious 1
 glt
 gatten
 gonophoric
