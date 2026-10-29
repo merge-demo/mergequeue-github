@@ -10575,7 +10575,7 @@ animated
 amygdalase
 amygdalate
 assisted
-ambulatoriums
+ambulatoriums 1
 alcuinian
 archduchy
 aequian

@@ -1568,7 +1568,7 @@ eupeptically
 ensconces
 enervates
 erosible
-extraversion
+extraversion 1
 encampment
 epinasty 1
 envigor
