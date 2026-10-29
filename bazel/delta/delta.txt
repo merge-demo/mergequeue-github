@@ -15070,7 +15070,7 @@ doggonest
 doggoning
 detant
 dislady
-difunctional
+difunctional 1
 dogget
 doggrelize
 dottrels
