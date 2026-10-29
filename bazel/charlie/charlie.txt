@@ -3230,7 +3230,7 @@ cumly
 capital
 chevronny
 capitaldom
-capitaled
+capitaled 1
 capitalisable
 capitalised
 capitalising

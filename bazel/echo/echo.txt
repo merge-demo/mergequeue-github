@@ -10314,7 +10314,7 @@ eulophid
 ela
 ebullitions
 exsiccated 1
-ethnocracy
+ethnocracy 1
 energising
 expendable
 excogitating
