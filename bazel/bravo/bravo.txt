@@ -2589,7 +2589,7 @@ barytone
 barytons
 busing
 bowable
-bears
+bears 1
 brittlely
 barytophyllite
 blawed
