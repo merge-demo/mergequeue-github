@@ -10864,7 +10864,7 @@ fossors
 flavor
 frowardly
 fon
-frontalis
+frontalis 1
 fluvioterrestrial
 fustianist
 filigreing
