@@ -9788,7 +9788,7 @@ dimethoate
 decaphyllous
 deckpipe
 dysoxidize
-dogmatiser
+dogmatiser 1
 dipsos
 dermatocyst
 dillesk
