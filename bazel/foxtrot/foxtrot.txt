@@ -1803,7 +1803,7 @@ fetisher 1
 freeboard
 fores
 ferninst
-forbesite
+forbesite 1
 folkmots
 flak
 flaithship
