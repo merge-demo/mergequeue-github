@@ -4259,7 +4259,7 @@ gynarchic
 gazella
 geumatophobia
 gradometer
-galravitch
+galravitch 1
 generationism
 gypsuming
 goniopholis
