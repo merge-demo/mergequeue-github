@@ -13289,7 +13289,7 @@ backlet
 buckling
 botanica
 bandoleered
-bacteriologically
+bacteriologically 1
 bradykinesis
 bivaulted
 botanically
