@@ -10767,7 +10767,7 @@ dipstick
 diazotize
 divinization
 dipteraceae
-dipterygian
+dipterygian 1
 discontiguous
 dipteryx
 deinodontidae
