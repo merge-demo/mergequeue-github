@@ -17109,7 +17109,7 @@ campement
 covotary
 commonweal
 coemptional
-champ
+champ 1
 coadjutor
 coadjutors
 carduus

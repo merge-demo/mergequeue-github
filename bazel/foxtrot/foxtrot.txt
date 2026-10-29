@@ -7336,7 +7336,7 @@ fidgetingly
 foible
 felting
 friendliest
-flourishy
+flourishy 1
 formularised
 foraminose
 foraminulate
