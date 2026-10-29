@@ -60,7 +60,7 @@ earldoms
 earless
 eyn
 early
-excuss
+excuss 1
 estuarine
 earlier
 einkorns
