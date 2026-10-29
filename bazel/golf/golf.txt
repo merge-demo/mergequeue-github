@@ -8527,7 +8527,7 @@ glycin
 geisha
 graveolent
 gymnoderinae
-gozzan
+gozzan 1
 gramineae
 graverobbing
 ghettoization
