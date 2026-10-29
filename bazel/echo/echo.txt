@@ -5680,7 +5680,7 @@ elaeagnaceous
 extinct
 essayist
 extraterrestrially
-eucalypts
+eucalypts 1
 enfree
 exordiums
 exposable
