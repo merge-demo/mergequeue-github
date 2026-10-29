@@ -2470,7 +2470,7 @@ glassing
 gourinae
 gemsbuck
 guardful
-greasy
+greasy 1
 gimble
 gonopodial
 gemmology
