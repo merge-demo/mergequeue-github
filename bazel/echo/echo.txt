@@ -13365,7 +13365,7 @@ elegizing
 exposes
 encrustant
 envassalage
-encrownment
+encrownment 1
 enrichers
 esthesiometry
 exsanguinity
