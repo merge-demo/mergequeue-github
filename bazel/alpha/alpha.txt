@@ -10224,7 +10224,7 @@ admortization
 araban
 asiarchate 1
 amebicide
-antiface
+antiface 1
 amebid
 attorneys
 appendaged
