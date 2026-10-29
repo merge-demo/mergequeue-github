@@ -2521,7 +2521,7 @@ aconative
 acondylose
 amicable
 artisan
-abeyant
+abeyant 1
 aconelline
 assentatory
 aconine
