@@ -6268,7 +6268,7 @@ dermatomere
 dermatomyces
 deploredness
 diplokaryon
-dweeble
+dweeble 1
 debat
 doldrums
 diact
