@@ -8802,7 +8802,7 @@ avens
 actinautography
 aspersions
 alimental
-anfractuousness
+anfractuousness 1
 airtightness
 ascoma
 apterygote

@@ -13310,7 +13310,7 @@ carriageless
 cyclopaedist
 coquito
 clitoria
-chinning
+chinning 1
 churchwarden
 cyclopedias
 cyclopedical
