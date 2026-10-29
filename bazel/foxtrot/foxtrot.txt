@@ -8850,7 +8850,7 @@ fossulae
 faltche
 flatfishes
 featureless
-fostered
+fostered 1
 fator
 figeter
 fluidities
