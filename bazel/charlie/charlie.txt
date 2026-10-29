@@ -10937,7 +10937,7 @@ chirography
 candlelighted
 chirographical
 chirolas
-chirology
+chirology 1
 curators
 chirological
 chirologically
