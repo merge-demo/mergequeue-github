@@ -10114,7 +10114,7 @@ flatwashes
 fleshment
 frithstool
 fritniency
-fare
+fare 1
 foreknee
 fe
 feckly
