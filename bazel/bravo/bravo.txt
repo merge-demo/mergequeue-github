@@ -10060,7 +10060,7 @@ basidiolichen
 burglarious
 bizones
 bergeret
-biblos
+biblos 1
 bizz
 bluecoats
 bjorne
