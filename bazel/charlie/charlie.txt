@@ -3921,7 +3921,7 @@ ccm
 carboxylic
 carboxyls
 carbromal
-carbuncle
+carbuncle 1
 chuckrum
 chronoscopy
 carbuncular
