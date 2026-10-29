@@ -2525,7 +2525,7 @@ candleberries
 candlebomb
 candlefish
 corporeal
-chaldaical
+chaldaical 1
 candlefishes
 collogued
 candleholder

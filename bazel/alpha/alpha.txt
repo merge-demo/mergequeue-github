@@ -20698,7 +20698,7 @@ abounder
 anteroclusion
 auriculovertical
 atrichosis
-angami
+angami 1
 articularly
 axonemes
 articulars
