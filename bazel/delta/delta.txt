@@ -6844,7 +6844,7 @@ definition
 ducamara
 disfranchisers
 donataries
-degenerates
+degenerates 1
 dextrocardial
 dendrograph
 desmodynia
