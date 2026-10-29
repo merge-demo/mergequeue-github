@@ -8961,7 +8961,7 @@ desirably
 dichotomize
 despraise
 demographic
-demonstrably
+demonstrably 1
 dub
 despoticalness
 dail
