@@ -6124,7 +6124,7 @@ dropout
 dimission
 durgen
 deckedout 1
-derated
+derated 1
 diphtheroid
 derater
 dijudicant
