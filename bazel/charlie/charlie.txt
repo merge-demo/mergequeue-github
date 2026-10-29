@@ -30237,7 +30237,7 @@ choop
 canzon
 caneton
 calamitean
-cruet
+cruet 1
 clum
 cruety
 creepie
