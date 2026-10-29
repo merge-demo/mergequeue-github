@@ -17242,7 +17242,7 @@ drizzly
 drizzlier
 drizzliest
 diablery
-digresser
+digresser 1
 dirigo
 dentinasal
 droger
