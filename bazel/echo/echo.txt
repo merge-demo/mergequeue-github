@@ -8666,7 +8666,7 @@ eisenhower
 epipoditic
 eggcrate
 endnotes
-equipedal
+equipedal 1
 endotheliomyoma
 epithalamiumia
 enchondromas
