@@ -7947,7 +7947,7 @@ exptl
 exordia
 epimandibular
 enthrone
-epimanikia
+epimanikia 1
 eolopile
 equivocatory
 estragol

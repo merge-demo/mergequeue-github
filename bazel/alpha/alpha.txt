@@ -10278,7 +10278,7 @@ ars
 ameliorates
 adenotyphoid
 algins
-allice
+allice 1
 adhort
 amomales
 ameliorations
