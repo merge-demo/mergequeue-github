@@ -22732,7 +22732,7 @@ caballeros
 consanguineous
 consanguineously
 caulocarpous
-coemptio
+coemptio 1
 consecrative
 columnarized
 caligraphy
