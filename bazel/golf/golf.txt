@@ -2223,7 +2223,7 @@ goaves
 gemwork
 gastrolith
 gymnosperms
-galas 1
+galas 2
 gaster
 gastrocatarrhal
 goodbyes
