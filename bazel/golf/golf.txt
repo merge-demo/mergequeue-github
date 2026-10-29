@@ -1284,7 +1284,7 @@ grallina
 gnatsnapper
 ganges 1
 granch
-giddying
+giddying 1
 gunnels
 granulose
 ginkgo
