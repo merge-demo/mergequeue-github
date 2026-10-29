@@ -11047,7 +11047,7 @@ fere
 fascias
 funambulator
 feels
-faunological
+faunological 1
 flinty
 fellatrices
 fangless
