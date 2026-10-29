@@ -6382,7 +6382,7 @@ endangiitis
 enshield
 endostitis
 ebbed
-episcopize
+episcopize 1
 eprouvette
 enshrined
 enshrinement
