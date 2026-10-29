@@ -7571,7 +7571,7 @@ endoscopically
 exucontian
 exponence
 eructing
-explanitory
+explanitory 1
 epicheiremata
 executer
 ependyma
