@@ -7952,7 +7952,7 @@ dextral
 directed
 dextran
 dextranase
-doublelunged
+doublelunged 1
 disallowable
 demicylinder
 defunctive
