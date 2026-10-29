@@ -4270,7 +4270,7 @@ goby
 gynecocrat
 gunshots
 gleamed
-gastroscope
+gastroscope 1
 gangliated
 gibeonite
 gasconism
