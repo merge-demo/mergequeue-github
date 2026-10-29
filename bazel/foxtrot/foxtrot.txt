@@ -5486,7 +5486,7 @@ flesh
 forbids
 formes
 filchers
-feculae
+feculae 1
 floey
 fenderless
 fricassee
