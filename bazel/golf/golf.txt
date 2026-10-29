@@ -5087,7 +5087,7 @@ guddler
 glassines
 galloping
 glassiness
-glasslikeness
+glasslikeness 1
 goosefoots
 garrya
 gilled
