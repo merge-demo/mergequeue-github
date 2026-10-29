@@ -9825,7 +9825,7 @@ amma
 antihormone
 agst
 assubjugate
-amapa
+amapa 1
 approvably
 ainsell
 amarantaceae
