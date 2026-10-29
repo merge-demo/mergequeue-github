@@ -16828,7 +16828,7 @@ dissociable
 disring
 dendrodus
 diaphanoscopy
-deprecatingly
+deprecatingly 1
 drumbeat
 drillbit
 darbukka
