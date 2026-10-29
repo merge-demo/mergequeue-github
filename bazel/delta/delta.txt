@@ -17149,7 +17149,7 @@ drilvis
 deuterogelatose
 dringle
 disomaty 1
-decade
+decade 1
 decius
 dimwittedness
 disgaveled
