@@ -10973,7 +10973,7 @@ comitatus
 chiropodial
 chiropodic
 chiropodical
-caphite
+caphite 1
 cavascope
 canvaslike
 chiropodistry

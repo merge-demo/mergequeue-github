@@ -4603,7 +4603,7 @@ freest
 filmist
 fistula
 fistulina
-forbbore
+forbbore 1
 fighter
 footnoting
 fistwise
