@@ -1487,7 +1487,7 @@ garner
 gasher
 galaginae
 glumly
-gunmaker
+gunmaker 1
 gymnarchus
 gluconate
 galosh
