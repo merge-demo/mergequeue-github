@@ -1092,7 +1092,7 @@ fastback
 farrisite
 fleerish
 firehalls
-figulate
+figulate 1
 forthcame
 flyings
 farruca
