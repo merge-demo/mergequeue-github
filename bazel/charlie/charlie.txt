@@ -7639,7 +7639,7 @@ collarets
 cerements
 cucuyo
 coiffing
-curettes
+curettes 1
 concessionist
 centralizer
 confinements
