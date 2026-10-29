@@ -6916,7 +6916,7 @@ discomposes
 desoxalic
 dichromasy
 decanter
-dialled
+dialled 1
 despair
 delirous
 drunken
