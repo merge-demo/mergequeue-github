@@ -2516,7 +2516,7 @@ foremeant
 footsore
 feudal
 functionize
-fastballs
+fastballs 1
 frush
 flunky
 favaginous
