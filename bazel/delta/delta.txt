@@ -10361,7 +10361,7 @@ duplet
 disgregation
 dipotassic
 disassimilate
-dioscurian
+dioscurian 1
 disenfranchised
 diurons
 diazoanhydride
