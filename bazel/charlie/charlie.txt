@@ -7321,7 +7321,7 @@ cephalacanthus
 compartner
 cantalite
 cephalagra
-computus
+computus 1
 coudee
 cephalaspis
 condurrite
