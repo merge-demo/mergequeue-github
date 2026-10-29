@@ -10805,7 +10805,7 @@ eurodollar
 eleanor
 expurgatory
 ethide
-estivates
+estivates 1
 euphemizer
 emanation
 ethicalism
