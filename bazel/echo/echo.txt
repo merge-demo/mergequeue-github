@@ -2809,7 +2809,7 @@ ephebeibeia
 engarble
 ethylene
 egyptological
-excalate
+excalate 1
 ensnarling
 elenchi
 elenchic
