@@ -9867,7 +9867,7 @@ expedite
 expletiveness
 eupepsy
 erostrate
-experimentalize
+experimentalize 1
 epeeists
 ependymoma
 enweaving
