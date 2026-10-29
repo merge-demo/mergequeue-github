@@ -12049,7 +12049,7 @@ devotionist
 disenmesh
 dyehouse
 dibrom
-donut
+donut 1
 deacon
 disensanity
 dismayedness
