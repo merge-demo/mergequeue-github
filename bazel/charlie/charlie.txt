@@ -26380,7 +26380,7 @@ cotemporaries
 clubbable
 cozeiest
 circumsaturnian
-continuous
+continuous 1
 cotenancy
 cotenant
 cotenants
