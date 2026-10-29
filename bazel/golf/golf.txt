@@ -969,7 +969,7 @@ gamostele
 gallinule
 glottogony
 genetically
-gamp
+gamp 1
 graysby
 gastrolobium
 genre
