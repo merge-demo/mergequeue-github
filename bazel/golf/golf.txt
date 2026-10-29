@@ -4777,7 +4777,7 @@ gederite 1
 gelidly
 gametophyll
 glene
-gaullist
+gaullist 1
 gotta
 gomeril
 galleta
