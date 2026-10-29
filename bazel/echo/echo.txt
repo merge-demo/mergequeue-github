@@ -12039,7 +12039,7 @@ extraembryonic
 enquere
 excommunication
 exploitage
-episcias
+episcias 1
 extra
 entackle
 ervum
