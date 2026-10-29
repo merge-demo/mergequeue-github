@@ -8319,7 +8319,7 @@ despeed
 dapper
 duskly
 diapausing
-dyakish
+dyakish 1
 dg
 dialcohol
 dialect
