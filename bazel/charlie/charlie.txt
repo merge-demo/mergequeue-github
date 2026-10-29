@@ -13521,7 +13521,7 @@ confineable
 consignees
 cobbier
 cardioclasia
-corenounce
+corenounce 1
 crozed
 castigative
 ciliotomy
