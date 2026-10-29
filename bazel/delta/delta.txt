@@ -301,7 +301,7 @@ dahs
 day
 distributed
 dayabhaga
-dreed
+dreed 1
 demisheath
 depolarized
 dayanim
