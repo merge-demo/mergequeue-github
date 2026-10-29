@@ -12124,7 +12124,7 @@ angularly 1
 antihumanist
 anatheme
 anatidae
-anatifer
+anatifer 1
 adumbrellar
 aggradational
 anatole
