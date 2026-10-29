@@ -17058,7 +17058,7 @@ dryades
 dryadetum
 damners
 dentistic
-dactyliographer
+dactyliographer 1
 dribbles
 dosers
 disthroning
