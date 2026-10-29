@@ -8767,7 +8767,7 @@ allicient
 anglist
 anticeremonially
 allied
-allies
+allies 1
 alligated
 acceders
 autoagglutinating
