@@ -23930,7 +23930,7 @@ arrhythmous
 assumer
 adenoidal
 authoritarian
-authoritarians
+authoritarians 1
 awarn
 antisplasher
 archvestryman
