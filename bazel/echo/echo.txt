@@ -6239,7 +6239,7 @@ enorm
 explorement
 exhalations
 endopericarditis
-exhortator
+exhortator 1
 enorn
 eumeromorph
 enos
