@@ -6126,7 +6126,7 @@ faciata
 flourish
 fermion
 fjorgyn
-foully
+foully 1
 freudians
 formamide
 fruitarianism
