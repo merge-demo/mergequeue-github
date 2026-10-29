@@ -981,7 +981,7 @@ brogueful
 boohooed
 burnous
 boat
-bayamos
+bayamos 1
 brownier
 brigand
 bayano
