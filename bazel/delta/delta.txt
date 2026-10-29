@@ -14619,7 +14619,7 @@ dumpiest
 daubreeite
 divulgation
 demoralised
-divulge
+divulge 1
 divulged
 diminuted
 drivelling
