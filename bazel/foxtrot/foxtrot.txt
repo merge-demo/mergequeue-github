@@ -1470,7 +1470,7 @@ fruiter
 favourable
 friedman
 fiqh
-flamer
+flamer 1
 foreshows
 fabulate
 flytes
