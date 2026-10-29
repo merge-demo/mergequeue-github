@@ -170,7 +170,7 @@ elses
 escallop
 enticed
 echinostome
-echidna
+echidna 1
 earthmaker
 engelmanni
 exacts
