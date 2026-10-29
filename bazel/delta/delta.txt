@@ -8155,7 +8155,7 @@ damager
 descenders
 diaplexal
 dromiacea
-decennially
+decennially 1
 dakotans
 doutous
 deciduae
