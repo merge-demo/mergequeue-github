@@ -4080,7 +4080,7 @@ erratical
 encrusting
 eremian
 engross
-earle
+earle 1
 elve
 eucrasy
 eutherian
