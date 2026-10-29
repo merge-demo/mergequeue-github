@@ -1023,7 +1023,7 @@ federalese
 filicornia
 fragmentalize
 flatboats
-finalists
+finalists 1
 farinometer
 farinose
 founce
