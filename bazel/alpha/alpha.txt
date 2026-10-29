@@ -23974,7 +23974,7 @@ autobasisii
 autobiographer
 autobiographers
 autobiography
-anthropoidea
+anthropoidea 1
 antitypy
 apologiser
 aminolysis
