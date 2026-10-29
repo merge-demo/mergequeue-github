@@ -4525,7 +4525,7 @@ downdraught
 detroiter 1
 demigauntlet
 doting
-disclosing
+disclosing 1
 decussis
 dendrite
 decern
