@@ -1811,7 +1811,7 @@ beslime
 bullose 1
 bialystoker
 bandaged
-bandaging
+bandaging 1
 berylloid
 bowlin 1
 bushranging
