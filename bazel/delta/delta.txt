@@ -6960,7 +6960,7 @@ debussyanize
 dribble
 distomian
 dioptases
-dicaryon
+dicaryon 1
 discouragedly
 disentrancement
 dysuric
