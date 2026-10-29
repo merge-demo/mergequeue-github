@@ -1779,7 +1779,7 @@ deaving
 decolorization
 drydenism
 disregardfully
-dorsolum
+dorsolum 1
 dissevers
 divalence
 dissociated
