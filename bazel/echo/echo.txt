@@ -8270,7 +8270,7 @@ escribe
 epopoeia
 epochal
 enatant
-epistolised
+epistolised 1
 eure
 epigeic
 escapado
