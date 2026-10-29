@@ -2647,7 +2647,7 @@ electroreduction
 endamoebiasis
 eunuchising
 edh
-eupneic
+eupneic 1
 ergophobiac
 enchondromata
 electroresection
