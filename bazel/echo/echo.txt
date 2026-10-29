@@ -2048,7 +2048,7 @@ eskimo
 elaeometer
 electrometeor
 entamebic
-eligibleness
+eligibleness 1
 earthstar 1
 encephalometric
 electrograph
