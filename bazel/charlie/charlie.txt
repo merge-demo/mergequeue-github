@@ -13224,7 +13224,7 @@ conscribe
 cyclization
 cyclizes
 cauld
-coulometric
+coulometric 1
 crossrail
 cycloaliphatic
 cycloalkane
