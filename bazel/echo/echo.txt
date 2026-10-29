@@ -11389,7 +11389,7 @@ ethnomusicologist
 endodontics
 enneasemic
 exuvia
-encompass
+encompass 1
 eponymist
 eventime
 entosternite
