@@ -25119,7 +25119,7 @@ coinstantaneous
 corequisite
 corer
 combinantive
-corers
+corers 1
 cores
 carbonates
 chlorospinel
