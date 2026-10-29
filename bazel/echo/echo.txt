@@ -8959,7 +8959,7 @@ eclairissement
 ectotherm
 expropriation
 eryngos
-elasmotherium
+elasmotherium 1
 edgers
 europeanly
 essex
