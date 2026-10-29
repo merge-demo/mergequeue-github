@@ -8722,7 +8722,7 @@ chilindre
 chapatties
 chapattis
 codify
-connectant
+connectant 1
 chapbook
 carbonylating
 caconym
