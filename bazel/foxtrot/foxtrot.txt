@@ -10184,7 +10184,7 @@ fetologies
 furdel
 ferryage
 famines
-fending
+fending 1
 foggages
 frazing
 faros
