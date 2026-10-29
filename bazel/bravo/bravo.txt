@@ -1522,7 +1522,7 @@ bersiamite
 bulbiform
 bdl
 bouton
-backsword
+backsword 1
 ballastic
 ballata
 brisked
