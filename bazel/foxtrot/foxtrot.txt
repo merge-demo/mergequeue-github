@@ -8023,7 +8023,7 @@ frivolled
 fae
 ferie
 froebelian
-flashbulb
+flashbulb 1
 fungaceous
 forestal
 forestalling
