@@ -22464,7 +22464,7 @@ anamnestically
 astrophysicists
 anthemideae
 aleurones
-astrophotographic
+astrophotographic 1
 astrophotometer
 astroscopy
 autocratorical
