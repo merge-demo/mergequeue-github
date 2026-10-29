@@ -6917,7 +6917,7 @@ desoxalic
 dichromasy
 decanter
 dialled
-despair
+despair 1
 delirous
 drunken
 dirgeful
