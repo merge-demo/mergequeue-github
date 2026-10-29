@@ -2383,7 +2383,7 @@ electroconvulsive
 empoisonment
 engorged
 exocone 1
-egoistic
+egoistic 1
 exergonic
 eurytomidae
 electrocutional

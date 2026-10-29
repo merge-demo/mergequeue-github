@@ -16281,7 +16281,7 @@ antityphoid
 amaroid
 adeeming
 antitypical
-antitypous
+antitypous 1
 amphigouris
 autoregenerator
 anthochlor
