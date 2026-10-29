@@ -2141,7 +2141,7 @@ baptisias
 bonehead
 bricksetter
 burnishes
-bediapered
+bediapered 1
 brutism
 baptising
 butterless
