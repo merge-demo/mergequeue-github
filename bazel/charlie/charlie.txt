@@ -14637,7 +14637,7 @@ checkmating
 catch
 concomitancy
 cystopyelitis
-coquelicot
+coquelicot 1
 cystoplegia
 cystoproctostomy
 cystopteris
