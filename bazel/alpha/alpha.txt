@@ -20456,7 +20456,7 @@ arteriac
 artistes
 allomorphic
 archchaplain
-apotropaic
+apotropaic 1
 antimilitaristically
 apprecate
 aerogenous
