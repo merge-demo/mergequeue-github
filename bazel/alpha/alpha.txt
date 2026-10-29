@@ -24381,7 +24381,7 @@ autoscopic
 antivivisection
 apparentation
 antagonise
-autosight
+autosight 1
 albuminuric
 autosymbolic
 autosymbolical
