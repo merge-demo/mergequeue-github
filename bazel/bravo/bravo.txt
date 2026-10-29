@@ -5315,7 +5315,7 @@ bogies
 beglerbeglic
 blatant
 bakalai
-burka
+burka 1
 behew
 brahmaic
 beglerbegluc
