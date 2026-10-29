@@ -13704,7 +13704,7 @@ excursionize
 epitaxy
 expiatist
 ermanaric
-enfasten
+enfasten 1
 epiplasm
 equiaxe
 ergocalciferol
