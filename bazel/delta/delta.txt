@@ -12595,7 +12595,7 @@ disinterestedly
 disinterestedness
 disinterment
 depilous
-disheaven
+disheaven 1
 dimyary
 depersonize
 disinters
