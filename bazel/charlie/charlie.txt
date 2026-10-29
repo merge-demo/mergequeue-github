@@ -24852,7 +24852,7 @@ capilliform
 cookware
 consularity
 coracomorph
-curbash
+curbash 1
 coracomorphae
 chrysopoeia
 coracopectoral
