@@ -26826,7 +26826,7 @@ correctingly
 conspiring
 counterexcitement
 counterexercise
-commeasuring
+commeasuring 1
 cyclometry
 counterextension
 cartoons
