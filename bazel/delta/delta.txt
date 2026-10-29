@@ -12207,7 +12207,7 @@ disfoliage
 disrelate
 disfoliaged
 distich
-descendibility
+descendibility 1
 disherent
 disfortune
 dramatism
