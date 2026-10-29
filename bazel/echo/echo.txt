@@ -5289,7 +5289,7 @@ embryotrophy
 espinillo
 etaerio
 exactor
-entreatable 1
+entreatable 2
 evened
 editors
 ecumenicity
