@@ -14522,7 +14522,7 @@ cista
 circumstanced
 cubicontravariant
 cystalgia
-cystamine
+cystamine 1
 commatism
 cysteamine
 cystectasia
