@@ -10937,7 +10937,7 @@ francs
 fulminurate
 fulness
 fess
-fulnesses 1
+fulnesses 2
 flanconade
 forgetness
 feuded

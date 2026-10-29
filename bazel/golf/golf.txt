@@ -10294,7 +10294,7 @@ gibblegabble
 gastrulating
 guitarists
 grossularite
-galvanomagnet
+galvanomagnet 1
 gigantically
 gorges
 gridded
