@@ -21435,7 +21435,7 @@ aspects
 acyclically
 aspens
 asper
-amnesties
+amnesties 1
 asperate
 artefact
 azarole
