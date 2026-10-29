@@ -6272,7 +6272,7 @@ gentle
 gulpin
 gynandrarchic
 galoch
-gospelly
+gospelly 1
 gainable
 gobble
 gowpen
