@@ -8135,7 +8135,7 @@ dalk
 depilates
 disambiguate
 disventure
-delineate
+delineate 1
 domesticized
 deepener
 diacaustic
