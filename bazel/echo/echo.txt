@@ -8926,7 +8926,7 @@ essive
 epiphanies
 errhine
 eudaemonist
-erical
+erical 1
 exoskeletal
 eteoclus
 endosmotically
