@@ -6877,7 +6877,7 @@ airplaner
 abroma
 aristomonarchy
 airplanist
-airgraph
+airgraph 1
 analogism
 algarad
 appendiculated
