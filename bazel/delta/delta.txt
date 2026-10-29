@@ -12935,7 +12935,7 @@ deniability
 dimensionless
 disomatic
 doubtmonger
-dermostosis
+dermostosis 1
 degreeing
 docilities
 dognaping
