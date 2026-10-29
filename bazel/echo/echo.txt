@@ -12245,7 +12245,7 @@ eclogue
 executress
 elshin
 exsurge
-endosteal
+endosteal 1
 enchases
 expertized
 encommon
