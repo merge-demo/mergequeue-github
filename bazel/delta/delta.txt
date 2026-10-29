@@ -5499,7 +5499,7 @@ doryphoros
 deoxygenated
 depaints
 divestitures
-dilatation
+dilatation 1
 deoxyribonucleotide
 disportive
 diaphragm
