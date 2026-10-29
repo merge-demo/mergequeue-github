@@ -15957,7 +15957,7 @@ andantes
 antiquarianize
 anachronism
 antiquaries
-antiquartan
+antiquartan 1
 americas
 amylase
 aromatise
