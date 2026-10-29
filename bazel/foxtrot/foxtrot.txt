@@ -2218,7 +2218,7 @@ fruiting
 feminility
 feminin
 frecklish
-fondlesome
+fondlesome 1
 fluorinates
 foals
 feminineness
