@@ -24560,7 +24560,7 @@ auxochromous
 attitudinise
 abamperes
 auxology
-ammonea
+ammonea 1
 argentarius
 auxospore
 anachorism
