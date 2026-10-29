@@ -866,7 +866,7 @@ girdlingly
 gameless
 gammy
 gynecomazia
-ganglionitis
+ganglionitis 1
 gilded
 gulinular
 garrooka
