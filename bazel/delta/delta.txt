@@ -6699,7 +6699,7 @@ desyatin
 deaconries
 desicate
 dubonnets
-desman
+desman 1
 desiderable
 diascopy
 deadhead
