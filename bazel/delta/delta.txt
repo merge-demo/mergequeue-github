@@ -16316,7 +16316,7 @@ dibbler
 dragonism
 dainteth
 deplored
-dedolency
+dedolency 1
 decanate
 diarchy
 drubs
