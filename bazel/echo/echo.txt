@@ -6007,7 +6007,7 @@ eudromias
 equivaliant
 eudemon
 ethrog
-equiexcellency
+equiexcellency 1
 expanding
 epilated
 enjoinders
