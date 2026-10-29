@@ -961,7 +961,7 @@ detonational
 departed
 dizzardly
 dardan
-desists
+desists 1
 dodecastyle
 doctors
 dizzyingly
