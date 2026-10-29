@@ -1334,7 +1334,7 @@ aiolis
 agnized
 accelerate
 anilide
-acceleratedly
+acceleratedly 1
 assidean
 annealers
 alabamians
