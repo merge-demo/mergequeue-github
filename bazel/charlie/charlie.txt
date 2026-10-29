@@ -13451,7 +13451,7 @@ cigaritos
 choloepus
 cautions 1
 consubstantialism
-cygnid
+cygnid 1
 commodore
 countersecure
 cygninae
