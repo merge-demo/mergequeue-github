@@ -1269,7 +1269,7 @@ antifoggant
 acarpelous
 augitic
 antisceptic
-ais
+ais 1
 acatalectic
 apomicts
 atelocardia
