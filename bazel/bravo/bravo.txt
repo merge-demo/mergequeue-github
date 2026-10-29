@@ -17072,7 +17072,7 @@ barrelling
 bullberry
 braggadocios
 bitake
-baluga
+baluga 1
 bullboat
 babylonite
 bullcomber
