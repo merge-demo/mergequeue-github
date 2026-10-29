@@ -18498,7 +18498,7 @@ daffish
 disawa
 datch
 drongos
-duffer
+duffer 1
 durances
 downcast
 divorced
