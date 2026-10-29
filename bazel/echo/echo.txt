@@ -14066,7 +14066,7 @@ enquarter
 extracurriculum
 entablature
 encephalomata
-enfect
+enfect 1
 errantry
 entoplastral
 epigastral
