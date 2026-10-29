@@ -5426,7 +5426,7 @@ apocatastasis
 afoul
 afray
 athrocytosis
-antisymmetrical
+antisymmetrical 1
 anticensoriousness
 arcosolia
 aspirator
