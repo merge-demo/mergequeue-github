@@ -12897,7 +12897,7 @@ esotropic
 expansionist
 expansionistic
 enserf
-eructs
+eructs 1
 erupturient
 exploitative
 enclasping
