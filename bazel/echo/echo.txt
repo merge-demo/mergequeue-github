@@ -6471,7 +6471,7 @@ encroachment
 extensionless
 embroideries
 elvira
-ensober
+ensober 1
 ensorceled 1
 encephalometer
 earfuls
