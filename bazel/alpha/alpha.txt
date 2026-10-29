@@ -2455,7 +2455,7 @@ amphisbaenidae
 acme
 acquiring
 articulata
-americana
+americana 1
 adipic
 acnemia
 argumentum
