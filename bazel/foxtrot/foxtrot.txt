@@ -7884,7 +7884,7 @@ forerun
 fname
 factiousness
 franklinia
-foreruns
+foreruns 1
 flacket
 frightenable 1
 frottole
