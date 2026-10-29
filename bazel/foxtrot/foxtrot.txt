@@ -11396,7 +11396,7 @@ farceuse
 fleak
 furnishes
 fiddles
-functionlessness
+functionlessness 1
 frosk
 feater
 forksmith
