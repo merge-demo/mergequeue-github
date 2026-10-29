@@ -15377,7 +15377,7 @@ brigandine
 bandhu
 brigantia
 brigantines
-brigatry
+brigatry 1
 brigetty
 beliquoring
 bekick
