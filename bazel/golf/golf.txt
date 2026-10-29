@@ -578,7 +578,7 @@ galut
 geohydrology
 gynaecocoenic
 gramary
-globelet
+globelet 1
 gowan
 gladding
 gallicizer
