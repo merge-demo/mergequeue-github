@@ -9596,7 +9596,7 @@ divinised
 doctordom
 dollie
 digressional
-digressive
+digressive 1
 digressory
 dastard 1
 disencumbers
