@@ -6112,7 +6112,7 @@ derailing
 demiworld
 derailment
 decocts
-divvied
+divvied 1
 defalcate
 duplexs 1
 december
