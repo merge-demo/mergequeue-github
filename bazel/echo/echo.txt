@@ -6123,7 +6123,7 @@ exulcerative
 epithalamiast
 entremets
 enlive
-execeptional
+execeptional 1
 emboly
 exceed
 exossate
