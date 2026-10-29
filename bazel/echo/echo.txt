@@ -10759,7 +10759,7 @@ ephemerae
 enclaret
 endorsee 1
 extort
-ephemeran
+ephemeran 1
 eternalness
 extramoralist
 eigenvector
