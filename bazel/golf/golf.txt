@@ -4798,7 +4798,7 @@ glycogenize
 gjedost
 gastropleuritis
 gyniatrics
-grandiloquent
+grandiloquent 1
 gravedo
 glorifies
 gibbosity
