@@ -1805,7 +1805,7 @@ gelatinotype
 grippelike
 ghyll
 glutinate
-gestalten 1
+gestalten 2
 granodioritic
 gangwaymen
 gastrostenosis
