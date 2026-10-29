@@ -10437,7 +10437,7 @@ gomphodont
 geobiologic
 gumdigging
 gumdrop
-gelseminine
+gelseminine 1
 gumly
 gruffs
 gesticulatory
