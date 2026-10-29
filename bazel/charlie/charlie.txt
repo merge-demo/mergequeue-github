@@ -6597,7 +6597,7 @@ cosmonaut
 celibates
 cearin
 chatoyancy
-ceaselessness
+ceaselessness 1
 cryogenically
 ceases
 ceasing
