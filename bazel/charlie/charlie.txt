@@ -26676,7 +26676,7 @@ counteractively
 cardiectomy
 cavish
 conflagrate
-competently
+competently 1
 concrescent
 counteractivity
 columbium
