@@ -400,7 +400,7 @@ germinogony
 gradeless
 genuflexuous
 galatea
-galateas
+galateas 1
 glucogenesis
 galbula
 gelding

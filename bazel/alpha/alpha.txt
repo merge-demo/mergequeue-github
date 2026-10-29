@@ -9684,7 +9684,7 @@ antespring
 autecologic
 antedated
 alopecist
-alur
+alur 1
 astrophotography
 abature
 amphiblastic
