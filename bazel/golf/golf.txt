@@ -4966,7 +4966,7 @@ gladioluses
 girondist
 groundwards
 glamors 1
-geldable
+geldable 1
 granddada
 granita
 gainst
