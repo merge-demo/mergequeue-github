@@ -11950,7 +11950,7 @@ confabulating
 confarreate
 choriambus
 choric
-chorines
+chorines 1
 collunarium
 cachina
 chorioallantoic
