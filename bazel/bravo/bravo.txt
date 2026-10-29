@@ -3920,7 +3920,7 @@ bch
 borsholder
 bchs
 ballotage
-bd
+bd 1
 boracium
 buttonholes
 butternose
