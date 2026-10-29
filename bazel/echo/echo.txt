@@ -368,7 +368,7 @@ excentral
 eyestone
 erethistic
 eeler
-enthroned
+enthroned 1
 eavesdropping
 encyclopedism
 eightvos
