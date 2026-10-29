@@ -16754,7 +16754,7 @@ anteaters
 antiorthodox
 antikamnia
 aphanitic
-aphetize
+aphetize 1
 armours
 adiposity
 aphidivorous
