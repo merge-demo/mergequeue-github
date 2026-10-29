@@ -2634,7 +2634,7 @@ fireless
 flusters
 foreshoulder
 figuratively
-fastidious
+fastidious 1
 frumentation
 familiarisation
 forcipulata
