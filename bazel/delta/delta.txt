@@ -2556,7 +2556,7 @@ declass
 dimorphs
 dweller
 declassification
-derringer
+derringer 1
 diachrony
 declassifies
 diplophonic
