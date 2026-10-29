@@ -9499,7 +9499,7 @@ dittography
 declinature
 diastataxic
 debenzolize
-desiliconize
+desiliconize 1
 discussable
 digestor
 digestory

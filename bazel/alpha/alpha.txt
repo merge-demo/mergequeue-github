@@ -648,7 +648,7 @@ abomasum
 abomasus
 alkylize
 abominably
-abominate
+abominate 1
 avifaunal
 adulates
 amniotitis
