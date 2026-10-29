@@ -11483,7 +11483,7 @@ chymistry
 choile
 choir
 choirboys
-choired
+choired 1
 choirlike
 conoidally
 choristoma
