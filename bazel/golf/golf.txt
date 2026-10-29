@@ -3495,7 +3495,7 @@ gewgawry
 gyrfalcon
 gigantological
 gestatory
-geriatric
+geriatric 1
 grivoise
 gastropore
 graphonomy
