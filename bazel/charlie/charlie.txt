@@ -30368,7 +30368,7 @@ collectivistic
 carotte
 crusets
 calmierer
-cowpokes
+cowpokes 1
 crusile
 chintzier
 capita
