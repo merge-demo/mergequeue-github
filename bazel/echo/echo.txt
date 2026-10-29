@@ -8078,7 +8078,7 @@ euphrasy
 exosporal
 empeopled
 emerize
-epiphytic
+epiphytic 1
 extensum
 eaglehawk
 expositor
