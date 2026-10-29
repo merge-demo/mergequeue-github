@@ -6075,7 +6075,7 @@ dehumanise
 dramaticism
 dognapper
 disaster
-depressiveness
+depressiveness 1
 deputizing
 degraders
 debriefed
