@@ -13505,7 +13505,7 @@ expanses
 elinor
 equipollence
 ensnares
-embroiderers
+embroiderers 1
 ectosteal
 examine
 elephantous
