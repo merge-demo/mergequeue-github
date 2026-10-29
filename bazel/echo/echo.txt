@@ -6233,7 +6233,7 @@ enterclose
 execs
 ellipsoid
 erasure
-exodist
+exodist 1
 enophthalmus
 enorm
 explorement
