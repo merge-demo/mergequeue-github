@@ -21529,7 +21529,7 @@ cupuliform
 cubital
 cupromanganese
 concubinary
-coeducation
+coeducation 1
 concubinarian
 chondropterygii
 concubinate
