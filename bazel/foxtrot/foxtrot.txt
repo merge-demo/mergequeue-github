@@ -459,7 +459,7 @@ ferk
 faithlessness
 fringeless
 folkmoter
-foliosity
+foliosity 1
 facticity
 faithworthiness
 fireplaces
