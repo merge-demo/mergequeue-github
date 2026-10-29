@@ -10012,7 +10012,7 @@ cherry
 cherryblossom
 cherried
 cumbu
-canna
+canna 1
 compactedly
 cherries
 chlorioninae
