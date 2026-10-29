@@ -9320,7 +9320,7 @@ alpeen
 axstone
 azoerythrin
 alpenglow
-amputations
+amputations 1
 alpenstock
 alpenstocks
 alpestrine
