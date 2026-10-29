@@ -3544,7 +3544,7 @@ emboli
 ergastulum
 embolimeal
 ecumenism
-emuscation
+emuscation 1
 estriols
 enfoeffment
 exothermic
