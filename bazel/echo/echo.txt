@@ -7839,7 +7839,7 @@ empyocele
 exoerythrocytic
 epigone
 epithelium
-exarchate
+exarchate 1
 exophoria
 ejaculator
 eddish
