@@ -2642,7 +2642,7 @@ glossopetra
 goatee
 glossosteresis
 geniality
-genetics
+genetics 1
 gastrolysis
 gudgeoned
 glow
