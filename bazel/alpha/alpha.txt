@@ -15764,7 +15764,7 @@ atlantica
 angeleno
 astute
 accostable
-antiperistalsis
+antiperistalsis 1
 antiperistatic
 antiperspirant
 agileness
