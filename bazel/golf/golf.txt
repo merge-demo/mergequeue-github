@@ -10498,7 +10498,7 @@ gregal
 genizero
 geyserite
 gaggers
-gynecic
+gynecic 1
 garbardine
 germigene
 guauaenok
