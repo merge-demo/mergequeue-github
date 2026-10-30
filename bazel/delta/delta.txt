@@ -9345,7 +9345,7 @@ differences
 dryad
 destroyable
 dunces
-differentiability
+differentiability 1
 differentiae 1
 deliquescing
 darkle
