@@ -4528,7 +4528,7 @@ colluvies
 churchshot
 carnalness
 conidial
-carnaptious
+carnaptious 1
 congratulate
 carnaria
 carnassial
