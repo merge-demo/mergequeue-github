@@ -5878,7 +5878,7 @@ feyer
 fluctuation
 festine
 fecund
-fistfight
+fistfight 1
 fates
 flexity
 feague
