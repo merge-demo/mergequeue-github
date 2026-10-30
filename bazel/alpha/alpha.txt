@@ -25154,7 +25154,7 @@ anacanthini
 accommodatingly
 antimonious
 axled
-apophylactic
+apophylactic 1
 appendice
 almug
 atomicity
