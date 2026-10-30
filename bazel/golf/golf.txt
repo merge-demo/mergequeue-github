@@ -5910,7 +5910,7 @@ gleesomeness
 gassiness
 guereba
 gymnospermous
-goitrous
+goitrous 1
 gasogene
 goliardeys
 groveless
