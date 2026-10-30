@@ -10647,7 +10647,7 @@ gnomed
 gastroperiodynia
 gurged
 goldmist
-glyoxalase
+glyoxalase 1
 generableness
 gliding
 gonagra
