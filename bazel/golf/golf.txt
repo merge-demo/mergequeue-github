@@ -4578,7 +4578,7 @@ gracefully
 girellidae
 grotesqueries
 gurts
-greenhorns
+greenhorns 1
 gluelike
 gyrencephala
 gravicembalo 1
