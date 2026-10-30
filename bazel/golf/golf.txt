@@ -7972,7 +7972,7 @@ glandiform
 grandiosity
 gudok
 gothonic
-ganglionectomy
+ganglionectomy 1
 globing
 glottologies
 gnomonologically
