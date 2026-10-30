@@ -15279,7 +15279,7 @@ decelerate
 droopt
 decalcomania
 didelphyidae
-dolmans
+dolmans 1
 diurnation
 diamylose
 diluviums
