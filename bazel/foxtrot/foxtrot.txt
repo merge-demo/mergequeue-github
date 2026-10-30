@@ -485,7 +485,7 @@ fretting
 featherleaf
 fetiferous
 fullbacks 1
-foremastman
+foremastman 1
 finalisms
 fromwards
 fireflies
