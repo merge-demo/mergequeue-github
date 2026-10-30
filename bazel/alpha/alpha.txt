@@ -14740,7 +14740,7 @@ abjudication
 acclimation
 antiboxing
 advertizer
-apparation
+apparation 1
 ammonolyzed
 aureously
 antibridal
