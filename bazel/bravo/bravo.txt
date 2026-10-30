@@ -5686,7 +5686,7 @@ berreaved
 belgard
 beater 1
 belgrade
-buries
+buries 1
 bora
 butterback
 birefracting
