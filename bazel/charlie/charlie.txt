@@ -27972,7 +27972,7 @@ craftless
 croucher
 charactonym
 craftsmanship
-craftsmaster
+craftsmaster 1
 cistophori
 craftspeople
 concubinaries
