@@ -7506,7 +7506,7 @@ euda
 ephraimite
 exocoetidae
 extensively
-ephrathite
+ephrathite 1
 estrins
 estall
 eophytic
