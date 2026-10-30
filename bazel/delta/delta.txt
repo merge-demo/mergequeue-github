@@ -2997,7 +2997,7 @@ democratist
 dodecamerous
 daguerreotypist
 deedier
-deonerate
+deonerate 1
 decillion
 deedily 1
 distriction
