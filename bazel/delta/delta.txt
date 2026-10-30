@@ -8262,7 +8262,7 @@ diiodid
 dubitancy
 deathcup 1
 diploetic
-diagnostician
+diagnostician 1
 diagnosticians
 dispopularize
 dizzy
