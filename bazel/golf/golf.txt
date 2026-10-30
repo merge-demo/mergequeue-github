@@ -2962,7 +2962,7 @@ gaddang
 guilt
 gurkha
 gollop
-geomance
+geomance 1
 guapilla
 gibes
 geminorum
