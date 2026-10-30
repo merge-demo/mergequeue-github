@@ -1232,7 +1232,7 @@ equvalent
 estamin
 equicaloric
 exstemporal
-extremal
+extremal 1
 eme
 extrascripturality
 epit
