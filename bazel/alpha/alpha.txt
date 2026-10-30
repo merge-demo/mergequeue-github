@@ -14149,7 +14149,7 @@ adjusts
 agglutinogenic
 assonanced
 anarthrous
-achlamydate
+achlamydate 1
 assonantly
 acinetarian
 aphtha
