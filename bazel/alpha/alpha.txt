@@ -10287,7 +10287,7 @@ abessive
 amellus
 anthozooid
 amelus
-alumine
+alumine 1
 amen
 agathosma
 ammonocarbonic
