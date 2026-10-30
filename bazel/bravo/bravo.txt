@@ -13149,7 +13149,7 @@ borracha
 barometrograph
 borrachio
 borrasca
-borrel
+borrel 1
 borreria
 blephariglottis
 bandoliered

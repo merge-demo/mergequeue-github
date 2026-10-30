@@ -24524,7 +24524,7 @@ auxetic
 adoptability
 aghorapanthi
 anywhereness
-armsize
+armsize 1
 abhor
 aerophile
 abstrude
