@@ -5697,7 +5697,7 @@ ajax
 angulatosinuous
 agalwoods
 arthrodial
-adiposes
+adiposes 1
 adulter
 agamemnon
 antiquely
