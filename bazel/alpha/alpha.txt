@@ -11490,7 +11490,7 @@ anagennesis
 alodiality
 aerometry
 agglomerant
-anisettes
+anisettes 1
 acetoin
 ascospore
 anapnoeic
