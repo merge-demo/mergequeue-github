@@ -10069,7 +10069,7 @@ goblinize
 gumshoed
 gonomere
 gorgerin
-gigabits
+gigabits 1
 gossampine
 guerrillas
 guesdism
