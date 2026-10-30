@@ -5020,7 +5020,7 @@ goiabada
 glykopectic
 galleypot
 governesshood
-glaucousness
+glaucousness 1
 ghouls
 giganticidal
 gauls
