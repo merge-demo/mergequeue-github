@@ -6740,7 +6740,7 @@ fluorescent
 forspeaking
 flamming
 fittest
-foiningly
+foiningly 1
 feasant
 forjudged
 fluorescin
