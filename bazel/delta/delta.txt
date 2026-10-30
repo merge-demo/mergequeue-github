@@ -8060,7 +8060,7 @@ daftardar
 dev
 dhyana
 dhobee
-dhoby
+dhoby 1
 dhobie
 densher
 dealcoholist
