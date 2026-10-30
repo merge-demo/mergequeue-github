@@ -5022,7 +5022,7 @@ correlational
 caruncles
 caruncula
 crusades
-canaanites
+canaanites 1
 carunculae
 caruncular
 cohue
