@@ -10364,7 +10364,7 @@ colorbreed
 cedarbird
 chilies
 cahoots 1
-chief
+chief 1
 chiefage
 chiefery
 cyatholith
