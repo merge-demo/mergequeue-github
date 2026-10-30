@@ -13814,7 +13814,7 @@ excepted
 editorializing
 extracerebral
 embolo
-elucidative
+elucidative 1
 effervescingly
 electrophilic
 earworm 1
