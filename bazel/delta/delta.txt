@@ -4740,7 +4740,7 @@ diploneural
 diethylaminoethanol
 democracies
 democrat
-dawdles
+dawdles 1
 douar
 dogbody
 depraves
