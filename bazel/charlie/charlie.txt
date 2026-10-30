@@ -15232,7 +15232,7 @@ crassina
 clam
 cabriolet
 clamant
-circumnavigatory
+circumnavigatory 1
 clamantly
 clamaroo
 ceraunophone
