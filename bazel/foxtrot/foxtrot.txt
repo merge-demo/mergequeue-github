@@ -9848,7 +9848,7 @@ foxily
 funnelform
 fibrosarcoma
 flexanimous
-flexibleness
+flexibleness 1
 flinger
 fabianism 1
 foulage
