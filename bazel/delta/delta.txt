@@ -1657,7 +1657,7 @@ decapsulation
 dishrag
 dealt
 dissects
-democratizes
+democratizes 1
 dozening
 dentimeter
 deamidation
