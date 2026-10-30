@@ -8189,7 +8189,7 @@ fraught
 flourishable
 furores
 flockbed
-foghorn
+foghorn 1
 forewings
 flossed
 frenate
