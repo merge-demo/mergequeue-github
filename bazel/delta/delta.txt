@@ -490,7 +490,7 @@ declivous
 decistere
 doctrinarian
 distilling
-dogs
+dogs 1
 dalesfolk
 droughtiest
 dustblu
