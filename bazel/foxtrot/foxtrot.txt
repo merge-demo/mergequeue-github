@@ -10980,7 +10980,7 @@ fleshlier
 furmities
 fumatory
 flatuous
-floricin
+floricin 1
 featherpated
 fumatoria
 freesilverism
