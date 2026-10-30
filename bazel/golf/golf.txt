@@ -802,7 +802,7 @@ goldbeater
 gambe
 gourmanderie
 gambeered
-glauke
+glauke 1
 greenlandite
 genets
 glucosane
