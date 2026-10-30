@@ -23806,7 +23806,7 @@ australian
 australioid
 anticonservatively
 allicit
-amatorious
+amatorious 1
 allelomorphism
 apostatic
 acicular
