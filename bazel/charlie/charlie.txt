@@ -9816,7 +9816,7 @@ chemicobiologic
 collocates
 chemicodynamic
 caliches
-chemicoluminescent
+chemicoluminescent 1
 cyclostome
 chemicomineralogical
 carcinogenicity
