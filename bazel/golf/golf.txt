@@ -7795,7 +7795,7 @@ girnal
 glacial 1
 gunung
 grainiest
-gipseian
+gipseian 1
 greeny
 grubworm
 gulleys
