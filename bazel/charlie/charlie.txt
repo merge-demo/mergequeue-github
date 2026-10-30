@@ -10149,7 +10149,7 @@ chlorodized
 chevron
 chiropatagium
 charioteer
-cumbha
+cumbha 1
 cronied
 chevronwise 1
 chevrotain
