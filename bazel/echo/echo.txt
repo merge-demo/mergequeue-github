@@ -242,7 +242,7 @@ easel
 eumerism
 euripus
 exhumer
-elate
+elate 1
 enjoyments
 elaborative
 easer
