@@ -1192,7 +1192,7 @@ gezerah
 guejarite
 gunja
 gutturalize
-galipine
+galipine 1
 gorilla
 guestless
 gaplessness
