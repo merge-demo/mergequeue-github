@@ -1058,7 +1058,7 @@ capitalise
 chiliaedron
 counsellorship
 calcariferous
-cribo
+cribo 1
 choristry
 calcariform
 chugalugs
