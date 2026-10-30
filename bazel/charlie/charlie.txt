@@ -8263,7 +8263,7 @@ chalcographic
 chalcographical
 chalcographist
 chalcolithic
-cappae
+cappae 1
 coadunation
 chalcomenite
 chalcone
