@@ -4669,7 +4669,7 @@ aliveness
 annex
 aefald
 aefaldy
-armatured
+armatured 1
 aljoba
 antrostomus
 armet
