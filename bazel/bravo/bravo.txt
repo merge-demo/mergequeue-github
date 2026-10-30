@@ -17482,7 +17482,7 @@ blacknob
 buphthalmum
 buplever
 buprestidae
-backspins
+backspins 1
 berzelianite
 birdikin
 bena
