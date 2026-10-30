@@ -4683,7 +4683,7 @@ duodecimal
 discretionally
 dees
 delectableness
-denationalizing
+denationalizing 1
 demitint
 demitoilet
 deteriorated
