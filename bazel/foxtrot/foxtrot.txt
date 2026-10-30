@@ -8171,7 +8171,7 @@ fulicinae
 foreverness 1
 fellowshiping
 foreview
-foregoes
+foregoes 1
 foederatus
 franzy
 funmaker
