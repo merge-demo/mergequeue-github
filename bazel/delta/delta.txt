@@ -15173,7 +15173,7 @@ decolourisation
 decahydrate
 dressily
 dimna
-defunctness
+defunctness 1
 distributable
 dolabrate
 dialectalize
