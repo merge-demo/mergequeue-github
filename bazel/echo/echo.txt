@@ -1693,7 +1693,7 @@ electrotheraputics
 extemporaneous
 eyecup
 emollescence
-experimently
+experimently 1
 effectualize
 eyed
 experientialistic
