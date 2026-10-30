@@ -2625,7 +2625,7 @@ epithelize
 exothecate
 electrophoretogram
 expansure
-exturb
+exturb 1
 estimated
 eave
 eu
