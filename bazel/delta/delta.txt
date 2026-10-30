@@ -14660,7 +14660,7 @@ diagnose 1
 djagoong
 disemboguement
 djave
-doubtfully
+doubtfully 1
 drill
 djebels
 djehad
