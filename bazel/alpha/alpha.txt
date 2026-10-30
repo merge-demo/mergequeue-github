@@ -3887,7 +3887,7 @@ analcite
 alphorns
 ayes
 atrabiliousness
-adjectional
+adjectional 1
 antireductive
 anastatica
 autoactivation
