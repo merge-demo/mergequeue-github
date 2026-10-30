@@ -2322,7 +2322,7 @@ dekaparsec
 dermatropic
 dactylioglyphic
 danglement
-drat
+drat 1
 diacetyls 1
 delectations
 denizens
