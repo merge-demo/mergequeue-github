@@ -4565,7 +4565,7 @@ frit
 futtocks
 forespoken
 feuder
-fisticuff
+fisticuff 1
 fort
 fouldre
 familiarness
