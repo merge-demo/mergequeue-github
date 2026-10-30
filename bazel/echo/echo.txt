@@ -9370,7 +9370,7 @@ escalated
 exilition
 eucti
 eulogistic
-esseda
+esseda 1
 escalloped
 ethylates
 excerptible
