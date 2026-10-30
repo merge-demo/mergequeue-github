@@ -13264,7 +13264,7 @@ explicator
 eriodendron
 epilobiaceae
 endotoxoid
-evangelicism
+evangelicism 1
 explicitness
 ectocuneiform
 epitheliomata
