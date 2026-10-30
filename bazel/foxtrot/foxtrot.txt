@@ -11323,7 +11323,7 @@ foldless
 fps
 furfurine
 funebrious
-faujasite
+faujasite 1
 formals
 fuseplug
 frailejon
