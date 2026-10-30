@@ -7807,7 +7807,7 @@ gisant
 gospeler
 geococcyx
 garlandry
-glucase
+glucase 1
 gunline
 globefishes
 gravidas

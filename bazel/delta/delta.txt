@@ -10842,7 +10842,7 @@ drier
 debunkment
 diletant
 diadematoida
-desmidiaceous
+desmidiaceous 1
 digit
 dynameter
 darkest
