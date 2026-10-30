@@ -14309,7 +14309,7 @@ antherozoid
 antherozooidal 1
 anthers
 anisopogonous
-aglossal
+aglossal 1
 aquosity
 arrestment
 aftergrass
