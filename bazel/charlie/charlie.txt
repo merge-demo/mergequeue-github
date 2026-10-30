@@ -4340,7 +4340,7 @@ carica
 caricaceae
 chenica
 caricaceous
-cotemporaneous
+cotemporaneous 1
 cattleya
 caricatura
 caricatural
