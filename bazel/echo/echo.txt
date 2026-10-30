@@ -10385,7 +10385,7 @@ epiphenomenalist
 edmund
 enjambed 1
 exactment
-endeavoured
+endeavoured 1
 exophagy
 ecclesiastical
 emperorship
