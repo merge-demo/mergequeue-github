@@ -1979,7 +1979,7 @@ exanimation
 extraperitoneal
 ecstatically
 ekasilicon
-elachistaceous
+elachistaceous 1
 euthamia
 earthen
 etherialize
