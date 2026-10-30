@@ -13914,7 +13914,7 @@ binoculate
 birdlike
 bowstrung
 behavior
-bowtell
+bowtell 1
 barographic
 backpointer
 byspell
