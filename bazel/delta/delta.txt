@@ -7935,7 +7935,7 @@ doublets
 delawarean
 dex
 dignify
-democritean
+democritean 1
 dresden
 dexes
 desertward

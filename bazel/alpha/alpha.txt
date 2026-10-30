@@ -7226,7 +7226,7 @@ aren
 antiwhite
 allotting
 antirevolutionary
-accresce
+accresce 1
 alamode
 ascogonidia
 applesnits
