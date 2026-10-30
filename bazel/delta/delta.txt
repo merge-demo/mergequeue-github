@@ -12518,7 +12518,7 @@ defiled
 disinclination
 disinclined 1
 disinclining
-dolichotmema
+dolichotmema 1
 disindividualize
 doorkeep
 dicotyledonary
