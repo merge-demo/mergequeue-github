@@ -3958,7 +3958,7 @@ fictionmonger
 furcating
 fogyism
 foxtongue
-foal
+foal 1
 feedbacks
 finest
 finew
