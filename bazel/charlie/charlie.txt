@@ -31608,7 +31608,7 @@ curvative
 curvature
 cozy
 crosstail
-clingstone
+clingstone 1
 curve 1
 constructed
 curvedly
