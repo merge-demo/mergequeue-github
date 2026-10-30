@@ -1661,7 +1661,7 @@ esthiomenus
 eases
 eligent
 elboic
-evectional
+evectional 1
 extinguishes
 enlivening
 euphuized
