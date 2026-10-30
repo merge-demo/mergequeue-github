@@ -2427,7 +2427,7 @@ gummose
 gratification
 guardship
 gemmological 1
-gemmologist
+gemmologist 1
 goalkeeping
 grocers
 gulper

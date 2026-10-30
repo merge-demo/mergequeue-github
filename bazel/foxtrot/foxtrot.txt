@@ -2703,7 +2703,7 @@ flambe
 faithing
 fungused
 firebird
-feigher
+feigher 1
 flaggella
 factorization
 fouette
