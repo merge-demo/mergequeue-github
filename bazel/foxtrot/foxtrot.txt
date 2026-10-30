@@ -4882,7 +4882,7 @@ fady
 fixes
 firmhearted
 ferrimagnetism
-frondiferous
+frondiferous 1
 fetching
 factuality
 frightenedness 1
