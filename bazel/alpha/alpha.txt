@@ -19510,7 +19510,7 @@ argosy
 archaizes
 acanthuses
 antimediaeval
-argots
+argots 1
 allianced
 arguable
 arguably
