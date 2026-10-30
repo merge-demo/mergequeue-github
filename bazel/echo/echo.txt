@@ -13995,7 +13995,7 @@ extralimital
 enfigure
 extrapolatory
 entemple
-extraposition
+extraposition 1
 electrolytic
 extraprofessional
 extrapunitive
