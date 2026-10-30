@@ -9980,7 +9980,7 @@ epilobe
 easygoingly
 endocrinal
 earsplitting
-etalage
+etalage 1
 endamnify
 ensures
 etamins
