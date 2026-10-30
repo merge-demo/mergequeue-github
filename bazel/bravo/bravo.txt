@@ -6287,7 +6287,7 @@ backwashes
 blockhouses
 blastie
 backgrounds
-bentonite
+bentonite 1
 bents
 benu
 benumbed
