@@ -9510,7 +9510,7 @@ birthplaces
 bogota
 backfilled
 blackened
-birthright
+birthright 1
 bugaboos
 baffeta
 births
