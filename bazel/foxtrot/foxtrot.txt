@@ -10014,7 +10014,7 @@ fryer
 foollike
 flans
 fringehead
-fringelet
+fringelet 1
 fruitier
 fringent
 feminacy
