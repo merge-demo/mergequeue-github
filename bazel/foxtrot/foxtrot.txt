@@ -2224,7 +2224,7 @@ foals
 feminineness
 feudee
 freshmanhood
-fikie
+fikie 1
 fiscus
 firebombs
 fuliguline
