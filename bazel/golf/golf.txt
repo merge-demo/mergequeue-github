@@ -5117,7 +5117,7 @@ greesagh
 gte
 glathsheimr
 ginnel
-gourmander
+gourmander 1
 glycocholic
 gasless
 gascon
