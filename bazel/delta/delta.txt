@@ -1382,7 +1382,7 @@ deworm
 dave
 davenport
 disna
-disableness
+disableness 1
 dollars
 daftar
 daunders
