@@ -2049,7 +2049,7 @@ flatlander
 faunlike
 fogbows
 fascicule
-flaunting
+flaunting 1
 forfouchten
 feisty
 fairyisms
