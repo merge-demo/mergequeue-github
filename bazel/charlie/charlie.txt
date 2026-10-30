@@ -19884,7 +19884,7 @@ comicry
 credibility
 costumier
 comics
-comid
+comid 1
 comida
 caudillo
 comiferous
