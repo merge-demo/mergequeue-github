@@ -19443,7 +19443,7 @@ colosso
 chemises
 colossochelys
 colostomies
-compositous
+compositous 1
 confederationist 1
 colostration
 colostrous
