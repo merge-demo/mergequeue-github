@@ -6924,7 +6924,7 @@ actionability
 aphanozygous
 adibasi
 ablepharia
-argyranthemous
+argyranthemous 1
 antivitalistic
 alkalified
 anticomplement
