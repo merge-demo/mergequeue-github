@@ -16197,7 +16197,7 @@ azteca
 alular
 antispiritualistic
 antithesis
-annulate
+annulate 1
 antispiritually
 antepenults
 albaspidin
