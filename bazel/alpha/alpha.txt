@@ -8883,7 +8883,7 @@ antireform
 arbusterin
 archduchesses
 algorismic
-allodia
+allodia 1
 allodial
 alicula
 anteroflexion
