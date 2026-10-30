@@ -5217,7 +5217,7 @@ dellenite
 demicoronal
 dryopes
 distortedness
-decursion
+decursion 1
 denominate
 decadent
 deek
