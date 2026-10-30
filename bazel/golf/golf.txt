@@ -510,7 +510,7 @@ geographic
 gruffing
 geologers 1
 graff 1
-galivants
+galivants 1
 geneticism
 gleamiest
 glissandos
