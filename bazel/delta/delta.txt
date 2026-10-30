@@ -10241,7 +10241,7 @@ dealfishes
 donkeyish
 demulsibility
 dinosauria
-dystomous
+dystomous 1
 defossion
 dressing
 dermoosseous
