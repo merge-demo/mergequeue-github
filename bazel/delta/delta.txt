@@ -15748,7 +15748,7 @@ dogshore
 dorm
 donec
 downlie
-doggoneder
+doggoneder 1
 dormancies
 dizygotic
 dormers
