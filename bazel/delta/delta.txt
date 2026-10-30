@@ -5865,7 +5865,7 @@ demeaning
 disconcert
 deprecative
 dissolvable
-deprecator
+deprecator 1
 dysbarism
 datism
 deprecatory
