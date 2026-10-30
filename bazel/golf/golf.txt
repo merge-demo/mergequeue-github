@@ -4223,7 +4223,7 @@ galactolytic
 gippers
 gliosa
 greenovite
-gigantosaurus
+gigantosaurus 1
 gonidiose
 ghibelline
 gynaecium
