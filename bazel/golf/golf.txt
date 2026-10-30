@@ -502,7 +502,7 @@ ghostism
 geminations
 gnomes
 gurrah
-gluconokinase
+gluconokinase 1
 geomorphology
 gisement
 gratuity
