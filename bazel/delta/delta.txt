@@ -18186,7 +18186,7 @@ dunch
 devilizing
 disconcertion
 dasypeltis
-daniel
+daniel 1
 dinucleotide
 dorsulum
 diereses
