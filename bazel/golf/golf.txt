@@ -8724,7 +8724,7 @@ greenrooms
 garlics
 glossectomy
 gynoecia
-goldenly
+goldenly 1
 girn
 greenbug
 grinner
