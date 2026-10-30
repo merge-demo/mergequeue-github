@@ -491,7 +491,7 @@ gadding
 gasifiers
 grunions 1
 geochronological
-girkin
+girkin 1
 gravimetrical
 gelatin
 gye

@@ -9077,7 +9077,7 @@ befits
 blankminded
 buzzwigs
 boylikeness
-bioscopy
+bioscopy 1
 bioscopic
 bioastronautical
 bedecorate

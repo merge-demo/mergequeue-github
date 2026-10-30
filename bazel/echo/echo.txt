@@ -1380,7 +1380,7 @@ exhortation
 eleutherodactyli
 epithecium
 embolden
-emphrensy
+emphrensy 1
 expirator
 ethnocentrically
 electrifier
