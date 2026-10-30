@@ -9065,7 +9065,7 @@ genoese
 gis
 goloch
 gryllid
-galluptious
+galluptious 1
 geelbek
 glottogonic
 greffotome
