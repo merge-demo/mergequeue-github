@@ -3063,7 +3063,7 @@ fishier
 fibreless
 flatcar
 foregone
-fractionalization
+fractionalization 1
 fibril
 fuzing
 filtratable
