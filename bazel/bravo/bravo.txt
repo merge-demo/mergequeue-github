@@ -12679,7 +12679,7 @@ bulbine
 burlecue
 bieennia
 boogum
-bourd
+bourd 1
 bolshevism
 blunderheaded
 boondoggled
