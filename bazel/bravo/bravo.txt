@@ -9098,7 +9098,7 @@ blackthorns
 bombax
 biosystematy
 basiotribe
-byssine
+byssine 1
 bighted
 biosystematic
 biosociological

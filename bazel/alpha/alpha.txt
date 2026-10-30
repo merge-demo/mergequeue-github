@@ -25189,7 +25189,7 @@ amirate
 autoblast
 axonometric
 asprete
-ascupart
+ascupart 1
 abusiveness
 axonophora
 alborada
