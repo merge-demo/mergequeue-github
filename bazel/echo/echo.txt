@@ -11510,7 +11510,7 @@ expended
 electromyogram
 emendate
 engouled
-eunuchize
+eunuchize 1
 evince
 endlessly
 embryoma
