@@ -5400,7 +5400,7 @@ extuberant
 erstwhiles
 epicurishly 1
 eosphorite
-existant
+existant 1
 embroidered
 edges
 ethylidene
