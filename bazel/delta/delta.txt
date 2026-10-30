@@ -16859,7 +16859,7 @@ dribbet
 deadlock
 durwan
 disceptation
-diminutival
+diminutival 1
 drawtongs
 dehumanizes
 deaired
