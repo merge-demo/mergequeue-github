@@ -7591,7 +7591,7 @@ gyrus 1
 gheraoes
 grille
 glycosaemia
-gambians
+gambians 1
 gunfought
 grab
 guanamine
