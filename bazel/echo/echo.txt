@@ -11976,7 +11976,7 @@ enarthroses
 enteromesenteric
 epistemophilic
 evaporation
-epiploon
+epiploon 1
 excitations
 escapes
 eastbound
