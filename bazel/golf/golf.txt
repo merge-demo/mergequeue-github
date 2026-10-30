@@ -9748,7 +9748,7 @@ gorged
 glutens
 glendover
 geckoes
-gird
+gird 1
 gonimium
 grumphie
 guesstimates
