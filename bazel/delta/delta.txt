@@ -8994,7 +8994,7 @@ disobeyers
 dicyclies
 disqualifies
 dicyemata
-diarchies
+diarchies 1
 disconcerting
 dicyemidae
 dissolvent
