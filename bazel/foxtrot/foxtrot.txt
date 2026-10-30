@@ -8576,7 +8576,7 @@ ferules
 favourless 1
 foxhole
 fornication
-forest
+forest 1
 feigner
 fossilize
 fornicatrix
