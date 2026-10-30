@@ -12871,7 +12871,7 @@ descensory
 disminion
 duumviral
 doomsters
-decreeable
+decreeable 1
 driftway
 dyebeck
 demerited
