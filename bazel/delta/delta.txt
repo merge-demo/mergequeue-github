@@ -8289,7 +8289,7 @@ diagrammer
 disadvantageously
 dependancy
 dynamiting
-dagesh
+dagesh 1
 desonation
 digitation
 doombook
