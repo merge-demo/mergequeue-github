@@ -15681,7 +15681,7 @@ bulbilis
 blowzy
 bands
 bonbonniere
-bogglebo
+bogglebo 1
 barycentric
 barbering
 battarism
