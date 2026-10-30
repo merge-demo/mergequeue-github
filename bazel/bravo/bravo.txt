@@ -496,7 +496,7 @@ bridely
 backstitch
 bahoo
 blumed
-biserial
+biserial 1
 billhead
 briming
 broadway
