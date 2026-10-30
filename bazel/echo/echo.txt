@@ -6176,7 +6176,7 @@ endorachis
 enigua
 elephantiac
 enneagons
-enthrallment
+enthrallment 1
 ectoparasitic
 embronze
 evagation
