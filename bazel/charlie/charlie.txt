@@ -9260,7 +9260,7 @@ chattelhood
 cacks
 constructiveness 1
 chattelism
-chattelizing
+chattelizing 1
 crassis
 chattels
 calamities
