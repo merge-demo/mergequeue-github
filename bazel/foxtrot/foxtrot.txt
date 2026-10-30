@@ -9200,7 +9200,7 @@ fruiterer
 fascinations
 foveoles
 footled
-fries
+fries 1
 fragileness
 foreknown
 faceplate
