@@ -4429,7 +4429,7 @@ folkmotes 1
 feulamort
 farand
 forfeit
-footpick
+footpick 1
 fishily
 fatigues
 farinaceously
