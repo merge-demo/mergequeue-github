@@ -12953,7 +12953,7 @@ blouson
 bittersweet
 brontograph
 boottop
-biforous 1
+biforous 2
 burgherdom
 brack
 betulaceae
