@@ -567,7 +567,7 @@ ferny
 falling
 flichtering
 faradized
-famine
+famine 1
 fussed
 folklorism
 forjudger
