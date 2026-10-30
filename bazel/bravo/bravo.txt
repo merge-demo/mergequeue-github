@@ -6030,7 +6030,7 @@ bloated
 boathead
 bollard
 bemartyr
-buttstrap
+buttstrap 1
 blacktail
 bemuddlement
 bemuddles
