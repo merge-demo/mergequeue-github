@@ -1461,7 +1461,7 @@ featly
 faulds
 faultfind
 fasciculite
-flittern
+flittern 1
 flix
 felicitators
 font
