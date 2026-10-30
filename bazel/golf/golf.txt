@@ -1185,7 +1185,7 @@ gorgonized
 genitory
 gig
 gothic
-gonorrheic
+gonorrheic 1
 glabrescent
 grinned
 gezerah
