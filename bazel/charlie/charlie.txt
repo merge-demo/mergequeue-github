@@ -21379,7 +21379,7 @@ coydog
 concionatory
 cothurni
 credulously
-conciseness
+conciseness 1
 clocks 1
 cosponsor
 concision
