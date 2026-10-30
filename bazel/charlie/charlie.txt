@@ -11092,7 +11092,7 @@ committeeism
 chloridation
 chitosans
 capsids
-chitose
+chitose 1
 chitrali
 chytridiaceae
 captains
