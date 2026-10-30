@@ -5480,7 +5480,7 @@ dissipates
 dyakisdodecahedron
 deoxycorticosterone
 dandically
-dismounting
+dismounting 1
 diprotodontia
 dreadlessly
 damnable
