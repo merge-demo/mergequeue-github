@@ -10696,7 +10696,7 @@ fitfully
 flary
 fleckered
 faradays
-fartlek
+fartlek 1
 fortran
 flunkeyistic
 flashtubes
