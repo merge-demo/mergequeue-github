@@ -5227,7 +5227,7 @@ declaimers
 denunciations
 deputy
 denominations
-desired
+desired 1
 dicty
 dine
 depolarisation
