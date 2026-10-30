@@ -25769,7 +25769,7 @@ cataleptize
 corroborative
 corroboratively
 corroborator
-chrism
+chrism 1
 cathedratically
 corroboratory
 cornulites
