@@ -9689,7 +9689,7 @@ astrophotography
 abature
 amphiblastic
 alurgite
-autocephalic
+autocephalic 1
 asepalous
 altiplanicie
 aphthonite
