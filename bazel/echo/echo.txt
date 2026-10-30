@@ -10111,7 +10111,7 @@ entities
 ethereality
 epiboly 1
 etherealization
-earthlike
+earthlike 1
 extrusible
 endorses
 ethereally
