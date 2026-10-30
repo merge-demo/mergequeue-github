@@ -6438,7 +6438,7 @@ biternate
 benzothiofuran
 burs
 benzothiophene
-benzotrichloride
+benzotrichloride 1
 bolection
 benzoxyacetic
 blanchers
