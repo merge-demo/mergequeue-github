@@ -3516,7 +3516,7 @@ droughermen
 disknow
 distomum 1
 demographical
-delvers
+delvers 1
 deformable
 darkey
 deformation
