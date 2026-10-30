@@ -19369,7 +19369,7 @@ coloration
 colorational
 colorative
 centrifugally
-condemnably
+condemnably 1
 cere
 crossarms
 compunctiously
