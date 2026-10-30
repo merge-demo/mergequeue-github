@@ -6696,7 +6696,7 @@ copiability
 celtophobia
 ceilometer
 couac
-ceylonite
+ceylonite 1
 ceils
 compound
 counterquestion
