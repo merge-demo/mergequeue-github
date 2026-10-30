@@ -15234,7 +15234,7 @@ depreciated
 downing
 defamers
 dolisie
-dolite
+dolite 1
 dolium
 darogha
 dureful
