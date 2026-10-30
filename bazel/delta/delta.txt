@@ -11364,7 +11364,7 @@ delimiter
 dischevel
 dentalization
 dissimulator
-disci
+disci 1
 diabases
 dermatocele
 disciflorae
