@@ -1435,7 +1435,7 @@ ethnicon
 exaggeratory
 enols
 execratory
-ebbing
+ebbing 1
 euskaldun
 electromassage
 effluviviums
