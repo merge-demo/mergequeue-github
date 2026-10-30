@@ -6361,7 +6361,7 @@ caustical
 caustically
 causticism
 chamaeleo
-celticism
+celticism 1
 causticity
 conversion
 camatina
