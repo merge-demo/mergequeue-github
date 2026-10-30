@@ -14972,7 +14972,7 @@ breathes
 boarstaff
 breathiness
 bookishly
-breathingly
+breathingly 1
 bepaper
 breathless
 beaufet
