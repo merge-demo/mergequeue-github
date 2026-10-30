@@ -945,7 +945,7 @@ cornices
 collared
 colpotomy
 calorically
-canterburies
+canterburies 1
 calaboose
 cycloidei
 canelle
