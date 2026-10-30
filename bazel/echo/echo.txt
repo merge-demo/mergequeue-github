@@ -6467,7 +6467,7 @@ euctical
 ectropionize
 eskars
 eyeflap
-encroachment
+encroachment 1
 extensionless
 embroideries
 elvira
