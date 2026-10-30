@@ -11406,7 +11406,7 @@ embanking
 evangelising
 eventualize 1
 eventually
-expansional
+expansional 1
 eventuating
 evictors
 epithelioglandular

@@ -1773,7 +1773,7 @@ fackings
 fosslfying
 forevision
 fakofo
-featherpate
+featherpate 1
 fetlocks
 foghorns
 futurology

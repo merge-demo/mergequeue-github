@@ -5063,7 +5063,7 @@ golconda
 gecarcinus
 gastrogenital 1
 gv
-gerunds
+gerunds 1
 gustful
 gularis
 garland
