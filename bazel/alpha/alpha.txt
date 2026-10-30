@@ -8513,7 +8513,7 @@ agnate
 alkylate
 atremate
 alkylbenzenesulfonates
-alkylic
+alkylic 1
 antiphonetic
 alkylidene
 afterburners
