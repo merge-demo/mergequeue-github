@@ -5709,7 +5709,7 @@ daftlike
 depletions
 danton
 depletive
-denutrition
+denutrition 1
 disparities
 dishearteningly
 delthyrium
