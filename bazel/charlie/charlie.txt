@@ -4693,7 +4693,7 @@ carpals
 chela
 carpathian
 carped
-carpellary
+carpellary 1
 cytinaceous
 composograph
 carpenters
