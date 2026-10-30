@@ -6168,7 +6168,7 @@ enmove
 emusified
 ethnomusicological
 elans
-evolvent
+evolvent 1
 enneagonal
 etymologizable
 enrolling
