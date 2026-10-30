@@ -18774,7 +18774,7 @@ archegonial
 amative
 archelenis
 alisier
-archelogy
+archelogy 1
 archelon
 ally
 archemastry
