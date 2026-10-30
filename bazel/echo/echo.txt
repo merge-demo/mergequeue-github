@@ -9715,7 +9715,7 @@ exceptional
 empathize
 european
 essart
-edulcorative
+edulcorative 1
 esse
 evangelizing
 elementarism
