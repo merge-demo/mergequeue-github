@@ -15394,7 +15394,7 @@ benzylidene
 brighid
 boisseau
 bannerlike
-brighten
+brighten 1
 becket
 brainwork
 brightish
