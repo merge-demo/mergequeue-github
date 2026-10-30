@@ -6945,7 +6945,7 @@ entoptic
 entoptical 1
 entoptics
 evections
-expense
+expense 1
 embargoed
 evangelicality
 enjoyableness 1
