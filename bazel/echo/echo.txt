@@ -12523,7 +12523,7 @@ existimation
 embarcation
 eunicid
 epicalyx
-ezan
+ezan 1
 etymologized
 euphemy
 emissaria
