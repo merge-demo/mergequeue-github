@@ -16631,7 +16631,7 @@ battleship
 beanpole
 bejewelled
 brawls
-butte
+butte 1
 bavius
 booty
 bachelors
