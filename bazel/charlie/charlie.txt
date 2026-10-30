@@ -2772,7 +2772,7 @@ cluttering
 cannibalizing
 coelomes
 cannibally
-counterstrike
+counterstrike 1
 cableman
 cannie
 cagui
