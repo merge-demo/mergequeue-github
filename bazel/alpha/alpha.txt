@@ -11558,7 +11558,7 @@ anabolism
 ammophilous
 accinging
 amethysts
-anabolize
+anabolize 1
 albuminise
 anacalypsis
 approbate
