@@ -469,7 +469,7 @@ extoll
 ecclesiast
 entrada
 expostulated
-empasm
+empasm 1
 envelopers
 exody
 extended
