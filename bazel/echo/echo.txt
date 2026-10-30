@@ -7820,7 +7820,7 @@ ectodynamomorphic
 extenuation
 echolalia
 exodermis
-empirical
+empirical 1
 endopoditic
 equivocators
 extrudes
