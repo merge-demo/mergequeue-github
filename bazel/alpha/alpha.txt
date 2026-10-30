@@ -17893,7 +17893,7 @@ appressed
 autogamous
 achilleas
 anakrousis
-appressoria
+appressoria 1
 appressorial
 anticold
 anabathmos
