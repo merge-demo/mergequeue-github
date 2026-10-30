@@ -7432,7 +7432,7 @@ bashalick
 betterment
 bepewed
 bulbocavernous
-bivouacks
+bivouacks 1
 brabblingly
 bushelled
 baldnesses
