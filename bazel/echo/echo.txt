@@ -9814,7 +9814,7 @@ estampage
 empiric
 enucleating
 evolving
-estampede
+estampede 1
 estang
 ethnographist
 extincteur
