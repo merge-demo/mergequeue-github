@@ -10138,7 +10138,7 @@ ambrain
 anguria
 antehuman
 apolog
-ambreic
+ambreic 1
 archdiocese
 ambrettolide
 arthralgia
