@@ -14357,7 +14357,7 @@ dodger
 dislaurel
 deadheaded
 diurn
-depraved
+depraved 1
 dhaman
 diurna
 diurnal
