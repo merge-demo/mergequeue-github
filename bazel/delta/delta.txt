@@ -3681,7 +3681,7 @@ depsid
 disrupt
 decimalisation
 discalced
-denigrate
+denigrate 1
 dropworts
 degraduate
 digitinervate
