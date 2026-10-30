@@ -5624,7 +5624,7 @@ agathodemon
 apinage
 aint
 afterworld
-antischool
+antischool 1
 aneurine
 aftward
 afunctional
