@@ -3914,7 +3914,7 @@ expressionless
 executorship
 edentulous
 eels
-effodient
+effodient 1
 enalid
 exede
 examinability
