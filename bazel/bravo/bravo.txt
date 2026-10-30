@@ -1015,7 +1015,7 @@ burnweed
 bail
 buxeous
 bringer
-barfs
+barfs 1
 bailable
 baile
 bezazz
