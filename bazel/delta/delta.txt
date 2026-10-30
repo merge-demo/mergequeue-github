@@ -10014,7 +10014,7 @@ dogwood
 dactylioglyphtic
 declaiming
 dreaming
-deinos
+deinos 1
 dimple
 diplomas
 dimpled
