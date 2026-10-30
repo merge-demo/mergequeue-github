@@ -21983,7 +21983,7 @@ confinity
 chivying
 californicus
 clitoromaniac
-croak
+croak 1
 confirmable
 cionocranial
 confirmation
