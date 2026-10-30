@@ -18366,7 +18366,7 @@ conterminant
 cognac
 curdier
 crookeries
-centime
+centime 1
 cognacs
 cognate
 contrarevolutionary
