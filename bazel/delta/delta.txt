@@ -7610,7 +7610,7 @@ durandarte
 devalues
 devas
 duole
-dird
+dird 1
 ditch
 devastating
 dancingly
