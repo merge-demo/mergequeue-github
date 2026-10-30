@@ -11189,7 +11189,7 @@ fluorophosphate
 fullgrownness
 frontiersman
 fusobacteria
-foetalization
+foetalization 1
 fungoes
 flotorial
 fidgetily

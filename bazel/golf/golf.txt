@@ -9413,7 +9413,7 @@ geryonidae
 glues
 galloptious
 glycocholate
-gamble
+gamble 1
 gingivoglossitis
 gramps
 gingerliness
