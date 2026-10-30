@@ -2224,7 +2224,7 @@ decasualise
 disgavel
 decasualized
 dialectological
-didymous
+didymous 1
 decathlons 1
 disunionist
 digitoxose
