@@ -24096,7 +24096,7 @@ alloimmune
 anacondas
 abrine
 apogenous
-arrtez
+arrtez 1
 autoette
 antigenicity
 autofrettage
