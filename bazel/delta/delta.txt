@@ -11443,7 +11443,7 @@ discoactine
 documentation
 diallages
 deedeed
-drungar
+drungar 1
 devaluations
 deadeye
 duodenogram
