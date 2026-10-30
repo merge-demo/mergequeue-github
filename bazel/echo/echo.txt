@@ -6299,7 +6299,7 @@ electrotechnology
 euryscope
 ecclesiastry
 enduring
-exspoliation
+exspoliation 1
 electroengrave
 embolectomies
 enrober
