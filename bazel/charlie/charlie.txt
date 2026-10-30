@@ -12340,7 +12340,7 @@ chromates
 cantred
 chrysomonadine
 chromatically
-carcinogen
+carcinogen 1
 chromatician
 chromaticness
 chromatid
