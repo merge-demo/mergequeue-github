@@ -9202,7 +9202,7 @@ foveoles
 footled
 fries
 fragileness
-foreknown
+foreknown 1
 faceplate
 fucus
 fledged
