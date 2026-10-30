@@ -8426,7 +8426,7 @@ arcadia
 annoys
 alcoholometrical
 alkali
-alkalies
+alkalies 1
 aludel
 alkaligenous
 alkaline

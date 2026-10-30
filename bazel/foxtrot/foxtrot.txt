@@ -6636,7 +6636,7 @@ fancymonger
 fatuousness 1
 focussed 1
 fetlocked
-ferricyanic
+ferricyanic 1
 fecche
 fantaseid
 flacianism 1
