@@ -24055,7 +24055,7 @@ camarillas
 cosmonautic
 circularise
 conversationable
-competency
+competency 1
 coactor
 crimpy
 conversationalists
