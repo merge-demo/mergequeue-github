@@ -12477,7 +12477,7 @@ betaines
 brawniness
 bondstone
 burntness
-bather
+bather 1
 bagpiped
 buphthalmos
 bone
