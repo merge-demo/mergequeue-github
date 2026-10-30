@@ -10867,7 +10867,7 @@ counterinsult
 connectedness
 chippers
 coefficient
-chippewas
+chippewas 1
 chippy
 cobishop
 cometic
