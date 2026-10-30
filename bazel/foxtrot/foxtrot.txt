@@ -7890,7 +7890,7 @@ frightenable 1
 frottole
 firmaments
 flourishingly
-fatter
+fatter 1
 fendillate
 factualist
 florent
