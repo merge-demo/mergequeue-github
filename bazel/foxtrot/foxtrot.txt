@@ -11038,7 +11038,7 @@ frontolysis
 fancies
 flanerie
 ferruminate
-fumishing
+fumishing 1
 friendliness
 fermented
 fumuli
