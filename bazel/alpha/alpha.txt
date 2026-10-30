@@ -18312,7 +18312,7 @@ almsdeed
 arachnida
 accidence
 astrophyton
-ampullitis
+ampullitis 1
 arachnism
 apotheoses
 anaesthetizing
