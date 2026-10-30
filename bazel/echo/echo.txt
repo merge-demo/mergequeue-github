@@ -4102,7 +4102,7 @@ entries
 ethmophysal
 entoilment
 emplaster
-enantiomer
+enantiomer 1
 elevating
 equiponderated
 emplastic
