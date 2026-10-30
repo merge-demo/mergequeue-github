@@ -7446,7 +7446,7 @@ employes
 elenctic
 escapers
 entanglement
-endogenously
+endogenously 1
 extraperiodic
 extracurricular
 exercise
