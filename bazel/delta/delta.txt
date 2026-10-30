@@ -1736,7 +1736,7 @@ deathify
 diobol
 deathiness
 dasewe
-discantus
+discantus 1
 duckpond
 dysenteric
 deathless
