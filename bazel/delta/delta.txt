@@ -6915,7 +6915,7 @@ drollist
 discomposes
 desoxalic
 dichromasy
-decanter
+decanter 1
 dialled
 despair
 delirous
