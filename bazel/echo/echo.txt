@@ -5205,7 +5205,7 @@ enterovirus
 eastings
 electroballistician
 epilithic
-endogenae
+endogenae 1
 efference
 euchres
 echeloning
