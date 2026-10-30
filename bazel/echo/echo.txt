@@ -9932,7 +9932,7 @@ embolisms
 estovers
 estradiol
 electrothermics
-emphasis
+emphasis 1
 epicentrum
 equicellular
 electroosmotically
