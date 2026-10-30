@@ -12328,7 +12328,7 @@ dulcimer
 displeasurably
 demagnetization
 disguises
-disgulf
+disgulf 1
 dionaeaceae
 decametre
 daff
