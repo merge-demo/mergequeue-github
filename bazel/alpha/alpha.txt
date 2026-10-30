@@ -24877,7 +24877,7 @@ alighting
 archrebel
 aseptic
 avowedly
-avower
+avower 1
 amphithect
 astronavigation
 autocoherer
