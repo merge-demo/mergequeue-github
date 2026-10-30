@@ -2691,7 +2691,7 @@ cank
 circumnavigations
 chokestrap
 clingfish
-canker
+canker 1
 cankerberry
 cankerbird
 chaperone
