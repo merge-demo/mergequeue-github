@@ -5057,7 +5057,7 @@ carwashes
 chider
 carzey
 casablanca
-casalty
+casalty 1
 citywards
 colat
 casanova
