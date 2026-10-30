@@ -165,7 +165,7 @@ graniticoline
 gunwhale
 grandson
 glassworm
-goliardic
+goliardic 1
 gerontocratic
 gag
 garoted
