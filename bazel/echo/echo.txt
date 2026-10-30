@@ -9845,7 +9845,7 @@ eatage
 esterization
 esterize
 enterocrinin
-exhumated
+exhumated 1
 electorate
 emulsoid
 esters
