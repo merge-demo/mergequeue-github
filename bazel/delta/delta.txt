@@ -6321,7 +6321,7 @@ delacrimation
 dermestid
 dermatoneural
 dextrogyration
-deject
+deject 1
 debit
 disseminating
 defensorship
