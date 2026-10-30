@@ -1016,7 +1016,7 @@ ghassanid
 gilse
 gurnetty
 granitizing
-gnomons
+gnomons 1
 geophilous
 gymnure
 guttle
