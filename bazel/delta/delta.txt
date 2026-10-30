@@ -1972,7 +1972,7 @@ debusing
 danger
 dedans
 disenact
-disavouch
+disavouch 1
 decumbency
 dacryadenitis
 downligging
