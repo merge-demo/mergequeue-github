@@ -13128,7 +13128,7 @@ decurved
 didactive
 dispersedness
 detonates
-desynonymization
+desynonymization 1
 dispersers
 dreigh
 disperses
