@@ -9573,7 +9573,7 @@ bumbledom
 bronchomycosis
 bahut
 blastomata
-biscutate
+biscutate 1
 bisdiapason
 binary
 bicapsular
