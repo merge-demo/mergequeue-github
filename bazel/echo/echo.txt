@@ -8047,7 +8047,7 @@ ejections
 eggar
 ease
 entoconid
-enstatitic
+enstatitic 1
 easements
 escapingly
 evident
