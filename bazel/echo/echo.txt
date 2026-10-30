@@ -12454,7 +12454,7 @@ eighteen
 enlimn
 effectuate
 exhumatory
-emancipations
+emancipations 1
 explorate
 exfiltrate
 equilibrial
