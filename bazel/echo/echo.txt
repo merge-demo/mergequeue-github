@@ -231,7 +231,7 @@ esophagal
 earwigginess
 exsiccation
 emmetrope
-environs
+environs 1
 enhaulse
 exceptively
 earwigs
