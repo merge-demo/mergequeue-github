@@ -12906,7 +12906,7 @@ delving
 deorientalize
 disobeying
 delineative
-dustiness
+dustiness 1
 desulphuration
 disoblige
 disobliger
