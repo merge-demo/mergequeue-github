@@ -12603,7 +12603,7 @@ electrophoreses
 exocoelic
 explant
 epicardium
-electrostatics
+electrostatics 1
 exocoelum
 epifascial
 empresa
