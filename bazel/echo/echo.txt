@@ -12658,7 +12658,7 @@ exercent
 earldom
 exogenae
 esophagostomy
-encratism
+encratism 1
 exogenously
 examplar
 exogyra
