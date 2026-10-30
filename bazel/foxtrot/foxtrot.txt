@@ -3462,7 +3462,7 @@ frauds
 fifties 1
 fiftieth
 florilegia
-figeater
+figeater 1
 floriate
 fascisti
 freesp
