@@ -12444,7 +12444,7 @@ eisegeses
 entomostracan
 exhortingly
 exhorts
-exaltations
+exaltations 1
 exhumate
 egoisms
 elusoriness
