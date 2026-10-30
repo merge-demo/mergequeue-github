@@ -2724,7 +2724,7 @@ electrotypy
 enolase
 earwigged
 eightyfold
-esquamulose
+esquamulose 1
 evaporated
 electrovalent
 electrowinning
