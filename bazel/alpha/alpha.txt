@@ -20761,7 +20761,7 @@ aetosaur
 aguishness
 anthologizes
 autopsychic
-artillerists
+artillerists 1
 adnescent
 artiodactyla
 autocrats
