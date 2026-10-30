@@ -7095,7 +7095,7 @@ centiares
 copita
 curvidentate
 coquetoon
-centiday
+centiday 1
 cannikin
 copt
 confluences
