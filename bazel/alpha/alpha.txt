@@ -3529,7 +3529,7 @@ avestan
 addressers
 anilities
 allesthesia
-amphirhina
+amphirhina 1
 assignment
 anhydrization
 anybodyd
