@@ -3432,7 +3432,7 @@ gerrymanders
 guilts
 genitofemoral
 goldenrod
-gers
+gers 1
 gliffs
 gershonite
 gravipause
