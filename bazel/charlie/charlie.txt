@@ -27022,7 +27022,7 @@ counterpoints
 cataleptiform
 contestable
 chronical
-counterpoison
+counterpoison 1
 cara
 cunctatorship
 counterposition
