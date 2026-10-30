@@ -5056,7 +5056,7 @@ encaenia 1
 evens
 endophragmal
 equimolal
-entomb
+entomb 1
 enqueued
 excuses
 encumbrances
