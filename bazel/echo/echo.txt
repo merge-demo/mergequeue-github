@@ -11763,7 +11763,7 @@ euplocomi
 engoue
 excarnation
 erysipelous
-epanadiplosis
+epanadiplosis 1
 elusory
 excavating
 escheatorship
