@@ -5048,7 +5048,7 @@ benzomorpholine
 befalls
 botanised
 battlers
-blazoned
+blazoned 1
 bastonet
 bowfin
 bloodthirst
