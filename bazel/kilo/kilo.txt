@@ -12246,7 +12246,7 @@ kukn
 kukna
 kuknvhrrcfd
 kukny
-kukof
+kukof 1
 kukoy
 kukrb
 kukrfbblgdvdvre
