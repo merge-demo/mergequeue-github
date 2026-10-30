@@ -9993,7 +9993,7 @@ fecundations
 foredeclare
 frilled
 flacons
-flexitime
+flexitime 1
 finicky
 fopped
 flenching
