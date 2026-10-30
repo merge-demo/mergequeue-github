@@ -8704,7 +8704,7 @@ chapah
 coothay
 chapanec
 cartboot
-chapapote
+chapapote 1
 cacoxenite
 cassican
 cartwheels
