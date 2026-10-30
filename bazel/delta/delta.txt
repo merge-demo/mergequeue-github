@@ -15569,7 +15569,7 @@ deflocculent
 donsky
 donum
 donzel
-discovering
+discovering 1
 doubt
 divelled
 diathermize
