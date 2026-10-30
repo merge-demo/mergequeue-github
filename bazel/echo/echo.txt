@@ -6598,7 +6598,7 @@ emove
 eligenda
 ergothioneine
 exodontia
-eruditional
+eruditional 1
 eurygnathous
 elocution
 enwrapment
