@@ -18029,7 +18029,7 @@ arborescent
 aquaria
 anguiform
 attrap
-appropriativeness
+appropriativeness 1
 antipodean
 archimandrites
 aprioristically
