@@ -1033,7 +1033,7 @@ haukix
 haukkpobden
 haukuqm
 haumfxyce
-haumwfs
+haumwfs 1
 haunkj
 haunmw
 haunpgskxtrg
