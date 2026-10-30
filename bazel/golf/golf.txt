@@ -2280,7 +2280,7 @@ genettes
 globelike
 germanophilist
 garance
-geissoloma
+geissoloma 1
 geissolomataceae
 geissospermine 1
 genecologic
