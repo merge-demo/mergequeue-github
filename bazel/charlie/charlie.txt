@@ -11528,7 +11528,7 @@ compels
 carbonizer
 chokier
 chokies
-chokiest
+chokiest 1
 choking
 cooptions
 cordovans
