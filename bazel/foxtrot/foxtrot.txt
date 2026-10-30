@@ -5481,7 +5481,7 @@ feignedness
 feus
 farouk
 foolscap
-furunculoid
+furunculoid 1
 flesh
 forbids
 formes
