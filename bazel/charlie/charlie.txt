@@ -7809,7 +7809,7 @@ charabancer
 clorinator
 cerussite
 centaurid
-cervantic
+cervantic 1
 chaffiest
 choosing
 cervantite
