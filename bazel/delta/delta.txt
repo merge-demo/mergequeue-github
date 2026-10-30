@@ -7606,7 +7606,7 @@ drenched
 declinable
 devaluates
 droppingly
-durandarte
+durandarte 1
 devalues
 devas
 duole
