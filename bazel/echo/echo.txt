@@ -6211,7 +6211,7 @@ estuant
 ennoblements
 euryhaline
 exaspidean
-esker
+esker 1
 ennobling
 embarren
 ensteel
