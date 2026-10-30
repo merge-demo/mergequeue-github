@@ -12960,7 +12960,7 @@ delusionist
 disfavourer
 drang
 decomplex
-distannic
+distannic 1
 disorderer
 dormantly
 daughterkin
