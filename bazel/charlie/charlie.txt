@@ -25052,7 +25052,7 @@ choleraic
 cloves
 core
 corecipient
-corectome
+corectome 1
 cracovienne
 cardiomotility
 corectomy
