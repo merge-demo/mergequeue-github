@@ -3950,7 +3950,7 @@ geneal
 gigawatt
 gutser
 glochchidia
-garote
+garote 1
 gratuito
 galagos
 gigge
