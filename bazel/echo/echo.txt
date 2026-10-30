@@ -9922,7 +9922,7 @@ enskies
 extravertive
 effemination
 epidermatic
-expiatoriness
+expiatoriness 1
 economizer
 etaballi
 epipterygoid

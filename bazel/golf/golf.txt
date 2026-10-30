@@ -9071,7 +9071,7 @@ glottogonic
 greffotome
 glassworking
 glasser
-grimalkin
+grimalkin 1
 genitive
 gentianwort
 ghast
