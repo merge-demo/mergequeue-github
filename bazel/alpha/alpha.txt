@@ -4711,7 +4711,7 @@ alabastron
 archiving
 aerostation
 azazel
-aegrotat
+aegrotat 1
 amatorio
 arianize
 arghoul
