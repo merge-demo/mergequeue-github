@@ -6391,7 +6391,7 @@ ferinely
 fluoroform
 fluorescigenous
 fumarolic
-fricasseing
+fricasseing 1
 faence
 forefoot
 fronture
