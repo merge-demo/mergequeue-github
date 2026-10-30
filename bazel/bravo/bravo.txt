@@ -4376,7 +4376,7 @@ becking
 beckoner
 bedizened
 beati
-beckoningly
+beckoningly 1
 balitao
 byward
 bourgeois
