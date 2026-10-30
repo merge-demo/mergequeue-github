@@ -10627,7 +10627,7 @@ emblematically
 encryption
 epimysium
 exodium
-elaterid
+elaterid 1
 eudaimonia
 eudaimonist
 epirhizous
