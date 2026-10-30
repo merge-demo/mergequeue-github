@@ -21798,7 +21798,7 @@ asak
 apparencies
 alloeotic
 asses
-appetibility
+appetibility 1
 auguries
 aenigma
 anionics
