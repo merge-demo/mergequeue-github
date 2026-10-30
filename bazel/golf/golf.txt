@@ -3425,7 +3425,7 @@ geometrized
 glossolaryngeal
 globularia
 gourmets
-gerrymander
+gerrymander 1
 gorgons
 goldwater
 gerrymanders
