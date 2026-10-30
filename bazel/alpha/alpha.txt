@@ -5774,7 +5774,7 @@ awl 1
 agaricaceous
 agaricoid
 agarics
-apluda
+apluda 1
 aleurodidae
 acephalia
 acculturative
