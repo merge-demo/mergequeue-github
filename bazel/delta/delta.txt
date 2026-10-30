@@ -14804,7 +14804,7 @@ demonologist
 docmac
 docoglossan
 disulphoxid
-detests
+detests 1
 docoglossate
 diswarren
 decidua
