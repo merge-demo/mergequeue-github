@@ -6076,7 +6076,7 @@ flavoring
 floristically
 feringhee
 ferrivorous
-funker
+funker 1
 fizzling
 frecken
 faculty
