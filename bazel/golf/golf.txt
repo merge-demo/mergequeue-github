@@ -8672,7 +8672,7 @@ gateado
 gritty
 gres
 gymnosoph
-galerum
+galerum 1
 gawkishly
 geotactic
 goosing

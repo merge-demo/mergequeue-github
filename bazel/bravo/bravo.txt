@@ -13057,7 +13057,7 @@ balling
 barf
 blizzard
 borecoles
-buddhic
+buddhic 1
 bored
 borsches
 boehmenist
