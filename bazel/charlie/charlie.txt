@@ -14786,7 +14786,7 @@ cytoblastemic
 cytoblastemous
 cytochemistry
 chameleons
-chararas
+chararas 1
 cytochrome
 cytocyst
 cytoclasis
