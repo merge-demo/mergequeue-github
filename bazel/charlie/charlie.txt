@@ -24339,7 +24339,7 @@ conjury
 cookroom
 coral
 concentrate
-caverning
+caverning 1
 caritas
 cookshop
 cookshops
