@@ -18153,7 +18153,7 @@ dive
 dishearten
 devote
 dissceptring
-disavowable
+disavowable 1
 digress
 dump
 disreputably
