@@ -10168,7 +10168,7 @@ exertion
 expressness
 electrothermally
 endocarpoid
-elenctical
+elenctical 1
 elodeaceae
 emerant
 exegetic
