@@ -3147,7 +3147,7 @@ depauperization
 downfolded
 defaults
 decked
-defaulture
+defaulture 1
 dayworker
 dialings
 doat
