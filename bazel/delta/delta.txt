@@ -17933,7 +17933,7 @@ dufter
 dosage 1
 dactyliography
 delimitate
-defibrinate
+defibrinate 1
 dufterdar
 dys
 duftite
