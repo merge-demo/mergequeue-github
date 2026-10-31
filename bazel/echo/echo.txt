@@ -12385,7 +12385,7 @@ emendates
 etholide
 embace
 euphemia 1
-eelbob
+eelbob 1
 exhaustive
 eryon
 essencing
