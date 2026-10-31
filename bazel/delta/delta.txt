@@ -18135,7 +18135,7 @@ diplocardia
 domiciliation
 dumosity
 dumpage
-divaricately
+divaricately 1
 destructionism
 driveaway
 disherison
