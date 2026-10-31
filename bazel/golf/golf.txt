@@ -9567,7 +9567,7 @@ groveller
 gauteite
 gruels
 girgasite
-gesticularious
+gesticularious 1
 gymnostomata 1
 galactopoiesis
 giftlike

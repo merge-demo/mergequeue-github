@@ -6629,7 +6629,7 @@ epaleaceous 1
 easterliness
 enteroepiplocele
 eudemonistical
-enterogastrone
+enterogastrone 1
 ermining
 egrimonle
 enterogenous
