@@ -18986,7 +18986,7 @@ collectibility
 collectible
 collection
 cinnamon
-collectivise
+collectivise 1
 collectivism
 collectivist
 circumcircle
