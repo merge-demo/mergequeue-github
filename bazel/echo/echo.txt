@@ -6344,7 +6344,7 @@ ergotin
 eschar
 euchred
 expiatory
-ensphered
+ensphered 1
 eyespot
 enseal
 estancias
