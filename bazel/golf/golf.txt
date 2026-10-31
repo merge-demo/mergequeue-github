@@ -9194,7 +9194,7 @@ grippiness
 gratulatory
 glycolytically
 guanajuatite
-galvanometer
+galvanometer 1
 greenwich
 gynarchies
 galvanization
