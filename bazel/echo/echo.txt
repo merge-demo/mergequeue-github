@@ -2558,7 +2558,7 @@ enacts
 escadrilles
 electrobiological
 exorcist
-endocritic
+endocritic 1
 eminency
 eatable
 ezra
