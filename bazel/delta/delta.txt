@@ -9129,7 +9129,7 @@ disweapon
 didelphoid
 disinclines 1
 derisory
-doffs 1
+doffs 2
 detriment
 disdiaclasis
 disgracement
