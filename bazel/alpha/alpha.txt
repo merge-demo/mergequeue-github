@@ -9677,7 +9677,7 @@ amnionia
 anacahuita
 algolagnic
 acis
-auspicy
+auspicy 1
 antimodernist
 absenting
 antespring
