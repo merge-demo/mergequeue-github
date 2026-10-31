@@ -11665,7 +11665,7 @@ ambuling
 antineutral
 aryepiglottidean
 apocatastatic
-anticarnivorous
+anticarnivorous 1
 acoria 1
 argyrodite
 alphosises
