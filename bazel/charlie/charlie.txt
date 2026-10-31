@@ -10080,7 +10080,7 @@ chessylite
 chessist
 chirimen
 chessner
-chessom
+chessom 1
 claves
 chesstree
 cerias
