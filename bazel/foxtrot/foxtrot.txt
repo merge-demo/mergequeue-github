@@ -10086,7 +10086,7 @@ fennec
 functions
 fondant
 fritz
-furnisher
+furnisher 1
 foozling
 farmhands
 fordam
