@@ -9097,7 +9097,7 @@ guajira
 glads
 gappy
 galactidrosis
-giraffa
+giraffa 1
 glairiness
 garishness
 gherkin
