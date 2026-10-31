@@ -8579,7 +8579,7 @@ denaturalise
 doozy
 diaphorite
 decating
-deuterovitellose
+deuterovitellose 1
 diaphragmatically
 decasualisation
 demonship
