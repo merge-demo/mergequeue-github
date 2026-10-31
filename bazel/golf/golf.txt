@@ -7694,7 +7694,7 @@ granzita
 gypsyesque
 gynostemium
 guildic
-glaringness
+glaringness 1
 getter
 gynandrophore 1
 gaspy
