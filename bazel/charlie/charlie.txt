@@ -12966,7 +12966,7 @@ cyanides
 cyanidrosis
 clothes
 cyanids
-cyanimide
+cyanimide 1
 cyanine
 commemorators
 chaldrons
