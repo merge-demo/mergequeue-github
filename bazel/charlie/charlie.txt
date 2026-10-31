@@ -21142,7 +21142,7 @@ concededly
 couplets
 crash
 conceders
-coenobite
+coenobite 1
 concedes
 chao
 calchaquian
