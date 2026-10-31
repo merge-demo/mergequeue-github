@@ -2115,7 +2115,7 @@ cytophysics
 counterassertion
 ceilingward
 chieftaincies
-circumnuclear
+circumnuclear 1
 captivator
 campanular
 campanulariae
