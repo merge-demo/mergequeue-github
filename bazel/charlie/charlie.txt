@@ -3463,7 +3463,7 @@ comprehends
 craniovertebral
 capsella
 calyptras
-capshore
+capshore 1
 capsian
 collectress
 ceruses
