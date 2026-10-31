@@ -9971,7 +9971,7 @@ greisen
 gozell
 gomorrean
 gazetted
-gamasoidea
+gamasoidea 1
 guaiocums
 goitres
 groset
