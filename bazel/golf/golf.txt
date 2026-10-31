@@ -2912,7 +2912,7 @@ gerontocracy
 gigots
 glycollic
 glints
-gallipots
+gallipots 1
 glittering
 gledes
 gonocyte
