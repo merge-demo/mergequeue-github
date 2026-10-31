@@ -886,7 +886,7 @@ kaptvsax
 kapu
 kapudizbi
 kapuez
-kapukehkjey
+kapukehkjey 1
 kapuomi
 kaputpw
 kapv
