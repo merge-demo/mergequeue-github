@@ -23810,7 +23810,7 @@ amatorious
 allelomorphism
 apostatic
 acicular
-austrianize
+austrianize 1
 arsenoferratin
 aldermanry
 austrians
