@@ -872,7 +872,7 @@ faltboats
 falconets
 forzando
 fourchette
-fireworks
+fireworks 1
 folliculose
 footworks
 florivorous
