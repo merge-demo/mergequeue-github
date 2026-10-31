@@ -19797,7 +19797,7 @@ armangite
 adularia
 armarian
 auriculars
-adaptivity
+adaptivity 1
 armariumaria
 armatoles
 arsphenamine
