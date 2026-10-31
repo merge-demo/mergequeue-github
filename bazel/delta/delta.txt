@@ -1926,7 +1926,7 @@ deferments
 desire
 decennal
 durocs
-dawsonite
+dawsonite 1
 deaccession
 darat
 dissatisfyingly
