@@ -448,7 +448,7 @@ galei
 gynecotelic
 glandlike
 garliclike
-gloating
+gloating 1
 graphologic
 gaping
 galeid
