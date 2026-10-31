@@ -4741,7 +4741,7 @@ entryway
 euripides
 electrowin
 erythrodegenerative
-eyelets
+eyelets 1
 erosional
 eelware
 exalbuminose
