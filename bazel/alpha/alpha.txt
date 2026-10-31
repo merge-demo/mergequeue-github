@@ -1445,7 +1445,7 @@ afterwrist
 acclamator
 acclimatable
 autecologically
-acclimatement
+acclimatement 1
 attires
 alewhap
 acclimates
