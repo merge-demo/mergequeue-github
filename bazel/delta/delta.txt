@@ -13879,7 +13879,7 @@ disrobed
 dustily
 disthroned
 doltish
-disty
+disty 1
 dotardy 1
 druthers
 distichal
