@@ -6545,7 +6545,7 @@ ampliative
 admedial 1
 ariste
 ayapana
-auxetically
+auxetically 1
 aias
 achomawi
 aldebaranium
