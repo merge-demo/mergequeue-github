@@ -6256,7 +6256,7 @@ goave
 greats
 gormandizing
 gregorianizer
-gob
+gob 1
 goban
 greediness
 gadslid
