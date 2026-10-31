@@ -1200,7 +1200,7 @@ gynandrism
 gappier
 genesiacal
 griot
-gradations
+gradations 1
 globular
 guestive
 guttate

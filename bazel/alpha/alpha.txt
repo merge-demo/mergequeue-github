@@ -16547,7 +16547,7 @@ apadana
 astronautic
 apaesthetize
 articulatory
-anophthalmus
+anophthalmus 1
 apagogic
 avenses
 arumlike
