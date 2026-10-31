@@ -1499,7 +1499,7 @@ freebooters 1
 formamido
 fastens
 fermentatory
-fetchingly
+fetchingly 1
 florizine
 fanaticism
 foresend
