@@ -9840,7 +9840,7 @@ brucins
 bromals
 bityite
 botcher
-burnsian
+burnsian 1
 banderols
 baldpated
 bitmap
