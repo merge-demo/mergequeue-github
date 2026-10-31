@@ -6241,7 +6241,7 @@ flatlet
 fiji
 forerunnership
 factotums
-farmerish
+farmerish 1
 fouettee
 felloes
 freewheelers
