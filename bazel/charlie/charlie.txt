@@ -6432,7 +6432,7 @@ cannoneers
 cloister
 cav
 corah
-curvinervate
+curvinervate 1
 cavayard
 cavalcaded
 cotylophorous
