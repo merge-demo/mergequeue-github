@@ -1609,7 +1609,7 @@ callowness
 cholecystalgia
 clarice
 cinderella
-corded
+corded 1
 concertize
 coassumed
 calls
