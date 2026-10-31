@@ -3153,7 +3153,7 @@ enactment
 euryte
 eloigns
 eloin
-eloine
+eloine 1
 engrossing
 eloiner
 eloiners
