@@ -9058,7 +9058,7 @@ dictational
 dictatory
 dictatorialness
 dictature
-dihexahedral
+dihexahedral 1
 dorsals
 dictyodromous
 deafest
