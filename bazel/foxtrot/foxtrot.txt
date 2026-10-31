@@ -6537,7 +6537,7 @@ floccose
 frailish
 flutist
 frenchman
-firebed
+firebed 1
 forecover
 flytime
 flutterboard
