@@ -9517,7 +9517,7 @@ antimaterialist
 ascomycete
 adulteries
 altheas
-adeptness
+adeptness 1
 altheine
 althionic
 apholates
