@@ -8355,7 +8355,7 @@ forkier
 fumewort
 forcy
 familiars
-foveolated
+foveolated 1
 faradmeter
 forgot
 frontenis
