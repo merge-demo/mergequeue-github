@@ -3607,7 +3607,7 @@ coprahs
 calefaction
 carabinier
 carabiniere
-carabinieri
+carabinieri 1
 cotrespasser
 choosable
 caraboa
