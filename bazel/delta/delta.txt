@@ -6011,7 +6011,7 @@ delimiting
 decohere
 disapprove
 dermatonosus
-derogated
+derogated 1
 depthways
 disoccupy
 deadman
