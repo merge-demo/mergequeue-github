@@ -1504,7 +1504,7 @@ effusively
 entasias
 effuviate
 efl
-efoliose
+efoliose 1
 efph
 enantiomorphism
 erringly
