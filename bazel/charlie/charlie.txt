@@ -7805,7 +7805,7 @@ cerumens
 ceruminal 1
 costean
 chemoautotrophy
-charabancer
+charabancer 1
 clorinator
 cerussite
 centaurid
