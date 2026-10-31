@@ -5564,7 +5564,7 @@ diffusionism
 depascent
 debilitation
 disrepute
-depasture
+depasture 1
 depatriate
 dispergation
 doornails
