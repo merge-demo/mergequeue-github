@@ -594,7 +594,7 @@ emblematize
 echoing
 exfiltration
 echoism
-epigeal
+epigeal 1
 enhydros
 echometer
 echopractic
