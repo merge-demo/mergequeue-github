@@ -17171,7 +17171,7 @@ dryopteroid
 disagio
 dysmerism
 dripolator
-deaves
+deaves 1
 dribbing
 drippage
 drippers
