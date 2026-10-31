@@ -2365,7 +2365,7 @@ geniting
 gastrotomies
 galatians
 germanies
-geotectonic
+geotectonic 1
 gravitates
 goggler
 ger
