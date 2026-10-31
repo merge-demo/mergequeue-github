@@ -4009,7 +4009,7 @@ guatuso
 gearksutite
 gonepoietic
 galliasses
-gamari
+gamari 1
 galravage
 galvanograph
 gteau
