@@ -6434,7 +6434,7 @@ bergamiol
 bumpering
 backcloth
 barangay
-biternate
+biternate 1
 benzothiofuran
 burs
 benzothiophene
