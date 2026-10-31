@@ -20494,7 +20494,7 @@ arteriogenesis
 arteriograph
 ahorseback
 adenectopia
-arteriographic
+arteriographic 1
 auriculidae
 arterioloscleroses
 anoxybiosis
