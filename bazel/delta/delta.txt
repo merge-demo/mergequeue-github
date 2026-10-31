@@ -178,7 +178,7 @@ didromies
 degami
 daedalic
 diminish
-diphenylmethane
+diphenylmethane 1
 drachmai
 dopiest
 damas
