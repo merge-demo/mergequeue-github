@@ -2348,7 +2348,7 @@ enchants
 epistroma
 electrocardiogram
 enclear
-ever
+ever 1
 electrocardiographic
 euphuistic
 explorational
