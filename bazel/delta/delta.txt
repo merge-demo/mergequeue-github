@@ -10673,7 +10673,7 @@ danainae
 dinornithoid
 dawties
 dissipating
-durned
+durned 1
 draws
 derivable
 declinometer
