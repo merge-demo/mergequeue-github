@@ -1855,7 +1855,7 @@ bushie
 bandie
 bandied
 bilinear
-bandikai
+bandikai 1
 batrachoplasty
 biparty
 bimetalism
