@@ -10611,7 +10611,7 @@ flative
 forseen
 fractile
 ferity
-franc
+franc 1
 forswearing
 flumped
 forwaste
