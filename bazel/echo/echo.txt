@@ -7341,7 +7341,7 @@ elongate
 economy
 epanorthidae
 electrojet
-ephorates
+ephorates 1
 enravishment
 epapophysis
 easeled
