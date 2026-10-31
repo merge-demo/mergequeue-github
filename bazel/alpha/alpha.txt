@@ -24620,7 +24620,7 @@ alouatte
 abscesses
 acroterium
 abraxas
-avariciousness
+avariciousness 1
 areological
 astyllen
 arecolidin
