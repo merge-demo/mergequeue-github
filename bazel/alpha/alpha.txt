@@ -18537,7 +18537,7 @@ antinion
 aphrodisian
 animists
 apostrophise
-androseme
+androseme 1
 arborous
 arborvitaes
 arcticwards
