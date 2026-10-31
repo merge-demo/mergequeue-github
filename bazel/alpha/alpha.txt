@@ -12020,7 +12020,7 @@ antigravitation
 apostrophize
 anaretical
 arc
-arboret
+arboret 1
 asymtotes
 anarthric
 aerogenically
