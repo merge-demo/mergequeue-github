@@ -11063,7 +11063,7 @@ europium
 expressionistically
 epipharynx
 endolumbar
-eurus
+eurus 1
 electrothermostat
 enhusk
 expropriations
