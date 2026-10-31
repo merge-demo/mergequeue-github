@@ -12516,7 +12516,7 @@ chromopsia
 chromoptometer
 colourationally
 ceasmic
-chromoptometrical
+chromoptometrical 1
 coadjacency
 chromoscopy
 capacitances
