@@ -128,7 +128,7 @@ enigmatized
 ethnological
 exterminable
 evolate
-erosionist
+erosionist 1
 elocutioner
 embrew
 europocentric 1
