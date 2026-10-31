@@ -9646,7 +9646,7 @@ dexterous
 dihydrostreptomycin
 dihydrotachysterol
 dhaks
-dihydroxyacetone
+dihydroxyacetone 1
 defaceable
 dihydroxysuccinic
 dulse
