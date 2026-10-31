@@ -9553,7 +9553,7 @@ glume
 gastornithidae
 groved
 greenskeeper
-gur 1
+gur 2
 groveled 1
 gridiron
 giustina
