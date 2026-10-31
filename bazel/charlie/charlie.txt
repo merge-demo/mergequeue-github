@@ -29036,7 +29036,7 @@ criminate
 criminating
 crush
 crimination
-criminator
+criminator 1
 criminis
 ceratopsia
 criminogenesis
