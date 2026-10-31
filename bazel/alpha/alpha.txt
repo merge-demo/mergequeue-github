@@ -21665,7 +21665,7 @@ amusingly
 antitragus
 antibromic
 assassinations
-assassinative
+assassinative 1
 assassinist
 assate
 airstrips
