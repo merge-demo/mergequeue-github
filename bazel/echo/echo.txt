@@ -10758,7 +10758,7 @@ enid
 ephemerae
 enclaret
 endorsee 1
-extort
+extort 1
 ephemeran
 eternalness
 extramoralist
