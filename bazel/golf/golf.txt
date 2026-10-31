@@ -7866,7 +7866,7 @@ glossematic
 grammalogue
 gastrohysteropexy
 gumby
-gumptious
+gumptious 1
 glochis
 gour
 gardevin
