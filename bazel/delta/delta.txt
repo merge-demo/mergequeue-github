@@ -16558,7 +16558,7 @@ diacritics
 destinies
 disendows
 dyscrased
-delomorphous
+delomorphous 1
 dodecarchy
 dishallow 1
 doctorly
