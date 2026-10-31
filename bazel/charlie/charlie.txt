@@ -3368,7 +3368,7 @@ celsius
 carrots
 capote
 cyclohexene
-capouches
+capouches 1
 cappadocian
 crypted
 capparid
