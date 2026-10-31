@@ -6813,7 +6813,7 @@ dedicates
 diaconate
 desize
 decompositional
-devilmonger
+devilmonger 1
 desklike
 diphrelatic
 dunks
