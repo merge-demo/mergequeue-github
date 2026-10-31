@@ -7804,7 +7804,7 @@ discographies
 devolves
 dactyloid
 decile
-daylighted
+daylighted 1
 diathetic
 diplospondylic
 dispending
