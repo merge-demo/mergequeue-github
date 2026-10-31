@@ -19489,7 +19489,7 @@ antimedication
 accusant
 arith
 argling
-allspices
+allspices 1
 absolvers
 arterioscleroses
 antiracemate
