@@ -1807,7 +1807,7 @@ afterend
 allamanda
 acephalist
 anonymousness
-adumbratively
+adumbratively 1
 acephalocyst
 alveloz
 acephalous
