@@ -4681,7 +4681,7 @@ gipsyish
 gastrohelcosis
 geomorphologic
 ghostily
-geta
+geta 1
 glossarian
 golliwogg
 gerbilles
