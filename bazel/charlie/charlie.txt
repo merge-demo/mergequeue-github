@@ -15224,7 +15224,7 @@ chinkers
 claiver
 crucigerous
 ceromancy
-claywares
+claywares 1
 caam
 colours
 chlorphenol
