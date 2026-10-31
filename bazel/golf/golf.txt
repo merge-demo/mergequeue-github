@@ -8573,7 +8573,7 @@ gastrocnemius
 glabriety
 griqua
 gravity
-gnathostomi
+gnathostomi 1
 germinal
 gradually
 gawsy
