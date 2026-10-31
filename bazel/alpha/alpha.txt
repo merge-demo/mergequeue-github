@@ -16692,7 +16692,7 @@ aph
 antilogical
 aggers
 acaridan
-abjuration
+abjuration 1
 asserters
 agre
 assails

@@ -28003,7 +28003,7 @@ cliquey
 craig
 careen
 caprid
-crined
+crined 1
 craniopuncture
 cachexia
 craigmontite
