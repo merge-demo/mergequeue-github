@@ -1614,7 +1614,7 @@ burletta
 butyrous
 balloted
 ballotist
-ballots
+ballots 1
 ballottement
 backlotter
 baronage
