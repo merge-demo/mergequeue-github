@@ -12871,7 +12871,7 @@ aphthitalite
 anglepod
 anglepods
 amianthine
-adffroze
+adffroze 1
 arousement
 angletouch
 antiquarianly
