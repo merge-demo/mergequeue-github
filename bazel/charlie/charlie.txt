@@ -9181,7 +9181,7 @@ chass
 chasse
 cauliculus
 chassed
-chromatopathic
+chromatopathic 1
 chasseing
 chassepot
 chassepots
