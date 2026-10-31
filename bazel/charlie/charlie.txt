@@ -4122,7 +4122,7 @@ cardinalfishes
 casuist
 capitate
 chughole
-cardinalis
+cardinalis 1
 closehearted
 cichlids
 cardiomegalia
