@@ -4773,7 +4773,7 @@ carpocerite
 carpocratian
 carpogam
 carpogamy
-chromatinic
+chromatinic 1
 carpogenous
 crewels
 choanoflagellata
