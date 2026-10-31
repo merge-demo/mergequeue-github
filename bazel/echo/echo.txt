@@ -8,7 +8,7 @@ endecha
 electrochronograph
 engirding
 epidermoid
-erigeron
+erigeron 1
 evaporometer
 euchologion
 emigate
