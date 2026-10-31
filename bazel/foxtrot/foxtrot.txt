@@ -2655,7 +2655,7 @@ flickering
 foxfishes
 fifty
 frostbow
-fetish
+fetish 1
 flashy
 frump
 feckulence
