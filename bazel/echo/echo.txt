@@ -11937,7 +11937,7 @@ ecole
 espousals
 endamebas
 exchanges
-eristical
+eristical 1
 electrotherapist
 exalter
 exocataphoria
