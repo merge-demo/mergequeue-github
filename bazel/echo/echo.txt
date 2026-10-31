@@ -4492,7 +4492,7 @@ efferent
 erth
 enceinte
 entozoology
-entozoal
+entozoal 1
 endolabyrinthitis
 encephalomyelopathy
 encenter
