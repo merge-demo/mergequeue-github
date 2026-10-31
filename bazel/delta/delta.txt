@@ -6497,7 +6497,7 @@ descendants
 dimensioned
 dipeptid
 dentellated
-disqualification
+disqualification 1
 delignated 1
 disomatous
 descendent
