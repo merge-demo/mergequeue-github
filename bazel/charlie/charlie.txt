@@ -29536,7 +29536,7 @@ crith
 crithidia
 crithomancy 1
 critic
-criticality
+criticality 1
 criticalness
 coendured
 centervelic
