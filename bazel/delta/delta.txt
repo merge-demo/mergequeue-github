@@ -4611,7 +4611,7 @@ disavows
 disgust
 dackers
 demipique
-devotedness
+devotedness 1
 dishtowel
 demipomada
 damned
