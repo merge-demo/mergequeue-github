@@ -10162,7 +10162,7 @@ encroaching
 embroideress 1
 emeraldine
 etherially
-extravagances
+extravagances 1
 eyedropper
 exertion
 expressness
