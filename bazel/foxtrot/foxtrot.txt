@@ -8418,7 +8418,7 @@ formalesque
 foistiness
 flatfootedly
 freshmanic
-formulize
+formulize 1
 fierier
 flushers
 fatheadedly
