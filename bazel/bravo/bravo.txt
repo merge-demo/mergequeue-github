@@ -1340,7 +1340,7 @@ beggarliness
 burlap
 brayed
 butterbump
-betwixen
+betwixen 1
 balconies
 breeziness
 bacule
