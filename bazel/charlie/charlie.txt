@@ -8442,7 +8442,7 @@ chammy
 calcydon
 citellus
 crookeder
-checkerboarded
+checkerboarded 1
 confiscator
 choribi
 cuttable
