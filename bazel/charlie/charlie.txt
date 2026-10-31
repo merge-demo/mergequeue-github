@@ -3951,7 +3951,7 @@ cosponsored
 cataphracta
 carburetter
 calcaneoastragalar
-cameist
+cameist 1
 carburetting
 calendared 1
 carburised
