@@ -5079,7 +5079,7 @@ entoolitic
 economization
 emerited
 endoauscultation
-effervescently
+effervescently 1
 epitonic
 etchant
 escritoires
