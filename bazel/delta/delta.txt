@@ -15038,7 +15038,7 @@ doggerelling
 deposals
 disbutton
 decnet
-drysalteries
+drysalteries 1
 doggers
 dyspnoeas
 dilogarithm
