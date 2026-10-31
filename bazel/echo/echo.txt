@@ -10556,7 +10556,7 @@ ergosterol
 euchlorite
 eleutherodactylus
 elbuck
-euchology
+euchology 1
 endocrinological
 evangelistarium
 effuse
