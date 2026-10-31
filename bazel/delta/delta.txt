@@ -16340,7 +16340,7 @@ dismount
 divergently
 discinoid
 downsizing
-defensible
+defensible 1
 discontinuable
 dichord
 dovetails
