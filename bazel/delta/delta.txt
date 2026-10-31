@@ -4400,7 +4400,7 @@ dizening
 drawk
 demeanor
 doit
-disallowableness 1
+disallowableness 2
 disembark
 demeanored
 dissidents
