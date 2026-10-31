@@ -2214,7 +2214,7 @@ glucosic
 gravific
 granth
 genarchship
-giraffoid
+giraffoid 1
 geoidal
 garmented
 gestational
