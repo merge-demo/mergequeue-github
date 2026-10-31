@@ -2257,7 +2257,7 @@ glucokinase
 gonimic
 gey
 greeney
-geopolitik
+geopolitik 1
 gradation
 glasswort
 gipons
