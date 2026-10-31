@@ -87,7 +87,7 @@ bori
 baldachins
 babhan
 balafo
-barkened
+barkened 1
 beastliest
 bespout
 becked
