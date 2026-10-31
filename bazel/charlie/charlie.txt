@@ -1745,7 +1745,7 @@ calumba
 chipped
 coloured
 calumniates
-comeliness
+comeliness 1
 calumniating
 calumniation
 coaldealer
