@@ -10866,7 +10866,7 @@ excised
 exanthematic
 encalendar
 emblazonment
-examinationism
+examinationism 1
 euphemisation
 euphemise
 elected
