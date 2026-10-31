@@ -5682,7 +5682,7 @@ glandulous
 gallophile
 gristliest 1
 greenlandman
-gnomonia
+gnomonia 1
 gastrophrenic
 glossal
 glycerize
