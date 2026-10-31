@@ -14608,7 +14608,7 @@ dietarily
 desulfovibrio
 disillusionary
 diarrheas
-duodenectomy
+duodenectomy 1
 drevel
 dibucaine
 dialogued
