@@ -15398,7 +15398,7 @@ decempedate
 dendrochronological
 dynamize
 dedications
-dominae
+dominae 1
 delineament
 decarburization
 disserviceably
