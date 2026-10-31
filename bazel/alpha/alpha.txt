@@ -11870,7 +11870,7 @@ amphibium
 angelus
 acyanopsia
 awink
-acceptedly
+acceptedly 1
 ancerata
 asperous
 adventurer
