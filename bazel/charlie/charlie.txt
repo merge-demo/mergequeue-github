@@ -11625,7 +11625,7 @@ cooks
 choler
 cholera
 counterround
-circumjacent
+circumjacent 1
 choleras
 civilising
 cervelases
