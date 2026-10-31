@@ -3101,7 +3101,7 @@ defaillance
 defaitiste
 defalcated
 diethyltryptamine
-digraphs
+digraphs 1
 depleting
 describable
 dialecticize
