@@ -899,7 +899,7 @@ archband
 aures
 absyrtus
 amylon
-absis
+absis 1
 absit
 absoil
 acorn
