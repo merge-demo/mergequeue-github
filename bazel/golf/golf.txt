@@ -9238,7 +9238,7 @@ grisly
 glagolitic
 gravigrade
 grahamite
-grist
+grist 1
 guanase
 growthiness
 glucagon
