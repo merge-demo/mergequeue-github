@@ -10859,7 +10859,7 @@ gravidation
 gweeon
 growlers
 geomagnetician
-gyri
+gyri 1
 grozet
 guideress
 graduation
