@@ -9713,7 +9713,7 @@ decremented
 discutient
 dilatative
 demimentoniere
-dodecahedron
+dodecahedron 1
 distillations
 durometer
 duffles
