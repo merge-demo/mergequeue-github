@@ -18294,7 +18294,7 @@ davenports
 desultorily
 draftproof
 dunnish
-dunnite
+dunnite 1
 dagger
 dextorsal
 doray
