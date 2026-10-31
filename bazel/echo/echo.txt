@@ -4899,7 +4899,7 @@ explete
 enjamb
 encroachments
 epitaxic
-encrustation
+encrustation 1
 elepaio
 excitoglandular
 empoisons 1
