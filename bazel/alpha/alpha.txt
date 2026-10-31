@@ -12993,7 +12993,7 @@ antepone
 anticomplementary
 angust
 adrenine
-auronal
+auronal 1
 angustirostrate
 admirator
 angustifolious
