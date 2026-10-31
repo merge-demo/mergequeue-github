@@ -25816,7 +25816,7 @@ cinclidotus
 corrugant
 corrugate
 corrugated
-cataphoric
+cataphoric 1
 corrugator
 cadelle
 coir
