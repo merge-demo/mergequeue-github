@@ -13574,7 +13574,7 @@ cymbid
 clochard
 cymbidium
 catchpollery
-copartner
+copartner 1
 chignons 1
 cymbocephalous
 convectional
