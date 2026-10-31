@@ -1508,7 +1508,7 @@ definiendum
 deformers
 diazines
 downlinked
-deacetylate
+deacetylate 1
 duststorm
 donas
 duppies
