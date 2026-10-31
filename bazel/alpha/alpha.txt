@@ -26,7 +26,7 @@ antineutrinos
 agreges
 arrogations
 ab
-accumulativeness
+accumulativeness 1
 assurate
 artemon
 avernus
