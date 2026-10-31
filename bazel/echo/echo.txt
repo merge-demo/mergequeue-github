@@ -5138,7 +5138,7 @@ emanatistic
 epilogic
 eobiont
 estray
-exsanguinous
+exsanguinous 1
 endocoele
 enaliosaurian
 exploiter
