@@ -31116,7 +31116,7 @@ capitulation
 cacodylate
 cunicular
 cuniculi
-camelid
+camelid 1
 cuniculus
 crosspatches
 cuniforms
