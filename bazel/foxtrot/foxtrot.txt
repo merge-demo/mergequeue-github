@@ -2483,7 +2483,7 @@ filarious
 foamlike
 fris
 fibrinoid
-fry
+fry 1
 fernyear
 furison
 funs
