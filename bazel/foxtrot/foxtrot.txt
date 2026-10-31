@@ -4201,7 +4201,7 @@ fanions
 flummadiddle
 federals
 ferfathmur
-felonries
+felonries 1
 featherstitch
 foothold
 flittermmice
