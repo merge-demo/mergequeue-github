@@ -8712,7 +8712,7 @@ delicioso
 demagnetise
 diastrophically
 distort
-dichrooscopic
+dichrooscopic 1
 dodecylene
 disenfranchisements
 dorsonuchal
