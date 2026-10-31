@@ -10567,7 +10567,7 @@ ensurers
 equational
 elevates
 excursionary
-encoffinment
+encoffinment 1
 ethylenic
 eckehart
 ethmose
