@@ -4869,7 +4869,7 @@ aerodynamically
 astrolater
 appoggiatura
 apopetalous
-amphibiology
+amphibiology 1
 aloma
 anucleated
 ashes
