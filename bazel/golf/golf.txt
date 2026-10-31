@@ -5679,7 +5679,7 @@ gaucie
 gaultheria
 galvanographic
 glandulous
-gallophile
+gallophile 1
 gristliest 1
 greenlandman
 gnomonia
