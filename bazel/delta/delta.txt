@@ -3585,7 +3585,7 @@ deganglionate
 dystome
 degasify
 duco
-deadlatch
+deadlatch 1
 doubletree
 decussately
 dermatocoptes
