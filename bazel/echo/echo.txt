@@ -8592,7 +8592,7 @@ ergatomorph
 equidimensional
 equidist
 exrx
-essancias
+essancias 1
 endophytically
 eyebolts
 eumerogenesis
