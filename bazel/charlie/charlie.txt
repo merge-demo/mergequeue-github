@@ -15286,7 +15286,7 @@ corgis
 clamour
 concuss
 contune
-cordant
+cordant 1
 copalchi
 clamouring
 collembolan
