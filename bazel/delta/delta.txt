@@ -7633,7 +7633,7 @@ develop
 dehydroffroze
 disembellish
 dissimule
-developable
+developable 1
 diuretically
 deceptious
 dealer
