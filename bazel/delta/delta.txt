@@ -8478,7 +8478,7 @@ diametral
 diametric
 diamide
 diamides
-descanter
+descanter 1
 deesis
 dapperest
 diaminogen
