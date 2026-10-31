@@ -7079,7 +7079,7 @@ earthfast
 experiencer
 enumeration
 elsholtzia
-eggroll
+eggroll 1
 euphone
 efficiency 1
 enlinked
