@@ -20910,7 +20910,7 @@ campership
 coleoptile
 chenopodiaceous
 collegiums
-compresence
+compresence 1
 compresent
 cai
 compress
