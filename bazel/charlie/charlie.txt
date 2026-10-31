@@ -6724,7 +6724,7 @@ celation
 cheapjack
 celature
 celeb
-capicha
+capicha 1
 clition
 celebrant
 cohesions
