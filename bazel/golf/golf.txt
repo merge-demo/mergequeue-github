@@ -6892,7 +6892,7 @@ gannet
 glibly
 goodenia
 gestated
-gatling
+gatling 1
 guyed
 gitterns
 guttiferae
