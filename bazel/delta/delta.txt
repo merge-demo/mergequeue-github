@@ -14418,7 +14418,7 @@ diversiform
 dachshunde
 dutiful
 desmotomy
-diversisporous
+diversisporous 1
 dhoul
 deindividuate
 doctus
