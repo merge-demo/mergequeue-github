@@ -471,7 +471,7 @@ guardedly
 gymnospore
 genyoplasty
 glossoncus
-gospelize
+gospelize 1
 gravitationally
 gemmery
 geelhout
