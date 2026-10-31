@@ -3816,7 +3816,7 @@ carboy
 celestes
 carboys
 cyathoid
-carbolate
+carbolate 1
 carbolated
 cerning
 cineolic
