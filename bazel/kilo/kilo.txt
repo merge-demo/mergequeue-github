@@ -4874,7 +4874,7 @@ khioct
 khipcid
 khipf
 khiqa
-khira
+khira 1
 khissjcvkafxouur
 khitrj
 khitxtp
