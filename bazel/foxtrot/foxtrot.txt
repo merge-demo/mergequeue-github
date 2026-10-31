@@ -8226,7 +8226,7 @@ furlanas
 flaskets
 felines
 festering
-fluidize
+fluidize 1
 floroscope
 fluidally
 forficula
