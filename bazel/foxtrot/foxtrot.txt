@@ -9101,7 +9101,7 @@ featy
 falsification
 fossilise
 flourisher
-firmance
+firmance 1
 furbishable
 foxly
 flaith
