@@ -14149,7 +14149,7 @@ decedent
 disulphate
 depursement
 desulfurated
-decrepit
+decrepit 1
 daybook
 dragoon
 daters
