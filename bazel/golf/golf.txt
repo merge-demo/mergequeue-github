@@ -1799,7 +1799,7 @@ genealogizer
 gastroscopist
 gavelled
 gasterosteid
-glossolaly
+glossolaly 1
 gutterblood
 gelatinotype
 grippelike
