@@ -640,7 +640,7 @@ ecphorable
 embryogeny
 epizoite
 eluviating
-etwees
+etwees 1
 elocute
 eclegma
 ehrman
