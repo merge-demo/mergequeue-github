@@ -184,7 +184,7 @@ dopiest
 damas
 decipherer
 daedaloid
-diel
+diel 1
 diaplasma
 daedalous
 divulgated
