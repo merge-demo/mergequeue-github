@@ -303,7 +303,7 @@ backberend
 backbite
 beeman
 burgeon
-baize
+baize 1
 backbitingly
 backblow
 backboard
