@@ -5732,7 +5732,7 @@ farced
 ferule
 fleuronnee 1
 fungous
-fuzzball
+fuzzball 1
 frontlessly
 favorers
 fathoms
