@@ -10970,7 +10970,7 @@ flappier
 forerunning
 faipule
 foreadapt
-forthright
+forthright 1
 focaloid
 foremilk
 firstborn
