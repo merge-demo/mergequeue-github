@@ -6419,7 +6419,7 @@ disadvanced 1
 derride
 derriere
 dactyli
-duster
+duster 1
 discriminatory
 decree
 drung
