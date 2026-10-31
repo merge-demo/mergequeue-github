@@ -5210,7 +5210,7 @@ arbutinase
 atoneness
 affectional
 affectionally
-affectionateness
+affectionateness 1
 affectioned
 anemographic
 affections
