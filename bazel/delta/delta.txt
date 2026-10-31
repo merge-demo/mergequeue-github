@@ -9575,7 +9575,7 @@ departisanize
 deglazes 1
 dignitary
 dignitarian
-demophoon
+demophoon 1
 doubloons
 dignities
 drunks
