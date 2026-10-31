@@ -6491,7 +6491,7 @@ evolutes
 ectodermic
 ensphering
 enlister
-enstar
+enstar 1
 enrapturing
 espanoles
 elocation
