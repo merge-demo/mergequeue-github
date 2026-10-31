@@ -10862,7 +10862,7 @@ econometrics
 ergot
 esodic
 enologist
-excised
+excised 1
 exanthematic
 encalendar
 emblazonment
