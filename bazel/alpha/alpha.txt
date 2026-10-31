@@ -9569,7 +9569,7 @@ altos
 antivolition
 aglets
 attackman
-amygdaloncus
+amygdaloncus 1
 aworth
 accentuate
 atheism
