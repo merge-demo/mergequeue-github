@@ -2845,7 +2845,7 @@ freeways
 fizzy
 fatigating
 fortyfives
-flirtingly
+flirtingly 1
 faithed 1
 fluoroscopies
 firmisternal

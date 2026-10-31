@@ -4937,7 +4937,7 @@ disqualified
 demophobia
 decolonise
 damnableness
-disbursed
+disbursed 1
 dissentious
 dictators
 demoraliser
