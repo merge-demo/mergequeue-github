@@ -9132,7 +9132,7 @@ derisory
 doffs 1
 detriment
 disdiaclasis
-disgracement
+disgracement 1
 didicoy
 dorymen
 digger
