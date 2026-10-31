@@ -19666,7 +19666,7 @@ comate
 cowerer
 coquilla
 camarilla
-copintank
+copintank 1
 catogene
 claptrap
 chemisorption
