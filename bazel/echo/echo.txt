@@ -12917,7 +12917,7 @@ evangeliary
 energetically
 ethnographical
 effluvias
-entodermic
+entodermic 1
 earstones
 electropuncturing
 epinine
