@@ -15598,7 +15598,7 @@ camelkeeper
 clathrulate
 clatter
 cartographers
-clattered
+clattered 1
 coxcombries
 countering
 clatterer

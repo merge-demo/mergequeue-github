@@ -11064,7 +11064,7 @@ butomaceae
 blocked
 blocker
 brid
-bifoliolate
+bifoliolate 1
 bankruptlike
 beguines
 blockheadish
