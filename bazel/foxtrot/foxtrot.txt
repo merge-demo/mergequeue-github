@@ -6393,7 +6393,7 @@ fluorescigenous
 fumarolic
 fricasseing
 faence
-forefoot
+forefoot 1
 fronture
 furry
 formalization
