@@ -26620,7 +26620,7 @@ cognise
 coked
 councils
 cozener
-counite
+counite 1
 counsel
 counterpanes
 counselable
