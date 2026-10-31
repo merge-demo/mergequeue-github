@@ -11658,7 +11658,7 @@ archegonia
 anadidymus
 antimasonic
 anadiplosis
-actinometry
+actinometry 1
 allegory
 aucanian
 ambuling
