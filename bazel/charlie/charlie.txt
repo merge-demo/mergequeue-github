@@ -1818,7 +1818,7 @@ ciceronize
 coala
 crassula
 camaca
-corol
+corol 1
 collochromate
 circularizing
 camay
