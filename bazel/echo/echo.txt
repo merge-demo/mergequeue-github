@@ -792,7 +792,7 @@ encaged
 exadverso
 endosulfan
 earthmaking
-exodus
+exodus 1
 epeira
 eurytopic
 encephalography
