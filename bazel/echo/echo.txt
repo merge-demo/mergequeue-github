@@ -9089,7 +9089,7 @@ expulse
 endoscopic
 exponential
 equipollent
-epicolic
+epicolic 1
 euryalae
 encanker
 electroencephalographic
