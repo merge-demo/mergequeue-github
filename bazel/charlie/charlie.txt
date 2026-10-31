@@ -11882,7 +11882,7 @@ chordate
 chorded
 chordee
 choriso
-cst
+cst 1
 contradictive
 chording
 chorditis
