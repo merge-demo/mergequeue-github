@@ -15037,7 +15037,7 @@ civilizee
 civilizer
 civilite
 casino
-comptly
+comptly 1
 civilizers
 coheritage
 carney
