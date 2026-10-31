@@ -6696,7 +6696,7 @@ bismuthine
 broomstaff
 blitter
 balaamitical
-beeishness
+beeishness 1
 bathmotropic
 brontosaurus
 berloque
