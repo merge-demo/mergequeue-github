@@ -7974,7 +7974,7 @@ epileptiform
 equilobed
 epimysia
 esthesias
-expunger
+expunger 1
 enflesh
 eteocreton
 embower
