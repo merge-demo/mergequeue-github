@@ -8079,7 +8079,7 @@ exosporal
 empeopled
 emerize
 epiphytic
-extensum
+extensum 1
 eaglehawk
 expositor
 epiglottidean
