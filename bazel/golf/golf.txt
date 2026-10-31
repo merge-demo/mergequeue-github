@@ -1009,7 +1009,7 @@ gordunite
 ganga
 gangamopteris
 givers
-gangava
+gangava 1
 groundward
 gynobase
 ghassanid
