@@ -3584,7 +3584,7 @@ degames
 deganglionate
 dystome
 degasify
-duco
+duco 1
 deadlatch
 doubletree
 decussately
