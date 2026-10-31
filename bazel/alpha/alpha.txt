@@ -4797,7 +4797,7 @@ antiparabemata
 adglutinate
 aeriform
 abasement
-autographically
+autographically 1
 aberdevine
 azygous
 aspide
