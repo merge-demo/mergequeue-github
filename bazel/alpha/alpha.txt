@@ -3549,7 +3549,7 @@ adduces
 auricles
 adducible
 ampelideous
-adducted
+adducted 1
 adducting
 aides 1
 ataxiagram
