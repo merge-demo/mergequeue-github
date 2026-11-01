@@ -10652,7 +10652,7 @@ generableness
 gliding
 gonagra
 generalizeable
-gurgitation
+gurgitation 1
 gasolines
 gametogony 1
 gladius
