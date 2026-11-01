@@ -9970,7 +9970,7 @@ bivalvian
 bivariant
 baddock
 bivascular 1
-bismuthyl
+bismuthyl 1
 binodous
 brahmic
 berbery
