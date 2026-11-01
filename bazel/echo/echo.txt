@@ -9897,7 +9897,7 @@ electrologist
 endothrix
 estimate
 eerily
-exponents
+exponents 1
 eluders
 exilian
 elongative
