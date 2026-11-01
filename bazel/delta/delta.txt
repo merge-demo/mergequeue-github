@@ -4202,7 +4202,7 @@ deloused
 dribs
 decimal
 deodorisation
-doorjamb
+doorjamb 1
 delphacidae
 disincorporated
 dogcart
