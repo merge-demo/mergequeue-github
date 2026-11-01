@@ -11573,7 +11573,7 @@ empetraceous
 evolute
 embrute
 enlighten
-extensiveness
+extensiveness 1
 evolutionism
 epizeuxis
 evolutionistic
