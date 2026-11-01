@@ -6205,7 +6205,7 @@ gushiness
 graddan
 gamboler
 genecologist
-governmentalize
+governmentalize 1
 grabbings
 glyptographic
 ganglionless
