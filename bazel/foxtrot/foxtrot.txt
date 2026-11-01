@@ -7364,7 +7364,7 @@ feudalism
 forby
 famelessly
 foreparent
-forebodingly
+forebodingly 1
 footplate
 flakiness 1
 fortunous
