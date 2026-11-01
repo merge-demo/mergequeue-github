@@ -9002,7 +9002,7 @@ anthropomorphising
 anticivil
 amiably
 allothimorph 1
-abalone
+abalone 1
 allothimorphic
 amphisbaenae
 aisle
