@@ -9827,7 +9827,7 @@ generous
 gesticulatively
 gibbets
 guayabi
-guaiac
+guaiac 1
 goitcho
 gymnotid
 guaiaconic
