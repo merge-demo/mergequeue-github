@@ -638,7 +638,7 @@ dioptoscopy
 decoyman
 dextroversion
 dinoflagellata
-deploitation
+deploitation 1
 damnify
 dearth
 damnificatus
