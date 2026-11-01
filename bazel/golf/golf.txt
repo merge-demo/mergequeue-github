@@ -9008,7 +9008,7 @@ gargarism
 grantedly
 glovemaking
 griffonage
-gynandry
+gynandry 1
 girned
 glacis
 guzzlers
