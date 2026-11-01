@@ -10720,7 +10720,7 @@ gearwheel
 glyoxim
 grumping 1
 gubernatorial
-gunnung
+gunnung 1
 graphometric
 gox
 gussets
