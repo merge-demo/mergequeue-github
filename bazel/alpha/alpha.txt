@@ -12557,7 +12557,7 @@ anencephalic
 angka
 alulae
 archpatriarch
-arithmocracy
+arithmocracy 1
 arvo
 anencephalus
 anorexigenic
