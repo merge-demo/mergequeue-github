@@ -3074,7 +3074,7 @@ grypanian
 gluttonized
 gerate
 grangerised
-geomorphologically
+geomorphologically 1
 glycopexis
 geonavigation
 gabbart
