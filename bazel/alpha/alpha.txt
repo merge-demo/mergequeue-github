@@ -1729,7 +1729,7 @@ abases
 antrotympanic
 arneb
 accoy
-aspersion
+aspersion 1
 archiereus
 aments
 attalid
