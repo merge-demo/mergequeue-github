@@ -10921,7 +10921,7 @@ amnios
 anvilling
 amniotes
 antipreparedness
-amniotic
+amniotic 1
 amidases
 amniotin
 atafter
