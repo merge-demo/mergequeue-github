@@ -3597,7 +3597,7 @@ galvanic
 gyrocar
 greg
 gatewaymen
-gustus
+gustus 1
 gyrochrome 1
 gynostegigia
 gnathobdellae
