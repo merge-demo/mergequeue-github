@@ -5353,7 +5353,7 @@ dealable
 dorsoventrad
 derider
 dorsimesal
-disblame
+disblame 1
 decoyed
 daraf
 diaphoretic
