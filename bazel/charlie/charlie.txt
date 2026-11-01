@@ -10086,7 +10086,7 @@ chesstree
 cerias
 chest
 curing
-chesterfield
+chesterfield 1
 chesterfieldian
 copulatively
 chestfuls
