@@ -6846,7 +6846,7 @@ foliate
 favourableness
 facemaking
 fistiness
-floridities
+floridities 1
 fnese
 foozler 1
 fraudulency
