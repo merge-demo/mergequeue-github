@@ -10617,7 +10617,7 @@ guildite
 gunpoints
 gloomiest
 ghoul
-gunpower
+gunpower 1
 gasping
 gentled
 gourmandise
