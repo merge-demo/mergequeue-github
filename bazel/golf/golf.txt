@@ -2080,7 +2080,7 @@ geleem
 grandbaby
 gamblers
 glancing
-gyrocompasses
+gyrocompasses 1
 gringos
 guilefully
 gawgaw
