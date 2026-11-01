@@ -5496,7 +5496,7 @@ devoiced
 dorsiventrality
 deoxidize
 doryphoros
-deoxygenated
+deoxygenated 1
 depaints
 divestitures
 dilatation
