@@ -10963,7 +10963,7 @@ eupotamic
 encoignure
 esparcet
 equivocalness
-echiurid
+echiurid 1
 erythematous
 embrittlement
 echinus
