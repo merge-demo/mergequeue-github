@@ -15959,7 +15959,7 @@ anachronism
 antiquaries
 antiquartan
 americas
-amylase
+amylase 1
 aromatise
 acquital
 aliasing
