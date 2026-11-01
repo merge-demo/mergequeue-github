@@ -3992,7 +3992,7 @@ enruin
 embarrassingly
 edictum
 empathetic
-enfolded
+enfolded 1
 egalite
 equiform
 extramodal
