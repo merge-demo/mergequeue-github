@@ -8656,7 +8656,7 @@ enameller
 emerging
 excretions
 equinumerally
-equinus
+equinus 1
 ethrogs
 elfishness
 equipages
