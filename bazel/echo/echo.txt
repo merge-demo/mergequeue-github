@@ -10386,7 +10386,7 @@ edmund
 enjambed 1
 exactment
 endeavoured
-exophagy
+exophagy 1
 ecclesiastical
 emperorship
 ethologists
