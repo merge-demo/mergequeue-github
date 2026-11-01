@@ -8408,7 +8408,7 @@ daemonelix
 dialyzes
 draftsmen
 disnaturing
-detentes
+detentes 1
 diallagic
 dogmaticalness
 diallagite
