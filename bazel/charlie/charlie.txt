@@ -990,7 +990,7 @@ calamines
 cypseline
 confiscating
 cuirie
-calamining
+calamining 1
 calamint
 cableway
 cheesed
