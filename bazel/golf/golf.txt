@@ -9746,7 +9746,7 @@ gablewise
 gambes
 gorged
 glutens
-glendover
+glendover 1
 geckoes
 gird
 gonimium
