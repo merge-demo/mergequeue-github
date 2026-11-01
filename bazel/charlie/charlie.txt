@@ -8756,7 +8756,7 @@ chapels
 chapelward
 chaperno
 custodia
-chicos
+chicos 1
 chaperonage
 chaperonless
 cerinthe
