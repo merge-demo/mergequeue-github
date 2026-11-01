@@ -11426,7 +11426,7 @@ anthraceniferous
 announcers
 ammines
 anime
-amputees
+amputees 1
 angiographic
 amrit
 ajugas
