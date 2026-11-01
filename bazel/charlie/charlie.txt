@@ -24527,7 +24527,7 @@ cope
 cappers
 capillus
 coetaneously
-copehan
+copehan 1
 copeia
 copelata
 copeman
