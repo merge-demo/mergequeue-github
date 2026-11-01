@@ -4248,7 +4248,7 @@ eosinophilous
 eerie
 empirically
 epicurism 1
-euascomycetes
+euascomycetes 1
 estradiot
 emulant
 earwiggy
