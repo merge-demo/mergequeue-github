@@ -11416,7 +11416,7 @@ evergreen
 exsputory
 evergreens
 everydayness
-everyhow
+everyhow 1
 ectethmoidal
 everyman
 everywhen
