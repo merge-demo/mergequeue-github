@@ -7219,7 +7219,7 @@ demultiplexing
 detainee 1
 detaining
 disinfecter
-detar
+detar 1
 detassel
 detat
 defoliating
