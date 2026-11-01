@@ -2380,7 +2380,7 @@ brabant
 brigandishly
 branchling
 bobtails
-bardess
+bardess 1
 bikinis
 balantidiasis
 bulliest
