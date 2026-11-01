@@ -11408,7 +11408,7 @@ eventualize 1
 eventually
 expansional
 eventuating
-evictors
+evictors 1
 epithelioglandular
 effendi
 epileptogenous
