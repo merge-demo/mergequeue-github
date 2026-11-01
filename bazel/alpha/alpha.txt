@@ -10048,7 +10048,7 @@ ambit 1
 apriority
 ambital
 anisole
-anomaly
+anomaly 1
 arteriococcygeal
 acondylous
 analysability
