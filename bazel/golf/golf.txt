@@ -7567,7 +7567,7 @@ gowked
 grein
 gambet
 ghastfulness
-glucolysis
+glucolysis 1
 gruntle
 geophyte
 gamash
