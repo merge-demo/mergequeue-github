@@ -3027,7 +3027,7 @@ ginglymoidal
 gregarinosis
 gloom
 geogenic
-gorily
+gorily 1
 gyrally
 grudgekin
 garboil
