@@ -10749,7 +10749,7 @@ gymnosophical
 gypsyry
 gedackt
 geckotoid
-globulin
+globulin 1
 gorsebird
 grovelers
 gerodontics
