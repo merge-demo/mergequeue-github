@@ -4312,7 +4312,7 @@ forebodement
 forbearantly
 fumaryl
 fennig
-fanner
+fanner 1
 fiddling
 forficulate
 freshest
