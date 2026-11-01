@@ -6584,7 +6584,7 @@ enterectomy
 enterer
 eulogious
 excusive
-eccritic
+eccritic 1
 embattled
 epimedium
 enorthotrope
