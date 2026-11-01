@@ -19236,7 +19236,7 @@ arduousness
 apathia
 astrocaryum
 ardurous
-amphipneust
+amphipneust 1
 acetylglycine
 areach
 attractions
