@@ -237,7 +237,7 @@ glyptics
 gayyou
 gail
 gundy
-glowfly
+glowfly 1
 graffiti
 gabbles
 gestatorium
