@@ -4953,7 +4953,7 @@ devotionalism
 demoralizers
 draughty
 debussy
-demoralizes
+demoralizes 1
 demorphism
 delectated
 decate
