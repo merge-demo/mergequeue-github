@@ -20759,7 +20759,7 @@ autotherapy
 artillerist
 aetosaur
 aguishness
-anthologizes
+anthologizes 1
 autopsychic
 artillerists
 adnescent
