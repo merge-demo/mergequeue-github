@@ -1008,7 +1008,7 @@ glossed
 gordunite
 ganga
 gangamopteris
-givers
+givers 1
 gangava
 groundward
 gynobase
