@@ -31698,7 +31698,7 @@ cuspate
 cusped
 clomped
 cuspid
-cuspidal
+cuspidal 1
 cuspidate
 chophouse
 cuspides
