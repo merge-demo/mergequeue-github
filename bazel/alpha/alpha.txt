@@ -8617,7 +8617,7 @@ apoharmine
 aqueduct
 abandoners
 arboricultural
-allegorisation
+allegorisation 1
 allegorise
 afear
 abscising
