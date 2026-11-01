@@ -26800,7 +26800,7 @@ chromogenic
 clamping
 counterdogmatism
 counterdrive
-countered
+countered 1
 cypselomorph
 counterefficiency
 countereffort

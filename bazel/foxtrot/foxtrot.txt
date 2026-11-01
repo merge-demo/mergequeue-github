@@ -9268,7 +9268,7 @@ fleuret
 fourchet
 friesic
 fayalites
-freckling
+freckling 1
 fungate
 folious
 frangipani
