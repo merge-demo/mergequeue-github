@@ -20370,7 +20370,7 @@ arsenopyrite
 arsenostyracol
 aldermanlike
 amyous
-admeasure
+admeasure 1
 austerities
 apostolicalness
 arcsines
