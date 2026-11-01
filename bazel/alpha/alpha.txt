@@ -15309,7 +15309,7 @@ aitiotropic
 archeol
 anthracite
 adapters
-amperages
+amperages 1
 antihero
 amphoriskos
 azulejo
