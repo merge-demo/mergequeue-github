@@ -10762,7 +10762,7 @@ folles
 forweep
 farreation
 fruticous
-firstness
+firstness 1
 fructiculose
 femme
 footglove
