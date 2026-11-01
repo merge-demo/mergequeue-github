@@ -21144,7 +21144,7 @@ appositeness
 airth
 amniorrhea
 ambiens
-affinitative
+affinitative 1
 aseismatic
 arabella
 acquittal
