@@ -3766,7 +3766,7 @@ greycoat
 giants
 gratifyingly
 glossology
-gentian
+gentian 1
 gouges 1
 giantship
 glycolate
