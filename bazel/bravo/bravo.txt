@@ -9676,7 +9676,7 @@ bezzled
 beeping 1
 bismuthinite
 bejumble
-bismuthous
+bismuthous 1
 belfried
 busking
 balanoglossus
