@@ -9181,7 +9181,7 @@ gooral 1
 gridlock
 gliss
 greenstick
-glavering
+glavering 1
 goatees
 glaucomas
 gastrodiaphanoscopy
