@@ -17666,7 +17666,7 @@ disapprovingly
 dystopia
 demonomancy
 disanimal
-dimerisms
+dimerisms 1
 dualizes
 demarcate
 dualmutef
