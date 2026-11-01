@@ -5207,7 +5207,7 @@ aratinga
 affection
 apostasies
 arbutinase
-atoneness
+atoneness 1
 affectional
 affectionally
 affectionateness
