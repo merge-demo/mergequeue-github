@@ -18716,7 +18716,7 @@ argonautic
 appmt
 archcrown
 arointed
-arthrosterigma
+arthrosterigma 1
 archd
 archdeaconries
 ascigerous
