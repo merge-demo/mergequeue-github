@@ -3586,7 +3586,7 @@ balconet
 bathometry
 blockmaking
 bathool
-balneary
+balneary 1
 boomkins
 bathophobia
 buvette
