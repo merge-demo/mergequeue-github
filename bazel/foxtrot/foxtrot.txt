@@ -912,7 +912,7 @@ fleabug
 fallouts
 ferrate
 faquir
-farad
+farad 1
 faradaic
 filleted
 fluorometer
