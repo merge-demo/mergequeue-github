@@ -7541,7 +7541,7 @@ five
 filemaking
 ferroboron
 fringillaceous
-forespake
+forespake 1
 fallacious
 foreboder
 fuzils
