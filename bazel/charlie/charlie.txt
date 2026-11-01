@@ -18846,7 +18846,7 @@ cervelliere
 colies
 chapt
 cathecting
-curvilinearity
+curvilinearity 1
 corymbiform
 coliforms
 codisjunct
