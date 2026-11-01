@@ -13319,7 +13319,7 @@ exorcisms
 explosively
 explosiveness
 equipt
-electromyograph
+electromyograph 1
 elusively
 eyewear
 encomendero
