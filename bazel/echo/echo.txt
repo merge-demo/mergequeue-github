@@ -773,7 +773,7 @@ echinal
 euomphalid
 egger
 ecrase
-enclitic
+enclitic 1
 escort
 extense
 eremophilous
