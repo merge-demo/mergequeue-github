@@ -10513,7 +10513,7 @@ digonoporous
 depthless
 danging
 discorder
-derangeable
+derangeable 1
 delaminate
 divinize
 dihydrocupreine
