@@ -6826,7 +6826,7 @@ dissoconch
 desmachyme
 daubery
 dockworker
-decidingly
+decidingly 1
 dictyoceratina
 desmanthus
 disleafing
