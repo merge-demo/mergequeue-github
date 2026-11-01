@@ -5022,7 +5022,7 @@ galleypot
 governesshood
 glaucousness
 ghouls
-giganticidal
+giganticidal 1
 gauls
 garridge
 girasoles
