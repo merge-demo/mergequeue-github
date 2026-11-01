@@ -10150,7 +10150,7 @@ chevron
 chiropatagium
 charioteer
 cumbha
-cronied
+cronied 1
 chevronwise 1
 chevrotain
 chevvy
