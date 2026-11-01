@@ -665,7 +665,7 @@ goury
 gilour
 galgulidae
 glint
-geropiga
+geropiga 1
 gangboard
 gallows
 gonitis
