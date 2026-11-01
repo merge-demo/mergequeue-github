@@ -11678,7 +11678,7 @@ discountable
 discountenances
 distastes
 dendrolite
-denize
+denize 1
 disulfoton
 daffodowndillies
 discounters
