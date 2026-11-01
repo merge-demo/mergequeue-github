@@ -41,7 +41,7 @@ causable
 cherrystones
 cocozelle
 caballero
-caballo
+caballo 1
 ceratopteridaceous
 caballos
 cardiae
