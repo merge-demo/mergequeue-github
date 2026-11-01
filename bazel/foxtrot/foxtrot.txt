@@ -2548,7 +2548,7 @@ fatties
 fitchews
 faithbreach
 fishpot
-fretter
+fretter 1
 forewarningly
 forequarter
 finlandization
