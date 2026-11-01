@@ -14583,7 +14583,7 @@ diatomine
 disinfeudation
 discordantness
 dentalman
-duckeries
+duckeries 1
 deoxyribonucleoprotein
 dismemberment
 dwells
