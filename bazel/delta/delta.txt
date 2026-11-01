@@ -11503,7 +11503,7 @@ demerse
 dissectional
 disconformity
 demiparallel
-deepened
+deepened 1
 demimondaines
 dullhead
 dwarfy
