@@ -2939,7 +2939,7 @@ growleries
 glycol
 gaeldom
 geocyclic
-gnat
+gnat 1
 gorsy 1
 glideless
 gynaecocracies
