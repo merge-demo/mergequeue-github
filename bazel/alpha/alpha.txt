@@ -1324,7 +1324,7 @@ accable
 accel
 accelerable
 animalizing
-accelerando
+accelerando 1
 analgize
 argentojarosite
 amnesias
