@@ -31480,7 +31480,7 @@ croupade
 curricles
 chalcedonous
 chiropteran
-curricling
+curricling 1
 currycomb
 cartoon
 currycombing
