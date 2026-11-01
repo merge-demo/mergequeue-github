@@ -4810,7 +4810,7 @@ deux 1
 dishing
 distemperedness
 diffusively
-demolish
+demolish 1
 detrained
 dazzlingly
 dumbbeller
