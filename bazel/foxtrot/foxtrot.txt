@@ -6813,7 +6813,7 @@ forfalt
 faithfuls
 finmark
 forams
-fungin
+fungin 1
 forewonted
 freelancer
 folderols
