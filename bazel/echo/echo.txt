@@ -10236,7 +10236,7 @@ ethyldichloroarsine
 emphraxis
 ethylenimine
 esperanto
-exasperated
+exasperated 1
 edituate
 epistolist
 epigenous
