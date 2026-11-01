@@ -5235,7 +5235,7 @@ glycemic
 groundline
 garrulousness
 gleety
-glottidean
+glottidean 1
 guineaman
 glottiscope
 gastriloquist
