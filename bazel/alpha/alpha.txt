@@ -10637,7 +10637,7 @@ archoptoma
 attend
 amylohydrolysis
 adossee
-aptly
+aptly 1
 acatharsia
 archilochian
 amyloidosis
