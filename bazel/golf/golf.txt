@@ -7956,7 +7956,7 @@ getmjlkost
 gametogonium
 glimmerite
 gregaloid
-gyniolatry
+gyniolatry 1
 gloucester
 gulas
 grandfathers
