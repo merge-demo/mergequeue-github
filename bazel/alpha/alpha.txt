@@ -19392,7 +19392,7 @@ argentan
 axisymmetry
 aerobacter
 autochrome
-anacrisis
+anacrisis 1
 arsacid
 affies
 albespine
