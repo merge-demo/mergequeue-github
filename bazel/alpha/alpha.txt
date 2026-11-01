@@ -18803,7 +18803,7 @@ artfully
 antideflation
 archeries
 acoustically
-abjuring
+abjuring 1
 allomerization
 agoniatite
 archers

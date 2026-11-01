@@ -16694,7 +16694,7 @@ dynamitist
 dramaticle
 detractor
 dramatiser
-duret
+duret 1
 divisionistic
 dabble
 deliberalize
