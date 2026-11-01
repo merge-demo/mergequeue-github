@@ -15316,7 +15316,7 @@ dolphinlike
 decadescent 1
 dolphins
 discountenance
-diagnostics
+diagnostics 1
 design
 distilleries
 dismit 1
