@@ -3940,7 +3940,7 @@ explicitly
 emmy
 epilabrum
 emodins
-efflorescent
+efflorescent 1
 emollience
 elevenths
 eyliad
