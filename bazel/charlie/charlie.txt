@@ -8326,7 +8326,7 @@ chalkpit
 chalkrail
 circumflect
 catechizable
-chalkworker
+chalkworker 1
 challah
 centriciput
 challas
