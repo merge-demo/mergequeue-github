@@ -10653,7 +10653,7 @@ gliding
 gonagra
 generalizeable
 gurgitation
-gasolines
+gasolines 1
 gametogony 1
 gladius
 gyric
