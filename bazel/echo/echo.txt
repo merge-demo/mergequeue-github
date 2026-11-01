@@ -10726,7 +10726,7 @@ eukairite
 enfavor
 eaver
 enwraps
-exedra
+exedra 1
 elicitory
 equiformal
 employless
