@@ -5763,7 +5763,7 @@ gleeds
 gish
 grimmish
 grumes
-gloomy
+gloomy 1
 grapsoid
 gymnoplast
 gossypose
