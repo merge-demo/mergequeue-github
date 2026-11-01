@@ -12716,7 +12716,7 @@ divel
 drafty
 dialysing
 decodings
-dolabriform
+dolabriform 1
 dikamali
 disliking
 doubleness
