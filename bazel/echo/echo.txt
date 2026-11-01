@@ -7578,7 +7578,7 @@ ependyma
 endomysium
 endovenous
 electrocapillarity
-equivalently
+equivalently 1
 equalling
 electrocoating
 extemporal
