@@ -9244,7 +9244,7 @@ divined
 disinsectization
 dislegitimate
 drawcard
-digitaliform
+digitaliform 1
 diemakers
 duckie
 dehumidifying

@@ -5402,7 +5402,7 @@ forthbringer
 formable
 flecking
 firehouses
-fusarole
+fusarole 1
 fennel
 friending 1
 frigefact

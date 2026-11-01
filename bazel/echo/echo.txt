@@ -12507,7 +12507,7 @@ epicentral
 embosture
 executrixship
 expertize 1
-exine
+exine 1
 exies
 extraviolet
 errantia
