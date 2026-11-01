@@ -15555,7 +15555,7 @@ cynoglossum
 confoundedly
 chabasie
 classicolatry
-classiest
+classiest 1
 classify
 continentalist
 classifiable
