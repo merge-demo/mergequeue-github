@@ -2524,7 +2524,7 @@ gamogeny 1
 graven
 glomeroporphyritic
 gumshield
-gradatim
+gradatim 1
 gastroenterocolitis
 gladite
 guttifer
