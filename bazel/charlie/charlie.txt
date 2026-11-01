@@ -21969,7 +21969,7 @@ configurations
 configurative
 configure
 configures
-coxcombry
+coxcombry 1
 confinable
 confine
 comports 1
