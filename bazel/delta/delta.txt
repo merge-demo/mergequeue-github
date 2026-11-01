@@ -1844,7 +1844,7 @@ dewberry
 doorstead
 doughnut
 debellator
-darapti
+darapti 1
 drugmaker
 decriminalize
 degeneratively
