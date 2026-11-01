@@ -5717,7 +5717,7 @@ alderney
 ambilian
 agamidae
 assheadedness
-aftertouch
+aftertouch 1
 achaeta
 agamist
 antiegoistical
