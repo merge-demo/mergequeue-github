@@ -3991,7 +3991,7 @@ exaltative
 enruin
 embarrassingly
 edictum
-empathetic
+empathetic 1
 enfolded
 egalite
 equiform
