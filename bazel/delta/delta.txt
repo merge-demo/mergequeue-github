@@ -5385,7 +5385,7 @@ denting
 defrayal
 demagogically
 duotype
-dentirostral
+dentirostral 1
 drumbeating
 deceptory 1
 dribbler
