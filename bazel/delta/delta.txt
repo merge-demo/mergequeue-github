@@ -5857,7 +5857,7 @@ dentaries
 dermatocoptic
 deprecable
 deprecating
-doorbrand
+doorbrand 1
 desolations
 diachoresis
 domal
