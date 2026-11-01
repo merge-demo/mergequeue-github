@@ -2434,7 +2434,7 @@ barehead
 bridebed
 bisexuality
 bogles
-bactericidal
+bactericidal 1
 blencher
 bareheadedness
 bareknuckled
