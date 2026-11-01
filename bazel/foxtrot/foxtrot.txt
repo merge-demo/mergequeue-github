@@ -7916,7 +7916,7 @@ footeite
 ferd
 footslog
 fletching
-foreseer
+foreseer 1
 foresees
 fonder
 foreseize
