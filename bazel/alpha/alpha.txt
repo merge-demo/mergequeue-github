@@ -8042,7 +8042,7 @@ alexis
 admirations
 alexius
 atramentary
-aramaicize
+aramaicize 1
 alleging
 antimoniureted
 alfaje
