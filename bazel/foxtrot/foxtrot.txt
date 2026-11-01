@@ -8585,7 +8585,7 @@ frameshift
 fullfil
 fissionable
 fungating
-farmsteading
+farmsteading 1
 forninst
 fricative
 flexor
