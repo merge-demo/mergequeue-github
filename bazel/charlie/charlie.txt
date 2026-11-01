@@ -25680,7 +25680,7 @@ correctress
 conoid
 centupled
 corregimientos
-chaucerianism
+chaucerianism 1
 correl
 coolaman
 correlatable
