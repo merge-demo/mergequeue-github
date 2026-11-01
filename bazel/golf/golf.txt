@@ -2232,7 +2232,7 @@ gnomonology
 generosities
 galactohemia
 gleit
-glossopathy
+glossopathy 1
 grounders
 globetrotting
 grieced
