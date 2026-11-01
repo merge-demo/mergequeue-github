@@ -25011,7 +25011,7 @@ coction
 cnibophore
 cheskeys
 cordycepin
-cleptomania
+cleptomania 1
 cordiceps
 cordyceps
 communicator
