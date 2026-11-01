@@ -8069,7 +8069,7 @@ billeters
 bicursal
 bailments
 bicuspid
-bruxism
+bruxism 1
 brast
 burrobrush
 bid
