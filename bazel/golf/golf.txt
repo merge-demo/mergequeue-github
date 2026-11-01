@@ -10831,7 +10831,7 @@ guvacine
 goatland
 growing
 grammatic
-galga
+galga 1
 greengrocery
 greenbackism
 grayhead
