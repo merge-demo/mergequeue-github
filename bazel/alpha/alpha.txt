@@ -22425,7 +22425,7 @@ astromantic
 astromeda
 axion
 apophyges
-anthropomorphize
+anthropomorphize 1
 aliments
 astrometeorology
 aforenamed
