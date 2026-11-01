@@ -15758,7 +15758,7 @@ cleanhanded
 capistrate
 conducting
 cabbagetown
-cleanings
+cleanings 1
 ciniphes
 consanguinity
 coiffeuse
