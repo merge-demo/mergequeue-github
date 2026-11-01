@@ -30224,7 +30224,7 @@ crudle
 cruds
 cruel
 crueller
-cruellest
+cruellest 1
 cruelly
 cruelness
 cruels
