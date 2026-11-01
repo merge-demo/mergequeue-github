@@ -5075,7 +5075,7 @@ daler
 disilicide
 dendraxon
 decolorizer
-delightsome
+delightsome 1
 dendriform
 dialer
 dendritical
