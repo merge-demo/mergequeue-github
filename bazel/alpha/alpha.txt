@@ -20843,7 +20843,7 @@ anhanga
 annectent
 academicals
 arfvedsonite
-avulsed
+avulsed 1
 argufies
 armipotent
 arx
