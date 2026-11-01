@@ -12510,7 +12510,7 @@ expertize 1
 exine
 exies
 extraviolet
-errantia
+errantia 1
 electicism
 everyway
 embarrel
