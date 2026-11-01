@@ -17749,7 +17749,7 @@ cocottes
 cocobolo
 condemnate
 cockalan
-cc
+cc 1
 cocreate
 cocreated
 cocreating
