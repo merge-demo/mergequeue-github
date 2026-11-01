@@ -11291,7 +11291,7 @@ blown
 bananas
 blowoff
 blowouts
-bedels
+bedels 1
 blowproof
 blows
 bleachability
