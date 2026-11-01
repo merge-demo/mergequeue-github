@@ -13206,7 +13206,7 @@ blazonry
 blushless
 bizen 1
 boustrophedonic
-boskier
+boskier 1
 boasters
 bosn
 balneologist
