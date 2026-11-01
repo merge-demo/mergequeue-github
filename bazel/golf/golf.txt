@@ -8584,7 +8584,7 @@ griped
 guarri
 guianan
 gypping
-gastrolatrous
+gastrolatrous 1
 gemel
 gossipy
 gonidioid
