@@ -8688,7 +8688,7 @@ diastasimetry
 dipnoan
 devilfishes
 deraigned
-demobbed
+demobbed 1
 desalinizing
 dichastasis
 deathrate 1
