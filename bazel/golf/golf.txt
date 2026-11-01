@@ -6923,7 +6923,7 @@ grallatores
 gastight
 groupthink
 gynecomorphous 1
-glyoxyl
+glyoxyl 1
 goodlier
 germany
 greekdom
