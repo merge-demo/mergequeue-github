@@ -5065,7 +5065,7 @@ gastrogenital 1
 gv
 gerunds
 gustful
-gularis
+gularis 1
 garland
 ganged
 gret
