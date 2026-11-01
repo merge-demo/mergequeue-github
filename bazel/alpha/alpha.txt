@@ -14526,7 +14526,7 @@ acrocarpi
 allan
 anthropometrist
 anthropomophitism
-antiphrastic
+antiphrastic 1
 antipestilence
 accompanist
 adjutage
