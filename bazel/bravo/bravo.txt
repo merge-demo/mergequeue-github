@@ -357,7 +357,7 @@ basichromatinic
 backflowing
 backframe
 backfriend
-bottegas
+bottegas 1
 backgame
 backgammon
 board
