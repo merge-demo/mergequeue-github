@@ -2594,7 +2594,7 @@ durable
 decartelized
 declutch
 divise
-duad
+duad 1
 discouragements
 docetist
 desistence
