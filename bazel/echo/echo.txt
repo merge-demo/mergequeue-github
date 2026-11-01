@@ -5591,7 +5591,7 @@ eugenists
 enfants
 evulsion
 enfiled
-expediences
+expediences 1
 evangel
 extratympanic
 empathetically
