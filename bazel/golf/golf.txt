@@ -2341,7 +2341,7 @@ gorgets
 gustfulness
 gymnics
 geographism
-gelees
+gelees 1
 geologist
 gurging
 gymnocerata
