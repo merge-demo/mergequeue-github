@@ -15879,7 +15879,7 @@ cadaverize
 cleidocostal
 cleidoic
 chiromance
-cherts
+cherts 1
 cleidomancy
 cleidorrhexis
 chiripa
