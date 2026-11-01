@@ -10145,7 +10145,7 @@ chevret
 counterexamples
 chevrolet
 chevrolets
-chlorodized
+chlorodized 1
 chevron
 chiropatagium
 charioteer
