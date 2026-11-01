@@ -2421,7 +2421,7 @@ epipetalous
 episcopalianize
 ensorcell
 events
-entrail
+entrail 1
 ecraseur
 emplection
 electrodialyze
