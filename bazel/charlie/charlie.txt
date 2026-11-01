@@ -21935,7 +21935,7 @@ confidants
 centaurs
 counterproductivity
 coseismic
-confidence
+confidence 1
 confidency
 cosmogenic
 confident
