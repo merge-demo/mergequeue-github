@@ -641,7 +641,7 @@ dinoflagellata
 deploitation
 damnify
 dearth
-damnificatus
+damnificatus 1
 disoccupation
 debarration
 depolarizer
