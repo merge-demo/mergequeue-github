@@ -8990,7 +8990,7 @@ fourrageres
 fox
 fantaddish
 flixweed
-fuster
+fuster 1
 fourrier
 flagellates
 foelike
