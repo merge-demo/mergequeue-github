@@ -12945,7 +12945,7 @@ differed
 disoperculate
 desmosome
 dicephalous
-demons
+demons 1
 decatholicize 1
 dosimetrician
 differers
