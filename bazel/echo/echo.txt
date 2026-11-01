@@ -1373,7 +1373,7 @@ echelon
 examinative 1
 efficacy
 envying
-ethene
+ethene 1
 efficacies
 endochylous
 exhortation
