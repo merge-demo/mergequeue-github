@@ -4284,7 +4284,7 @@ gramophones
 gusto
 garnishing
 guncotton
-gantang
+gantang 1
 gruelled
 ghalva
 gomorrhean
