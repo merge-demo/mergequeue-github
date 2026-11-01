@@ -2056,7 +2056,7 @@ colonial
 camoudie
 coburgess
 camouflage
-camouflageable
+camouflageable 1
 camouflager
 contradictorily
 camouflagers
