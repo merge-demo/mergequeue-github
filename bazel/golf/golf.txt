@@ -7011,7 +7011,7 @@ gallerian
 gunpowdery
 gapes
 glad
-gossipry
+gossipry 1
 garrat
 graviers
 giddybrain
