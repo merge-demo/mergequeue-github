@@ -8536,7 +8536,7 @@ gigsmen
 girliness
 grallatory 1
 gravette
-gaufrette
+gaufrette 1
 goniatitidae
 gallwort
 gith

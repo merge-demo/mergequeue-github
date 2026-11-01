@@ -5834,7 +5834,7 @@ explanation
 engouement
 engoument
 entification
-evade
+evade 1
 emulatory
 efficace
 electrovalency
