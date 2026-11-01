@@ -4353,7 +4353,7 @@ endoute
 economize
 enterointestinal
 exceeders
-exothermous
+exothermous 1
 enterodynia
 emulative
 enamour
