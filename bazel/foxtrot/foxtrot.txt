@@ -935,7 +935,7 @@ fourchite
 fortunateness
 forms
 fanfishes
-flightless
+flightless 1
 farandoles
 faxing
 fosterer
