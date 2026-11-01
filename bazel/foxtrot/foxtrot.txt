@@ -11503,7 +11503,7 @@ flouncy
 fluently
 fusariose
 fanfold
-forgettingly
+forgettingly 1
 fusariosis
 flypasts
 firebirds
