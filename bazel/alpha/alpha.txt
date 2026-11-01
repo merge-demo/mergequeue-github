@@ -137,7 +137,7 @@ abasic
 anachueta
 alcarraza
 amused
-afterwitted
+afterwitted 1
 amyotrophic
 amoebid
 amphibiotic
