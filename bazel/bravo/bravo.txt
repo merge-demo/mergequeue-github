@@ -17913,7 +17913,7 @@ bubbled
 bushy
 barton
 badly
-bushidos
+bushidos 1
 bractless
 broadaxes
 bahmanid
