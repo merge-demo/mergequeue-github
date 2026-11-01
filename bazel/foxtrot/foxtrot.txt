@@ -10628,7 +10628,7 @@ fewmand
 fatcake
 fictitious
 femininity
-freezingly
+freezingly 1
 friandise
 fruitbearing
 foremark
