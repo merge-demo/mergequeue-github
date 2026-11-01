@@ -15170,7 +15170,7 @@ dedolomitizing 1
 dewooling
 dottle
 decolourisation
-decahydrate
+decahydrate 1
 dressily
 dimna
 defunctness
