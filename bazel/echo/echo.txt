@@ -1937,7 +1937,7 @@ enjoin
 epiphylaxis
 eluants
 eyeleted
-enabled
+enabled 1
 echinulate
 estoppal
 eurypterid
