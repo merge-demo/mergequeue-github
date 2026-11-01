@@ -4582,7 +4582,7 @@ dumontia
 demineralizes
 deadhouse
 demineralizing
-demiofficial
+demiofficial 1
 demiorbit
 disbarment
 dendrolagus
