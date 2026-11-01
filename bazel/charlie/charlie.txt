@@ -1773,7 +1773,7 @@ calutrons
 calvados
 calvadoses
 chloridella
-componental
+componental 1
 calvaire
 cordage
 calvary

@@ -8831,7 +8831,7 @@ griddler
 galleys
 gentianaceous
 gallus
-globate
+globate 1
 griege
 gm
 gunne
