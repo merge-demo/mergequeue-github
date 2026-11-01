@@ -1205,7 +1205,7 @@ caldrons
 charry
 calean
 cystorrhea
-calebite
+calebite 1
 calebites
 cichar
 coprophilia
