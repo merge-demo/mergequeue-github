@@ -13258,7 +13258,7 @@ anischuria
 aniseed
 adynamic
 atingle
-aniseikonic
+aniseikonic 1
 anisic
 autosuggestible
 apriorism
