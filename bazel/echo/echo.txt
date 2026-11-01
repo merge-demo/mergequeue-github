@@ -10925,7 +10925,7 @@ euphues
 epipedometry
 epilogizing
 evenwise
-entomologising
+entomologising 1
 epipteric
 eulogies
 echinops
