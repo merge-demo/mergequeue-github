@@ -521,7 +521,7 @@ guaranteers
 gaieties
 guinde
 gigsman
-gives
+gives 1
 geoffroyine
 ghettoize
 gyrowheel
