@@ -1177,7 +1177,7 @@ forcer
 filicineae
 fraying
 friponerie
-focalize
+focalize 1
 funder
 funaria
 fifths
