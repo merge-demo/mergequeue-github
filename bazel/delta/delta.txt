@@ -11906,7 +11906,7 @@ dishonorableness
 disdiapason
 disdodecahedroid
 delegatus
-doughtiness
+doughtiness 1
 distinguished
 dalliance
 dedifferentiated
