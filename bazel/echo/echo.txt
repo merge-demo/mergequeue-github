@@ -1249,7 +1249,7 @@ enroot
 efficiently
 earthshock
 ethylidyne
-epigrammatise
+epigrammatise 1
 eelcake
 elsewheres
 exposition
