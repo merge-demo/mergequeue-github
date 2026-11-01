@@ -11312,7 +11312,7 @@ chlorodizing
 cradlers
 chloroethene
 chlorofluorocarbon
-chlorofluoromethane
+chlorofluoromethane 1
 ceylanite
 chloroformate
 churched
