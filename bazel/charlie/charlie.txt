@@ -16248,7 +16248,7 @@ clinohedral
 celeriac
 crewcut
 cornerman
-compagination
+compagination 1
 clinohumite
 childermas
 constringency
