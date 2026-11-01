@@ -3946,7 +3946,7 @@ ferrocyanogen
 falsehearted
 furrowed
 fireboxes
-fluoresces
+fluoresces 1
 flemish
 fluoranthene
 foresummon
