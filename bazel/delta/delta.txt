@@ -1378,7 +1378,7 @@ denierage
 diatomin
 doyennes
 derry
-deworm
+deworm 1
 dave
 davenport
 disna
