@@ -20937,7 +20937,7 @@ adherence
 ascariasis
 aerodynamicist
 assuefaction
-anticlassicalness
+anticlassicalness 1
 alimentally
 ascarid 1
 ascaridae
