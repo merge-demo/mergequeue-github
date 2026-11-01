@@ -6394,7 +6394,7 @@ cyclopaedically
 car
 cribbers
 cilantro
-cautery
+cautery 1
 cauteries
 cauterisation
 couche
