@@ -1685,7 +1685,7 @@ envassal
 essentialist
 electrothermancy
 ellan
-esophagi
+esophagi 1
 eddoes
 elaioleucite
 eyebright
