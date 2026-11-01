@@ -4903,7 +4903,7 @@ diminuendo
 dialogist
 demonologer
 demonology
-demonologically
+demonologically 1
 disluster
 densitometers
 demonomist
