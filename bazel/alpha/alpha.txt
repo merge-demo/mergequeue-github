@@ -15901,7 +15901,7 @@ antinarrative
 antipredeterminant
 amphetamine
 antiprelate
-antiprelatic
+antiprelatic 1
 aliquot
 antiprelatist
 archils 1

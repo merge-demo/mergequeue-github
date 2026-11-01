@@ -15100,7 +15100,7 @@ diagrammable
 disfrequent
 dogmatise
 dogmatised
-dressoirs
+dressoirs 1
 dogmatizer
 dispensator
 discotheques
