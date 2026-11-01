@@ -2301,7 +2301,7 @@ electrifiers
 europasian
 enaliornis
 echoingly
-etnas
+etnas 1
 espressos
 exurbias
 endocrania
