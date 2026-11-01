@@ -9179,7 +9179,7 @@ dogship
 defensing
 duelled
 desoxycinchonine
-decalog
+decalog 1
 diptych
 dialyse
 doors
