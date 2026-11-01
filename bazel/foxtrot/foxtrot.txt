@@ -800,7 +800,7 @@ forcible
 flautists
 frisk
 fowl
-fermate
+fermate 1
 frizado
 flatulently
 frowsy
