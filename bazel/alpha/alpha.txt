@@ -21552,7 +21552,7 @@ asphodel
 aspy
 aspidiaria
 aspidinol
-aladdinize
+aladdinize 1
 aspidiske
 autotypies
 aspidistra
