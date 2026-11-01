@@ -10642,7 +10642,7 @@ dulias
 draying
 drey
 duncery
-demurrals
+demurrals 1
 diploplacular
 decarbonize
 dotingly
