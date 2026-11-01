@@ -13381,7 +13381,7 @@ exits
 expositorially
 expostulating
 ecophysiological
-endurable
+endurable 1
 expanders
 empodium
 expostulative
