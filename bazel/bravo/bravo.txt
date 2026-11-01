@@ -16629,7 +16629,7 @@ bowmaker
 blackarm
 battleship
 beanpole
-bejewelled
+bejewelled 1
 brawls
 butte
 bavius
