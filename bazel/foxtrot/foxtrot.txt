@@ -3349,7 +3349,7 @@ flench
 furuncle
 fidge
 frogfoot
-fractionally
+fractionally 1
 fidgeted
 fractals
 faultage
