@@ -12315,7 +12315,7 @@ equimolecular
 epimerite 1
 erichtoid
 eavesing
-enjambment
+enjambment 1
 eradicating
 emusive
 earthlings
