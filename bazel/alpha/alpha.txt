@@ -22437,7 +22437,7 @@ astrometry
 agric
 animalising
 astrometric
-astronaut
+astronaut 1
 apollinian
 asmodeus
 aphoruridae
