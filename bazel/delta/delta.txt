@@ -10570,7 +10570,7 @@ digammate
 dashiki
 denote
 dislikes
-disequilibrium
+disequilibrium 1
 disslander
 duteously
 discoblastula
