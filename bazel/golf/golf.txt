@@ -6132,7 +6132,7 @@ greatly
 gnathostomous
 gustoes
 gnathostome
-gjetosts
+gjetosts 1
 gallivants
 gammarus
 gnosis
