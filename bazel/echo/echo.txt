@@ -6368,7 +6368,7 @@ enshade
 enshawl
 espace
 ensheathe
-excitomotion
+excitomotion 1
 eburna 1
 ensheathing
 eruditely
