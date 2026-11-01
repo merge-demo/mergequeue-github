@@ -2257,7 +2257,7 @@ deceiving
 definitized
 defuzes
 domineerer
-distractibility
+distractibility 1
 dustbox
 determinative
 decelerates
