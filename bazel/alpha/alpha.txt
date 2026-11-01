@@ -1009,7 +1009,7 @@ antidromous
 abtruse
 aquitanian
 affluxes
-abstractitious
+abstractitious 1
 abstractive
 athenianly
 antimethodic
