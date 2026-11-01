@@ -24458,7 +24458,7 @@ coosers
 coltskin
 coost
 curves
-coosuc
+coosuc 1
 coot
 cootch
 corticin
