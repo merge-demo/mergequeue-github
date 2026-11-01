@@ -2602,7 +2602,7 @@ diplocephalous
 decoat
 decoct 1
 demiquaver
-dashes
+dashes 1
 decocting
 decoctive
 deaminizing
