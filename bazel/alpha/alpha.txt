@@ -16,7 +16,7 @@ anidrosis
 adipolysis
 arriding
 autoimmunities
-abo
+abo 1
 aivr
 archerfish
 aardwolves
