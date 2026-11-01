@@ -25401,7 +25401,7 @@ collaud
 creamery
 centrifuged
 coarsish
-crotcheted
+crotcheted 1
 cornicles
 corniculer
 corniferous
