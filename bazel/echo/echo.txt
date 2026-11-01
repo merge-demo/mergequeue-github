@@ -11166,7 +11166,7 @@ entocarotid
 expatriation
 embroiderer
 exiguousness
-ensiform
+ensiform 1
 ectatic
 evacuator
 evaded
