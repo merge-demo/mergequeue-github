@@ -6727,7 +6727,7 @@ echimys
 epicenters
 equines
 espaliers
-epithecal
+epithecal 1
 evaginable
 emunge
 enuresis

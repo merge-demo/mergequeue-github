@@ -17878,7 +17878,7 @@ duelling
 duellist
 diplomata
 debromination
-disgrace
+disgrace 1
 disburser
 deterministically
 durance
