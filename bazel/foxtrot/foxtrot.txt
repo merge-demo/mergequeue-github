@@ -11408,7 +11408,7 @@ flatterous
 fleurette
 filminess
 flushboard
-feasor
+feasor 1
 flocculose
 furniture
 flummoxing
