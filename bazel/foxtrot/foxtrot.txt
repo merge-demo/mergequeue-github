@@ -8956,7 +8956,7 @@ factorize
 foolfishes
 frenchy
 frisbee
-fusiformis
+fusiformis 1
 fluminose
 floit
 flywort
