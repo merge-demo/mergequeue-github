@@ -2919,7 +2919,7 @@ concaulescence
 chrysoidine
 cantatas
 cantation
-cantatrice
+cantatrice 1
 coverts
 chestily 1
 chorioids
