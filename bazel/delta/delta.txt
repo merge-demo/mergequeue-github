@@ -17369,7 +17369,7 @@ delime
 dillydallies
 deallocation
 delactation
-deviants
+deviants 1
 diduced
 dropmeal
 declined
