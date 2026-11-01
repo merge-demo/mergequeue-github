@@ -855,7 +855,7 @@ bagdad
 bloody
 bunters
 begoniaceae
-bauxites
+bauxites 1
 bicolour
 bagful
 baggagemaster
