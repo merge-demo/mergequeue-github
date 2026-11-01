@@ -6508,7 +6508,7 @@ cavia
 cavicorn
 cuprocyanide
 calve
-catalogues
+catalogues 1
 cavicornia
 cavie
 conversely
