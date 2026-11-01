@@ -12805,7 +12805,7 @@ exostra
 ebullition
 engraves
 elementary
-exostrae
+exostrae 1
 exoteric
 exoterica
 elementalistically
