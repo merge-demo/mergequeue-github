@@ -3305,7 +3305,7 @@ dorsoposteriad
 defeatment
 deleteriously
 donations
-depreciator
+depreciator 1
 dentololabial
 defilingly
 different
