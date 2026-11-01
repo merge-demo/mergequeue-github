@@ -4288,7 +4288,7 @@ deporting
 dichotomous 1
 digallate
 designatory
-delustering
+delustering 1
 deceleration
 delved
 dermatopathology
