@@ -4888,7 +4888,7 @@ demonography
 demonographies
 denature
 dramseller
-deactivator
+deactivator 1
 demonolater
 drupose
 dismality
