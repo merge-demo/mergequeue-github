@@ -17086,7 +17086,7 @@ coacting
 constituently
 coaction
 coactive
-coactively
+coactively 1
 clubwoman
 coacts
 coadamite
