@@ -2175,7 +2175,7 @@ gds
 gaycat
 gastrotomy
 grainer
-gaze
+gaze 1
 genteelly
 glout
 geraldine
