@@ -21700,7 +21700,7 @@ centralisation
 casson
 cassises
 crosa
-camphoric
+camphoric 1
 columbarium
 cecidomyiid
 cedens
