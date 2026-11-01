@@ -14165,7 +14165,7 @@ cuisinier
 claddings
 culinary
 circumambulator
-circumanal
+circumanal 1
 circumantarctic
 circumarticular
 circumaviate
