@@ -18098,7 +18098,7 @@ coenocytic
 carson
 coenodioecism
 coenoecic
-coefficacy
+coefficacy 1
 chousingha
 coenogenesis
 cryptococcic
