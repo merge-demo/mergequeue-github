@@ -10526,7 +10526,7 @@ denominationalize
 diplantidian
 drynaria
 diplarthrism
-dilapidator
+dilapidator 1
 decentest
 depressants
 defoggers
