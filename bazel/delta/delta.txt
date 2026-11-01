@@ -12925,7 +12925,7 @@ dairy
 disimprovement
 derencephalus
 deutoplasmic
-dilatableness
+dilatableness 1
 disodium
 daunii
 disdiazo
