@@ -18493,7 +18493,7 @@ anisosepalous
 anthropoidal
 amphicondylous
 allotype
-amias
+amias 1
 arborea
 arrhenoid
 akroasis
