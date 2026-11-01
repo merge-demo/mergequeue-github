@@ -931,7 +931,7 @@ dermapostasis
 dapperling
 dapperness
 dapping
-dactylographic
+dactylographic 1
 divorcers
 dishouse
 decourt
