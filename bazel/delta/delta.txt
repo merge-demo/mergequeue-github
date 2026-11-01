@@ -10307,7 +10307,7 @@ deans
 draughting
 dames
 dionysia
-dionysiac
+dionysiac 1
 dionysiacally
 dionysus
 dirigibles
