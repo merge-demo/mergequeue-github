@@ -16111,7 +16111,7 @@ brookite
 beneficient
 barbarianized
 battling
-bicolor
+bicolor 1
 buoy
 burgoo
 brassier
