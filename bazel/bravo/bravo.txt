@@ -9301,7 +9301,7 @@ boldest
 bayldonite
 bifolia
 bloviating
-beany
+beany 1
 bawdry
 baldricked
 buzuki
