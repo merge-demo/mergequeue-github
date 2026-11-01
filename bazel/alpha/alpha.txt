@@ -14992,7 +14992,7 @@ anticonventional
 anticor
 anticorona
 anticorrosiveness
-animose
+animose 1
 alsatia
 antivaccinationist
 anapophyses
