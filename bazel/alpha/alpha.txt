@@ -9623,7 +9623,7 @@ abridges
 aluminate
 alumines
 archicontinent
-absfarad
+absfarad 1
 abacaxi
 aluminide
 aluminiferous
