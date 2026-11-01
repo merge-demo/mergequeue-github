@@ -10933,7 +10933,7 @@ euphuize
 eupyrion
 eupittone
 enteritis
-exams
+exams 1
 elephantry
 eventognathi
 eyebeams
