@@ -5299,7 +5299,7 @@ detinue
 dentale
 dissimulate
 dilettanteish
-degressively
+degressively 1
 downhearted
 darkener
 dentalia
