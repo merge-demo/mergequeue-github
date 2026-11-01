@@ -4815,7 +4815,7 @@ electroionic
 etymologize
 executioners
 eventides
-encolour
+encolour 1
 excrementitiousness
 encolpia
 equilibrator
