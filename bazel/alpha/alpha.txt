@@ -12010,7 +12010,7 @@ astromancy
 anarchist
 anarchists
 anarcho
-antisophistry
+antisophistry 1
 atrium
 aboriginals
 alpha
