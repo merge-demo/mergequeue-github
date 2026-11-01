@@ -6136,7 +6136,7 @@ elvis
 encina
 erminites
 extremum
-elaterometer
+elaterometer 1
 elephantiases
 embelia
 ereptic
