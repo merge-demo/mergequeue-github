@@ -10762,7 +10762,7 @@ adherends
 aplanatically
 arthroses
 alterableness
-amitate
+amitate 1
 antighostism
 abandonments
 anteinitial 1
