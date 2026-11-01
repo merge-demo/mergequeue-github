@@ -8254,7 +8254,7 @@ diagnostically
 disenthroned
 diagnosticate
 denitrating
-divergency
+divergency 1
 dinotherium
 dehortatory
 demegoric
