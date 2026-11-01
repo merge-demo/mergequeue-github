@@ -13008,7 +13008,7 @@ aphorismic
 archly
 anhaemolytic
 agios
-ataraxics
+ataraxics 1
 anhalonin
 anhalonine
 antioptimistic
