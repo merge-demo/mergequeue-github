@@ -15137,7 +15137,7 @@ apsidal
 acrothoracica
 antiemetic
 antiempiric
-apothecia
+apothecia 1
 aggrandiser
 absents
 antiapoplectic
