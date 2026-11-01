@@ -10541,7 +10541,7 @@ citizenhood
 cardon
 cirsocele
 cymbocephaly
-cicadae
+cicadae 1
 chill
 cyclanthaceous
 chilla
