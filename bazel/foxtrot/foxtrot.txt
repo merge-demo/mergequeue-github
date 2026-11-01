@@ -5853,7 +5853,7 @@ farine
 fertilisable
 fowling
 factorially
-floristic
+floristic 1
 floatsmen
 fluff
 flaxbush
