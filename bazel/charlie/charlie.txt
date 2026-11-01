@@ -22981,7 +22981,7 @@ caustified
 consolations
 consolato
 consolator
-consolatory
+consolatory 1
 consolatorily
 chartophylax
 consolatrix
