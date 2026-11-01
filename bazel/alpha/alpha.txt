@@ -2463,7 +2463,7 @@ adiaphoral
 acnes
 amperemeter
 acnida
-arabizes
+arabizes 1
 airily
 antiperthite
 apprehendingly

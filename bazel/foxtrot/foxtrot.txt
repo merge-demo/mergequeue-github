@@ -10232,7 +10232,7 @@ frankeniaceae
 focimetry
 fruticant
 fleshly
-fadedness
+fadedness 1
 fibrillations
 flakers
 frond
