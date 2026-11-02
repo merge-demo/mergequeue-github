@@ -12655,7 +12655,7 @@ empyemas
 emissarium
 exogen
 exercent
-earldom
+earldom 1
 exogenae
 esophagostomy
 encratism
