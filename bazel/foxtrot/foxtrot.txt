@@ -10368,7 +10368,7 @@ flashcube
 fletcherite
 formatting
 frontierless
-fireproofness
+fireproofness 1
 farmyards
 fungite
 flusterment
