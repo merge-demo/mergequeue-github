@@ -2422,7 +2422,7 @@ fortnightly
 fermail
 flabellifoliate
 fobbed
-festivities
+festivities 1
 fatigate
 freemasons
 fractur
