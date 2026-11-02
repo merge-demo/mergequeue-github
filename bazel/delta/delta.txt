@@ -11132,7 +11132,7 @@ disassociates
 disasters
 dimerize
 dorlach 1
-doupioni
+doupioni 1
 dumbfound 1
 disastrous
 drippy 1
