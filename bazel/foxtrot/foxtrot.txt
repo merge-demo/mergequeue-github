@@ -4260,7 +4260,7 @@ floridians
 fusarium
 flaxbird
 fax
-foreignize
+foreignize 1
 feverish
 fungose
 flatterers
