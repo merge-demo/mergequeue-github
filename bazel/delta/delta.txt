@@ -2054,7 +2054,7 @@ dramaturge
 desiatin
 disaccommodate
 downhanging
-decay
+decay 1
 dadding
 dramas
 dessiatine
