@@ -5068,7 +5068,7 @@ disfigures
 dextrogyrate
 denaturization
 disparaging
-desensitizers
+desensitizers 1
 dendraspis
 doomwatcher
 daler

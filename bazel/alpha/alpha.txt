@@ -4947,7 +4947,7 @@ argumentatory
 apterygogenea
 acetometric
 archdeacon
-astrogator
+astrogator 1
 aerolites
 avulsions
 admonitioner
