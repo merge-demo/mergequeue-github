@@ -6235,7 +6235,7 @@ fractionating
 fluffiness
 flexography
 flugel
-frettingly
+frettingly 1
 foreleg
 flatlet 1
 fiji
