@@ -13183,7 +13183,7 @@ excubitorium
 entailment
 embroil
 enties
-expiation
+expiation 1
 ensilate
 expiational
 expiators
