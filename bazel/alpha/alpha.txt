@@ -6516,7 +6516,7 @@ admonitions 1
 aminoethionic
 arienzo
 ahuaca
-acridane
+acridane 1
 ahull
 ascomata
 anacrustic
