@@ -1728,7 +1728,7 @@ enginery
 engrammatic
 exasper
 exclaimers
-exonerated
+exonerated 1
 epacmaic
 eyelash
 euroclydon
