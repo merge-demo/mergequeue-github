@@ -23328,7 +23328,7 @@ consumptional
 consumptions
 consumptive
 consumptively
-coordinates
+coordinates 1
 consumptives
 consute
 crambinae
