@@ -7705,7 +7705,7 @@ gest
 graduands
 geopolitic
 girning
-galvanized
+galvanized 1
 gunpowderous
 globus
 geomyid
