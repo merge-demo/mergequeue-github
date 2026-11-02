@@ -10811,7 +10811,7 @@ goblinism
 gonenesses
 glasshouse
 glibbery
-gossipping
+gossipping 1
 geniolatry
 goldtail
 glaring
