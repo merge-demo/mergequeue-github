@@ -2504,7 +2504,7 @@ declaim
 dichorisandra
 dresser
 declaimer
-dilaters
+dilaters 1
 declamatory
 dateable
 decibar
