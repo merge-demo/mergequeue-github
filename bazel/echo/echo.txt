@@ -10593,7 +10593,7 @@ euclidian
 exhalant
 eucone
 eucopepoda
-electrotechnic
+electrotechnic 1
 eucosmidae
 ecstasis
 expensing
