@@ -9048,7 +9048,7 @@ bonzery
 basking
 bipectinated
 biopotential
-biopsy
+biopsy 1
 biopsic
 bailliage
 byssaceous
