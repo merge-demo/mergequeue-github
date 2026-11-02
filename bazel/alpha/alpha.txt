@@ -18285,7 +18285,7 @@ anacatharsis
 avails
 arabophil
 araca
-acridine
+acridine 1
 absinthism
 apostatising
 austenitize
