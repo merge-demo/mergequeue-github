@@ -490,7 +490,7 @@ abiuret
 abjectedness
 attriting
 aueto
-abjections
+abjections 1
 abjective
 actinosoma
 aweless

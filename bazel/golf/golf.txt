@@ -9768,7 +9768,7 @@ gasworks
 gluttonizing
 gradino
 goonda
-gastriloquial
+gastriloquial 1
 gelatinous
 gregarine
 gonochorismus
