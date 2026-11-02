@@ -955,7 +955,7 @@ fabrile
 frondation
 fruitling
 farceuses
-flenched 1
+flenched 2
 facetiousness
 fluorids
 frape
