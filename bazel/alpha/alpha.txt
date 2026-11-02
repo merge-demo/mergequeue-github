@@ -17131,7 +17131,7 @@ apographical
 antibreakage
 autosensitization
 apoidea
-astucity
+astucity 1
 agricultural
 apoious
 antihistorical
