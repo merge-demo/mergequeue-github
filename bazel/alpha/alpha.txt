@@ -15703,7 +15703,7 @@ aurothiosulphate
 antiparallel
 androidal
 algieba
-anomer
+anomer 1
 amphitokous
 antiparallelogram
 anisomeric
