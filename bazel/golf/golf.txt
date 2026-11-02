@@ -2558,7 +2558,7 @@ gingle
 grue
 generations
 gastrula
-gobangs
+gobangs 1
 ganch
 generalities
 grig
