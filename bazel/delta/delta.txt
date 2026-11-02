@@ -18429,7 +18429,7 @@ duplation
 downrush
 dukkha
 dedicatedly
-duplexers
+duplexers 1
 duplication
 dogsbody
 dogey
