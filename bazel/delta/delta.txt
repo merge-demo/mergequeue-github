@@ -1338,7 +1338,7 @@ dault
 docetic
 dysteleologically
 departure
-daundering
+daundering 1
 daitya
 didappers
 daunt
