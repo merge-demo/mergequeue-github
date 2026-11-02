@@ -1802,7 +1802,7 @@ excrement
 embrutes
 epigonism
 enfranch
-eyespots
+eyespots 1
 epexegetically
 eyewaiter
 eogaea
