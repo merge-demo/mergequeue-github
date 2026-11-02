@@ -2897,7 +2897,7 @@ gustation
 gradualism 1
 gumpheon
 gomlah
-globulite
+globulite 1
 gaincope
 gomphoses
 gastrorrhagia
