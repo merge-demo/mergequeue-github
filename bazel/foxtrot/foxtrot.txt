@@ -2622,7 +2622,7 @@ ferio
 farandmen
 foraminated
 folkfree
-frowzier
+frowzier 1
 ferruginating
 fulful 1
 flashly
