@@ -3131,7 +3131,7 @@ duxes
 disestablisher
 disbodied
 demihuman
-defamy
+defamy 1
 delegating
 desmoneme
 delicious
