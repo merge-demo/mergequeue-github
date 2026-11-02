@@ -6978,7 +6978,7 @@ garrigue
 garhwali
 groundsman
 gastroepiploic
-geswarp
+geswarp 1
 generalism
 goof
 goofah
