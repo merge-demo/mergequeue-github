@@ -3112,7 +3112,7 @@ actinostereoscopy
 azthionium
 avowableness
 arthrodia
-aequipalpia
+aequipalpia 1
 actinostome
 abrachias
 apiculation
