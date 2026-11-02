@@ -12010,7 +12010,7 @@ exclaves
 excavational
 expensed
 eryngium
-everyone
+everyone 1
 enterfeat
 exampleship
 essentials
