@@ -23265,7 +23265,7 @@ attorney
 accumulator
 arrhythmias
 attorneydom
-assenters
+assenters 1
 attracts
 ambulacra
 anticorrosive
