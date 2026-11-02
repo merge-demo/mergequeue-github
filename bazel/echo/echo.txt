@@ -2784,7 +2784,7 @@ eutropic
 equipartition
 epidiplosis
 eighteenmo
-economicalness
+economicalness 1
 encroach
 empalement
 elementalistic
