@@ -2467,7 +2467,7 @@ garbure
 gemote
 genouillere 1
 glassing
-gourinae
+gourinae 1
 gemsbuck
 guardful
 greasy
