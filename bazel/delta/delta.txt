@@ -1759,7 +1759,7 @@ diphenan
 dividend
 diphyllobothrium
 deathtrap
-devocalization
+devocalization 1
 drof
 deathward
 dikaryon
