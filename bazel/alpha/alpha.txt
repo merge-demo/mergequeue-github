@@ -10990,7 +10990,7 @@ autosled
 arbitre
 amoraim
 antidivorce
-amoral
+amoral 1
 arresters
 amoralist
 amorally
