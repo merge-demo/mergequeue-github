@@ -11625,7 +11625,7 @@ funestal
 finestiller
 forehew
 fustigatory
-fumy
+fumy 1
 friendship
 forwake
 fetlow
