@@ -6719,7 +6719,7 @@ fogo
 frescoists
 fighters
 feast
-forelegs
+forelegs 1
 fogon
 fogproof
 frugally
