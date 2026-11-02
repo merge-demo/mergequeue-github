@@ -2961,7 +2961,7 @@ forefault
 forworden
 flicks
 faddists
-fingerparted
+fingerparted 1
 formicina
 finches
 floodlike
