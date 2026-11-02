@@ -10193,7 +10193,7 @@ dingleberry
 dingled
 dreidl
 denuclearize
-decemvirs
+decemvirs 1
 dingman
 doven
 dings
