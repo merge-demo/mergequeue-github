@@ -1520,7 +1520,7 @@ fleecing
 foamers
 franklinite
 fattenable
-fauntleroy
+fauntleroy 1
 frankability
 flagellaria
 freely
