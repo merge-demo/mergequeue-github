@@ -17078,7 +17078,7 @@ apodeipnon
 apodema
 austenitizing
 adiabolist
-asperated
+asperated 1
 antistes
 administrant
 atomic
