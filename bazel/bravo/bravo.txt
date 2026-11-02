@@ -1458,7 +1458,7 @@ breathtaking
 beryllonite
 balker
 bastardise
-balkiest
+balkiest 1
 byronize
 balkiness
 balking
