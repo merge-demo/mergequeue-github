@@ -12151,7 +12151,7 @@ decalin
 duckiest
 deprecation
 dreggy
-denitrificant
+denitrificant 1
 dramaturgy
 disturbant
 desulfuration
