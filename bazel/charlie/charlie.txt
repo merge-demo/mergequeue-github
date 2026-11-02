@@ -18303,7 +18303,7 @@ chamaeleontidae
 caesaropapism
 cofounds
 cofreighter
-cofunction
+cofunction 1
 cretification
 cogencies
 cogener
