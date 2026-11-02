@@ -10583,7 +10583,7 @@ disesteemed
 dependable
 debouched
 decorticate
-despotist
+despotist 1
 diplogenesis
 diagonalize
 deseam
