@@ -360,7 +360,7 @@ flyingly
 fellers
 flattering
 fiercening
-faults
+faults 1
 featherway
 finspot
 fungales
