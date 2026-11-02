@@ -12040,7 +12040,7 @@ cooee
 chortosterol
 chaunters
 champlev
-choruses
+choruses 1
 chorusing
 chanceries
 crisp
