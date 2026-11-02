@@ -1452,7 +1452,7 @@ fatuus
 frankly
 fairtime
 fantasie
-filago
+filago 1
 fireside
 faubourgs
 focussing
