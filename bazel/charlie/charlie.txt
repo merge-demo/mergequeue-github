@@ -2856,7 +2856,7 @@ catapult
 carboxyhemoglobin
 cetorhinoid
 canonizer
-canonizes
+canonizes 1
 canonizing
 churchreeve
 canonry
