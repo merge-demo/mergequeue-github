@@ -4437,7 +4437,7 @@ eternized
 electrophysiologic
 excentrical
 endenizen
-extispices
+extispices 1
 enthymeme
 e
 espacement
