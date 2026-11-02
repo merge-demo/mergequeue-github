@@ -7006,7 +7006,7 @@ despoiler
 disabilities
 despoilers
 decongest
-decamps
+decamps 1
 discreditably
 disjasket
 dogfaces
