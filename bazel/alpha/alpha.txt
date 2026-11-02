@@ -8732,7 +8732,7 @@ abscind
 accusatival
 aliya
 antiteetotalism
-anticommunism
+anticommunism 1
 aminopolypeptidase
 alleviatingly
 alleviative
