@@ -2670,7 +2670,7 @@ bollixes
 begrimming
 bututs
 barmaster
-bergalith
+bergalith 1
 benzoic
 brutus
 barmcloth
