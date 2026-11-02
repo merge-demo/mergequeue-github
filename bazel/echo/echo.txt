@@ -1067,7 +1067,7 @@ exterritorial
 enshrouded
 embryonically
 edgrow
-encephaloscope
+encephaloscope 1
 enormous
 ead
 ensanguining
