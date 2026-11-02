@@ -1249,7 +1249,7 @@ futteret
 fama
 favella
 forevouch
-femalize
+femalize 1
 fatuate
 fearful
 flatten
