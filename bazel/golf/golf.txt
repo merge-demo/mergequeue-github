@@ -9419,7 +9419,7 @@ gramps
 gingerliness
 glycollide
 gabionage
-groupies
+groupies 1
 ghastfully
 grouchiness
 geminally
