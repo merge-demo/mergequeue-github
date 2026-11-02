@@ -12707,7 +12707,7 @@ chuet
 chueta
 compellation
 chufas
-cinenchymatous
+cinenchymatous 1
 ceratomania
 crinite
 catakinesis
