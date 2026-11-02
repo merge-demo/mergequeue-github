@@ -13768,7 +13768,7 @@ extoling
 epitympanum
 edingtonite
 edestosaurus
-epiphysary
+epiphysary 1
 enserfing
 ecorch
 extolling
