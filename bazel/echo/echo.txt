@@ -4339,7 +4339,7 @@ eloquence
 exclaustration
 enamelist
 enamelless
-eluder
+eluder 1
 emit
 edibles
 enami
