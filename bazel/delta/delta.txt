@@ -6924,7 +6924,7 @@ dirgeful
 despairful
 doctrinism
 diplegia
-diarthroses
+diarthroses 1
 dunamis
 dehydrogenating
 despairfully
