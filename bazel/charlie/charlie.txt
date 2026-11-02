@@ -13291,7 +13291,7 @@ contributes
 cyclomyaria
 cyclonal
 contravention
-cyclone
+cyclone 1
 cyclonic
 cyclonite
 cyclonology
