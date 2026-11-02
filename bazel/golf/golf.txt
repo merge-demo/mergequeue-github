@@ -1978,7 +1978,7 @@ glamor
 gallamine
 gnomonical
 gimbal
-geology
+geology 1
 geranic
 goring
 grubroot
