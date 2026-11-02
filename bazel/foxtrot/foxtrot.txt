@@ -2542,7 +2542,7 @@ foresightful
 falerno
 foreconceive
 fairyhood
-funduck
+funduck 1
 ferryboat
 fatties
 fitchews
