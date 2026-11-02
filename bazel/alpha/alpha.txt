@@ -11704,7 +11704,7 @@ aruspex
 anaesthetization
 ayme
 artal
-anaesthetize
+anaesthetize 1
 apodidae 1
 anaesthetized
 anaesthetizer
