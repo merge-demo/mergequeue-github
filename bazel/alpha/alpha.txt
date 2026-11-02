@@ -5195,7 +5195,7 @@ authoritarianism
 amores
 affectations
 affected
-adorners
+adorners 1
 affectibility
 affecting
 aerophore
