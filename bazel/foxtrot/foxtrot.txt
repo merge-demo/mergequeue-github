@@ -10015,7 +10015,7 @@ foollike
 flans
 fringehead
 fringelet
-fruitier
+fruitier 1
 fringent
 feminacy
 fringetail
