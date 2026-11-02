@@ -30774,7 +30774,7 @@ cuittling
 cujam
 cuke
 culavamsa
-credits
+credits 1
 coxcombicality
 chryslers
 counterintrigue
