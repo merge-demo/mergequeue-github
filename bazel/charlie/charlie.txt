@@ -27244,7 +27244,7 @@ counterworking
 committee
 carminative
 counting
-clothespress
+clothespress 1
 countinghouse
 conflagrating
 countywide
