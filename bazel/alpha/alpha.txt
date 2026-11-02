@@ -11966,7 +11966,7 @@ anlaces
 aeolotropy
 ajee
 antimitotic
-anaplasma
+anaplasma 1
 anaplasty
 arrogatingly
 anosmia
