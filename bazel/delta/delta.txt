@@ -13490,7 +13490,7 @@ disquietedness
 demoid
 dippable
 diatomite
-disruptive
+disruptive 1
 disruptor
 dada
 decagon
