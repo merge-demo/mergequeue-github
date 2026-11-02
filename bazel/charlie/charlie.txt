@@ -2374,7 +2374,7 @@ canari
 canary
 crowberry
 cogs
-companator
+companator 1
 chinbones
 canarian
 canaries
