@@ -11885,7 +11885,7 @@ excels
 eosophobia
 eternizes
 encounter
-excelsior
+excelsior 1
 eventfulness
 earthily
 emotivism
