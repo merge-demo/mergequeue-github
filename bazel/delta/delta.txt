@@ -8512,7 +8512,7 @@ dianilide
 disheritor
 dianite
 dianoetically
-decanormal
+decanormal 1
 dianoia
 dwarflike
 doings
