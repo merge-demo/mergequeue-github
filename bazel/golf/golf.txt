@@ -7210,7 +7210,7 @@ greenthumbed
 geotectonics
 give 1
 geocratic
-gape
+gape 1
 gorgosaurus
 galenism
 gorillalike
