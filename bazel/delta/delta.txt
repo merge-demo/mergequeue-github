@@ -11393,7 +11393,7 @@ dolina
 diabetic
 disciplinal
 disquisited
-droopingly
+droopingly 1
 deserted
 disciplinarians
 disquieten
