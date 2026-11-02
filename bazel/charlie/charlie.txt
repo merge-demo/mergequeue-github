@@ -18811,7 +18811,7 @@ coleslaw
 cenobian
 commend
 contemplated
-colessor
+colessor 1
 colessors
 conventionalization
 compliers
