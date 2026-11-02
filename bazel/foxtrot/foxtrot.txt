@@ -3235,7 +3235,7 @@ fictionalize
 fourcher
 foots
 friers
-frostwort
+frostwort 1
 flexionless
 fango
 fuchsone
