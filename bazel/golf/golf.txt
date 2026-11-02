@@ -4663,7 +4663,7 @@ graphophobia
 gyronny
 gamophyllous
 gyrophoraceous
-glance
+glance 1
 gringophobia
 ghafir
 geobiology
