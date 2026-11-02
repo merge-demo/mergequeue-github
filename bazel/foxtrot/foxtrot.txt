@@ -11106,7 +11106,7 @@ fundamentalists
 flatbread
 fastland
 formality
-firecrackers
+firecrackers 1
 fins
 factionate
 fundatrices
