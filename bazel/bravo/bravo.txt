@@ -2243,7 +2243,7 @@ brigid
 bijective
 bioecology
 birdclapper
-bannerwise
+bannerwise 1
 bats
 blastment
 barbarized

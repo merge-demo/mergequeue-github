@@ -20413,7 +20413,7 @@ angiosteosis
 acquiescingly
 adjutorious
 antejentacular
-antalgic
+antalgic 1
 ameliorable
 adoxy
 adorably
