@@ -19464,7 +19464,7 @@ colourative
 colourer
 colourers
 caveated
-cubage
+cubage 1
 colourfulness
 circuitmen
 congo
