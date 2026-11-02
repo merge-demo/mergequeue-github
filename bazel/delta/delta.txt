@@ -15645,7 +15645,7 @@ devotionality 1
 diverge
 diodes
 desensitizer
-downheartedly
+downheartedly 1
 dennis
 departmentalise
 detacher
