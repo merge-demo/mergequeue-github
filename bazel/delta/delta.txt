@@ -7992,7 +7992,7 @@ delicatessens
 dionaea
 dishonoured
 discording
-degummer
+degummer 1
 deemsters
 demanganize
 deliberate
