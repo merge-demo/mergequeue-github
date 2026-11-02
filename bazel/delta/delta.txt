@@ -3167,7 +3167,7 @@ defeats
 deathroot
 defeature
 debted
-daribah
+daribah 1
 discharges
 dunnock
 dyothelete
