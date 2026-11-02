@@ -1215,7 +1215,7 @@ acanthopteran
 ataunt
 airlike 1
 acanthopterygian
-adversed
+adversed 1
 acromia
 acanthopterygii
 acanthoses 1
