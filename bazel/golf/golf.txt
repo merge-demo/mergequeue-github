@@ -7950,7 +7950,7 @@ glaziery
 goodyish
 gymnurinae
 guesdist
-gymnospermy
+gymnospermy 1
 glumness
 getmjlkost
 gametogonium
