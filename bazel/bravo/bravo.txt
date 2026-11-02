@@ -9760,7 +9760,7 @@ bemixing
 biophysicochemical
 bystreet
 bistres
-boeotarch
+boeotarch 1
 brights
 borg
 bewitching
