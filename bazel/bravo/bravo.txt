@@ -6240,7 +6240,7 @@ brush
 braceleted
 bimodulus
 benni
-bennies
+bennies 1
 benomyl
 backspread
 benightedness
