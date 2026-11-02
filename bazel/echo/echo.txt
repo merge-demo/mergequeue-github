@@ -11282,7 +11282,7 @@ exterrestrial 1
 evaporability
 emanating
 enwrapped
-ectoplasy
+ectoplasy 1
 extraversive
 eutaxy
 eikonogen
