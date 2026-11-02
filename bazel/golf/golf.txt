@@ -2876,7 +2876,7 @@ guardsman
 gipser
 grasschat
 gasmetophytic
-generatrices
+generatrices 1
 gileadite
 galvvanoscopy
 gummosity
