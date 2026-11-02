@@ -18630,7 +18630,7 @@ debagging
 dagbane
 dedicatorial
 degreeless
-duty
+duty 1
 dutiability
 disdains
 downtroddenness
