@@ -20696,7 +20696,7 @@ alder
 anglophobe
 abounder
 anteroclusion
-auriculovertical
+auriculovertical 1
 atrichosis
 angami
 articularly
