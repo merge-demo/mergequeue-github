@@ -9134,7 +9134,7 @@ frusta
 fooner
 fracid 1
 frizzier
-foreshadows
+foreshadows 1
 foraminulous
 footropes
 frothi
