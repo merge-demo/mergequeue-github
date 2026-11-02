@@ -6418,7 +6418,7 @@ deportment
 disadvanced 1
 derride
 derriere
-dactyli
+dactyli 1
 duster
 discriminatory
 decree
