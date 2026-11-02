@@ -7614,7 +7614,7 @@ gerenda
 garpike
 gilbertite
 gubernacula
-glacialist
+glacialist 1
 gracefuller
 gallerying
 gracilariidae
