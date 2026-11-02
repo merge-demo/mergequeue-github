@@ -28263,7 +28263,7 @@ calumets
 craspedotal
 clat
 calcar
-colons
+colons 1
 crassest
 conspiratory
 certioration
