@@ -10976,7 +10976,7 @@ eoan
 emydea
 estufa
 eupsychics
-eurafric
+eurafric 1
 epigastric
 eurasianism
 eremites
