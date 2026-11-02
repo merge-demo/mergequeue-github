@@ -6300,7 +6300,7 @@ arcato
 aratory
 acrocyanosis
 aylet
-ashur
+ashur 1
 agraria
 amyelonic
 aerotactic
