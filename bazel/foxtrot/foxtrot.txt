@@ -8165,7 +8165,7 @@ fribbling
 fideicommissor
 foundlings
 fingerboards
-fuliginous
+fuliginous 1
 fidgeting
 fulicinae
 foreverness 1
