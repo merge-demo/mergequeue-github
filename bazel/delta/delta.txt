@@ -10493,7 +10493,7 @@ diphthongisation
 deisticalness
 dozent
 dalar
-daglock
+daglock 1
 disembodies
 diphthongize
 diazoalkane
