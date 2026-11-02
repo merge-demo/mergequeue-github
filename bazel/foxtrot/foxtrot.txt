@@ -4159,7 +4159,7 @@ flying
 fiendishly
 fraticelli
 firebomb
-fakiness
+fakiness 1
 firebombing
 fairlike
 fractionlet
