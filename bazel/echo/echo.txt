@@ -10904,7 +10904,7 @@ ethanoyl
 esthete
 electromuscular
 eastlander
-eanlings
+eanlings 1
 eudemian
 easternize
 enterokinase
