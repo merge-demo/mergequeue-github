@@ -8615,7 +8615,7 @@ espavel
 equielliptical
 equigranular
 equilateral
-eriogonum
+eriogonum 1
 equilibrant
 extractively
 enframe
