@@ -11360,7 +11360,7 @@ eupnoeic
 enervative
 exhaustibility
 evaluating
-emergers
+emergers 1
 extenders
 exigency
 ethnohistory
