@@ -3579,7 +3579,7 @@ capulin
 caputium
 caque
 condemnor
-chewiest
+chewiest 1
 cooping
 caqueterie
 corniest 1
