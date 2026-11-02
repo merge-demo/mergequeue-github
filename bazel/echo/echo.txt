@@ -9716,7 +9716,7 @@ empathize
 european
 essart
 edulcorative
-esse
+esse 1
 evangelizing
 elementarism
 embryol
