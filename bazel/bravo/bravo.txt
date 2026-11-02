@@ -779,7 +779,7 @@ beeline
 biometrical
 bethorn
 blackout
-basilidan
+basilidan 1
 building
 baedekerian 1
 baphometic
