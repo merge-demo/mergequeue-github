@@ -20468,7 +20468,7 @@ arteriectopia
 ananda
 arteried
 absey
-astate
+astate 1
 alaunian
 axers
 adjectivally
