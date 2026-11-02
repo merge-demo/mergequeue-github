@@ -1058,7 +1058,7 @@ eringos
 eagerly
 exsheath
 edged
-eidolon
+eidolon 1
 edger
 edgeshot 1
 edgeway
