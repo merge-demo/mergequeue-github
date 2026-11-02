@@ -8728,7 +8728,7 @@ autohybridization
 aread
 alleviated
 abnormalizing
-abscind
+abscind 1
 accusatival
 aliya
 antiteetotalism
