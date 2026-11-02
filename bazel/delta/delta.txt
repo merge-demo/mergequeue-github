@@ -5253,7 +5253,7 @@ dynamogenously
 devalued
 denouncement
 denouncements
-digladiate
+digladiate 1
 deprehensible
 denouncer
 dissymmetry
