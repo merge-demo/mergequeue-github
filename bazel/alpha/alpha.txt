@@ -13323,7 +13323,7 @@ anisophylly
 anisophyllous
 afterchurch
 accompanied
-apace
+apace 1
 atmosphered
 asbestus
 anisopod
