@@ -4882,7 +4882,7 @@ blanket
 boucl
 ballot
 bedwarfing
-bigotty
+bigotty 1
 bubukle
 burglarproof
 beebee
