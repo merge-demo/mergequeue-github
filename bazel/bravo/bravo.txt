@@ -3834,7 +3834,7 @@ bauxite
 balsamically
 blistery 1
 blvd
-bulgur
+bulgur 1
 balsas
 bohireen
 bowdlerizations
