@@ -11340,7 +11340,7 @@ deftly
 dupioni
 discerped
 discontinued
-dowset
+dowset 1
 deambulatories
 davens
 deprivate
