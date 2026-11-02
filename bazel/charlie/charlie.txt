@@ -6031,7 +6031,7 @@ cylindroogival
 catholicoi
 catholicon
 clinkers
-catholicos
+catholicos 1
 curarize
 coraciiform
 cleg
