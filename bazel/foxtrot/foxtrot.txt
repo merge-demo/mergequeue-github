@@ -8531,7 +8531,7 @@ foramen
 forinsec
 fream
 fraxetin
-feastly
+feastly 1
 futuristically
 foreseeing
 foremisgiving
