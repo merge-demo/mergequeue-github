@@ -11956,7 +11956,7 @@ apectomy
 anaphyte
 alkoxide
 acron
-abodement
+abodement 1
 ampelite
 admixes
 azeotropy
