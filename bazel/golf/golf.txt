@@ -3611,7 +3611,7 @@ gantries
 glack
 gawkiness
 galleriidae
-glovers
+glovers 1
 galactoid
 goetae
 gynaecology
