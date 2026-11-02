@@ -15710,7 +15710,7 @@ bolder
 blithesomeness
 brocardic
 biaxially
-bardee
+bardee 1
 brocatelle
 beowulf
 brocatello
