@@ -2266,7 +2266,7 @@ favn
 feluccas
 ficoid
 facaded
-florentinism
+florentinism 1
 flatulence
 firebombed
 fumaria
