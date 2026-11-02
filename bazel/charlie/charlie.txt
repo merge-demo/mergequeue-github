@@ -3312,7 +3312,7 @@ colonizes
 capnomancy
 capnomor
 cirripede
-cowgram
+cowgram 1
 connivant
 celli
 colleri
