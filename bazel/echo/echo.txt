@@ -2498,7 +2498,7 @@ ebony
 epicleses
 endexines
 ecocide
-emotionalise
+emotionalise 1
 electroing
 electrokinetic
 eluviate
