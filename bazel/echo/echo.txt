@@ -13745,7 +13745,7 @@ extinguisher
 extinguishers 1
 entoptically
 ectoplasm
-extipulate 1
+extipulate 2
 eryngoes
 enouncing
 emberizine 1
