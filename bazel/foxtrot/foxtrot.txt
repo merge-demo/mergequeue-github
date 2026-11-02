@@ -6055,7 +6055,7 @@ flewed
 familiarize
 fateful
 floriation
-freet
+freet 1
 fertilize
 frizz
 flunkeyize
