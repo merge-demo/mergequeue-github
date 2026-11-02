@@ -4178,7 +4178,7 @@ fluophosphate
 foreaccounting
 fumago
 frier
-forecloses
+forecloses 1
 franchisor
 fining
 filaria
