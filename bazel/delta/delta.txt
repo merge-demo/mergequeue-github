@@ -14769,7 +14769,7 @@ docity
 discords
 deplaster
 dodonaea
-dilatancy
+dilatancy 1
 discutable
 docker
 disaccharidase
