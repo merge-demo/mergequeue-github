@@ -1645,7 +1645,7 @@ befur
 ballstock
 ballup
 ballweed
-botony
+botony 1
 balmarcodes
 balmawhapple
 bimodality
