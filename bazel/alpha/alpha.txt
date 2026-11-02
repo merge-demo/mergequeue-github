@@ -19294,7 +19294,7 @@ arenosity
 areographical
 areolae
 anteriors
-aluminothermics
+aluminothermics 1
 areolas
 areocentric
 areolated
