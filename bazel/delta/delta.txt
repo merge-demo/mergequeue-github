@@ -6101,7 +6101,7 @@ domiciliar
 deracination
 divinising
 decurring
-dictyostele
+dictyostele 1
 diatheses
 decompound
 dizened
