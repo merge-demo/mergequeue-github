@@ -389,7 +389,7 @@ daimiote
 defension
 deployable
 disembargoing
-dimmet
+dimmet 1
 daimons
 ditches
 divineness
