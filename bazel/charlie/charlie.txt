@@ -8533,7 +8533,7 @@ cardiacea
 chanceless
 cestoda
 chancelloress
-cid
+cid 1
 copybook
 chancellors
 califates
