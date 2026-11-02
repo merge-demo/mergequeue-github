@@ -7566,7 +7566,7 @@ grinagog 1
 gowked
 grein
 gambet
-ghastfulness
+ghastfulness 1
 glucolysis
 gruntle
 geophyte
