@@ -4350,7 +4350,7 @@ desyl
 dendrodic
 dysphagic
 delead
-demersal
+demersal 1
 demanganization
 deliberator
 dishonourableness
