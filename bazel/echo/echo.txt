@@ -8075,7 +8075,7 @@ endamebic
 earthworks
 epineural
 euphrasy
-exosporal
+exosporal 1
 empeopled
 emerize
 epiphytic
