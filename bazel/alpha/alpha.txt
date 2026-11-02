@@ -11612,7 +11612,7 @@ appassionate
 anacyclus
 asphalting
 anacid
-amal
+amal 1
 acronyc
 amarevole
 atomise
