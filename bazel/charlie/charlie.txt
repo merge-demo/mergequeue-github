@@ -18633,7 +18633,7 @@ coinheritor
 costiform
 cytozymase
 coining
-curialism
+curialism 1
 cumulophyric
 coinmate
 climatotherapeutics
