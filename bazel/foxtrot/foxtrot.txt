@@ -3072,7 +3072,7 @@ fluorin
 fusils
 filmizing
 frounceless
-freend
+freend 1
 flopping
 fibrillating
 flirters
