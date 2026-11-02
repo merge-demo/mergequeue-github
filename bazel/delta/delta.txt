@@ -16341,7 +16341,7 @@ divergently
 discinoid
 downsizing
 defensible
-discontinuable
+discontinuable 1
 dichord
 dovetails
 daylight
