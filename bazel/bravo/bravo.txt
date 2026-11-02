@@ -8034,7 +8034,7 @@ blanque
 boatman
 buckbeans
 busked
-bluntness
+bluntness 1
 bicornate
 bowery
 brutal
