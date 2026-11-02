@@ -2522,7 +2522,7 @@ flunky
 favaginous
 foulmouth
 formaldehyde
-feverlike
+feverlike 1
 frondescent
 ferrelling
 fluorine
