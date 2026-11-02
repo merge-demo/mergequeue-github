@@ -3184,7 +3184,7 @@ basiarachnoiditis
 befanned
 bauld
 bronchiarctia
-basically
+basically 1
 befriends
 basicerite
 basicity
