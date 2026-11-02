@@ -9610,7 +9610,7 @@ amarna
 agrom
 alumic
 abesse
-alumiferous
+alumiferous 1
 acroamatics 1
 autoinoculation
 assument
