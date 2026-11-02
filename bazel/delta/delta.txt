@@ -5634,7 +5634,7 @@ detainingly
 depravingly
 dorsumbonal
 deuterotokous
-dogtrick
+dogtrick 1
 dephycercal
 demounting
 demythologised
