@@ -16987,7 +16987,7 @@ americanizer
 apneumona
 apneumonous
 agrammatical
-apneusis
+apneusis 1
 apnoea
 adiaphoretic
 artificialness
