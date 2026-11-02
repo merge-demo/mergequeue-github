@@ -4346,7 +4346,7 @@ antickt
 aterian
 atelectasis
 adsmithing
-adelocerous
+adelocerous 1
 aikuchi
 autotriploid
 adsorbability
