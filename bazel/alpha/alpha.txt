@@ -20273,7 +20273,7 @@ amateurish
 afocal
 anthropomorphization
 alkalify
-arrogates
+arrogates 1
 amphiboly
 attitudinizing
 acutangular
