@@ -1258,7 +1258,7 @@ archminister
 anerythroplasia
 antemask
 androlepsia
-amay
+amay 1
 acarophobia
 acarotoxic
 arcturus
