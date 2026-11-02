@@ -12885,7 +12885,7 @@ editions
 envenoms
 echafaudage
 elucid
-escortment
+escortment 1
 erosions
 expandingly
 expansibility
