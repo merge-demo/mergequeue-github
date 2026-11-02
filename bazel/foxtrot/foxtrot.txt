@@ -1953,7 +1953,7 @@ foursquarely
 feds
 feeb
 feeblemindedly
-femaleness
+femaleness 1
 flowerlike
 festshrifts
 francia
