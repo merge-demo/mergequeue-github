@@ -13832,7 +13832,7 @@ cinerous
 cingalese
 cortinae
 corrupted
-cynghanedd
+cynghanedd 1
 catalysis
 cingle
 cauchemar
