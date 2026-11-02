@@ -441,7 +441,7 @@ anicular
 abilo
 acinetinan
 abintestate
-apathist
+apathist 1
 abiogenetical
 awkly
 abiogenetically
