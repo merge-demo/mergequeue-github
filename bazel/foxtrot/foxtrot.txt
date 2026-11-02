@@ -2699,7 +2699,7 @@ floodwall
 fishify
 flamant
 frenzies 1
-flambe
+flambe 1
 faithing
 fungused
 firebird
