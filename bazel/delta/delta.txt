@@ -17109,7 +17109,7 @@ deceleron
 decarchies 1
 drifty
 driftingly 1
-driftless
+driftless 1
 driftlessness
 drepanium
 divulging
