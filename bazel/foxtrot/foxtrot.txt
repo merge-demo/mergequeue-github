@@ -2781,7 +2781,7 @@ furriest
 festooneries
 flunkyite
 festivally
-fourieristic
+fourieristic 1
 flareboard
 floppier
 fiction
