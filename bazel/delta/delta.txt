@@ -14821,7 +14821,7 @@ decomponible
 demagogic
 doctorhood
 diethylenediamine
-doctorial
+doctorial 1
 disadjust
 demidog
 doctorially
