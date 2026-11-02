@@ -4981,7 +4981,7 @@ flyway
 feebleheartedly
 flammule
 fatidic
-flanch
+flanch 1
 formalize
 ferrugination
 forwarders
