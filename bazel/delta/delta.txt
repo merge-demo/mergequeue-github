@@ -3847,7 +3847,7 @@ didactylism
 demagnetizable
 deficiency
 dermalgia
-dubitative
+dubitative 1
 dolose
 discreate
 dimwit
