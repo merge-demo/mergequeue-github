@@ -3816,7 +3816,7 @@ fingerboard
 flyflap
 freon
 ferritization
-frizzliest
+frizzliest 1
 frocklike
 frijolillo
 filigreeing
