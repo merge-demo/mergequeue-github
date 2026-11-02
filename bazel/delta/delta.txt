@@ -7772,7 +7772,7 @@ drawler
 ductilizing
 daphnephoria
 devaluating
-devocalized
+devocalized 1
 dicyandiamide
 diptychon
 dignation
