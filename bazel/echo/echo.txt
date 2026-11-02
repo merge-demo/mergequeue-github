@@ -8426,7 +8426,7 @@ exchange
 electrizer
 evisceration
 egyptianize
-equip
+equip 1
 enjoyment
 eglogue
 endothecate
