@@ -7950,7 +7950,7 @@ enthrone
 epimanikia
 eolopile
 equivocatory
-estragol
+estragol 1
 ensilation
 expounds
 epimanikion
