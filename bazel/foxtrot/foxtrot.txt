@@ -10319,7 +10319,7 @@ faceman
 fortiori
 flexible
 frondless
-feezing
+feezing 1
 ferrado
 fantasized
 frondlet
