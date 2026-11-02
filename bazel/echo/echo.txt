@@ -1944,7 +1944,7 @@ eurypterid
 elaphe
 essenical
 ejected
-eupatorine
+eupatorine 1
 epinette
 empathically
 enthelmintha
