@@ -5382,7 +5382,7 @@ flutists
 fleche
 forelady
 folliculate
-flechettes
+flechettes 1
 flecked
 forkhead
 fleckering
