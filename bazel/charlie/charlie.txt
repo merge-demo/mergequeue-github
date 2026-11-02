@@ -15088,7 +15088,7 @@ clacking
 clacks
 clad
 confated
-characterizations
+characterizations 1
 cladanthous
 cladding
 couplet
