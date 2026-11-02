@@ -30745,7 +30745,7 @@ cuirassier
 commonplacely
 conusor
 calycophora
-cuishes
+cuishes 1
 chaps
 catheterizing
 cumberers
