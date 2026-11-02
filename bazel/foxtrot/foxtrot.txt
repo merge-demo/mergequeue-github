@@ -11366,7 +11366,7 @@ fornicated
 fremescence
 frothless 1
 foreprovision
-footways
+footways 1
 foister
 factish
 focalizing 1
