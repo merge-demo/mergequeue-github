@@ -2979,7 +2979,7 @@ elidible
 etagere
 epistasy
 eligibles
-entrecotes
+entrecotes 1
 equipede
 elbowchair
 enjoining
