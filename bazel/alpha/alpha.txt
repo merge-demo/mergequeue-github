@@ -22468,7 +22468,7 @@ astrophotographic
 astrophotometer
 astroscopy
 autocratorical
-astroscopus
+astroscopus 1
 astrospectral
 acrasiaceae
 adversion
