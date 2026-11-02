@@ -20490,7 +20490,7 @@ cobwebbiest
 chinchiest
 coasting
 compassion
-compassionate
+compassionate 1
 couthiness
 compassionately
 candidateship
