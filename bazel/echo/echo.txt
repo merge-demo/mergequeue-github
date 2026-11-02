@@ -731,7 +731,7 @@ engrossingness
 enormity
 economized
 enharmonical
-elucidated
+elucidated 1
 esthesises
 edifice
 extramolecular
