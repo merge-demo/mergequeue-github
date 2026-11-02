@@ -18790,7 +18790,7 @@ acneform
 archeolithic
 ankhs
 archeopteryx
-anastomose
+anastomose 1
 archerfishes
 auctioneers
 afflict
