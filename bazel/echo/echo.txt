@@ -67,7 +67,7 @@ einkorns
 empaneling
 earliest
 enfilading
-eastness
+eastness 1
 etiam
 entapophysial
 educationalism
