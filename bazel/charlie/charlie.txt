@@ -11727,7 +11727,7 @@ chondriomere
 chondriosphere
 connaturally
 cacophony
-chondrites
+chondrites 1
 chondritic 1
 chondroalbuminoid
 chondroangioma
