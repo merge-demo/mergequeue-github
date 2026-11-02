@@ -16533,7 +16533,7 @@ bequeathal
 birr
 bishops
 budzat
-bandeaux
+bandeaux 1
 broadpiece
 bisellium
 bisonant
