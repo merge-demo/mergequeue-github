@@ -7791,7 +7791,7 @@ bargemaster
 biography
 blessedest
 ballasts 1
-burrow
+burrow 1
 biauricular
 backhouse
 bedstock
