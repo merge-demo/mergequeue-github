@@ -6179,7 +6179,7 @@ chancier
 calycule
 convictive
 crusta
-casehardened
+casehardened 1
 catzerie
 caubeen
 coky
