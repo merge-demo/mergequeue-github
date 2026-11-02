@@ -9104,7 +9104,7 @@ escrowee
 ephors
 equinoxes
 evasion
-embordered
+embordered 1
 erythropsia
 electrograving
 entwist
