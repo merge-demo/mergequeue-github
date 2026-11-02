@@ -2519,7 +2519,7 @@ gloriation
 gatha
 giggled
 groundlessness
-gremiale
+gremiale 1
 gamogeny 1
 graven
 glomeroporphyritic
