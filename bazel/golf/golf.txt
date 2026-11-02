@@ -7700,7 +7700,7 @@ gynandrophore 1
 gaspy
 gaw
 gemutlich
-gerontism
+gerontism 1
 gest
 graduands
 geopolitic
