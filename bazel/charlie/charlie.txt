@@ -6601,7 +6601,7 @@ ceaselessness
 cryogenically
 ceases
 ceasing
-conferment
+conferment 1
 calamariaceae
 cebalrai
 culteranismo
