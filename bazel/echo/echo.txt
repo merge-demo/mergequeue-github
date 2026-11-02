@@ -3597,7 +3597,7 @@ eventerate
 exhibitable
 euclea
 egocerus
-exemplifies
+exemplifies 1
 extravehicular
 emulable
 embowelling
