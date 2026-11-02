@@ -22183,7 +22183,7 @@ astyanax
 astigmat
 aeroneurosis
 angelicize
-adolescents
+adolescents 1
 alloplastic
 absorbedly
 astigmatometer
