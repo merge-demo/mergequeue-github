@@ -2397,7 +2397,7 @@ exognathion
 etherealisation
 exauthorize
 excentricity
-electroscopes
+electroscopes 1
 ethnotechnics
 epicaridan
 electrodeless
