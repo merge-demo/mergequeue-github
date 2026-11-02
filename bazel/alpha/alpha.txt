@@ -16757,7 +16757,7 @@ aphanitic
 aphetize 1
 armours
 adiposity
-aphidivorous
+aphidivorous 1
 aphidolysin
 autopsychorhythmia
 aphodi
