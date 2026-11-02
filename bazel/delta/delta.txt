@@ -17700,7 +17700,7 @@ dilemmic
 dullhearted
 dynamometer
 dotal
-dwarves
+dwarves 1
 deuteroelastose
 decaffeinating
 disinvestiture
