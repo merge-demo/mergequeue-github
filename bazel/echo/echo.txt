@@ -3646,7 +3646,7 @@ epitrachelion 1
 embread
 entrepeneurs
 ejector
-expellant
+expellant 1
 edna
 egads
 epilatory
