@@ -3180,7 +3180,7 @@ divots
 draughtily
 defectible
 defecting
-dezincified
+dezincified 1
 distaff
 doltishness
 depolarizes
