@@ -11815,7 +11815,7 @@ disembrangle
 deferrals
 dislodges
 discriminoid
-decemberly
+decemberly 1
 diacodion
 disgregate
 dyscrinism
