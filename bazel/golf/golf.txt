@@ -814,7 +814,7 @@ goldenrods
 gyppo
 gletty
 galoots
-granose
+granose 1
 ginney
 gnarring
 gramp
