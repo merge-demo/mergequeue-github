@@ -11283,7 +11283,7 @@ foregut
 femmes
 fogy
 fiscalize
-flurrying
+flurrying 1
 footwear
 farcing
 fourfold
