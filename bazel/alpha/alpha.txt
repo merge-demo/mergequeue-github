@@ -22242,7 +22242,7 @@ apologetic
 aspasia
 ariled
 aerier
-atropinize
+atropinize 1
 alnath
 anvasser
 adeption
