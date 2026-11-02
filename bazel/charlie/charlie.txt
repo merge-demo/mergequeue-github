@@ -19584,7 +19584,7 @@ columellia
 columelliaceae
 columels
 columna
-columnal
+columnal 1
 camphors
 columnarian
 calamaries
