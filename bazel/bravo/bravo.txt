@@ -7442,7 +7442,7 @@ bulbar
 bebeerine
 bifidities
 brew 1
-barbeau
+barbeau 1
 bookstack
 budgeting
 balmier
