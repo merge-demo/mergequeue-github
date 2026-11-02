@@ -6572,7 +6572,7 @@ fissions
 fo
 fireproofed
 fuciphagous
-foalfoots
+foalfoots 1
 ficula
 futurism
 firebrand
