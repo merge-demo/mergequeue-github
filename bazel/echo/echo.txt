@@ -9362,7 +9362,7 @@ escalations
 enkindle
 expectedly
 earmindedness 1
-escalator
+escalator 1
 excommunicable
 ergonomics
 eupepsia
