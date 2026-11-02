@@ -9452,7 +9452,7 @@ fico
 flamens
 fratry
 fountainheads
-flippery
+flippery 1
 furnaceman
 fulcrate 1
 flounderingly
