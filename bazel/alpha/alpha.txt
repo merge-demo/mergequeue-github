@@ -22189,7 +22189,7 @@ absorbedly
 astigmatometer
 atrocoeruleus
 asthenosphere
-astigmatometry
+astigmatometry 1
 acheer
 arthroncus
 accruals
