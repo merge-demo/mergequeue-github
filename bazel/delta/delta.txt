@@ -9313,7 +9313,7 @@ diluvions
 depilation
 dietrichite
 duvetine
-dyeware
+dyeware 1
 delisted 1
 dashiest
 dyeweed
