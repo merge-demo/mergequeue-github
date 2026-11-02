@@ -8177,7 +8177,7 @@ episcopized
 equanimity
 euchromatin
 extemporalness
-expedientist
+expedientist 1
 evelong
 eyl
 essayette
