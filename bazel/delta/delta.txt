@@ -9012,7 +9012,7 @@ dodecuplet
 dicodeine
 dicoelious
 dicolon
-disbar
+disbar 1
 dudine
 dicotyledonous
 dicotyles
