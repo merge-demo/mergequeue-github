@@ -3718,7 +3718,7 @@ alcoothionic
 agillawood
 adversative
 annihilating
-awfully
+awfully 1
 asystematic
 acknowledges
 astigmatical
