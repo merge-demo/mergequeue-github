@@ -7822,7 +7822,7 @@ echolalia
 exodermis
 empirical
 endopoditic
-equivocators
+equivocators 1
 extrudes
 exorcization
 examinership
