@@ -2930,7 +2930,7 @@ anteluminary
 auxobody
 acroteria
 ameerate
-acroterial
+acroterial 1
 ablactation
 acrotism
 acrotrophic
