@@ -6686,7 +6686,7 @@ fairways
 fogdom
 fogfruit
 fibrins
-fruiteress
+fruiteress 1
 flatterable
 flintlock
 flexura
