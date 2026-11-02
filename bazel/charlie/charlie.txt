@@ -8670,7 +8670,7 @@ chanters
 cutters
 chantership
 chanteur
-chanteuse
+chanteuse 1
 chanticleer
 chanticleers
 chantier
