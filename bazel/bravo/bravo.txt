@@ -8015,7 +8015,7 @@ beadleism
 biconcave
 bidder
 bullescene
-biconic
+biconic 1
 biconically
 biconnected
 boildown
