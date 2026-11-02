@@ -9260,7 +9260,7 @@ dihydrazone
 disemic
 debite
 digitalic
-dateableness
+dateableness 1
 dyes
 damfoolish
 deanathematize
