@@ -10883,7 +10883,7 @@ ammonoids
 ammonolitic
 assemblage
 archeological
-ammonolytic
+ammonolytic 1
 aitches
 anticult
 allonymously
