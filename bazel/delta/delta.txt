@@ -97,7 +97,7 @@ delater
 depark
 demibrute
 dictyoceratine
-dreadfulness
+dreadfulness 1
 daffery
 dactylosymphysis
 deliriant
