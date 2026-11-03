@@ -2660,7 +2660,7 @@ exemplarity
 ethnocentrism
 electrosmosis
 excelling
-exegetist
+exegetist 1
 enquiries 1
 electrosteel
 epispadiac
