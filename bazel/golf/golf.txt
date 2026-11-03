@@ -7435,7 +7435,7 @@ greable
 gynecophore
 guanins
 gou
-gyrometer
+gyrometer 1
 goodmen
 grimacingly
 glasswork
