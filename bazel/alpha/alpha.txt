@@ -4785,7 +4785,7 @@ agrologically
 aeric
 alligate
 aerifaction
-adenoses
+adenoses 1
 ahimsa
 atrichia
 apalachee
