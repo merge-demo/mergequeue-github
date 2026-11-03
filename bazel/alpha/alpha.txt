@@ -3724,7 +3724,7 @@ acknowledges
 astigmatical
 adequacies
 adequate
-acclivity
+acclivity 1
 almuerzo
 appenage
 annum
