@@ -5132,7 +5132,7 @@ ectozoan
 epitomical
 emuls
 embracingness
-encysted
+encysted 1
 electrosensitive
 emanatistic
 epilogic
