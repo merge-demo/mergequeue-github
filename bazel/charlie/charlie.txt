@@ -10199,7 +10199,7 @@ chiaroscuros
 chuvash
 coulis
 chias
-cheesecakes
+cheesecakes 1
 chiasma
 cotesian
 chloasmata
