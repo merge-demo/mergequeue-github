@@ -10172,7 +10172,7 @@ ambulated
 atropinism
 alkalimetrically
 anisogamy
-aminded
+aminded 1
 avulsion
 artotyrite
 ambulator
