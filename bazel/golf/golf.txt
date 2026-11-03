@@ -10519,7 +10519,7 @@ garn
 goblinry
 gundie
 graspingness
-galipots
+galipots 1
 goladar
 girl
 geometrina
