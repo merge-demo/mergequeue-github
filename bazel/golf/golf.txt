@@ -8270,7 +8270,7 @@ gaseosity
 gurries
 gara
 geopolitist 1
-galenite
+galenite 1
 glissaded
 groundless
 gladii
