@@ -21412,7 +21412,7 @@ ambulantes
 apartheid
 asoka
 anthracitism
-asomatous
+asomatous 1
 ambrosially
 antarthritic
 arapaima

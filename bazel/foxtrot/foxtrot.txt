@@ -9679,7 +9679,7 @@ formulating
 facty
 femoral
 fingerroot
-functorial
+functorial 1
 filch
 filosofe
 fanit
