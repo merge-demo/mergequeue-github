@@ -2435,7 +2435,7 @@ graphotypic
 geologian
 gesticulation
 graduator
-goas
+goas 1
 gype
 grograms
 glutch
