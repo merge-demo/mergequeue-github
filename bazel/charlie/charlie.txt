@@ -26245,7 +26245,7 @@ costanoan
 costar
 costarred
 continentaler
-chuffiness
+chuffiness 1
 costata
 costated
 cloacas
