@@ -1786,7 +1786,7 @@ epigenic
 enormities
 eparchs
 erinose
-entericoid
+entericoid 1
 epigraphical
 engravers
 embankments
