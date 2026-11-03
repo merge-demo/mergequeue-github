@@ -7795,7 +7795,7 @@ emblematic
 epigastraeum
 electropneumatic
 expectably
-elementality
+elementality 1
 encyclopaedize
 engjateigur
 epigastria
