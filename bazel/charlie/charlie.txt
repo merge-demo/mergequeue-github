@@ -10990,7 +10990,7 @@ chiros
 chirospasm
 chirotherian
 casern
-corrals
+corrals 1
 comessation
 crocodilia
 counterinsurgencies
