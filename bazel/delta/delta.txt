@@ -6129,7 +6129,7 @@ diphtheroid
 derater
 dijudicant 1
 disilane
-duperies
+duperies 1
 diabantite
 deservedness
 derats
