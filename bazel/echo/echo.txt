@@ -5095,7 +5095,7 @@ eleutheria
 etudes
 enunciation
 escrod
-elevatingly
+elevatingly 1
 eavesdrop
 eclecticism
 endearingly
