@@ -6501,7 +6501,7 @@ electrolyzing
 epizoisms
 ensurance
 ensuring
-equators
+equators 1
 enswathement
 elementariness
 embowered
