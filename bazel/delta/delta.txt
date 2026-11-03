@@ -6817,7 +6817,7 @@ devilmonger 1
 desklike
 diphrelatic
 dunks
-deskman
+deskman 1
 desks
 dragade
 destined
