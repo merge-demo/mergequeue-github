@@ -16957,7 +16957,7 @@ ately
 airways
 abortus
 aplanogamete
-areally
+areally 1
 antifermentative
 aplenty
 alveolars
