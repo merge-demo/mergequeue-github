@@ -1246,7 +1246,7 @@ caprice
 cumulostratus
 camporees
 celibatist
-contender
+contender 1
 cauliferous
 calenda
 counterfaller
