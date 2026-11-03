@@ -9961,7 +9961,7 @@ besauce
 baresma
 blattidae
 brevirostral
-bawdy
+bawdy 1
 ballottine
 blairmorite
 bivalents
