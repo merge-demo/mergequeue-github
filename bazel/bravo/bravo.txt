@@ -13111,7 +13111,7 @@ bigarades
 billholder
 basophil
 bleedings
-bornane
+bornane 1
 bornean
 belows
 borneol
