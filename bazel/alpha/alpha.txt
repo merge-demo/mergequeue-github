@@ -24909,7 +24909,7 @@ awaiting
 awaitlala
 awakable
 acoelomate
-awake
+awake 1
 awakened
 apeak
 amminolysis
