@@ -1359,7 +1359,7 @@ baldakin
 bathyhypesthesia 1
 blithen
 baldcrown
-bardily
+bardily 1
 balded
 balder
 baldfaced
