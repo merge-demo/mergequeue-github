@@ -1061,7 +1061,7 @@ edged
 eidolon
 edger
 edgeshot 1
-edgeway
+edgeway 1
 embalmment
 exterritorial
 enshrouded
