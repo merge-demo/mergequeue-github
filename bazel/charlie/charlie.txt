@@ -12772,7 +12772,7 @@ chumpaka
 cyclopedic
 communalisation
 chumpish
-convertibleness
+convertibleness 1
 chumps
 chums
 cruth
