@@ -2709,7 +2709,7 @@ calcemia
 cankery
 cannoneering
 cankerroot
-cauponize
+cauponize 1
 cankers
 cultivators
 comedowns
