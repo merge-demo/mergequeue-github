@@ -11047,7 +11047,7 @@ amort
 amortizable
 algic
 assibilation
-abnormalcy
+abnormalcy 1
 amortizes
 arecaceae
 araneid
