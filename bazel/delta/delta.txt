@@ -10412,7 +10412,7 @@ dioxime
 diverges
 dioxindole
 decoyers
-dipartite
+dipartite 1
 dipartition
 dominicks
 dekkos
