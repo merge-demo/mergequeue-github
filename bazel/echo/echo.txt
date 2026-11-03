@@ -2761,7 +2761,7 @@ excrescently
 ergastic
 erythropoiesis
 elegised
-elegising
+elegising 1
 egards
 esterizing
 excuderunt
