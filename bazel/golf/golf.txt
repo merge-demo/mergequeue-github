@@ -4393,7 +4393,7 @@ gangrene
 gyron
 gallanilide
 gyniatries
-gambias
+gambias 1
 glottitis
 gowdnook
 grindings
