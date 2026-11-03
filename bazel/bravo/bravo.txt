@@ -9762,7 +9762,7 @@ bystreet
 bistres
 boeotarch
 brights
-borg
+borg 1
 bewitching
 barleymow
 beja
