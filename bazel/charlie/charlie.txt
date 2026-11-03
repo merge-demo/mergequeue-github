@@ -12013,7 +12013,7 @@ chorograph
 chorographer
 continuately
 chorographical
-criticizable
+criticizable 1
 cyanacetic
 chinless
 chorographically
