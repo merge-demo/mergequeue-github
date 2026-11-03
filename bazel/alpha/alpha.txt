@@ -15905,7 +15905,7 @@ antiprelatic
 aliquot
 antiprelatist
 archils 1
-antipriest
+antipriest 1
 annelidian
 anno
 antipriesthood
