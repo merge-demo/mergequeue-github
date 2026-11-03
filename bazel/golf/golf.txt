@@ -1053,7 +1053,7 @@ gompholobium
 ganglioid
 ganglioma
 gangliomas
-ganglionate
+ganglionate 1
 ganglionated
 gymnoconia
 glyceridic
