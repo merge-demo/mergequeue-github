@@ -6938,7 +6938,7 @@ decadation
 despatches
 deoxidise
 despatching
-despecialization
+despecialization 1
 disembarrassed
 dispute
 domineer
