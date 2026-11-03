@@ -12754,7 +12754,7 @@ detroit
 dodrans
 dupondii
 dakoits
-domesticize
+domesticize 1
 deer
 dysneuria
 dislodgement
