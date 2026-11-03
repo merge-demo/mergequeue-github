@@ -15990,7 +15990,7 @@ bemourn
 bronchographic
 blooming
 bronchohemorrhagia
-battels
+battels 1
 boatwoman
 bonchief
 broncholemmitis
