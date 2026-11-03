@@ -15418,7 +15418,7 @@ directing
 dilators
 diastema
 domineering
-domineeringly
+domineeringly 1
 disinherited
 doming
 domini
