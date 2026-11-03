@@ -15348,7 +15348,7 @@ anteriad
 agreing
 arbuscle
 antiinsurrectionists
-anamniotic
+anamniotic 1
 antikathode
 abatements
 angioparalysis
