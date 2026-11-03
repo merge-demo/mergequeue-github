@@ -8063,7 +8063,7 @@ gravels
 glenoidal
 granitiform
 geomancer
-gastrostomus
+gastrostomus 1
 granitite
 geomagnetism
 ghain
