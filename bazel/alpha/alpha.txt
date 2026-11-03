@@ -15236,7 +15236,7 @@ antiformin
 animater
 antifouling
 autobasidiomycetes 1
-austere
+austere 1
 arborolatry
 asparagine
 apicilar
