@@ -10061,7 +10061,7 @@ asquirm
 ambivalence
 aiger
 ambiversion
-ambivert
+ambivert 1
 arrect
 amble
 apanteles
