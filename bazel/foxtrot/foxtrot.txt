@@ -1747,7 +1747,7 @@ famatinite
 flattener
 featheredged
 fanzines
-forejudgment
+forejudgment 1
 feldspathoidal
 forehent
 fashioning
