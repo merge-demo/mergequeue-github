@@ -1266,7 +1266,7 @@ gapper
 glutinosity
 guib
 grimaces
-galvanologist
+galvanologist 1
 garran
 gaia
 glenwood
