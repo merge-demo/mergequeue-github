@@ -12971,7 +12971,7 @@ decasyllables
 disordinance
 disordinate
 devastator
-disconsider
+disconsider 1
 dysorexia
 dusack
 disorganise
