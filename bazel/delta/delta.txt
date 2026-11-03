@@ -7203,7 +7203,7 @@ diemaking
 dotting
 detaches
 dicast
-dynamis
+dynamis 1
 demijohns
 demulsifying
 detain
