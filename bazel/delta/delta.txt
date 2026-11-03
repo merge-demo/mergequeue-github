@@ -9728,7 +9728,7 @@ dilatedly
 demythologized
 dimethyl
 dermatoplastic
-deceive
+deceive 1
 desugarize
 dudley
 diffracts
