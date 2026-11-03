@@ -6506,7 +6506,7 @@ beghard
 bejabbers
 bepuffed
 beetleheaded
-bequalm
+bequalm 1
 bioblast
 bklr
 bequeathed
