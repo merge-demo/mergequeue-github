@@ -3392,7 +3392,7 @@ fopling
 fossilification
 flappering
 fishermen 1
-frivols
+frivols 1
 filipinos
 follicles
 flokite
