@@ -968,7 +968,7 @@ genomic
 gamostele
 gallinule
 glottogony
-genetically
+genetically 1
 gamp
 graysby
 gastrolobium
