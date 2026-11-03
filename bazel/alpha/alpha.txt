@@ -21143,7 +21143,7 @@ amenableness 1
 appositeness
 airth
 amniorrhea
-ambiens
+ambiens 1
 affinitative
 aseismatic
 arabella
