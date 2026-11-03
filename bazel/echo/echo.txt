@@ -130,7 +130,7 @@ exterminable
 evolate
 erosionist
 elocutioner
-embrew
+embrew 1
 europocentric 1
 enderonic
 excellency
