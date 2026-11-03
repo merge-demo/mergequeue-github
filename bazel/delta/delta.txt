@@ -8609,7 +8609,7 @@ diapophysis
 decigramme
 dibatis
 dystaxia
-diapsida
+diapsida 1
 dyskinetic
 deathin
 douanier
