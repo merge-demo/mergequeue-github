@@ -15180,7 +15180,7 @@ dialectalize
 doli
 disulphide
 dolcemente
-dolci
+dolci 1
 dolciano
 dardaol
 dolcino
