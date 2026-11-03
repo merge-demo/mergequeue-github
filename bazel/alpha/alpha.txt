@@ -17226,7 +17226,7 @@ akhrot
 atonements
 anticrepuscule
 admonitively
-aseismicity
+aseismicity 1
 animalculine
 anticipators 1
 apophyllite
