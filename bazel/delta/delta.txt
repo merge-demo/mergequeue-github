@@ -7499,7 +7499,7 @@ dichapetalum
 devalue
 deurwaarder 1
 dipsadinae
-doorwise
+doorwise 1
 degger
 dibase
 dioxin

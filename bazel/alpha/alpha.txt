@@ -21531,7 +21531,7 @@ auxoaction
 antiphase
 amarantite
 asphyxiating
-athapaskan
+athapaskan 1
 asphyxiation
 avenging
 asphyxiator

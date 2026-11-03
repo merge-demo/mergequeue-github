@@ -1068,7 +1068,7 @@ gambesons
 gentlewomanhood
 gipsology
 gomphiasis
-gradus
+gradus 1
 gasserian
 glossic
 gangplows
