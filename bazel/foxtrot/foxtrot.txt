@@ -5925,7 +5925,7 @@ foeticidal
 fluviovolcanic
 flybane
 foveola
-freyr
+freyr 1
 factitude
 familic
 frats
