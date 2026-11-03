@@ -14062,7 +14062,7 @@ exteroceptist
 exorcists
 echelonment
 exclude
-enquarter
+enquarter 1
 extracurriculum
 entablature
 encephalomata
