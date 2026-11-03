@@ -2276,7 +2276,7 @@ flavones
 filamentiferous
 fantails
 folktale
-fulmineous
+fulmineous 1
 fragging
 fluorocarbons
 fibrochondrosteal
