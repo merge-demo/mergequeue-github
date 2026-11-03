@@ -654,7 +654,7 @@ bynames
 bungles
 bkpr
 boigid
-bacterized
+bacterized 1
 barefacedly
 brisk
 bullroarer
