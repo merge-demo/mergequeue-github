@@ -9384,7 +9384,7 @@ embryogenic
 epoptic
 euspongia
 erythrolitmin
-eventail
+eventail 1
 embolies
 eucleid
 edifyingness
