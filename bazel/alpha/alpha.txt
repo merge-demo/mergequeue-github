@@ -10140,7 +10140,7 @@ antehuman
 apolog
 ambreic
 archdiocese
-ambrettolide
+ambrettolide 1
 arthralgia
 antiempiricist
 alluminor
