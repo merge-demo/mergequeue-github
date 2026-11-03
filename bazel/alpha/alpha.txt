@@ -16916,7 +16916,7 @@ almswomen
 astite
 abnormity
 amir
-anchory
+anchory 1
 ampullariidae
 apiole
 apiologist
