@@ -13622,7 +13622,7 @@ blockaders
 brantail
 bibulosities
 bounded
-braveness
+braveness 1
 bridgepot
 baxter
 burladero
