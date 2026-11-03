@@ -6816,7 +6816,7 @@ decompositional
 devilmonger 1
 desklike
 diphrelatic
-dunks
+dunks 1
 deskman
 desks
 dragade
