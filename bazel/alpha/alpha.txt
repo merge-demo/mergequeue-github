@@ -17032,7 +17032,7 @@ apochromatism
 archimorula
 astrophotometry
 albus
-ascitic
+ascitic 1
 auriscalp
 apocynthion
 apocynthions
