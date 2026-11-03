@@ -4009,7 +4009,7 @@ each
 exultancy
 esothyropexy
 estus
-effloresce
+effloresce 1
 etherealized
 epilamellar
 etymologise
