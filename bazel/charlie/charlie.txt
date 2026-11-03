@@ -2252,7 +2252,7 @@ camus
 camused
 camuses
 cornemuse
-curricled
+curricled 1
 coodle
 culturization
 canaanitess
