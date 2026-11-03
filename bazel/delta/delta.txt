@@ -17363,7 +17363,7 @@ dropkicker
 deficiencies
 drib
 dasypygal
-doigt
+doigt 1
 derivability
 delime
 dillydallies
