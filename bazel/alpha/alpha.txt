@@ -17100,7 +17100,7 @@ apogaeic
 aile
 aptera
 antipopulism
-ameliorator
+ameliorator 1
 anatomic
 atropa
 agoranome
