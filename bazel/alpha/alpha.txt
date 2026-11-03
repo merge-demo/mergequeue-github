@@ -1167,7 +1167,7 @@ advancing
 acana
 antilopine
 anemophily
-acanonical
+acanonical 1
 antisupernaturalistic
 acanthaceous
 aeacus

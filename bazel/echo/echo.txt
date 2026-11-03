@@ -4852,7 +4852,7 @@ endothecium
 entranceway
 encashing
 encountering
-eros
+eros 1
 ethical
 ecize
 exhalate
