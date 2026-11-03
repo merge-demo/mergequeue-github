@@ -519,7 +519,7 @@ bu
 backtender
 ballyhooing
 backtenter
-beggingwise
+beggingwise 1
 blennioid
 backtracking
 backtracks
