@@ -10228,7 +10228,7 @@ franconian
 finespun
 formolit
 frabous 1
-frankeniaceae
+frankeniaceae 1
 focimetry
 fruticant
 fleshly

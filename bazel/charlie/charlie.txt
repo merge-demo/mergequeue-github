@@ -9811,7 +9811,7 @@ chemick
 calanid
 chemicker
 chemicoastrological 1
-chokra
+chokra 1
 chemicobiologic
 collocates
 chemicodynamic
