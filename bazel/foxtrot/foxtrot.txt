@@ -4607,7 +4607,7 @@ forbbore
 fighter
 footnoting
 fistwise
-fit
+fit 1
 fontally
 fringilliform
 fitchee
