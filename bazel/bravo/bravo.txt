@@ -2182,7 +2182,7 @@ boschboks
 bewilders 2
 bestove
 baramin
-bertat
+bertat 1
 bromocyanid 1
 backflash
 briscola
