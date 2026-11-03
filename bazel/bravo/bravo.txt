@@ -13754,7 +13754,7 @@ burga
 bufflehorn
 bovaristic
 burgout
-bovate
+bovate 1
 besmirching
 bannermen
 bejig
