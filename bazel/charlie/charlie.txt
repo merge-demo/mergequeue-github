@@ -18976,7 +18976,7 @@ coenobitic
 ciseleur
 culbut
 colleaguing
-collect
+collect 1
 certify
 collected
 cranberry
