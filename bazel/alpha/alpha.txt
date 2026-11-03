@@ -24312,7 +24312,7 @@ acetonate
 autopoisonous 1
 acclimatize
 autopolar
-autopolyploid
+autopolyploid 1
 autopolo
 anomalous
 autopoloist
