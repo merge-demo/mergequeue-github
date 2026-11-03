@@ -15314,7 +15314,7 @@ antihero
 amphoriskos
 azulejo
 anticonscriptive
-antihierarchy
+antihierarchy 1
 akimbo
 aidless
 arroba
