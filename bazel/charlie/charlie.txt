@@ -8480,7 +8480,7 @@ champe
 cayuvava
 champer
 cynegetic
-champerties
+champerties 1
 chalaze
 champertor
 carbolxylol
