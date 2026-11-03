@@ -10448,7 +10448,7 @@ fellah
 ferocity
 flaxtail
 frontwards
-fragrant
+fragrant 1
 fermatian
 fungitoxic
 factionalist

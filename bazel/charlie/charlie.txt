@@ -17380,7 +17380,7 @@ coatrack
 coatroom
 coatrooms
 coats
-coattend
+coattend 1
 cajeta 1
 coattending
 conductivities
