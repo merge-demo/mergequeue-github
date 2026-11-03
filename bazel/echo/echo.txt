@@ -9905,7 +9905,7 @@ earmarks
 estimations
 eprosy
 exhaustively
-emmensite
+emmensite 1
 earthnuts
 elaterium
 enterritoriality
