@@ -13364,7 +13364,7 @@ epicorolline
 elegizing
 exposes
 encrustant
-envassalage
+envassalage 1
 encrownment
 enrichers
 esthesiometry
