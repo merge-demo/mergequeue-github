@@ -1469,7 +1469,7 @@ dawtit
 dawts
 damages
 disbarred
-doublehanded
+doublehanded 1
 daze
 discerptibility
 disinherison
