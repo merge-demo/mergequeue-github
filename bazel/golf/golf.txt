@@ -6230,7 +6230,7 @@ guillotinade
 gamopetalae
 gp 1
 galactophagist
-glucosamine
+glucosamine 1
 goaty
 glissade
 gonfalons
