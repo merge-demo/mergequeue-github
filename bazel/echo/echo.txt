@@ -1322,7 +1322,7 @@ encapsulate
 elengeness
 ennuied
 effects
-enlarge
+enlarge 1
 edified
 equilibristat
 enclog
