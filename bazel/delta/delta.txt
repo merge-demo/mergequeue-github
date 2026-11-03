@@ -3629,7 +3629,7 @@ distentions
 degerming
 degerms
 discerptive
-douzeper
+douzeper 1
 disked
 deontological
 degging
