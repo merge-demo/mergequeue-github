@@ -66,7 +66,7 @@ garoo
 gentlemanize
 greffe
 gorcrow
-gloiosiphonia
+gloiosiphonia 1
 gandum 1
 graftproof
 galliums
