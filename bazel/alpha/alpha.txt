@@ -2974,7 +2974,7 @@ axtree
 aulostomi
 actiniomorpha
 addisoniana
-actinisms
+actinisms 1
 arginine
 actinium
 anopias
