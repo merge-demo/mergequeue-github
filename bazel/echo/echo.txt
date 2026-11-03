@@ -10601,7 +10601,7 @@ englobing
 evernioid
 elvanite
 eparchate
-eledone
+eledone 1
 enterpriseless
 epiplopexy
 eyewaters
