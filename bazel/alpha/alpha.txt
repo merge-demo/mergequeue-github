@@ -14623,7 +14623,7 @@ ambulation
 abacination
 abstractively
 anesthetize
-adapid
+adapid 1
 anabaptist
 antiaditis
 antiadministration
