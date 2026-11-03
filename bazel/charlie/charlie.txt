@@ -5938,7 +5938,7 @@ catharping
 correlating
 counterreason
 cathartes
-cathartic
+cathartic 1
 chloroplatinate
 conciliate
 cathartics
