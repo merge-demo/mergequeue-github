@@ -16196,7 +16196,7 @@ duodiodepentode
 dominic
 drupetum
 draconic
-dialector
+dialector 1
 deerskins
 dizens
 deallocates
