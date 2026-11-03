@@ -14267,7 +14267,7 @@ donkeymen
 demulceate
 deb
 deviances
-dithion
+dithion 1
 dithionous
 dephilosophize 1
 devotionate
