@@ -9781,7 +9781,7 @@ chrematistics
 ceylon
 caudate
 cheliform
-crajuru
+crajuru 1
 curua
 chelingas
 cheliped

@@ -2752,7 +2752,7 @@ dewcup
 decorist
 dragged
 durum
-demilancer
+demilancer 1
 disfeatured
 defeaters
 decorticated
