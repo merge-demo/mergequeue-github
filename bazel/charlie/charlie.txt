@@ -8997,7 +8997,7 @@ chalazia
 charisms
 cancrophagous
 charisticary
-charitative
+charitative 1
 coquettish
 colloq
 charities
