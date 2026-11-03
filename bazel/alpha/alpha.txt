@@ -14325,7 +14325,7 @@ amercements
 anthills
 anthinae
 anthine
-amnesic
+amnesic 1
 anthypnotic
 albanensian
 anthocarp
