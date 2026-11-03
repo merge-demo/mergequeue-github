@@ -2982,7 +2982,7 @@ fewterer
 francophil
 fewtrils
 follower
-flanned
+flanned 1
 freethinker
 ferrels
 fellies
