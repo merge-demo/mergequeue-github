@@ -6528,7 +6528,7 @@ goniatitoid
 glycogenosis
 ghis
 gunster
-geotherm
+geotherm 1
 gamopetalous
 goldsmithry
 grays
