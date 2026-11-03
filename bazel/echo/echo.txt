@@ -13994,7 +13994,7 @@ exaltate
 extralimital
 enfigure
 extrapolatory
-entemple
+entemple 1
 extraposition
 electrolytic
 extraprofessional
