@@ -9763,7 +9763,7 @@ expressure
 essentialization
 essentially
 easterner
-exigencies
+exigencies 1
 expeditation
 easinesses
 eightballs
