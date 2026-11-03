@@ -9970,7 +9970,7 @@ goldi
 greisen
 gozell
 gomorrean
-gazetted
+gazetted 1
 gamasoidea
 guaiocums
 goitres

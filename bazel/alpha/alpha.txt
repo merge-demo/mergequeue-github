@@ -16355,7 +16355,7 @@ acalepha
 antivibrating
 antivibrator
 antivibratory
-antivitalist
+antivitalist 1
 ammoniuria
 attacker
 aldoses
