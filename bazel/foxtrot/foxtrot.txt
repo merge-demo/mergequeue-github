@@ -1147,7 +1147,7 @@ fidelis
 flax
 fatally
 fearbabe
-feebleminded
+feebleminded 1
 feller
 figeaters
 flyblows
