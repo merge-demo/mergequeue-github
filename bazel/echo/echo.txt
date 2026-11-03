@@ -6242,7 +6242,7 @@ endopericarditis
 exhortator
 enorn
 eumeromorph
-enos
+enos 1
 eradiating
 egophony
 epitapher
