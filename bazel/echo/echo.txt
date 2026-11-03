@@ -7688,7 +7688,7 @@ epicuticular
 entomotomist
 exacta
 eustele
-embrued
+embrued 1
 enukki
 effumability
 ellipsometry
