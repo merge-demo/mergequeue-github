@@ -9282,7 +9282,7 @@ eugeosynclinal
 epitaphize 1
 elytrin
 errors
-estramazone
+estramazone 1
 ecrustaceous
 electroethereal
 erse
