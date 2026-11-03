@@ -12487,7 +12487,7 @@ anelectrode
 appui
 anelectrotonus
 ahmadiya
-antidotically
+antidotically 1
 anelytrous
 abandons
 autolithographer
