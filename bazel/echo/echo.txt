@@ -8196,7 +8196,7 @@ exergual
 empowered
 excalfaction
 episiotomies
-episkeletal
+episkeletal 1
 eequinoctium
 enroots
 ethnicity
