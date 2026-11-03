@@ -1124,7 +1124,7 @@ albuminous
 acacian
 acacias
 apparitions
-adjuratory
+adjuratory 1
 appere
 acalephae
 autoschediastical
