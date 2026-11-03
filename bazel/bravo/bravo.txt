@@ -4493,7 +4493,7 @@ becross
 bureaucratism
 becrowd
 becrowded
-burstwort
+burstwort 1
 billeting
 brickset
 bacchanalias
