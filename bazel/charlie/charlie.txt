@@ -1943,7 +1943,7 @@ camelopardus
 cloghad
 counterflashing
 camelry
-camelus
+camelus 1
 castalia
 camembert
 conglobated

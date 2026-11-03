@@ -1071,7 +1071,7 @@ encephaloscope
 enormous
 ead
 ensanguining
-edhs
+edhs 1
 esculic
 envergure
 exostotic
