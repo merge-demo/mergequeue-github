@@ -7776,7 +7776,7 @@ devocalized
 dicyandiamide
 diptychon
 dignation
-devoice
+devoice 1
 duvet
 dadburned
 decolourising
