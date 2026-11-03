@@ -5640,7 +5640,7 @@ comprizable
 cataphyll
 correlativism
 chlorococcum
-cataphora
+cataphora 1
 cataphoresis
 cataphoria
 cataphract
