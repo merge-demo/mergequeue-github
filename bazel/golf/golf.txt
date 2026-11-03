@@ -7963,7 +7963,7 @@ grandfathers
 gangster
 gaboons
 galvanotaxis
-glossina
+glossina 1
 goniatitid
 gynecologic
 getups
