@@ -11640,7 +11640,7 @@ fussily 1
 friscal
 fusulae 1
 feathery
-fusure
+fusure 1
 fibroses
 fibropapilloma
 fust
