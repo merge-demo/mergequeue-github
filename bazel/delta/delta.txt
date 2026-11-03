@@ -9369,7 +9369,7 @@ deprive
 difficileness
 difficilitate
 dignosle
-dewinesses
+dewinesses 1
 doucely
 drooling
 dockages
