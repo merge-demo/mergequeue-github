@@ -2642,7 +2642,7 @@ farmyardy
 fabric
 falanaka
 freshes
-fluocerite
+fluocerite 1
 frumpling
 ferrumination
 fluviatic
