@@ -10441,7 +10441,7 @@ fleet
 fwd
 fisted
 flche
-frontstall
+frontstall 1
 forstall
 frizes
 fellah
