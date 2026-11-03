@@ -5709,7 +5709,7 @@ flawlessly
 furious
 foremilks
 flyproof
-flush
+flush 1
 flavins
 flirt
 fixatif
