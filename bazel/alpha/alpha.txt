@@ -8645,7 +8645,7 @@ amygdaloidal
 annunciatory
 anglophobist
 allegorizer
-antidinic
+antidinic 1
 anomuran
 allegorizing
 aeolic

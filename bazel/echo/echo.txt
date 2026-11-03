@@ -720,7 +720,7 @@ eosinate
 enneaspermous
 enabler
 economise
-eschaunge
+eschaunge 1
 ensnare 1
 extremital
 eidolism
