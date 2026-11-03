@@ -7270,7 +7270,7 @@ graduators
 grace
 gormandism
 gormandize
-glomi
+glomi 1
 gormandizes 1
 gundeck
 gangsa
