@@ -142,7 +142,7 @@ amyotrophic
 amoebid
 amphibiotic
 abatage
-abate 1
+abate 2
 alienisms
 anticivilian
 acronychally

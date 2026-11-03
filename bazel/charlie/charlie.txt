@@ -26334,7 +26334,7 @@ costumed
 chlore
 coccygomorphic 1
 cystin
-costumer
+costumer 1
 costumers
 costumes
 costumic

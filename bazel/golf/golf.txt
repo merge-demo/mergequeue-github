@@ -722,7 +722,7 @@ gentianic
 gor
 gentlepeople
 galactotherapy
-gambling
+gambling 1
 gluteal 1
 gypsydom
 gugglet
