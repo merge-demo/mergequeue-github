@@ -31613,7 +31613,7 @@ curve 1
 constructed
 curvedly
 capitoul
-curver
+curver 1
 chic
 curvesomeness
 cyclosporales
