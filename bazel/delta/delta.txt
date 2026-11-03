@@ -11138,7 +11138,7 @@ disastrous
 drippy 1
 dreparnaudia
 dosain
-diaphanous
+diaphanous 1
 donating
 disattaint
 disattune
