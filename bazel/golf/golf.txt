@@ -563,7 +563,7 @@ gazometer
 galempong
 getfd
 growls
-gableended
+gableended 1
 gravamem
 gadinine
 glucosazone
