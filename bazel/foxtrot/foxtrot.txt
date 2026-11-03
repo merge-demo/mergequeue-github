@@ -9415,7 +9415,7 @@ flagpoles
 furacana
 flammed
 faciendum
-franz
+franz 1
 felidae
 foliiferous
 flamines
