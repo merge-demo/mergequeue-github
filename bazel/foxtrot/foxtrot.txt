@@ -9728,7 +9728,7 @@ flaccidness 1
 frenchwomen
 frenetical
 fideicommissioner
-frigorifical
+frigorifical 1
 factful
 forgathered
 frenetically
