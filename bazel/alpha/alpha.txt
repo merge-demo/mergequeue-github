@@ -11029,7 +11029,7 @@ aerobion
 agomphious 1
 adelphophagy
 amorphism
-amorphophallus
+amorphophallus 1
 armorician
 antisocially
 alopecic
