@@ -7806,7 +7806,7 @@ gargoylish
 gisant
 gospeler
 geococcyx
-garlandry
+garlandry 1
 glucase
 gunline
 globefishes
