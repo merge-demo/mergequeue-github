@@ -3624,7 +3624,7 @@ degerm
 donnish
 degerminate 1
 doated
-degerminator
+degerminator 1
 distentions
 degerming
 degerms
