@@ -21847,7 +21847,7 @@ assigns
 assilag
 amiced
 abusious
-assimilates
+assimilates 1
 assimilating
 andoroba
 aerophobia
