@@ -10805,7 +10805,7 @@ freesilverite
 featliness
 forclose
 fricasseed
-ferntickled
+ferntickled 1
 fluxure
 fanegas
 feff
