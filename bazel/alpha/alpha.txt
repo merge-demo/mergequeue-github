@@ -10867,7 +10867,7 @@ ammonion
 ammonitess
 ammonitic
 ammonitoidea
-affording
+affording 1
 ammocoetiform
 antischolastic
 ammoniuret
