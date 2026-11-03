@@ -1252,7 +1252,7 @@ calenda
 counterfaller
 chlored
 cambrel
-cameo
+cameo 1
 calendarial
 chusite
 cicadid
