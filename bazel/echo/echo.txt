@@ -11749,7 +11749,7 @@ explanations
 envision
 esc
 eveque
-episcopise
+episcopise 1
 ensurer
 easier
 entoptoscopy
