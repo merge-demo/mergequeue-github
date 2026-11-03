@@ -6822,7 +6822,7 @@ elaphine
 enrooted
 entoil
 eggler
-entoils
+entoils 1
 entom
 extender
 episternalia
