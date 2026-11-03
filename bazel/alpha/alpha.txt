@@ -10394,7 +10394,7 @@ aliment
 americophobe
 amerimnon
 analysing
-amerind
+amerind 1
 allantoic
 artichokes
 axe
