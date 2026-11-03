@@ -3770,7 +3770,7 @@ gentian
 gouges 1
 giantship
 glycolate
-garrafa
+garrafa 1
 gapping
 gastroesophagostomy
 gunong
