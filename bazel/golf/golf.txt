@@ -9020,7 +9020,7 @@ gwantus
 gritstone
 grasswidow
 ghent
-gneissose
+gneissose 1
 geog
 gobletful
 gnathophorous
