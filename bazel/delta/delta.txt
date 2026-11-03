@@ -17393,7 +17393,7 @@ dividual
 destool
 droppage
 diffraction
-decennia
+decennia 1
 didascaly
 direction
 disjoinable
