@@ -6445,7 +6445,7 @@ cation
 contraorbitally
 clinandria
 cavalieri
-cavaliering
+cavaliering 1
 cavalierishness
 cavalierism
 cavalierly

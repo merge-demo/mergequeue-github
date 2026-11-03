@@ -11717,7 +11717,7 @@ discourteousness
 discoach
 discoverable
 distilland
-disworth
+disworth 1
 dorms
 dockman
 discoverer
