@@ -10555,7 +10555,7 @@ guillemot
 graverobber
 gumtree
 gimpy
-gambetta
+gambetta 1
 grandmaster
 goustie
 gemmiest
