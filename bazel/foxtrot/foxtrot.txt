@@ -584,7 +584,7 @@ frighteningly
 furmety
 forelocks
 faufel
-forlornity
+forlornity 1
 fallowist
 fardh
 forerunners
