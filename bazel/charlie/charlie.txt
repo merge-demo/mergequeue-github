@@ -13636,7 +13636,7 @@ confabulations
 coherency
 cercopithecoid
 cymophobia
-cymoscope
+cymoscope 1
 coattests
 chalazal
 cristi
