@@ -1369,7 +1369,7 @@ fatima
 fruticeous
 flaxdrop
 filecard
-flenser
+flenser 1
 fatiscent 1
 fullword
 filicology
