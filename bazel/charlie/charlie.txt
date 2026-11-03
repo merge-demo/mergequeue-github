@@ -15956,7 +15956,7 @@ crumbum
 clericality
 clericals
 chordaceous
-carpometacarpus
+carpometacarpus 1
 clericature
 cointension
 colloquialize
