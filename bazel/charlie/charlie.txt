@@ -1784,7 +1784,7 @@ calvarial
 calvaries
 calvarium
 calved
-calvin
+calvin 1
 cithern
 commutators
 comdr
