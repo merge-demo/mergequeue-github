@@ -13870,7 +13870,7 @@ executancy
 euglobulin
 expo
 etamine
-exosmosis
+exosmosis 1
 emollient 1
 endolymphangial
 extradited
