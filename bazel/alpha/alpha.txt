@@ -11651,7 +11651,7 @@ anaculture
 aortitis
 anacusic
 anadems
-autointellectual
+autointellectual 1
 anadenia
 anadesm
 archegonia
