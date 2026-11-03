@@ -11358,7 +11358,7 @@ ennerve
 electroscission
 eupnoeic
 enervative
-exhaustibility
+exhaustibility 1
 evaluating
 emergers
 extenders
