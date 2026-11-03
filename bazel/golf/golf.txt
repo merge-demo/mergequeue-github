@@ -8598,7 +8598,7 @@ gestic
 gibbeting
 geothermometer
 gaufrettes
-glucose
+glucose 1
 geometrizing
 graziers
 gravidate
