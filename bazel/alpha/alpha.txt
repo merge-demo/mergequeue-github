@@ -6469,7 +6469,7 @@ arrosion
 anviled
 arthromeningitis
 agust
-asterism
+asterism 1
 aha
 ahamkara
 autoclaves
