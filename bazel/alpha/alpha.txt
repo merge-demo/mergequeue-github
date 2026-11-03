@@ -12447,7 +12447,7 @@ antipyryl
 amenty
 actinides
 argante
-androsphinx
+androsphinx 1
 androsporangium
 arteriology
 androsterone
