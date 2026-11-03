@@ -1197,7 +1197,7 @@ gorilla
 guestless
 gaplessness
 gynandrism
-gappier
+gappier 1
 genesiacal
 griot
 gradations

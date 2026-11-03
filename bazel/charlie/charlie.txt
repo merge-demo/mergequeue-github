@@ -22619,7 +22619,7 @@ clinker
 crevice
 connived
 chromochalcography
-connives
+connives 1
 captance
 caliper
 connivingly
