@@ -2309,7 +2309,7 @@ canalboat
 charales
 canale
 canaled
-cobs
+cobs 1
 cithrens
 carthaginian
 canaler
