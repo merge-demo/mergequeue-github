@@ -2882,7 +2882,7 @@ deistically
 dugdug
 danais
 doloroso
-daedalist
+daedalist 1
 devotions
 drepanis 1
 deuteroscopic
