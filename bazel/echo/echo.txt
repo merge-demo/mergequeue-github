@@ -7831,7 +7831,7 @@ embolismic
 ebulliency
 eccentrate
 enterography
-epiglottitis
+epiglottitis 1
 exsiccator
 elegiambic
 epicarps

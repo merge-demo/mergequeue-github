@@ -2193,7 +2193,7 @@ gecarcinian
 greasepaint
 gecarcinidae
 gynaecologist
-garrotte
+garrotte 1
 greedily
 grough 1
 glycerinating
