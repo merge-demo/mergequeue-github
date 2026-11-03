@@ -2586,7 +2586,7 @@ ferrogoslarite
 forcet 1
 franked
 foud
-fossicked
+fossicked 1
 footrests
 finicalness
 financist
