@@ -1322,7 +1322,7 @@ acauline
 acc
 accable
 accel
-accelerable
+accelerable 1
 animalizing
 accelerando
 analgize
