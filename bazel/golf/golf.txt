@@ -1386,7 +1386,7 @@ garnetter
 glyconeogenetic
 guttular
 garniec
-gamily
+gamily 1
 governs
 ganodonta
 glossanthrax
