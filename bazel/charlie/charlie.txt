@@ -13953,7 +13953,7 @@ cinquefoil
 corporature
 crackle
 cinquefoiled
-cinquefoils
+cinquefoils 1
 cacographer
 cinquepace
 cinter
