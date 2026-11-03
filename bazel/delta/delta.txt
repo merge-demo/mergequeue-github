@@ -6252,7 +6252,7 @@ dermatitises
 drupe
 dermatoconiosis
 dermatodynia
-demisability
+demisability 1
 disown
 distrainer
 dermatography
