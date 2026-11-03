@@ -2919,7 +2919,7 @@ foregahger
 featherweights
 frumpiness
 fantastical
-flutiest
+flutiest 1
 fanciable
 fumigations
 fortressing
