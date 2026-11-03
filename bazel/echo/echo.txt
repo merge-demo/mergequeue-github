@@ -12083,7 +12083,7 @@ eris
 enfoldment
 excuseless 1
 endemisms
-excresence
+excresence 1
 excreta
 escheator
 endued
