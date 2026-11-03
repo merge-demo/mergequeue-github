@@ -16142,7 +16142,7 @@ acidulous
 antisexist
 antiship
 antishipping
-amphitryon
+amphitryon 1
 antisideric
 antisymmetry 1
 anthophobia
