@@ -9801,7 +9801,7 @@ amande
 acounter
 abaised
 actinoid
-amanist
+amanist 1
 airwaybill
 amanitine
 aerifying
