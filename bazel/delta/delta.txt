@@ -2029,7 +2029,7 @@ dearling
 denationalized
 diplococcal
 daucus
-decagonally
+decagonally 1
 detenus
 dothidella
 daimen
