@@ -1801,7 +1801,7 @@ flamingos
 federalizes
 fetisher 1
 freeboard
-fores
+fores 1
 ferninst
 forbesite
 folkmots
