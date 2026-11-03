@@ -4141,7 +4141,7 @@ bagwigs
 baddishness
 bearward
 bearwort
-boanthropy
+boanthropy 1
 bravadoing
 beasthood
 bacons
