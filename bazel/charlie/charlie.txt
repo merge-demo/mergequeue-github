@@ -14135,7 +14135,7 @@ colanders
 connexion
 circularization
 chartology
-conversably
+conversably 1
 circularizes
 choriambs
 circularly
