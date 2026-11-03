@@ -11700,7 +11700,7 @@ abeltree
 appearanced
 anaesthetically
 anthropomantic
-aruspex
+aruspex 1
 anaesthetization
 ayme
 artal
