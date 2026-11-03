@@ -26977,7 +26977,7 @@ cactaceous
 chevet
 cerograph
 counteroffer
-counteropening
+counteropening 1
 counteropponent
 culotte
 carbethoxyl
