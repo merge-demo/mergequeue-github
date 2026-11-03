@@ -9973,7 +9973,7 @@ gomorrean
 gazetted
 gamasoidea
 guaiocums
-goitres
+goitres 1
 groset
 guatibero
 grysbok
