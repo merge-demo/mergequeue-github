@@ -17060,7 +17060,7 @@ damners
 dentistic
 dactyliographer
 dribbles
-dosers
+dosers 1
 disthroning
 divisory
 diaconus
