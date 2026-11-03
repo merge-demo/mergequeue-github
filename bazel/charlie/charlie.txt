@@ -8964,7 +8964,7 @@ chestnutty
 charicleia
 castigates
 charier
-chariest
+chariest 1
 curdle
 charily
 chariness
