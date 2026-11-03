@@ -11060,7 +11060,7 @@ emporial
 elegit
 electrostereotype
 europium
-expressionistically
+expressionistically 1
 epipharynx
 endolumbar
 eurus
