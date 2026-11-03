@@ -12039,7 +12039,7 @@ anas
 athumia
 anasa
 aralkylated 1
-arteriosclerosis
+arteriosclerosis 1
 asclent
 awakenable 1
 anaschistic
