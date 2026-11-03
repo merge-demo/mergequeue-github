@@ -8633,7 +8633,7 @@ fibromucous
 fulup 1
 fringilloid 1
 forsakenness
-fermentarian
+fermentarian 1
 forsythia
 fontinalis
 findon
