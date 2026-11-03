@@ -13294,7 +13294,7 @@ contravention
 cyclone
 cyclonic
 cyclonite
-cyclonology
+cyclonology 1
 cycloolefin
 consertal
 chirred
