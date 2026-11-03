@@ -3252,7 +3252,7 @@ gametophytic
 goodhearted
 grainedness
 genuses
-goldminer
+goldminer 1
 graywacke
 gruellers
 glucemia
