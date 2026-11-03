@@ -5242,7 +5242,7 @@ deacidifying
 denotes
 docetistic
 destructuralize
-denoting
+denoting 1
 duplification
 deeping
 denouement
