@@ -8701,7 +8701,7 @@ alsine
 acalephan
 asterospondylic
 aerocurve
-anapterygote
+anapterygote 1
 aller
 allergenic
 abouchement
