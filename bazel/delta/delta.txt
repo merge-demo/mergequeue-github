@@ -2683,7 +2683,7 @@ downstairs
 desmoma
 decompress
 decompresses
-detectaphone
+detectaphone 1
 demiplacate
 dogies
 duckies
