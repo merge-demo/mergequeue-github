@@ -18260,7 +18260,7 @@ bastardy
 buttermonger
 bice
 bagworm
-bronzier
+bronzier 1
 butternuts
 barstool
 batea

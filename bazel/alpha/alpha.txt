@@ -2155,7 +2155,7 @@ alcovinometer
 acidhead
 aimfully
 achlorhydria
-aflame
+aflame 1
 admixing
 adoptional
 adsorbs
