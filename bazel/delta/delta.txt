@@ -6436,7 +6436,7 @@ decameronic
 dispathy
 dervishism
 des
-dispensative
+dispensative 1
 desensitized
 drudgeries
 downwards
