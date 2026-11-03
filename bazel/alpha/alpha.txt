@@ -12211,7 +12211,7 @@ autocue
 astronautical
 allodge
 asgard
-andaman
+andaman 1
 autobiographic
 anchieutectic
 abience
