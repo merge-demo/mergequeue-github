@@ -541,7 +541,7 @@ detonatable
 damaged
 detort
 damageous
-deaccessions
+deaccessions 1
 dovyalis
 deliber
 dao
