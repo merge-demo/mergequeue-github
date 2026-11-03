@@ -6880,7 +6880,7 @@ fretways
 finance
 failing
 frustratingly
-flaggings
+flaggings 1
 figurist
 feline
 fatuous
