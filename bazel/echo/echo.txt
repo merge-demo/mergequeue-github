@@ -9418,7 +9418,7 @@ endoss
 endodontologist
 excitabilities
 escarole
-enantobiosis
+enantobiosis 1
 excuseful
 elutriated
 exostosed
