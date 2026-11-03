@@ -3884,7 +3884,7 @@ floria
 firmnesses
 frizzles
 fanglomerate
-figurings
+figurings 1
 farleu
 fimbrillate
 fany
