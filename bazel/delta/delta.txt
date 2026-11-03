@@ -682,7 +682,7 @@ despairs
 dampproof
 dampproofing
 dyspepsy
-determinist
+determinist 1
 doumaist
 distend
 distributes
