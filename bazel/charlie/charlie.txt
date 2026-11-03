@@ -19636,7 +19636,7 @@ com
 coma
 comprobate
 carillon
-comacine
+comacine 1
 comade
 comagmatic
 comake
