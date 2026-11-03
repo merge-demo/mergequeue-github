@@ -12460,7 +12460,7 @@ dishwasher
 decryptions
 dishwashers
 dichlone
-distemperature
+distemperature 1
 demonstrant
 dishwashings
 dibromobenzene
