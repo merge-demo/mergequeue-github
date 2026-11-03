@@ -6788,7 +6788,7 @@ foldage
 foredevised
 floridean
 fallaciousness
-foldaway
+foldaway 1
 feretory
 ferryman
 farfal
