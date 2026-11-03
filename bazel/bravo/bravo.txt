@@ -7013,7 +7013,7 @@ boardly
 bowingly
 balnea
 brothel
-balor
+balor 1
 brulzie
 bicephalic
 balsamous

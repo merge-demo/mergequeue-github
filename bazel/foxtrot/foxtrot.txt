@@ -2920,7 +2920,7 @@ featherweights
 frumpiness
 fantastical
 flutiest
-fanciable
+fanciable 1
 fumigations
 fortressing
 footmark
