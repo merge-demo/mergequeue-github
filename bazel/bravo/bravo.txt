@@ -18292,7 +18292,7 @@ bowless
 buttinski
 bourout
 buttled
-bonspells
+bonspells 1
 buttock
 balachan
 banyans
