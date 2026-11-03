@@ -5495,7 +5495,7 @@ cameralistic
 codgers
 catabatic
 catabibazon
-catabolically
+catabolically 1
 chickenheartedly
 cabler
 commorancy
