@@ -17082,7 +17082,7 @@ coachwise
 cully
 coachwright
 coact
-coacting
+coacting 1
 constituently
 coaction
 coactive
