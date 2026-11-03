@@ -13295,7 +13295,7 @@ bivaulted
 botanically
 botanics
 bridechamber
-botanies
+botanies 1
 botanist
 botanize
 brushmen
