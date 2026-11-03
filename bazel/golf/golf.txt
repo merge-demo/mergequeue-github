@@ -5728,7 +5728,7 @@ glendale
 glossocele
 graian
 gaduin
-gummoses
+gummoses 1
 grandmother
 gantline
 gallant
