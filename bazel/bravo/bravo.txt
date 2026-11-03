@@ -15076,7 +15076,7 @@ baldricks
 bankruptship
 brushmaker
 bodiment 1
-bastarda
+bastarda 1
 begot
 brents
 bearance
