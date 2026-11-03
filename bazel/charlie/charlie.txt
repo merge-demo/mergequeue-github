@@ -3825,7 +3825,7 @@ curlewberry
 carbolic
 carbolics
 centricity
-carbolising
+carbolising 1
 carbolize
 carbolized
 carbolizes
