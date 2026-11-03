@@ -2366,7 +2366,7 @@ gastrotomies
 galatians
 germanies
 geotectonic
-gravitates
+gravitates 1
 goggler
 ger
 gabon
