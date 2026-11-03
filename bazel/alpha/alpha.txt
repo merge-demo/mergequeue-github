@@ -10957,7 +10957,7 @@ alb
 audiencer
 attabal
 alodia
-adipsia
+adipsia 1
 amoebiform
 arbitrer
 acceptant
