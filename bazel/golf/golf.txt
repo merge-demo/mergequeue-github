@@ -5062,7 +5062,7 @@ goalkeeper
 golconda
 gecarcinus
 gastrogenital 1
-gv
+gv 1
 gerunds
 gustful
 gularis
