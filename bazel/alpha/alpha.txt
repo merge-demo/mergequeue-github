@@ -9314,7 +9314,7 @@ aloxite
 alpacas
 alpargata
 avertive
-alpax
+alpax 1
 auris
 alpeen
 axstone
