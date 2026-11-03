@@ -15229,7 +15229,7 @@ caam
 colours
 chlorphenol
 crassina
-clam
+clam 1
 cabriolet
 clamant
 circumnavigatory
