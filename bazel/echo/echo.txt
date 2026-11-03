@@ -9917,7 +9917,7 @@ epideictical
 extensionist
 electromagnetics
 exude
-exoculated
+exoculated 1
 enskies
 extravertive
 effemination
