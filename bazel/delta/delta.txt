@@ -11654,7 +11654,7 @@ discordable
 discordance
 dedenda
 discordancy
-deregulating
+deregulating 1
 discordancies
 discordant
 dialling
