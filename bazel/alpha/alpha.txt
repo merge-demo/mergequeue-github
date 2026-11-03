@@ -14570,7 +14570,7 @@ antipoetically
 aphelilia
 atemporal
 antiroyalism
-ambulatorial
+ambulatorial 1
 accreditee
 archegosaurus
 anthropophagist
