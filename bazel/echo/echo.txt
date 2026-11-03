@@ -6352,7 +6352,7 @@ esophoric
 extrovertish
 epuloid
 enseated
-exgorgitation
+exgorgitation 1
 endodynamomorphic
 enseating
 emulgence
