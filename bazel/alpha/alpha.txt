@@ -939,7 +939,7 @@ attracted
 anticivic
 acescency
 afterhold
-absorbefacient
+absorbefacient 1
 azoflavine
 absorbing
 absorpt
