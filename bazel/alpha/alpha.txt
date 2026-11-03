@@ -5386,7 +5386,7 @@ afghan
 acroneurosis
 amylopectin
 anapnea
-afghanistan
+afghanistan 1
 arided
 aphacia
 adulterated
