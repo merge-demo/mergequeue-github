@@ -5569,7 +5569,7 @@ expandability
 episcopality
 ecphrasis
 endoergic
-enfevering
+enfevering 1
 emitters
 edwardeanism
 enzootic
