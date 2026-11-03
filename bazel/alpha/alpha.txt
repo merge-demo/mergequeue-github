@@ -22064,7 +22064,7 @@ astricting
 antiaristocrat
 adverbs
 asteatosis
-asteep
+asteep 1
 asteism
 amplexicaudate
 aloddia
