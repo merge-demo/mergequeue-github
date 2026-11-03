@@ -485,7 +485,7 @@ abit
 abstriction
 agriculture
 abbreviate
-antiscriptural
+antiscriptural 1
 abiuret
 abjectedness
 attriting
