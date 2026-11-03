@@ -9796,7 +9796,7 @@ forisfamiliate 1
 fyrdung
 fatals
 farrows
-feldspathic
+feldspathic 1
 fodge
 floweret
 fuds
