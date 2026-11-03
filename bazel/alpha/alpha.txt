@@ -1387,7 +1387,7 @@ acceptilation
 acceptingly
 arabesquerie
 anglican
-anticompetitive
+anticompetitive 1
 amadavat
 acceptors
 antifreezes
