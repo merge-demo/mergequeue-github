@@ -3058,7 +3058,7 @@ graminicolous 1
 gemmipares
 glyptotheca
 gametogenous
-garnetz
+garnetz 1
 gossipper
 giant
 gnash 1
