@@ -6420,7 +6420,7 @@ embezzler
 endopod
 engineering
 electrocutes
-enlargers
+enlargers 1
 ensiling
 ensilist
 exceptions
