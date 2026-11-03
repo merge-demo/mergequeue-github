@@ -12712,7 +12712,7 @@ elmer
 everbearer
 exonym
 era
-earcockle
+earcockle 1
 energizing
 exophasic
 exalted
