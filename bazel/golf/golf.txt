@@ -1108,7 +1108,7 @@ gashouses
 graphiola
 grammatication
 gearshifts
-gravitate
+gravitate 1
 graptolitic
 gallants
 guillotining
