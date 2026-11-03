@@ -1459,7 +1459,7 @@ dawsonia
 dawt
 defacements
 dictional
-disinfect
+disinfect 1
 durain
 dihydrosphingosine
 domical
