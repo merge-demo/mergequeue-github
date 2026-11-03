@@ -8539,7 +8539,7 @@ enteromere
 equatable
 eudaemons
 ecclesiasticize
-essentializing
+essentializing 1
 echinated 1
 embezzling
 eastlin
