@@ -4297,7 +4297,7 @@ gigantesque
 grousing
 gumlike
 gabfests
-granulate
+granulate 1
 glyptotherium
 goboes
 glabellum
