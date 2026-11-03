@@ -8276,7 +8276,7 @@ duel
 diagonals
 deducting
 diagonalwise
-denudate
+denudate 1
 demonization
 diagonic
 drum
