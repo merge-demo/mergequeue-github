@@ -10447,7 +10447,7 @@ bridgetree
 blarny
 blout
 bought
-begs
+begs 1
 blowth
 blarnid
 bayoneteer
