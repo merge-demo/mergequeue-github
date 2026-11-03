@@ -27140,7 +27140,7 @@ countersnarl
 cataclysmatic
 counterspy
 counterspies
-coverage
+coverage 1
 counterstand
 counterstep
 corabeca
