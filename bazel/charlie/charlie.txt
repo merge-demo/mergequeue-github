@@ -6681,7 +6681,7 @@ ceibas
 coracomorphic
 chard
 cursorial
-ceibo
+ceibo 1
 counterthrust
 ceil
 clamoring
