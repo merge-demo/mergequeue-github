@@ -10854,7 +10854,7 @@ entailable
 equitability 1
 eructation
 ereption
-euphemian
+euphemian 1
 electrolyzed
 enlivenments
 emborders
