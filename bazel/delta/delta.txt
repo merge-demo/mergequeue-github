@@ -3561,7 +3561,7 @@ discredence
 derivably
 dawcock
 drumlin
-defunction
+defunction 1
 deul
 disfrock
 disseminate
