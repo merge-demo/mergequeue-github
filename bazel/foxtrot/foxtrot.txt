@@ -10734,7 +10734,7 @@ fohn
 feminized
 furfuramid
 frustratory
-focuses
+focuses 1
 flat
 felup
 fomentation
