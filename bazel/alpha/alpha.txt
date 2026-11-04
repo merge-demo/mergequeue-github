@@ -1358,7 +1358,7 @@ airtightly
 awingly
 auxillary
 accentual
-accension
+accension 1
 agapanthus
 accept
 approximating
