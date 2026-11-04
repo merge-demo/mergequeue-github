@@ -4737,7 +4737,7 @@ chant
 concolorous
 carpetweb
 change
-comeliest
+comeliest 1
 cyclicality
 cyanogenamide
 coindicate
