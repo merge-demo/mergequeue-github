@@ -3440,7 +3440,7 @@ grandiosely
 greenlandish
 gertie
 geggery
-glamourize
+glamourize 1
 greyware
 gesturist
 geothermic
