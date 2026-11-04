@@ -1472,7 +1472,7 @@ friedman
 fiqh
 flamer
 foreshows
-fabulate
+fabulate 1
 flytes
 frawn
 flaillike
