@@ -6903,7 +6903,7 @@ endangered
 electrum
 etiquettes
 endamageable
-epispore
+epispore 1
 ectocardia
 endometria
 evaporable
