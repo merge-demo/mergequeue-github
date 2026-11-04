@@ -1612,7 +1612,7 @@ gasteromycetous
 geneat
 giraffine
 gasteropoda
-gummy
+gummy 1
 gillies
 geoff
 gobiesocidae
