@@ -2152,7 +2152,7 @@ decantist
 decaffeinated
 decapitates
 decapitation
-deterrable
+deterrable 1
 decapitations
 disassemble
 downfall
