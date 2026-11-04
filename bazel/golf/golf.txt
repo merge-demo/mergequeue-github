@@ -8798,7 +8798,7 @@ goalless
 gymnostomina
 greese
 gust
-genual
+genual 1
 glistered
 garryaceae
 glacious
