@@ -12422,7 +12422,7 @@ dishevelling
 delomorphic
 dismissingly
 doeskins
-diakineses
+diakineses 1
 dishley
 diamond
 deterrability
