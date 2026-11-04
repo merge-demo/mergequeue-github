@@ -412,7 +412,7 @@ galaxias
 gynecol
 gastroenteralgia
 gotham
-gelder
+gelder 1
 gneu
 gymnogynous
 gymmal
