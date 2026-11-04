@@ -3696,7 +3696,7 @@ couloirs
 carapaces
 carapacho
 chapfallenly
-contumacity
+contumacity 1
 cognates
 carapacic
 carapax
