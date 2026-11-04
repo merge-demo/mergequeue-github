@@ -18632,7 +18632,7 @@ dedicatorial
 degreeless
 duty
 dutiability
-disdains
+disdains 1
 downtroddenness
 dutied
 denarii
