@@ -1607,7 +1607,7 @@ favouring
 footroom
 floriage
 frijol
-fervescence
+fervescence 1
 flannel
 fawkener
 fraischeur 1
