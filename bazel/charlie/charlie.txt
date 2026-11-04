@@ -18730,7 +18730,7 @@ colascioni
 colate
 canaliculation
 conquistador
-colatitude
+colatitude 1
 colazione
 colberter
 colbertine
