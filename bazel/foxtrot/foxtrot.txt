@@ -9537,7 +9537,7 @@ furnace
 fieldmouse
 fruitfullness
 financier
-favouress
+favouress 1
 flyted
 fuseless
 frecklier
