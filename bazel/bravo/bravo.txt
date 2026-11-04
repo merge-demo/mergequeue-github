@@ -5042,7 +5042,7 @@ bostal
 brawest
 brachiofaciolingual
 beltcourse
-bigotedly
+bigotedly 1
 befalling
 benzomorpholine
 befalls
