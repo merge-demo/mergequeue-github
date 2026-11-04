@@ -8319,7 +8319,7 @@ chalking
 chalklike
 chalkline
 columnated
-chalkone
+chalkone 1
 chalkos
 chalkotheke
 chalkpit

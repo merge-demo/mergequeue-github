@@ -4092,7 +4092,7 @@ beansetter
 beanshooter
 beanstalk
 bestiaries
-bearbaiter
+bearbaiter 1
 bedmaking
 blearedness
 beriberi
