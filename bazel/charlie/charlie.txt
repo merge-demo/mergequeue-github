@@ -29225,7 +29225,7 @@ capillarity
 cystomatous
 crippling
 cripplingly
-cryptaesthesia
+cryptaesthesia 1
 conflictual
 cryptamnesia
 chattingly
