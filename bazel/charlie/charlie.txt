@@ -23115,7 +23115,7 @@ caretaken
 chuddahs
 chamberletted
 constate
-curettement
+curettement 1
 confers
 celtically
 constellate
