@@ -19185,7 +19185,7 @@ arctos
 arctosis
 ager
 acetylasalicylic
-allituric
+allituric 1
 arctostaphylos
 alick
 askers
