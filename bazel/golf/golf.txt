@@ -1737,7 +1737,7 @@ glycerinate
 gynocracy
 gympie
 goldstone
-genotypes
+genotypes 1
 glike
 gunsmiths
 geogonical
