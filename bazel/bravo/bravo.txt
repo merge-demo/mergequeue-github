@@ -2207,7 +2207,7 @@ boneheadedness
 baptize
 bromize
 barbados
-broggle
+broggle 1
 blobs
 badineur
 bawties
