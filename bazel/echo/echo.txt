@@ -12646,7 +12646,7 @@ ergotize
 elateroid
 egurgitating
 excussio
-exoenzyme
+exoenzyme 1
 enterobacterial
 exogamies
 ephete
