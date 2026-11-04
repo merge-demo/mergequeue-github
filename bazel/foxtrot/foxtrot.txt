@@ -6714,7 +6714,7 @@ folksily
 flame
 felted
 fogless
-frounced
+frounced 1
 fogo
 frescoists
 fighters
