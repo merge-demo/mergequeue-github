@@ -9221,7 +9221,7 @@ besting
 biphenylene
 biphenol
 bashfulness
-bipinnariae
+bipinnariae 1
 bastnasite
 biordinal
 batussi
