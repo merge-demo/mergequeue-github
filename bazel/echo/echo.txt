@@ -784,7 +784,7 @@ emden
 emydidae
 enolizing
 extramedullary
-eolotropic 1
+eolotropic 2
 emotionalization
 electrobus
 equiponderance
