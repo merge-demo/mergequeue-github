@@ -2771,7 +2771,7 @@ decorum
 dactylorhiza
 diamber
 dirige
-dineric
+dineric 1
 daddies
 drawhorse
 dearies
