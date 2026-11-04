@@ -6532,7 +6532,7 @@ dirtbird
 dreggily
 distomiasis
 discourages
-descort
+descort 1
 differentiators
 debruise
 dosa
