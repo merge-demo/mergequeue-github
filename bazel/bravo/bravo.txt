@@ -15452,7 +15452,7 @@ baculites
 bigothero
 banns
 brimfullness
-brongniardite
+brongniardite 1
 blazon
 brodeglass
 braggishly
