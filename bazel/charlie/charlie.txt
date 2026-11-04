@@ -2153,7 +2153,7 @@ camphenes
 camphine
 cufflinks
 conturbation
-channelizing
+channelizing 1
 coalbin
 conterminate
 cymba
