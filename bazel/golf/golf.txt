@@ -1095,7 +1095,7 @@ goularo
 gormandizers 1
 genitives
 ganister
-goriest
+goriest 1
 giroflore
 groat
 grooviness
