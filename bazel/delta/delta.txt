@@ -7783,7 +7783,7 @@ decolourising
 devoir
 destabilizing
 devoirs
-dholes
+dholes 1
 devolatilised
 dosimetries
 dryrot
