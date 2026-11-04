@@ -3423,7 +3423,7 @@ gentisate
 giggit
 geometrized
 glossolaryngeal
-globularia
+globularia 1
 gourmets
 gerrymander
 gorgons
