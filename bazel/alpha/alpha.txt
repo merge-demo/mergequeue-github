@@ -2632,7 +2632,7 @@ assuaging
 adunation
 almacenista
 alangine
-anomaliflorous
+anomaliflorous 1
 ashkenazim
 acquitter
 agnates
