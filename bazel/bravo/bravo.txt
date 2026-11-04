@@ -9798,7 +9798,7 @@ begin
 bonapartean
 bongo
 bawd
-burgherhood
+burgherhood 1
 biteche
 barbicans
 bowdlerization
