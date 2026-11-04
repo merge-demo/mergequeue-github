@@ -29023,7 +29023,7 @@ criminalism
 criminalistic
 countersecurity
 chesterlite
-cyanogenic
+cyanogenic 1
 criminalistics
 criminality
 circulatory
