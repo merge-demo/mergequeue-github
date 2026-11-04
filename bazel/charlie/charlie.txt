@@ -22620,7 +22620,7 @@ crevice
 connived
 chromochalcography
 connives
-captance
+captance 1
 caliper
 connivingly
 connochaetes
