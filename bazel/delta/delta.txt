@@ -9126,7 +9126,7 @@ didelphidae
 discursive
 dingdong
 disweapon
-didelphoid
+didelphoid 1
 disinclines 1
 derisory
 doffs 1
