@@ -11508,7 +11508,7 @@ accidies
 antinatural
 amusingness
 absarokite
-amusive
+amusive 1
 amutter
 amuze
 advertisable
