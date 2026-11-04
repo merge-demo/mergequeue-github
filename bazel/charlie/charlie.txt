@@ -15074,7 +15074,7 @@ clabbering
 clabbers
 calography
 cumbent
-clabularium
+clabularium 1
 clach
 chlorogenine
 clack
