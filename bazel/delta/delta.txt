@@ -4074,7 +4074,7 @@ debouches
 delict
 deaquation
 deliquescence
-divertila
+divertila 1
 delictual
 disobeyed
 delieret
