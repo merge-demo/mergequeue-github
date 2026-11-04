@@ -11090,7 +11090,7 @@ exulceratory
 ekacaesium
 epistemolog
 epiglottal
-extravasation
+extravasation 1
 endosporium
 eurytus
 engagedness
