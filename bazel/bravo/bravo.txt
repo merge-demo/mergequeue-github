@@ -11242,7 +11242,7 @@ bertrand
 blotto
 blottto
 britt
-botteghe
+botteghe 1
 bloodguiltiness
 begirdled
 blouse
