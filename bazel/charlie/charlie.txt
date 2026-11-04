@@ -20263,7 +20263,7 @@ coccineous
 chitin
 cliona
 communalise
-communalism
+communalism 1
 communalistic
 confederacies
 communalization
