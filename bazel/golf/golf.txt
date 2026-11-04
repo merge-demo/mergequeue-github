@@ -8495,7 +8495,7 @@ glisteningly
 glossotype
 gurgle
 gelatinization
-gravely
+gravely 1
 galops
 groupers
 gayal
