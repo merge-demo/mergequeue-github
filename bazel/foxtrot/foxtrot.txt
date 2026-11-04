@@ -6534,7 +6534,7 @@ freakishly
 flasque
 foetid
 floccose
-frailish
+frailish 1
 flutist
 frenchman
 firebed
