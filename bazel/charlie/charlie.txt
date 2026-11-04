@@ -13240,7 +13240,7 @@ cyclode
 catastrophe
 cyclodiene
 cycloganoid
-cummin
+cummin 1
 crossbencher
 climbable
 cycloganoidei
