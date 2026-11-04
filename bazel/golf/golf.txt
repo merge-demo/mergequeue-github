@@ -5503,7 +5503,7 @@ glisten
 guttering
 glimmery
 gigeria
-glisteringly
+glisteringly 1
 gorblimy
 grubble
 gerridae
