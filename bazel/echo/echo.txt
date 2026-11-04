@@ -1220,7 +1220,7 @@ epimeric
 encyclopedically
 eductors
 enterodelous
-excursionists
+excursionists 1
 epitrite
 edwardean
 easternly
