@@ -12525,7 +12525,7 @@ chromosomally
 celoscope
 cornercap
 collophore
-chromospheric
+chromospheric 1
 colytic
 committitur
 cadjan
