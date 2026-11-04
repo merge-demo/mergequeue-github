@@ -11165,7 +11165,7 @@ djins
 disavower
 derringers
 depletes
-dottily
+dottily 1
 devicefulness
 duraplasty
 distressful 1
