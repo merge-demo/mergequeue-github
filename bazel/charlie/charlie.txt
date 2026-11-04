@@ -4197,7 +4197,7 @@ catmalison
 citternhead
 cardiotrophotherapy
 cardiovascular
-coalhole
+coalhole 1
 chamomile
 carditis
 carditises
