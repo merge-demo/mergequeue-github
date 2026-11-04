@@ -8622,7 +8622,7 @@ cohesionless
 changelessness
 changelings
 changement
-cuissard
+cuissard 1
 changeovers
 chiefs 1
 changer
