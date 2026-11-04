@@ -6298,7 +6298,7 @@ flukeworm
 follicle
 ferryhouse
 fob
-falerian
+falerian 1
 flumes
 fluminous
 freak
