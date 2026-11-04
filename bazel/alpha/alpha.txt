@@ -14127,7 +14127,7 @@ antennariidae
 antennate
 antennifer
 antefixes 1
-acraturesis
+acraturesis 1
 antennula
 agapae
 antiegoistically
