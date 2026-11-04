@@ -2454,7 +2454,7 @@ gastraeum
 ghettoed
 geographers
 gemologist
-glacionatant
+glacionatant 1
 groping
 gloaming
 gaiting
