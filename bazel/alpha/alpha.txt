@@ -2460,7 +2460,7 @@ adipic
 acnemia
 argumentum
 adiaphoral
-acnes
+acnes 1
 amperemeter
 acnida
 arabizes

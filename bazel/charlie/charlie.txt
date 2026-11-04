@@ -19014,7 +19014,7 @@ collegia
 collegialism
 churchmanly
 clingiest
-collegiateness
+collegiateness 1
 czarinas
 concorporating
 clan

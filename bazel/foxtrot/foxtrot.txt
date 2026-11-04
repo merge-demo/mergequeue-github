@@ -10380,7 +10380,7 @@ fertilizable
 frontignan
 fucate
 fronting
-fizzle
+fizzle 1
 focus
 furoid
 feedable
