@@ -935,7 +935,7 @@ gammarine
 gingeli
 gammerel
 graeculus
-gammerstang
+gammerstang 1
 gastropneumatic
 gannets
 gammock
