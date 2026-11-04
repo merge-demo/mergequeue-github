@@ -2830,7 +2830,7 @@ dossers
 declarator
 decried
 desistive
-deerflys
+deerflys 1
 disulphonate
 decries
 decrying
