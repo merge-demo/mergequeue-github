@@ -10302,7 +10302,7 @@ ectases
 epiphyllous
 ensignment
 ethnicist
-endymal
+endymal 1
 elingued
 erasable
 establismentarian
