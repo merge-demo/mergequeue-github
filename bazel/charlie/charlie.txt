@@ -12547,7 +12547,7 @@ chron
 caplets
 cacothes
 concurrences
-concubitus
+concubitus 1
 chronaxie
 chronic
 chronica
