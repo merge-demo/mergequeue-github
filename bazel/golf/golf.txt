@@ -138,7 +138,7 @@ gadwalls
 girth
 gigantology
 gaelic
-gynostegia
+gynostegia 1
 gs
 gallicole
 guy
