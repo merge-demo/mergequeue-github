@@ -3251,7 +3251,7 @@ encephalotomy
 eyesore
 entrench
 episcleral
-emancipates
+emancipates 1
 esophagospasm
 eelgrasses
 embuia
