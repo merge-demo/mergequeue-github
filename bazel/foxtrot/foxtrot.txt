@@ -6842,7 +6842,7 @@ foliary
 frescoers
 format
 favoringly
-foliate
+foliate 1
 favourableness
 facemaking
 fistiness
