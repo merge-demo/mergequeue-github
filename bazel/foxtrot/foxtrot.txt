@@ -473,7 +473,7 @@ fistical
 fundulus
 feckfully
 ferroprussiate
-feateous
+feateous 1
 fumble
 fanciers
 foreclosures
