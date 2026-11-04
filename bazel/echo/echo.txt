@@ -10,7 +10,7 @@ engirding
 epidermoid
 erigeron
 evaporometer
-euchologion
+euchologion 1
 emigate
 erosivity
 emblazon
