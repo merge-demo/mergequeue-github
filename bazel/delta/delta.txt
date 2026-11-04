@@ -5723,7 +5723,7 @@ dermoossification
 dictyoid 1
 dried
 dipneumonous
-decastich
+decastich 1
 dysthymia
 drepanid
 demit
