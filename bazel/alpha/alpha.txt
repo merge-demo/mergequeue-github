@@ -997,7 +997,7 @@ additives
 abstractest
 adequacy
 abstraction
-apostoless
+apostoless 1
 abstractional
 abstractionist
 adviso

@@ -13825,7 +13825,7 @@ cineration
 creosoting
 clatchy
 cinerator
-circumrotation
+circumrotation 1
 cinereal
 cinerin
 cinerous
