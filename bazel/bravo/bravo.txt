@@ -10252,7 +10252,7 @@ belly
 boracic
 blacksmithing
 biochemy
-beastdom
+beastdom 1
 botargo
 boyang
 biflorous
