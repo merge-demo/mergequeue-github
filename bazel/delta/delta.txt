@@ -9511,7 +9511,7 @@ diggable
 digged
 deuterostome
 demonstrational
-dighted
+dighted 1
 dighter
 donatives
 digraphic
