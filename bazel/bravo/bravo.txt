@@ -2469,7 +2469,7 @@ binotic
 bigram
 baresthesia
 bottom
-busies
+busies 1
 bifunctional
 benzoiodohydrin
 bechalked
