@@ -21288,7 +21288,7 @@ craniate
 concessiveness
 computerite
 concessor
-concessory
+concessory 1
 concettism
 conch
 concha
