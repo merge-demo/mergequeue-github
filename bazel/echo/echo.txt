@@ -12232,7 +12232,7 @@ elevener
 entally
 erodable
 edriasteroidea
-ergotine
+ergotine 1
 eskuara
 ephemerides
 emmental
