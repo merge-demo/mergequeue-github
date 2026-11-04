@@ -12965,7 +12965,7 @@ disorderer
 dormantly
 daughterkin
 dactylitis
-disordering
+disordering 1
 downwith
 decasyllables
 disordinance
