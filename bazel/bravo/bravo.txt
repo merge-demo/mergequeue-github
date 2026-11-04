@@ -10358,7 +10358,7 @@ baltimorite
 bergomask
 bolsheviki
 bumbler
-ballist
+ballist 1
 brays
 blanched
 blanches
