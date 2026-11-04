@@ -10513,7 +10513,7 @@ chakar
 chiliastic
 chiliasts
 chilidogs
-coropo
+coropo 1
 chylidrosis
 coevolutionary
 crews
