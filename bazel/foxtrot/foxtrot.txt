@@ -2743,7 +2743,7 @@ fiercer
 fragmentarily
 fellinic
 fesses
-flaunche
+flaunche 1
 facetiation
 friendlily
 festally
