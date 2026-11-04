@@ -6307,7 +6307,7 @@ gymnasial
 guidsire 1
 gyrons
 guijo
-gastroatonia
+gastroatonia 1
 gastriloquous
 gastrocele
 gymnorhininae
