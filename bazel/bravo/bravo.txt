@@ -15288,7 +15288,7 @@ bridewort
 bridge
 basiliscan
 bighorn
-budtime
+budtime 1
 bridgebuilder
 bridgehead
 bridgemaking
