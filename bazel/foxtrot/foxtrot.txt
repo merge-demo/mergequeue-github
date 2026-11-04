@@ -2194,7 +2194,7 @@ felts
 forthtell
 fishworker
 feltwort
-fastidiosity
+fastidiosity 1
 felwort
 fathearted
 faciobrachial
