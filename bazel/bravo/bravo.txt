@@ -5038,7 +5038,7 @@ bask
 blackings
 blackey
 bisphenoid
-bostal
+bostal 1
 brawest
 brachiofaciolingual
 beltcourse
