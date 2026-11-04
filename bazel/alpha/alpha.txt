@@ -13394,7 +13394,7 @@ antihumbuggist
 archmarshal
 assafetida
 ankylostomiasis
-ankylotic
+ankylotic 1
 anklejack
 ankles
 aetolian
