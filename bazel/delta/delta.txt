@@ -13688,7 +13688,7 @@ dissipaters
 digestedly
 disseating
 denationalising
-dimmish
+dimmish 1
 distrail 1
 dissipation
 disaltern
