@@ -8389,7 +8389,7 @@ dialysis
 digestional
 debauchedness
 diduction
-dialystaminous
+dialystaminous 1
 dialystely
 dialystelic
 dialister
