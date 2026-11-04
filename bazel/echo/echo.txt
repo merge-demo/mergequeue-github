@@ -5233,7 +5233,7 @@ eluviums
 exitus
 elusive
 endolysin
-eparchy
+eparchy 1
 eretrian
 equipluve
 equilibrate
