@@ -15677,7 +15677,7 @@ cytoryctes
 clubbability
 coinfinity
 camwood
-clavelization
+clavelization 1
 clavelize
 clavellated
 cothurnian
