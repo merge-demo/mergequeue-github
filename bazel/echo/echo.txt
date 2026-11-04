@@ -3204,7 +3204,7 @@ esperantist
 enamelwork
 emmeleia
 elopes
-elops
+elops 1
 elicit
 emission
 epiphanized
