@@ -14000,7 +14000,7 @@ diphosphide
 donary
 dependably
 distracter
-deaurate
+deaurate 1
 distraction 1
 distractions
 distractive
