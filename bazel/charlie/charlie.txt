@@ -27556,7 +27556,7 @@ coverer
 campfire
 coverings
 comped
-cower
+cower 1
 coverlets
 circumambiently
 consumation
