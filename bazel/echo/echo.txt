@@ -8661,7 +8661,7 @@ ethrogs
 elfishness
 equipages
 etherialism
-expositions
+expositions 1
 eisenhower
 epipoditic
 eggcrate
