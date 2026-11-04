@@ -10755,7 +10755,7 @@ declared
 decarboxylize
 drainspout
 drools
-discomfiture
+discomfiture 1
 dipsomaniac
 dietotherapeutics
 dipsomaniacs
