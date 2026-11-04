@@ -2984,7 +2984,7 @@ geognosy
 geognostically
 grenadian
 guayules
-gaolering
+gaolering 1
 geographies
 grievers
 galliardness
