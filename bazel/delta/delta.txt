@@ -4057,7 +4057,7 @@ delicately
 denier
 darknesses
 domicil
-dismissible
+dismissible 1
 delicatessen
 dynam
 dustoor
