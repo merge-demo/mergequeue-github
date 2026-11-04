@@ -1057,7 +1057,7 @@ ganglionate
 ganglionated
 gymnoconia
 glyceridic
-gift
+gift 1
 gymnospermism
 gruffish
 glaceing
