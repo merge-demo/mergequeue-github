@@ -50,7 +50,7 @@ discursiveness
 dacryocyst
 dacryocystitis
 diarchial
-diseasefulness
+diseasefulness 1
 dacryocystoptosis
 dunder
 dacryocystosyringotomy 1
