@@ -7724,7 +7724,7 @@ feudality
 fruggin
 flyeater
 flaglike
-foreknew
+foreknew 1
 fiord
 farcically
 florian
