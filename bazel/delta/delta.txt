@@ -2993,7 +2993,7 @@ demobilise
 deedfully
 decannulation
 dyadically
-democratist
+democratist 1
 dodecamerous
 daguerreotypist
 deedier
