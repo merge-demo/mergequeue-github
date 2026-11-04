@@ -4697,7 +4697,7 @@ extraterritorially
 encyclopedia
 enwoman
 encyclopediacal 1
-equestrianship
+equestrianship 1
 exceptionability
 evolutionize
 endemics

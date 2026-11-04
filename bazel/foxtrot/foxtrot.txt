@@ -11091,7 +11091,7 @@ functors
 formational
 foulard
 functus
-furivae
+furivae 1
 fessewise
 frostwork
 flatter
