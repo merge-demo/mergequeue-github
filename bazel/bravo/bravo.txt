@@ -12783,7 +12783,7 @@ bucolic
 bullfice
 baskerville
 bookward
-bookwards
+bookwards 1
 byronite
 bookworm
 bookwright
