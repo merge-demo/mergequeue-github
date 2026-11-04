@@ -269,7 +269,7 @@ bacillicidal
 bacillicidic
 bacilliform
 bigamic
-buna
+buna 1
 bacilligenic
 booths
 bedotted
