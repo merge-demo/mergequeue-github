@@ -195,7 +195,7 @@ ethylthioether
 evicting
 expediting
 equinoctially
-eten
+eten 1
 entincture
 ectoplacenta
 earthset
