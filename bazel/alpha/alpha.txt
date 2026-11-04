@@ -5683,7 +5683,7 @@ agalaxia
 anisomelus
 agalena
 agalenidae
-ambalam
+ambalam 1
 asperating
 agallochs
 acupunctuation
