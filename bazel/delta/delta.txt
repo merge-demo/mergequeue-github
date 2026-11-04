@@ -14645,7 +14645,7 @@ decameter
 draftees
 dora
 degradability
-disinvite
+disinvite 1
 deuteropathy
 dizen
 dlr
