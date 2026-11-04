@@ -9955,7 +9955,7 @@ guarico
 gonidial
 graphostatic
 getaways
-grievousness
+grievousness 1
 gigadoid
 greably
 gritless
