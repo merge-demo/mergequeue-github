@@ -5411,7 +5411,7 @@ fleabiting
 fledgeling
 fiendhead
 foxfinger
-fetis
+fetis 1
 fragmentize
 forbled
 foremade
