@@ -1747,7 +1747,7 @@ gammon
 glibber
 gave
 gloeal
-glessite
+glessite 1
 goric
 glass
 guesses
