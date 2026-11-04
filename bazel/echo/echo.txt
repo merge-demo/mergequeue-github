@@ -5827,7 +5827,7 @@ elephant
 electroencephalograms
 egyptologer
 embraces
-engrammic
+engrammic 1
 eternalized
 epopees
 explanation 1
