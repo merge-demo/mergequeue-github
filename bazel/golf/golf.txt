@@ -4053,7 +4053,7 @@ gynostegium
 gabendum
 genesic
 ginorite
-giantish
+giantish 1
 glum
 gastritic
 grisettes
