@@ -2680,7 +2680,7 @@ egotist
 esophagism
 electrotactic
 eyra
-emmanuel
+emmanuel 1
 earhead
 emborder
 electrotechnician
