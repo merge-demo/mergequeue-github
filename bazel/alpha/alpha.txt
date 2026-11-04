@@ -12536,7 +12536,7 @@ aurorian
 automorphism
 axolysis
 abhors
-acquiescer
+acquiescer 1
 anticonformities
 attask
 acoustician
