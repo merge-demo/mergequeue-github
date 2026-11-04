@@ -17,7 +17,7 @@ forcing
 fylker
 fablemaker
 funkers
-fremituses
+fremituses 1
 fabler 1
 frankers
 flawy
