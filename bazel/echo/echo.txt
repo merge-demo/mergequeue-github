@@ -2104,7 +2104,7 @@ extrovertedness
 extirpateo
 expropriatory 1
 enent
-emma
+emma 1
 emblematist
 enclosable
 enterolysis
