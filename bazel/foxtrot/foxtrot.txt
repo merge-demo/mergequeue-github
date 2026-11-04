@@ -6173,7 +6173,7 @@ flowerers
 fumiferana
 future
 funnyman
-factoress
+factoress 1
 fluohydric
 furnacemen
 flowerwork
