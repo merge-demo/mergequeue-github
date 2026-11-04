@@ -5912,7 +5912,7 @@ catfoot
 catfooted
 chhatri
 catgut
-chancellorism
+chancellorism 1
 cath
 cannibalic
 catha
