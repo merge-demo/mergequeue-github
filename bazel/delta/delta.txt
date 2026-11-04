@@ -1955,7 +1955,7 @@ doze
 dungy
 dicrotism
 debunkers
-dispergated
+dispergated 1
 debunks
 disedify
 divinatory
