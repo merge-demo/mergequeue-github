@@ -13579,7 +13579,7 @@ chignons 1
 cymbocephalous
 convectional
 cymbopogon
-carbuncles
+carbuncles 1
 cote
 cimbrian
 cotsetle
