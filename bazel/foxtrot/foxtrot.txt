@@ -2316,7 +2316,7 @@ feminizes
 friday
 forbysen
 fens
-fluctuates
+fluctuates 1
 furrowless
 frangipane
 fritter
