@@ -3946,7 +3946,7 @@ cornily
 capra
 carburetors
 carburets
-cuffer
+cuffer 1
 cosponsored
 cataphracta
 carburetter
