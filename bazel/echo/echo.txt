@@ -8848,7 +8848,7 @@ egregiousness 1
 endocellular
 eremitism
 euploidy
-ecuelling
+ecuelling 1
 epitheloid
 enkernel
 ecospecifically
