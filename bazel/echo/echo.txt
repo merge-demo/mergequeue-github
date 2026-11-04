@@ -13608,7 +13608,7 @@ epencephal
 experientially
 esopgi
 englishwomen
-expurgates
+expurgates 1
 empedoclean
 effossion
 elinvar
