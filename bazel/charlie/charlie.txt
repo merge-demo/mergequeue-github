@@ -27730,7 +27730,7 @@ cowperian
 crouchmas
 cyul
 cacographical
-conductibility
+conductibility 1
 collingual
 cosmolining
 clinochlore
