@@ -6349,7 +6349,7 @@ gastrectasis
 gonake
 gradating
 goethian
-gam
+gam 1
 groceries
 geotropism
 goety
