@@ -8155,7 +8155,7 @@ gliff
 ghastful
 gleek
 gallicization
-gauntly
+gauntly 1
 graftages
 gloomless
 gooey
