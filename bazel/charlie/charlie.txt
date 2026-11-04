@@ -12472,7 +12472,7 @@ chromolithic
 concanavalin
 chromolithography
 chromolithographic
-chromomere
+chromomere 1
 chondrosarcoma
 chromone
 carboxide
