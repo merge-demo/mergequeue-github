@@ -8637,7 +8637,7 @@ channel
 channelbill
 coendou
 couching
-channeling
+channeling 1
 clubbish
 channelize
 crumber
