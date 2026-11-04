@@ -4140,7 +4140,7 @@ cardiocele
 chevronelly
 cardiocirrhosis
 cacuminate
-consubsistency
+consubsistency 1
 contrarieties
 cardiodilator
 conformable
