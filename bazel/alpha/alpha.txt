@@ -17266,7 +17266,7 @@ apoplectoid
 apoplex
 adamantoid
 anemometrographic
-aporhyolite
+aporhyolite 1
 allanites
 autobiographal
 asserting
