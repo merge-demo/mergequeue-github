@@ -13374,7 +13374,7 @@ bandage
 benjamite 1
 bothriocephalus
 brosimum
-becut
+becut 1
 bothrium
 bothrodendron
 bromothymol

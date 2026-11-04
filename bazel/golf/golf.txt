@@ -7361,7 +7361,7 @@ griffon
 glyoxime
 generalizers
 glomus
-gomarite
+gomarite 1
 gossypine
 gourdiness 1
 gleamier
