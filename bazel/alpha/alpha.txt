@@ -17768,7 +17768,7 @@ ataxia
 antiguan
 aortorrhaphy
 azoxybenzene
-asphyxiate
+asphyxiate 1
 avoke
 antipole
 arthrosclerosis
