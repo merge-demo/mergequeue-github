@@ -18578,7 +18578,7 @@ duikers
 disproportionable
 dildoe
 dreamlet
-delirious
+delirious 1
 duskingtide
 driftfishes
 duskishness
