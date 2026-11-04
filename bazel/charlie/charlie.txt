@@ -25815,7 +25815,7 @@ colophonate
 cinclidotus
 corrugant
 corrugate
-corrugated
+corrugated 1
 cataphoric
 corrugator
 cadelle
