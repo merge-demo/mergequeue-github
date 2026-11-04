@@ -9746,7 +9746,7 @@ dilater
 deforcement 1
 decussated
 disilicane
-deerdrive
+deerdrive 1
 dilates
 disapprovable
 descender
