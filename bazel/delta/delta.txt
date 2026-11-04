@@ -2074,7 +2074,7 @@ dummy
 defaced
 devolution
 disproportionally
-decal
+decal 1
 dodecylic
 dilatory
 decalage
