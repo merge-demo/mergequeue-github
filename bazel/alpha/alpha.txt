@@ -24269,7 +24269,7 @@ autonegation
 acclaimed
 aceldama
 autonomasy
-afeard
+afeard 1
 airmen
 alliteral
 alters
