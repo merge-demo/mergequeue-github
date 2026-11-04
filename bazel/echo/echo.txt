@@ -7690,7 +7690,7 @@ exacta
 eustele
 embrued
 enukki
-effumability
+effumability 1
 ellipsometry
 epideictic
 endomesoderm
