@@ -10000,7 +10000,7 @@ geophysically
 graveness
 gargled
 gelatinify
-galago
+galago 1
 grignet
 gaslike
 gateau
