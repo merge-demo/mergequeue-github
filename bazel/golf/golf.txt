@@ -4804,7 +4804,7 @@ glorifies
 gibbosity
 governorship
 galgal
-gweducks
+gweducks 1
 gargoylishly
 gobiiform
 glucogenic
