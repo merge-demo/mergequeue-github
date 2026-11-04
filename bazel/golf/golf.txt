@@ -2998,7 +2998,7 @@ geologically
 gondite
 gavialis
 gelly
-galvanocauteries
+galvanocauteries 1
 gentlefolk
 gambusia
 guatambu
