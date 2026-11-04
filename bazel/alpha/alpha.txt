@@ -4588,7 +4588,7 @@ abreacting
 arranger
 addax
 adviser
-autonomize
+autonomize 1
 apparatchiki
 androcentric
 affinitatively
