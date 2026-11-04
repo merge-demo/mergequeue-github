@@ -13543,7 +13543,7 @@ experimentor
 exuviae
 emmarbling
 erato
-epexegetic
+epexegetic 1
 engl
 esociform
 evildoer
