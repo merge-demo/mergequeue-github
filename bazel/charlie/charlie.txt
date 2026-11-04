@@ -25900,7 +25900,7 @@ continuative
 corsets
 chopboat
 corsy
-corsican
+corsican 1
 chyak
 chokered
 circumscribes
