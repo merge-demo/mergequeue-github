@@ -2689,7 +2689,7 @@ blowoffs
 birdland
 boraxes
 beakhead
-burnouses
+burnouses 1
 bewaitered
 barnard
 benightment
