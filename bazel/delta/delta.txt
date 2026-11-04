@@ -4243,7 +4243,7 @@ dislocate
 dismaler
 deltalike
 diluvial
-disacknowledge
+disacknowledge 1
 deltas
 dukeling
 dook
