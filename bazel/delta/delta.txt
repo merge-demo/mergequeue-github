@@ -3989,7 +3989,7 @@ dichocarpous
 delators
 delaware
 deleaded
-delectability
+delectability 1
 dampang
 decides
 disintensify
