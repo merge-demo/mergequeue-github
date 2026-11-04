@@ -13536,7 +13536,7 @@ extravagancy
 elflock
 eutaxie
 excitements
-enlightening
+enlightening 1
 earthquakes
 exsectile
 experimentor

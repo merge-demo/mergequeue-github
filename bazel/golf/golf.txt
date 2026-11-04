@@ -6414,7 +6414,7 @@ gongorist
 geostationary
 grieshoch
 grimm
-glycogenetic
+glycogenetic 1
 girlchild
 goitral
 guam
