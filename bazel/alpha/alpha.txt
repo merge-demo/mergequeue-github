@@ -24114,7 +24114,7 @@ auricyanide
 abbeystead
 autogenies
 applenut
-amenable
+amenable 1
 acutate
 accelerating
 aureoles

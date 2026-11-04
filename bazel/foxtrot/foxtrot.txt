@@ -5441,7 +5441,7 @@ filterable
 flexuosely
 floatative
 foggy
-fleering
+fleering 1
 faunal
 flavorers
 figurativeness
