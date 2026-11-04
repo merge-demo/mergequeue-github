@@ -7295,7 +7295,7 @@ empolder
 establisher
 epa
 equiatomic
-efferous
+efferous 1
 explodent
 exoascaceae
 ejicient
