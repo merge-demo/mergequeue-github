@@ -1506,7 +1506,7 @@ effuviate
 efl
 efoliose
 efph
-enantiomorphism
+enantiomorphism 1
 erringly
 entocondylar
 experimentarian
