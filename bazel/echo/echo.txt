@@ -6430,7 +6430,7 @@ equilibrating
 esquiring
 eye
 earthling
-enterprisingness
+enterprisingness 1
 eyedrop
 euthanasia
 enbaissing
