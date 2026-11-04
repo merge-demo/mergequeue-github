@@ -7342,7 +7342,7 @@ armadillidium
 alcoved
 animalise
 africander
-afford
+afford 1
 architectural
 albe
 actinoelectric
