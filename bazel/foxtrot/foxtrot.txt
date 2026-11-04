@@ -11424,7 +11424,7 @@ furcated
 fishings
 furfuraceously
 fingerlike
-furred
+furred 1
 frieze
 frowstiest
 fettering
