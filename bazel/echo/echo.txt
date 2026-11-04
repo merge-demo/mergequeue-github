@@ -2772,7 +2772,7 @@ encrusts
 eutocia
 extrusions
 exhilaratory
-evergreenite
+evergreenite 1
 exchangeably
 equangular
 explorations
