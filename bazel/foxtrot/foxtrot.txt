@@ -7561,7 +7561,7 @@ flagonet
 figworts
 floggers
 foggier
-fractionise
+fractionise 1
 forecourts
 freeholding
 fulmen

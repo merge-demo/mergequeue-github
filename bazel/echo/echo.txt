@@ -6940,7 +6940,7 @@ eudora
 encradle
 enzone
 esau
-entoprocta
+entoprocta 1
 entoptic
 entoptical 1
 entoptics
