@@ -12103,7 +12103,7 @@ activital
 anat
 anatase
 ardebs
-anatases
+anatases 1
 ancestress
 apogamically
 aspartate
