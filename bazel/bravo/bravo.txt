@@ -507,7 +507,7 @@ burbling
 backstops
 backstrapped
 backstreet
-blastophoric
+blastophoric 1
 bombsights
 butomaceous
 backstroke
