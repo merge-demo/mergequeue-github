@@ -6693,7 +6693,7 @@ gumboils
 gastropancreatic
 gymnoglossa
 genuflected
-goniatites
+goniatites 1
 garterless
 gainsayer
 guttler
