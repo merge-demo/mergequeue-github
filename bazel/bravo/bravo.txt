@@ -10212,7 +10212,7 @@ belshazzar
 blackleg
 blacklegged
 benzo
-betattering
+betattering 1
 boyd
 breakpoints
 blacklister
