@@ -18927,7 +18927,7 @@ creepered
 cauterant
 coquinas
 confiscable
-conceding
+conceding 1
 collaret
 counterbracing
 collarette
