@@ -5657,7 +5657,7 @@ eirene
 epilogation
 enforest
 epacme
-enform
+enform 1
 ergometric
 enfort
 embarrasses
