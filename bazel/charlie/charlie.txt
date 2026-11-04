@@ -10508,7 +10508,7 @@ chiliahedron
 chiliarchia
 chiliast
 commuting
-comprehend
+comprehend 1
 chakar
 chiliastic
 chiliasts
