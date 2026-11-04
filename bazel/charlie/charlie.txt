@@ -12447,7 +12447,7 @@ chromocollographic
 circling
 chromocollotype
 chromocratic
-capetonian
+capetonian 1
 chromoctye
 chromodermatosis
 chromogen
