@@ -27507,7 +27507,7 @@ cuban
 covariate
 covariates
 covassal
-cove
+cove 1
 coadunate
 courtzilite
 coved
