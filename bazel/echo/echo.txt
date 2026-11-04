@@ -10950,7 +10950,7 @@ eggbeater
 epipelagic
 ends 1
 ecbolic
-eupnoea
+eupnoea 1
 extenuatory
 excreting
 ectrodactyly 1
