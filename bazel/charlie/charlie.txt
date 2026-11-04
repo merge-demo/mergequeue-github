@@ -22018,7 +22018,7 @@ chookies
 count
 confiscates
 confiscation
-confiscations
+confiscations 1
 confiscators
 churnable
 chromocytometer
