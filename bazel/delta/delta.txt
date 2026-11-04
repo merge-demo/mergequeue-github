@@ -14726,7 +14726,7 @@ dactyloscopic
 detained
 decahedral
 doctorbird
-doc
+doc 1
 dekametre
 declinedness
 darnation
