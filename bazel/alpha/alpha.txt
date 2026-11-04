@@ -9353,7 +9353,7 @@ antiprotease
 anguishful 1
 austringer
 alphamerically
-archtyrant
+archtyrant 1
 approachers
 areole
 alphas
