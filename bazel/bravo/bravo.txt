@@ -17190,7 +17190,7 @@ brisque
 beneficiaryship
 barkantine 1
 bullpen
-bullpoll
+bullpoll 1
 bemirror
 bullpup 1
 brughs

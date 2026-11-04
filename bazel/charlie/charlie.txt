@@ -86,7 +86,7 @@ cosmolatry
 coch
 cabbalistic 1
 catamaran
-cephaeline
+cephaeline 1
 coemptor
 cabbed
 cubics
