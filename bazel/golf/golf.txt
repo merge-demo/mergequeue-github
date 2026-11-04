@@ -4501,7 +4501,7 @@ garvance
 giraffe
 gynocardic
 gypsyism
-gowk
+gowk 1
 glossokinesthetic
 gypsywise
 guzzling
