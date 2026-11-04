@@ -11987,7 +11987,7 @@ andes
 anemone
 anapterygotism
 awe
-anarcestes
+anarcestes 1
 alteregoistic
 abators
 archibuteo
