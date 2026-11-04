@@ -3969,7 +3969,7 @@ dort
 decorous
 dooley
 dissertating
-dominatingly
+dominatingly 1
 ditchdigging
 dominant
 delightedly
