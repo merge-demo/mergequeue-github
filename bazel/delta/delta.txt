@@ -11281,7 +11281,7 @@ dragon
 dropt
 duckwheat
 debussyan
-disarm
+disarm 1
 disgracers
 dyotheletism
 dyarchical
