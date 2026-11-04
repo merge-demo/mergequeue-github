@@ -2568,7 +2568,7 @@ choledocholithotripsy
 cambial
 crocoisite
 candlewasting
-coyan
+coyan 1
 cordwoods
 codlins
 conners
