@@ -10317,7 +10317,7 @@ blahs
 balatas
 blithemeat
 blueback
-blagueur
+blagueur 1
 blains
 bestialize
 bestialities
