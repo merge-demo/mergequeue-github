@@ -17044,7 +17044,7 @@ burt
 bulkhead
 bulkheading
 bulky
-bulkier 1
+bulkier 2
 bulkily
 bitterweed
 befavour
