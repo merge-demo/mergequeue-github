@@ -5627,7 +5627,7 @@ duddy
 dei
 dozy
 desaturation
-depetalize
+depetalize 1
 disorganiser
 disprivilege
 detainingly
