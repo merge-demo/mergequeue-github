@@ -5282,7 +5282,7 @@ dissemblers
 densifying
 disharmonism
 dilatometry
-danaro
+danaro 1
 diglottic
 disscepter
 dewey
