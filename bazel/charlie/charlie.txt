@@ -2713,7 +2713,7 @@ cauponize
 cankers
 cultivators
 comedowns
-carbamyl
+carbamyl 1
 coff
 combinatorics
 cutey
