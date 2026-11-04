@@ -11787,7 +11787,7 @@ enstatitite
 epithelioid
 extracorpuscular
 euripidean
-ekphore
+ekphore 1
 epimerise
 extrospective
 exorcises
