@@ -124,7 +124,7 @@ cabineting
 codshead
 cabinetmaking
 capacitated
-cabinetted
+cabinetted 1
 coumalic
 chordophone
 clitelline
