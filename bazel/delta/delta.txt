@@ -10001,7 +10001,7 @@ dotardism
 derv
 disconnectiveness
 dimorph
-dimorphism
+dimorphism 1
 dukker
 dissatisfactorily
 dally
