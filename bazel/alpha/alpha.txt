@@ -24003,7 +24003,7 @@ autocatalyze
 aeolipile
 aquiferous
 autocholecystectomy
-apoplectical 1
+apoplectical 2
 autochthon
 aunthoods
 autochthonism
