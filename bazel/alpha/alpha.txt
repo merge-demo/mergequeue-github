@@ -8096,7 +8096,7 @@ anolytes
 algarroba
 alantin
 autarchoglossa
-adnexed
+adnexed 1
 alcabala
 algarrobilla
 antimethodicalness
