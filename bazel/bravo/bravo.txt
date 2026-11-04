@@ -7497,7 +7497,7 @@ benamidar
 bestowage
 beveil
 bevelled
-bardism
+bardism 1
 belayer
 beveller
 bookbinder
