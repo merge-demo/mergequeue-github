@@ -8275,7 +8275,7 @@ eure
 epigeic
 escapado
 epitoke
-erratums 1
+erratums 2
 endolaryngeal
 endplay
 epitheliomatous
