@@ -5529,7 +5529,7 @@ ectocarpic
 excitate
 equiformity
 enzymosis
-enervation 1
+enervation 2
 ethnically
 enetophobia
 enfaces
