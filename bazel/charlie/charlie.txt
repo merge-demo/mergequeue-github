@@ -1985,7 +1985,7 @@ camerinidae
 camerist
 circummigrate
 campanero
-comp
+comp 1
 crenelates
 choliambist
 crampbit
