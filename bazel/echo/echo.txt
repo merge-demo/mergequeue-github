@@ -6746,7 +6746,7 @@ effume
 ectosomal
 extratarsal
 esthesioneurosis
-exsuperate
+exsuperate 1
 exhilarate
 enthral
 eschewers
