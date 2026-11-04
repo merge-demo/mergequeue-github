@@ -10230,7 +10230,7 @@ formolit
 frabous 1
 frankeniaceae
 focimetry
-fruticant
+fruticant 1
 fleshly
 fadedness
 fibrillations
