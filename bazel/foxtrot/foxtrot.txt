@@ -9945,7 +9945,7 @@ flaggingly
 flutterless
 fakeers
 facileness
-feelingness
+feelingness 1
 flairs
 floatingly
 fishworks
