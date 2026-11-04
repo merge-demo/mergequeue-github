@@ -274,7 +274,7 @@ amphistyly
 aphenoscope
 abditory
 apelet
-abdom
+abdom 1
 anhydrides
 autoserotherapy
 arian
