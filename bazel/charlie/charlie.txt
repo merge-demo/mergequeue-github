@@ -29192,7 +29192,7 @@ cityless
 chanfron
 colicolitis
 cryoscopic
-cryoscopies
+cryoscopies 1
 cymbaler
 constipate
 cryosel
