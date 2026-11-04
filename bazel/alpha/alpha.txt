@@ -859,7 +859,7 @@ aphakia
 aftercoming
 absee
 abseils
-assibilating
+assibilating 1
 actionized
 arithmic
 amianthoid
