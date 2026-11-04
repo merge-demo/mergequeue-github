@@ -11391,7 +11391,7 @@ amplificate
 aftercause
 amplificative
 avanguardisti
-amplitudinous
+amplitudinous 1
 accurate
 amoibite
 antiplenist
