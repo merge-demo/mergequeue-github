@@ -3911,7 +3911,7 @@ apieces
 akiskemikinik
 adjourn
 allurance
-adjournal
+adjournal 1
 adjoust
 aleyrodidae
 adjudging
