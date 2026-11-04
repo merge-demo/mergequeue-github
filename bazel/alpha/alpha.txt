@@ -18660,7 +18660,7 @@ architraval
 archaises
 archaising
 archaism
-algebraically
+algebraically 1
 ati
 asporulate
 alodium
