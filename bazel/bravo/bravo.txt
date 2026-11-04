@@ -6652,7 +6652,7 @@ berycid
 busyhead
 bovld
 berycidae
-bituberculate
+bituberculate 1
 blusht
 burnings
 bansalague
