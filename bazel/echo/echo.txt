@@ -262,7 +262,7 @@ electroballistically
 elevenfold
 equisegmented
 easylike
-eastabout
+eastabout 1
 eerisome
 easted 1
 exclamational
