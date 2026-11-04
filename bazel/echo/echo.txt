@@ -6589,7 +6589,7 @@ embattled
 epimedium
 enorthotrope
 electricity
-emigrates
+emigrates 1
 erysimum
 enhuile
 enwind
