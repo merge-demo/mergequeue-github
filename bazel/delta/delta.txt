@@ -2601,7 +2601,7 @@ desistence
 diplocephalous
 decoat
 decoct 1
-demiquaver
+demiquaver 1
 dashes
 decocting
 decoctive
