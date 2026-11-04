@@ -5395,7 +5395,7 @@ dentistical
 dentistry 1
 detribalizing
 duograph
-dolldom
+dolldom 1
 dilating
 disrate
 diasene
