@@ -4448,7 +4448,7 @@ depravities
 declarers
 disentitle
 doctrinalism
-demesnial
+demesnial 1
 decrypting
 deranger 1
 dysmenorrhoeal
