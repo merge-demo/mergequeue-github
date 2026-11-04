@@ -4330,7 +4330,7 @@ gymnemic
 gloeosporiose
 gawks
 geodesist
-galeopsis
+galeopsis 1
 gingered
 gaugeable 1
 guss
