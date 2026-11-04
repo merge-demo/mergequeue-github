@@ -13869,7 +13869,7 @@ ethiop
 executancy
 euglobulin
 expo
-etamine
+etamine 1
 exosmosis
 emollient 1
 endolymphangial
