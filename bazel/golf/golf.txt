@@ -3062,7 +3062,7 @@ garnetz
 gossipper
 giant
 gnash 1
-glaciologists
+glaciologists 1
 grands
 graphiter
 greensauce
