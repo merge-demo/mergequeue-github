@@ -18190,7 +18190,7 @@ daniel
 dinucleotide
 dorsulum
 diereses
-duncical
+duncical 1
 delamination
 dharani
 dispensary
