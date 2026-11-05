@@ -1387,7 +1387,7 @@ carpetwoven
 consolable
 california
 californian
-chinos
+chinos 1
 chutneys
 chantages
 caliga
