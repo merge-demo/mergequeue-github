@@ -10701,7 +10701,7 @@ dipodic
 dipodid
 deleble
 destained
-depastured
+depastured 1
 dawting
 dah
 dryworker
