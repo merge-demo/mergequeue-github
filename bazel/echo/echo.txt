@@ -9364,7 +9364,7 @@ expectedly
 earmindedness 1
 escalator
 excommunicable
-ergonomics
+ergonomics 1
 eupepsia
 escalated
 exilition
