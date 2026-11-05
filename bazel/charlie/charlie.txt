@@ -21970,7 +21970,7 @@ configurative
 configure
 configures
 coxcombry
-confinable
+confinable 1
 confine
 comports 1
 confined
