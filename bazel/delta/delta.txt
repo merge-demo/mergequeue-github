@@ -14277,7 +14277,7 @@ dithyrambs
 dithyrambus
 dominicker
 denotationally
-dytiscid
+dytiscid 1
 daubier
 dytiscus
 ditokous
