@@ -17174,7 +17174,7 @@ astacidae
 apolune
 aralie
 anthracoxen
-ajog
+ajog 1
 anaerobian
 apolunes
 apartment
