@@ -6578,7 +6578,7 @@ bagattino
 bladderless
 berchemia
 borachio
-berdache 1
+berdache 2
 battuta
 brazenly
 berdash
