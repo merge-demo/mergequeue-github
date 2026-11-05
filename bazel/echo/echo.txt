@@ -11831,7 +11831,7 @@ externization
 enviably
 electromagnetically
 equibalance
-epirrhematic
+epirrhematic 1
 epidendric
 etiolation
 excalcarate
