@@ -15526,7 +15526,7 @@ antimodernistic
 almshouse
 appendicularian
 aramidae
-antimonarchally
+antimonarchally 1
 auxochromic
 armchaired
 anthracnose
