@@ -1210,7 +1210,7 @@ emetical
 extranuclear
 embroscopic
 ennuyee
-extermine
+extermine 1
 emmies
 epimorphosis
 educible
