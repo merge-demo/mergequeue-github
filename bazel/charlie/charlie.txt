@@ -19449,7 +19449,7 @@ colostration
 colostrous
 colostrum
 colotomy
-colotomies
+colotomies 1
 cockroach
 configurational
 colourably
