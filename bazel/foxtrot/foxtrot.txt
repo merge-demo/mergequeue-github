@@ -172,7 +172,7 @@ formicaroid
 factionistism
 flirtatious
 fibrointestinal
-friborg
+friborg 1
 fabulous
 fourquine
 factiously
