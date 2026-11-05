@@ -26322,7 +26322,7 @@ costotrachelian
 celebratedness
 ceteosaur
 chalcomancy
-costovertebral
+costovertebral 1
 costraight
 cloudberries
 chasteness
