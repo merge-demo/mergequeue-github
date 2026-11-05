@@ -9217,7 +9217,7 @@ foundries 1
 faucals
 fidalgo
 forsakes
-feldspathose
+feldspathose 1
 flosh
 fusing
 fragments
