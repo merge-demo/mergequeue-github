@@ -15317,7 +15317,7 @@ decadescent 1
 dolphins
 discountenance
 diagnostics
-design
+design 1
 distilleries
 dismit 1
 demonolatry
