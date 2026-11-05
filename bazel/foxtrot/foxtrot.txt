@@ -1244,7 +1244,7 @@ frigor
 flatdom 1
 faradism
 fastening
-frocked
+frocked 1
 futteret
 fama
 favella
