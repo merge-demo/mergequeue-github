@@ -4109,7 +4109,7 @@ fenestellid
 finitely
 fratery
 felicitously
-foresightless
+foresightless 1
 fungusy
 frostation
 fergusonite
