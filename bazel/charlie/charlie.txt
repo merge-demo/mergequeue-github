@@ -5371,7 +5371,7 @@ castellano
 castellans
 cinerararia
 chaufer
-castellate
+castellate 1
 castellation
 castellatus
 creolization
