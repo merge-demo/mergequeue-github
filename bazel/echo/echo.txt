@@ -2089,7 +2089,7 @@ eutectics
 edictal
 entraps
 enchainements
-ecphractic
+ecphractic 1
 epi
 eugene
 epopoean
