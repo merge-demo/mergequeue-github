@@ -13228,7 +13228,7 @@ eldred
 exheredate
 excluders
 exoarteritis
-exanthalose
+exanthalose 1
 enlightenedness
 explanted
 explanting
