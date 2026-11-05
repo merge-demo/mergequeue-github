@@ -5585,7 +5585,7 @@ gelilah
 goutier
 greenroom
 glucaemia
-gumming
+gumming 1
 gaysome
 gripless
 geochemist
