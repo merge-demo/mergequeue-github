@@ -10968,7 +10968,7 @@ fink
 fumaroidal
 flappier
 forerunning
-faipule
+faipule 1
 foreadapt
 forthright
 focaloid
