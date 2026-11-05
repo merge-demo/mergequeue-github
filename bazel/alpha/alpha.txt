@@ -15681,7 +15681,7 @@ alderling
 atoneable
 amygdalectomy
 andamentos
-aphetic
+aphetic 1
 alehoof
 adsignify
 atrazine
