@@ -4507,7 +4507,7 @@ encephalitic
 executively 1
 emulators
 embryophyta
-encephalographic
+encephalographic 1
 ekphorize
 episematic
 earlock
