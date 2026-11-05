@@ -3003,7 +3003,7 @@ gentlefolk
 gambusia
 guatambu
 greasiness
-glitnir
+glitnir 1
 glycolic
 gibbering
 gentilhomme
