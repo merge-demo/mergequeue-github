@@ -14599,7 +14599,7 @@ dropheads
 demosthenic
 developmentary
 decupling
-divorcive
+divorcive 1
 dietal
 devs
 divort
