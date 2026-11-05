@@ -6869,7 +6869,7 @@ eelskin
 ealdorman
 erythrozincite 1
 epituberculosis
-ermine
+ermine 1
 exults
 epidermoidal
 educability
