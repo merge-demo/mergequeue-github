@@ -2535,7 +2535,7 @@ dibromoacetaldehyde
 declaratorily
 deaminate
 drain
-dotted
+dotted 1
 divulgater
 disregarder
 declare
