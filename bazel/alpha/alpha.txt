@@ -12480,7 +12480,7 @@ appealed
 anechoic
 amazed
 adar
-anelasticity
+anelasticity 1
 augurship
 antirationalism
 anelectrode
