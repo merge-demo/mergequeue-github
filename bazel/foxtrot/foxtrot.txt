@@ -9888,7 +9888,7 @@ fewnesses
 folksey
 flitching
 fraghan
-frits
+frits 1
 friskier
 folliculous
 foliaceousness
