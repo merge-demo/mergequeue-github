@@ -17043,7 +17043,7 @@ apocopated
 alumian
 artily
 alcid
-angulus
+angulus 1
 addy
 arthrotropic
 apocopes
