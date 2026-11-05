@@ -4227,7 +4227,7 @@ gigantosaurus
 gonidiose
 ghibelline
 gynaecium
-gunned
+gunned 1
 grovel
 goloka
 gois

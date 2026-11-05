@@ -15290,7 +15290,7 @@ dolomedes
 discovery
 dolomite
 derries
-dose
+dose 1
 dolomitic
 descriptives
 dorididae
