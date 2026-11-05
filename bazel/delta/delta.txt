@@ -10531,7 +10531,7 @@ decentest
 depressants
 defoggers
 depectible
-diplacuses
+diplacuses 1
 diple
 dacryocystotome
 dipleural
