@@ -3703,7 +3703,7 @@ gnathite
 goalmouth
 gyrencephalic
 ghostier
-galah
+galah 1
 geodetically
 glumelike
 ghostish
