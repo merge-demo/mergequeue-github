@@ -10464,7 +10464,7 @@ drowsy
 duumvirs
 deglutitive
 distortion
-dister
+dister 1
 droits
 denaturate
 diphtheria
