@@ -1575,7 +1575,7 @@ defilades
 deadish
 dysgenesic
 dhanush
-demand
+demand 1
 disposition
 determinatively
 desitive
