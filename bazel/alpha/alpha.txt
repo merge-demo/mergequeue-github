@@ -21043,7 +21043,7 @@ ahmet
 azoxynaphthalene 1
 acknowledgedly
 accumulators
-amphithalamus
+amphithalamus 1
 ascite
 ashluslay
 aceconitic
