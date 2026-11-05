@@ -2788,7 +2788,7 @@ docudrama
 decreasingly
 dairymen
 deltoideus
-decreer
+decreer 1
 decurrently
 diamondized
 decreet
