@@ -3998,7 +3998,7 @@ equiform
 extramodal
 empatron
 extemporizes
-etrurian
+etrurian 1
 essie
 eupatorin
 eyestalks
