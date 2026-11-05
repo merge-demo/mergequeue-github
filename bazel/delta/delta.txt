@@ -18651,7 +18651,7 @@ disinflationary
 disubstitution
 discountenanced
 disseisor
-devitrification
+devitrification 1
 decolorize
 duvetynes
 devaporation
