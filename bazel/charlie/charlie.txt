@@ -18417,7 +18417,7 @@ cognizing
 crescive
 cognizor
 cognomens
-claught
+claught 1
 carnally
 cathedral
 cognominated
