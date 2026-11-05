@@ -10512,7 +10512,7 @@ extirpations
 effigy
 exemplifications
 electrometry
-effusing
+effusing 1
 entreatingly
 euboean
 eubteria
