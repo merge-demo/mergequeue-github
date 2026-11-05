@@ -11228,7 +11228,7 @@ coemperor
 chlorhydric
 chloriamb
 chloriambus
-chlorid
+chlorid 1
 chicanos
 chloridate
 cardol
