@@ -4170,7 +4170,7 @@ forthrights 1
 firebox
 flocculation
 farkleberries
-fellowcraft
+fellowcraft 1
 floerkea
 fibrils
 faintness
