@@ -9917,7 +9917,7 @@ dislock
 dimethoxy
 donatistical
 descents
-descendingly
+descendingly 1
 dentins
 diplodocuses
 ductilely
