@@ -4180,7 +4180,7 @@ drearfully 1
 dells
 distinct
 deserter
-dyspneic
+dyspneic 1
 deceptibility
 deinsularize
 depopulations
