@@ -5008,7 +5008,7 @@ demultiplexers
 disroot
 desexing
 deposed
-dinamode
+dinamode 1
 decussion
 delustered
 diplopy
