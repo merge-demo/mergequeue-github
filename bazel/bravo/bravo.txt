@@ -12721,7 +12721,7 @@ breviate
 barrenwort
 beaux
 barging
-ballant
+ballant 1
 booklear
 brandishing 1
 booklore
