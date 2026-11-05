@@ -1992,7 +1992,7 @@ dermatoma
 drover
 demyelinate
 dominated
-deflection
+deflection 1
 descloizite
 decadary
 dimethylcarbinol
