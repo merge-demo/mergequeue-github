@@ -17602,7 +17602,7 @@ baseballs
 burggrave
 burghbote
 brandished
-bristling
+bristling 1
 burgherage
 beguine
 bigonial
