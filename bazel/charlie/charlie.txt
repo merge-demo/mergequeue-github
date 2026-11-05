@@ -11086,7 +11086,7 @@ chiton
 cageling
 chitons
 cadence
-chitosamine
+chitosamine 1
 chitosan
 committeeism
 chloridation
