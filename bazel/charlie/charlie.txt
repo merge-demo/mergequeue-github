@@ -6286,7 +6286,7 @@ conferrer
 capuchins
 catalases
 cofermentation
-colourize
+colourize 1
 crescence
 cravingly
 cecchine
