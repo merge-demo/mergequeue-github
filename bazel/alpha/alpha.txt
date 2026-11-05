@@ -13864,7 +13864,7 @@ affix
 anour
 asher
 anovulant
-anovulatory
+anovulatory 1
 anoxemias
 ashrams
 allophane
