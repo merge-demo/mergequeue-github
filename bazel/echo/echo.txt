@@ -8682,7 +8682,7 @@ emendations
 equipoise
 endophyllous
 erotical
-euphemizing
+euphemizing 1
 epilepsy 1
 ejecta
 equipotential
