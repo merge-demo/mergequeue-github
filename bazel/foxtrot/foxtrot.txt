@@ -4558,7 +4558,7 @@ flagellation
 fruitcake
 forethinker
 foolable
-faciolingual
+faciolingual 1
 fourth
 feudists
 frit
