@@ -9051,7 +9051,7 @@ allotter 1
 allottery
 aigrette
 astrictiveness
-antimilitaristic
+antimilitaristic 1
 allowable
 antemarital
 animant
