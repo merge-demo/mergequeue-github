@@ -2912,7 +2912,7 @@ evicts
 excitation
 emplaning 1
 elevons
-eurydice
+eurydice 1
 elf
 elfenfolk
 endogeny
