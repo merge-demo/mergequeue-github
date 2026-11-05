@@ -9872,7 +9872,7 @@ besmirches
 bitter
 besee
 bitterbloom
-bittered
+bittered 1
 beyerite
 bitterender
 ballooning
