@@ -4538,7 +4538,7 @@ ectotheca
 erucin
 encephalomyocarditis
 emancipate
-enactive
+enactive 1
 emerita
 ephorate
 encephalopathia
