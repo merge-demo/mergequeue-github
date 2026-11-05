@@ -11645,7 +11645,7 @@ amba
 anacrogynous
 accents
 anacrotic
-altricial
+altricial 1
 anacruses
 anaculture
 aortitis
