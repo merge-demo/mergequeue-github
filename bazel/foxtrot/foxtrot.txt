@@ -10397,7 +10397,7 @@ fraggings
 filigree
 flow
 fictility
-flyspecked
+flyspecked 1
 firstling
 forcaria
 fertilizer
