@@ -11797,7 +11797,7 @@ antimalarial
 anticeremonialism
 altocumulus
 antidysuric
-africanthropus
+africanthropus 1
 aglimmer
 axfetch
 aparavidya
