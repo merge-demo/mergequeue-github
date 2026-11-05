@@ -6396,7 +6396,7 @@ barfy
 benzonaphthol
 benzonitrile
 behedge
-benzophenothiazine
+benzophenothiazine 1
 benzophloroglucinol
 betting
 benedight
