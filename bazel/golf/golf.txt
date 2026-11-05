@@ -5552,7 +5552,7 @@ globigerinae
 guarnerius
 gourd
 glutition
-globigerinas
+globigerinas 1
 gaminish
 greens
 gemutlichkeit
