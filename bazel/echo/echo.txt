@@ -256,7 +256,7 @@ embrighten
 easiest
 eleutheromorph 1
 evensong
-eulamellibranchia
+eulamellibranchia 1
 emendately
 electroballistically
 elevenfold
