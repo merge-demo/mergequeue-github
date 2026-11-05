@@ -19617,7 +19617,7 @@ acoupa
 aminoguanidine
 antireformist
 adversariness
-antistrophize
+antistrophize 1
 attritional
 absorbingly
 airheads
