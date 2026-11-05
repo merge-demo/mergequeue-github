@@ -14016,7 +14016,7 @@ embittered
 emulsin
 emmet
 extraspectral
-exordize
+exordize 1
 enigmatography
 endothecia
 epitrophic
