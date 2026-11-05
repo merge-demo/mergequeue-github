@@ -9006,7 +9006,7 @@ abalone
 allothimorphic
 amphisbaenae
 aisle
-amuses
+amuses 1
 allothogenic
 astrakanite
 angora
