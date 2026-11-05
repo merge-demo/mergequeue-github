@@ -7724,7 +7724,7 @@ graduses
 gentium
 glome
 girba
-glycuresis
+glycuresis 1
 gemlike
 geist
 glaciolacustrine
