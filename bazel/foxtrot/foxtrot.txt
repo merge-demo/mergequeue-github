@@ -10294,7 +10294,7 @@ fluormeter
 ferrates
 farnesses 1
 factor
-frenziedness
+frenziedness 1
 forleaving
 foundationless
 finfoot
