@@ -5513,7 +5513,7 @@ gadaria
 gastroparietal
 gazingly
 garring
-gloams
+gloams 1
 granadillo
 glutinously
 grudgeons
