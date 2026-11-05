@@ -16204,7 +16204,7 @@ defats
 doweress
 dingeys
 dunches
-dent
+dent 1
 dowery
 derailer
 diethanolamine
