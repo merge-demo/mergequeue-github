@@ -352,7 +352,7 @@ daybreaks
 diplostichous
 dreamt
 daygoing
-desiccation
+desiccation 1
 daiker
 dcor
 densest
