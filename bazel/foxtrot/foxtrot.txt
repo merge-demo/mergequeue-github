@@ -1741,7 +1741,7 @@ foresaddle
 fluphenazine
 fossildom
 fibropsammoma
-fantasmagoric
+fantasmagoric 1
 frailero
 famatinite
 flattener
