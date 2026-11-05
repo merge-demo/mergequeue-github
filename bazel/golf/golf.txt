@@ -6700,7 +6700,7 @@ guttler
 grint
 gibbet
 gulae
-gobmouthed
+gobmouthed 1
 growable
 gromatic
 gibbergunyah
