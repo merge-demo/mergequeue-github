@@ -6748,7 +6748,7 @@ extratarsal
 esthesioneurosis
 exsuperate
 exhilarate
-enthral
+enthral 1
 eschewers
 enthralldom 1
 exurb
