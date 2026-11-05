@@ -24011,7 +24011,7 @@ abutilons
 atmometer
 autocide
 acetylbiuret
-alumnus
+alumnus 1
 afterproof
 addlins
 accerse
