@@ -9620,7 +9620,7 @@ arachnoid
 anaglyptography
 atonalist
 abridges
-aluminate
+aluminate 1
 alumines
 archicontinent
 absfarad
