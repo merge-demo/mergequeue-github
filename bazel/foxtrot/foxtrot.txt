@@ -9980,7 +9980,7 @@ fencings
 fliest
 fairness
 fossilising
-frijole
+frijole 1
 footprint
 forewarner
 footpaths
