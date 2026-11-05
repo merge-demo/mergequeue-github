@@ -118,7 +118,7 @@ gadroon
 giher 1
 ginete
 gastly
-gastrostomy
+gastrostomy 1
 gazogene
 gypsyhood
 girdled
