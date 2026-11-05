@@ -14340,7 +14340,7 @@ deanship
 desoxyribose
 dishallucination
 decimestrial
-diuranate
+diuranate 1
 dreadingly
 drawly
 diureide
