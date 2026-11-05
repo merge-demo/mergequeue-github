@@ -6198,7 +6198,7 @@ geopony
 gagster
 gon
 geadephaga
-goaltender
+goaltender 1
 goanna
 grandmontine
 gushiness

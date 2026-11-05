@@ -14947,7 +14947,7 @@ discoursively
 dodman
 dodoma
 demonised 1
-drugman
+drugman 1
 dendrocalamus
 depr
 deoperculate
