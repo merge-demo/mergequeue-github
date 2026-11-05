@@ -3575,7 +3575,7 @@ dermatotome
 drawbeam
 dissheathe
 dehwar
-defuze
+defuze 1
 dolman
 dakoities
 dissociative
