@@ -2001,7 +2001,7 @@ ekka
 enolate
 exophoric
 ekphorias
-empetrum
+empetrum 1
 experienceless
 eryngo
 ekron
