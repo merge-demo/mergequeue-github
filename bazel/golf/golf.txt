@@ -4304,7 +4304,7 @@ glabellum
 gynecophorous
 gynecratic
 gelidness
-gorgonia
+gorgonia 1
 gyneolater
 guinfo
 gelsemia 1
