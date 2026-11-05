@@ -3607,7 +3607,7 @@ exhibits
 expostulatingly
 epitomically
 embows
-exanimate
+exanimate 1
 enculturate
 entamoeba
 encyclopaediac
