@@ -4682,7 +4682,7 @@ demythologizer
 duodecimal
 discretionally 1
 dees
-delectableness
+delectableness 1
 denationalizing
 demitint
 demitoilet
