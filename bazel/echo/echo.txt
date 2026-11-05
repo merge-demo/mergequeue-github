@@ -3273,7 +3273,7 @@ ellwand
 ermitophobia
 empathizes
 empiriological
-effacement
+effacement 1
 ethnographic
 eurafrican
 enigmatically
