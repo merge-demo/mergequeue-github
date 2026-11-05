@@ -6496,7 +6496,7 @@ grooving
 gibbert
 grutches 1
 goaltenders
-georgiadesite
+georgiadesite 1
 glaciologist
 germinatively
 gonapophysial
