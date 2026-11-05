@@ -11971,7 +11971,7 @@ exothermicity
 endurance
 enlist
 epithecate
-exactress
+exactress 1
 enarthroses
 enteromesenteric
 epistemophilic
