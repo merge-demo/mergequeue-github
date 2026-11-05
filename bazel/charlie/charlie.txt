@@ -2107,7 +2107,7 @@ coalmonger
 conjunctly 1
 campanologically
 coniology
-campanologist
+campanologist 1
 capillaceous
 corrober
 campanologists
