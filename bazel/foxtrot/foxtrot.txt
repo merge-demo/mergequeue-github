@@ -10584,7 +10584,7 @@ francophobe
 feeblebrained
 fanteeg
 forwarn
-freakouts
+freakouts 1
 fibrination
 finement
 fatefulness
