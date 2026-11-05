@@ -7076,7 +7076,7 @@ destigmatization
 destigmatizing
 destination
 dunelands
-disallowed
+disallowed 1
 destines 1
 dz
 dollhood
