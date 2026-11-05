@@ -6517,7 +6517,7 @@ entocyst
 enlivens
 erubescence
 excludable
-englerophoenix
+englerophoenix 1
 estimative 1
 execration
 ephemeric
