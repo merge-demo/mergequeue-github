@@ -10367,7 +10367,7 @@ eloign
 ethylamime
 elytra
 ethnopsychology
-enalite
+enalite 1
 enthuses
 epistolary
 elkoshite
