@@ -1146,7 +1146,7 @@ easefulness
 editorship
 editorships
 elasticness
-encrown
+encrown 1
 enthrill
 expilator
 emanationism
