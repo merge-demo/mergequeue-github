@@ -13212,7 +13212,7 @@ bosn
 balneologist
 brinkless
 bundists
-bosniak
+bosniak 1
 battlewise
 bifer
 benzoyl
