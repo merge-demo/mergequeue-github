@@ -8850,7 +8850,7 @@ carabao
 charactering
 cobwebbier
 characterisable
-clavodeltoideus
+clavodeltoideus 1
 complimenters
 catlinite
 characterise
