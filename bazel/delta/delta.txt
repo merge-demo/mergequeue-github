@@ -283,7 +283,7 @@ docken
 debugged
 disassiduity
 doliolidae
-diploperistomic
+diploperistomic 1
 diagraming
 dodoism
 dahabeahs
