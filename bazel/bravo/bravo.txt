@@ -4168,7 +4168,7 @@ beastlily
 beclown
 barrow
 boylas
-bradypus
+bradypus 1
 beastling
 bullswool
 beastlings
