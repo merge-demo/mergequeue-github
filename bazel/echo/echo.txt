@@ -12558,7 +12558,7 @@ exsects
 exite
 eranist
 extinction
-envied
+envied 1
 enherit
 entryman
 elkdom
