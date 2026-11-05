@@ -904,7 +904,7 @@ eschewing
 expeditionary
 enures
 emperies
-extrastate
+extrastate 1
 electrostrictive
 episedia
 encomiastic
