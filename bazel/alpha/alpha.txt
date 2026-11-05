@@ -17229,7 +17229,7 @@ admonitively
 aseismicity
 animalculine
 anticipators 1
-apophyllite
+apophyllite 1
 appreciant
 archicarp
 acoma
