@@ -9023,7 +9023,7 @@ bringal
 bize
 bitentaculate
 busheler
-barbershop
+barbershop 1
 burnouts
 boldface
 brev
