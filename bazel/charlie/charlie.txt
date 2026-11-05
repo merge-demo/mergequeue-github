@@ -28838,7 +28838,7 @@ commander
 comte
 cretaceously
 creach
-cretacic
+cretacic 1
 coastwaiter
 cretan
 cymotrichy
