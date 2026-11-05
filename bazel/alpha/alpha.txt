@@ -3351,7 +3351,7 @@ actinochemical
 aphthongia
 adamantoblast
 archery
-amblystoma
+amblystoma 1
 absentee
 atresic
 atelets
