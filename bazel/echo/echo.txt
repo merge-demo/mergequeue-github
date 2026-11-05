@@ -9592,7 +9592,7 @@ esophagalgia
 esophagean
 esophago
 esophagogastroscopy
-entrike
+entrike 1
 esophagometer
 emotionalized
 enticeable
