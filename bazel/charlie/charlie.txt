@@ -2129,7 +2129,7 @@ campbell
 campbellisms
 campbellites
 cixiid
-capriciousness
+capriciousness 1
 campcraft
 campe
 cumbers
