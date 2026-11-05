@@ -11604,7 +11604,7 @@ for
 fetch
 forcarve
 frough
-frack
+frack 1
 forewinning
 fulgour
 formulizer
