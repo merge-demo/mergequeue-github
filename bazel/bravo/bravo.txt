@@ -12993,7 +12993,7 @@ brideless
 bloomers
 bombazine
 balanid
-boracite
+boracite 1
 boracous
 borage
 bruchidae
