@@ -20574,7 +20574,7 @@ auriculariales
 arthritis
 arthrobacterium
 arranged
-apathies
+apathies 1
 arabic
 anallantoic
 acidulates
