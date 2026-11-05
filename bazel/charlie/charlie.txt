@@ -24543,7 +24543,7 @@ chromolithograph
 cleistothecopsis
 cyzicene
 coplaintiff
-coper
+coper 1
 copernican
 creatophagous
 citrinous
