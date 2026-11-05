@@ -6222,7 +6222,7 @@ damascened
 digametic
 dermabrasion
 dithyramb 1
-degrades
+degrades 1
 drabness
 dipsades
 disbenchment
