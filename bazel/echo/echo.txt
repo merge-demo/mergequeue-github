@@ -12037,7 +12037,7 @@ emigrator
 excogitator
 extraembryonic
 enquere 1
-excommunication
+excommunication 1
 exploitage
 episcias
 extra
