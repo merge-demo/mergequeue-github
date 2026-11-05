@@ -5967,7 +5967,7 @@ devonic
 dollish
 depeculate
 deadeningly
-deprogrammings
+deprogrammings 1
 deprograms
 dropforged
 deprome
