@@ -3068,7 +3068,7 @@ deeses
 deepfrozen
 deemphasize
 dorsoapical
-diester
+diester 1
 downward
 diuretic
 deewan
