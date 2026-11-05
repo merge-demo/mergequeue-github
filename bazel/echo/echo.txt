@@ -6672,7 +6672,7 @@ epanastrophe
 exhaled
 enteromegalia
 enteroneuritis
-effectuates
+effectuates 1
 entomophthoraceous
 engrafted
 eyehooks

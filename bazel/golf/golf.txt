@@ -4426,7 +4426,7 @@ gorgoneum
 guestling
 gutted
 ghaut 1
-gluer
+gluer 1
 graces
 griffinage
 gynodioecious
