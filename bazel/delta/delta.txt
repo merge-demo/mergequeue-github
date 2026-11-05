@@ -11140,7 +11140,7 @@ dreparnaudia
 dosain
 diaphanous
 donating
-disattaint
+disattaint 1
 disattune
 defiling
 diplomacy
