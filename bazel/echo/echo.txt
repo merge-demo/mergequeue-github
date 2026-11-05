@@ -6479,7 +6479,7 @@ encheck
 exercisable
 ensorcellment
 ensorrow
-encumberment
+encumberment 1
 ectodactylism
 endometriosis
 embolismus
