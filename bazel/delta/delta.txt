@@ -3497,7 +3497,7 @@ dorosacral
 decompressed
 deflator
 deforced
-depressors
+depressors 1
 deforces
 dimittis
 deforciant
