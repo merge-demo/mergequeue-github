@@ -8073,7 +8073,7 @@ gentlewoman
 granivore
 gasconader
 grannam
-gybes
+gybes 1
 grandfathership
 glandularly
 gasiform
