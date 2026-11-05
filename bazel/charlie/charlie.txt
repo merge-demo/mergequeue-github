@@ -9974,7 +9974,7 @@ cherenkov
 cherimoyer
 cump
 cherish
-chordeiles
+chordeiles 1
 crawfishes
 counteractant
 chymic
