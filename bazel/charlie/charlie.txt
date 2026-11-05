@@ -11622,7 +11622,7 @@ crankbird
 configurationism
 cholepoietic
 cooks
-choler
+choler 1
 cholera
 counterround
 circumjacent
