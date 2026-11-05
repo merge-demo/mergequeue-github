@@ -3884,7 +3884,7 @@ gaelicization
 glumpy
 glazed
 gloweringly
-gigahertzes
+gigahertzes 1
 galloperdix
 gigaherz
 gymnarchidae
