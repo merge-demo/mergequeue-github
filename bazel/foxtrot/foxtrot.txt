@@ -3570,7 +3570,7 @@ filariids
 forechoice
 flagellative
 foody 1
-funding
+funding 1
 forboding
 fairylands
 fulgence

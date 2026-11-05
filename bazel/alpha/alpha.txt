@@ -5411,7 +5411,7 @@ appaume
 albuminised
 annexionist
 acrorhagus
-afluking
+afluking 1
 adjutrix
 aforementioned
 anemoclastic
