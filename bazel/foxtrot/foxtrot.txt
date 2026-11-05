@@ -11544,7 +11544,7 @@ floeberg
 famulary
 fledgy
 folio
-fretfully
+fretfully 1
 ferociousness
 footlessly
 fetting
