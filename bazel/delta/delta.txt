@@ -4209,7 +4209,7 @@ dogcart
 depasturing
 dyslogy
 debtors
-delphically
+delphically 1
 diversifiable
 disparpling
 dasyurus
