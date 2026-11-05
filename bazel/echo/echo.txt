@@ -1783,7 +1783,7 @@ effractor
 escalloping
 eyesight
 epigenic
-enormities
+enormities 1
 eparchs
 erinose
 entericoid
