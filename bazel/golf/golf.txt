@@ -8968,7 +8968,7 @@ gastrodidymus
 gridelin
 griding
 gasped
-galvo
+galvo 1
 greyhens
 greenbul
 glenlivet
