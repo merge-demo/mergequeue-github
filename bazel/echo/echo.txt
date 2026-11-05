@@ -6511,7 +6511,7 @@ envisaging
 epistropheal
 erythrochroism
 euphratean
-exstruct
+exstruct 1
 euphonicalness
 entocyst
 enlivens
