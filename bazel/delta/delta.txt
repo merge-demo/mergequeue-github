@@ -9759,7 +9759,7 @@ dilatoriness
 daypeep
 denaturiser
 dreamingly
-decence
+decence 1
 duct
 discapacitate
 demiram

@@ -5148,7 +5148,7 @@ broadside
 beggarer
 buccinatory
 bagpod
-beforeness
+beforeness 1
 baffled
 boxholder
 bootmaker
