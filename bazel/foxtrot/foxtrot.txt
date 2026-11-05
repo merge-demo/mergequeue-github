@@ -6057,7 +6057,7 @@ fateful
 floriation
 freet
 fertilize
-frizz
+frizz 1
 flunkeyize
 farting
 flavorfulness
