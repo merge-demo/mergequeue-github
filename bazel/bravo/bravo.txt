@@ -18069,7 +18069,7 @@ biologize
 bustlingly
 blenny
 bloom
-banzais
+banzais 1
 busts
 busulfans
 bughouse
