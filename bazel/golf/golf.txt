@@ -1726,7 +1726,7 @@ gallicize
 gulf
 guardrails
 gremmies
-glunch
+glunch 1
 governail
 guaba
 gambado
