@@ -7767,7 +7767,7 @@ diglyph
 devisor
 decrier
 dowie
-devitalizes
+devitalizes 1
 drawler
 ductilizing
 daphnephoria
