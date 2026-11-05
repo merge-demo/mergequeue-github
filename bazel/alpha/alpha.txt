@@ -10700,7 +10700,7 @@ aminoid
 agrement
 aminoketone
 aminomalonic 1
-analities
+analities 1
 anisodactyl
 antiorgastic
 aminopherase
