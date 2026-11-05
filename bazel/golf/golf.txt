@@ -501,7 +501,7 @@ gullably
 ghostism
 geminations
 gnomes
-gurrah
+gurrah 1
 gluconokinase
 geomorphology
 gisement
