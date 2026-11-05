@@ -545,7 +545,7 @@ deaccessions
 dovyalis
 deliber
 dao
-damagers
+damagers 1
 damalic
 dextrorotation
 demobilized
