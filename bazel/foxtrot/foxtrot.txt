@@ -3874,7 +3874,7 @@ farcer
 frizette
 focalising
 fulgurous
-feces
+feces 1
 frustulum
 flet
 fleshpots
