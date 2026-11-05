@@ -26938,7 +26938,7 @@ countermanifestoes
 countfish
 columbotitanate
 colorable
-chevaux
+chevaux 1
 cunningaire
 countermarching
 complexification
