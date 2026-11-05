@@ -11926,7 +11926,7 @@ anchylosis
 anapaestically
 ancientness
 ataraxic
-anew
+anew 1
 amenism
 aricin
 anapaite
