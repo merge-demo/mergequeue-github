@@ -14042,7 +14042,7 @@ eyeline
 elektra 1
 enliven
 eidolons
-excandescency
+excandescency 1
 embellishments
 extrathermodynamic
 equationism
