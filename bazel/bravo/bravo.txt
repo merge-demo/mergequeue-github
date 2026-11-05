@@ -14624,7 +14624,7 @@ bedcord
 brantle
 bacteriologic
 bibliomanism
-brantness
+brantness 1
 brants
 bararesque
 branular
