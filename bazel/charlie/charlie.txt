@@ -27308,7 +27308,7 @@ cleric
 couplings
 chelifer
 cremates
-cattiness
+cattiness 1
 coupon
 cornbrash
 cowal
