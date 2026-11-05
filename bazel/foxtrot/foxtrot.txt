@@ -2851,7 +2851,7 @@ fluoroscopies
 firmisternal
 fetology
 fibroglia
-forespeed
+forespeed 1
 furunculosis
 flatwares
 formol
