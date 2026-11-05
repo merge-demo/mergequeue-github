@@ -6865,7 +6865,7 @@ danknesses
 dryobalanops
 dragnet
 deadflat
-deltic
+deltic 1
 domesticative
 derivative
 desmopathology

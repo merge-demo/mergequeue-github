@@ -12717,7 +12717,7 @@ energizing
 exophasic
 exalted
 exophthalmia
-embloom
+embloom 1
 exenterating
 exophthalmus
 euonymus
