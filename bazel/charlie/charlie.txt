@@ -31408,7 +31408,7 @@ curiously
 contrastingly
 curitis
 cispadane
-curl
+curl 1
 circumambulation
 cheiceral
 chiropodist
