@@ -19446,7 +19446,7 @@ colostomies
 compositous
 confederationist 1
 colostration
-colostrous
+colostrous 1
 colostrum
 colotomy
 colotomies
