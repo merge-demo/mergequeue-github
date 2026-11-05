@@ -2621,7 +2621,7 @@ galluot
 glisters
 genesial 1
 genesitic
-gymnastics
+gymnastics 1
 genethliacal
 gabelled
 gruesomest
