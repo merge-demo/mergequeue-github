@@ -9196,7 +9196,7 @@ becrimes
 belitter
 bumbee
 bipaschal
-buffin
+buffin 1
 biped
 bipedal
 beggared
