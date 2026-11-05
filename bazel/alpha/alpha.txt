@@ -1207,7 +1207,7 @@ acanthopanax
 agriot
 aculeata
 anlia
-acanthophorous
+acanthophorous 1
 aboded
 acanthopodous
 aqueously
