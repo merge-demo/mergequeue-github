@@ -565,7 +565,7 @@ echinomys
 entrained
 erythrene
 escolars
-endoperitonitis
+endoperitonitis 1
 effeminating
 emotively
 episiorrhaphy
