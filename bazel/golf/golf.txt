@@ -6228,7 +6228,7 @@ garrisoned
 gastrimargy
 guillotinade
 gamopetalae
-gp 1
+gp 2
 galactophagist
 glucosamine
 goaty
