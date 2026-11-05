@@ -2793,7 +2793,7 @@ decurrently
 diamondized
 decreet
 desmogen
-dugal
+dugal 1
 dop
 dorsalward
 disharmonize
