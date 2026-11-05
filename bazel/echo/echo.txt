@@ -624,7 +624,7 @@ empyreumatic 1
 epipaleolithic
 evincement
 eclamptic
-efficacious
+efficacious 1
 extuberate
 epizoites
 ecstatics
