@@ -7863,7 +7863,7 @@ cesiums
 cespititious
 cespititous
 contrite
-cespitosely
+cespitosely 1
 cespitulose
 cess
 cessantly
