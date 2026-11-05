@@ -601,7 +601,7 @@ calimanco
 cadwallader
 contravallation
 chamaeprosopic
-capsicin
+capsicin 1
 cadweed
 competitorship
 cadwell
