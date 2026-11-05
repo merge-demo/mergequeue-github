@@ -6410,7 +6410,7 @@ engastrimyth
 engrained
 electrocontractility
 exes
-equilocation
+equilocation 1
 enanguish
 espaliered
 expugn
