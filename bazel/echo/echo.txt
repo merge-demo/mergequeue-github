@@ -9409,7 +9409,7 @@ enstool
 echeneid
 escaper
 embodied
-enfranchiser
+enfranchiser 1
 extent
 elaphomyces
 elsewhere
