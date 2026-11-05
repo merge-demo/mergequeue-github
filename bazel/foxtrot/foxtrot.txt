@@ -1865,7 +1865,7 @@ fatuously
 fec 1
 fight
 fantoddish
-feelingly
+feelingly 1
 fecundate
 fianchetti
 flapcake
