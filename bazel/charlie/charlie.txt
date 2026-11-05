@@ -24559,7 +24559,7 @@ coperta
 copes
 chelidon
 cantate
-cophosis
+cophosis 1
 copia
 clapped
 copiapite
