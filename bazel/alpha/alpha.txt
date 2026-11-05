@@ -7749,7 +7749,7 @@ aldermancy
 aldermaness
 archisphere
 aldermanical
-assistency
+assistency 1
 aration
 aldermanity
 anacrotism
