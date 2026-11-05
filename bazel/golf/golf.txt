@@ -7355,7 +7355,7 @@ gougingly
 goldlike
 gratify
 gossiped
-gossipee
+gossipee 1
 goodyship
 griffon
 glyoxime
