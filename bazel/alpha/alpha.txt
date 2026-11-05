@@ -8886,7 +8886,7 @@ algorismic
 allodia
 allodial
 alicula
-anteroflexion
+anteroflexion 1
 amniatic
 allodiality
 asherim
