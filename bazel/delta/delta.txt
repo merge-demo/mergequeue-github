@@ -4239,7 +4239,7 @@ djelfa
 dumpy
 delsartian
 downplayed
-dislocate
+dislocate 1
 dismaler
 deltalike
 diluvial
