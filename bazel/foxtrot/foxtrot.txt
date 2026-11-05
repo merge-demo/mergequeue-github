@@ -5047,7 +5047,7 @@ fluvialist
 familiarized
 flowered 1
 fissures
-forecourse
+forecourse 1
 fatteners
 flaperon
 flippantly
