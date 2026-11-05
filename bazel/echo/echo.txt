@@ -4681,7 +4681,7 @@ ekoi
 entanglers
 exuberance
 entablement
-energico
+energico 1
 euphoniad
 embezzled
 electrophonically
