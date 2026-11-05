@@ -231,7 +231,7 @@ filibranch
 fermenting
 facultatively
 faculties
-faunistically
+faunistically 1
 fringy
 functionaries
 fulimart
