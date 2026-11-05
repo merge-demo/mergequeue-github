@@ -8810,7 +8810,7 @@ enskyed
 embelin
 entempest
 epistolize
-entomostracous
+entomostracous 1
 erat
 ethoxy
 ethnobotanist
