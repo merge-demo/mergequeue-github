@@ -24883,7 +24883,7 @@ astronavigation
 autocoherer
 acknown
 antinoness
-aponeurotome
+aponeurotome 1
 anarchosocialist
 avuncular
 arundinaria
