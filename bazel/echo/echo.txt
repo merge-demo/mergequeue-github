@@ -2830,7 +2830,7 @@ equivalencing
 externalness
 eater
 epiclesis
-eleoptene
+eleoptene 1
 embden
 endomastoiditis
 erratuta
