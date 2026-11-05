@@ -8847,7 +8847,7 @@ flecks
 finbone
 fossorious
 fossulae
-faltche
+faltche 1
 flatfishes
 featureless
 fostered
