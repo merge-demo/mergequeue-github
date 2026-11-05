@@ -22093,7 +22093,7 @@ asterisk
 antesunrise
 artilleryman
 anteromedial
-amphigamous
+amphigamous 1
 amphipeptone
 aguaji
 asteriskos

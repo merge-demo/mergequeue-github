@@ -884,7 +884,7 @@ faventine
 flamfew
 fingerlet
 furfooz
-foundationlessness
+foundationlessness 1
 forestlike
 fatheads
 featural
