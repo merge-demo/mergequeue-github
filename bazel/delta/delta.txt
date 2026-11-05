@@ -2546,7 +2546,7 @@ declaredly
 declares
 dimaris
 daneworts
-diplococcus
+diplococcus 1
 declaring
 dwined
 declasses 1
