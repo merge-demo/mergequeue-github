@@ -188,7 +188,7 @@ examiner
 estrogenic
 emeras
 exarticulation
-exclamatively
+exclamatively 1
 earthquaken
 excurvature
 ethylthioether
