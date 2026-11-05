@@ -22054,7 +22054,7 @@ archaicism
 asyngamic
 anaplasmosis
 astatines
-astatize
+astatize 1
 alejandro
 alphanumerical
 asbestoses
