@@ -5158,7 +5158,7 @@ antisemite
 appreciation
 aetiologue
 agrammatica
-affreux
+affreux 1
 anatomizing
 aetobatidae
 ancien
