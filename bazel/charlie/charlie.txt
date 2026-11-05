@@ -2822,7 +2822,7 @@ cukes
 canoewood
 coincident
 cuprammonium
-canoing
+canoing 1
 cuerpo
 canon
 churlish
