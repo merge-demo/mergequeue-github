@@ -16958,7 +16958,7 @@ decimalist
 drecks
 dermatherm
 demihorse
-dullness
+dullness 1
 downcurve
 dredgeful
 disintegrate
