@@ -5745,7 +5745,7 @@ dewanee
 doliolum
 deoxidiser
 demonland
-depoetize
+depoetize 1
 deconsider
 depoh
 decd
