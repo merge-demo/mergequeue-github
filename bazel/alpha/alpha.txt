@@ -9440,7 +9440,7 @@ apicad 1
 angiosclerotic
 autocinesis
 alterable
-acatery
+acatery 1
 alterably
 anchylose
 archaeocyte
