@@ -1886,7 +1886,7 @@ foredoom
 footstep
 fourdrinier
 flamboyantize
-faradizing
+faradizing 1
 frs
 fraidycat
 flybrush
