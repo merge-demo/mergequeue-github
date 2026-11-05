@@ -8496,7 +8496,7 @@ glossotype
 gurgle
 gelatinization
 gravely
-galops
+galops 1
 groupers
 gayal
 galleon
