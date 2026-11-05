@@ -11585,7 +11585,7 @@ disconnection
 diplococcic
 disconnector
 demicannon
-denotable
+denotable 1
 dollarfish
 devillike
 disconsent
