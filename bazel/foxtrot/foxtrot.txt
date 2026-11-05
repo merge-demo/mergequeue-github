@@ -11182,7 +11182,7 @@ foraminous
 fallfishes
 forcipal
 fireplugs
-frenzelite
+frenzelite 1
 forepaling
 flinter
 fluorophosphate
