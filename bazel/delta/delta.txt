@@ -9800,7 +9800,7 @@ dillydally
 dejectile
 diapaused
 discanonize
-debcle
+debcle 1
 disrupture
 dillymen
 durangite
