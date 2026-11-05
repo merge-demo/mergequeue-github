@@ -15135,7 +15135,7 @@ doddering
 dohickey
 diprotodont
 deduction
-doyens
+doyens 1
 disilicid
 dandruff
 demidandiprat
