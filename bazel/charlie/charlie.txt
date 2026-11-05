@@ -7182,7 +7182,7 @@ canephoroe
 centrer
 closely
 chol
-chatterbox
+chatterbox 1
 centrev
 chivalrous
 containedly
