@@ -12122,7 +12122,7 @@ appels
 anathematizer
 angularly 1
 antihumanist
-anatheme
+anatheme 1
 anatidae
 anatifer
 adumbrellar
