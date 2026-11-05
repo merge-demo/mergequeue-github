@@ -2048,7 +2048,7 @@ commandants
 camorrism
 corrections
 cropper
-capitalizer
+capitalizer 1
 chicomecoatl
 cypresses
 cruelize
