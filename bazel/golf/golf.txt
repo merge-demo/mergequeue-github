@@ -18,7 +18,7 @@ gledy
 genetous
 granitize 1
 goter
-gastroadynamic
+gastroadynamic 1
 gashouse
 geotropic 1
 gabbro
