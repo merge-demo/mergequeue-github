@@ -27702,7 +27702,7 @@ corrigendum
 cadaveric
 chamite
 cycloplegia
-chaussures
+chaussures 1
 cowk
 cowkine
 cumulatively
