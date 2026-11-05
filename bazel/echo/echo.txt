@@ -10436,7 +10436,7 @@ engraved
 estruation
 etymologization
 evaluator
-eurypteroid
+eurypteroid 1
 eviscerated
 eloinment
 embryoniferous
