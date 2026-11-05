@@ -9145,7 +9145,7 @@ anaspid
 andesytes
 agrising
 alman
-adenovirus
+adenovirus 1
 almander
 aeginetic
 almandines
