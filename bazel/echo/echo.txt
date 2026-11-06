@@ -2738,7 +2738,7 @@ enceint
 eleemosinar
 ebons
 equipotent
-electees
+electees 1
 edentate
 envoi
 eleemosynary
