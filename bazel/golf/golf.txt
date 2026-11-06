@@ -7695,7 +7695,7 @@ gypsyesque
 gynostemium
 guildic
 glaringness
-getter
+getter 1
 gynandrophore 1
 gaspy
 gaw
