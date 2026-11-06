@@ -17513,7 +17513,7 @@ backspeir
 burbolt
 blight
 beauseant
-biognosis
+biognosis 1
 burbot
 bleak
 beata
