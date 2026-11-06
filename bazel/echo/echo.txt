@@ -6944,7 +6944,7 @@ entoprocta
 entoptic
 entoptical 1
 entoptics
-evections
+evections 1
 expense
 embargoed
 evangelicality
