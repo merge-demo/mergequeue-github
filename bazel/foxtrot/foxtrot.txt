@@ -1285,7 +1285,7 @@ fancywork
 florinda
 frigs
 factitiously
-foins
+foins 1
 footlocker
 fossoria
 fastuousness

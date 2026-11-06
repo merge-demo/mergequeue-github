@@ -2944,7 +2944,7 @@ dewar
 ducatus
 divagation
 dechlorination
-dansk
+dansk 1
 diacope
 dedifferentiating
 developist
