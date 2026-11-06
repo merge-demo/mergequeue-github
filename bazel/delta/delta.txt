@@ -14503,7 +14503,7 @@ dromograph
 dividivis
 diaphanometer
 diwani
-drugge
+drugge 1
 dividually
 disports
 didn
