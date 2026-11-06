@@ -8040,7 +8040,7 @@ glycosides
 gynaecomorphous
 guildry
 gnabble
-globulous
+globulous 1
 gongorism
 gossipers
 gan
