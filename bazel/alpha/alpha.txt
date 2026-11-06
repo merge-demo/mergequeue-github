@@ -5037,7 +5037,7 @@ aeroplanes
 archboutefeu
 aeroscepsy
 achromatizing
-archaeology
+archaeology 1
 anciennete
 aurum
 altumal
