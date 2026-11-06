@@ -10327,7 +10327,7 @@ gul 1
 gaming
 gladiest
 goldfishes
-gabari
+gabari 1
 gravemaster
 grammaticism
 greenwax
