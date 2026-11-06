@@ -1382,7 +1382,7 @@ gaulin
 gorb
 gastrostegal
 gravitometer
-garnetter
+garnetter 1
 glyconeogenetic
 guttular
 garniec
