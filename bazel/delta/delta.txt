@@ -8949,7 +8949,7 @@ documenter
 deidesheimer
 dichotomy
 detruck
-dwarfness
+dwarfness 1
 debitrix
 discursively
 dioptrometry
