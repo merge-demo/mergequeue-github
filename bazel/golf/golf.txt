@@ -5762,7 +5762,7 @@ goings
 gleeds
 gish
 grimmish
-grumes
+grumes 1
 gloomy 1
 grapsoid
 gymnoplast
