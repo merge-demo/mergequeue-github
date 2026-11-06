@@ -10372,7 +10372,7 @@ diosmosing
 dispreading
 defenders
 departures
-detenant
+detenant 1
 diospyraceous
 deforming
 dyotheism
