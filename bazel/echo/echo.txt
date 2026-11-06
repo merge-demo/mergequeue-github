@@ -2356,7 +2356,7 @@ entocele
 explosive
 electrochemistry
 electromobilism
-excrementitial
+excrementitial 1
 excrete
 espaliering
 encore
