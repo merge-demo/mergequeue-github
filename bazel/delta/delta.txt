@@ -11916,7 +11916,7 @@ dramm
 dhunchi
 decalescence
 discuses
-disease
+disease 1
 dentalisation
 defectively
 deductile
