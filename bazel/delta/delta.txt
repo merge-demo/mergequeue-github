@@ -12562,7 +12562,7 @@ detonator
 disinheritable
 diuturnity
 disinheritance
-dinaphthyl
+dinaphthyl 1
 deirdre
 darac
 ditrematous
