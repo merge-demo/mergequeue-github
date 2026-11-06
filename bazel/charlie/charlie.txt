@@ -20887,7 +20887,7 @@ comprador
 chirologist
 chives
 compaginate
-compradore
+compradore 1
 comprecation
 compregnate
 coart
