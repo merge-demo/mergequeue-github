@@ -18202,7 +18202,7 @@ decener
 dundasite
 didascalar
 downfallen
-depersonalize
+depersonalize 1
 delights
 ditetragonal
 dentatocostate
