@@ -18545,7 +18545,7 @@ dirging
 durndest
 deraignment
 disharmonizing
-deviltries
+deviltries 1
 denuding
 dourahs
 debars
