@@ -4797,7 +4797,7 @@ emmenia
 erethic
 eguttulate
 enterotomy
-epiopticon
+epiopticon 1
 excusatory
 endocarpic
 encode 1

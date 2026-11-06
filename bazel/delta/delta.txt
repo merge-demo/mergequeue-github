@@ -4164,7 +4164,7 @@ dob
 delitescent
 deliverer
 disincorporate
-deliveress
+deliveress 1
 dentirostrate
 dunkers
 damner
