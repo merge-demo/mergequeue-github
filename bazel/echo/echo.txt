@@ -7443,7 +7443,7 @@ ephebea
 enchaining
 excepts
 employes
-elenctic
+elenctic 1
 escapers
 entanglement
 endogenously
