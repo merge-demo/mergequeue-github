@@ -5952,7 +5952,7 @@ deceiver
 deprivement
 disconcerts
 davy
-doublehandedness
+doublehandedness 1
 dingly
 damascening 1
 dianthus
