@@ -767,7 +767,7 @@ graywether
 galvanotherapy
 geomorphic
 galvanotropism
-guntub
+guntub 1
 globulolysis
 gaulter
 glossolalist
