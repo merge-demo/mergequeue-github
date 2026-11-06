@@ -18209,7 +18209,7 @@ dentatocostate
 diamagnetometer
 disfellowship
 detonatability
-deadlocks
+deadlocks 1
 dermatorrhoea
 dode
 decurrent
