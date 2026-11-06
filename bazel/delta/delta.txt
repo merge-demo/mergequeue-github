@@ -18240,7 +18240,7 @@ demioctangular
 discussant
 drogermen
 dishonorable
-dumbfish
+dumbfish 1
 doxologize
 djakarta
 dictery
