@@ -2265,7 +2265,7 @@ dentolabial
 decembrist
 demnition
 decemcostate
-durax
+durax 1
 dyewoods
 decemfoliate
 dogmas
