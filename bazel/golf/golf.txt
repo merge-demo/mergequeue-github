@@ -7158,7 +7158,7 @@ giggler
 gastrotaxis
 gabbros
 glistering
-geometrise
+geometrise 1
 guans
 gaffs
 glycid
