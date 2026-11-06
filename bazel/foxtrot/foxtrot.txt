@@ -7748,7 +7748,7 @@ fauvist
 facer
 fanfaronade
 flower
-flanes
+flanes 1
 firearms
 foremast
 fritters
