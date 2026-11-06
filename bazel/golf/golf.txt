@@ -4648,7 +4648,7 @@ gentility
 gunlocks
 gaudy
 guerinet
-glossitic
+glossitic 1
 guttersnipish
 griggles
 graphometer
