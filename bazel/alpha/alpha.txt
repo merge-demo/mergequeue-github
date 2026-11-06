@@ -9729,7 +9729,7 @@ alwite
 arrogator
 amaas
 apocalypticism
-anapestically
+anapestically 1
 apterygotous
 ayen
 apiology
