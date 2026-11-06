@@ -9668,7 +9668,7 @@ espino
 erythroplastid 1
 esplanade
 enhancements
-elkhounds
+elkhounds 1
 exsec
 explicability
 extortionist
