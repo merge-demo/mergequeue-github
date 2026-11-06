@@ -10655,7 +10655,7 @@ generalizeable
 gurgitation
 gasolines
 gametogony 1
-gladius
+gladius 1
 gyric
 goatsbane
 galp
