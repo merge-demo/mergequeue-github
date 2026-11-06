@@ -332,7 +332,7 @@ eastling
 escapee
 eruditionist
 escots
-engaze
+engaze 1
 eastman
 enclaret
 encephalograph
