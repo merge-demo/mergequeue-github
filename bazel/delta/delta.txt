@@ -14472,7 +14472,7 @@ divertisement
 dextrogyrous
 divertissements
 decurrency
-deferment
+deferment 1
 divested
 doradidae
 dicynodontidae
