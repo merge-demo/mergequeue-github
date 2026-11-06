@@ -2099,7 +2099,7 @@ fissipalmate
 forebodies
 facture
 finetop
-favorless
+favorless 1
 frument
 fayence
 fermentate 1
