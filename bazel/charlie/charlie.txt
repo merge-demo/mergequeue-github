@@ -2051,7 +2051,7 @@ cropper
 capitalizer
 chicomecoatl
 cypresses
-cruelize
+cruelize 1
 colonial
 camoudie
 coburgess
