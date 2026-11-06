@@ -17728,7 +17728,7 @@ beknit
 burnfire
 buckeens
 burnish
-burnishable
+burnishable 1
 brachiorrhachidian
 burnisher
 braeside
