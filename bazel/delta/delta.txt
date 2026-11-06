@@ -8892,7 +8892,7 @@ dysmenorrhea
 diccon
 depolariser
 daimio
-dermatitis
+dermatitis 1
 decaisnea
 dice
 diceboard
