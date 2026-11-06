@@ -8691,7 +8691,7 @@ exconjugant
 endostyle
 epicoeliac
 epulotic
-equiprobably
+equiprobably 1
 equiproportional
 equiproportionality
 egocentrism
