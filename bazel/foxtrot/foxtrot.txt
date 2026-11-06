@@ -11680,7 +11680,7 @@ frailties
 festoons
 flocculate
 frigorific
-feru
+feru 1
 feminines
 felids
 fusarial
