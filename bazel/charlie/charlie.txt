@@ -4628,7 +4628,7 @@ cradler
 caroling
 catholical
 carolinians
-carolitic
+carolitic 1
 carditic
 caoba
 caroller
