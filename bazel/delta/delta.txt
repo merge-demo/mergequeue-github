@@ -8359,7 +8359,7 @@ dromed 1
 decigrams
 doricize
 decaffeinates
-dialycarpous
+dialycarpous 1
 dialin
 dialiness
 dilution
