@@ -6339,7 +6339,7 @@ dangles
 diagrammatical
 dermogastric
 dean
-dermoidectomy
+dermoidectomy 1
 desexed
 dos
 dgag
