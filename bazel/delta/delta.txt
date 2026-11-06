@@ -5949,7 +5949,7 @@ degrader
 departements
 dimethylnitrosamine
 deceiver
-deprivement
+deprivement 1
 disconcerts
 davy
 doublehandedness
