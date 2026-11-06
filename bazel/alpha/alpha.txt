@@ -23865,7 +23865,7 @@ autarkies
 allosaurus
 anisostichus
 airmailing
-andoke
+andoke 1
 attractors
 autarkist
 autechoscope
