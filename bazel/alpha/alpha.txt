@@ -7830,7 +7830,7 @@ auriculoid
 amarantus
 ale
 adoze
-arctia
+arctia 1
 alea
 aleak
 aleatory
