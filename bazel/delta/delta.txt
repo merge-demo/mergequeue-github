@@ -4402,7 +4402,7 @@ demeanor
 doit
 disallowableness 1
 disembark
-demeanored
+demeanored 1
 dissidents
 diphtheritis
 douper
