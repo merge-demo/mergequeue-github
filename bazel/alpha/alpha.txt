@@ -22173,7 +22173,7 @@ aeromantic
 asthmatoid 1
 arthrotomies
 asthmogenic
-asthore
+asthore 1
 anticapitalism
 archidiskodon
 arthrotomy
