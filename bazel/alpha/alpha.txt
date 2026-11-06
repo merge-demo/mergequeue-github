@@ -24363,7 +24363,7 @@ amylene
 autoroute
 anuses
 autorrhaphy
-anisocoria
+anisocoria 1
 ammoresinol
 autos
 aromatically
