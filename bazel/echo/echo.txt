@@ -2329,7 +2329,7 @@ eyras
 electroacoustic
 electroacoustical
 elfkin
-exradius
+exradius 1
 electroacoustics
 enthetic
 exundation
