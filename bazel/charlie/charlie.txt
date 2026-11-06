@@ -15755,7 +15755,7 @@ cleanest
 chinching
 caissoned
 cleanhanded
-capistrate
+capistrate 1
 conducting
 cabbagetown
 cleanings
