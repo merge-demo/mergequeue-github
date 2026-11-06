@@ -1209,7 +1209,7 @@ bakingly
 bakli
 baymen
 boches
-biscot
+biscot 1
 bearhide
 balloting
 bakra
