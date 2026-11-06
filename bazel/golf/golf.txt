@@ -4882,7 +4882,7 @@ guttersnipe
 guessed
 gorgonizing
 giinwale
-gladiatrix
+gladiatrix 1
 goyim
 girderage
 gladier
