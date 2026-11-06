@@ -12416,7 +12416,7 @@ drybrush
 desecate
 disheriting
 deforms
-declivate
+declivate 1
 dishevelled
 dishevelling
 delomorphic
