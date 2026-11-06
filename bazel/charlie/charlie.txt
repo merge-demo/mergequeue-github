@@ -19137,7 +19137,7 @@ collock
 cowfish
 compartmentalizes
 collocutor
-cogitations
+cogitations 1
 collodion
 crushproof
 collodionization
