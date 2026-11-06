@@ -4080,7 +4080,7 @@ beriberic
 beaniest 1
 barmy
 bixaceae
-beaning
+beaning 1
 bromoacetone
 branchier
 bradyacousia
