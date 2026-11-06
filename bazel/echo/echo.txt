@@ -4251,7 +4251,7 @@ epicurism 1
 euascomycetes
 estradiot
 emulant
-earwiggy
+earwiggy 1
 elucidator
 emulations
 echograph
