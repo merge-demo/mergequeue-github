@@ -6409,7 +6409,7 @@ dillisk
 derotremata
 denization
 dewans 1
-doggones
+doggones 1
 diglyphic
 docquet
 druidic
