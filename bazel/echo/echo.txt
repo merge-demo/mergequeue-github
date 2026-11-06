@@ -1318,7 +1318,7 @@ extrapolating
 episynaloephe
 effectors
 effectress
-encapsulate
+encapsulate 1
 elengeness
 ennuied
 effects
