@@ -7690,7 +7690,7 @@ diting
 disunified
 deviations
 dusting
-deviatory
+deviatory 1
 discission
 densimetrically
 devil
