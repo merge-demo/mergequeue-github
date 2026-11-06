@@ -1556,7 +1556,7 @@ faveolus
 forconceit
 fleuronee
 foochow
-freaking
+freaking 1
 favelas
 frustulent
 ferr
