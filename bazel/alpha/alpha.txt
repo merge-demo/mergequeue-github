@@ -4528,7 +4528,7 @@ adversatively
 ambushed
 amylin
 asserve
-adversing
+adversing 1
 aphoristical
 ami
 amniota
