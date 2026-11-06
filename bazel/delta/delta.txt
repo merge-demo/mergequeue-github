@@ -8318,7 +8318,7 @@ diaka
 despeed
 dapper
 duskly
-diapausing
+diapausing 1
 dyakish
 dg
 dialcohol
