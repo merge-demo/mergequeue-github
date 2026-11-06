@@ -6024,7 +6024,7 @@ foreheater
 floral
 floralize
 floras
-furnaced
+furnaced 1
 focusless
 freakish
 frottage

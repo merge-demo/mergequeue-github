@@ -4102,7 +4102,7 @@ agrief
 antihypertensives
 antilyssic
 admonitionist
-antenna
+antenna 1
 aplacental
 anabranch
 acrasia
