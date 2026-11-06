@@ -5037,7 +5037,7 @@ flanneling
 fungoidal
 forepaw
 ferries
-fizz
+fizz 1
 forekeel
 faithbreaker 1
 faconne
