@@ -10929,7 +10929,7 @@ entomologising
 epipteric
 eulogies
 echinops
-euphuize
+euphuize 1
 eupyrion
 eupittone
 enteritis
