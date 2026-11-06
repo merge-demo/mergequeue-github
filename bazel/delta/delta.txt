@@ -3499,7 +3499,7 @@ deflator
 deforced
 depressors
 deforces
-dimittis
+dimittis 1
 deforciant
 detention
 dislikers

@@ -10224,7 +10224,7 @@ frogmarch
 flowerful
 flossier
 frighted
-franconian
+franconian 1
 finespun
 formolit
 frabous 1
