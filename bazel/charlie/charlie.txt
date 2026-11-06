@@ -15326,7 +15326,7 @@ clangors
 cappella
 clangour 1
 clangoured
-clangouring
+clangouring 1
 cakewalks
 campings
 clangours
