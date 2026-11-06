@@ -6537,7 +6537,7 @@ encephalorrhagia
 eleventhly
 erythrocytometer
 entamoebic
-endostosis
+endostosis 1
 ephyra
 exactly
 extratension
