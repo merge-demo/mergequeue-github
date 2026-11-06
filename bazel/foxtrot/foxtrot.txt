@@ -4003,7 +4003,7 @@ frontlessness
 formability
 flukewort
 forechoose
-furcula
+furcula 1
 forestalled
 friese
 flattish
