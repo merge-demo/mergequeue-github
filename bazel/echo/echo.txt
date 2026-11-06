@@ -3554,7 +3554,7 @@ entozoon
 emboweled
 epithecial
 ethanamide
-electrosurgically
+electrosurgically 1
 eschewance
 extortionary
 eponyms
