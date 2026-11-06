@@ -10745,7 +10745,7 @@ flirter
 fletches
 forgotten
 frustum
-frutage
+frutage 1
 faithlessly
 footraces
 frutex
