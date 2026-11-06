@@ -13726,7 +13726,7 @@ backus
 balneatory
 boutefeu
 bouteria
-buns
+buns 1
 boutylka
 boutique
 beachfront
