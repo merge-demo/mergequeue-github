@@ -2262,7 +2262,7 @@ gradation
 glasswort
 gipons
 glarry
-gospeller
+gospeller 1
 gangrel
 grandpaternal
 glamoury
