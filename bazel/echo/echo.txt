@@ -12624,7 +12624,7 @@ eagless
 effray
 encirclement
 excoriate
-exoculate
+exoculate 1
 expostulates
 ecclesiasticalness
 exoculation
