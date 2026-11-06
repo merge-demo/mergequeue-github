@@ -9702,7 +9702,7 @@ anaemic
 alveary
 alvearies
 advent
-alvearium
+alvearium 1
 alveolariform
 antitetanic
 alveolate
