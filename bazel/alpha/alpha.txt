@@ -9271,7 +9271,7 @@ aloft
 alogy
 afghanets
 allover
-adjudicata
+adjudicata 1
 alogically
 alogotrophy
 arkose
