@@ -9128,7 +9128,7 @@ aristogenetic
 anemometric
 antacid
 alluvious
-assortative
+assortative 1
 ametropic
 accipitres
 ambulates
