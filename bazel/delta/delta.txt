@@ -10551,7 +10551,7 @@ doorsills
 diceratidae
 diazotate
 deipotent
-dimpling
+dimpling 1
 demiking
 dauw
 diplocardiac
