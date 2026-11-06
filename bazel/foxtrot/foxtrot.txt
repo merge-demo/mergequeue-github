@@ -9924,7 +9924,7 @@ furze
 friesian
 fittable
 friezer
-fiercely
+fiercely 1
 frig
 fossilated
 fantoms
