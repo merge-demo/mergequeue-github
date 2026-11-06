@@ -12687,7 +12687,7 @@ desexualize
 diviners
 diacids
 duane
-derogations
+derogations 1
 dyslexics
 dreadfully
 drury
