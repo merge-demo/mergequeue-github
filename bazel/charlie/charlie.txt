@@ -6060,7 +6060,7 @@ candify
 catlike
 crowns
 catling
-catlings
+catlings 1
 cairds
 catlins
 craftsperson
