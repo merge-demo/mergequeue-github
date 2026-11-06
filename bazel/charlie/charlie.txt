@@ -14958,7 +14958,7 @@ chlorpropamide
 chromoplasm
 counterparallel
 crossjack
-citreous
+citreous 1
 citric
 citril
 confabulates
