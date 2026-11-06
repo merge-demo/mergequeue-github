@@ -12800,7 +12800,7 @@ computes
 confronted
 crooknecks
 chunk
-chunked
+chunked 1
 circumumbilical
 crucifers
 chunkiest
