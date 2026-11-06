@@ -25715,7 +25715,7 @@ correspondency
 correspondent
 composedness
 correspondential
-correspondently
+correspondently 1
 citators
 chlormethylic
 calctufa
