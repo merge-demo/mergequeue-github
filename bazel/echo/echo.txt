@@ -7595,7 +7595,7 @@ embololalia
 ebbet
 extricate 1
 epichorion
-epicycle
+epicycle 1
 epicyemate
 eeyuch
 experiments
