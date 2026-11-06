@@ -7399,7 +7399,7 @@ fissirostral
 ferrarese
 floressence
 fusk
-fatalistic
+fatalistic 1
 feminologist
 forbow
 foreclose
