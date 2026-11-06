@@ -13753,7 +13753,7 @@ cinemagoer
 circumlocutionary
 cinemagoers
 cinemas
-cinematheque
+cinematheque 1
 carsmith
 cheeringly
 consumers
