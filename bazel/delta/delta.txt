@@ -2763,7 +2763,7 @@ darbies
 decortication
 dematerialization
 decorticator
-determinants
+determinants 1
 decorticosis
 disoperation
 decortization

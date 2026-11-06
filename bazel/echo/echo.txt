@@ -6053,7 +6053,7 @@ eyrie
 estoque
 expromissor
 endosarcs
-expire
+expire 1
 ere
 epiglottises
 enkindles
