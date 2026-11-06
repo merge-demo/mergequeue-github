@@ -10214,7 +10214,7 @@ erased
 elytriform
 etesian
 epanodos
-exantlate
+exantlate 1
 ensporia
 externalisation
 exoticity
