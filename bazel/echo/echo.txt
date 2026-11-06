@@ -3567,7 +3567,7 @@ epididymal
 entocone
 embolomalerism
 enervator
-exceeder
+exceeder 1
 equoid
 epicureanism
 erysipelatoid
