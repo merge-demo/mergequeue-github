@@ -5847,7 +5847,7 @@ ghettoing
 geroderma
 graffito
 glycolaldehyde
-gedact
+gedact 1
 galvanoplastic
 grundel
 gadger
