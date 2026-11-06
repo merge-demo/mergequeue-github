@@ -11060,7 +11060,7 @@ chuckled
 chitarra
 cothish
 circuminsular
-compander
+compander 1
 chitarroni
 clitoris
 cyclicly
