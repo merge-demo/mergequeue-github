@@ -9711,7 +9711,7 @@ empyrical
 envapor
 essayed
 extraorganismal
-exceptional
+exceptional 1
 empathize
 european
 essart
