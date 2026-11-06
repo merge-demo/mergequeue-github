@@ -2834,7 +2834,7 @@ eleoptene
 embden
 endomastoiditis
 erratuta
-exostracize
+exostracize 1
 eucharistized
 essayistical
 eleostearic
