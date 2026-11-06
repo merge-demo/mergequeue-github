@@ -4036,7 +4036,7 @@ antiarin
 admirable
 anlases
 admirably
-admirals
+admirals 1
 ablutions
 admiralties
 actionless
