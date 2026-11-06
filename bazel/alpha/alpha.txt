@@ -17558,7 +17558,7 @@ atavists
 ashlars
 alcedo
 acyrology
-alunite
+alunite 1
 alkalifying
 alkalin
 apotihecal
