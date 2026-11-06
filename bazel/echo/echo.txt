@@ -12180,7 +12180,7 @@ exposure
 ellipse
 econometrical 1
 ethmoturbinate
-excussed
+excussed 1
 estranges
 eusol
 epigraphically
