@@ -5362,7 +5362,7 @@ gonopod
 gnomon
 generalisation
 gyrencephalate
-goiters
+goiters 1
 glees
 gormands
 ganoses
