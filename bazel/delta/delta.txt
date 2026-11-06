@@ -13627,7 +13627,7 @@ deliverance
 disciplinative
 disship
 disshiver
-deletory
+deletory 1
 dissiliency
 dissilient
 dolichurus
