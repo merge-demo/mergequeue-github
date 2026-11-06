@@ -28991,7 +28991,7 @@ cricotus
 criddle
 cried
 criey
-coxoceritic
+coxoceritic 1
 curiescopy
 crier
 chemokinesis
