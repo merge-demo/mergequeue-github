@@ -31229,7 +31229,7 @@ convulsible 1
 chickenhood
 covetousness
 commonplace
-coque
+coque 1
 cupuliferous
 craniopathy
 clawhammer
