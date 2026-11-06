@@ -14822,7 +14822,7 @@ demagogic
 doctorhood
 diethylenediamine
 doctorial
-disadjust
+disadjust 1
 demidog
 doctorially
 doctoring
