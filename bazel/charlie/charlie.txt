@@ -20279,7 +20279,7 @@ communed
 communer
 chemopallidectomy
 cashiers
-catamnesis
+catamnesis 1
 cytostroma
 communicability
 communicable
