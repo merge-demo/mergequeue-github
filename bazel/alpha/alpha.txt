@@ -18446,7 +18446,7 @@ aliyas
 antipendium
 antitussive
 arber
-autolesion
+autolesion 1
 aviates
 anthragallol
 aquincubital
