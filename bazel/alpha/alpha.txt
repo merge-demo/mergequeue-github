@@ -11311,7 +11311,7 @@ apriori
 aguador
 amphitene
 amphitheatre
-arrivance
+arrivance 1
 aglycons
 anilin
 aniliid
