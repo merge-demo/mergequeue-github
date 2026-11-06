@@ -14469,7 +14469,7 @@ dawdler
 daemones
 disproof
 divertisement
-dextrogyrous
+dextrogyrous 1
 divertissements
 decurrency
 deferment
