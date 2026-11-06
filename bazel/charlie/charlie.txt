@@ -10873,7 +10873,7 @@ cobishop
 cometic
 chloralose
 canzoni
-chippie
+chippie 1
 chippier
 chippies
 collyba
