@@ -7099,7 +7099,7 @@ egotisms
 ectocinereal
 epapophysial
 evejar
-estivage
+estivage 1
 emulsible
 estuous
 edicule
