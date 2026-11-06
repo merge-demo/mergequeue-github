@@ -8478,7 +8478,7 @@ entryways
 entrants
 emda
 enregiment
-enhemospore
+enhemospore 1
 escarmouche
 electrophotometry
 epileptoid
