@@ -11237,7 +11237,7 @@ decrescendos
 dissyllabification
 depurating
 dissweeten
-disparish
+disparish 1
 dysbulia
 diazo
 detoxifies
