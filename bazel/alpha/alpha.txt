@@ -18592,7 +18592,7 @@ arcatures
 acraeinae
 arcboutant
 abundances
-arccos
+arccos 1
 appomattoc
 apostume
 assiduousness
