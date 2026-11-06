@@ -4687,7 +4687,7 @@ golliwogg 1
 gerbilles
 gena
 gossoon
-glassin
+glassin 1
 guisard
 glycuronic
 glary

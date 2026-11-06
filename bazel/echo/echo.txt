@@ -10688,7 +10688,7 @@ expectoration
 enveloper
 extirpatory
 eva
-euglenaceae
+euglenaceae 1
 extrasyllabic
 enswathe
 ensigning
