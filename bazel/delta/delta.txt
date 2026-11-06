@@ -3627,7 +3627,7 @@ doated
 degerminator
 distentions
 degerming
-degerms
+degerms 1
 discerptive
 douzeper
 disked
