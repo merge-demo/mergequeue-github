@@ -4954,7 +4954,7 @@ demoralizers
 draughty
 debussy
 demoralizes
-demorphism
+demorphism 1
 delectated
 decate
 demosthenean
