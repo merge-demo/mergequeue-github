@@ -21958,7 +21958,7 @@ cessation
 canorousness
 confidingness
 configural
-canteens
+canteens 1
 coinsurable
 coexclusive
 clinohedrite
