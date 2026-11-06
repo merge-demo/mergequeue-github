@@ -17102,7 +17102,7 @@ chemotherapeutic
 coccygalgia
 cohesive
 ctenophoric
-copiable
+copiable 1
 coadjudicator
 coadjutant
 campement
