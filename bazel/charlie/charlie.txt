@@ -24472,7 +24472,7 @@ coelogyne
 candles
 chlorosis
 copa
-copable
+copable 1
 carrs
 carphophis
 confraternity
