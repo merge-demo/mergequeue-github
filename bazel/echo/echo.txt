@@ -9630,7 +9630,7 @@ effervescible
 ewer
 endoblast
 encense
-entangleable
+entangleable 1
 equipper
 entia
 epenthesize
