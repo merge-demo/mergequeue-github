@@ -6817,7 +6817,7 @@ fungin
 forewonted
 freelancer
 folderols
-foveiform
+foveiform 1
 forepretended
 fjelds
 frette
