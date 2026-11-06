@@ -3219,7 +3219,7 @@ else
 esteeming
 evacuee
 electioneers
-epaule
+epaule 1
 elseways
 extuberance
 ecliptical
