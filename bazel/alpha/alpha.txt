@@ -7570,7 +7570,7 @@ abote
 androphorum
 antony
 alcalde
-anthropocentricity
+anthropocentricity 1
 alcaldes
 alcaldeship
 aristoi
