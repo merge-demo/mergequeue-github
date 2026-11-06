@@ -5655,7 +5655,7 @@ beldams
 bacchar
 bilify
 belderroot
-bodgie
+bodgie 1
 beleaguering
 bongar
 badgeless
