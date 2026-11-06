@@ -716,7 +716,7 @@ equalable
 expressionable
 epiglottic
 embraciveg
-eosinate
+eosinate 1
 enneaspermous
 enabler
 economise
