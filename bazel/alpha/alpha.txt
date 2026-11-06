@@ -18793,7 +18793,7 @@ archeopteryx
 anastomose
 archerfishes
 auctioneers
-afflict
+afflict 1
 anabia
 arylation
 allheals
