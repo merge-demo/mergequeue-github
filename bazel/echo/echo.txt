@@ -2828,7 +2828,7 @@ eleoplast
 epipolic
 equivalencing
 externalness
-eater
+eater 1
 epiclesis
 eleoptene
 embden
