@@ -18645,7 +18645,7 @@ disalignment
 decasyllable
 denunciatively
 decury
-disforest
+disforest 1
 drowsily
 disinflationary
 disubstitution
