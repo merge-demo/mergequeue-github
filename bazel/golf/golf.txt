@@ -1520,7 +1520,7 @@ gasbags
 gasmen
 galenian
 germiest
-geotonic
+geotonic 1
 gangland
 grouse
 gavelage
