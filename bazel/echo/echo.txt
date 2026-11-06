@@ -135,7 +135,7 @@ europocentric 1
 enderonic
 excellency
 epoxidize
-evaporativity
+evaporativity 1
 economizes
 extravasating
 elon
