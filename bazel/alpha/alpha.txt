@@ -10386,7 +10386,7 @@ adlumia
 anise
 arco
 adenochondrosarcoma
-americans
+americans 1
 americanum
 amphicarpa
 avocados
