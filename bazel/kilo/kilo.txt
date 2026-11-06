@@ -12197,7 +12197,7 @@ kujpgts
 kujpod
 kujpw
 kujqgpstk
-kujqi
+kujqi 1
 kujrl
 kujrxq
 kujs 1
