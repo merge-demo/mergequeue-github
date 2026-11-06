@@ -3474,7 +3474,7 @@ allotheism
 avidins 1
 antinovelist
 amarillos
-additionary
+additionary 1
 associationalism
 additionist
 abogado
