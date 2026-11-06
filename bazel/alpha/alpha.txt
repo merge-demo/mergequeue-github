@@ -6948,7 +6948,7 @@ aquavit
 armless
 airwards
 allene
-abstruseness
+abstruseness 1
 ays
 antipneumococcic
 anatomopathologic
