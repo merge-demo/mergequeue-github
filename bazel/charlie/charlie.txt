@@ -12932,7 +12932,7 @@ chuttie
 chutzpa
 carbanion
 chutzpanik
-concentre
+concentre 1
 cuesta
 cia
 crystallised
