@@ -1005,7 +1005,7 @@ enterocinetic
 epoxide
 endearments
 equisetales
-emblazing
+emblazing 1
 esophageal
 edder
 epiphora
