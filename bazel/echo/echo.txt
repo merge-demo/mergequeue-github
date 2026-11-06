@@ -12025,7 +12025,7 @@ exclusive
 enaunter
 escutellate
 exclusiveness
-effectuality
+effectuality 1
 enforceability
 enamelled
 epidialogue

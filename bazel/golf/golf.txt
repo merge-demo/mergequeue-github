@@ -3249,7 +3249,7 @@ gigantism
 geratologous
 guidership
 gametophytic
-goodhearted
+goodhearted 1
 grainedness
 genuses
 goldminer
