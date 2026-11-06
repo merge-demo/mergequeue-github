@@ -4316,7 +4316,7 @@ deplores
 demagnetizing
 devilbird
 devoutness
-durning
+durning 1
 delimit
 duckhood
 dequeue
