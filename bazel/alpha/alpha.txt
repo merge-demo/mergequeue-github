@@ -8495,7 +8495,7 @@ alkekengi
 alkene
 aroid
 alkenyl
-alkes
+alkes 1
 awreck
 alkyd
 anniversalily
