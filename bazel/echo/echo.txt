@@ -4984,7 +4984,7 @@ endeavourer
 encouragement
 enstamp
 endeavouring
-egression
+egression 1
 endeictic
 entropium
 expectable
