@@ -2284,7 +2284,7 @@ epitaphist
 epilating
 elongated
 equally
-extemporization
+extemporization 1
 eudiometry
 enchantments
 exormia
