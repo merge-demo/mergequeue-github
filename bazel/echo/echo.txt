@@ -825,7 +825,7 @@ eral
 excrescent
 extremest
 extradecretal
-encrust
+encrust 1
 ectypography
 epitheton
 entrecote
