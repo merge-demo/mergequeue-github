@@ -12093,7 +12093,7 @@ drepanaspis
 disentombment
 disclaimers
 deplaceable
-disentrail
+disentrail 1
 disentrainment
 disentrance
 devilism
