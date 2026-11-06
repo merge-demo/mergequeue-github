@@ -14663,7 +14663,7 @@ djave
 doubtfully
 drill
 djebels
-djehad
+djehad 1
 deferens
 djellabah
 decanically
