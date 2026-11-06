@@ -18574,7 +18574,7 @@ coyishness
 conculcation
 cunner
 coil
-curtis
+curtis 1
 conchylia
 coiled
 crusie
