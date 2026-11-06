@@ -15809,7 +15809,7 @@ clearinghouses
 clearings
 clearish
 condescendence
-clears
+clears 1
 cerealian
 cribrosity
 clearsighted
