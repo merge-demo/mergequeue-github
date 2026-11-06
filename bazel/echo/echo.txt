@@ -10258,7 +10258,7 @@ economical
 ethyne
 elucidatory
 endoscopist
-endosarcous
+endosarcous 1
 ethylation
 entrust
 earlap
