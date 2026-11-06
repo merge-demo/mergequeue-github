@@ -11530,7 +11530,7 @@ elegantly
 evincing
 entoblast
 esophagus
-evincive
+evincive 1
 excavationist
 echnida
 evite
