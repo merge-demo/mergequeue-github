@@ -3284,7 +3284,7 @@ heop
 heopcbccnross
 heopkjtbagdh
 heorm
-heorqm
+heorqm 1
 heory
 heoslgnt
 heosukp
