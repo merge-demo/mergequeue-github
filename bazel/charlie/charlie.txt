@@ -8460,7 +8460,7 @@ cauligenous
 champagneless
 champagning
 chockman
-champagnize
+champagnize 1
 cardiogenic
 champagnized
 cesurae
