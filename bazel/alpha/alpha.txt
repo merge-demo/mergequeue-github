@@ -17510,7 +17510,7 @@ atangle
 askance
 acanthodea
 appealingly
-agruif
+agruif 1
 ambidextrousness
 acuter
 archaicness
