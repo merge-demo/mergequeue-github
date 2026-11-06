@@ -8098,7 +8098,7 @@ fingan
 furify
 foreswore
 flavouring
-feeble
+feeble 1
 flasklet
 factorist
 fumacious
