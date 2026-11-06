@@ -21865,7 +21865,7 @@ confederate
 contrastedly
 confederater
 complimentary
-chirognostic
+chirognostic 1
 counties
 counterbond
 cheddars
