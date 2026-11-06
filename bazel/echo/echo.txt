@@ -6243,7 +6243,7 @@ exhortator
 enorn
 eumeromorph
 enos
-eradiating
+eradiating 1
 egophony
 epitapher
 eradiation
