@@ -24688,7 +24688,7 @@ aeneid
 antidiastase
 amelioration
 acnode
-averral
+averral 1
 alii
 aldazin
 adelopod
