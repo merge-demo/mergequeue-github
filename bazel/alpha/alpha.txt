@@ -16368,7 +16368,7 @@ asteroidal
 arsanilic
 antiwarlike
 anthropomorphitic
-antiwaste
+antiwaste 1
 anonym
 ashwort
 antiwear
