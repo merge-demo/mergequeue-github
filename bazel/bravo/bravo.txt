@@ -1549,7 +1549,7 @@ blowtube
 ballgame
 ballhooter
 backslash
-balli
+balli 1
 burmanniaceous
 burlesques
 befiddle
