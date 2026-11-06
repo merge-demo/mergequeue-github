@@ -3808,7 +3808,7 @@ carbohydrate
 cardiotrophia
 cysticarpic
 carbohydraturia
-chalkier
+chalkier 1
 chorioid
 carbohydride
 carbohydrogen
