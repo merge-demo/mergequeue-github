@@ -4425,7 +4425,7 @@ grifter
 gorgoneum
 guestling
 gutted
-ghaut 1
+ghaut 2
 gluer
 graces
 griffinage
