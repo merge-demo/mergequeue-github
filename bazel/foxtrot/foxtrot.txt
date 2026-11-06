@@ -8033,7 +8033,7 @@ flutterer
 fundraise
 fitment
 fimble
-faroese
+faroese 1
 footstools
 felsites
 ferroalloy
