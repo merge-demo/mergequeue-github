@@ -18408,7 +18408,7 @@ cognitively
 cokelike
 cognitivity
 cognizable
-cognizant
+cognizant 1
 cognize
 conveyancer
 cognized
