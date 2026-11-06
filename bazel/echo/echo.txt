@@ -9643,7 +9643,7 @@ encloud
 embost
 espartos
 enhydritic
-especialness
+especialness 1
 esperantido
 extrapatriarchal
 enclosing
