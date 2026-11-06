@@ -15312,7 +15312,7 @@ dolphin
 dirling
 diospyros
 dolphinfish
-dolphinlike
+dolphinlike 1
 decadescent 1
 dolphins
 discountenance
