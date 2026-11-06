@@ -11390,7 +11390,7 @@ dishfuls
 deferentectomy
 dippers
 dolina
-diabetic
+diabetic 1
 disciplinal
 disquisited
 droopingly
