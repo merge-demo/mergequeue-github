@@ -3406,7 +3406,7 @@ eavedropper
 embark
 epichorial
 embarkations
-epitomize
+epitomize 1
 embarkment
 embarks
 equipage
