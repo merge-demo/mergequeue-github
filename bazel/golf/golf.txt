@@ -5676,7 +5676,7 @@ gothites
 grizzler
 grenat
 gaucie
-gaultheria
+gaultheria 1
 galvanographic
 glandulous
 gallophile
