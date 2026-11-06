@@ -8178,7 +8178,7 @@ equanimity
 euchromatin
 extemporalness
 expedientist
-evelong
+evelong 1
 eyl
 essayette
 eurythmies
