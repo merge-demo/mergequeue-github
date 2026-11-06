@@ -2346,7 +2346,7 @@ geologist
 gurging
 gymnocerata
 gadinic
-glassy
+glassy 1
 greengrocer
 gutturalisation
 grubbiness
