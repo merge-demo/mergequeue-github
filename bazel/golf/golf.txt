@@ -5929,7 +5929,7 @@ gemitorial
 globuliform
 gaylussacia
 gluishness
-geonyctinastic
+geonyctinastic 1
 germy
 glumes
 gorman
