@@ -1710,7 +1710,7 @@ accursedness
 aborter
 accurst
 authorisable
-actinotherapy
+actinotherapy 1
 aeroelastics
 animadvert
 aristocracies
