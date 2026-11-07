@@ -9113,7 +9113,7 @@ formity
 follows
 formalins 1
 furtum
-fortresses
+fortresses 1
 fribblish
 filters
 fantasias
