@@ -20528,7 +20528,7 @@ antilytic
 aleurobius
 acculturating
 acred
-arcticology
+arcticology 1
 arterioversion
 apperceptionistic
 archetype
