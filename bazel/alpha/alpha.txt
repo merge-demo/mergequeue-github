@@ -2892,7 +2892,7 @@ acropore
 antialbumose 1
 augustest
 areographically
-acrosomes
+acrosomes 1
 autolimnetic
 aneurysms
 anapsid
