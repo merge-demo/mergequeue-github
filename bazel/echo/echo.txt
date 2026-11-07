@@ -3942,7 +3942,7 @@ epilabrum
 emodins
 efflorescent
 emollience
-elevenths
+elevenths 1
 eyliad
 estruate
 excalation
