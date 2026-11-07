@@ -8859,7 +8859,7 @@ fatty
 ferrotypes
 forebye
 facioscapulohumeral
-foreigners
+foreigners 1
 frenzily
 fot
 florideous
