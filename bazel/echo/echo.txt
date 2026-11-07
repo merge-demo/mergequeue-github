@@ -5627,7 +5627,7 @@ emigratory
 enfoldings
 elevators
 enfolds
-eneuch
+eneuch 1
 emigated
 epicist
 episiostenosis
