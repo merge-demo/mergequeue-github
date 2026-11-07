@@ -9625,7 +9625,7 @@ bishopweed
 bobbinets
 bestir
 benison
-barterers
+barterers 1
 blatti
 bryozoum
 baizes
