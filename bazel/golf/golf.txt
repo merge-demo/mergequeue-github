@@ -6526,7 +6526,7 @@ gospelmonger
 gallivat
 goniatitoid
 glycogenosis
-ghis
+ghis 1
 gunster
 geotherm
 gamopetalous
