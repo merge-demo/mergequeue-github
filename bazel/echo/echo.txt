@@ -574,7 +574,7 @@ endogastrically
 echis
 enthean
 euglenas
-echitamine
+echitamine 1
 eccentrical
 ecstatical
 epigynum
