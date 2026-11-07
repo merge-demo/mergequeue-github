@@ -10488,7 +10488,7 @@ floggable
 felsosphaerite
 frostroot
 floe
-freshment
+freshment 1
 frillery
 favouringly
 frot
