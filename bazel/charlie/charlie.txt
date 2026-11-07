@@ -25681,7 +25681,7 @@ conoid
 centupled
 corregimientos
 chaucerianism
-correl
+correl 1
 coolaman
 correlatable
 cathedrae
