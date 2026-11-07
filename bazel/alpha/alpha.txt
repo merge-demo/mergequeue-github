@@ -1089,7 +1089,7 @@ antilynching
 accommodateness
 agra
 abusefully
-abusefulness
+abusefulness 1
 arabinose
 antiegoism
 aminomyelin
