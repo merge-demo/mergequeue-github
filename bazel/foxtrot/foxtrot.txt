@@ -9708,7 +9708,7 @@ freakful
 fremd
 frenchly
 fafaronade
-fissionability
+fissionability 1
 festinate
 floatable
 footmanry
