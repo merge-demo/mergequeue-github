@@ -6316,7 +6316,7 @@ gettable
 gullible 2
 gigartinaceous
 gunmen
-gargantua
+gargantua 1
 gauster
 globetrotters
 geochemists
