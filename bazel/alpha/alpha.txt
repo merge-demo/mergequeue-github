@@ -23113,7 +23113,7 @@ ani
 atte
 archocele
 avodires
-anthecology
+anthecology 1
 ammonolyze
 antheriform
 attemperament
