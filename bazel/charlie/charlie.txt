@@ -21928,7 +21928,7 @@ confetti
 conocephalus
 confidant
 cymbella
-confidante
+confidante 1
 copout
 coresort
 confidants
