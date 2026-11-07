@@ -11257,7 +11257,7 @@ assemblymen
 antistalling
 amphiplatyan
 acknowledge 1
-amphiploidy
+amphiploidy 1
 ascicidia
 apili
 ains
