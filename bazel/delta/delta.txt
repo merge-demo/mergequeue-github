@@ -3423,7 +3423,7 @@ diversely
 deflocculant
 dragsman
 dimethylhydrazine
-downrightness
+downrightness 1
 dudgeon
 dissatisfy
 debasement
