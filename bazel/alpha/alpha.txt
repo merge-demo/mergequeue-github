@@ -24887,7 +24887,7 @@ aponeurotome
 anarchosocialist
 avuncular
 arundinaria
-assimilate
+assimilate 1
 antineurotoxin
 arterializing
 amblyocarpous
