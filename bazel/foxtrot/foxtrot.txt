@@ -6037,7 +6037,7 @@ fermorite
 flightiness
 finger
 fontange
-forgab
+forgab 1
 frontooccipital
 flanker
 fictionise 1

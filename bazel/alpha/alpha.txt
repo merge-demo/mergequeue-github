@@ -22058,7 +22058,7 @@ astatize
 alejandro
 alphanumerical
 asbestoses
-allelisms
+allelisms 1
 avenous
 astricting
 antiaristocrat
