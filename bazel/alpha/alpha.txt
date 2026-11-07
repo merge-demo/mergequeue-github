@@ -6254,7 +6254,7 @@ arboretum
 agoraphobiac
 antiferment
 aquerne
-agoraphobic
+agoraphobic 1
 annuitant
 achoo 1
 antiracing
