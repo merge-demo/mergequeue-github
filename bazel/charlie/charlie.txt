@@ -27090,7 +27090,7 @@ cwt
 continuums
 counterrevolutionist
 counterriposte
-counterroll
+counterroll 1
 counters
 crotchety
 compressedly
