@@ -14937,7 +14937,7 @@ destroyingly 1
 desulfured
 daubentonia
 daisied
-digressed
+digressed 1
 derricks
 dermatogen
 dramatist
