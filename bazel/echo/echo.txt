@@ -13042,7 +13042,7 @@ expatriated
 exhibiting
 ebauchoir
 euhemerised
-ebonites
+ebonites 1
 epiperipheral
 elocutionary
 expediter
