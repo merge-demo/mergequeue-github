@@ -6471,7 +6471,7 @@ glimpse
 grower
 goldfinny
 gypsoplast
-guising
+guising 1
 gardenesque
 goldy
 glimmerous
