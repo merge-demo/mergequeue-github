@@ -6420,7 +6420,7 @@ derride
 derriere
 dactyli
 duster
-discriminatory
+discriminatory 1
 decree
 drung
 decenter
