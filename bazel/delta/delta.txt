@@ -7883,7 +7883,7 @@ dewberries
 dewcap 1
 disbudder
 devocalised
-driveways
+driveways 1
 dewclaws
 diaphonia
 dites
