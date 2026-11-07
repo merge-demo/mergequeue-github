@@ -3967,7 +3967,7 @@ encephalic
 emotioned
 emotionize
 eugregarinida
-epimeron
+epimeron 1
 emolument
 elevator
 emotivity
