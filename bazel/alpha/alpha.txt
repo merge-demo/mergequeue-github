@@ -17031,7 +17031,7 @@ automorphic
 apochromatism
 archimorula
 astrophotometry
-albus
+albus 1
 ascitic
 auriscalp
 apocynthion
