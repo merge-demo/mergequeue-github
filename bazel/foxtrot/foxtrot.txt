@@ -6630,7 +6630,7 @@ friggle
 fractocumulus
 fireweeds
 fairgrass
-fruitery
+fruitery 1
 funds
 fancymonger
 fatuousness 1
