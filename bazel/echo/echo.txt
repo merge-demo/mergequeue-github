@@ -4513,7 +4513,7 @@ episematic
 earlock
 enamelling
 euchysiderite 1
-esthesiophysiology
+esthesiophysiology 1
 elsewhat
 enforcing
 exterminator 1
