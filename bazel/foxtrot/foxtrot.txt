@@ -6458,7 +6458,7 @@ folkcraft
 frenchize 1
 fordy
 fellatrix
-forsar
+forsar 1
 flurn
 flurried
 futhorks
