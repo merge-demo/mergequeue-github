@@ -9533,7 +9533,7 @@ fibrovasal
 foveate
 fermenter
 freckle
-furnace
+furnace 1
 fieldmouse
 fruitfullness
 financier
