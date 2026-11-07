@@ -7603,7 +7603,7 @@ gopherman
 gravimetrically
 greengroceries
 gloeosporium
-goodyness
+goodyness 1
 gemmula
 grus
 grabhook
