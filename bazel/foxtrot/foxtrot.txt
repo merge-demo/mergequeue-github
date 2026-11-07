@@ -4965,7 +4965,7 @@ farmhold
 flamers
 fictionist
 foxing
-flamy
+flamy 1
 fan 1
 facepiece
 floorages
