@@ -3921,7 +3921,7 @@ adjudicated
 apostrophied
 adjudication
 agglutinin
-adjudicative
+adjudicative 1
 aerostats
 antistrophically
 adjudicators
