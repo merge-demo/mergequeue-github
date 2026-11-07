@@ -12890,7 +12890,7 @@ erosions
 expandingly
 expansibility
 emusifies
-expansile
+expansile 1
 expansionism
 englyn
 esotropic
