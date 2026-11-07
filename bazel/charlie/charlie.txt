@@ -3734,7 +3734,7 @@ caravaner
 coroparelcysis
 chetty
 caravans
-caravanserai
+caravanserai 1
 chromoxylography
 caravanserial
 companeros
