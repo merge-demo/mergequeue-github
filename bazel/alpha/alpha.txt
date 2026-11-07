@@ -23260,7 +23260,7 @@ astraddle
 attorn
 appreciates
 attornare 1
-agilely
+agilely 1
 attorney
 accumulator
 arrhythmias
