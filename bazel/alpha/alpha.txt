@@ -10580,7 +10580,7 @@ alcuinian
 archduchy
 aequian
 anophele
-amygdalin
+amygdalin 1
 antepenuit
 antiderivative
 anachromasis

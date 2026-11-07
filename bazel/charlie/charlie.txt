@@ -18663,7 +18663,7 @@ cointer
 cointerest
 cointerred
 cointerring
-cointersecting
+cointersecting 1
 cointreau
 coinvolve
 coyo
