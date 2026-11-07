@@ -8728,7 +8728,7 @@ dendrophil
 dispensatrix
 demisacrilege
 diathesis
-dirl
+dirl 1
 dimps
 diatoma
 diapase
