@@ -966,7 +966,7 @@ abstainer
 ameland
 angoras
 abstainers
-abstaining
+abstaining 1
 abstains
 antiserum
 assis
