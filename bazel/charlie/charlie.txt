@@ -12735,7 +12735,7 @@ chugging
 centilitre
 chuje
 clockmaker
-cajava
+cajava 1
 complices
 chukchi
 chukka
