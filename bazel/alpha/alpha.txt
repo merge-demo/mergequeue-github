@@ -3215,7 +3215,7 @@ adderbolt
 acoumetry
 alstonine
 assident
-antennary
+antennary 1
 abstersion
 aphis
 ashlar
