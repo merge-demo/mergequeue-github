@@ -10806,7 +10806,7 @@ amphibological
 abhiseka
 ammocoetes
 agglutinated
-acronomy
+acronomy 1
 alloantibody
 antirent
 abides
