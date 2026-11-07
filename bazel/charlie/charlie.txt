@@ -11385,7 +11385,7 @@ chloroplasts
 cosmonautics
 coenamorment
 commences
-chiastic
+chiastic 1
 conscienceless
 chloroplatinous
 chloroprene
