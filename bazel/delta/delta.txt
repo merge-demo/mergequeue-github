@@ -5045,7 +5045,7 @@ doand
 dextrocardia
 darci
 deemphasis
-denationalise
+denationalise 1
 denationalize
 dedicator
 decaesarize
