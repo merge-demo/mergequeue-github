@@ -2545,7 +2545,7 @@ graciously
 glorifying
 gallfly
 gael
-geothermal
+geothermal 1
 gilliver
 glusid
 gapeseeds
