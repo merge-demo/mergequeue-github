@@ -12353,7 +12353,7 @@ equilobate
 eupepsies
 edgeling
 evase
-expects
+expects 1
 exhibitors
 endorsers
 excrescencies
