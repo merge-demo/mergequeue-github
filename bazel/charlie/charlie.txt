@@ -30936,7 +30936,7 @@ culturing
 cystoids
 coigns
 crotched
-culturize
+culturize 1
 cleanliness
 culturological
 culturologically
