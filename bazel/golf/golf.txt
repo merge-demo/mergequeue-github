@@ -4024,7 +4024,7 @@ grotzen
 gymnanthous
 gouter 1
 gesticulates
-gansey
+gansey 1
 ginnier
 gubbings
 gellert
