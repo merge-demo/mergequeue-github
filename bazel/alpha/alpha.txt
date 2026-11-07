@@ -423,7 +423,7 @@ addlings
 agarose
 askoi
 algores
-abigeat
+abigeat 1
 antihydropic
 antinomianism
 annihilate
