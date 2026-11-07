@@ -26751,7 +26751,7 @@ counterclassifications
 cricketer
 countercolored
 cliff
-countercompetition
+countercompetition 1
 countercomplaint
 countercompony
 cramberry
