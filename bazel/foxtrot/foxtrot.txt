@@ -5606,7 +5606,7 @@ federal
 frontonasal
 flageolet
 fascicled
-formerness
+formerness 1
 fourgons
 flight
 frusla
