@@ -5425,7 +5425,7 @@ glutenin
 granomerite
 groceress
 groupageness
-geared
+geared 1
 gastroesophageal
 gulfside
 ghilzai
