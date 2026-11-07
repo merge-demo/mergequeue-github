@@ -8346,7 +8346,7 @@ diplois
 dejerate
 dargue
 daemonies
-disruptable
+disruptable 1
 dioestrum
 disincline
 duchies
