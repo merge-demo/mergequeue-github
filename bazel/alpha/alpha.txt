@@ -2961,7 +2961,7 @@ actiniae
 amphiprotic
 appalment
 amplexifoliate
-automatize
+automatize 1
 appendages
 ashless
 antiheroism
