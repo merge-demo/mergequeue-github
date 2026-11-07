@@ -8865,7 +8865,7 @@ epilegomenon
 eventuation
 electrooptically
 erer
-erethisia
+erethisia 1
 excursively
 embossers
 eelworms
