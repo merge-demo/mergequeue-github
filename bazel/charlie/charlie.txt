@@ -5707,7 +5707,7 @@ catawampus
 cenogenetically
 catberry
 catbirds
-copyist
+copyist 1
 codding
 catboats
 catcall
