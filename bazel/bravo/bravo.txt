@@ -730,7 +730,7 @@ bolter
 brinjal
 badgerlike
 bending
-befoul
+befoul 1
 babiches
 bandsawing
 badges
