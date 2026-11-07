@@ -27696,7 +27696,7 @@ cowinner
 cowish
 copsole
 circumdate
-cowitch
+cowitch 1
 coercionist
 corrigendum
 cadaveric
