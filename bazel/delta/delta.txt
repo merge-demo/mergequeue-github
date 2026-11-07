@@ -6872,7 +6872,7 @@ desmopathology
 desmopexia
 deheathenize
 dreamer
-dentary
+dentary 1
 desmorrhexis
 deifies
 desmoscolecidae
