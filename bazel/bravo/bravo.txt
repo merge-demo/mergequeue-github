@@ -6280,7 +6280,7 @@ bagfuls
 bevors
 benthoscope
 bemoat
-bulgar
+bulgar 1
 benthoses
 bacteriolysin
 backwashes
