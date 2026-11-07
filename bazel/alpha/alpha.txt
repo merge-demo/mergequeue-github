@@ -3286,7 +3286,7 @@ additament
 acutilingual
 axal
 acutilobate
-arterioarctia
+arterioarctia 1
 acutiplantar
 autoluminescence
 acrylate
