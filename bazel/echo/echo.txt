@@ -9972,7 +9972,7 @@ endophagy
 erythromelalgia
 esugarization
 endowers
-entonement
+entonement 1
 entreatment
 esurient
 electroform
