@@ -4026,7 +4026,7 @@ gouter 1
 gesticulates
 gansey
 ginnier
-gubbings
+gubbings 1
 gellert
 grounds
 gilds
