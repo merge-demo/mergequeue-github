@@ -14432,7 +14432,7 @@ centiare
 carate
 crosscrosslet
 charades
-capataces
+capataces 1
 cirrocumulative
 chasmogamic
 cirrocumulous
