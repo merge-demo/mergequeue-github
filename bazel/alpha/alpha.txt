@@ -1858,7 +1858,7 @@ awn
 antitabetic
 acerval
 aggressions
-antiphysic
+antiphysic 1
 acervate
 acervation
 acervulus
