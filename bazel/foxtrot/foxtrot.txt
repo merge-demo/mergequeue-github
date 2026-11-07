@@ -8065,7 +8065,7 @@ fairies
 fosterers
 formentation
 facetting
-folial
+folial 1
 forestful
 freezes
 frigger
