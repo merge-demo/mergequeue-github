@@ -752,7 +752,7 @@ hapeoxvsync
 hapepallcl
 hapf
 hapfzftjcthm
-hapg
+hapg 1
 hapgblcu 1
 hapgbryky
 hapgo
