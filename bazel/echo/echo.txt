@@ -1764,7 +1764,7 @@ emule
 exhbn
 epigraphic
 eutony
-eyes
+eyes 1
 ewhow 1
 encasing
 eyeseed
