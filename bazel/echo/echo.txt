@@ -6138,7 +6138,7 @@ erminites
 extremum
 elaterometer
 elephantiases
-embelia
+embelia 1
 ereptic
 espringal
 enfacement
