@@ -2882,7 +2882,7 @@ forewing
 foxship
 frisettes
 fantasize
-fogies
+fogies 1
 formicarium
 frabjously
 formats
