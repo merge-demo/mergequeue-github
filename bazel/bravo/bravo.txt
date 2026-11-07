@@ -12144,7 +12144,7 @@ bolero
 bivoltine
 bewormed
 biclavate
-barbarianism
+barbarianism 1
 broche
 begrudgingly
 burdeners
