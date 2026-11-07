@@ -5869,7 +5869,7 @@ gardon 1
 griddled
 gasfiring
 geolatry
-grandesque
+grandesque 1
 glycogenous
 gravimetric
 goliards
