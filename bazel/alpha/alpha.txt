@@ -19026,7 +19026,7 @@ astaticism
 adhering
 airmailed
 archon
-archonship
+archonship 1
 arosaguntacook
 archonships
 archontia
