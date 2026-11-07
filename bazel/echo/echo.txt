@@ -1585,7 +1585,7 @@ eglantines
 endocardia
 ethnogenist
 exobiologist
-eglomerate
+eglomerate 1
 eaglets
 eglomise
 errite
