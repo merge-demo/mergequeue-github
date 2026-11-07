@@ -13012,7 +13012,7 @@ expostulatory
 estive
 expeded
 expatiated
-efflate
+efflate 1
 expedience
 engrossment
 exotropism
