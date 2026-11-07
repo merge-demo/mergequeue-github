@@ -2273,7 +2273,7 @@ extensometer
 enciente
 embryony
 embraceable
-encoach
+encoach 1
 ethnarchies
 endothys
 electricize
