@@ -17710,7 +17710,7 @@ dampener
 dubbin
 disused
 demipauldron
-discriminable
+discriminable 1
 durables
 dedifferentiation
 decanonization
