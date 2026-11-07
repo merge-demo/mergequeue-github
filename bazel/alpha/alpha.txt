@@ -8786,7 +8786,7 @@ anukabiet
 allionia
 allyou
 aluminography
-allis
+allis 1
 aristocrat
 alliterate
 announceable
