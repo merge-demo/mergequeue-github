@@ -5061,7 +5061,7 @@ demographers
 denaturants
 docilely
 dueller
-denaturing
+denaturing 1
 duplicand
 denaturise
 disfigures
