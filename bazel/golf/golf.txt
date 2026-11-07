@@ -3803,7 +3803,7 @@ grungier
 gastrosuccorrhea
 gibbosely
 goosepimply
-gibbous
+gibbous 1
 gentilesse
 ganching
 gloriously
