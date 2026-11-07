@@ -6237,7 +6237,7 @@ dialytically
 dermasurgery
 dedolomitization
 dermatagra
-dermatophagus
+dermatophagus 1
 dermatotropic
 desiccator
 dizaine
