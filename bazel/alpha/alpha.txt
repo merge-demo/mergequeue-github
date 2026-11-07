@@ -12897,7 +12897,7 @@ anglings
 amphithurthura
 antirumor
 apperceiving
-ambulate
+ambulate 1
 anglistics
 arryish
 anglogaea
