@@ -17951,7 +17951,7 @@ determinacy
 demandable
 dossals
 dietitian
-dugouts
+dugouts 1
 dugs
 dugway
 deaerator
