@@ -2869,7 +2869,7 @@ eleutherian
 epidemicalness
 eleutherios
 estuarian
-elytriferous
+elytriferous 1
 enterotoxin
 ectosteally
 ecbasis
