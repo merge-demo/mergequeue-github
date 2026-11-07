@@ -17735,7 +17735,7 @@ applications
 anecdotalist
 appositely
 applicative
-ammunition
+ammunition 1
 applicatively
 applicatory
 appliedly
