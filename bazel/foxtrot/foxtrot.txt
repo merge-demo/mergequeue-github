@@ -1381,7 +1381,7 @@ formularistic
 foldy
 fancical
 flecnodal
-facto
+facto 1
 furmenties
 fiche
 fornicates
