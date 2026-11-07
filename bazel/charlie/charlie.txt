@@ -21062,7 +21062,7 @@ comradeship
 caulked
 chargfaires
 coms
-comsat
+comsat 1
 clostridial
 comsomol
 competingly
