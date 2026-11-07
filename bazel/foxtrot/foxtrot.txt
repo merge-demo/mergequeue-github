@@ -1171,7 +1171,7 @@ fascine
 ferreous
 fishmeals
 furring
-fascintatingly
+fascintatingly 1
 flavopurpurin
 forcer
 filicineae
