@@ -6274,7 +6274,7 @@ doldrums
 diact
 dermatoneurosis
 dustuck
-disprize
+disprize 1
 doggier
 devolve
 deprecates
