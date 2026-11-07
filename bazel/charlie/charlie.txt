@@ -21559,7 +21559,7 @@ corsepresent
 concrescible
 calyceraceous
 coercer
-cofinal
+cofinal 1
 concurring
 concurs
 christologist
