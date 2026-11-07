@@ -7418,7 +7418,7 @@ giga
 granduncle
 gnatproof
 geylies
-gotra
+gotra 1
 germarium
 gravecloth
 gastrocolotomy
