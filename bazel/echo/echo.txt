@@ -4940,7 +4940,7 @@ eudemons 1
 extradictable
 endamoebas
 endamoebidae
-equations
+equations 1
 endangitis
 expertised
 endarteteria
