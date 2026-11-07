@@ -5684,7 +5684,7 @@ gristliest 1
 greenlandman
 gnomonia
 gastrophrenic
-glossal
+glossal 1
 glycerize
 gumboil
 gilbertianism
