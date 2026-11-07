@@ -786,7 +786,7 @@ fluorines
 financing
 flunker
 fanfaronading
-folkloric
+folkloric 1
 footworn
 fatality
 froster
