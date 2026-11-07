@@ -2851,7 +2851,7 @@ dustier
 decubital
 dezincked
 daur
-desiring
+desiring 1
 diaclasis
 decubiti
 deculturate
