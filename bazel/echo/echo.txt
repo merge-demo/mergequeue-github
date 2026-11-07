@@ -11190,7 +11190,7 @@ embourgeoisement
 evolvement
 enterers
 evalue
-evanesced
+evanesced 1
 eternalism
 evanescence
 encephalomalacosis
