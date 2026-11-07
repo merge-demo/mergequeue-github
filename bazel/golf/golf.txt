@@ -1183,7 +1183,7 @@ gynaecomasty
 gaped
 gorgonized
 genitory
-gig
+gig 1
 gothic
 gonorrheic
 glabrescent
