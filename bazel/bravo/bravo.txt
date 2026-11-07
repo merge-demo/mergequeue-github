@@ -395,7 +395,7 @@ bathinette
 backlings
 balletic
 bummed
-bixbyite
+bixbyite 1
 blarneying 1
 burgles
 belook
