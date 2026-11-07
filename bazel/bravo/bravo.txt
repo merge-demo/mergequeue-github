@@ -11299,7 +11299,7 @@ barograms
 boneyard
 biologism
 bipunctate
-blowse
+blowse 1
 bargeman
 barse
 baith
