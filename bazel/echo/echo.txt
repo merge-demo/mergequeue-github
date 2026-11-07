@@ -9305,7 +9305,7 @@ erthly
 estriate
 ericaceous
 enticeful
-espieglerie
+espieglerie 1
 erubescent
 entelechy
 ecus
