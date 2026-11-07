@@ -921,7 +921,7 @@ biopsychic
 belligerently
 bagsful
 bequirtle
-bazookaman
+bazookaman 1
 bassalian
 barbeled
 bravely
