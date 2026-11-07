@@ -6284,7 +6284,7 @@ caulks
 chymists
 conferrer
 capuchins
-catalases
+catalases 1
 cofermentation
 colourize
 crescence
