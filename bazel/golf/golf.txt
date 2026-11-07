@@ -10539,7 +10539,7 @@ gossipingly
 gudesakes
 gentamicin
 gunge
-germinability
+germinability 1
 gunjah
 gaucheries
 genisaro
