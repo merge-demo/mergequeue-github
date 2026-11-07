@@ -3345,7 +3345,7 @@ gildhalls
 gonydial
 gahnite
 globed
-gasogen
+gasogen 1
 groovelike
 garrulinae
 germifuge
