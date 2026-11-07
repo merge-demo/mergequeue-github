@@ -12440,7 +12440,7 @@ abraser
 apiarist
 adventists
 andronicus
-adjective
+adjective 1
 aromal
 androphorous
 antipyryl
