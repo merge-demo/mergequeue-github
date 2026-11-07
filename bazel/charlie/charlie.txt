@@ -21481,7 +21481,7 @@ commands
 curliewurly
 cardiophobia
 concordances
-cantalas
+cantalas 1
 concordancy
 concordant
 carpidium
