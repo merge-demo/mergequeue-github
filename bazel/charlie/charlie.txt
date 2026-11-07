@@ -2903,7 +2903,7 @@ cantaliver
 cackled
 cantaloup
 careerer 1
-cantaloupes
+cantaloupes 1
 catboat
 cantando
 cantankerous
