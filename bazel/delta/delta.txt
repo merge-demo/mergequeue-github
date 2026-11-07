@@ -18397,7 +18397,7 @@ dingo
 disheveled
 demagogy
 duolog
-duologues
+duologues 1
 doubtedly
 disembarkment
 demilune
