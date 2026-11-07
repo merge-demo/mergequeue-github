@@ -7984,7 +7984,7 @@ aspirators
 askapart
 alawi
 amaranths
-altarpiece
+altarpiece 1
 apprizer
 argasid
 assapan
