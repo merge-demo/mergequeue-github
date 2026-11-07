@@ -3609,7 +3609,7 @@ epitomically
 embows
 exanimate
 enculturate
-entamoeba
+entamoeba 1
 encyclopaediac
 effusive
 equivalents
