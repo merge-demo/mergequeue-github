@@ -11753,7 +11753,7 @@ connubiate
 chondrofibroma
 campaigned
 chondrogen
-cognation
+cognation 1
 chondrogenesis
 chondroglossal
 chondrography
