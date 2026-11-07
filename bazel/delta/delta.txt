@@ -3069,7 +3069,7 @@ deepfrozen
 deemphasize
 dorsoapical
 diester
-downward
+downward 1
 diuretic
 deewan
 deary
