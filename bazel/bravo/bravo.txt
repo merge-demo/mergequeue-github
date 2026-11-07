@@ -16037,7 +16037,7 @@ boubous
 brisance
 brahmanaspati
 bludgeoning
-bishoprics
+bishoprics 1
 bronk
 boxwallah
 burgullian
