@@ -11419,7 +11419,7 @@ cho
 complete
 conventionalism
 choak
-choana
+choana 1
 consultations
 choanate
 choanephora
