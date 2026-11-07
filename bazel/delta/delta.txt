@@ -17896,7 +17896,7 @@ duennaship
 droyl
 duer
 duessa
-delayingly
+delayingly 1
 duets
 diatonical
 demulce
