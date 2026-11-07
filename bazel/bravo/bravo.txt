@@ -5393,7 +5393,7 @@ beguilement
 biunial
 beguilements
 biferous
-banstickle
+banstickle 1
 bloodripeness
 briquets
 babelic
