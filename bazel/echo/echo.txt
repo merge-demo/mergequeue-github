@@ -2474,7 +2474,7 @@ eches
 ethanol
 electrogalvanization
 equivalence
-electrogenic
+electrogenic 1
 electrogild
 eudemonia
 exhilarates
