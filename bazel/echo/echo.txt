@@ -8467,7 +8467,7 @@ epizootic
 epoxyed
 epoxies
 employed
-evangelistaries
+evangelistaries 1
 easterlies
 eprise
 epimorpha
