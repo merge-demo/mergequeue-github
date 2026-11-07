@@ -7242,7 +7242,7 @@ flashback
 famishing
 fiorded
 flumed 1
-footsy
+footsy 1
 foiled
 footslogger
 flailed
