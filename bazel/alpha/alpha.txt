@@ -20626,7 +20626,7 @@ arthropathic
 assamese
 anapnograph
 arthrophlogosis
-abdaria
+abdaria 1
 appete
 abruptiones
 arthropodal
