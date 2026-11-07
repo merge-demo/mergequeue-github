@@ -27063,7 +27063,7 @@ counterproposal
 caplock
 croupily
 clerking
-counterprotection
+counterprotection 1
 counterpull
 counterpuncture
 counterpush
