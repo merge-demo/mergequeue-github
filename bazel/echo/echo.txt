@@ -4579,7 +4579,7 @@ excoction
 euphemized
 excrementitious
 eleazar
-enchancement
+enchancement 1
 empeoplement
 enchanted
 eschara
