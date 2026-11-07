@@ -3727,7 +3727,7 @@ changuina
 campanological
 carauna
 coventrize
-caravaneer
+caravaneer 1
 cyclists
 cosmogonize
 caravaner
