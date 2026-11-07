@@ -9107,7 +9107,7 @@ aerosat
 anemonin
 antitheologian
 abdicator
-acuminating
+acuminating 1
 alluring
 advancingly
 adenalgy
