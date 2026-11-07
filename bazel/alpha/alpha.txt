@@ -17967,7 +17967,7 @@ arsyl 1
 approvedly
 antiempirical
 anisodactyle
-allodialism
+allodialism 1
 anthropophysiography
 allothigene
 authenticate
