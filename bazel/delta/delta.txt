@@ -1184,7 +1184,7 @@ dodecaphony
 diiamb
 donnybrook
 diachoretic
-dextrinize
+dextrinize 1
 dogfall
 desmotropy
 discepted
