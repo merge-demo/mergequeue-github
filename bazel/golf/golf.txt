@@ -1278,7 +1278,7 @@ gratten
 gromatical
 gyrator
 galium
-glyphographer
+glyphographer 1
 gumpus
 grallina
 gnatsnapper
