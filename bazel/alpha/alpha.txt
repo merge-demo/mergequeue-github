@@ -1689,7 +1689,7 @@ apperceive
 accumbency
 astarte
 accumbent
-accumulating
+accumulating 1
 anthracomartian
 agony
 agrestis
