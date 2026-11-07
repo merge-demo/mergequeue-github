@@ -2152,7 +2152,7 @@ epitria
 exoneration
 electrosurgical
 endleaf
-enfoil
+enfoil 1
 exterminatress 1
 enanthematous
 epoxy
