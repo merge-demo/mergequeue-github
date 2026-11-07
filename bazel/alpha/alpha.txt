@@ -3947,7 +3947,7 @@ adjust
 animalculum
 abdal
 astre
-armozeen
+armozeen 1
 adjusting
 akindle
 adjustment
