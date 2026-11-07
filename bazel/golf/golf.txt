@@ -8039,7 +8039,7 @@ graphologist
 glycosides
 gynaecomorphous
 guildry
-gnabble
+gnabble 1
 globulous
 gongorism
 gossipers
