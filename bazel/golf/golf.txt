@@ -1761,7 +1761,7 @@ gastrophile
 garroo
 gorgonacea
 gastrophilism
-gorgeously
+gorgeously 1
 gyrofrequencies
 grivation
 glacify
