@@ -3861,7 +3861,7 @@ diatropic
 dyspnoea
 deionize
 degraduation
-dopatta
+dopatta 1
 decastyle
 dephlegm
 diomedeidae
