@@ -12382,7 +12382,7 @@ chromatophilous
 chromatophobia
 chromatophore
 carpel
-chromatophoric
+chromatophoric 1
 canthectomy
 chevroned
 cnidophobia

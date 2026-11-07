@@ -3877,7 +3877,7 @@ disprized
 dannemorite
 deathfully
 doer
-deirid
+deirid 1
 deis
 deisidaimonia
 disquieting
