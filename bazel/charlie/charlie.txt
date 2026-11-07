@@ -10041,7 +10041,7 @@ cherubical
 caribisi
 chord
 composers
-cherubim
+cherubim 1
 cherubimic
 cherubimical
 crappin
