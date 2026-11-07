@@ -2339,7 +2339,7 @@ faultier
 falsetto
 feoffs
 fasciole
-fra
+fra 1
 fiftyfold
 footstalk
 formalizing
