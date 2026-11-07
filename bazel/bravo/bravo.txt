@@ -2122,7 +2122,7 @@ barriers
 banter
 banterers
 bloodlessness
-bantery
+bantery 1
 boxfishes
 bantering
 banteringly
