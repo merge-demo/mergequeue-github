@@ -25530,7 +25530,7 @@ chamaerrhine
 coronership
 chasidim
 coroneted
-chaise
+chaise 1
 crutchlike
 cordeliere
 coronets
