@@ -7454,7 +7454,7 @@ cerebrophysiology
 cerastes
 conciliatory
 cerasus
-cerata
+cerata 1
 cerate
 commerced
 checkmates
