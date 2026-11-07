@@ -6945,7 +6945,7 @@ floriated
 folliculitis
 frt
 flub
-ferthumlungur
+ferthumlungur 1
 fumarase
 fibromatosis
 fauconnier
