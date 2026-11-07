@@ -2069,7 +2069,7 @@ combats
 chandlery
 collapsar
 camoufleur
-chests
+chests 1
 cosherer
 camp
 campagi
