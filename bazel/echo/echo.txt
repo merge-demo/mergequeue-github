@@ -1482,7 +1482,7 @@ equisetums
 enplaning
 encompasses
 eurythermous
-electivism
+electivism 1
 electroshocks
 exposal
 embolium
