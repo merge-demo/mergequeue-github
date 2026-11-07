@@ -10814,7 +10814,7 @@ glibbery
 gossipping
 geniolatry
 goldtail
-glaring
+glaring 1
 gingellies
 gargety
 ghazis
