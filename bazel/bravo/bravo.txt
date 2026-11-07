@@ -1526,7 +1526,7 @@ backsword
 ballastic
 ballata
 brisked
-batikulin
+batikulin 1
 ballatoon
 broiden
 brunetteness
