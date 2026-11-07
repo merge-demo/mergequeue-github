@@ -15948,7 +15948,7 @@ clergymen
 chandleries
 clergion
 clergywoman
-clementine
+clementine 1
 culverfoot
 clerical
 clericalists
