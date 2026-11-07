@@ -17602,7 +17602,7 @@ cocco
 changar
 clallam
 coccobacilli
-cumins
+cumins 1
 cayennes
 culrage
 coccochromatic
