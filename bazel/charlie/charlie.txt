@@ -28678,7 +28678,7 @@ coloniser
 candlewicking
 contaminates
 constitutes
-corone
+corone 1
 crenelations
 coplanar
 convergently
