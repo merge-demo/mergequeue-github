@@ -2100,7 +2100,7 @@ forebodies
 facture
 finetop
 favorless
-frument
+frument 1
 fayence
 fermentate 1
 fluming
