@@ -2985,7 +2985,7 @@ elbowchair
 enjoining
 encephalopsychesis
 exister
-extraovate
+extraovate 1
 eliminable
 etymologizing
 eradiation
