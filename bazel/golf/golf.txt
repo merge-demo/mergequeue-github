@@ -8756,7 +8756,7 @@ gluhwein
 grisgris 1
 goodlihead
 gamene
-gallate
+gallate 1
 griming
 gonapod
 galactagoguic
