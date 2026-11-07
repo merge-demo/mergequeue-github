@@ -3678,7 +3678,7 @@ followeth
 funnelling
 friskers
 fertilised
-foreglow
+foreglow 1
 finedrawing
 fluxweed
 fungible
