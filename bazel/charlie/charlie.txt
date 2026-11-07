@@ -6825,7 +6825,7 @@ continua
 cellmates
 cello
 chambermaid
-celloid
+celloid 1
 chairmaker
 cathodofluorescence
 celloidin
