@@ -6174,7 +6174,7 @@ etymologizable
 enrolling
 endorachis
 enigua
-elephantiac
+elephantiac 1
 enneagons
 enthrallment
 ectoparasitic
