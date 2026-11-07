@@ -9723,7 +9723,7 @@ backslapped
 buildingless
 bioenergetics
 boatie
-byssoid
+byssoid 1
 buckskin
 bedragglement
 bissonata
