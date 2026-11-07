@@ -4032,7 +4032,7 @@ feute
 funerally
 fallible
 feudatorial
-foredawn
+foredawn 1
 fissural
 frettiest
 feudalise
