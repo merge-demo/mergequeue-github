@@ -2051,7 +2051,7 @@ achatina
 achatinidae
 ache
 alkalinising
-artemisin
+artemisin 1
 affiliation
 amylohydrolytic
 antiputrefactive
