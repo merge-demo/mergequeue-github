@@ -3150,7 +3150,7 @@ actioner
 alcaid
 actiones
 abrazitic
-alkalifiable
+alkalifiable 1
 arrectary
 acclimatation
 auchenia
