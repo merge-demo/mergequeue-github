@@ -1366,7 +1366,7 @@ acceptability
 antistimulant
 amintor
 acceptance
-axisymmetrical
+axisymmetrical 1
 absorbent
 athalline
 achylia
