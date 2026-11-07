@@ -13524,7 +13524,7 @@ boisterousness
 becursing
 backhanded
 butterbough
-barnacled
+barnacled 1
 bibliophile
 bra
 burdening
