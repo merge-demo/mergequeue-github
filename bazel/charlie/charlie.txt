@@ -9686,7 +9686,7 @@ casse
 coagent
 cheewink
 cheezit
-chef
+chef 1
 chefs
 coenamoring
 collocate
