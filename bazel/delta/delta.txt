@@ -13871,7 +13871,7 @@ dyslexia
 dissavage
 dipter
 distensions
-disgress
+disgress 1
 disprison
 disterminate
 declaimant
