@@ -621,7 +621,7 @@ echeneidoid
 enchant
 enneaeteric
 empyreumatic 1
-epipaleolithic
+epipaleolithic 1
 evincement
 eclamptic
 efficacious
