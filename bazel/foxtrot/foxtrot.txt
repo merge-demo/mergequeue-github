@@ -8424,7 +8424,7 @@ flushers
 fatheadedly
 formaliser
 fozinesses
-fritting
+fritting 1
 freshman
 fades
 formalist
