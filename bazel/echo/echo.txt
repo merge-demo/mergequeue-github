@@ -6346,7 +6346,7 @@ euchred
 expiatory
 ensphered
 eyespot
-enseal
+enseal 1
 estancias
 esophoric
 extrovertish
