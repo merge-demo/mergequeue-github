@@ -9047,7 +9047,7 @@ epibranchial
 ectocyst
 erythrocytoblast 1
 explanate
-epizooty
+epizooty 1
 ebbets
 equalize
 emptier
