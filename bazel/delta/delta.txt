@@ -9992,7 +9992,7 @@ dasyatidae
 dimness
 decisiveness
 dermatographism
-dysacousma
+dysacousma 1
 debriefs
 disopinion
 dimoric
