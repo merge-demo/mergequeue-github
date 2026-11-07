@@ -4767,7 +4767,7 @@ gaels
 gentilitian
 gasometer
 gomarian
-giuseppe
+giuseppe 1
 gamboised
 groundwork
 grouseless
