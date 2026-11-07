@@ -13983,7 +13983,7 @@ echinodermic
 eyepoint
 equalising
 erythromania
-eisegetic
+eisegetic 1
 encoignures
 embryo
 emboitement
