@@ -17180,7 +17180,7 @@ bullnoses
 bacchuslike
 bullnut
 beetroot
-bullock
+bullock 1
 brachialgia
 bullocker
 brachydodrome
