@@ -18612,7 +18612,7 @@ dissonantly
 denudational
 dusttight
 dustuk
-decentring
+decentring 1
 decimalising
 dustups
 digitus
