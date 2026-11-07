@@ -14287,7 +14287,7 @@ anthelix
 archaeomagnetism
 anthem
 anthemas
-anthemata
+anthemata 1
 agavose
 amugis
 anthemia
