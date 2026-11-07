@@ -4490,7 +4490,7 @@ encaustically
 emotionalizing
 efferent
 erth
-enceinte
+enceinte 1
 entozoology
 entozoal
 endolabyrinthitis
