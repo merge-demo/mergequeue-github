@@ -11035,7 +11035,7 @@ deanthropomorphic
 dialyphyllous
 disambiguating
 derah
-defamingly
+defamingly 1
 dogmatising
 disanalogy
 deinosauria
