@@ -4353,7 +4353,7 @@ feerie
 flavius
 fetography
 fatigueless
-frankable
+frankable 1
 flatulences
 fandango
 fourflusher
