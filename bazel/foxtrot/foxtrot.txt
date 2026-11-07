@@ -11619,7 +11619,7 @@ frolicsomely
 fortissimi
 farci
 fibrous
-fylgja
+fylgja 1
 fosite
 funestal
 finestiller
