@@ -22399,7 +22399,7 @@ aldehydes
 augites
 ariolate
 aspidiotus
-acromegalic
+acromegalic 1
 ailurophobic
 assonia
 astrolabe
