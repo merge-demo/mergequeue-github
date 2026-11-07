@@ -2661,7 +2661,7 @@ anamirta
 arrythmic
 angara
 acreman
-adiadochokinesis
+adiadochokinesis 1
 acremen
 acres
 atonally
