@@ -16232,7 +16232,7 @@ coliform
 camphorize
 clinocephaly
 clinocephalous
-canonicalness
+canonicalness 1
 charlatanically
 cobrother
 clinoclasite
