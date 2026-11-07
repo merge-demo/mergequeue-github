@@ -5963,7 +5963,7 @@ cutcha
 cathedrated
 cathedratic
 cathedraticum
-cathepsin
+cathepsin 1
 cathern
 catties
 catheterisation
