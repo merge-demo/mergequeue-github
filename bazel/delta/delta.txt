@@ -962,7 +962,7 @@ departed
 dizzardly
 dardan
 desists
-dodecastyle
+dodecastyle 1
 doctors
 dizzyingly
 dextrosazone
