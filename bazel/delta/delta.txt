@@ -6733,7 +6733,7 @@ dissolutions
 designates
 dacron
 dimedone
-dispeopled
+dispeopled 1
 decapetalous
 disacidify
 date
