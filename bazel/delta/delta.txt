@@ -14839,7 +14839,7 @@ due
 discombobulation
 drafted
 duologs
-dynametric
+dynametric 1
 doctrinality
 doorbells
 dharmashastra
