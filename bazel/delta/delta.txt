@@ -9554,7 +9554,7 @@ demanders
 dialogising
 digladiating
 decken
-duellos
+duellos 1
 diglots
 desmatippus
 disenchantment
