@@ -2652,7 +2652,7 @@ felspathic
 fainaigue
 froufrou
 flickering
-foxfishes
+foxfishes 1
 fifty
 frostbow
 fetish
