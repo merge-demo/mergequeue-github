@@ -12261,7 +12261,7 @@ ditone
 disgavelling
 deorsumvergence
 damndest
-deresinate
+deresinate 1
 disposed
 dysgenical
 dsect
