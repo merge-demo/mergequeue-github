@@ -25734,7 +25734,7 @@ corridas
 chedlock
 corridors
 corriedale
-corrige
+corrige 1
 corrigenda
 compossibility
 corrigible
