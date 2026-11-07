@@ -13942,7 +13942,7 @@ cynosurus
 cynotherapy
 cynoxylon
 cinquains
-counterrevolutionize
+counterrevolutionize 1
 cinquanter
 cinque
 cinquecentist
