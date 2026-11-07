@@ -10690,7 +10690,7 @@ chimneylike
 chastisement
 chimneyman
 chimneypiece 1
-chimopelagic
+chimopelagic 1
 chymotrypsinogen
 creedalism
 coilsmith
