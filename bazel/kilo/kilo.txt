@@ -9348,7 +9348,7 @@ koseb
 koseddbq
 koseefu
 kosf
-kosflejq
+kosflejq 1
 kosgpjumyl
 kosharg
 kosih
