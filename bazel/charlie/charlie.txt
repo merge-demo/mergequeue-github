@@ -2583,7 +2583,7 @@ candolleaceae
 candolleaceous
 carangid
 chlorotrifluoromethane
-catalan
+catalan 1
 ceraunograph
 carbona
 canduc
