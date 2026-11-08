@@ -11015,7 +11015,7 @@ encyclopaedic
 eternalist
 euryprosopic
 excipuliform
-eroses
+eroses 1
 exornate
 extravagant
 emolliate
