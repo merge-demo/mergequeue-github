@@ -11129,7 +11129,7 @@ disassimilative
 disinherits
 disassociate
 disassociates
-disasters
+disasters 1
 dimerize
 dorlach 1
 doupioni
