@@ -5536,7 +5536,7 @@ cardiological
 catadicrotic
 cronie
 cursal
-catadicrotism
+catadicrotism 1
 cartbote
 capitulations
 coenosarcous
