@@ -3265,7 +3265,7 @@ freehearted
 fluorinate
 fittit
 fuzed
-foreknowledge
+foreknowledge 1
 freestanding
 fibrosity
 forthrightly
