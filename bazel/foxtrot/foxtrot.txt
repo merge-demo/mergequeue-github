@@ -11634,7 +11634,7 @@ fructoses
 ferren
 flyability
 fustiness
-frontless
+frontless 1
 fustoc
 fussily 1
 friscal
