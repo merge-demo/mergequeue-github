@@ -2168,7 +2168,7 @@ compilatory
 coleorhiza
 camphols
 contemnor
-camphorated
+camphorated 1
 camphorates
 camphory
 camphoryl
