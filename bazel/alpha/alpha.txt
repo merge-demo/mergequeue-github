@@ -13809,7 +13809,7 @@ amidoacetic
 averred
 anorectous
 athrill
-anorexy
+anorexy 1
 alloxyproteic
 anorexics
 adonidin
