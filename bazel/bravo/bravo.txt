@@ -15772,7 +15772,7 @@ brogueries
 beneficence
 becaps
 bove
-bedecks
+bedecks 1
 beauing
 billethead
 backstrokes
