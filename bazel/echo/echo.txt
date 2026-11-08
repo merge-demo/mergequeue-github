@@ -11696,7 +11696,7 @@ estragons
 ecphasis
 entoplastic
 exaggeratively
-exagitate
+exagitate 1
 effluence
 electromer
 epiphragmal
