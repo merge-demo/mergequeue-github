@@ -7260,7 +7260,7 @@ forecasts
 formiate
 fustet
 floorboards
-fameuse
+fameuse 1
 fancysick
 fortlet
 federalise
