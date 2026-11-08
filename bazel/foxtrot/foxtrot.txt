@@ -1888,7 +1888,7 @@ fourdrinier
 flamboyantize
 faradizing
 frs
-fraidycat
+fraidycat 1
 flybrush
 fishable
 fingerflower
