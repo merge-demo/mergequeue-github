@@ -6096,7 +6096,7 @@ catoptric
 canaan
 clippable
 catoptrically
-curtise
+curtise 1
 catoptrite
 catoptromantic
 catoquina
