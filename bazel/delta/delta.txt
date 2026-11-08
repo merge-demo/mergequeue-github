@@ -32,7 +32,7 @@ disgeneric
 dachas
 dachshund
 dachshunds
-disaligning
+disaligning 1
 dacian
 dyce
 deservedly
