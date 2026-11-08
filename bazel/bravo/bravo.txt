@@ -6450,7 +6450,7 @@ borderings
 bergmannite
 bilati
 beothukan
-bellicose
+bellicose 1
 braggartly
 basidiogenetic
 bedrocks
