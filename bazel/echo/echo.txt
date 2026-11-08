@@ -2134,7 +2134,7 @@ equably
 euxenite
 elastivity
 eleusine
-externat
+externat 1
 emperish 1
 equilibrio
 epipubes
