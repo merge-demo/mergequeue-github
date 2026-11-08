@@ -7080,7 +7080,7 @@ combinedly
 codex
 centerpunch
 crackdown
-centesimal
+centesimal 1
 crosscurrented
 catalpa
 centesimo
