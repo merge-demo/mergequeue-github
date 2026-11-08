@@ -8269,7 +8269,7 @@ botte
 belittlement
 bigas
 bigbury
-buttstrapped
+buttstrapped 1
 bigemina
 berberian
 barosma
