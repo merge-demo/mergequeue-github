@@ -12639,7 +12639,7 @@ defaultant
 descendentalist
 descrial
 dodgeries
-duplicidentate
+duplicidentate 1
 dechemicalization
 disjunctive
 disjunctively
