@@ -3138,7 +3138,7 @@ delicious
 dihydrite
 distoclusion
 defaming
-disability
+disability 1
 domesticity
 duringly 1
 defaulted
