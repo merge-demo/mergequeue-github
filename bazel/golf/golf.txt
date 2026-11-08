@@ -2570,7 +2570,7 @@ gurle
 gomeisa
 gonochorism
 galenites
-grosses
+grosses 1
 gaiterless
 giveaways
 generalized
