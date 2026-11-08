@@ -1963,7 +1963,7 @@ bulbous
 bombard
 ballocks
 basilicas
-bangkok
+bangkok 1
 bacteriogenous
 bangladesh
 bespatters
