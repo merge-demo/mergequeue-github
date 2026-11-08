@@ -31344,7 +31344,7 @@ cruziero
 curfew
 curfewed
 clerete
-curfews
+curfews 1
 concordats
 curfs
 colophany
