@@ -5907,7 +5907,7 @@ arachnologist
 apical
 agglutinate
 arenaceous
-arri
+arri 1
 agglutinative
 adamantine
 agglutinatively
