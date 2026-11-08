@@ -15285,7 +15285,7 @@ acetimetry
 afterdinner
 antigravitate
 annale
-alleviator
+alleviator 1
 agamically
 awalim
 amorality
