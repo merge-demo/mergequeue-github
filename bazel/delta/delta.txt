@@ -7073,7 +7073,7 @@ dayak
 dolts
 deposits
 destigmatization
-destigmatizing
+destigmatizing 1
 destination
 dunelands
 disallowed
