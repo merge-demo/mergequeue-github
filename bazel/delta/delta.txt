@@ -4724,7 +4724,7 @@ disputatively
 datatypes
 dunt
 desperateness
-disnaturalize
+disnaturalize 1
 dolente
 diamondwise
 diffareation
