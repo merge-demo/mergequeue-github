@@ -24777,7 +24777,7 @@ cabbing
 copula
 cheechakos
 coroscopy
-copulae
+copulae 1
 copular
 copularium
 conceivable
