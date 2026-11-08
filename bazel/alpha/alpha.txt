@@ -7796,7 +7796,7 @@ aldoheptose
 aldoketene
 analecta
 antigalactic
-aldol
+aldol 1
 assured
 afterfall
 apaestically
