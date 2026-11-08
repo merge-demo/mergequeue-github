@@ -13390,7 +13390,7 @@ alamiqui
 acridest
 ankyloses
 accoll
-antihumbuggist
+antihumbuggist 1
 archmarshal
 assafetida
 ankylostomiasis
