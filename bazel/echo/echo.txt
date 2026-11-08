@@ -8585,7 +8585,7 @@ engagements
 eyebar
 endemial
 electrotherapeutic
-encompassing
+encompassing 1
 epigrammatism
 egall
 ergatomorph
