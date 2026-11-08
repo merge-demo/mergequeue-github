@@ -4288,7 +4288,7 @@ adrenitis
 archcount
 adrenochrome
 adrenocortical
-adrenosterone
+adrenosterone 1
 adrenocorticotrophic
 ammonolysis
 afterstain
