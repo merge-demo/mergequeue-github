@@ -8808,7 +8808,7 @@ egritude
 esteems
 enskyed
 embelin
-entempest
+entempest 1
 epistolize
 entomostracous
 erat
