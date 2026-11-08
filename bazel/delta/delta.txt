@@ -11466,7 +11466,7 @@ deskbound
 dyotheletic
 dividuous
 dilatingly
-downturned
+downturned 1
 dieted
 demythologising
 diamyl
