@@ -4417,7 +4417,7 @@ endoparasite
 environmentally
 encanthis
 expectorations
-enfacing
+enfacing 1
 ensigncies
 endosmometric
 eubacteria
