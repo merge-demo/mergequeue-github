@@ -45,7 +45,7 @@ edging
 eardropper 1
 euchromosome
 earflap
-expender
+expender 1
 enzyms
 excites
 exciton
