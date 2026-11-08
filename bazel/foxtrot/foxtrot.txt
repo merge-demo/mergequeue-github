@@ -7030,7 +7030,7 @@ fauxbourdon
 folkloristic
 ferrum
 forgiveness
-fontal
+fontal 1
 freakout
 fulmining
 fougasse
