@@ -2140,7 +2140,7 @@ equilibrio
 epipubes
 equiangle
 elastomers 1
-elastose
+elastose 1
 epeisodia
 embryologists
 emcees
