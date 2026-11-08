@@ -16923,7 +16923,7 @@ apiologist
 abricot
 apyonin
 apiosoma
-apyrases
+apyrases 1
 apyrexial
 apyrotype
 anteverts
