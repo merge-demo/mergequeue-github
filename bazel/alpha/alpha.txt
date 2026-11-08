@@ -8922,7 +8922,7 @@ alloiometric
 adjustments
 acrogenic
 alloisomerism
-axisymmetric
+axisymmetric 1
 archaically
 agallochum
 apospory
