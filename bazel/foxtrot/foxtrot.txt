@@ -10029,7 +10029,7 @@ favors
 fringilline
 freedom
 frothsome
-fonted
+fonted 1
 foreleader
 fustiest
 forearms
