@@ -730,7 +730,7 @@ feoffment
 fluxion
 feministics 1
 fragmentate
-fertilizes
+fertilizes 1
 fogscoffer
 flittiness
 falcation
