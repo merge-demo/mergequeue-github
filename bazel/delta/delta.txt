@@ -14921,7 +14921,7 @@ decadi
 dodecasyllable
 discretionarily
 demonising
-dichromat
+dichromat 1
 disponing
 digammas
 dominates
