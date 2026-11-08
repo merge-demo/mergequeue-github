@@ -11460,7 +11460,7 @@ furrowing
 forletting
 furrowlike 1
 forewish
-furcately
+furcately 1
 fissury
 ferntickle
 furrure
