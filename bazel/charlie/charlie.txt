@@ -24111,7 +24111,7 @@ conformation
 conference
 convertiplane
 convertise
-convertism
+convertism 1
 convertite 1
 comfortless
 convertive
