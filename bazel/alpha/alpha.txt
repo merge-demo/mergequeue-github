@@ -13311,7 +13311,7 @@ abcess
 anorexic
 aquilawood 1
 albatross 1
-artery
+artery 1
 aproning
 anisomyarian
 anisomyodous
