@@ -11321,7 +11321,7 @@ almacen
 amphithecium
 abjures
 alterant
-avowries
+avowries 1
 amphithyra
 ana
 amphithyron
