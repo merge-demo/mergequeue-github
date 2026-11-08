@@ -3031,7 +3031,7 @@ gorily
 gyrally
 grudgekin
 garboil
-gallicolous
+gallicolous 1
 gymnodinium
 gulinula
 geminate
