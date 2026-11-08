@@ -11038,7 +11038,7 @@ derah
 defamingly 1
 dogmatising
 disanalogy
-deinosauria
+deinosauria 1
 disanalogous
 disanchor
 deliberations
