@@ -12780,7 +12780,7 @@ chumship
 comdia
 chumships
 clonism 1
-cicindelidae
+cicindelidae 1
 curbing
 coelogastrula
 cantharophilous
