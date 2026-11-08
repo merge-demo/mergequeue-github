@@ -4352,7 +4352,7 @@ dysphagic
 delead
 demersal
 demanganization
-deliberator
+deliberator 1
 dishonourableness
 ductal
 daunton
