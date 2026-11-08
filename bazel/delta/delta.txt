@@ -7764,7 +7764,7 @@ devising
 direption
 detailism
 diglyph
-devisor
+devisor 1
 decrier
 dowie
 devitalizes
