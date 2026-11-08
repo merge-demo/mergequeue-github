@@ -4864,7 +4864,7 @@ epigne
 ephydriad
 expertise
 emblematizing
-encourages
+encourages 1
 embusy
 eucatropine
 escapable
