@@ -20590,7 +20590,7 @@ competition
 cumulet
 congreve
 competitive
-competitiveness
+competitiveness 1
 competitor
 competitory
 conjugal
