@@ -12712,7 +12712,7 @@ dioicously
 drizzle
 dacryoadenitis
 declassing
-divel
+divel 1
 drafty
 dialysing
 decodings
