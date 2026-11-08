@@ -4913,7 +4913,7 @@ fulgural
 flourescent
 fino
 fourscore
-flakiest
+flakiest 1
 forged
 frequentable
 flambeau
