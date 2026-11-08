@@ -9942,7 +9942,7 @@ brian
 bx
 bituminous
 bisecting
-beryllate
+beryllate 1
 bilinguality
 bridleman
 burbles
