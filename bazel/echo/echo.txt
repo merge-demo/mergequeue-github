@@ -5900,7 +5900,7 @@ electorial
 epigeum
 ewest
 extrazodiacal
-epigramme
+epigramme 1
 exacerbescence
 epidendral
 exsiccate
