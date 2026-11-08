@@ -29716,7 +29716,7 @@ conjunct
 codesigned
 curavecan
 confess
-countesses
+countesses 1
 caprimulgine
 cutterman
 cromster
