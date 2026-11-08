@@ -5672,7 +5672,7 @@ glorying
 gobbledegook
 gatemen
 gant
-gothites
+gothites 1
 grizzler
 grenat
 gaucie
