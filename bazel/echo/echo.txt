@@ -6624,7 +6624,7 @@ egyptianism
 expulsatory
 enterocoela
 eructed
-execrate
+execrate 1
 epaleaceous 1
 easterliness
 enteroepiplocele
