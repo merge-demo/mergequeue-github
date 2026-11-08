@@ -5071,7 +5071,7 @@ casate 1
 closemouthed
 casava
 cuber
-cellepora
+cellepora 1
 canaliform
 crowsteps
 cathetus
