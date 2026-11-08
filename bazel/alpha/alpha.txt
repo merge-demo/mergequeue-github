@@ -18212,7 +18212,7 @@ anoetic
 aerosol
 aquinist
 alcoholicity
-anenterous
+anenterous 1
 aerodynes
 allophone
 autotheism
