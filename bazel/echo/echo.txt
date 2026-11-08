@@ -3344,7 +3344,7 @@ enteralgia
 epicnemial
 elaeodendron
 erythrin
-euphroe 1
+euphroe 2
 equiangular
 emphemeralness
 expensefully
