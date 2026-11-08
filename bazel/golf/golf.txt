@@ -1681,7 +1681,7 @@ guayabo
 gastroduodenitis
 guadua
 gastroduodenostomy
-gastritis
+gastritis 1
 ganodont
 gottfried
 gamed
