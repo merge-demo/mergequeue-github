@@ -6891,7 +6891,7 @@ farris
 febriferous
 flammeous
 fitly
-folklike
+folklike 1
 feasible
 fallace
 folklores
