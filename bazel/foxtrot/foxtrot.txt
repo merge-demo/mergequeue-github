@@ -9726,7 +9726,7 @@ fretworks
 flexile
 flaccidness 1
 frenchwomen
-frenetical
+frenetical 1
 fideicommissioner
 frigorifical
 factful
