@@ -13829,7 +13829,7 @@ circumrotation
 cinereal
 cinerin
 cinerous
-cingalese
+cingalese 1
 cortinae
 corrupted
 cynghanedd
