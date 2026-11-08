@@ -3932,7 +3932,7 @@ dearomatize
 dogfoot
 deference 1
 dekes
-derivationally
+derivationally 1
 drisheen
 douser
 duopoly
