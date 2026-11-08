@@ -5745,7 +5745,7 @@ gammons
 goldsmithery
 glockenspiel
 gallopade
-glossohyal
+glossohyal 1
 gaultherase
 gobos
 glossolalia
