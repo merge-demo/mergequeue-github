@@ -7723,7 +7723,7 @@ governors
 graduses
 gentium
 glome
-girba
+girba 1
 glycuresis
 gemlike
 geist
