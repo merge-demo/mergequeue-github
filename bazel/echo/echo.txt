@@ -9984,7 +9984,7 @@ etalage
 endamnify
 ensures
 etamins
-enamdar
+enamdar 1
 entepicondylar
 etape
 escruage 1
