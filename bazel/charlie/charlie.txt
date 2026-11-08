@@ -2649,7 +2649,7 @@ cantillating
 canfuls
 cangan
 charterist
-cruelhearted
+cruelhearted 1
 clumsiness
 cangy
 crankdisk
