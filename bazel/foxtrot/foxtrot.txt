@@ -11647,7 +11647,7 @@ fust
 federational
 furbishing
 filamented
-funerealness
+funerealness 1
 forded
 foreknowing
 fusus
