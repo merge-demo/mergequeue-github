@@ -5656,7 +5656,7 @@ bacchar
 bilify
 belderroot
 bodgie
-beleaguering
+beleaguering 1
 bongar
 badgeless
 beleapt
