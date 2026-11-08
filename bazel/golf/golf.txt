@@ -6087,7 +6087,7 @@ glutaeous
 gorbit
 guttie
 gibbled
-grisset
+grisset 1
 gadroons
 grume
 gonococcoid
