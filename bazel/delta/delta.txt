@@ -18062,7 +18062,7 @@ deglaze
 deflexing
 demihearse
 devoto
-dialectologies
+dialectologies 1
 dulness
 dysphemism
 diabetics 1
