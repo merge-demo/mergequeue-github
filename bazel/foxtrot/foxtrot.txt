@@ -982,7 +982,7 @@ friarbird
 fares
 feats
 fastigated
-faretta
+faretta 1
 financialist
 foresaid
 foldable
