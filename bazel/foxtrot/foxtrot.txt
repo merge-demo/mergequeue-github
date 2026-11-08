@@ -9990,7 +9990,7 @@ fenceless
 fanga
 forerevelation
 fecundations
-foredeclare
+foredeclare 1
 frilled
 flacons
 flexitime
