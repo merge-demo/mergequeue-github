@@ -3521,7 +3521,7 @@ chromospheres
 capsulorrhaphy
 convocationally
 cupboards
-capsulotomy
+capsulotomy 1
 cosmotheistic
 captacula
 captain
