@@ -11020,7 +11020,7 @@ exornate
 extravagant
 emolliate
 eurypterus
-emption
+emption 1
 eclectism
 eurite
 ethered
