@@ -7745,7 +7745,7 @@ alderamin
 ape
 alectoromorphous
 aldermanate
-aldermancy
+aldermancy 1
 aldermaness
 archisphere
 aldermanical
