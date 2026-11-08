@@ -12196,7 +12196,7 @@ exacervation
 enserfs
 excogitation
 enflame
-entrechats
+entrechats 1
 emanated
 elementalism
 emerized
