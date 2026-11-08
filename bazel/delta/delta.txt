@@ -1938,7 +1938,7 @@ debs
 dissilience
 defenceless
 demireps
-dallyman
+dallyman 1
 debtee
 denudated
 debtless
