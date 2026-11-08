@@ -13815,7 +13815,7 @@ digram
 dindle
 distain
 distaining
-denumeration
+denumeration 1
 diatomic
 dryers
 doable
