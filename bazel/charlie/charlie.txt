@@ -15880,7 +15880,7 @@ cleidocostal
 cleidoic
 chiromance
 cherts
-cleidomancy
+cleidomancy 1
 cleidorrhexis
 chiripa
 cleidotripsy
