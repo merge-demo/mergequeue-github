@@ -19187,7 +19187,7 @@ collothun
 collotype
 cardiospasm
 corporally
-collotyped
+collotyped 1
 curries
 collotypy
 coontail
