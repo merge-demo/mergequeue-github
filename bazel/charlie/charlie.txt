@@ -7517,7 +7517,7 @@ cheliceral
 ceratotheca
 cypridinidae
 clergyman
-coolhouse
+coolhouse 1
 cambrian
 ceraunoscopy
 cyathophyllidae
