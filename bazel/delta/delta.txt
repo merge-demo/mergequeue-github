@@ -18063,7 +18063,7 @@ deflexing
 demihearse
 devoto
 dialectologies
-dulness
+dulness 1
 dysphemism
 diabetics 1
 dogskin
