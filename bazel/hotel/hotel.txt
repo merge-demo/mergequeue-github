@@ -539,7 +539,7 @@ halaj
 halbhel
 halcgtab
 halcjhsm
-halcxb
+halcxb 1
 haldwsiwywmcztgb
 haleyk
 halgbd
