@@ -9932,7 +9932,7 @@ auricled
 amativeness 1
 arcing
 adagial
-artificious
+artificious 1
 avoue
 alternator
 abandonee
