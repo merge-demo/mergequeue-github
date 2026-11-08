@@ -341,7 +341,7 @@ grilses
 gleen
 gerontologic
 gangetic
-governingly
+governingly 1
 gastrohepatitis
 girouettes
 gofers
