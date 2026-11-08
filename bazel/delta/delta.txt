@@ -17111,7 +17111,7 @@ drifty
 driftingly 1
 driftless
 driftlessness
-drepanium
+drepanium 1
 divulging
 disclose
 degenerative
