@@ -12190,7 +12190,7 @@ defencelessness
 disfigurer
 demarcated
 didactician
-diasper
+diasper 1
 depositure
 degausser
 despiciency
