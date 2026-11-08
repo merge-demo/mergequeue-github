@@ -7593,7 +7593,7 @@ forjudgment
 fatimid
 foredoomer
 fgn
-fructuarius
+fructuarius 1
 funiculus
 flintworker
 flays
