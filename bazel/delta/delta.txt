@@ -1583,7 +1583,7 @@ disembody
 deadlocking
 decipolar
 duplicia
-direfulness
+direfulness 1
 disenthralled
 deadness
 dairyman
