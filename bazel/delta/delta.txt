@@ -4177,7 +4177,7 @@ diadokokinesis
 duodena
 desynapsis
 drearfully 1
-dells
+dells 1
 distinct
 deserter
 dyspneic
