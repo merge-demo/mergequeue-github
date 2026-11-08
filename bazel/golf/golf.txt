@@ -5233,7 +5233,7 @@ garnisheed
 gleeks
 glycemic
 groundline
-garrulousness
+garrulousness 1
 gleety
 glottidean
 guineaman
