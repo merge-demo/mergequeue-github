@@ -688,7 +688,7 @@ flapper
 filmcards 1
 ferlie
 fanweed
-fanatico
+fanatico 1
 fleshlike
 forzandos
 fobs
