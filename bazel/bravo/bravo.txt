@@ -9263,7 +9263,7 @@ bonavist
 butler
 bantamweights 1
 becafico
-bipod
+bipod 1
 bipods
 botches
 bipolarity
