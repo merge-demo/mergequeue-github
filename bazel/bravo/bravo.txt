@@ -18236,7 +18236,7 @@ balistarius
 besweatered
 butterflower
 bleinerite
-bugproof
+bugproof 1
 battles
 batik
 bacteraemia
