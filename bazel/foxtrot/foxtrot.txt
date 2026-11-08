@@ -10277,7 +10277,7 @@ fatheadedness 1
 falernian
 folkmot
 faultless
-fromenty
+fromenty 1
 fromenties
 fogyishness
 fluorated
