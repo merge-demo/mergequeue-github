@@ -9332,7 +9332,7 @@ flane
 fewmets
 fromward
 ferromagnesian
-frangulic
+frangulic 1
 forjudge
 flichter
 fishless
