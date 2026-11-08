@@ -9219,7 +9219,7 @@ fidalgo
 forsakes
 feldspathose
 flosh
-fusing
+fusing 1
 fragments
 foresighted
 fishbed
