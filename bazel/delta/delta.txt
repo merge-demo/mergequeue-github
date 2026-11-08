@@ -9020,7 +9020,7 @@ dicotylidae
 defrauding
 deinosaur
 drowsiness
-disowns
+disowns 1
 decerebrated
 dicotyls
 distortive
