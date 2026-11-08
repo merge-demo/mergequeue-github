@@ -10516,7 +10516,7 @@ flirtiest
 fazendas
 frouziest
 flite
-foldstool
+foldstool 1
 floristry
 firemen
 frowl
