@@ -11524,7 +11524,7 @@ deuteropathic
 discomfortingly
 discomforts
 discomycete
-discomycetous
+discomycetous 1
 druggy
 dirham
 defter

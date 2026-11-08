@@ -5327,7 +5327,7 @@ cuspidated
 cassons 1
 cochleated
 chariotway
-cynodont
+cynodont 1
 cassowary
 cassowaries
 carotidean
