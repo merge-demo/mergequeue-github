@@ -24922,7 +24922,7 @@ awakeningly
 awaking
 automotor
 arseniosiderite
-ankylose
+ankylose 1
 adroit
 antidiphtheritic
 awkwardish
