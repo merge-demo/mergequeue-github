@@ -7818,7 +7818,7 @@ gestion
 guanche
 gangplank
 graisse
-gerately
+gerately 1
 gufa
 greenkeeper
 glassblowers
