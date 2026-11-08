@@ -9026,7 +9026,7 @@ gobletful
 gnathophorous
 gravenstein
 galvanothermy
-gaminess
+gaminess 1
 guiles
 geohydrologic
 groomer
