@@ -3476,7 +3476,7 @@ bagworms
 blotlessness
 biennium
 boyla
-batamote
+batamote 1
 biosis
 batarde
 bullaces
