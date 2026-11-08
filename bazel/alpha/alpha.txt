@@ -348,7 +348,7 @@ abends
 anacephalaeosis
 aberdeen
 aberduvine
-ambos
+ambos 1
 allodification
 azocyanide
 argasidae
