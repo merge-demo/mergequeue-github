@@ -10661,7 +10661,7 @@ goatsbane
 galp
 gurgoyle
 glaiketness
-genuflexion
+genuflexion 1
 glottologist
 guric
 grog
