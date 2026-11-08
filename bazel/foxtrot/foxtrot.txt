@@ -613,7 +613,7 @@ fragaria
 floodways
 fleshes
 forehand
-folly
+folly 1
 farrantly
 forebemoan
 forelimb
