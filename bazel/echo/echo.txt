@@ -13697,7 +13697,7 @@ enarration 1
 elusions
 evolutionist
 elizabeth
-enteroclysis
+enteroclysis 1
 extrajudicially
 externe
 excursionize
