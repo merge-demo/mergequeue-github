@@ -23916,7 +23916,7 @@ conf
 chaffing
 clysmic
 conubium
-comminuate
+comminuate 1
 conularia
 conumerous
 conundrums
