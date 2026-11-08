@@ -10554,7 +10554,7 @@ foreland
 fliping
 foughty
 foreloper
-favose
+favose 1
 feudalist
 funambulation
 fruchtschiefer
