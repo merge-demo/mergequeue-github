@@ -7894,7 +7894,7 @@ aleikoum
 accidentality
 astropecten
 agammaglobulinemia
-aleiptic
+aleiptic 1
 actinology
 aleyrodes
 auricular
