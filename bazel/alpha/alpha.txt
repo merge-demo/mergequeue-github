@@ -12505,7 +12505,7 @@ anemobiagraph
 anemochord
 anemochore
 aleutic
-aforehand
+aforehand 1
 anaboly
 appropriated
 aimlessness
