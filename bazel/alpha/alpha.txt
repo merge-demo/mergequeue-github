@@ -6204,7 +6204,7 @@ anhingas
 aposepalous
 aplanobacter
 avengers
-antecedency
+antecedency 1
 agon
 agonal
 athetize
