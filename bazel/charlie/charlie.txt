@@ -5756,7 +5756,7 @@ catchweight
 catchword
 catchwork
 cabasset
-counterinsurgents
+counterinsurgents 1
 catclaw
 cate
 catechesis
