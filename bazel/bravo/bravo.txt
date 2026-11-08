@@ -6291,7 +6291,7 @@ bentonite
 bents
 benu
 benumbed
-benumbingly
+benumbingly 1
 benumbs
 besodden
 brigalow
