@@ -2462,7 +2462,7 @@ cicatrix
 carpers
 coffeeberry
 cancrinite
-cancrisocial
+cancrisocial 1
 cancroid
 clientele
 contuse
