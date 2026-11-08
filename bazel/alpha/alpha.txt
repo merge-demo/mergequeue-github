@@ -24335,7 +24335,7 @@ autoptically
 aeromancy
 attractionally
 alpinists
-adjurors
+adjurors 1
 aquaducts
 autoracemization
 acetophenetide
