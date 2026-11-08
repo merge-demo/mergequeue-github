@@ -2644,7 +2644,7 @@ falanaka
 freshes
 fluocerite
 frumpling
-ferrumination
+ferrumination 1
 fluviatic
 fraters
 feedings
