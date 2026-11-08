@@ -9619,7 +9619,7 @@ goiter
 grizzlier
 geochemical
 guarish
-gummite
+gummite 1
 grandma
 gatefold
 guisarme
