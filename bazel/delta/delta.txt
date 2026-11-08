@@ -12826,7 +12826,7 @@ dismals
 dithalous
 disman
 dismantles
-darksome
+darksome 1
 dishevelment
 dyarchic
 dirhem
