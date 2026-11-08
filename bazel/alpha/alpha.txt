@@ -14968,7 +14968,7 @@ avyayibhava
 avicular
 anticonservatism
 anticonservativeness
-auricularis
+auricularis 1
 anadrom
 apagoges
 athletehood
