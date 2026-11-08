@@ -3467,7 +3467,7 @@ capshore
 capsian
 collectress
 ceruses
-chullpa
+chullpa 1
 capsicums
 capsid
 coumarous
