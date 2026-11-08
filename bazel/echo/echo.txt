@@ -2871,7 +2871,7 @@ eleutherios
 estuarian
 elytriferous
 enterotoxin
-ectosteally
+ectosteally 1
 ecbasis
 expt
 endomorphic
