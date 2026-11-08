@@ -7131,7 +7131,7 @@ blowy
 betongue
 besprinkle
 briskish
-bandhor
+bandhor 1
 biaxial
 bonduc
 barret
