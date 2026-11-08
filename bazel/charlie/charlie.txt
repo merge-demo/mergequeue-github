@@ -30382,7 +30382,7 @@ crustacean
 coversed 1
 crustaceology
 chinovnik
-crustaceological
+crustaceological 1
 crustaceologist
 cosmical
 cattishness
