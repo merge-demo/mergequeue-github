@@ -1894,7 +1894,7 @@ eightball
 eir
 eclat
 epurate
-eptatretidae
+eptatretidae 1
 entrepeneur
 eyrant
 erasability
