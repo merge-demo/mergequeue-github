@@ -1590,7 +1590,7 @@ dairyman
 deadpanned
 deadpans
 depayse
-daikering
+daikering 1
 disinfector
 deadwork
 deaerated
