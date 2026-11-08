@@ -4138,7 +4138,7 @@ estado
 etamin
 epigene
 epicanthus
-ejacula
+ejacula 1
 enrooting
 eslabon
 entangler

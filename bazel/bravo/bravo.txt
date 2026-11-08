@@ -3511,7 +3511,7 @@ bovista
 bouchal
 bulldoggishly
 bubos
-bogglish
+bogglish 1
 broadax
 batete
 brabbling
