@@ -2270,7 +2270,7 @@ gigantoblast
 gunroom
 gammoning
 giust
-glazily
+glazily 1
 gonofs
 greengage
 geisa
