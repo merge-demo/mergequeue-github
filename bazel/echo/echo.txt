@@ -6840,7 +6840,7 @@ entombs
 excremental
 eviscerator
 entomere
-entomic
+entomic 1
 emptins
 entrepreneuse
 ectocarpales
