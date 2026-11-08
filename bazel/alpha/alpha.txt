@@ -19573,7 +19573,7 @@ arhauaco
 asphaltic
 aphanitism
 adiadochokinesia
-awatch
+awatch 1
 aliptteria
 ary
 aria
