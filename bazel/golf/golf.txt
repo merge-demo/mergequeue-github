@@ -9105,7 +9105,7 @@ gentlehood
 grinch
 goldwork
 geoid
-garotte
+garotte 1
 governableness 1
 grumose
 guttation
