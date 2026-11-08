@@ -6237,7 +6237,7 @@ gonfalons
 gastroenteroanastomosis
 gowkedly 1
 galactosan
-goatsbeard
+goatsbeard 1
 guestimate
 gavotting
 galloway
