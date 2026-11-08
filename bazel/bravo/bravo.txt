@@ -8622,7 +8622,7 @@ bounceable
 buncoed
 bebization
 brochette
-bewig
+bewig 1
 balcone
 bubalis 1
 blockheaded
