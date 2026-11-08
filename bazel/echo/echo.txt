@@ -2571,7 +2571,7 @@ electromobile
 enchodontidae
 encopreses
 extremes
-exploitatively
+exploitatively 1
 enchanters
 etrogs
 electron
