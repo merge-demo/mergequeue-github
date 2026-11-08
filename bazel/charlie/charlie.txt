@@ -20021,7 +20021,7 @@ circularizations
 commendatorily
 commended
 captiously
-curwillet
+curwillet 1
 commender
 craftsman
 commending
