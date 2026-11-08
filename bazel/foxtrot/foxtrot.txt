@@ -6152,7 +6152,7 @@ fetidity
 fantom
 frequented
 foredoor 1
-fraughts
+fraughts 1
 furiosity
 ferrums
 fuses
