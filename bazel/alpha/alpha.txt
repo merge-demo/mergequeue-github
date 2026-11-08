@@ -19397,7 +19397,7 @@ arsacid
 affies
 albespine
 avouchment
-assortedness
+assortedness 1
 aseptify
 anagogically
 argenteous
