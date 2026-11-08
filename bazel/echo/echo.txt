@@ -7442,7 +7442,7 @@ ephas
 ephebea
 enchaining
 excepts
-employes
+employes 1
 elenctic 1
 escapers
 entanglement
