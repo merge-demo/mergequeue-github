@@ -2825,7 +2825,7 @@ aspersers 2
 athonite
 acromiocoracoid
 amateurishly
-alite
+alite 1
 abominability
 antenniform
 areometer
