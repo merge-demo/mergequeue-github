@@ -10257,7 +10257,7 @@ degradedly
 dinus
 dermoskeleton
 distaste
-doura
+doura 1
 dutch
 distruss
 decrepid
