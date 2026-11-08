@@ -24808,7 +24808,7 @@ coquets
 chloragogen
 coquette
 cleome
-coquettishly
+coquettishly 1
 curlycue
 colourfast
 coquicken
