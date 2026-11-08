@@ -1494,7 +1494,7 @@ furanose
 foundering
 fient
 forebodingness
-forestology
+forestology 1
 freebooters 1
 formamido
 fastens
