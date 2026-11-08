@@ -748,7 +748,7 @@ hapbz
 hapccsifianv
 hapctgostqn
 hapdeb
-hapeoxvsync
+hapeoxvsync 1
 hapepallcl
 hapf
 hapfzftjcthm
