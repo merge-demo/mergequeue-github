@@ -4126,7 +4126,7 @@ frameworks
 floridan
 fiorin
 fusiladed
-fiorite
+fiorite 1
 flamberg
 foreseen
 falsehoods
