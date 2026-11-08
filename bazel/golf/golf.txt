@@ -5148,7 +5148,7 @@ goldcrest
 gimpiest
 gallinaginous
 guerdon 1
-gammick
+gammick 1
 geologised
 ganoidei
 gratins
