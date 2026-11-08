@@ -838,7 +838,7 @@ ambiguities
 agaves
 araeotic
 albright
-allergy
+allergy 1
 assertors
 aerosols
 acesodyne
