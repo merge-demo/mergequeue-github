@@ -1798,7 +1798,7 @@ aluminum
 achlamydeae
 acentrous
 alizarine
-anastalsis
+anastalsis 1
 acephali
 afterage
 apprehendable
