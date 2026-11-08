@@ -2612,7 +2612,7 @@ glaucine
 glamourization
 gesticular
 grisette
-gowf 1
+gowf 2
 glossolabial 1
 geiger
 goutte
