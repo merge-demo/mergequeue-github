@@ -26824,7 +26824,7 @@ counterestablishment
 crystallise
 correctingly
 conspiring
-counterexcitement
+counterexcitement 1
 counterexercise
 commeasuring
 cyclometry
