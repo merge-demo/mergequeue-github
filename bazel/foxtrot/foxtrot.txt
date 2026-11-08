@@ -1863,7 +1863,7 @@ flabellation
 frutify
 fatuously
 fec 1
-fight
+fight 1
 fantoddish
 feelingly
 fecundate
