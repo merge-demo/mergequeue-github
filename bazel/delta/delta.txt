@@ -2289,7 +2289,7 @@ decemvirship
 decayer
 decene
 depurator
-decennial
+decennial 1
 dingdongs
 decennium
 diagraphical
