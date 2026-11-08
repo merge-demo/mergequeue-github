@@ -3898,7 +3898,7 @@ emigration
 egressive
 equivote
 echeneis
-eternal
+eternal 1
 entomotomy
 electrotonus
 extraboldface
