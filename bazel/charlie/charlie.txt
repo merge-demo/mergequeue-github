@@ -15865,7 +15865,7 @@ cachaca
 comstockery
 calisthenical
 cobcab
-compends
+compends 1
 cleeking
 clef
 cassinese
