@@ -2210,7 +2210,7 @@ glucolipide
 gossipiness
 gutturalised
 golach
-glucosic
+glucosic 1
 gravific
 granth
 genarchship
