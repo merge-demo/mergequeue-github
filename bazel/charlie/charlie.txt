@@ -23749,7 +23749,7 @@ contraproposal
 contraption
 contraptions
 contraptious
-capacitator
+capacitator 1
 compressional
 coadmires
 contrapuntally
