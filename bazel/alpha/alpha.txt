@@ -23929,7 +23929,7 @@ authorised
 arrhythmous
 assumer
 adenoidal
-authoritarian
+authoritarian 1
 authoritarians
 awarn
 antisplasher
