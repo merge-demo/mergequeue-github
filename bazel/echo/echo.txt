@@ -4157,7 +4157,7 @@ emplunge
 eccentring
 empodia
 eclegm
-extracranial
+extracranial 1
 energids
 expungement
 erythrodermia
