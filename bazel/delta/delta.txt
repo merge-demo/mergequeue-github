@@ -10109,7 +10109,7 @@ dieties
 deodar
 dynast
 deaminating
-disengage
+disengage 1
 deliciae
 dieticians
 dutiable
