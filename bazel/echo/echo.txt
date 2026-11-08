@@ -5257,7 +5257,7 @@ encyclopaedist
 endoperidium
 epoptes
 endophagous
-ephebeion
+ephebeion 1
 episiocele
 expungers
 endophyllum
