@@ -25471,7 +25471,7 @@ corocleisis
 caricaturable
 corody
 corodiary
-corodiastasis
+corodiastasis 1
 convicting
 corodies
 cocowood
