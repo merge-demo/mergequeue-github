@@ -3769,7 +3769,7 @@ glossology
 gentian
 gouges 1
 giantship
-glycolate
+glycolate 1
 garrafa
 gapping
 gastroesophagostomy
