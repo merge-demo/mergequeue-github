@@ -10761,7 +10761,7 @@ cutinized
 cuppiest
 connaisseur
 chinik 1
-chemic
+chemic 1
 chiniks
 censurable
 cetoniides
