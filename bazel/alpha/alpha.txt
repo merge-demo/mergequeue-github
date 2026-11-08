@@ -1088,7 +1088,7 @@ alkalescence
 antilynching
 accommodateness
 agra
-abusefully
+abusefully 1
 abusefulness
 arabinose
 antiegoism
