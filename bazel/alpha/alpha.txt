@@ -24119,7 +24119,7 @@ acutate
 accelerating
 aureoles
 autunite
-antiresonator
+antiresonator 1
 autoimmunizing
 acrorrheuma
 anachronisms
