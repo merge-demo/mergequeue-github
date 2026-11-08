@@ -16669,7 +16669,7 @@ dabblers
 deeny
 drains
 drageoir
-deponer
+deponer 1
 dedifferentiate
 diplarthrous
 draintile
