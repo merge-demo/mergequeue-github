@@ -3820,7 +3820,7 @@ dysphemistic
 denigrative
 donkey
 dialyzator
-dienes
+dienes 1
 dicier
 disjecting
 duplexed
