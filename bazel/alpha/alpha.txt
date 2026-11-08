@@ -24050,7 +24050,7 @@ autocratrix
 autodecremented
 affeeble
 autodepolymerization
-autodiagnostic
+autodiagnostic 1
 artemas
 aviador
 alutaceous
