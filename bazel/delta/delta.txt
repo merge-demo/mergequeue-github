@@ -15969,7 +15969,7 @@ dea
 dissocial
 dialogize
 dasein
-dukhn
+dukhn 1
 dotkin
 dudish
 dottiest
