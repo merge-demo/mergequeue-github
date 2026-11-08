@@ -7483,7 +7483,7 @@ ephetic
 epitaphs
 eclectist
 extricated
-eryx
+eryx 1
 ephialtes
 encipherments
 excusal
