@@ -6107,7 +6107,7 @@ eulachon
 elasmosaur
 ebullience
 evanesce
-epifauna
+epifauna 1
 epirrhema
 electrocardiography
 enochic
