@@ -2984,7 +2984,7 @@ confuter
 clamehewit
 canthuthi
 coyest
-canticle
+canticle 1
 carne
 campesino
 canticles
