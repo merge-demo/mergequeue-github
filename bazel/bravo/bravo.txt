@@ -2622,7 +2622,7 @@ barkier
 buttonhook
 bravery
 beduchess
-bantamweight
+bantamweight 1
 birdhouses
 bilges
 botanise
