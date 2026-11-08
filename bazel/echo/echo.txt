@@ -5931,7 +5931,7 @@ electrometallurgy
 exocytosis
 endsweep
 enharden
-especially
+especially 1
 eurytopicity
 exoenzymic
 embuskin
