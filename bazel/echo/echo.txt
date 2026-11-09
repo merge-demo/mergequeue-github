@@ -8769,7 +8769,7 @@ erade
 exhedra
 enfeebler
 euphyllite
-eradicable
+eradicable 1
 enticement
 eradicant
 epineolithic
