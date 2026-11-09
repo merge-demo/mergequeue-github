@@ -4369,7 +4369,7 @@ euphrasia
 ectropionized
 escadrille
 equimolar
-epotation
+epotation 1
 eggars
 excrescence
 embody
