@@ -2399,7 +2399,7 @@ actinozoon
 aedes
 academicianship
 acipenserine
-antihemisphere
+antihemisphere 1
 acipenseroid
 artistdom 1
 acipenseroidei
