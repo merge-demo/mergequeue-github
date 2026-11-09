@@ -3704,7 +3704,7 @@ dregginess
 dewlaps
 dehache
 dorsoepitrochlear
-dehypnotize
+dehypnotize 1
 dissonant
 disorganising
 desuetude
