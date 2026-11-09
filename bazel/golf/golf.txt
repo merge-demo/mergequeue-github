@@ -7745,7 +7745,7 @@ gynecicgynecidal 1
 glycinin
 georama
 graped
-geography
+geography 1
 gonystylaceae
 goldbugs
 grantable
