@@ -14292,7 +14292,7 @@ agavose
 amugis
 anthemia
 archebiosis
-archflatterer
+archflatterer 1
 anthemion
 anthemis
 aecidiomycetes

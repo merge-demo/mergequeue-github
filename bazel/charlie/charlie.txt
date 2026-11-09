@@ -29395,7 +29395,7 @@ cryptovolcanism
 cryptozygy
 cannele
 cryptozygosity
-cryptozygous
+cryptozygous 1
 crozle
 chanter
 chorographic

@@ -9286,7 +9286,7 @@ estramazone 1
 ecrustaceous
 electroethereal
 erse
-effusiveness
+effusiveness 1
 escribiente
 erection
 enhancer
