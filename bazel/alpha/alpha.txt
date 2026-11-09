@@ -1069,7 +1069,7 @@ askew
 abundance
 accurtation
 ammoniojarosite
-apparelled
+apparelled 1
 abundancy
 aluminosis
 abundant
