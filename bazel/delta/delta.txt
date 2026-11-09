@@ -9809,7 +9809,7 @@ demasculinising 1
 disenfranchise
 diggings
 dills
-delusiveness
+delusiveness 1
 dillseed
 deputations
 dimetria
