@@ -9214,7 +9214,7 @@ chastise
 chastiser
 consulships
 clapperboard
-cheering
+cheering 1
 corf
 chastity
 chastities
