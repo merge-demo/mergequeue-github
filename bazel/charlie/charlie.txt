@@ -3468,7 +3468,7 @@ capsian
 collectress
 ceruses
 chullpa
-capsicums
+capsicums 1
 capsid
 coumarous
 chylosis
