@@ -14787,7 +14787,7 @@ affreighter
 anticensorial
 atomically
 amusee
-ammonitish
+ammonitish 1
 achor
 antidromal
 anticensorious

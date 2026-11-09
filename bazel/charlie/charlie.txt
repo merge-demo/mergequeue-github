@@ -8304,7 +8304,7 @@ coonskin
 complexity
 carbure
 corallet
-choyroot
+choyroot 1
 chalinitis
 chalkboard
 chalked

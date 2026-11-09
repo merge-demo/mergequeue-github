@@ -7426,7 +7426,7 @@ experiencing
 encolumn
 etruria
 etalon
-encheat
+encheat 1
 escarpment
 eternalizing
 eperua
