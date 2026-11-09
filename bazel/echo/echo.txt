@@ -7326,7 +7326,7 @@ exception
 epalpebrate
 eurypylous
 eternises
-enolize
+enolize 1
 exemplariness
 eelshop
 ephah
