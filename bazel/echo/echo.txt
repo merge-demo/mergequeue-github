@@ -10689,7 +10689,7 @@ enveloper
 extirpatory
 eva
 euglenaceae
-extrasyllabic
+extrasyllabic 1
 enswathe
 ensigning
 embraced
