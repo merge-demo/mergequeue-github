@@ -20613,7 +20613,7 @@ arthromeric
 afterplay
 adamantoma
 arthrometry
-atsara
+atsara 1
 alvine
 apospories
 ammodytoid
