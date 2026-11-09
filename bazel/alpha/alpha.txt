@@ -287,7 +287,7 @@ autotropism
 abdominally
 aeroacoustic
 aguamas
-abdominals
+abdominals 1
 abdominocystic
 archness
 ailuro
