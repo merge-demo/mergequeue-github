@@ -8368,7 +8368,7 @@ chalumeau
 collegium
 capercailye
 chalumeaux
-chalutzim
+chalutzim 1
 chama
 coworkers
 chondroplastic
