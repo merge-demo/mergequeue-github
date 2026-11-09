@@ -10803,7 +10803,7 @@ eucrystalline
 elastance
 eurodollar
 eleanor
-expurgatory
+expurgatory 1
 ethide
 estivates 1
 euphemizer

@@ -17756,7 +17756,7 @@ demises
 ducdame
 diplocoria
 defector
-duchan
+duchan 1
 diagraph
 demythologize
 dorsigrade
