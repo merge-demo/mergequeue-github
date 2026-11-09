@@ -4948,7 +4948,7 @@ dicrostonyx
 defailment
 displeased
 duranta
-demoralized
+demoralized 1
 devotionalism
 demoralizers
 draughty
