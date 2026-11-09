@@ -6357,7 +6357,7 @@ gummage
 gymnolaemata
 gloriosa
 gippo
-gollywobbler 1
+gollywobbler 2
 gambelli
 ganoblast
 garnitures
