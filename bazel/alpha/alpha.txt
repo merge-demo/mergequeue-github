@@ -5564,7 +5564,7 @@ afternose
 afterpains
 auburns
 antifreezing
-afterpast
+afterpast 1
 afflux
 afterplanting
 absinthium
