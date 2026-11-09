@@ -5299,7 +5299,7 @@ arenicolor
 alterations
 appetized
 axon
-affixal
+affixal 1
 astipulate
 astrid
 americanoid
