@@ -508,7 +508,7 @@ gisement
 gratuity
 geographic
 gruffing
-geologers 1
+geologers 2
 graff 1
 galivants
 geneticism
