@@ -8680,7 +8680,7 @@ gree
 glean
 gynaecoid
 glissading
-gismondite
+gismondite 1
 gutterling
 gimcracks
 glacification
