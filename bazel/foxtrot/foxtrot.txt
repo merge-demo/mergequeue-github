@@ -3660,7 +3660,7 @@ freshed
 foretype
 feverberry 1
 filigrane
-furlana
+furlana 1
 frangula
 franchisee
 fannier

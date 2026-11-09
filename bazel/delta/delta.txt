@@ -14216,7 +14216,7 @@ dangerous
 diswashing
 dur
 diswere
-decurions
+decurions 1
 diswit
 dacryon
 dartingness
