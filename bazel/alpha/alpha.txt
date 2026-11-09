@@ -19400,7 +19400,7 @@ avouchment
 assortedness
 aseptify
 anagogically
-argenteous
+argenteous 1
 argentic
 amphorophony
 allicins

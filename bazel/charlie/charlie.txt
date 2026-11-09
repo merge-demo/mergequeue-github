@@ -18388,7 +18388,7 @@ corporal
 coenosarcal
 concomitate
 cognisant
-cognises
+cognises 1
 coarct
 countergambit
 cognised
