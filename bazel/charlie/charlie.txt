@@ -9103,7 +9103,7 @@ cicatrize
 chylocaulous
 coagulin
 controversional
-charruas
+charruas 1
 cloamer
 charshaf
 charsingha
