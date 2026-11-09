@@ -336,7 +336,7 @@ daidlie
 dupatta
 dimeran
 dummyweed
-deltaite
+deltaite 1
 denumberment
 damier
 depasturage
