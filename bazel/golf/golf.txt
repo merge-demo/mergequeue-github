@@ -764,7 +764,7 @@ gladsomer
 gawkily
 geometrically
 graywether
-galvanotherapy
+galvanotherapy 1
 geomorphic
 galvanotropism
 guntub
