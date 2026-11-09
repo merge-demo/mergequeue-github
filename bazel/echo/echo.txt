@@ -7391,7 +7391,7 @@ epeirogenically
 erythrina
 electrolytical
 ensue
-exuviate
+exuviate 1
 encloses
 exonship
 epithetical
