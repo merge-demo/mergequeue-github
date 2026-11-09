@@ -1405,7 +1405,7 @@ decephalize
 diorites
 daviesite
 deleted
-demilitarize
+demilitarize 1
 dispel
 downdale
 dismain
