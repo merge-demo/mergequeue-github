@@ -10691,7 +10691,7 @@ doyle
 dromical
 dixits
 disorganizing
-deferring
+deferring 1
 diiodide
 deepen
 dipnoans
