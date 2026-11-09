@@ -29040,7 +29040,7 @@ criminator 1
 criminis
 ceratopsia
 criminogenesis
-cigarless
+cigarless 1
 cals
 criminologic
 criminological
