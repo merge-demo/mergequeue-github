@@ -2876,7 +2876,7 @@ ecbasis
 expt
 endomorphic
 elder
-epitympa
+epitympa 1
 effable
 estoppels
 eleutherophobia
