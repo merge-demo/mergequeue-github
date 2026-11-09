@@ -18083,7 +18083,7 @@ anschauung
 agromyza
 anconeal
 aptiana
-aptychus
+aptychus 1
 aptitude
 aptnesses
 autohypnotization
