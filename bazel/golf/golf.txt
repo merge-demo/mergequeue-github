@@ -5310,7 +5310,7 @@ glycerolate
 gymnadeniopsis
 glyceroxide
 glycide
-glabrous
+glabrous 1
 gleization
 gadswoons
 gofferer
