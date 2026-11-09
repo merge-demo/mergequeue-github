@@ -3840,7 +3840,7 @@ adios
 adipate
 amphitruo
 aequorin
-amphithuron
+amphithuron 1
 acetabuliform
 adipinic
 autotransplant
