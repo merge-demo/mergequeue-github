@@ -3784,7 +3784,7 @@ carbazole
 carbeen
 carbene
 cantorian
-carbide
+carbide 1
 classicize
 carbyl
 catchy
