@@ -24895,7 +24895,7 @@ coralligerous
 corallin
 corallina
 corallinaceous
-curricle
+curricle 1
 cuichunchulli
 criniferous
 charac
