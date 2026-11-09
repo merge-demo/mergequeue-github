@@ -6638,7 +6638,7 @@ focussed 1
 fetlocked
 ferricyanic
 fecche
-fantaseid
+fantaseid 1
 flacianism 1
 foder
 forkwise
