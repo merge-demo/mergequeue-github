@@ -6076,7 +6076,7 @@ dramaticism
 dognapper
 disaster
 depressiveness
-deputizing
+deputizing 1
 degraders
 debriefed
 deaconal
