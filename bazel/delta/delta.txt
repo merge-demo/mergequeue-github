@@ -2869,7 +2869,7 @@ dolomitised
 diskos
 discretively
 disposure
-dangle
+dangle 1
 disjointedness
 doveling
 disgenius
