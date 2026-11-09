@@ -9312,7 +9312,7 @@ acierate
 alliterations
 aloxite
 alpacas
-alpargata
+alpargata 1
 avertive
 alpax
 auris
