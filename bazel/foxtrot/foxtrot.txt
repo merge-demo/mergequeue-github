@@ -5207,7 +5207,7 @@ frivolers
 fiot
 foreclaw
 fuchsia
-frumpery
+frumpery 1
 funest
 fraternizes
 formylating
