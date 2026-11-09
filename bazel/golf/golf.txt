@@ -8378,7 +8378,7 @@ ganoid
 granites
 genro
 guisards
-gerundival
+gerundival 1
 gingerbread
 guns
 glucid
