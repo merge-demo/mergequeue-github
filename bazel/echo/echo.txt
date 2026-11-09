@@ -2419,7 +2419,7 @@ edda
 excusively
 epipetalous
 episcopalianize
-ensorcell
+ensorcell 1
 events
 entrail
 ecraseur
