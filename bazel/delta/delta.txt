@@ -17459,7 +17459,7 @@ deertongue
 delegatee
 drove
 drovers
-dereism
+dereism 1
 drownd
 docents
 dipleurogenesis
