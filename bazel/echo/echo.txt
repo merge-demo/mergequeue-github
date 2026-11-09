@@ -12162,7 +12162,7 @@ ethnogeography
 etageres 1
 egally
 embastioned
-elasmobranchian
+elasmobranchian 1
 exiguity
 excusably
 enswathing 1
