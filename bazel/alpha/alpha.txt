@@ -15397,7 +15397,7 @@ awaited
 abrasion
 argonaut
 antilithic
-antilitter
+antilitter 1
 antiliturgy
 aspiculous 1
 amla
