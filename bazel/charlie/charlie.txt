@@ -11346,7 +11346,7 @@ curbed
 chiasmatype 1
 chloronitrate
 cruche
-colonizer
+colonizer 1
 chloropalladates
 chloropalladic
 chlorophenol
