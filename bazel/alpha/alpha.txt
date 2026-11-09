@@ -3742,7 +3742,7 @@ aburabozu
 adfluxion
 adjiga
 alligator
-adfreezing
+adfreezing 1
 adhafera
 agones
 adhaka
