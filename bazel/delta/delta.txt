@@ -2664,7 +2664,7 @@ delinquents
 decenniad
 decompensations
 dasylirion
-doorkeeper
+doorkeeper 1
 decompiler
 decomposable
 diceman
