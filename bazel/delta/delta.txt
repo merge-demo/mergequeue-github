@@ -7567,7 +7567,7 @@ discs
 deuterotype
 displeasure
 deuterozooid
-dental
+dental 1
 didynamies
 discreetness
 depoliticize
