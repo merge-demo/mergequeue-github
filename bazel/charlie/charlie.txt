@@ -2979,7 +2979,7 @@ claustrum
 croppies
 canthorrhaphy
 canthotomy
-charivaris
+charivaris 1
 confuter
 clamehewit
 canthuthi
