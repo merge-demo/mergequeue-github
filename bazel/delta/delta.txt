@@ -1718,7 +1718,7 @@ dornecks
 devastate
 dumetose
 deasil
-dearness
+dearness 1
 deaspirate
 dispensations
 decostate
