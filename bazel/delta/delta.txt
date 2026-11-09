@@ -11922,7 +11922,7 @@ defectively
 deductile
 diseased
 deifying
-dissyllabify
+dissyllabify 1
 dianoetic 1
 dandiacal
 defeasive
