@@ -6278,7 +6278,7 @@ fortissimos
 footlock
 fluidmeter
 fearnought
-fakirism
+fakirism 1
 forceful
 fluidounce
 factory
