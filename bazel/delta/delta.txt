@@ -8235,7 +8235,7 @@ dulcor
 diorism
 diadochic
 diadochite
-diadochokinesia
+diadochokinesia 1
 diadoumenos
 dowly
 diaene
