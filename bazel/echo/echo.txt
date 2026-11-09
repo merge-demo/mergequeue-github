@@ -6316,7 +6316,7 @@ enrollers
 eche
 excitants
 examined
-etang
+etang 1
 exorcised
 eugenolate
 exteriorising
