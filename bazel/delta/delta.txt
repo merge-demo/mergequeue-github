@@ -1515,7 +1515,7 @@ duppies
 defraudment
 deacetylating
 doarium
-deked
+deked 1
 deaconate
 demigorge
 delphinoidea
