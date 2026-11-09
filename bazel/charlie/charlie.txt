@@ -15996,7 +15996,7 @@ covado
 cleromancy
 canniness
 clerstory
-clansmen
+clansmen 1
 cyamelid
 coolheadedness
 cleruchy
