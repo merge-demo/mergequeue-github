@@ -11135,7 +11135,7 @@ forumize
 foreallot
 fanega
 freeings
-faiences
+faiences 1
 fiats
 frumperies
 flocculence
