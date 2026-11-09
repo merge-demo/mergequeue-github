@@ -6087,7 +6087,7 @@ enfever 1
 edinburgh
 escheated
 enlaurel
-emancipatist
+emancipatist 1
 exorableness
 enliveningly
 enlief
