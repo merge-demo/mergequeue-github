@@ -367,7 +367,7 @@ aberrational
 aberrative
 acinose
 avoyer
-abetments
+abetments 1
 ambulant
 andesitic
 antietam
