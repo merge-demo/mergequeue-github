@@ -2623,7 +2623,7 @@ genesial 1
 genesitic
 gymnastics
 genethliacal
-gabelled
+gabelled 1
 gruesomest
 genetta
 grendel
