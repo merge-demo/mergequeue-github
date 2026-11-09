@@ -10321,7 +10321,7 @@ flexible
 frondless
 feezing
 ferrado
-fantasized
+fantasized 1
 frondlet
 frondose
 focometer
