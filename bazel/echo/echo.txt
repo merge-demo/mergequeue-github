@@ -9991,7 +9991,7 @@ escruage 1
 etapes
 exorhason
 endangers
-esmeraldite
+esmeraldite 1
 enterprises
 externality
 epichile
