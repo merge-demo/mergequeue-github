@@ -3593,7 +3593,7 @@ gregarinaria
 gavial
 glutinose
 granulitization
-galvanic
+galvanic 1
 gyrocar
 greg
 gatewaymen
