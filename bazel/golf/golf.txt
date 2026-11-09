@@ -6401,7 +6401,7 @@ granulitis
 gracer
 geoponic
 goshenite
-goidelic
+goidelic 1
 goldeyes
 gingivalgia
 glommed
