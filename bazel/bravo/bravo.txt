@@ -12822,7 +12822,7 @@ bondswoman
 barquest
 bootes
 baseboard
-burglary
+burglary 1
 basiliscine
 blink
 barnabite
