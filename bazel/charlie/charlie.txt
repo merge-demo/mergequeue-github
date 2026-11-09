@@ -26101,7 +26101,7 @@ cosmicality
 clausulae
 calcutta
 congruential
-cosmically
+cosmically 1
 canterelle
 chiefdoms
 conspiratorial
