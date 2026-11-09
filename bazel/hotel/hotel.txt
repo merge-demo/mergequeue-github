@@ -568,7 +568,7 @@ halowot 1
 halpx
 halrdagin
 halrduhglpy
-halrsmmsztv
+halrsmmsztv 1
 halrvu
 halsal
 halsdprm
