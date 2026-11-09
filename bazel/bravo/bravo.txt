@@ -2119,7 +2119,7 @@ burette
 banteng
 beglerbegship
 barriers
-banter
+banter 1
 banterers
 bloodlessness
 bantery
