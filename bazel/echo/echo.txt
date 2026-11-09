@@ -6593,7 +6593,7 @@ emigrates
 erysimum
 enhuile
 enwind
-exolemma
+exolemma 1
 emove
 eligenda
 ergothioneine
