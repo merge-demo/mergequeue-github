@@ -393,7 +393,7 @@ gains
 goys
 glassiest
 goalposts
-gilsonite
+gilsonite 1
 gorgon
 geostrategy
 germinogony
