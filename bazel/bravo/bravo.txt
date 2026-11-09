@@ -12382,7 +12382,7 @@ bawls
 beswarmed
 bombus
 bombardelle
-bomi
+bomi 1
 bomos
 beloveds
 bon
