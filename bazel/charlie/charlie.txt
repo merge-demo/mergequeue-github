@@ -23139,7 +23139,7 @@ consternation
 creatinin
 crooklegged
 clubbed
-constipates
+constipates 1
 constipation
 constituency
 cytostatic
