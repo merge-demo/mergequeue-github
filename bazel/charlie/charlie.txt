@@ -22739,7 +22739,7 @@ caligraphy
 conscience
 canoeiro
 condivision
-cydippid
+cydippid 1
 consciencelessly
 consciences
 cooperatingly
