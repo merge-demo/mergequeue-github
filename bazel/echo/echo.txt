@@ -3356,7 +3356,7 @@ eulogic
 expresses
 environed
 elegies
-encheer
+encheer 1
 ermit
 enrace
 emasculators
