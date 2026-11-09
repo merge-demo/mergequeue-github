@@ -17408,7 +17408,7 @@ airship
 adiate
 antiarchi
 apothegmatically
-apothegmatist
+apothegmatist 1
 atriensis
 antiattrition
 autocratically

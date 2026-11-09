@@ -6635,7 +6635,7 @@ funds
 fancymonger
 fatuousness 1
 focussed 1
-fetlocked
+fetlocked 1
 ferricyanic
 fecche
 fantaseid
