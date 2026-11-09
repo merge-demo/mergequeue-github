@@ -4883,7 +4883,7 @@ fixes
 firmhearted
 ferrimagnetism
 frondiferous
-fetching
+fetching 1
 factuality
 frightenedness 1
 fabricational
