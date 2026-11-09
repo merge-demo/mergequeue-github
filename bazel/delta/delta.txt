@@ -877,7 +877,7 @@ defiantness
 dieback
 deuteronomistic
 dummerer
-diagnostication
+diagnostication 1
 dori
 dermotherm
 daguerrean
