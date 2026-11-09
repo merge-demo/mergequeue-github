@@ -6495,7 +6495,7 @@ gliming
 grooving
 gibbert
 grutches 1
-goaltenders
+goaltenders 1
 georgiadesite
 glaciologist
 germinatively
