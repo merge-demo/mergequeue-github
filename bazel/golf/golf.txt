@@ -10083,7 +10083,7 @@ gauntest
 graecize
 gainings
 gramophonically
-gymnoglossate
+gymnoglossate 1
 guavina
 grazes
 guesser
