@@ -3016,7 +3016,7 @@ antipathist
 amitriptyline
 auditors
 abhorrency
-appear
+appear 1
 appearances
 actinograph
 attenuate
