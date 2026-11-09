@@ -6436,7 +6436,7 @@ anthotaxy
 anerly
 arguta
 asthenopia
-apneas
+apneas 1
 aguacateca
 antidynastically
 aguamiel
