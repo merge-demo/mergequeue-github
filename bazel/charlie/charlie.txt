@@ -22488,7 +22488,7 @@ chorism
 conjon
 conjubilant
 conjuctiva
-chitinized
+chitinized 1
 cochlearifoliate
 collingly
 conjugales

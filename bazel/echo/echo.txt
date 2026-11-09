@@ -4733,7 +4733,7 @@ epigean
 estre
 emplaced
 exponentiating
-encircle
+encircle 1
 embrowned
 emittent
 elocutive
