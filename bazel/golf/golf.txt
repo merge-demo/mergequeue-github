@@ -7069,7 +7069,7 @@ gutturopalatal
 gastrosoph
 gelidity
 groundplot
-ganglioneure
+ganglioneure 1
 goosegog
 guignardia
 goyle
