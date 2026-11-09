@@ -2930,7 +2930,7 @@ frizzen
 factoring 1
 fumier
 flagonless
-flyboy
+flyboy 1
 fingian
 farinha
 furazane
