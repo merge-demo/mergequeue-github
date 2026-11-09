@@ -24310,7 +24310,7 @@ autoplast
 affianced
 acetonate
 autopoisonous 1
-acclimatize
+acclimatize 1
 autopolar
 autopolyploid
 autopolo
