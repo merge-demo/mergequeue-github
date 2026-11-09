@@ -6399,7 +6399,7 @@ furry
 formalization
 frogspawn
 fafnir
-fecundatory
+fecundatory 1
 formularization
 flathead
 furanoside
