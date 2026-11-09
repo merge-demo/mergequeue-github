@@ -331,7 +331,7 @@ euboic
 eastling
 escapee
 eruditionist
-escots
+escots 1
 engaze
 eastman
 enclaret

@@ -8980,7 +8980,7 @@ collegiately
 chondri
 chaplaincy
 cerebbella
-chalchihuitl
+chalchihuitl 1
 conceivability
 cryptal
 countersignature
