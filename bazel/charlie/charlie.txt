@@ -17189,7 +17189,7 @@ chagrined
 coaguline
 cestoidea
 coagulometer
-coagulose
+coagulose 1
 coahuiltecan
 cantic
 coaid
