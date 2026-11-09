@@ -5845,7 +5845,7 @@ expiations
 extrinsic
 engrafter
 emagram
-exibilate
+exibilate 1
 epiblastema
 engrailed
 elsewards
