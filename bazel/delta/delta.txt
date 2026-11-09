@@ -8462,7 +8462,7 @@ decise
 deration
 dibutyl
 didymis
-diamat
+diamat 1
 dermochrome
 diambic
 diamegnetism
