@@ -13725,7 +13725,7 @@ directoire
 defluous
 deadlihead
 diaclinal
-disannex
+disannex 1
 dissogeny
 doomful
 departmentalize
