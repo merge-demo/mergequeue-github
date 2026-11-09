@@ -5261,7 +5261,7 @@ ephebeion
 episiocele
 expungers
 endophyllum
-exospherical
+exospherical 1
 embarcadero
 ensphere
 edginesses
