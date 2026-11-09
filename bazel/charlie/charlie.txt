@@ -12837,7 +12837,7 @@ cursus
 championess
 correo
 churchgoers
-calorifacient
+calorifacient 1
 churchy
 churchianity
 churchyard
