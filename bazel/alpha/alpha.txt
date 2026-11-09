@@ -4041,7 +4041,7 @@ ablutions
 admiralties
 actionless
 actinobacillotic
-atalan
+atalan 1
 ailurophilia
 abiotrophic
 amyotaxia
