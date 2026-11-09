@@ -27163,7 +27163,7 @@ calfdozer
 cava
 countersurprise
 chrotta
-countersway
+countersway 1
 countersworn
 countertack
 countertally
