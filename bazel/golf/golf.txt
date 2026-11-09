@@ -1199,7 +1199,7 @@ gaplessness
 gynandrism
 gappier
 genesiacal
-griot
+griot 1
 gradations
 globular
 guestive
