@@ -19365,7 +19365,7 @@ consecrating
 colorant
 colorants
 colorate
-coloration
+coloration 1
 colorational
 colorative
 centrifugally
