@@ -1553,7 +1553,7 @@ fodderer
 filechar
 faucitis
 faveolus
-forconceit
+forconceit 1
 fleuronee
 foochow
 freaking
