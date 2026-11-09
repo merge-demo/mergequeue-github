@@ -7290,7 +7290,7 @@ burners
 bareges
 blastomycin
 bottier
-bullfights
+bullfights 1
 birde
 biographist
 barnstormers

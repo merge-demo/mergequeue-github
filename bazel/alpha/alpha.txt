@@ -16500,7 +16500,7 @@ agalactia
 acetabuliferous
 antimicrobial
 aogiri
-astrally
+astrally 1
 anteroposterior
 aonach
 asaddle

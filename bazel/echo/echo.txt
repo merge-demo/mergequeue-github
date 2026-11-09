@@ -10360,7 +10360,7 @@ englacially
 excitability
 edgestone
 embezzlements
-exhibitive
+exhibitive 1
 equibiradiate
 ellagic
 eloign
