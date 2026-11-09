@@ -20830,7 +20830,7 @@ archdisturber
 arundiferous
 avouter
 adpao
-allurers
+allurers 1
 arupa
 armoried
 aruspicy
