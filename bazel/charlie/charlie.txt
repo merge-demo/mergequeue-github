@@ -20884,7 +20884,7 @@ compounder
 comprachico
 comprachicos
 comprador
-chirologist
+chirologist 1
 chives
 compaginate
 compradore
