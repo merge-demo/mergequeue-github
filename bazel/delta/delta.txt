@@ -5120,7 +5120,7 @@ deneutralization
 dacryoadenalgia
 dendrolater
 desexes
-durango
+durango 1
 durwaun
 detect
 dendrology
