@@ -9012,7 +9012,7 @@ gynandry
 girned
 glacis
 guzzlers
-glory
+glory 1
 garoter
 grifting
 graving
