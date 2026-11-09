@@ -20496,7 +20496,7 @@ ahorseback
 adenectopia
 arteriographic
 auriculidae
-arterioloscleroses
+arterioloscleroses 1
 anoxybiosis
 arteriolosclerosis
 afaint
