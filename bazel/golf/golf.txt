@@ -625,7 +625,7 @@ gnaphalioid
 gallisin
 gunslingers
 gillie
-geophysicist
+geophysicist 1
 gigartina
 glide
 gradatory
