@@ -10311,7 +10311,7 @@ counterpole
 citoyens
 chickenbill
 chickenbreasted
-chickened
+chickened 1
 crosspoints
 cacodoxy
 cheremiss
