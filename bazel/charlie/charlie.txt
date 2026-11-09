@@ -1667,7 +1667,7 @@ calool
 calophyllum
 comminutor
 chettik
-colport
+colport 1
 consuetitude 1
 conferees
 caloreceptor
