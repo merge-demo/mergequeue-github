@@ -10735,7 +10735,7 @@ diarthrosis
 discreditable
 deckie
 diprotodan
-delian
+delian 1
 dragonlike
 dips
 dipsacaceous
