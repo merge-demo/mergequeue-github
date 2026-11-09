@@ -2672,7 +2672,7 @@ fertilise
 fistular
 fylfots
 fertilizational
-funeral
+funeral 1
 fallowed
 fantoccini
 foremelt
