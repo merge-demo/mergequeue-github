@@ -18061,7 +18061,7 @@ coenenchymal
 communality
 capouch
 cherty
-coenesthesia
+coenesthesia 1
 coengage
 coproduce
 cullionry
