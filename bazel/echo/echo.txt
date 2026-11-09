@@ -13254,7 +13254,7 @@ explicate
 enterectomies
 exult
 evasiveness
-entomological
+entomological 1
 equiliria
 execrable
 explicates
