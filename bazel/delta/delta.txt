@@ -3198,7 +3198,7 @@ determinant
 deracine
 deinotherium
 defectors
-dandiest
+dandiest 1
 dismayful
 demipremise
 dysgeogenous
