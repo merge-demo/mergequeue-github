@@ -2753,7 +2753,7 @@ gorgers
 gunfire
 greenflies
 germanism
-gauger
+gauger 1
 guestchamber
 gorraf
 gipped
