@@ -12196,7 +12196,7 @@ degausser
 despiciency
 demander
 depurates
-duply
+duply 1
 disambiguates
 demideify
 dichocarpism
