@@ -12344,7 +12344,7 @@ evectant
 exertionless
 eschscholtzia
 estuate
-elric
+elric 1
 exertions
 ergate
 enurny
