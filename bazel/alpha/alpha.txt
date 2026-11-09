@@ -12738,7 +12738,7 @@ anepia
 angetenar
 antipriming
 angiectasis
-abortively
+abortively 1
 apocathartic
 apostemate
 anomocarpous
