@@ -8367,7 +8367,7 @@ gedecktwork
 geast
 gulfing
 geoblast
-gaize
+gaize 1
 guru
 grandstander
 gemelled
