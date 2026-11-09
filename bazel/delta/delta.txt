@@ -14217,7 +14217,7 @@ diswashing
 dur
 diswere
 decurions
-diswit
+diswit 1
 dacryon
 dartingness
 dinocerata
