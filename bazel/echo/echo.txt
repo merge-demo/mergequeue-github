@@ -3733,7 +3733,7 @@ embrittling
 embryulcia
 embryulculci
 exercitorial
-extravagantness
+extravagantness 1
 enfranchise
 erodability
 expedited
