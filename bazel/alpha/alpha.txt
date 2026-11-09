@@ -14285,7 +14285,7 @@ autochthonous
 anhedonia
 anthelix
 archaeomagnetism
-anthem
+anthem 1
 anthemas
 anthemata
 agavose
