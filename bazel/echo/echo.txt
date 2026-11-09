@@ -9548,7 +9548,7 @@ enchytraeidae
 emigree
 euchromatic
 emasculated
-embarrassed
+embarrassed 1
 eskimoized
 electrolysed
 embeam
