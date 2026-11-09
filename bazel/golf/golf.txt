@@ -4021,7 +4021,7 @@ gildable
 gentrification
 gesticulated
 grotzen
-gymnanthous
+gymnanthous 1
 gouter 1
 gesticulates
 gansey
