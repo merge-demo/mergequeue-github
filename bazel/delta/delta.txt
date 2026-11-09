@@ -2867,7 +2867,7 @@ decumanus
 daphnin
 dolomitised
 diskos
-discretively
+discretively 1
 disposure
 dangle
 disjointedness
