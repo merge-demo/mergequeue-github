@@ -21312,7 +21312,7 @@ circummigration
 ceboid
 counterguerrilla
 conchifera
-conchiferous
+conchiferous 1
 caldadaria
 compulsively
 conchyliated
