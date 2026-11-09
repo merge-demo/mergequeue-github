@@ -18617,7 +18617,7 @@ decimalising
 dustups
 digitus
 debugger
-dysgnosia
+dysgnosia 1
 damselhood
 dollarwise
 desightment
