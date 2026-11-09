@@ -10564,7 +10564,7 @@ dysaphia
 dbrn
 diplococcemia
 disleaf
-davach
+davach 1
 dermatomycosis
 digammate
 dashiki
