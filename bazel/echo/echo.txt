@@ -13833,7 +13833,7 @@ embrake
 euvrou
 euplectella
 extracloacal
-expos
+expos 1
 euthenics
 excudit
 elaeothesia
