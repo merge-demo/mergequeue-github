@@ -16827,7 +16827,7 @@ deliquescent
 dissociable
 disring
 dendrodus
-diaphanoscopy
+diaphanoscopy 1
 deprecatingly
 drumbeat
 drillbit
