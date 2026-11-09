@@ -12506,7 +12506,7 @@ anemochord
 anemochore
 aleutic
 aforehand
-anaboly
+anaboly 1
 appropriated
 aimlessness
 antipacifist
