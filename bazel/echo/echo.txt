@@ -12551,7 +12551,7 @@ electrofusion
 extant
 existlessness
 epistemological
-embezzle
+embezzle 1
 exit
 encrypted
 exsects
