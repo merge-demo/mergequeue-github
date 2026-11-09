@@ -17326,7 +17326,7 @@ coarsening
 coarsens
 coarticulate
 coarticulation
-claylike
+claylike 1
 companionways
 coassert
 coasserter
