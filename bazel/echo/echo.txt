@@ -14131,7 +14131,7 @@ endosiphonal
 extensory
 episcopates
 ebonizing
-ephemerality
+ephemerality 1
 enseraph
 enplanement
 emulates
