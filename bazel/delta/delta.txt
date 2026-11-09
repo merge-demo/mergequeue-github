@@ -13175,7 +13175,7 @@ diuturnal
 disgruntles
 displaceability
 disleave
-dilly
+dilly 1
 display
 displayable
 dumaist
