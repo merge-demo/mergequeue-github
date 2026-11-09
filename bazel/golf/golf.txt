@@ -8517,7 +8517,7 @@ goshdarn
 gramaphone
 gametophyte
 ganglioblast
-gyrophoric
+gyrophoric 1
 gulden
 gyromitra
 grecian
