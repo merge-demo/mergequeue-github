@@ -7757,7 +7757,7 @@ franciscanism
 fisticuffery
 favillous
 flabelliform
-forsaker
+forsaker 1
 foremasts
 foremean
 fasciately
