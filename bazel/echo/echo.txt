@@ -4784,7 +4784,7 @@ encloister
 extend
 endosporously
 emeried
-epencephalon
+epencephalon 1
 extrarhythmical
 emboite
 erosiveness 1
