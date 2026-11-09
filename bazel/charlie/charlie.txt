@@ -16153,7 +16153,7 @@ climatic
 climatius
 climatize
 climatographical
-climatology
+climatology 1
 climatological
 conductitious
 crenulated
