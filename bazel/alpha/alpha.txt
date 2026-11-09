@@ -10266,7 +10266,7 @@ agricolite
 amelanchier
 avarice
 argus
-auxoblast
+auxoblast 1
 amelcorn
 alchemister
 amelet
