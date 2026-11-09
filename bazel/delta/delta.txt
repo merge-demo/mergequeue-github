@@ -1866,7 +1866,7 @@ disedification
 disappointer
 dijudicate
 distensibilities
-dispunge
+dispunge 1
 dissimulation
 dalespeople
 dispirit
