@@ -2857,7 +2857,7 @@ blanchi
 biochemistry
 bulgarians
 buckwashing
-bursted
+bursted 1
 barracouta
 brushlessness
 bicep
