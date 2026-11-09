@@ -5244,7 +5244,7 @@ docetistic
 destructuralize
 denoting
 duplification
-deeping
+deeping 1
 denouement
 denouements
 denounce
