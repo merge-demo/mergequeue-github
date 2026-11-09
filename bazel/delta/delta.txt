@@ -9586,7 +9586,7 @@ deuterons
 digonal
 digoneutism
 differentness
-divisi
+divisi 1
 digoxins
 digraphically
 digrediency
