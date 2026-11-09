@@ -2428,7 +2428,7 @@ electrodialyze
 essayical
 excoriates
 epistle
-eumenidean
+eumenidean 1
 empiristic
 esloign
 ehrwaldite
