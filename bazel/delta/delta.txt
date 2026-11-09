@@ -8138,7 +8138,7 @@ disventure
 delineate
 domesticized
 deepener
-diacaustic
+diacaustic 1
 diamminonitrate
 diapasons
 destitution
