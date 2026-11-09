@@ -4900,7 +4900,7 @@ discage
 diluting
 deigns
 diminuendo
-dialogist
+dialogist 1
 demonologer
 demonology
 demonologically
