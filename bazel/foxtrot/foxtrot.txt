@@ -9079,7 +9079,7 @@ fizzled
 finochios
 frixion
 frolicsomeness
-flavors
+flavors 1
 formably
 fehmic
 frication
