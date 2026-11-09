@@ -4923,7 +4923,7 @@ anticommercialness
 aerograph
 americium
 amphidetic
-aristogenic
+aristogenic 1
 alluvia
 acculturized
 aerographical
