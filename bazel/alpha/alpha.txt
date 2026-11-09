@@ -9964,7 +9964,7 @@ abele
 abluents
 activator
 authenticities
-assayer
+assayer 1
 ambaris
 ambas
 ambassade
