@@ -1628,7 +1628,7 @@ gastralgia
 gastreas
 glaucosuria
 gyrinid 1
-gaucheness
+gaucheness 1
 glassteel
 gravitational
 grimly
