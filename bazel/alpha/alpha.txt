@@ -24812,7 +24812,7 @@ atractaspis
 almas
 aeluroid
 avisos
-avital
+avital 1
 avitaminosis
 acariform
 anoxic
