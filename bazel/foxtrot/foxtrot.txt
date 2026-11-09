@@ -9453,7 +9453,7 @@ flamens
 fratry
 fountainheads
 flippery
-furnaceman
+furnaceman 1
 fulcrate 1
 flounderingly
 fratricelli

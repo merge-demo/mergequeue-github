@@ -5615,7 +5615,7 @@ brokenness
 buccaneers
 belah
 belaying
-bingo
+bingo 1
 bogie 1
 belam
 bettas
