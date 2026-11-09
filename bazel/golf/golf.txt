@@ -9434,7 +9434,7 @@ gemmate
 garroted
 glandulation
 gluttingly
-geonic
+geonic 1
 gabelle
 gotchy
 greekery
