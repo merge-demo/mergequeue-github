@@ -8939,7 +8939,7 @@ dichlorodiphenyltrichloroethane
 dumpishness
 deboshment
 damascene
-deceivable
+deceivable 1
 deathblows
 dichotically
 disklike
