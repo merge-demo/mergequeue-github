@@ -1990,7 +1990,7 @@ eagle
 economizing
 eker
 epigastriocele
-epitritic
+epitritic 1
 equiparable
 effetman
 exorcisory

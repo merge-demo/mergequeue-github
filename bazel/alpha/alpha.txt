@@ -15038,7 +15038,7 @@ anticrisis
 anticritic
 anaglyptics
 anticritical
-astrose
+astrose 1
 anasarcas
 attestant
 anticrochet
