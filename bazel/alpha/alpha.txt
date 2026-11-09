@@ -2270,7 +2270,7 @@ aciculum
 awning
 albarello
 aluminous
-adjectitious
+adjectitious 1
 attempers
 acidaspis
 acider
