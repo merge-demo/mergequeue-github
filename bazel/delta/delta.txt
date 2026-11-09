@@ -1255,7 +1255,7 @@ daterman
 diabolification
 dates
 datil
-devotement
+devotement 1
 dating
 disaffirmative
 dothienenteritis
