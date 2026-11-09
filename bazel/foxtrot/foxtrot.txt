@@ -8140,7 +8140,7 @@ faithful
 featurette
 fuchsias
 fellable
-fanegadas
+fanegadas 1
 fundmonger
 forcepses
 forevers 1
