@@ -294,7 +294,7 @@ geobotany
 ganjas
 gynaecian
 gargoylism
-gaminesque
+gaminesque 1
 gaist
 gulpingly
 giles
