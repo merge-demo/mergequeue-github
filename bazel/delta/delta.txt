@@ -17791,7 +17791,7 @@ disfigurements
 deposita
 decurt
 ducky
-diversional
+diversional 1
 diffrangible 1
 dicyanide
 ducking
