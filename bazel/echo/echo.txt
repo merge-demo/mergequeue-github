@@ -8687,7 +8687,7 @@ epilepsy 1
 ejecta
 equipotential
 externalize
-exconjugant
+exconjugant 1
 endostyle
 epicoeliac
 epulotic
