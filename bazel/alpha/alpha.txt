@@ -11634,7 +11634,7 @@ anacoluthon
 amanita
 autodialled
 assafoetida
-anabrotic
+anabrotic 1
 anacoluthons
 alow
 archurger
