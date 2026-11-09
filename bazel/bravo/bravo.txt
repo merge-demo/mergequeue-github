@@ -5649,7 +5649,7 @@ brasiers
 bocher
 busks
 boraciferous
-benjoin
+benjoin 1
 besped
 beldams
 bacchar
