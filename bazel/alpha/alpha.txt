@@ -18084,7 +18084,7 @@ agromyza
 anconeal
 aptiana
 aptychus
-aptitude
+aptitude 1
 aptnesses
 autohypnotization
 anises
