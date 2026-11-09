@@ -4622,7 +4622,7 @@ avicularian
 advocatress
 audiovisuals
 advoteresse
-anastrophe
+anastrophe 1
 apish
 advt
 aurigal
