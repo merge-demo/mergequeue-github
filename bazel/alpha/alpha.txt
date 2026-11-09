@@ -16873,7 +16873,7 @@ anticatalyst 1
 antiinstitutionalist
 apicolysis
 amentulum
-apposable
+apposable 1
 anymore
 adequation
 allodelphite
