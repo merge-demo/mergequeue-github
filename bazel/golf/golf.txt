@@ -390,7 +390,7 @@ galanthus
 guilery
 ganymedes
 gains
-goys
+goys 1
 glassiest
 goalposts
 gilsonite
