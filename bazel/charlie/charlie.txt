@@ -13888,7 +13888,7 @@ cinnamonlike
 chaffy
 carpus
 cinnamons
-cinnolin
+cinnolin 1
 cynocephalous
 chakazi
 cheerer
