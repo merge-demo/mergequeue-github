@@ -9741,7 +9741,7 @@ demultiplexes
 dab
 dodonaean
 deodaras
-delouse
+delouse 1
 dilater
 deforcement 1
 decussated
