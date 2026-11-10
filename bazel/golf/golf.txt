@@ -4516,7 +4516,7 @@ gawcey
 gorry
 graveless
 gypsology
-gymnotokous
+gymnotokous 1
 glib
 gulp
 gypsophila
