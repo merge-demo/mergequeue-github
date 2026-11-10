@@ -5783,7 +5783,7 @@ deponing
 distributee
 doodler
 depopulation
-denitrize
+denitrize 1
 debeak
 depopulative
 dowve
