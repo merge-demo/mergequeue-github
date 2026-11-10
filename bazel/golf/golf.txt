@@ -1584,7 +1584,7 @@ gymnura
 gauntlet
 gutteral
 gulanganes
-galleria
+galleria 1
 gunlock
 gasterotheca
 gandermooner
