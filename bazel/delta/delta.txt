@@ -3228,7 +3228,7 @@ defenceable
 dekle
 doftberry
 defencive
-dents
+dents 1
 defend
 dikast
 dolmenic
