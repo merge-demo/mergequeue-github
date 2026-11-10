@@ -10934,7 +10934,7 @@ draymen
 dromioid
 daimon
 depictive
-dyingness
+dyingness 1
 dysacousis
 dodecahydrated
 disacquaint
