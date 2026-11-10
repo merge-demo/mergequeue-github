@@ -5280,7 +5280,7 @@ apostrophe
 affinitive
 affirmable
 asiaticism
-affirmably
+affirmably 1
 aplysia
 achaetous
 anchor
