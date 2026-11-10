@@ -7514,7 +7514,7 @@ arditi
 approbation
 albuminimeter
 albuminiparous
-acromial
+acromial 1
 agnomina
 aphagias
 aldebaran
