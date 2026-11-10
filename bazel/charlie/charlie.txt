@@ -28869,7 +28869,7 @@ coney
 circumarctic
 calsouns
 crevasses
-chubasco
+chubasco 1
 crumblement
 catharization
 crevet
