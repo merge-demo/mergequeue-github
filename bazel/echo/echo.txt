@@ -3988,7 +3988,7 @@ enfamish
 ecumene
 emparchment
 exaltative
-enruin
+enruin 1
 embarrassingly
 edictum
 empathetic
