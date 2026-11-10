@@ -14912,7 +14912,7 @@ beknotting
 butterflylike
 breastbeam
 burut
-bungerly
+bungerly 1
 bitthead
 breaster
 breastfast
