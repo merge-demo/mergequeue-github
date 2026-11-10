@@ -9255,7 +9255,7 @@ abrachia
 alodies
 atossa
 alodification
-anthracometer
+anthracometer 1
 arician
 actinidiaceae
 axoplasm
