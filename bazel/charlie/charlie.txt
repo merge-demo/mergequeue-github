@@ -14002,7 +14002,7 @@ compitum
 cipo
 conservatist
 catstitch
-cippus
+cippus 1
 confirmative
 cilioflagellata
 chitra
