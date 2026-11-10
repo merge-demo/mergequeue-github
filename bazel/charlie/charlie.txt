@@ -31515,7 +31515,7 @@ curse
 cursedly
 cursedness
 calciferous
-cutaneous
+cutaneous 1
 cursen
 conoclinium
 curser
