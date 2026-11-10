@@ -8204,7 +8204,7 @@ alterne
 ahush
 antarctalia
 alias
-aleutians
+aleutians 1
 assassins
 amora
 alibied
