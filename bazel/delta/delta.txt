@@ -13807,7 +13807,7 @@ dialogistically 1
 demurral
 deader
 driftpin
-dramatis
+dramatis 1
 dogvane
 decapod
 diamondizing
