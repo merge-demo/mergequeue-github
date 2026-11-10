@@ -3265,7 +3265,7 @@ epigon
 encamping
 eugranitic
 eunice
-ecumenicize
+ecumenicize 1
 eluvies
 euphonize
 ethopoeia
