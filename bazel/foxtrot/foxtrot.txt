@@ -9892,7 +9892,7 @@ frits
 friskier
 folliculous
 foliaceousness
-fibrofatty
+fibrofatty 1
 freckly
 ferreters
 friendlessness
