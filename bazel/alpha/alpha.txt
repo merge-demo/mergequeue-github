@@ -24193,7 +24193,7 @@ autolater
 advertising
 autolatry
 aguara
-artemia
+artemia 1
 antherless
 autolithograph
 autoinfection
