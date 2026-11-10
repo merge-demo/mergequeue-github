@@ -1330,7 +1330,7 @@ colossuses
 crawfished
 calycanthin
 cantador
-carious
+carious 1
 cryptogrammatist
 chaucer
 calycate
