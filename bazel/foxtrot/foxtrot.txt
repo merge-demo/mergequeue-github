@@ -4847,7 +4847,7 @@ fodder 1
 foliums 1
 froebelism
 footfall
-fustigate
+fustigate 1
 floor
 fickleness
 fooless
