@@ -12432,7 +12432,7 @@ epapillate
 elengely
 ea
 entorganism
-exigently
+exigently 1
 exhilaratingly
 encasserole
 endite 1
