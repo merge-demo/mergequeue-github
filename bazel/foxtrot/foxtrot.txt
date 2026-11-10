@@ -5540,7 +5540,7 @@ fleshful
 favourite
 furunculus
 favouredly
-foamily
+foamily 1
 foreordain
 flagon
 fol
