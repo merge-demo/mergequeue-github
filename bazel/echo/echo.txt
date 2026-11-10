@@ -173,7 +173,7 @@ echinostome
 echidna
 earthmaker
 engelmanni
-exacts
+exacts 1
 ejidal
 enchantingness
 eugenetic
