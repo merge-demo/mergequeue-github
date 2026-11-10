@@ -23452,7 +23452,7 @@ avicularia
 auditotoria
 audubon
 aufgabe
-accentuation
+accentuation 1
 anguishous
 auftakt
 antidictionary

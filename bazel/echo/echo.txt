@@ -6525,7 +6525,7 @@ englishes
 ephemeris 1
 egomaniacal
 enrollment
-ectosphenoid
+ectosphenoid 1
 essayists
 entrenchments
 entails

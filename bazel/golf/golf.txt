@@ -10348,7 +10348,7 @@ gulfweeds
 gadgety
 gruffily
 greenlets
-gigabytes
+gigabytes 1
 gangbuster
 geum
 goadlike
