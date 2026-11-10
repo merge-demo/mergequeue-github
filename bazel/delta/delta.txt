@@ -18464,7 +18464,7 @@ duplifying
 duplone
 disruptiveness
 dendrochronologically
-delator
+delator 1
 dispersant
 diapers
 dyable
