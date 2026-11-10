@@ -4996,7 +4996,7 @@ emigates
 electrocorticogram
 envy
 extirpative
-equinia
+equinia 1
 engraphic
 earthgall
 exencephalia
