@@ -13343,7 +13343,7 @@ anisopteran
 absolvitory
 abrading
 antecedent
-anisostaminous
+anisostaminous 1
 anisostichous
 anisostomous
 amlacra
