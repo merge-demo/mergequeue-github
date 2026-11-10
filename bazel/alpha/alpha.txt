@@ -14771,7 +14771,7 @@ adversarial
 anticapitalist
 anticapitalistically
 anticardiac
-anticarious
+anticarious 1
 aeronautism
 armorially
 activized
