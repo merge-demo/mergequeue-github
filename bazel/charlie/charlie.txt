@@ -2584,7 +2584,7 @@ candolleaceous
 carangid
 chlorotrifluoromethane
 catalan
-ceraunograph
+ceraunograph 1
 carbona
 canduc
 crepier
