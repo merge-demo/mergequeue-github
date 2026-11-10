@@ -11066,7 +11066,7 @@ functionated
 fogbow
 fructed
 frowner
-frameae
+frameae 1
 fellsman
 flaminica
 fractionated
