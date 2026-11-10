@@ -2247,7 +2247,7 @@ gastrotome
 grifts
 glottology
 gefulltefish
-galax
+galax 1
 gonidiogenous
 gehlenite
 goblet
