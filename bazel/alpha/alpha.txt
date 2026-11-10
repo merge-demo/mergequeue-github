@@ -22810,7 +22810,7 @@ atloidean
 arousals
 astonished
 adsorbates
-atma
+atma 1
 atman
 acotyledon
 amazon
