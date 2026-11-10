@@ -12481,7 +12481,7 @@ anechoic
 amazed
 adar
 anelasticity
-augurship
+augurship 1
 antirationalism
 anelectrode
 appui
