@@ -12885,7 +12885,7 @@ curmurring
 churlier
 corrugations
 cowslip
-churlishness
+churlishness 1
 churm
 churn
 canvased
