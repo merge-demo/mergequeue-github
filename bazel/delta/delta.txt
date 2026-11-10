@@ -730,7 +730,7 @@ dictagraph
 dodging
 dander
 dandy
-dandiacally
+dandiacally 1
 dandydom
 dacryosolenitis
 dealcoholization
