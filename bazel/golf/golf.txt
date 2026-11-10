@@ -9420,7 +9420,7 @@ gingerliness
 glycollide
 gabionage
 groupies
-ghastfully
+ghastfully 1
 grouchiness
 geminally
 gitksan 1
