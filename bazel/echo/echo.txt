@@ -13955,7 +13955,7 @@ extraparliamentary
 ectotrophic
 expressless
 epimer
-endokaryogamy
+endokaryogamy 1
 enface
 electropoion
 escheatage
