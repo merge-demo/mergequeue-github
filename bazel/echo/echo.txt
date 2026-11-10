@@ -7071,7 +7071,7 @@ enzymolytic 1
 excitomuscular
 encompassed
 enumerability
-entry
+entry 1
 epris 1
 expansionary
 exemptile
