@@ -3474,7 +3474,7 @@ franklinist
 forswearer
 flaccidly
 firmisternial
-figgiest
+figgiest 1
 fraternisation
 fecundity
 fleeches
