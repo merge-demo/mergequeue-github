@@ -2368,7 +2368,7 @@ dechemicalize
 doctorfish
 dechloridation
 dechloridize
-dendrites
+dendrites 1
 dechlorinate
 dillweed
 dysgenesis
