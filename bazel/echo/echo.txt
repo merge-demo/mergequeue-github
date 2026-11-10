@@ -4700,7 +4700,7 @@ encyclopediacal 1
 equestrianship
 exceptionability
 evolutionize
-endemics
+endemics 1
 electromagnets
 encyclopedic
 ebauche
