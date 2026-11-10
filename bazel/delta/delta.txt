@@ -12226,7 +12226,7 @@ deliquesce
 dwarfish
 dovecots
 disfrocking
-dysfunctional
+dysfunctional 1
 documentaries
 dysfunctioning
 doweling
