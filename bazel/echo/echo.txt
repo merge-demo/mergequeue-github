@@ -922,7 +922,7 @@ encapsulating
 escalation
 electrotonic
 emplaces
-exculpatory
+exculpatory 1
 extravagated
 exarillate
 eyelashes
