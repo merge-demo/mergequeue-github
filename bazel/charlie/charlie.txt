@@ -19400,7 +19400,7 @@ colorific
 colorifics
 colorimeter
 colorimetrically
-colorimetrics
+colorimetrics 1
 chemmy
 colorimetrist
 carinthian
