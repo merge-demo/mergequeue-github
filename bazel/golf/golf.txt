@@ -4392,7 +4392,7 @@ gelidiaceae
 gangrene
 gyron
 gallanilide
-gyniatries
+gyniatries 1
 gambias
 glottitis
 gowdnook
