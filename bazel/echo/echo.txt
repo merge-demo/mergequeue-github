@@ -5203,7 +5203,7 @@ entocoele
 ergotist
 enterovirus
 eastings
-electroballistician
+electroballistician 1
 epilithic
 endogenae
 efference
