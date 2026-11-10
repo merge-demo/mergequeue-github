@@ -3899,7 +3899,7 @@ gatherings
 geomorphogenic
 globeholder
 garnetiferous
-gulosities
+gulosities 1
 geckotid
 gobian
 gordyaean
