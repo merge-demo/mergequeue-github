@@ -3652,7 +3652,7 @@ disarrangement
 decubation
 denounced
 despisement
-delinquencies
+delinquencies 1
 designed
 deduce
 deglutinating
