@@ -18103,7 +18103,7 @@ apus
 akinesis
 ambulia
 antechoir
-articulationes
+articulationes 1
 analogising
 aquacade
 amotion
