@@ -7661,7 +7661,7 @@ factualism
 foreguess
 flammant
 foretopsail
-fittywise
+fittywise 1
 fiefdom
 forsteal
 forecasting

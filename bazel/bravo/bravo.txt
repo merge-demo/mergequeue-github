@@ -13504,7 +13504,7 @@ bourre
 beseek 1
 boondoggle
 boneyards
-botulisms
+botulisms 1
 brief
 brodequin
 bijouterie
