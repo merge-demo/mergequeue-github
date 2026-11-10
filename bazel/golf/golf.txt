@@ -1107,7 +1107,7 @@ generatively
 gashouses
 graphiola
 grammatication
-gearshifts
+gearshifts 1
 gravitate
 graptolitic
 gallants
