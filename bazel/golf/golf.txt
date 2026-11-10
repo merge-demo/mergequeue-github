@@ -928,7 +928,7 @@ gatewise
 gashed
 gibboseness
 guelphism
-greedy
+greedy 1
 germal
 gelototherapy
 gammarine
