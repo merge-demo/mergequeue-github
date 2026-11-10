@@ -8645,7 +8645,7 @@ dias
 depertible
 dermatographia
 downstream
-diametrically
+diametrically 1
 denitrifying
 discourtesy
 diffused
