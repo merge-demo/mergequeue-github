@@ -2332,7 +2332,7 @@ ambrosterol
 androcles
 acierated
 acierates
-adc
+adc 1
 archduxe
 alluding
 athetoid
