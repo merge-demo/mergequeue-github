@@ -766,7 +766,7 @@ frequently 1
 fanciful
 fibreboard
 fanciless
-foliicolous
+foliicolous 1
 forestaff
 fragrance
 fallows

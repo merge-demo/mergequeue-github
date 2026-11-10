@@ -4259,7 +4259,7 @@ danseuses
 deltohedron
 dogvanes
 delubra
-deluce
+deluce 1
 delude
 didunculus
 dishonored
