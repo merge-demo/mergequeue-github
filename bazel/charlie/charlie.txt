@@ -24490,7 +24490,7 @@ clavis
 copaivic 1
 copaliferous
 copalite
-copalm 1
+copalm 2
 coparcenar
 coparcenary
 cyclopropane
