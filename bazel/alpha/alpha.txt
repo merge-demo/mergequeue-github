@@ -15619,7 +15619,7 @@ anting
 absist
 antings
 assary
-apprehensible
+apprehensible 1
 alway
 altamira
 ararao
