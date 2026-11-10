@@ -14271,7 +14271,7 @@ clefted
 chickaree
 coelia
 circumnavigator
-cyclometrical
+cyclometrical 1
 coitophobia
 cannabin
 costal
