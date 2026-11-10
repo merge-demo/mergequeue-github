@@ -2881,7 +2881,7 @@ flatfish
 forewing
 foxship
 frisettes
-fantasize
+fantasize 1
 fogies
 formicarium
 frabjously
