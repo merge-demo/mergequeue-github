@@ -8444,7 +8444,7 @@ citellus
 crookeder
 checkerboarded
 confiscator
-choribi
+choribi 1
 cuttable
 chamoisite
 chamoline
