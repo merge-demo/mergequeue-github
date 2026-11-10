@@ -7586,7 +7586,7 @@ gangism
 grassweed
 gledge
 gloomful
-gaumy
+gaumy 1
 gyrus 1
 gheraoes
 grille
