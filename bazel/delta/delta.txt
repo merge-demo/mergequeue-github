@@ -5983,7 +5983,7 @@ decimetres
 doubledamn
 deckswabber
 debord
-decuples
+decuples 1
 dragons
 diopside
 delictus
