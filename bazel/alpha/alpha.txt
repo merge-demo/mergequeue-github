@@ -16472,7 +16472,7 @@ airish
 anusim
 amphiboliferous
 argyrosomus
-abietinic
+abietinic 1
 almacantar
 anusvara
 apulmonic
