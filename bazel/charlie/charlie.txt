@@ -1269,7 +1269,7 @@ calender
 compromissorial
 calendered
 calenderer
-cheeping
+cheeping 1
 confessionist
 calenders
 calendric
