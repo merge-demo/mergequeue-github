@@ -23435,7 +23435,7 @@ agnail
 accommodational
 advenience
 antifeminist
-apportioned
+apportioned 1
 auditorial
 attitudinarian
 arnicas

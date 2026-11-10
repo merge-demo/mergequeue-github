@@ -26541,7 +26541,7 @@ culicids
 cymbaled
 chemosis
 clingers
-conjecturable
+conjecturable 1
 cheverons
 coucal
 couchancy
