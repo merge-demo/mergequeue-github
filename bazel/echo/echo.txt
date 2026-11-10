@@ -382,7 +382,7 @@ educ
 exoneural
 enterorrhea
 epicalyxes
-ebionite
+ebionite 1
 ebionitism
 existless
 equites
