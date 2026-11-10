@@ -15860,7 +15860,7 @@ antipodal
 antipode
 antipodic
 autocoprophagous
-argufied
+argufied 1
 antipodism
 antipoetical
 antipolar
