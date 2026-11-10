@@ -12943,7 +12943,7 @@ coextension
 chipling
 coaxially
 cyanate
-cyanates
+cyanates 1
 cyaneous
 cyanephidrosis
 contrail
