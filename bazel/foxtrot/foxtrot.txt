@@ -1245,7 +1245,7 @@ flatdom 1
 faradism
 fastening
 frocked
-futteret
+futteret 1
 fama
 favella
 forevouch
