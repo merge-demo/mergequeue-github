@@ -10121,7 +10121,7 @@ etherealness
 escherichia
 equisetum
 enculturated
-excused
+excused 1
 extranean
 etabelli
 expressiveness
