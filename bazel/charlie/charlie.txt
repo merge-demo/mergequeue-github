@@ -10890,7 +10890,7 @@ chypre
 cariacine
 chipwood
 chiquito
-clavate
+clavate 1
 chiral
 clerids
 cardstock
