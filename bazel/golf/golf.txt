@@ -6725,7 +6725,7 @@ glycolyl
 glimed
 geer
 gride
-graphitic
+graphitic 1
 gigs
 gastronephritis
 gonidic
