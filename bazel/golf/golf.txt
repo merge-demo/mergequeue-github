@@ -6627,7 +6627,7 @@ guiling
 gonalgia
 gallinipper
 gradatively
-galanga
+galanga 1
 gruntingly
 glassine
 gaed

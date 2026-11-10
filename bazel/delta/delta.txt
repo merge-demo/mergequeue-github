@@ -1290,7 +1290,7 @@ datsuns
 disband
 demigardebras
 dissyllabize
-dentition
+dentition 1
 dysodyle
 doitrified
 dardanarius
