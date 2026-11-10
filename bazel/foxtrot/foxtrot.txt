@@ -8288,7 +8288,7 @@ flump
 forehoof
 frontlets
 forgiving
-flintify 1
+flintify 2
 forgoer
 fidges
 forgoers
