@@ -3683,7 +3683,7 @@ adiaphoristic
 artist
 acuating
 anureses
-arrant
+arrant 1
 assurge
 adenosine
 abepithymia
