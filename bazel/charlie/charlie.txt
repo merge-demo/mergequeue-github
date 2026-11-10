@@ -3482,7 +3482,7 @@ cheimaphobia
 crunt
 coulage
 cabalistical
-capsizes
+capsizes 1
 capsizing
 capernaitish
 capsomere
