@@ -9156,7 +9156,7 @@ biotypic 1
 boubou
 biotypology
 balneotherapeutics
-biotites
+biotites 1
 bolometric
 basil
 blowback
