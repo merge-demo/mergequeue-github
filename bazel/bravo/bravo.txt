@@ -1497,7 +1497,7 @@ bartree 1
 bronchopleurisy
 blowiest
 brakemaking
-balladist
+balladist 1
 batrachophagous
 balladize
 bedaubed
