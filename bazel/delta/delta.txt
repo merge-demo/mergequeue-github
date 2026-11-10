@@ -5266,7 +5266,7 @@ daviely
 dioptase
 dialogistic
 demarcations
-denseness
+denseness 1
 dorsel
 depauperized
 densify
