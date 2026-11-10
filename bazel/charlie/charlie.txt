@@ -6024,7 +6024,7 @@ condole
 ctenodontidae
 catholicize
 corotating
-catholicly
+catholicly 1
 catholicness
 centricipital
 cylindroogival
