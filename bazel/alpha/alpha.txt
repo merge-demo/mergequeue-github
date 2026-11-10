@@ -16576,7 +16576,7 @@ awakenment
 aparejos
 automaker
 antarctogaean
-amygdale
+amygdale 1
 abusee
 accessibly
 atokous

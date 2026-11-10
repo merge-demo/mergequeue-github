@@ -4888,7 +4888,7 @@ girderage
 gladier
 guaranteeing
 gleam
-glozes
+glozes 1
 gyrotheca
 gimme
 grandstanding
