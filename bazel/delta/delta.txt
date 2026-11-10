@@ -12662,7 +12662,7 @@ discernibleness
 diskindness
 diskography
 dvandva
-dextrorse
+dextrorse 1
 doleful
 divining
 dehorts
