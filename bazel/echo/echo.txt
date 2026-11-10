@@ -11622,7 +11622,7 @@ exacerbated
 effet
 excided
 enfrenzy
-ersatz
+ersatz 1
 ethnocentricity
 empoison
 exclosure 1
