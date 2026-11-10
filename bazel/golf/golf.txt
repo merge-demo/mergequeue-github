@@ -3879,7 +3879,7 @@ girrock
 graining
 guls
 groszy
-gels
+gels 1
 gaelicization
 glumpy
 glazed
