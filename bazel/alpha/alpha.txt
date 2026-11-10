@@ -10234,7 +10234,7 @@ anteflexion
 ambitendent
 auximone
 aquariist
-amebobacter
+amebobacter 1
 analgesidae
 ameboid
 ameboidism
