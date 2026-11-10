@@ -2895,7 +2895,7 @@ barramundies
 bilocation
 bottleful
 broadcasts
-broadthroat
+broadthroat 1
 biverbal
 beclatter
 bestride
