@@ -11679,7 +11679,7 @@ furcates
 frailties
 festoons
 flocculate
-frigorific
+frigorific 1
 feru
 feminines
 felids
