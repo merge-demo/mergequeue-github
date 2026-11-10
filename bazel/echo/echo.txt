@@ -2016,7 +2016,7 @@ epilate
 ektexine
 elabor
 epibenthic
-episternite
+episternite 1
 evictees
 emulsic
 equisonant
