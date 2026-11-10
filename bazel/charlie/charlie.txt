@@ -17449,7 +17449,7 @@ cobbing
 cumulite
 causeries
 cobble
-capax
+capax 1
 cobbled
 commixes
 cobblerfish
