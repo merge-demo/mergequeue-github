@@ -1537,7 +1537,7 @@ dynamisms
 dupondius
 dedoggerelize
 deacons 1
-demobilizes
+demobilizes 1
 diphygenic
 deactivate
 discoglossid
