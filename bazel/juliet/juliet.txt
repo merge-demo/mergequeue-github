@@ -6088,7 +6088,7 @@ jisyk
 jisza
 jiszjv
 jiszmecz
-jiszwip
+jiszwip 1
 jitaneuykwo
 jitao
 jitaopc
