@@ -5560,7 +5560,7 @@ fluffiest
 forecited
 fluorite
 fascicle
-fibbing
+fibbing 1
 felon
 foliaceous
 fungic 1
