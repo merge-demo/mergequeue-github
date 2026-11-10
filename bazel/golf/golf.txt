@@ -1198,7 +1198,7 @@ guestless
 gaplessness
 gynandrism
 gappier
-genesiacal
+genesiacal 1
 griot
 gradations
 globular
