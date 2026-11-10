@@ -9112,7 +9112,7 @@ etruscan
 erythropsin
 eltrot
 experientialist
-exploding
+exploding 1
 erythrosiderite
 exosporous
 egoistically
