@@ -14350,7 +14350,7 @@ diuresis
 difficile
 demogorgon
 democratical
-divagatory
+divagatory 1
 diureticalness
 dialyzed
 dodger
