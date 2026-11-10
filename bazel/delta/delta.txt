@@ -12282,7 +12282,7 @@ degreasing 1
 dromedarist
 diazomethane
 disgospel
-diminuendos
+diminuendos 1
 disgospelize
 disgracer
 dipicrate
