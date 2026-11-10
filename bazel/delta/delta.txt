@@ -14445,7 +14445,7 @@ duopolist
 denies
 dindymene
 divertibility
-diverticle
+diverticle 1
 daibutsu
 disguisedness
 disruptment
