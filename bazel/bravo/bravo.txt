@@ -2793,7 +2793,7 @@ baronries
 briggs
 baroque
 baconer
-bowsprits
+bowsprits 1
 bureaus
 barites
 bolding
