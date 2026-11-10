@@ -4299,7 +4299,7 @@ fiancee
 follicule
 fibster
 fenland
-fungology
+fungology 1
 firmarii
 furmeties
 flunkeys
