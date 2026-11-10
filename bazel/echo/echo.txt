@@ -3285,7 +3285,7 @@ ensandal
 epiphyllospermous
 ensnaring
 enrages
-equitist
+equitist 1
 etymologising
 expectations
 esophagismus
