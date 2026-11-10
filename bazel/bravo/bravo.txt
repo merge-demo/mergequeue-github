@@ -9728,7 +9728,7 @@ buckskin
 bedragglement
 bissonata
 besing
-bistate
+bistate 1
 biosyntheses
 biochemist
 brainwashed
