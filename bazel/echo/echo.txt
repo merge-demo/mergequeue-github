@@ -3440,7 +3440,7 @@ exolete
 exemplar
 ecliptic
 embatholithic
-enfiladed
+enfiladed 1
 extradoses
 exteriors
 enteropneustan
