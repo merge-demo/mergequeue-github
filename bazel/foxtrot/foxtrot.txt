@@ -9954,7 +9954,7 @@ flatlanders
 flanche
 frantic
 frigiddaria
-favor
+favor 1
 frigidly
 foundation
 forthfigured
