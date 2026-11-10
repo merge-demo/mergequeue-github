@@ -251,7 +251,7 @@ adenomata
 abbreviates
 achariaceous
 abbreviation
-abc
+abc 1
 angiohypotonia
 abcoulomb
 abietineous
