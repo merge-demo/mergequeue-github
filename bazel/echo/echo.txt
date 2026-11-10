@@ -4958,7 +4958,7 @@ eurytomid
 emulsifiers
 earnestful
 ephemerally
-endearedness
+endearedness 1
 enterocele
 endearingness
 exactive
