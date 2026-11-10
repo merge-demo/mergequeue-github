@@ -15883,7 +15883,7 @@ cherts
 cleidomancy
 cleidorrhexis
 chiripa
-cleidotripsy
+cleidotripsy 1
 cleistocarp
 cleistocarpous
 chirker
