@@ -2322,7 +2322,7 @@ gerocomy
 gerard
 galvanography
 graviton 1
-gravamina 1
+gravamina 2
 gamine
 gelatinizer
 gradates

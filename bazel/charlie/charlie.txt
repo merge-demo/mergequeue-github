@@ -29528,7 +29528,7 @@ crit
 criteria
 cryptogamous
 criteriia
-criteriology
+criteriology 1
 criterional
 creolin
 cerealist
