@@ -12902,7 +12902,7 @@ anglistics
 arryish
 anglogaea
 anthemwise
-antennarius
+antennarius 1
 antiliturgically
 anglomane
 awkward
