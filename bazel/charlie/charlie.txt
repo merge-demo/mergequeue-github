@@ -1948,7 +1948,7 @@ castalia
 camembert
 conglobated
 coachwoman
-curdling
+curdling 1
 colletic
 camenes
 coveters
