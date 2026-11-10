@@ -19379,7 +19379,7 @@ colorature
 celesta
 colorblind
 cartomancies
-colorcasting
+colorcasting 1
 calvus
 colorcasts
 colorectitis
