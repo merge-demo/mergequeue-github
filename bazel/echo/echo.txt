@@ -7248,7 +7248,7 @@ epicurize
 excrescences
 eohippus
 eohippuses
-electronegativity
+electronegativity 1
 eoith
 eoiths
 entamebae
