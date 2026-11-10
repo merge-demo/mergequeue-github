@@ -4826,7 +4826,7 @@ gursh
 glassen
 glans
 goodwilies
-granate
+granate 1
 guardo
 gynerium
 glacieret
