@@ -2825,7 +2825,7 @@ decretorian
 dithymol
 duplicative
 defi
-deferred
+deferred 1
 dossers
 declarator
 decried
