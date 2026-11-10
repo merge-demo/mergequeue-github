@@ -8672,7 +8672,7 @@ fanlike
 freelance
 funariaceous
 flexuous
-fistuliform
+fistuliform 1
 floured
 ferroprint
 forth
