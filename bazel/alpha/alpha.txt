@@ -13570,7 +13570,7 @@ antihierarchical
 algy
 annulary
 annularia
-arrowing
+arrowing 1
 annulately
 adjourning
 annulation
