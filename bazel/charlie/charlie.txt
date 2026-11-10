@@ -27190,7 +27190,7 @@ classisms
 countertouch
 chait
 cacotrophic
-circumgyration
+circumgyration 1
 countertraction
 countertransference
 cystonectous
