@@ -869,7 +869,7 @@ cairny
 cays
 caisse
 caissons
-caite
+caite 1
 colligance
 caitif
 charque
