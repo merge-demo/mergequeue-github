@@ -933,7 +933,7 @@ germal
 gelototherapy
 gammarine
 gingeli
-gammerel
+gammerel 1
 graeculus
 gammerstang
 gastropneumatic
