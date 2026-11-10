@@ -14558,7 +14558,7 @@ detents
 divisions
 divisive
 divisively
-diners
+diners 1
 develope
 decomposition
 divisor
