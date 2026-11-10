@@ -25694,7 +25694,7 @@ champa
 crabapple
 cumquat
 correlatives
-contiguate
+contiguate 1
 crouche
 correligionist
 convertibly
