@@ -3503,7 +3503,7 @@ chloroforming
 centinody
 countershaft
 chappow
-capsuliferous
+capsuliferous 1
 coldcock
 cheloniid
 capsuliform
