@@ -660,7 +660,7 @@ abominator
 affably
 attrist
 abominators
-abomine
+abomine 1
 abondance
 alluvials
 aimara
