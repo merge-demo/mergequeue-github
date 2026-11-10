@@ -4727,7 +4727,7 @@ gynodioecism
 gymnasiast
 gumshoe
 glucosuria
-grudgingly
+grudgingly 1
 garnisheeing
 genista
 galeae
