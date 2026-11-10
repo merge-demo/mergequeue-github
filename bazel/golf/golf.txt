@@ -9752,7 +9752,7 @@ gird
 gonimium
 grumphie
 guesstimates
-grise
+grise 1
 gonangiums
 grumpy
 grun
