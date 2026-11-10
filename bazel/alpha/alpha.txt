@@ -17240,7 +17240,7 @@ apophyseal
 anagoge
 anatifa
 antisnob
-appropriate
+appropriate 1
 apophysis
 autopsying
 aspersoria
