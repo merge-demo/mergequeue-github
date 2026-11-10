@@ -9579,7 +9579,7 @@ antepileptic
 amuse
 aspersors
 altruists
-altun
+altun 1
 anisomeles
 alimentary
 autoharp
