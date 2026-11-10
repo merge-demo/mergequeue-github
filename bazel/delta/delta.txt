@@ -15125,7 +15125,7 @@ dubitatively
 dipolarization
 dogstones
 dogtie
-degenerated
+degenerated 1
 dogtooth
 diabetogenous
 delegare
