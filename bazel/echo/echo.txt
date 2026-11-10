@@ -11348,7 +11348,7 @@ eugenics
 eolienne
 eveless
 estrildine
-eth
+eth 1
 eveline
 equidifferent
 epitrochlear
