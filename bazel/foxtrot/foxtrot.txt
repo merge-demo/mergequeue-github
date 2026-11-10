@@ -1584,7 +1584,7 @@ falsettist
 fibrinogen
 filespec
 favorites
-furstone
+furstone 1
 fadges
 flavobacterium
 forsee
