@@ -15742,7 +15742,7 @@ clawker
 clawless
 chalahs
 claws
-claxon
+claxon 1
 cleaded
 corin
 chandelled
