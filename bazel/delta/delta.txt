@@ -9308,7 +9308,7 @@ diplomat
 dietotherapy 1
 dietotoxic
 detersive
-depletable
+depletable 1
 diluvions
 depilation
 dietrichite
