@@ -5983,7 +5983,7 @@ enigmata
 eluvial
 exquisite
 etourderie
-ephphatha
+ephphatha 1
 enigmatist
 enigmatizing
 enigmatographer

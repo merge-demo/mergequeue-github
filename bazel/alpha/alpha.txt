@@ -18562,7 +18562,7 @@ analytics
 arbutean
 alphean
 anthropomorphite
-abrogates
+abrogates 1
 abbotship
 alarmisms 1
 autoecholalia

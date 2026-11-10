@@ -8053,7 +8053,7 @@ banyai
 belleeks
 bacteriohemolysin
 bicostate
-billows
+billows 1
 bicrenate
 bicrofarad
 bicrural
