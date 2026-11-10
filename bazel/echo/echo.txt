@@ -7855,7 +7855,7 @@ euconjugatae
 epigonium
 euraquilo
 extractions
-epigonous
+epigonous 1
 enlaces
 eosines
 endopsychic
