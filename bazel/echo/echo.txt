@@ -6088,7 +6088,7 @@ edinburgh
 escheated
 enlaurel
 emancipatist
-exorableness
+exorableness 1
 enliveningly
 enlief
 evertebrate
