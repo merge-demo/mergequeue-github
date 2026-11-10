@@ -1938,7 +1938,7 @@ greaseless
 gushy
 greeve
 guttiness
-galopades
+galopades 1
 glorifiers
 galliards
 gauffered
