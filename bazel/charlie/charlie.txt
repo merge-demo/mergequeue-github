@@ -25051,7 +25051,7 @@ cordwainer
 choleraic
 cloves
 core
-corecipient
+corecipient 1
 corectome
 cracovienne
 cardiomotility
