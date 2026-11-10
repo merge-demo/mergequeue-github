@@ -6713,7 +6713,7 @@ gardenize
 goosey
 goup
 gypsine
-gassings
+gassings 1
 guid
 ginglyni
 grudgeless
