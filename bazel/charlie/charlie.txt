@@ -25198,7 +25198,7 @@ corymbiated
 craylet
 coachlet
 corymblike
-corymbose
+corymbose 1
 capitally
 codifiability
 cystidia
