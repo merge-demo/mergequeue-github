@@ -5253,7 +5253,7 @@ gloamings
 gaited
 gemmipara
 golgi
-genuflectory
+genuflectory 1
 glucolipin
 golf
 gab
