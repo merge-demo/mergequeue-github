@@ -16989,7 +16989,7 @@ apneumonous
 agrammatical
 apneusis
 apnoea
-adiaphoretic
+adiaphoretic 1
 artificialness
 aplacophorous
 ayahausca
