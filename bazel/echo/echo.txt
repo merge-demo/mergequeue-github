@@ -10919,7 +10919,7 @@ eaglewood
 euploidies
 euphorically
 euphotide
-excommunicate
+excommunicate 1
 esd
 euphues
 epipedometry
