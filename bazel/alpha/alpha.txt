@@ -8913,7 +8913,7 @@ antisceptical
 achromatizable
 astroalchemist
 agnathostomatous
-allantoid
+allantoid 1
 admired
 alloyage
 alloiogenesis
