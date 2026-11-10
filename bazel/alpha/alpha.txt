@@ -13122,7 +13122,7 @@ anthrapurpurin
 archaeopteris
 antiromance 1
 animacule
-animadversional
+animadversional 1
 almuten
 animadverted
 animadverter

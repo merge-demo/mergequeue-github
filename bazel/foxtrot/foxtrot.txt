@@ -7200,7 +7200,7 @@ farer
 frockless
 frisesomorum
 filthless
-frecked
+frecked 1
 fortnight
 falseheartedly
 fustily
