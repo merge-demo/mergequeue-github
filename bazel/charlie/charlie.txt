@@ -23737,7 +23737,7 @@ cytopenia
 chuffy
 contrapose
 contraposed
-clinospore
+clinospore 1
 chalcograph
 contraposit
 cataplexy
