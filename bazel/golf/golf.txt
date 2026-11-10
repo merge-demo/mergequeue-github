@@ -4272,7 +4272,7 @@ gunshots
 gleamed
 gastroscope
 gangliated
-gibeonite
+gibeonite 1
 gasconism
 gynecological
 gramineousness
