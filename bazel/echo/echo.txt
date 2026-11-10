@@ -115,7 +115,7 @@ equisetaceae
 engobe
 embrasuring
 egotistically 1
-eartab
+eartab 1
 exodermal
 eparch
 euphonised
