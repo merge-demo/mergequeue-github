@@ -11637,7 +11637,7 @@ assafoetida
 anabrotic
 anacoluthons
 alow
-archurger
+archurger 1
 anacreontically
 athens
 anacrogynae
