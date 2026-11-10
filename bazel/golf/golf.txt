@@ -5939,7 +5939,7 @@ gaincome
 glummest
 gaggled
 generalific
-glumnesses
+glumnesses 1
 gederathite
 gephyrocercal
 gemeinschaft
