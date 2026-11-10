@@ -11730,7 +11730,7 @@ cacophony
 chondrites
 chondritic 1
 chondroalbuminoid
-chondroangioma
+chondroangioma 1
 credential
 coexchangeable
 countercouchant
