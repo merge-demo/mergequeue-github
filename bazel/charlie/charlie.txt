@@ -14816,7 +14816,7 @@ citoyenne
 confiscated
 conscious
 coadmiring
-cotise
+cotise 1
 cephalorhachidian
 cyclope
 checkbird
