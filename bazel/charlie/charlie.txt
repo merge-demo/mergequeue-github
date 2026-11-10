@@ -17023,7 +17023,7 @@ crayoned
 cnidoblast
 cnidocil
 cobbed
-coexplosion
+coexplosion 1
 cupmate
 cortisone
 cnidopod
