@@ -14465,7 +14465,7 @@ cirsophthalmia
 completable
 cirsotomy
 cirsotomies
-cirterion
+cirterion 1
 cyrtoceras
 chergui
 courantos
