@@ -461,7 +461,7 @@ fringeless
 folkmoter
 foliosity
 facticity
-faithworthiness
+faithworthiness 1
 fireplaces
 faitours
 fornicatress
