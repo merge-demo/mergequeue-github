@@ -3797,7 +3797,7 @@ bondoc
 baboon
 bazzite
 browsing
-bescorched
+bescorched 1
 balancer
 bristlecone
 bauckie
