@@ -8854,7 +8854,7 @@ albahaca
 assumable
 amethodical
 allanturic
-actinal
+actinal 1
 antevocalic
 arrayment
 armouries
