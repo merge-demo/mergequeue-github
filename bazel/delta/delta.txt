@@ -14962,7 +14962,7 @@ defrauders
 doesn
 desiccatory
 doffing
-demiracle
+demiracle 1
 diaphanometry
 dhikr
 disconsonancy

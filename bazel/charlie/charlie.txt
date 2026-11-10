@@ -23032,7 +23032,7 @@ consonantness
 consonants
 clinograph
 collapsibility
-conscriptive
+conscriptive 1
 cutty 1
 consonate
 consonous
