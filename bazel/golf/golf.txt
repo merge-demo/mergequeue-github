@@ -875,7 +875,7 @@ gazi
 gameness
 galvanizes
 gallowsward
-geegaw
+geegaw 1
 gadis
 galactan
 glove
