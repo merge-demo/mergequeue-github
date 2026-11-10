@@ -193,7 +193,7 @@ garbage
 gager 1
 governessdom
 gastronomic
-gaggery
+gaggery 1
 greenage
 gambone
 gloxinias
