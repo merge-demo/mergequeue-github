@@ -8111,7 +8111,7 @@ dinosaurs
 diabetometer
 dandyprat
 demetallize
-demineralize
+demineralize 1
 denominative
 dwarfling
 diplopodic
