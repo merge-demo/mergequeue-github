@@ -4291,7 +4291,7 @@ carfare
 carfares
 carfloat
 coater
-carfuffle
+carfuffle 1
 capiteaux
 camauros
 centroidal
