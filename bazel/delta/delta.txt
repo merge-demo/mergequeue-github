@@ -16862,7 +16862,7 @@ disceptation
 diminutival
 drawtongs
 dehumanizes
-deaired
+deaired 1
 ddt
 dicyclic
 diiambus
