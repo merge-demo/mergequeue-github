@@ -2712,7 +2712,7 @@ flamenco
 frondous
 fashions
 fruitive 1
-flatteress
+flatteress 1
 funnier
 figpecker
 ficche
