@@ -11717,7 +11717,7 @@ axises
 alban
 amigo
 anagap
-amos
+amos 1
 aerotechnics
 avoure
 appraisal
