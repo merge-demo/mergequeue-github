@@ -6284,7 +6284,7 @@ gelatinised
 graecian
 gyroidal
 grundyist
-galop
+galop 1
 governessy
 gid
 gobbles
