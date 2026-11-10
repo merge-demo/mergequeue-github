@@ -13321,7 +13321,7 @@ candlestand
 cyclopentene
 cohabit
 cajanus
-cyclophoria
+cyclophoria 1
 chrysid
 cyclophoric
 counterlife
