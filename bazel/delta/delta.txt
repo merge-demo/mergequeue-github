@@ -10624,7 +10624,7 @@ deaminized
 diauli
 decompressing
 diplomats
-dysporomorph
+dysporomorph 1
 drawfile
 diphtheritic
 diplonema
