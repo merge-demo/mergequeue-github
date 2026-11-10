@@ -6061,7 +6061,7 @@ amaist
 afounde
 agism
 aposaturn
-affiances
+affiances 1
 aretalogy 1
 agists
 agit
