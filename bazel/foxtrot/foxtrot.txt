@@ -4128,7 +4128,7 @@ fiorin
 fusiladed
 fiorite
 flamberg
-foreseen
+foreseen 1
 falsehoods
 fornenst
 faff
