@@ -5667,7 +5667,7 @@ fragility
 frumenties
 fibrine
 freckles
-funeration
+funeration 1
 forbearant
 finite
 flancards
