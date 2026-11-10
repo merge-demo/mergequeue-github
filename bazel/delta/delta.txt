@@ -6927,7 +6927,7 @@ diplegia
 diarthroses
 dunamis
 dehydrogenating
-despairfully
+despairfully 1
 delphinid
 deaconize
 despairing
