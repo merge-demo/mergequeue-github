@@ -2026,7 +2026,7 @@ gauzy
 galatae
 goitrogenicity 1
 groof
-gainsayers
+gainsayers 1
 glacon
 gonna
 giggly
