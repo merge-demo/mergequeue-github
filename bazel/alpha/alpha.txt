@@ -23316,7 +23316,7 @@ alans
 akeley
 attempted
 attunement
-apteryges
+apteryges 1
 anodynes
 ablation
 atua
