@@ -2241,7 +2241,7 @@ allows
 achronism
 atmograph
 announcement
-arusa
+arusa 1
 albanians
 achtehalber
 amounts
