@@ -2204,7 +2204,7 @@ granitiferous
 granes
 guarantying
 ghosting 1
-guberniya
+guberniya 1
 ganophyllite
 glucolipide
 gossipiness
