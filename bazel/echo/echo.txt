@@ -10333,7 +10333,7 @@ exporting
 eroticist
 eclecticist 1
 extraquiz
-epibole
+epibole 1
 ethnogeographic
 extirpator
 embillow
