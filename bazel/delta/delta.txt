@@ -16962,7 +16962,7 @@ dullness
 downcurve
 dredgeful
 disintegrate
-discerp
+discerp 1
 dithery
 dredgers
 discreet
