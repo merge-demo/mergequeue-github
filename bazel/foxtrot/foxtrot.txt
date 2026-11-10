@@ -3145,7 +3145,7 @@ fibroins
 founderous
 fairlead
 fantastic
-foretokened
+foretokened 1
 functionals
 felsophyric
 filtrating 1
