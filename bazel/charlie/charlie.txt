@@ -25991,7 +25991,7 @@ coppled
 coscet
 coscinomancy
 chn
-cose
+cose 1
 capsized
 creatorrhea
 cranioscopical
