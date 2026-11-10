@@ -18409,7 +18409,7 @@ arauan
 araucanian
 araucaria
 anarchize
-assoluto
+assoluto 1
 araucariaceae
 actions
 araucarioxylon
