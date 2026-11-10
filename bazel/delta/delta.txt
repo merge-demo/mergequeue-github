@@ -10429,7 +10429,7 @@ diphenylamine
 diphenylaminechlorarsine
 diervilla
 diphenylchloroarsine
-diphenylene
+diphenylene 1
 despend
 diphenylenimine
 ditcher
