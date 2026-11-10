@@ -7816,7 +7816,7 @@ fablers
 fibromyomectomy
 florette
 fluidimeter
-fashes
+fashes 1
 frounces
 forenote
 fastness

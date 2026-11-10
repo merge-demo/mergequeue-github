@@ -15847,7 +15847,7 @@ dorsolumbar
 deliberators
 dankly 1
 dynastes
-deputise
+deputise 1
 detent
 deputyship
 dorsopleural

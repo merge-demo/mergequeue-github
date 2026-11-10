@@ -12696,7 +12696,7 @@ errantries
 eligible
 emunctory
 ecliptically
-esotericist
+esotericist 1
 erie
 emparadise
 electromyographical
