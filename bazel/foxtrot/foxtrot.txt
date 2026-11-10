@@ -6121,7 +6121,7 @@ floccilation
 flounced
 flounder
 frowardness
-faraway
+faraway 1
 faciata
 flourish
 fermion
