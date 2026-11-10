@@ -18626,7 +18626,7 @@ ceroma
 coinhabitor
 chausses
 coinhered
-coinherence
+coinherence 1
 concubinehood
 catjang
 coinheritor
