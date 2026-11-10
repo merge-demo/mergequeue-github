@@ -8112,7 +8112,7 @@ bloodhound
 bidiagonal
 balsamodendron
 bidimensional
-binucleate
+binucleate 1
 barble
 befouls
 biding
