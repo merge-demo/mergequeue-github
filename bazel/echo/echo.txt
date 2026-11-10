@@ -338,7 +338,7 @@ enclaret
 encephalograph
 estops
 eastre
-extents
+extents 1
 enturret
 empresse 1
 embleming
