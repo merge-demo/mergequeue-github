@@ -2613,7 +2613,7 @@ glamourization
 gesticular
 grisette
 gowf 1
-glossolabial 1
+glossolabial 2
 geiger
 goutte
 garabato

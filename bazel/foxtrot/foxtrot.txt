@@ -11431,7 +11431,7 @@ fettering
 forebemoaned
 founte
 fortunetell
-fallibleness
+fallibleness 1
 formfeed
 frizers
 frigidarium
