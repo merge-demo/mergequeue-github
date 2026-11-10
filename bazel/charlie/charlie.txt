@@ -28714,7 +28714,7 @@ creole
 creolian
 creolism
 carposporangium
-creolite
+creolite 1
 cyclanthales
 creolized
 creolizing
