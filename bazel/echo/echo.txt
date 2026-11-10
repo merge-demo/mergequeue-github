@@ -4150,7 +4150,7 @@ eiffel
 ensheathed
 every
 etymologically
-endurability
+endurability 1
 entombments
 eniac
 emplunge

@@ -6400,7 +6400,7 @@ cauterisation
 couche
 cauterise 1
 collision
-cauterising
+cauterising 1
 cloudland
 cauterism
 carafe
