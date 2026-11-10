@@ -9848,7 +9848,7 @@ grousers
 gorillas
 geckotidae
 guajillo
-gallicism
+gallicism 1
 gongoresque 1
 gips
 grousy
