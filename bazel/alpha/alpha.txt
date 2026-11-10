@@ -769,7 +769,7 @@ acer
 aepyornis
 ascites
 annats
-abreast
+abreast 1
 archenteric
 acratia
 abreed
