@@ -6213,7 +6213,7 @@ euryhaline
 exaspidean
 esker
 ennobling
-embarren
+embarren 1
 ensteel
 ectosarcous
 exterritorialize
