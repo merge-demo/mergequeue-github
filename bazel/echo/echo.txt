@@ -4463,7 +4463,7 @@ econometrically
 encarnalizing
 encarpa
 encarpium
-encarpus
+encarpus 1
 endrin
 enworthy
 entirely
