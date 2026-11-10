@@ -5665,7 +5665,7 @@ depigmentate
 depigmentation
 depigmentize
 dissidence
-devilized
+devilized 1
 dynamite
 distracts
 disembosom
