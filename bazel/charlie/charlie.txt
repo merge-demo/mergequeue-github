@@ -7340,7 +7340,7 @@ cephalization
 cephaloauricular
 cephalobranchiata
 chelicera
-cerusites
+cerusites 1
 carneys
 carks
 comnenian

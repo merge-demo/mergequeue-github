@@ -15133,7 +15133,7 @@ acquirers
 antiejaculation
 alterants
 allotrope
-apsidal
+apsidal 1
 acrothoracica
 antiemetic
 antiempiric
