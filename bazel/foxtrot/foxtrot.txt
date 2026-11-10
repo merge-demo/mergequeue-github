@@ -9523,7 +9523,7 @@ furcilia
 flitches
 farcinoma
 flawn
-freaks
+freaks 1
 fatiguingly
 forested
 forfear
