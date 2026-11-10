@@ -11154,7 +11154,7 @@ aquatinting
 avolation
 amphibole
 alkide
-addictive
+addictive 1
 analgesis
 aromatizer
 adsorb
