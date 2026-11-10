@@ -18251,7 +18251,7 @@ blepharospasm
 bepat
 bete
 bivouacs
-bordun
+bordun 1
 backflip
 butterman
 bootblacks
