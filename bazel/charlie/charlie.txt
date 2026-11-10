@@ -25755,7 +25755,7 @@ corrivalry
 corrivalship
 corrivate
 corrivation
-corrive
+corrive 1
 counterswing
 continuate
 corroboration
