@@ -11278,7 +11278,7 @@ friskets
 furbish
 functionalizing
 flaxwife
-frigorify
+frigorify 1
 foregut
 femmes
 fogy
