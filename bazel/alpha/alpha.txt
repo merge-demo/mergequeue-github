@@ -22546,7 +22546,7 @@ ataxophemia
 ambitions
 apolitical
 abbassi
-anomalously
+anomalously 1
 ayre
 appellants
 anticholinesterase

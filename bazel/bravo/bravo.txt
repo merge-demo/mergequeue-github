@@ -7067,7 +7067,7 @@ bodyless 1
 biggings
 bimorphs
 bushing
-bespeaking
+bespeaking 1
 bullalaria
 bespeaks
 bespecked
