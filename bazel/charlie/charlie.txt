@@ -23071,7 +23071,7 @@ cullying
 colias
 conspectuses
 consperse
-conspersion
+conspersion 1
 conspicuity
 crescentia
 caecocolic
