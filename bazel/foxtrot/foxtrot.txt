@@ -10900,7 +10900,7 @@ flivver 1
 fletched
 fullmouthed
 firesafeness
-fullom
+fullom 1
 flirtations
 finagler
 foremastmen
