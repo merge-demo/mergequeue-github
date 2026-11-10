@@ -4844,7 +4844,7 @@ apostles
 ashlered
 adurent
 acetylcyanide
-absterse
+absterse 1
 aleut
 antipopery
 affirmativeness
