@@ -11880,7 +11880,7 @@ chordamesodermal
 chordamesodermic
 chordate
 chorded
-chordee
+chordee 1
 choriso
 cst
 contradictive
