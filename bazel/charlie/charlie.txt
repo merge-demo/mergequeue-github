@@ -17116,7 +17116,7 @@ carduus
 coadjutorship
 coadjutress
 coadjutrix
-coadjuvate
+coadjuvate 1
 crasser
 coadminister
 civic
