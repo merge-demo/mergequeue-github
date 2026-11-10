@@ -4954,7 +4954,7 @@ admonitioner
 antepalatal
 aerolithology
 aerolitic
-aerological
+aerological 1
 antepartum
 aeromancer
 anthonomus
