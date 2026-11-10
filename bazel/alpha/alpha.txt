@@ -22469,7 +22469,7 @@ astrophotometer
 astroscopy
 autocratorical
 astroscopus
-astrospectral
+astrospectral 1
 acrasiaceae
 adversion
 astrotheology
