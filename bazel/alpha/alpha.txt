@@ -23790,7 +23790,7 @@ atheistic
 antimallein
 austereness
 afterguns
-asks
+asks 1
 apposite
 astraeid
 auxetical
