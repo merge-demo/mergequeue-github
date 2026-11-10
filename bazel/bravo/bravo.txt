@@ -1302,7 +1302,7 @@ balanorrhagia
 balanta
 bescorn
 bottine
-balantidic
+balantidic 1
 balaos
 baroquely
 benzamino
