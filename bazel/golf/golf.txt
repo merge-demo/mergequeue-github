@@ -622,7 +622,7 @@ gazophylacium
 gemmiparously
 glassed
 gnaphalioid
-gallisin
+gallisin 1
 gunslingers
 gillie
 geophysicist
