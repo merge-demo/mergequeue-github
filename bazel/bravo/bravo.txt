@@ -12633,7 +12633,7 @@ betided
 belluine
 bushgoats
 bewrite
-beaklike
+beaklike 1
 bloodlessly
 bewrayed
 birdied
