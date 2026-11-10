@@ -1018,7 +1018,7 @@ flexuose
 flatlong
 fumosity
 feverweed
-fretful
+fretful 1
 federalese
 filicornia
 fragmentalize
