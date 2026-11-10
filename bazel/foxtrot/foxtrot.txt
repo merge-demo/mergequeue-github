@@ -4519,7 +4519,7 @@ fabulist
 fingernails
 filleul 1
 fuddles
-francophobia
+francophobia 1
 flagging
 favissa
 farmlands

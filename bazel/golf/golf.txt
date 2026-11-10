@@ -6563,7 +6563,7 @@ grandaddy
 genesiac
 gpcd
 glaziest
-gemminess
+gemminess 1
 ganowanian
 gnatty
 grovelingly
