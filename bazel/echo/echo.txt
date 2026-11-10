@@ -4031,7 +4031,7 @@ emphysema
 endobronchitis
 emphyteutic
 emolumentary
-explantation
+explantation 1
 endhand
 erosionally
 emendatory
