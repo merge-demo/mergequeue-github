@@ -632,7 +632,7 @@ eclating
 excitancy
 etymonic
 ellipses
-eozoonal
+eozoonal 1
 earful
 excruciatingness
 empiricist
