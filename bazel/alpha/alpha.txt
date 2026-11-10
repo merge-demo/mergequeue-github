@@ -9010,7 +9010,7 @@ amuses
 allothogenic
 astrakanite
 angora
-allotypes
+allotypes 1
 annotates
 acidified
 anthroropolith
