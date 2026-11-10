@@ -7299,7 +7299,7 @@ efferous
 explodent
 exoascaceae
 ejicient
-enclitics
+enclitics 1
 exlex
 elechi
 engird
