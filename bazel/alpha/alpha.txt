@@ -12633,7 +12633,7 @@ advene
 allochroite
 algosis
 aneurisms
-arithmetician
+arithmetician 1
 anfract
 ameliorating
 anfractuose
