@@ -10602,7 +10602,7 @@ cubic
 contract
 conservatoire
 corybantic
-cosmopolis
+cosmopolis 1
 campanology
 colleterium
 chilomastix
