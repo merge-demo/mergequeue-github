@@ -12462,7 +12462,7 @@ dishwashers
 dichlone
 distemperature 1
 demonstrant
-dishwashings
+dishwashings 1
 dibromobenzene
 doglegged
 dard
