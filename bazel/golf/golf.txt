@@ -4792,7 +4792,7 @@ gizz
 gorgoniaceous
 gentlewomanly
 gizzard
-glimmerings
+glimmerings 1
 gizzern
 glycogenize
 gjedost
