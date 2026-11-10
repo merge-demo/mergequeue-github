@@ -9022,7 +9022,7 @@ grasswidow
 ghent
 gneissose
 geog
-gobletful
+gobletful 1
 gnathophorous
 gravenstein
 galvanothermy
