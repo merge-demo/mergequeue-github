@@ -10018,7 +10018,7 @@ deinos
 dimple
 diplomas
 dimpled
-deputised
+deputised 1
 dessertspoonfuls
 dimplement
 dorosoma
