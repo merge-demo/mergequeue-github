@@ -11722,7 +11722,7 @@ flighty
 fawnskin
 flagellator
 folkland
-fantastically
+fantastically 1
 feudalised
 forecool
 futurition
