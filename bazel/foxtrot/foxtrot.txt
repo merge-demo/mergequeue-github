@@ -2875,7 +2875,7 @@ forestair
 fibrillose
 faeries
 forepreparation
-ferlies
+ferlies 1
 fetterlock
 flatfish
 forewing
