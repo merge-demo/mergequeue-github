@@ -4562,7 +4562,7 @@ clapperdudgeon
 carnied
 carniferrin
 colorcast
-carnifex
+carnifex 1
 carnifexes
 cationic
 carnification
