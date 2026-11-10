@@ -11977,7 +11977,7 @@ enteromesenteric
 epistemophilic
 evaporation
 epiploon
-excitations
+excitations 1
 escapes
 eastbound
 eulogists
