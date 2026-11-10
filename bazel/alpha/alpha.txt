@@ -12791,7 +12791,7 @@ annelid
 angioma
 angiomalacia
 angiomas
-acquits
+acquits 1
 anoestrous
 angiomyosarcoma
 airbrushed
