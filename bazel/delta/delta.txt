@@ -1010,7 +1010,7 @@ daneball
 darkens
 disruptions
 deformeter
-digest
+digest 1
 daffling
 dypnone
 dolorimetric
