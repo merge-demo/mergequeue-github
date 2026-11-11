@@ -3739,7 +3739,7 @@ bastile
 batlan
 bukshi
 battologising
-battologize
+battologize 1
 bronchiocele
 beardom
 bookmaking
