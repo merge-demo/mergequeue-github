@@ -11054,7 +11054,7 @@ fangless
 flycatcher
 frictionizing
 funambulatory 1
-funambule
+funambule 1
 fondaco
 fedia
 flamenship
