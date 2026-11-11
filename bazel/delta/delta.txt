@@ -4234,7 +4234,7 @@ distaffs
 delphocurarine
 dermatopsy
 decoherer
-dels
+dels 1
 djelfa
 dumpy
 delsartian
