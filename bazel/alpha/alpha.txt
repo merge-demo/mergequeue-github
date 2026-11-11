@@ -12905,7 +12905,7 @@ anthemwise
 antennarius
 antiliturgically
 anglomane
-awkward
+awkward 1
 acinetaria
 anglophilic
 autotype
