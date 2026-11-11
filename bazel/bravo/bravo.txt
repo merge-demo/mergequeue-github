@@ -5030,7 +5030,7 @@ babism
 beetrave 1
 bedunces
 bronzings
-beetroots
+beetroots 1
 becarve
 beeweed
 beewise 1
