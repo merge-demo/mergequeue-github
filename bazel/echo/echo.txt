@@ -10515,7 +10515,7 @@ electrometry
 effusing 1
 entreatingly
 euboean
-eubteria
+eubteria 1
 engelmann
 embezzlers
 endaortic
