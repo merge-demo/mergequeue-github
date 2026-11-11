@@ -5281,7 +5281,7 @@ endoproctous
 elutor
 endopterygota
 errorist
-exudatory
+exudatory 1
 endoradiosonde
 extract
 exfiguration
