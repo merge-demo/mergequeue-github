@@ -7808,7 +7808,7 @@ frondivorous
 fleshiest
 feedboxes
 feronia
-fossilizing
+fossilizing 1
 forenoons
 fibrilla
 fluxed
