@@ -4997,7 +4997,7 @@ flibbertigibbety 1
 figbird
 foundationally
 fleetingness
-fettle
+fettle 1
 flood
 faured
 flaneurs
