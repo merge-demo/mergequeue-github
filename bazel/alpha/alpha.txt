@@ -23394,7 +23394,7 @@ adient
 antimephitic
 antefix
 almanacs
-arteriopathy
+arteriopathy 1
 angelique 1
 aigialosaur
 acclimatisable
