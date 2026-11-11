@@ -19852,7 +19852,7 @@ abthainry
 affenspalte
 armiferous
 agnoetism
-agnoetae
+agnoetae 1
 attributives
 abhenries
 armiger
