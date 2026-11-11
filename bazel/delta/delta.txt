@@ -9994,7 +9994,7 @@ decisiveness
 dermatographism
 dysacousma
 debriefs
-disopinion
+disopinion 1
 dimoric
 demigoddess
 dotardism
