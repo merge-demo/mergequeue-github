@@ -18031,7 +18031,7 @@ dullard
 debind
 dipotassium
 detrusor
-dullardness
+dullardness 1
 dullards
 donatories
 dolerite
