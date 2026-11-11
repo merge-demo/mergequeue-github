@@ -2807,7 +2807,7 @@ drypoints
 dari
 decresc
 desalination
-delphinus
+delphinus 1
 duodecahedron
 decrescent
 deknight
