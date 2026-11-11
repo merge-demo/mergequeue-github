@@ -8442,7 +8442,7 @@ aftercost
 abiegh
 alkalinized
 arite
-antilog
+antilog 1
 avogram
 anticausotic
 aschaffite
