@@ -25671,7 +25671,7 @@ correctiveness
 convincers
 coryphaenoid
 circumvolant
-correctory
+correctory 1
 chignon
 constitutive
 committals
