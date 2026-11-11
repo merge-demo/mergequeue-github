@@ -5883,7 +5883,7 @@ fates
 flexity
 feague
 fangas
-flinted
+flinted 1
 forehear
 ferrichloride
 furnishings
