@@ -8283,7 +8283,7 @@ boundingly
 bremia
 bewrayer
 besnuff
-bigeminies
+bigeminies 1
 betelnuts
 boers
 bourtrees
