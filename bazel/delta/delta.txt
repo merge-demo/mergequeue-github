@@ -16604,7 +16604,7 @@ darkhearted
 dragonfishes
 didelph
 dragonflies
-deprecated
+deprecated 1
 didelphian
 dragonhood
 downily
