@@ -6501,7 +6501,7 @@ cavernously
 cavernulous
 caves
 cavetti
-calusar
+calusar 1
 conchie
 cavy
 cavia
