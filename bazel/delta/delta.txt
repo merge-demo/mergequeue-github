@@ -4286,7 +4286,7 @@ dumpish
 delusively
 deporting
 dichotomous 1
-digallate
+digallate 1
 designatory
 delustering
 deceleration
