@@ -12010,7 +12010,7 @@ disenchantress
 depluming
 difforme
 disencharm
-doctrix
+doctrix 1
 disenclose
 daint
 diammine
