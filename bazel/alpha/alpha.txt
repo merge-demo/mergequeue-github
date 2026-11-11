@@ -6169,7 +6169,7 @@ agnize
 abmodality
 affranchised
 anthropocentrically
-antapoplectic
+antapoplectic 1
 antiinstitutionalists
 ataxiaphasia
 autodidact
