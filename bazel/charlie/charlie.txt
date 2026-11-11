@@ -22549,7 +22549,7 @@ clammish
 counterbid
 conking
 conn
-connaraceous
+connaraceous 1
 connascency
 connate
 connately
