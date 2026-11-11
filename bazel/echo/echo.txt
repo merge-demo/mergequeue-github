@@ -7074,7 +7074,7 @@ enumerability
 entry
 epris 1
 expansionary
-exemptile
+exemptile 1
 earthfast
 experiencer
 enumeration
