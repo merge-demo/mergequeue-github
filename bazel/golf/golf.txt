@@ -2783,7 +2783,7 @@ gristly
 gabies
 gangwayed
 governably
-glassie
+glassie 1
 gelee
 gantlope
 goblets
