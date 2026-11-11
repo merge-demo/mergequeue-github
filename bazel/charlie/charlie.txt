@@ -16718,7 +16718,7 @@ characterful
 cloture
 clotured
 clotures
-confixed
+confixed 1
 coachee
 cloturing
 candidate
