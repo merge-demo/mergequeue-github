@@ -2590,7 +2590,7 @@ exclaimed
 ecad
 encyclopaedian
 electrodiagnoses
-entrenched
+entrenched 1
 electrobrasser
 entertainable
 etua
