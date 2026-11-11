@@ -12673,7 +12673,7 @@ angela
 artemis
 anthodium
 arsenicize
-ameliorated
+ameliorated 1
 abroad
 angelate
 angeleen
