@@ -14427,7 +14427,7 @@ depreciatory
 demeter 1
 diversory
 disfiguringly
-dressmaker
+dressmaker 1
 dimethylamine
 divert
 dioptrometer
