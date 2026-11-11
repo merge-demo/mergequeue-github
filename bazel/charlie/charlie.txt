@@ -6480,7 +6480,7 @@ cycadlike
 caveator
 choaty
 caveators
-compares
+compares 1
 crankly
 canell
 cupholder
