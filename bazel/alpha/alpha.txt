@@ -8964,7 +8964,7 @@ angelocracy
 auxiliatory
 allophanamid
 allophanate
-allophanates
+allophanates 1
 allophanic
 acredula
 antiscians
