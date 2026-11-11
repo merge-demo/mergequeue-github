@@ -791,7 +791,7 @@ delirament
 dissections
 diapsidan
 dandruffs
-dialytic
+dialytic 1
 discussment
 debile
 daubers
