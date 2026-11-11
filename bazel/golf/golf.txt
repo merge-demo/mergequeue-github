@@ -5145,7 +5145,7 @@ goldylocks
 gyps
 glaucophanite
 goldcrest
-gimpiest
+gimpiest 1
 gallinaginous
 guerdon 1
 gammick
