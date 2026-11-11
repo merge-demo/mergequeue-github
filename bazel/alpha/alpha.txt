@@ -6606,7 +6606,7 @@ alectoriae
 anchoresses
 aphroditeum
 antsy
-aiglets
+aiglets 1
 affirms
 aigre
 abbatial
