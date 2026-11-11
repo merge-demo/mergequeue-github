@@ -854,7 +854,7 @@ gonolobus
 gyratory
 garewaite
 gloriousness
-gemologies
+gemologies 1
 greeing
 gastromyxorrhea
 gire
