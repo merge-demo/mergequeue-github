@@ -4896,7 +4896,7 @@ dissimilation
 dissecting
 discreditableness
 dishmonger 1
-discage
+discage 1
 diluting
 deigns
 diminuendo
