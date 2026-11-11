@@ -20651,7 +20651,7 @@ adderwort
 albumen
 arthrospore 1
 arthrostome
-arthrostomy
+arthrostomy 1
 arthrotyphoid
 amputative
 azimide
