@@ -7823,7 +7823,7 @@ broose
 bibelot
 balneography
 botchka
-bearable
+bearable 1
 bibelots
 bibenzyl
 bookers
