@@ -9472,7 +9472,7 @@ gaseously
 griffonne
 gabled
 glandulosity
-genitalial
+genitalial 1
 glycose
 gladiate
 glossy
