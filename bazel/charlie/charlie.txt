@@ -8955,7 +8955,7 @@ cataphasia
 chargeful
 chargehouse
 chargeless
-charger
+charger 1
 charges
 charybdian
 crankman
