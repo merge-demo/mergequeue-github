@@ -10518,7 +10518,7 @@ amidoguaiacol
 awabakal
 automacy
 apprentice
-attacks
+attacks 1
 aromatites
 abusing
 articled
