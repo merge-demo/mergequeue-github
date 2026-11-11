@@ -6350,7 +6350,7 @@ causers
 causes 1
 cgm
 crimison
-causeuses
+causeuses 1
 cannellated
 causewaying
 clubfeet 1
