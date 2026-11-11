@@ -9120,7 +9120,7 @@ chartering
 charterism
 charterless
 chartermaster
-charters
+charters 1
 cryptograms
 cindered
 chartist
