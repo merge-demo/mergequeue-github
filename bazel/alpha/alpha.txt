@@ -11190,7 +11190,7 @@ apian
 amphicarpogenous
 amphichroic
 asharasi
-arbustum
+arbustum 1
 amphichrom
 agitable
 apocryphal
