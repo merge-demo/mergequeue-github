@@ -7492,7 +7492,7 @@ globulousness
 geostrategic
 gaet
 galilean
-gelatinizable
+gelatinizable 1
 gastromenia
 griffade
 gavelmen
