@@ -10015,7 +10015,7 @@ dactylioglyphtic
 declaiming
 dreaming
 deinos
-dimple
+dimple 1
 diplomas
 dimpled
 deputised
