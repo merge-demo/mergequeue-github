@@ -20518,7 +20518,7 @@ accentless
 amnesty
 airfreight
 arteriospasm
-arteriostenosis
+arteriostenosis 1
 admix
 arteriotrepsis
 agyria
