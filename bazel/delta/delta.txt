@@ -3620,7 +3620,7 @@ degenerateness
 degenerescence
 diammonium
 degeneroos
-degerm
+degerm 1
 donnish
 degerminate 1
 doated
