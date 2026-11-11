@@ -3219,7 +3219,7 @@ antennary
 abstersion
 aphis
 ashlar
-actuating
+actuating 1
 alpist
 activation
 azaserine
