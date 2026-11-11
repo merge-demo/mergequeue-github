@@ -11318,7 +11318,7 @@ chloroformate
 churched
 collarinos
 chalcophanite
-chloroformic
+chloroformic 1
 conged
 cubica
 chromicizing
