@@ -9406,7 +9406,7 @@ endeavor
 expection
 electroretinographic
 enstool
-echeneid
+echeneid 1
 escaper
 embodied
 enfranchiser
