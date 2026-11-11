@@ -4322,7 +4322,7 @@ forequarters
 fluyt
 factive
 fet
-flamethrower
+flamethrower 1
 funditor
 fructiferousness
 fretworked

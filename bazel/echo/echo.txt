@@ -8854,7 +8854,7 @@ enkernel
 ecospecifically
 esthesiometer
 earshots
-eremuri
+eremuri 1
 ethnoflora
 enerve
 escharoid
