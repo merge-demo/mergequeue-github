@@ -296,7 +296,7 @@ gynaecian
 gargoylism
 gaminesque
 gaist
-gulpingly
+gulpingly 1
 giles
 grantsmanship
 galjoen
