@@ -9506,7 +9506,7 @@ calyciform
 checkery
 checkering
 consignifying
-cataphysical
+cataphysical 1
 checkerist
 collet
 clavola
