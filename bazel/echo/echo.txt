@@ -13182,7 +13182,7 @@ expiable
 excubitorium
 entailment
 embroil
-enties
+enties 1
 expiation
 ensilate
 expiational
