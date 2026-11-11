@@ -1294,7 +1294,7 @@ garefowl
 gyrene
 garetta
 gnawingly
-gargalize
+gargalize 1
 guttles
 grump
 gerendum
