@@ -8343,7 +8343,7 @@ dual
 decapodous
 droopingness
 diplois
-dejerate
+dejerate 1
 dargue
 daemonies
 disruptable
