@@ -9035,7 +9035,7 @@ euchring 1
 epicardiac
 epiphyll
 entria
-ephesine
+ephesine 1
 emlen
 endothermic
 exocyclic
