@@ -12393,7 +12393,7 @@ auk
 abnormally
 aloofe
 andrias
-acervuli
+acervuli 1
 anticourt
 anisotropic
 androclinia
