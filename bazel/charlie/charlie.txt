@@ -21583,7 +21583,7 @@ concutient
 crepitacula
 condemn
 convent
-condemnations
+condemnations 1
 chichimecan
 clour
 crustiness
