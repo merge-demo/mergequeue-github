@@ -4287,7 +4287,7 @@ ferdwit
 foreshortens
 foiblesse
 foreordains
-fendable
+fendable 1
 fastuous
 firk
 febrifuges
