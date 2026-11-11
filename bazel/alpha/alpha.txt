@@ -17606,7 +17606,7 @@ adjoining
 appentice
 agrobiological
 adjudges
-adjudgeable
+adjudgeable 1
 antimask
 antiphonical
 abdominales
