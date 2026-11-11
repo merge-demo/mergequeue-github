@@ -12234,7 +12234,7 @@ chrysoprase
 chrysoprasus
 chasmic
 counteradvice
-chrysops
+chrysops 1
 casement
 chrysopsis
 crispy
