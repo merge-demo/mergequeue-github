@@ -8586,7 +8586,7 @@ fullfil
 fissionable
 fungating
 farmsteading
-forninst
+forninst 1
 fricative
 flexor
 firedragon
