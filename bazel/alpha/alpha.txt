@@ -9821,7 +9821,7 @@ amante
 allured
 agonized
 airbrush
-amma
+amma 1
 antihormone
 agst
 assubjugate
