@@ -6574,7 +6574,7 @@ gastropod
 ghettos
 grassant
 grouplet
-grappas
+grappas 1
 glottalization
 ground
 grabblers
