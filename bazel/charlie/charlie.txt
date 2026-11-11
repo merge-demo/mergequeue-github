@@ -11541,7 +11541,7 @@ cholagogic
 cholalic
 comments
 coquimbite
-cliseometer
+cliseometer 1
 cavers
 cholam
 cobbiest
