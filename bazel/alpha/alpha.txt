@@ -16724,7 +16724,7 @@ auburn
 annunciated
 atees
 arrestee
-aphasiacs
+aphasiacs 1
 aphasics
 affrayer
 ambience
