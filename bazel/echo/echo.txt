@@ -5288,7 +5288,7 @@ exfiguration
 embryotrophy
 espinillo
 etaerio
-exactor
+exactor 1
 entreatable 1
 evened
 editors
