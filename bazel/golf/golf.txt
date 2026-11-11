@@ -1056,7 +1056,7 @@ gangliomas
 ganglionate
 ganglionated
 gymnoconia
-glyceridic
+glyceridic 1
 gift
 gymnospermism
 gruffish
