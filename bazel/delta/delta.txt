@@ -11783,7 +11783,7 @@ debellate
 deoxidising
 discrested
 default
-dined
+dined 1
 dermutation
 discretion
 discretional
