@@ -2295,7 +2295,7 @@ eger
 encased
 egest
 ester
-equality
+equality 1
 enleagued
 electrifiers
 europasian
