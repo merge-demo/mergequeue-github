@@ -10926,7 +10926,7 @@ factorizing
 ferreiro
 fub
 foehn
-flexure
+flexure 1
 field
 fulminatory
 fetal
