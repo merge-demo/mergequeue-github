@@ -11832,7 +11832,7 @@ analkalinity
 anallagmatic
 anallantoidean
 acclimature
-amitoses
+amitoses 1
 antipedobaptist
 antisociality
 abas
