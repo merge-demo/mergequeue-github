@@ -7014,7 +7014,7 @@ forestress
 frescoist
 fictionistic
 fusees
-fichtelite
+fichtelite 1
 floriferousness
 finagled
 flagellate
