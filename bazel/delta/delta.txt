@@ -8314,7 +8314,7 @@ disabused
 disregardance
 diaguite
 dyak
-diaka
+diaka 1
 despeed
 dapper
 duskly
