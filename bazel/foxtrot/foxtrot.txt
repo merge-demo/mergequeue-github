@@ -7051,7 +7051,7 @@ floriparous
 francis
 floater
 fimbriae
-functioning
+functioning 1
 foodful
 fulfilled
 fribby
