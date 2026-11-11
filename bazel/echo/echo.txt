@@ -10686,7 +10686,7 @@ effetmen
 enterpriser
 expectoration
 enveloper
-extirpatory
+extirpatory 1
 eva
 euglenaceae
 extrasyllabic
