@@ -18189,7 +18189,7 @@ dasypeltis
 daniel
 dinucleotide
 dorsulum
-diereses
+diereses 1
 duncical
 delamination
 dharani
