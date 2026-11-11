@@ -7837,7 +7837,7 @@ dyothelism
 dwelling
 dil
 devour
-dorsad
+dorsad 1
 devourers
 discourseless
 dependently
