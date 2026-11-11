@@ -8779,7 +8779,7 @@ goosish
 gravel
 gazpachos
 globalize
-giantesses
+giantesses 1
 greensickness
 greenstone
 gimballing
