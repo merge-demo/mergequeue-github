@@ -7065,7 +7065,7 @@ galyaks
 genericalness
 grayly
 gliocyte
-gutturopalatal
+gutturopalatal 1
 gastrosoph
 gelidity
 groundplot
