@@ -8273,7 +8273,7 @@ geopolitist 1
 galenite
 glissaded
 groundless
-gladii
+gladii 1
 graphophone
 grossulariaceae
 graphophonic
