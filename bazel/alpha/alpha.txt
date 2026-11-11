@@ -18094,7 +18094,7 @@ acherontic
 abettal
 antereformation
 accounsel
-apokreos
+apokreos 1
 autotransfusion
 apulian
 artocarpus
