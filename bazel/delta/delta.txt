@@ -10172,7 +10172,7 @@ daddle
 demihigh
 dingeing
 dorsoventrally
-duraquara
+duraquara 1
 dinghee
 dinghies
 disple
