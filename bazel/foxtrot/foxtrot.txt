@@ -7955,7 +7955,7 @@ fluidifier
 formoxime
 foreshoe
 foreshortened 1
-fenerate
+fenerate 1
 fozier
 foreshot
 ficelle
