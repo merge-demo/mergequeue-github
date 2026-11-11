@@ -2796,7 +2796,7 @@ baconer
 bowsprits
 bureaus
 barites
-bolding
+bolding 1
 bell
 betulaceous
 baroqueness
