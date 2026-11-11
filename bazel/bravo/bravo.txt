@@ -510,7 +510,7 @@ backstreet
 blastophoric 1
 bombsights
 butomaceous
-backstroke
+backstroke 1
 beckoners
 bicentennial
 backstromite
