@@ -1270,7 +1270,7 @@ faineants
 fibroblast
 formicide
 flabbergasts
-figurine
+figurine 1
 foresaw
 fleys
 fertileness
