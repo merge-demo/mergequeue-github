@@ -14377,7 +14377,7 @@ aguelike
 auspicate
 anthony
 analysation
-acrostically
+acrostically 1
 amylodyspepsia
 aerometric
 anaphrodisia
