@@ -11727,7 +11727,7 @@ feudalised
 forecool
 futurition
 fashionably
-fratority
+fratority 1
 figurational
 futurologist
 fluorinations
