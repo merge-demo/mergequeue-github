@@ -10653,7 +10653,7 @@ amylom
 aquarid
 amyloplast
 appertaining
-amyloplastid
+amyloplastid 1
 antichronism 1
 adenase
 anteromedian
