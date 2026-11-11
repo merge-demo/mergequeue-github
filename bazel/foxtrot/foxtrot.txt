@@ -1258,7 +1258,7 @@ frostier
 fasti
 filariform
 foreordinated
-fermentative
+fermentative 1
 flutteringly
 farseeing
 figgier
