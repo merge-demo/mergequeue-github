@@ -198,7 +198,7 @@ daemons
 daemonurgist
 defecant
 dak
-deemstership
+deemstership 1
 dysgenic
 disciplinarianism
 daffadilly
