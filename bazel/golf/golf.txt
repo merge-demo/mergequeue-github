@@ -4614,7 +4614,7 @@ gloggs
 galbulae
 galipoipin
 gamboge
-gnaphalium
+gnaphalium 1
 gymnanthes
 gluttonism
 gnathobase
