@@ -14371,7 +14371,7 @@ dimensuration
 diuron
 demeaned
 dielytra
-doled
+doled 1
 diva
 divagated
 divagates
