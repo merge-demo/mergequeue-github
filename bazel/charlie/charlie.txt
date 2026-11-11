@@ -12261,7 +12261,7 @@ catnips
 circumconic
 compensative
 christed
-civilize
+civilize 1
 capilotade
 cresylite
 christen
