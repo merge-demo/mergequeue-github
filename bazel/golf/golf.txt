@@ -1867,7 +1867,7 @@ gulinulae
 gateposts 1
 gatewaying
 gatetender
-gawain
+gawain 1
 ghibellinism
 gallonage
 gill
