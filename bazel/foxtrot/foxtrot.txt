@@ -4397,7 +4397,7 @@ frenums
 fishbowls
 flexive
 forky
-fisheyes
+fisheyes 1
 forecomingness
 fistify
 funiculitis
