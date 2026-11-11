@@ -13860,7 +13860,7 @@ cynics
 chainer
 councilwoman
 churoya
-cynipoid
+cynipoid 1
 cynism
 cyanocarbonic
 cinnabar
