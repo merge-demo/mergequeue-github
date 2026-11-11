@@ -26473,7 +26473,7 @@ catocalid
 cotripper
 cotrustee
 cottiform
-couther 1
+couther 2
 cots
 cephalomelus
 cotset
