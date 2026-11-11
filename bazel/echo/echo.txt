@@ -7178,7 +7178,7 @@ expirer
 equestrians
 enwheels
 enwinding
-elemis
+elemis 1
 entomoid
 emboltement
 enwing
