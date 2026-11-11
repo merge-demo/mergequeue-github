@@ -6721,7 +6721,7 @@ espundia
 endamebiasis
 entertainingly
 electrophysics
-entertainment
+entertainment 1
 endosepsis
 echimys
 epicenters
