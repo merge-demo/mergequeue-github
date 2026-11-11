@@ -6217,7 +6217,7 @@ clergies
 corbel
 corticifugal
 caudebeck
-caudex
+caudex 1
 caudices
 cassolette
 cystiferous
