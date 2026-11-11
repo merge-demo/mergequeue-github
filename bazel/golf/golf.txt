@@ -6439,7 +6439,7 @@ gocart
 giddypate
 girnie
 goburra
-glucidic
+glucidic 1
 graduates
 gregorian
 grandeeship
