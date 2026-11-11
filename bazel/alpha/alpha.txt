@@ -11255,7 +11255,7 @@ amphioxi
 amphioxuses
 assemblymen
 antistalling
-amphiplatyan
+amphiplatyan 1
 acknowledge 1
 amphiploidy
 ascicidia
