@@ -10409,7 +10409,7 @@ acanthophis
 arendator
 asuang
 actualizes
-adoring
+adoring 1
 abarticular
 amesite
 abamp
