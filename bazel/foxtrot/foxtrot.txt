@@ -7094,7 +7094,7 @@ forgeability
 fungicide
 foolproof
 foolproofness
-ferret
+ferret 1
 fibulare
 frocking
 filipinization
