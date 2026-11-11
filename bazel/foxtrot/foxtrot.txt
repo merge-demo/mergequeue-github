@@ -8953,7 +8953,7 @@ flimsily
 fountainous
 formularism
 factorize
-foolfishes
+foolfishes 1
 frenchy
 frisbee
 fusiformis
