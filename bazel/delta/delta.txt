@@ -8332,7 +8332,7 @@ datagram
 disenactment
 dialectal
 draftier
-duim
+duim 1
 darkishness
 damoclean
 ditrigonally
