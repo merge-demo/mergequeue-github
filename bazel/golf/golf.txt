@@ -4191,7 +4191,7 @@ gnathites
 gastroplication
 glaswegian 1
 gibbeted
-gelofre
+gelofre 1
 genealogy
 gollar
 gymnorhinal
