@@ -3810,7 +3810,7 @@ ammodytidae
 adiathermancy
 antioxidase
 alcoranist
-arcticologist
+arcticologist 1
 accipitrary
 acaridea
 adiathetic
