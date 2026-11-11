@@ -4678,7 +4678,7 @@ eremiteship
 enchoric
 encyclopedias
 ekoi
-entanglers
+entanglers 1
 exuberance
 entablement
 energico
