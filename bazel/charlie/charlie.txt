@@ -15599,7 +15599,7 @@ clathrulate
 clatter
 cartographers
 clattered
-coxcombries
+coxcombries 1
 countering
 clatterer
 crucifier
