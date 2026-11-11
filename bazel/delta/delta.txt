@@ -11030,7 +11030,7 @@ disclosable
 dhoti
 dumfound
 dobbers
-divides
+divides 1
 deanthropomorphic
 dialyphyllous
 disambiguating
