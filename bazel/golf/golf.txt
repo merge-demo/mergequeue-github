@@ -8298,7 +8298,7 @@ germanish
 graptolitha
 gheraoed
 gibers
-gambits
+gambits 1
 graspingly 1
 gutturalise
 gleets
