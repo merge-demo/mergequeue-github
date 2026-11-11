@@ -24530,7 +24530,7 @@ coetaneously
 copehan
 copeia
 copelata
-copeman
+copeman 1
 copemate
 copending
 colonialist
