@@ -4046,7 +4046,7 @@ glochidium
 galabiya
 georgium
 gesan
-galantuomo
+galantuomo 1
 greasier
 gilles
 gynostegium
