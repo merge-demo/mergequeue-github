@@ -9009,7 +9009,7 @@ aisle
 amuses
 allothogenic
 astrakanite
-angora
+angora 1
 allotypes
 annotates
 acidified
