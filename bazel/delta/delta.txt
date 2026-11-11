@@ -14257,7 +14257,7 @@ dither
 deductibles
 dyspnoeic
 diffiding
-deporter
+deporter 1
 depravers
 deisms
 downcrying
