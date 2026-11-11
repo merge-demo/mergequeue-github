@@ -17601,7 +17601,7 @@ bacteriostatically
 baseballs
 burggrave
 burghbote 1
-brandished
+brandished 1
 bristling
 burgherage
 beguine
