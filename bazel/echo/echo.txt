@@ -7039,7 +7039,7 @@ enactory
 embellished
 epiphenomenon
 eundem
-emote
+emote 1
 entrapping
 entrustment
 eurygaea
