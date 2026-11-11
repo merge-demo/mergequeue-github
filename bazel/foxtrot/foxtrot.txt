@@ -3664,7 +3664,7 @@ furlana
 frangula
 franchisee
 fannier
-foregoneness
+foregoneness 1
 fanes
 frayn
 fulfilment
