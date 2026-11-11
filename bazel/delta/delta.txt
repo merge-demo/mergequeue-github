@@ -3611,7 +3611,7 @@ dinornithiformes
 degenerate 1
 desulphurizer
 diagrammatize
-diodont
+diodont 1
 docosane
 deprecatorily
 dragonhead
