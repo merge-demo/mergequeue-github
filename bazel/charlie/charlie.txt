@@ -18169,7 +18169,7 @@ cancerin
 counterleague
 careeners
 cutset
-coesites
+coesites 1
 coessential
 conversional
 convivialist
