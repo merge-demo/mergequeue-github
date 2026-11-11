@@ -22762,7 +22762,7 @@ arras
 antispast
 atimon
 asthenobiotic
-advantageousness
+advantageousness 1
 attainture
 atypy
 ashame
