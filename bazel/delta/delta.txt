@@ -3992,7 +3992,7 @@ deleaded
 delectability
 dampang
 decides
-disintensify
+disintensify 1
 duplex
 devitalise
 deputized
