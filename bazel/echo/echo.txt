@@ -13203,7 +13203,7 @@ elicited
 elapinae
 emphatically
 embale
-expires
+expires 1
 earthworms
 esteemable
 expressivity
