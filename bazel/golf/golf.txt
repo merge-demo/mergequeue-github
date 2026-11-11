@@ -2794,7 +2794,7 @@ gemeinde
 gamphrel
 gaunt
 growling
-gimmor
+gimmor 1
 gascoigny
 greatcoat
 gyro
