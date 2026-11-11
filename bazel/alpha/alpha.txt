@@ -9045,7 +9045,7 @@ anurans
 allotted
 ague
 anticheater
-alpid
+alpid 1
 arrogantly
 allotter 1
 allottery
