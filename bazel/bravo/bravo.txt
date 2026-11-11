@@ -634,7 +634,7 @@ blaffert
 bacteriophagy
 bacteriopsonin
 butting
-bendable
+bendable 1
 barfing
 bellwethers
 butchering
