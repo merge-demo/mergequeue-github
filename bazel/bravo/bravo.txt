@@ -7581,7 +7581,7 @@ breed
 bewhore
 bewidow
 bulldozers
-boke
+boke 1
 breaming 1
 bemad
 barbudos
