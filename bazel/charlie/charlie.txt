@@ -564,7 +564,7 @@ convito
 cadmium
 crabsidle
 cadmiumize
-cadmiums
+cadmiums 1
 christianography
 cadre
 cyanomaclurin
