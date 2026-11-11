@@ -8360,7 +8360,7 @@ bribed
 biddableness
 bitore
 besotted
-bigots
+bigots 1
 bombyxes
 bashawdom
 bigwig
