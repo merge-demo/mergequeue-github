@@ -12966,7 +12966,7 @@ equipartile
 epicyclical
 excommunicated
 expected
-eucharises
+eucharises 1
 embathe
 expectedness
 explode
