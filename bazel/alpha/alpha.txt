@@ -1640,7 +1640,7 @@ accroaching
 anaclitic
 accroides
 accruable
-atty
+atty 1
 anatomism
 attribute
 accrual
