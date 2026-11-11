@@ -4726,7 +4726,7 @@ gallinula
 gynodioecism
 gymnasiast
 gumshoe
-glucosuria
+glucosuria 1
 grudgingly
 garnisheeing
 genista
