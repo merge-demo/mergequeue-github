@@ -10468,7 +10468,7 @@ cunni
 childed
 contaminations 1
 childes
-coronally
+coronally 1
 caph
 childish
 cogeneric
