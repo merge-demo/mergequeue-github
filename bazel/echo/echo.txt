@@ -10883,7 +10883,7 @@ edea
 empair
 esclandre
 exsolve
-exrupeal
+exrupeal 1
 emmetropia
 eutectic
 extensor
