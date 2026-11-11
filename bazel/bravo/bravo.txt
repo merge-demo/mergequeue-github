@@ -13710,7 +13710,7 @@ buffy
 bouse
 boused
 balija
-bouldery
+bouldery 1
 bouser 1
 bousouki
 bousoukia
