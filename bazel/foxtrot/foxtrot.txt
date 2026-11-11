@@ -752,7 +752,7 @@ fanatism
 fabricating
 farcilite 2
 flybelt
-frozenness
+frozenness 1
 fishgrass
 figurines
 fluxions
