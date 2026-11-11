@@ -216,7 +216,7 @@ antimiasmatic
 abbeystede
 appulses
 ardeb
-almanac
+almanac 1
 abbevillian
 abolishments
 acridyl
