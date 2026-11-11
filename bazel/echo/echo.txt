@@ -10874,7 +10874,7 @@ euphemising
 enshroud
 euphemistically
 euphemize
-eyebeam
+eyebeam 1
 enneapetalous
 euxine
 equilibrations
