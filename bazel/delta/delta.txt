@@ -7934,7 +7934,7 @@ didapper
 doublets
 delawarean
 dex
-dignify
+dignify 1
 democritean
 dresden
 dexes
