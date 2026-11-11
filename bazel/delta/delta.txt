@@ -701,7 +701,7 @@ dusio
 dolefish
 drynesses
 danaine
-danaite
+danaite 1
 detainer
 deltaic
 dragshoe
