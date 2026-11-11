@@ -29044,7 +29044,7 @@ cigarless
 cals
 criminologic
 criminological
-criminologically
+criminologically 1
 condylarthrosis
 cenatory
 criminologies
