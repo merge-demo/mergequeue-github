@@ -2442,7 +2442,7 @@ decimolar
 drainpipe 1
 diplacusis
 daker
-decimole
+decimole 1
 dangling
 diparentum
 danization
