@@ -17570,7 +17570,7 @@ burgality
 beaufort
 bouses
 blackpoll
-burgall
+burgall 1
 biddance
 burgamot
 bootjacks 1
