@@ -16154,7 +16154,7 @@ dovelike
 dephosphorization
 decadarch
 disconsolacy
-dovelikeness
+dovelikeness 1
 diminishments
 doo
 desecrate
