@@ -1618,7 +1618,7 @@ fretize
 fleaseed
 fellmongery
 fawners
-frowned
+frowned 1
 facet
 faxed
 futilities
