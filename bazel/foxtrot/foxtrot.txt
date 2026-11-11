@@ -11611,7 +11611,7 @@ formulizer
 fragilely
 fermata
 fustics
-fussbudget
+fussbudget 1
 fixable
 forint
 facsimile
