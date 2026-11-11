@@ -12022,7 +12022,7 @@ coronene
 choroidoretinitis
 choroids
 chorology
-cylloses
+cylloses 1
 coheres
 choromanic
 cajolers
