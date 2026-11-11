@@ -14197,7 +14197,7 @@ epulation
 endlong
 equidistance
 exurge
-exuscitate
+exuscitate 1
 enlists
 effecters
 enow
