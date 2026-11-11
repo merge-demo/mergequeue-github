@@ -6589,7 +6589,7 @@ ayenst
 aeromaechanic
 antibaryon
 albi
-americanumancestors
+americanumancestors 1
 annite
 actinometers
 anaesthesiology
