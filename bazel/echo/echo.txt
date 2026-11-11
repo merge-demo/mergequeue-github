@@ -13547,7 +13547,7 @@ epexegetic
 engl
 esociform
 evildoer
-exserted
+exserted 1
 empanoply
 embroidery
 eateries
