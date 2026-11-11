@@ -9277,7 +9277,7 @@ bipotentialities
 biprism
 burgaudine
 blackguardism
-biprong
+biprong 1
 baseball
 begloomed
 befit
