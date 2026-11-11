@@ -992,7 +992,7 @@ etymological
 edaphon
 ecchymotic
 expositors
-endorsing
+endorsing 1
 excel
 enquiring
 exorbital
