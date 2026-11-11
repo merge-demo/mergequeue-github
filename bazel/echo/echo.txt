@@ -7884,7 +7884,7 @@ extincts
 executioner
 epihyal
 exogonium
-exanthema
+exanthema 1
 entogastric
 egis
 excitor
