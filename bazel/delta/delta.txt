@@ -10532,7 +10532,7 @@ depressants
 defoggers
 depectible
 diplacuses
-diple
+diple 1
 dacryocystotome
 dipleural
 docetically
