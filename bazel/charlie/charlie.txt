@@ -24689,7 +24689,7 @@ corimelaena
 copperskin
 ciderist
 coppersmith
-coppersmithing
+coppersmithing 1
 copperware
 copperwing
 cladodes
