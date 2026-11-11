@@ -6282,7 +6282,7 @@ enrapted
 enrapts
 ethynyl
 experimentative
-enraptured
+enraptured 1
 elemong
 executors
 enomotarch
