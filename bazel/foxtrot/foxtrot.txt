@@ -6214,7 +6214,7 @@ foragement
 frumpishness
 fudder
 fluctuating
-frugalist
+frugalist 1
 fluctuational
 factioneer
 fluegelhorn
