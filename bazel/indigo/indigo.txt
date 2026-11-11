@@ -64,7 +64,7 @@ iabfg
 iabfyqc
 iabge
 iabh
-iabhft
+iabhft 1
 iabhwtckqicrdcp
 iabi
 iabiqp
