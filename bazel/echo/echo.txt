@@ -6388,7 +6388,7 @@ enshrined
 enshrinement
 embars
 enshrinements
-endovaccination
+endovaccination 1
 electrotyper
 ephebe
 expenseful
