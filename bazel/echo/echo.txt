@@ -8517,7 +8517,7 @@ equalises
 erectness
 executorial
 enwrapping
-enclave
+enclave 1
 ecuadoran
 exopterygote
 expressionist
