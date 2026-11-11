@@ -13610,7 +13610,7 @@ disservice
 decisteres
 durries
 dalai
-defeasanced
+defeasanced 1
 disservices
 disserving
 displacer
