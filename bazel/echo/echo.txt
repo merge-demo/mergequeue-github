@@ -13161,7 +13161,7 @@ endergonic
 eugenist 1
 ereptase
 ethnicize
-euryalus
+euryalus 1
 escapisms
 espiegleries
 earclip
