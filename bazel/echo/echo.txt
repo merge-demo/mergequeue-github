@@ -2380,7 +2380,7 @@ electrocolloidal
 edulcoration
 exhaustable
 electroconvulsive
-empoisonment
+empoisonment 1
 engorged
 exocone 1
 egoistic
