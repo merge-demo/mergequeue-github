@@ -11640,7 +11640,7 @@ alow
 archurger
 anacreontically
 athens
-anacrogynae
+anacrogynae 1
 amba
 anacrogynous
 accents
