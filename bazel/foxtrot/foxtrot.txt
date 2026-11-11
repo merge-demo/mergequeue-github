@@ -3968,7 +3968,7 @@ fruitcakey
 frenziedly
 frightfulness
 foreshown
-funneled
+funneled 1
 farcical
 follyproof
 fossil
