@@ -3366,7 +3366,7 @@ choicest
 chronographically
 celsius
 carrots
-capote
+capote 1
 cyclohexene
 capouches
 cappadocian
