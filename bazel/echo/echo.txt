@@ -10717,7 +10717,7 @@ endosmometer
 emplacement
 euhemerist
 erichthus
-encrease
+encrease 1
 emacerate
 emblazer
 ecologic
