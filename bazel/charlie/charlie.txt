@@ -2745,7 +2745,7 @@ clubhauling
 comedietta
 cannat
 canned
-cannel
+cannel 1
 coeno
 cannellate
 congruences
