@@ -26042,7 +26042,7 @@ cosher
 countermanded
 chestiness
 cupreine
-coshery
+coshery 1
 coshers
 cholralosed
 coshes
