@@ -9473,7 +9473,7 @@ alternamente
 aframerican
 antilocapridae
 ambilateral
-annotatory
+annotatory 1
 arabia
 allochetite
 alternate
