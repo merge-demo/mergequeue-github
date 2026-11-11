@@ -12156,7 +12156,7 @@ esclavage
 energise
 elasticin
 exuviating
-electroshock
+electroshock 1
 exploits
 ethnogeography
 etageres 1
