@@ -991,7 +991,7 @@ cypseline
 confiscating
 cuirie
 calamining
-calamint
+calamint 1
 cableway
 cheesed
 cordyl
