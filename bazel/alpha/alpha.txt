@@ -5324,7 +5324,7 @@ afflated
 anilao
 accra
 afflicter
-afflicting
+afflicting 1
 afflictingly
 afflictionless
 abranchian
