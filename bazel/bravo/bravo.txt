@@ -15706,7 +15706,7 @@ bamangwato
 bromethyl
 brob
 betorcin
-bolder
+bolder 1
 blithesomeness
 brocardic
 biaxially
