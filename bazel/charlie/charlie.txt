@@ -25468,7 +25468,7 @@ cornwall
 cornwallite
 cutdown
 corocleisis
-caricaturable
+caricaturable 1
 corody
 corodiary
 corodiastasis
