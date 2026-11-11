@@ -9785,7 +9785,7 @@ amalgamationist
 amalgamative
 amalgamatize
 amicabilities
-amperage
+amperage 1
 amalgamization
 anaphase
 amalic
