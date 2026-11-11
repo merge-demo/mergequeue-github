@@ -12341,7 +12341,7 @@ autoirrigation
 adipocerite
 americanism
 alkenna
-apolytikion
+apolytikion 1
 assiduous
 andesites
 archipresbyter
