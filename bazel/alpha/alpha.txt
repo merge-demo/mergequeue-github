@@ -307,7 +307,7 @@ acquiescent
 astoundment
 abdominous
 abduces
-articulate
+articulate 1
 ampullulae
 abducted
 abductions
