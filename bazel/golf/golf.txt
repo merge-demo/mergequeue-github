@@ -6071,7 +6071,7 @@ grane
 gnathopodite
 gneissic
 gasifying
-gruffiness
+gruffiness 1
 gemuetlich
 grizelin
 guly 1
