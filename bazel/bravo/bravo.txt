@@ -4566,7 +4566,7 @@ benzylpenicillin
 bemingles
 betrunk
 buckteeth
-buglewort
+buglewort 1
 bicellular
 backjaw
 bedarkening
