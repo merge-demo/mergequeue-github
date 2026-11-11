@@ -5102,7 +5102,7 @@ endearingly
 exemptible
 evertebrata
 emotiovascular
-endocarpal
+endocarpal 1
 egma
 extramarital
 egoistical
