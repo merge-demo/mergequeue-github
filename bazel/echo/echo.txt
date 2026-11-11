@@ -13463,7 +13463,7 @@ encopresis
 eatanswill
 emf
 elizabethanize
-expurgate
+expurgate 1
 equivocate
 ethionine
 equivocated
