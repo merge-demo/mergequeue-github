@@ -7681,7 +7681,7 @@ disenthronement
 deviately
 dramatical
 daddock
-depredable
+depredable 1
 deviation
 dementias
 deviationism
