@@ -8383,7 +8383,7 @@ iobbmklxtvs
 iobbnnyy
 iobcc
 iobcsl
-iobcz
+iobcz 1
 iobdvu
 iobe
 iobegp
