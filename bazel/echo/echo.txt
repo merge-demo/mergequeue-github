@@ -8747,7 +8747,7 @@ embryotrophic 1
 equivelocity
 encrotchet 1
 exuberated
-exteriorized
+exteriorized 1
 expatiator
 equivocal
 exuperable
