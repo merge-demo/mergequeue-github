@@ -10448,7 +10448,7 @@ guaiacs
 gittite 1
 gastronomically
 grimacing
-gladsomely
+gladsomely 1
 gummaking
 gjetost
 gallotannic
