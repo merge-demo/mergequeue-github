@@ -11093,7 +11093,7 @@ foulard
 functus
 furivae
 fessewise
-frostwork
+frostwork 1
 flatter
 functionalist
 fundamentalist
