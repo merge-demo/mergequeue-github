@@ -18234,7 +18234,7 @@ dhoolies
 dungarees
 dispirem
 dungas
-doghearted
+doghearted 1
 dungbeck
 demioctangular
 discussant
