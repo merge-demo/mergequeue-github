@@ -22857,7 +22857,7 @@ calamarian
 conservationism
 clype
 conservationists
-condensable
+condensable 1
 conservations
 chondromas
 chandoo
