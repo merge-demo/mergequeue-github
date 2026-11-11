@@ -4169,7 +4169,7 @@ cardiologist 1
 cardiologists
 cardiomegaly
 cyclus
-cardiomelanosis
+cardiomelanosis 1
 contradivide
 cholecystotomies
 cardiometer
