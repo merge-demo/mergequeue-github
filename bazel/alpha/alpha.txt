@@ -18700,7 +18700,7 @@ aretes
 alerts
 acetomorphin
 aloeroot
-applaud
+applaud 1
 archbuilder
 archchemic
 antiopelmous
