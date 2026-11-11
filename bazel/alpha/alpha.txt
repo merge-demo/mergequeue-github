@@ -7747,7 +7747,7 @@ alectoromorphous
 aldermanate
 aldermancy
 aldermaness
-archisphere
+archisphere 1
 aldermanical
 assistency
 aration
