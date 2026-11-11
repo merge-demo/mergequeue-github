@@ -10674,7 +10674,7 @@ chymify
 cobnuts
 confide
 cholinesterase
-chiminage
+chiminage 1
 chimla
 chimleys
 chain
