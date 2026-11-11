@@ -4643,7 +4643,7 @@ demipectinate
 denarius
 diswench
 demiscible
-dicebox
+dicebox 1
 denticulate
 demise
 demisecond
