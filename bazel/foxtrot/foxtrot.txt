@@ -2074,7 +2074,7 @@ foggara
 filibuster
 feudalisation
 famishes
-foremasthand
+foremasthand 1
 felicity
 fructidor
 fusibleness
