@@ -9403,7 +9403,7 @@ exactus
 entonic
 explainer
 endeavor
-expection
+expection 1
 electroretinographic
 enstool
 echeneid
