@@ -10550,7 +10550,7 @@ contort
 conter
 carports
 chiller
-confessionary
+confessionary 1
 comino
 corporational
 cotwist
