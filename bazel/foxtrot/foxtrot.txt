@@ -2733,7 +2733,7 @@ forelimbs 1
 fyce
 fraela
 folklore
-faunas
+faunas 1
 framing
 feedy
 fedity
