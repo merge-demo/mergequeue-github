@@ -16846,7 +16846,7 @@ abscissin
 aphthartodocetic
 acromonogrammatic
 aphthong
-arkite
+arkite 1
 admittedly
 apyrene
 anaerobe
