@@ -13898,7 +13898,7 @@ bankroll
 bodkinwise
 bacteriotherapy
 baccalaurean
-bowshot
+bowshot 1
 bulbaceous 1
 brainish
 bowshots
