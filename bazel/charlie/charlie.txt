@@ -3892,7 +3892,7 @@ carbonitride
 cincinatti
 countertranslation
 charmfulness
-carbonization
+carbonization 1
 carbonize
 charlatanism
 carbonizers
