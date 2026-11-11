@@ -2151,7 +2151,7 @@ guillermo
 gazette
 ginnet
 gumshoing
-goslet
+goslet 1
 gymnolaematous
 giunta
 gunships
