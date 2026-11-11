@@ -3439,7 +3439,7 @@ bastinado
 bastings
 bacteriopathology
 blepharopyorrhea
-badgerly
+badgerly 1
 bastions
 boughpot
 bef
