@@ -2758,7 +2758,7 @@ eighthly
 exprobate
 encoil
 excrescently
-ergastic
+ergastic 1
 erythropoiesis
 elegised
 elegising
