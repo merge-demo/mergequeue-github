@@ -2028,7 +2028,7 @@ endocrinotherapy
 epigaea
 erythrosine
 epitrophy
-encurl
+encurl 1
 exophasia
 elytrigerous
 emersion
