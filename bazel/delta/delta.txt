@@ -16845,7 +16845,7 @@ dozes
 depreciations
 dissyllabise
 diffidence
-demargarinate
+demargarinate 1
 disturnpike
 drawspring
 dispersible
