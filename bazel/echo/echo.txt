@@ -12259,7 +12259,7 @@ elegists
 extemporizer
 exegetics
 exing
-ecphorias
+ecphorias 1
 ensheaths
 electroaffinity
 ensued
