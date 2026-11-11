@@ -16574,7 +16574,7 @@ bsh
 butyrochloral
 bt
 btry
-bots
+bots 1
 brocho
 bracingness
 beaverish
