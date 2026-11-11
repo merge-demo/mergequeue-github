@@ -9308,7 +9308,7 @@ enticeful
 espieglerie
 erubescent
 entelechy
-ecus
+ecus 1
 electroori
 erucivorous
 eructance
