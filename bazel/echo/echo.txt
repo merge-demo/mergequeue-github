@@ -1456,7 +1456,7 @@ enarbour
 esconson
 electrophoresis
 eelpout
-effort
+effort 1
 ethmovomer
 environic
 emmenic
