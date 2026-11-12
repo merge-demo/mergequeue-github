@@ -4306,7 +4306,7 @@ gynecratic
 gelidness
 gorgonia
 gyneolater
-guinfo
+guinfo 1
 gelsemia 1
 germicide
 gynetype
