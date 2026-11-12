@@ -4164,7 +4164,7 @@ gazee 1
 gitoxin
 generalissimos
 gramicidin
-gustatorily
+gustatorily 1
 gaitt
 gibleh
 gratewise
