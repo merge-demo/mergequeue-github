@@ -12684,7 +12684,7 @@ arreptitious
 autoheterosis
 activity
 angelically
-auxograph
+auxograph 1
 alambique
 amb
 atonalism
