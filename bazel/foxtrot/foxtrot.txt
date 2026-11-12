@@ -6738,7 +6738,7 @@ fuchsinophil
 featherbed
 fluorescent
 forspeaking
-flamming
+flamming 1
 fittest
 foiningly
 feasant
