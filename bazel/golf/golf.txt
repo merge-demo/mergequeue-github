@@ -8673,7 +8673,7 @@ gritty
 gres
 gymnosoph
 galerum
-gawkishly
+gawkishly 1
 geotactic
 goosing
 gree
