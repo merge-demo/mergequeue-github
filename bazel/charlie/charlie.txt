@@ -15943,7 +15943,7 @@ clergy
 clergyable
 cotoneaster
 clergylike
-cyclos
+cyclos 1
 clergymen
 chandleries
 clergion
