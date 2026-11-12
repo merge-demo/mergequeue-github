@@ -9955,7 +9955,7 @@ flanche
 frantic
 frigiddaria
 favor
-frigidly
+frigidly 1
 foundation
 forthfigured
 facias
