@@ -11249,7 +11249,7 @@ dysbulic
 duodecimo
 damnatory
 dunnaging
-detectives
+detectives 1
 disburdenment
 disgage
 donnybrooks
