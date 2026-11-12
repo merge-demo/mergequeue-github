@@ -6180,7 +6180,7 @@ buchmanism
 befinger
 biliary
 boarishly
-buttinsky
+buttinsky 1
 breedbate
 blackleggery
 bedraggles
