@@ -1384,7 +1384,7 @@ davenport
 disna
 disableness
 dollars
-daftar
+daftar 1
 daunders
 depositing
 dartoid
