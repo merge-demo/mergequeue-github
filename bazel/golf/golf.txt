@@ -8702,7 +8702,7 @@ guttled
 gawkier
 guttling
 germiniparous
-greekize
+greekize 1
 gleave
 gulravage
 gavelling
