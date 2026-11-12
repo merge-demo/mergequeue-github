@@ -5303,7 +5303,7 @@ degressively
 downhearted
 darkener
 dentalia
-dentalism
+dentalism 1
 dodoes
 decultivate
 droitsman
