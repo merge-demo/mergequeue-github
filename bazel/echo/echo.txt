@@ -12449,7 +12449,7 @@ exhumate
 egoisms
 elusoriness
 esquire
-evacuative
+evacuative 1
 eighteen
 enlimn
 effectuate
