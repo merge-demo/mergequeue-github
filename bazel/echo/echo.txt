@@ -4195,7 +4195,7 @@ ecstasy
 exegeses
 ensteep
 evasible
-empower
+empower 1
 ecumenics
 eriocaulon
 empress
