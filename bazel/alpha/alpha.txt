@@ -728,7 +728,7 @@ anglicized
 aptote
 animine
 antivaccination
-abrade
+abrade 1
 angaralite
 accourt
 aphid
