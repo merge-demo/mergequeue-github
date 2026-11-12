@@ -9557,7 +9557,7 @@ gur 1
 groveled 1
 gridiron
 giustina
-goster
+goster 1
 geophagies
 graphical
 glamorized
