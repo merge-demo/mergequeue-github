@@ -15862,7 +15862,7 @@ antipodic
 autocoprophagous
 argufied
 antipodism
-antipoetical
+antipoetical 1
 antipolar
 afibrinogenemia
 acanthus
