@@ -21980,7 +21980,7 @@ antiphagocytic
 arterin
 aquameter
 aminize
-assuetude
+assuetude 1
 annualist
 avantgarde
 antireligiosity
