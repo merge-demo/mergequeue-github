@@ -9979,7 +9979,7 @@ fibrosities
 fencings
 fliest
 fairness
-fossilising
+fossilising 1
 frijole
 footprint
 forewarner
