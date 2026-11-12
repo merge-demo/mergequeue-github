@@ -9083,7 +9083,7 @@ dors
 dictyotic
 drinkability
 dailiness
-devow
+devow 1
 drubbed
 devance
 discernable
