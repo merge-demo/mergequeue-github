@@ -9153,7 +9153,7 @@ chartularies
 citrene
 chartulas
 charwoman
-centipedes
+centipedes 1
 conservatives
 charwomen
 chase
