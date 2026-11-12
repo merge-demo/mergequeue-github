@@ -5244,7 +5244,7 @@ fidfad
 factum
 fortemente
 fratcher
-flavoriness
+flavoriness 1
 falangist
 faveoli
 fitful
