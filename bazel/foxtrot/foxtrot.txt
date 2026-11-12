@@ -8540,7 +8540,7 @@ fulgid
 farctate
 flacourtia 1
 fished
-flapped
+flapped 1
 foreanswer
 forehatchway
 flusterate
