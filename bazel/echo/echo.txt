@@ -8742,7 +8742,7 @@ extempore
 effs
 ektexines
 emmergoose
-entombing
+entombing 1
 embryotrophic 1
 equivelocity
 encrotchet 1
