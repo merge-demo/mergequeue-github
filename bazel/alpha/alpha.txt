@@ -7517,7 +7517,7 @@ albuminiparous
 acromial
 agnomina
 aphagias
-aldebaran
+aldebaran 1
 anfracture
 alnitham
 albuminising
