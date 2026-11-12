@@ -16640,7 +16640,7 @@ demisovereign
 doctoress
 drayage
 drayhorse
-dipteraceous
+dipteraceous 1
 dialectologic
 drails
 driech
