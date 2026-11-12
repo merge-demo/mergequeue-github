@@ -3912,7 +3912,7 @@ eminently
 enamored
 expressionless
 executorship
-edentulous
+edentulous 1
 eels
 effodient
 enalid
