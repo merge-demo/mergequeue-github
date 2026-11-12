@@ -11893,7 +11893,7 @@ acetarious
 archvagabond
 azocochineal
 aspermatous
-autochromy
+autochromy 1
 ananaples
 anandrarious
 admeasurement
