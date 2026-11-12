@@ -4584,7 +4584,7 @@ gyrencephala
 gravicembalo 1
 gutturalized
 gilim
-graphometry
+graphometry 1
 glim
 galloper
 goobers
