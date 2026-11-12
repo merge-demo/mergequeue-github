@@ -19762,7 +19762,7 @@ arbory
 adrenally
 acylase
 angilo
-all
+all 1
 avdp
 atelophobia
 arlequinade
