@@ -875,7 +875,7 @@ fourchette
 fireworks
 folliculose
 footworks 1
-florivorous
+florivorous 1
 feverfews
 fantastication
 forold
