@@ -15419,7 +15419,7 @@ accentor
 avaricious
 antilogic
 antilogistic
-amastia
+amastia 1
 antilope
 antiloquy
 asafoetida
