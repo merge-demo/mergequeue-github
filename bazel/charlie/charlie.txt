@@ -9234,7 +9234,7 @@ chateaus
 chateaux
 chatelain
 cordmaker
-chatelaines
+chatelaines 1
 chemotherapists
 corrosionproof
 conceive
