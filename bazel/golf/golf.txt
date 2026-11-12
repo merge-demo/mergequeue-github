@@ -3404,7 +3404,7 @@ galbe
 glaciable
 gyroscopic
 gainor
-guttulate 1
+guttulate 2
 gymnoceratous
 geosid
 gerontocrat
