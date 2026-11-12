@@ -5833,7 +5833,7 @@ greggle
 gather
 gedrite
 golliwog
-geocarpic
+geocarpic 1
 gastriloquy 1
 ginglymoarthrodia
 galumptious
