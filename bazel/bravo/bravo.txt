@@ -2626,7 +2626,7 @@ bantamweight
 birdhouses
 bilges
 botanise
-begirdle
+begirdle 1
 barkless
 battening
 bandusia
