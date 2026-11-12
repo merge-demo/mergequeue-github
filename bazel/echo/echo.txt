@@ -6171,7 +6171,7 @@ elans
 evolvent
 enneagonal
 etymologizable
-enrolling
+enrolling 1
 endorachis
 enigua
 elephantiac
