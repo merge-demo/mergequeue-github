@@ -9334,7 +9334,7 @@ divekeeper
 dactylography
 diffame
 dietted
-detracts
+detracts 1
 dipso
 diffarreation
 doited
