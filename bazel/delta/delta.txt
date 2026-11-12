@@ -5965,7 +5965,7 @@ drillstock
 dottling
 devonic
 dollish
-depeculate
+depeculate 1
 deadeningly
 deprogrammings
 deprograms
