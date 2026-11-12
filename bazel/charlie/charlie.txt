@@ -2773,7 +2773,7 @@ cannibalizing
 coelomes
 cannibally
 counterstrike
-cableman
+cableman 1
 cannie
 cagui
 cannier
