@@ -3560,7 +3560,7 @@ calvarias
 captives
 comatulae
 captor
-capturable
+capturable 1
 catechized
 capture
 captured
