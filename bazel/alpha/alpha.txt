@@ -17161,7 +17161,7 @@ apology
 apologiae
 asarone
 adenogenesis
-affreightment
+affreightment 1
 amphigenesis
 apologists
 actinomycestal
