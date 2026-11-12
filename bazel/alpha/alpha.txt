@@ -2611,7 +2611,7 @@ accrescent
 atheist
 agapeic
 allocated
-auxoflore
+auxoflore 1
 abutters
 acquire
 antescript
