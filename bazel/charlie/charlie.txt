@@ -18547,7 +18547,7 @@ coif
 coiffe
 coiffed
 caustics
-clavers
+clavers 1
 coiffeur
 coiffeurs
 coiffeuses
