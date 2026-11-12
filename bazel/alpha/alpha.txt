@@ -3031,7 +3031,7 @@ actinolitic
 anthropogenesis
 antimeson
 aland
-actinomeric
+actinomeric 1
 apotheosise
 amtrac
 amphinucleus
