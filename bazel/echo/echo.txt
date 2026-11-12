@@ -10911,7 +10911,7 @@ enterokinase
 enfin
 encephalocoele
 epibaterium
-euktolite
+euktolite 1
 euphory
 enchondrosis
 euphoriant
