@@ -2391,7 +2391,7 @@ enfleurage
 excathedral
 ectromelia
 exanguin
-exasperating
+exasperating 1
 epidotization
 exognathion
 etherealisation
