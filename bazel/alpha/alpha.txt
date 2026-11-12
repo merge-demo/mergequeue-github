@@ -9291,7 +9291,7 @@ alongshore
 archbishops 1
 alemana
 alongshoreman
-autonetics
+autonetics 1
 antisymmetric
 aloose
 alop
