@@ -12278,7 +12278,7 @@ avanyu
 agathin
 ancylostomiasis
 anemotactic
-arrame
+arrame 1
 ancylus
 actinodrome
 armorica
