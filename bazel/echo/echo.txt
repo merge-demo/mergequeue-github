@@ -2457,7 +2457,7 @@ exquisiteness
 exterminist 1
 electroextraction
 euchological
-effulgences
+effulgences 1
 exinanition
 erythrophyll
 encollar
