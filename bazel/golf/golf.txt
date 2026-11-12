@@ -8591,7 +8591,7 @@ gonidioid
 gravure
 gathic
 gossameriness
-gametically
+gametically 1
 genealogical
 guerdonless
 gestic
