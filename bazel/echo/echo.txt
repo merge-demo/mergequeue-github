@@ -13700,7 +13700,7 @@ elizabeth
 enteroclysis
 extrajudicially
 externe
-excursionize
+excursionize 1
 epitaxy
 expiatist
 ermanaric
