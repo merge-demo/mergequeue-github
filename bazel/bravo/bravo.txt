@@ -3412,7 +3412,7 @@ blushing
 bulletmaker
 bastardism 1
 blather
-bastardized
+bastardized 1
 bastardizes
 bastardliness
 birimose
