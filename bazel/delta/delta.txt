@@ -3691,7 +3691,7 @@ degreaser
 dacryohemorrhea
 degreases
 daffadowndilly
-degreewise
+degreewise 1
 dorsers
 degressive
 dactylopterus
