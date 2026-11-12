@@ -10022,7 +10022,7 @@ electrodiagnostic
 expellable
 ethanal
 esoterical
-eternalize
+eternalize 1
 eternally
 extill
 embarking
