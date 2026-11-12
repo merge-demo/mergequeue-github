@@ -3093,7 +3093,7 @@ archimorphic
 actinopteran
 ascidian
 autorail
-actinopteri
+actinopteri 1
 attemper
 accentuated
 ambling
