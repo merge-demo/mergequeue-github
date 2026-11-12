@@ -23752,7 +23752,7 @@ auscultation
 amphicyrtic
 anagnorises
 auscultatory
-ausform
+ausform 1
 amyotrophy
 ausforming
 arrent
