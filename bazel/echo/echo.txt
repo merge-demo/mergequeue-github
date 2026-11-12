@@ -5954,7 +5954,7 @@ espalier
 effluviography
 educatee
 enjoyably 1
-enhypostasia
+enhypostasia 1
 estmark
 electrotheraputically
 endolemma
