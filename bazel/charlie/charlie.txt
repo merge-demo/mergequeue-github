@@ -21999,7 +21999,7 @@ confirmed
 confirmedness
 corticostriate
 confirmer
-cibarious
+cibarious 1
 coalrake
 cinquedea
 cystoscope
