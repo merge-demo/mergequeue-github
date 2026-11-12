@@ -25475,7 +25475,7 @@ corodiastasis
 convicting
 corodies
 cocowood
-condemns
+condemns 1
 contaggia
 circumclusion
 congenialness
