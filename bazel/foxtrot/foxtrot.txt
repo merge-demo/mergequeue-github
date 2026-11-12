@@ -10031,7 +10031,7 @@ freedom
 frothsome
 fonted
 foreleader
-fustiest
+fustiest 1
 forearms
 flauntily
 feasibleness
