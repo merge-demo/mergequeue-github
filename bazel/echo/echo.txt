@@ -1549,7 +1549,7 @@ easies
 exhale
 emportment
 ephydra
-euthanasy
+euthanasy 1
 enmeshments
 erotopathy
 explication
