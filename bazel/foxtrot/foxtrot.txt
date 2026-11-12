@@ -2268,7 +2268,7 @@ ficoid
 facaded
 florentinism
 flatulence
-firebombed
+firebombed 1
 fumaria
 forshape
 full
