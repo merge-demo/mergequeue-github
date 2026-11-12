@@ -5952,7 +5952,7 @@ falseface
 freer
 fraudlessness
 freehand
-feretories
+feretories 1
 floodlight
 forthinking
 furzes
