@@ -7669,7 +7669,7 @@ dobzhansky 1
 drumbled
 divesture
 deunam
-debell
+debell 1
 deviance
 dimples
 deviancy
