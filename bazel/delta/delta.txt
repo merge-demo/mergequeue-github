@@ -555,7 +555,7 @@ diplosis
 deliverers
 damar
 debacle
-detains
+detains 1
 damars
 decoratory
 devocate
