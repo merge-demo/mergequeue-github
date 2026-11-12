@@ -7922,7 +7922,7 @@ deeps
 deworming
 deworms
 disponer
-dexiotropous
+dexiotropous 1
 dewrot
 durban
 dramaticule
