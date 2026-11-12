@@ -11699,7 +11699,7 @@ dyotheletian
 dele
 discouraged
 displeasureably
-discouragingly
+discouragingly 1
 daydreamlike
 dangerful
 diastasis
