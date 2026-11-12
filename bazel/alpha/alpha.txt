@@ -15059,7 +15059,7 @@ ascetically
 aletaster
 auklets
 aegir
-antidynastic
+antidynastic 1
 antidiphtheria
 abrocome
 anapsida
