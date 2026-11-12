@@ -2312,7 +2312,7 @@ fixatifs
 flagitious
 felis
 franchises
-feminizes
+feminizes 1
 friday
 forbysen
 fens
