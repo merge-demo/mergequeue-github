@@ -24423,7 +24423,7 @@ carapaxes
 caracals
 crusadoes
 chupatti
-cooperation
+cooperation 1
 cuissart
 cilioscleral
 cooperatives
