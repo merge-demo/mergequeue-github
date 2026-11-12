@@ -4561,7 +4561,7 @@ deflectional
 despotical
 demilustre
 diaskeuasis
-demiman
+demiman 1
 dali
 detax
 dungyard
