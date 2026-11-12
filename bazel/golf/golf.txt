@@ -1501,7 +1501,7 @@ gasterolichenes
 grainier
 guittonian
 gonopores
-garners
+garners 1
 garotted
 goutish
 gaolage
