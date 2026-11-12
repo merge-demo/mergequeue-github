@@ -7427,7 +7427,7 @@ docetism
 destructibility
 detractions
 detrainment
-detraque
+detraque 1
 deathsmen
 detrect
 detrench
