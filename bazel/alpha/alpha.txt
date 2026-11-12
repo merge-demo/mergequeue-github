@@ -9061,7 +9061,7 @@ alkalises
 ammonoid
 allowed
 attorned
-assertiveness
+assertiveness 1
 acquiescing
 assagais
 aftermarriage
