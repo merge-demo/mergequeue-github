@@ -15274,7 +15274,7 @@ clamorer
 clamorers
 clamorist
 caccagogue
-clamorous
+clamorous 1
 coquita
 caimito
 chathamite

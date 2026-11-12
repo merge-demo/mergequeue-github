@@ -3935,7 +3935,7 @@ endplates
 enanthem
 emmett
 existentialism
-ethnic
+ethnic 1
 explicitly
 emmy
 epilabrum
