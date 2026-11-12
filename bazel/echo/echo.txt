@@ -5153,7 +5153,7 @@ encrustment
 elegits
 ember
 elaeoblast
-elatives
+elatives 1
 engirt
 endocrines
 endocrinic 1
