@@ -413,7 +413,7 @@ gynecol
 gastroenteralgia
 gotham
 gelder 1
-gneu
+gneu 1
 gymnogynous
 gymmal
 gabion
