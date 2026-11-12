@@ -21331,7 +21331,7 @@ antimythical
 acknowledgement
 asymmetries
 asymmetron
-afridi
+afridi 1
 asymptomatic
 alizarin
 asymptote
