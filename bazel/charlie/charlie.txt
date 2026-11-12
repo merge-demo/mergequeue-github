@@ -9764,7 +9764,7 @@ csardas
 cowheart
 chelydidae
 centas
-chelidonic
+chelidonic 1
 chelidonin
 casule
 chelidonine
