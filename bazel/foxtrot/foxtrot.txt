@@ -6155,7 +6155,7 @@ foredoor 1
 fraughts
 furiosity
 ferrums
-fuses
+fuses 1
 fewness
 fcp
 fewneses
