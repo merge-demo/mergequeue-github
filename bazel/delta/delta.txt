@@ -8171,7 +8171,7 @@ diachronically
 dicranum 1
 diacid
 detachment
-duellists
+duellists 1
 duple
 deprecate
 diacipiperazine
