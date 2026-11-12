@@ -23946,7 +23946,7 @@ convect
 colubrina
 cagey
 clyfaking 1
-chukkars
+chukkars 1
 chromophyl
 convective
 convectively 1
