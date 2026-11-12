@@ -3689,7 +3689,7 @@ degravate
 demipike
 degreaser
 dacryohemorrhea
-degreases
+degreases 1
 daffadowndilly
 degreewise
 dorsers
