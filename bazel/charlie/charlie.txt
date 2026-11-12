@@ -10091,7 +10091,7 @@ chesterfieldian
 copulatively
 chestfuls
 chesty
-chestier
+chestier 1
 collaudation
 chestnut
 chestnuts
