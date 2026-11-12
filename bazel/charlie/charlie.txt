@@ -6962,7 +6962,7 @@ confects
 crystallizer
 cenesthetic
 cotyligerous
-cosinusoid
+cosinusoid 1
 cenizo
 codable
 cosmozoism
