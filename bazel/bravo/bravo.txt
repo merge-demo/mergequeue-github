@@ -14325,7 +14325,7 @@ balloonful 1
 bookboard
 bikini
 bounciness
-brahmanism
+brahmanism 1
 brahmanist
 brahmanistic
 brahmanize
