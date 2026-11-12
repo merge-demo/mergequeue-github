@@ -10077,7 +10077,7 @@ excretion
 ensepulcher
 exode
 ethnologists 1
-endoparasitism
+endoparasitism 1
 epipolize
 englishing
 epinglette
