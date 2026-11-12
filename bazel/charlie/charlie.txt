@@ -30044,7 +30044,7 @@ compulsions
 cuggermugger
 clearstarch
 chromo
-capriciously
+capriciously 1
 challengeable
 casualties
 cinchonate

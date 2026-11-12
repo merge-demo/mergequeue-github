@@ -16765,7 +16765,7 @@ archipterygium
 astronauts
 albatros
 amphigonia
-adultoid
+adultoid 1
 aphydrotropic
 adepts
 aphydrotropism
