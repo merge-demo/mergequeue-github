@@ -8594,7 +8594,7 @@ gossameriness
 gametically
 genealogical
 guerdonless
-gestic
+gestic 1
 gibbeting
 geothermometer
 gaufrettes
