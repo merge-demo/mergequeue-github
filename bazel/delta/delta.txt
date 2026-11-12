@@ -10472,7 +10472,7 @@ diphtherian
 dogberrydom
 deda
 dotty
-diphtheric
+diphtheric 1
 denticeti
 diphtheritically
 disarraying
