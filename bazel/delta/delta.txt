@@ -9274,7 +9274,7 @@ dromaeognathae
 diestock
 diestrous
 drawbridge
-diestrums
+diestrums 1
 drupaceae
 disambiguations
 daikering
