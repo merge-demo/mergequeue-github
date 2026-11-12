@@ -6277,7 +6277,7 @@ dustuck
 disprize
 doggier
 devolve
-deprecates
+deprecates 1
 diradiation
 didymolite
 daughters
