@@ -1304,7 +1304,7 @@ dauberies
 dramatic
 dumpings
 diastaltic
-decoloured
+decoloured 1
 daubreite
 degaussing
 dobsons
