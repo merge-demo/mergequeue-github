@@ -12791,7 +12791,7 @@ edaphosaurid
 ensembles
 encounterable
 emancipative
-exospore
+exospore 1
 endrumpf
 epeiridae
 enthusiastical
