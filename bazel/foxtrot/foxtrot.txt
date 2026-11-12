@@ -6872,7 +6872,7 @@ flasks
 friability
 flourished
 flioma
-folky
+folky 1
 fibromyxosarcoma
 fidejussory
 footings
