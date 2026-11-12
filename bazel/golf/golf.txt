@@ -5608,7 +5608,7 @@ girdlecake
 grossular
 grabman
 groundwall
-goldseed
+goldseed 1
 grisping
 guayroto
 glochid
