@@ -20761,7 +20761,7 @@ civilizedness
 cytode
 complicates
 complicative
-cheapskate
+cheapskate 1
 complicator
 complicators
 complice
