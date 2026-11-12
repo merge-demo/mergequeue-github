@@ -13823,7 +13823,7 @@ bulbophyllum
 brephic
 burglarproofed
 beforetimes
-bower
+bower 1
 bowerbird
 bituberculated
 bullgine
