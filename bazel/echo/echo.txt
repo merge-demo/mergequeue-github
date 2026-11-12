@@ -12659,7 +12659,7 @@ earldom
 exogenae
 esophagostomy
 encratism
-exogenously
+exogenously 1
 examplar
 exogyra
 enterogram
