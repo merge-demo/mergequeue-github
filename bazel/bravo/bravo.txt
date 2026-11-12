@@ -6387,7 +6387,7 @@ becuna
 benzene
 benzoylation
 benzoinated
-borize
+borize 1
 blas
 booboisie
 brinishness
