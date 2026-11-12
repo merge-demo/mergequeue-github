@@ -7205,7 +7205,7 @@ etheostoma
 equalizer
 enwove
 entender
-epistasis
+epistasis 1
 euphonym 1
 enchesoun
 ensample
