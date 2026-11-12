@@ -1513,7 +1513,7 @@ antiglyoxalase
 accompanies
 accompanyist
 asperggilla
-aminotransferase
+aminotransferase 1
 aphasiac
 arctisca
 accompanimental
