@@ -13603,7 +13603,7 @@ aloneness
 annunciating
 annunciation
 apophonia
-amasthenic
+amasthenic 1
 atiptoe
 amebic
 annunciations
