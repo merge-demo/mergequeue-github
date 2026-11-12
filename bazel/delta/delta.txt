@@ -13001,7 +13001,7 @@ dight
 distater
 dispand
 descaling
-diphthongized
+diphthongized 1
 deallocated
 doweries
 dispar
