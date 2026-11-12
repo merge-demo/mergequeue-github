@@ -1377,7 +1377,7 @@ ethene
 efficacies
 endochylous
 exhortation
-eleutherodactyli
+eleutherodactyli 1
 epithecium
 embolden
 emphrensy
