@@ -11606,7 +11606,7 @@ ectolecithal
 evonymuses
 electroencephalographically
 end
-evulsions
+evulsions 1
 ewery
 exciding
 empires
