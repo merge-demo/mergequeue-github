@@ -11595,7 +11595,7 @@ elegize 1
 enchiridion
 explicating
 entablatured
-electroretinogram
+electroretinogram 1
 engregge
 eternalising
 expatiate
