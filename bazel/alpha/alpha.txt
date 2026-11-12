@@ -3999,7 +3999,7 @@ anthus
 acerola
 arrows
 ankuses
-acronymize
+acronymize 1
 advect
 aphaeresis
 admerveylle
