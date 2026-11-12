@@ -5435,7 +5435,7 @@ aeonial
 aprioristic
 aureately
 afresca
-alkalizable
+alkalizable 1
 aspout
 anthomania
 anastomotic
