@@ -14264,7 +14264,7 @@ downcrying
 defoliator
 deviationist
 donkeymen
-demulceate
+demulceate 1
 deb
 deviances
 dithion
