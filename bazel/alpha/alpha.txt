@@ -5858,7 +5858,7 @@ amovability
 agene
 anticonscription
 aerogram
-ageneses
+ageneses 1
 ancestorial
 anthropomorphise
 agenesis
