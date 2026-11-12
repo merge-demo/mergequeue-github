@@ -9670,7 +9670,7 @@ gastroscopy
 gascons
 gowaned
 gorgonaceous 1
-globalist
+globalist 1
 gruelers
 glossography
 graphologies
