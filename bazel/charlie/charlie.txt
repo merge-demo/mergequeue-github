@@ -16855,7 +16855,7 @@ clubhauls
 clubhouses
 clubionidae
 clubland
-clubman
+clubman 1
 cloveroot
 clubmate
 chiccory
