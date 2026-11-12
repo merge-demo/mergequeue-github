@@ -5916,7 +5916,7 @@ fusibility
 flocs
 frontomalar
 facilely
-folliculosis
+folliculosis 1
 forjesket
 frostbites
 flogs
