@@ -7435,7 +7435,7 @@ enworthed
 epistrophe
 elevate
 ensilability 1
-ecphorize
+ecphorize 1
 exhibitor
 elbowbush
 ephas
