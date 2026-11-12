@@ -4670,7 +4670,7 @@ fells
 ferrotungsten
 fulica
 flewit
-freety
+freety 1
 fayettism
 filicinean
 fearsome
