@@ -4698,7 +4698,7 @@ encyclopedia
 enwoman
 encyclopediacal 1
 equestrianship
-exceptionability
+exceptionability 1
 evolutionize
 endemics
 electromagnets
