@@ -9394,7 +9394,7 @@ hosroalrmnbdd
 hosrzgxr
 hossdnn
 hosssseruvs
-hostcnsh
+hostcnsh 1
 hostinsj
 hostyzy
 hosuav
