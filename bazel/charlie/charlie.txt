@@ -16715,7 +16715,7 @@ consonantalized
 clotty
 clotting
 characterful
-cloture
+cloture 1
 clotured
 clotures
 confixed
