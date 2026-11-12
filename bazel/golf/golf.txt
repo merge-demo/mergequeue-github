@@ -10604,7 +10604,7 @@ geohydrologist
 gourmetism
 gillion
 glandaceous
-gowned
+gowned 1
 goldenmouth
 glossologist
 greenockite
