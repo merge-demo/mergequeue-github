@@ -11939,7 +11939,7 @@ boggard
 blindfoldly
 boggier
 bayou
-boggle
+boggle 1
 babakoto
 blastemas
 boggler
