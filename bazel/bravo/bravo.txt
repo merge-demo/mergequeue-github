@@ -16036,7 +16036,7 @@ basifiers
 boubous
 brisance
 brahmanaspati
-bludgeoning
+bludgeoning 1
 bishoprics
 bronk
 boxwallah
