@@ -11549,7 +11549,7 @@ enkerchief
 esterlin
 encia
 executry
-euphoric
+euphoric 1
 ess 1
 extypal
 extraburghal
