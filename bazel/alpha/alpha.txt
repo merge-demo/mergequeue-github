@@ -21996,7 +21996,7 @@ assumes
 apothesis
 antiperiodic
 act
-assuming
+assuming 1
 assumingly
 assummon
 assumptious
