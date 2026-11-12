@@ -9612,7 +9612,7 @@ derives
 deil
 deadline
 drayed
-differentiating
+differentiating 1
 deepmost
 dihedron
 dhootie
