@@ -10817,7 +10817,7 @@ aits
 apprised
 anywise
 affricates
-anack
+anack 1
 ammonate
 auxiliation
 abortogenic
