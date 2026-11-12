@@ -1757,7 +1757,7 @@ diverticular
 dhotis
 diphenan
 dividend
-diphyllobothrium
+diphyllobothrium 1
 deathtrap
 devocalization
 drof
