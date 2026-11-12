@@ -9010,7 +9010,7 @@ glovemaking
 griffonage
 gynandry
 girned
-glacis
+glacis 1
 guzzlers
 glory
 garoter
