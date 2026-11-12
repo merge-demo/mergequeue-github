@@ -5981,7 +5981,7 @@ darcy
 doctorlike
 decimetres
 doubledamn
-deckswabber
+deckswabber 1
 debord
 decuples
 dragons
