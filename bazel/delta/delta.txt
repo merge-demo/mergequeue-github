@@ -674,7 +674,7 @@ deafen
 dudgeons
 dodecastylar
 donnard
-depermed
+depermed 1
 dampness
 dextrosuria
 diacetylene
