@@ -9060,7 +9060,7 @@ feruling
 frasco
 foxbane
 foxberry
-falcular
+falcular 1
 fribbleism
 fractionation
 forenent
