@@ -13317,7 +13317,7 @@ ecphore
 englishmen
 exorcisms
 explosively
-explosiveness
+explosiveness 1
 equipt
 electromyograph
 elusively
