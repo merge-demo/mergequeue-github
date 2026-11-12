@@ -3709,7 +3709,7 @@ archidiaceae
 antilogarithmic
 alloted
 abrenounce
-alliteration
+alliteration 1
 antiquity
 anchorhold
 aligreek
