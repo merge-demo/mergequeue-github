@@ -11946,7 +11946,7 @@ choriamb
 choriambic
 chorometry
 coaggregated
-confabulating
+confabulating 1
 confarreate
 choriambus
 choric
