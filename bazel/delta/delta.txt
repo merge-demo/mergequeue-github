@@ -14644,7 +14644,7 @@ diplococcocci
 decameter
 draftees
 dora
-degradability
+degradability 1
 disinvite
 deuteropathy
 dizen
