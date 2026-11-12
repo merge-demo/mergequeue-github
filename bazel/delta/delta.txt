@@ -9355,7 +9355,7 @@ daggy
 differentiate
 dioscoreaceous
 differentiator
-defalcates
+defalcates 1
 deneb
 dewax
 diplopia
