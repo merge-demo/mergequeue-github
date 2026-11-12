@@ -10050,7 +10050,7 @@ crystalize
 calzone
 cherusci
 chervonei
-conundrumize
+conundrumize 1
 chervontsi
 chesapeake
 caboche
