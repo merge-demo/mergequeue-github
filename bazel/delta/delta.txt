@@ -5343,7 +5343,7 @@ despotize
 diatomacean
 decimalized
 demibombard
-disguising
+disguising 1
 dysteleology
 displant
 deadheadism
