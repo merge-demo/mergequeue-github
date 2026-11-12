@@ -14419,7 +14419,7 @@ angiospastic
 awunctive
 anode
 achromacyte
-anthracomancy
+anthracomancy 1
 anthracomarti
 ambulancing
 analepsis
