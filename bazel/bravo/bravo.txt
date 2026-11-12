@@ -6573,7 +6573,7 @@ berberis
 berberry
 brunizem
 bournous
-booted
+booted 1
 bagattino
 bladderless
 berchemia
