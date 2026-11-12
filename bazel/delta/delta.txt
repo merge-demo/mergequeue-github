@@ -6923,7 +6923,7 @@ drunken
 dirgeful
 despairful
 doctrinism
-diplegia
+diplegia 1
 diarthroses
 dunamis
 dehydrogenating
