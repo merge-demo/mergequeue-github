@@ -7571,7 +7571,7 @@ faille
 fifers
 forerecited
 felsite
-fanal
+fanal 1
 felicitous
 folliful
 flubs
