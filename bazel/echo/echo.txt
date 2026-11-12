@@ -7548,7 +7548,7 @@ exstemporaneous
 epauliere
 ectoprocta
 electroforming
-exocarp
+exocarp 1
 experienceable
 epicede
 exion
