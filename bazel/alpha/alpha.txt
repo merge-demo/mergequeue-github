@@ -8005,7 +8005,7 @@ alevin
 autocade
 acrospire
 antheses
-amphitheatrical
+amphitheatrical 1
 aprilis
 argan
 ampheclexis
