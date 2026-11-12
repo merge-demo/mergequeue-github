@@ -10147,7 +10147,7 @@ enumerators
 eurhodine
 effluent
 expressionful
-equivalences
+equivalences 1
 elope
 extraorbital
 etherialised
