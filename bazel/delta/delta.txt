@@ -10929,7 +10929,7 @@ droplike
 dropcloth
 diclytra
 disunionism
-disaccustomedness
+disaccustomedness 1
 draymen
 dromioid
 daimon
