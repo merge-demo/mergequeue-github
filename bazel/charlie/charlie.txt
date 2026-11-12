@@ -5805,7 +5805,7 @@ codo
 catechutannic
 conquest
 coumarate
-categorematical
+categorematical 1
 category
 choledoch
 cinurous
