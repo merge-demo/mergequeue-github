@@ -1327,7 +1327,7 @@ contrist
 cesarolite
 caliburno
 colossuses
-crawfished
+crawfished 1
 calycanthin
 cantador
 carious
