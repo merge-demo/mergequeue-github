@@ -1079,7 +1079,7 @@ barbasco
 bayonets
 benefactors
 bifacial
-blksize
+blksize 1
 blepharelcosis
 bayong
 babongo
