@@ -4189,7 +4189,7 @@ apophthegmatic
 ablare
 adoptian
 anacoustic
-angustifoliate
+angustifoliate 1
 arylide
 apicula
 agin
