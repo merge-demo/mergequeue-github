@@ -4380,7 +4380,7 @@ graphicalness
 grylli
 gunky
 guz
-glottochronology
+glottochronology 1
 ginglymostomoid
 gondi
 gardened
