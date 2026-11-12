@@ -10538,7 +10538,7 @@ forcipiform
 frowze
 franking
 fluky
-flatus
+flatus 1
 festivous
 fossilised
 fauchard
