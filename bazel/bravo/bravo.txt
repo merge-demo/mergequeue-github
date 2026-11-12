@@ -16924,7 +16924,7 @@ buggier
 bushboy
 bombardon
 beeve
-bussu
+bussu 1
 beudanite
 baloch
 bugginess
