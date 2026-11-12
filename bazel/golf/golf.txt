@@ -9926,7 +9926,7 @@ genevese
 girderless
 glebes
 greylags 1
-geoparallelotropic
+geoparallelotropic 1
 gateway
 grisailles
 granddaddies
