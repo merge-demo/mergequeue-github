@@ -3384,7 +3384,7 @@ freewomen
 fanioned 1
 folily
 feeless 1
-familistic
+familistic 1
 foreyards
 fusilades
 fastigate
