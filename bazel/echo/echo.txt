@@ -12041,7 +12041,7 @@ excommunication
 exploitage
 episcias
 extra
-entackle
+entackle 1
 ervum
 excommunicative
 excommunicator
