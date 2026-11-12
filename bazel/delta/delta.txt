@@ -8401,7 +8401,7 @@ dragboat
 dispreader
 disunite
 dialyze
-deflation
+deflation 1
 draparnaldia
 dundavoe
 daemonelix
