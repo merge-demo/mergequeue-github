@@ -26774,7 +26774,7 @@ counterdance
 counterdeclaration
 cucumis
 counterdemonstrate
-counterdeputation
+counterdeputation 1
 counterdesire
 counterdevelopment
 calcareobituminous
