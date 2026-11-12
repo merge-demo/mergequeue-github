@@ -5780,7 +5780,7 @@ englacial
 expose
 embossments
 esophagomalacia
-emaciation
+emaciation 1
 eddying
 endozoic
 endues
