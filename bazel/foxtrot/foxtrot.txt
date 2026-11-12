@@ -10928,7 +10928,7 @@ fub
 foehn
 flexure
 field
-fulminatory
+fulminatory 1
 fetal
 floorage
 fadridden
