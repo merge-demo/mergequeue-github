@@ -20967,7 +20967,7 @@ ahtena
 antirust
 athreptic
 autotroph
-ascendancy
+ascendancy 1
 ascendantly
 ankyloproctia
 ascorbic
