@@ -316,7 +316,7 @@ feint
 fostell
 finagles 1
 fibrillated
-finochio
+finochio 1
 flusker
 futureness
 fagaceae
