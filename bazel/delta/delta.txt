@@ -12970,7 +12970,7 @@ downwith
 decasyllables
 disordinance
 disordinate
-devastator
+devastator 1
 disconsider
 dysorexia
 dusack
