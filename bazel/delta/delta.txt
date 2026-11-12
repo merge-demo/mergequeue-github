@@ -5549,7 +5549,7 @@ dx
 dimmock
 departmentalism
 departmentalization
-departmentalized
+departmentalized 1
 deuteronomy
 debilitate
 dorper
