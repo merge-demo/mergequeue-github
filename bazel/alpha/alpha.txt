@@ -22200,7 +22200,7 @@ astigmic
 antiphon
 astigmometer
 aglossa
-astigmometry
+astigmometry 1
 alluviate
 algologist
 aegritude
