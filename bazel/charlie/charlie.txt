@@ -15197,7 +15197,7 @@ cholesterin
 clairecolle
 catamneses
 centipede
-conforms
+conforms 1
 cade
 curtailments
 clairseach
