@@ -11799,7 +11799,7 @@ dollarleaf
 delabialize
 demot
 duny
-dosserets
+dosserets 1
 deinodon
 discriminating
 dacryuria
