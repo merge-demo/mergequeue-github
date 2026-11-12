@@ -22035,7 +22035,7 @@ atrebates
 asepticism
 anteprostate
 astable
-astay
+astay 1
 anisometropic
 aegithognathism
 anaphylaxis
