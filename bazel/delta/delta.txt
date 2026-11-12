@@ -14842,7 +14842,7 @@ duologs
 dynametric
 doctrinality
 doorbells
-dharmashastra
+dharmashastra 1
 doctrinarity
 dotant
 designate
