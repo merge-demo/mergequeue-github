@@ -4831,7 +4831,7 @@ demon
 dyspepsia
 delightsomely
 demonetise
-defenestrates
+defenestrates 1
 demonetize
 derotrema
 dextrous
