@@ -437,7 +437,7 @@ dairt
 dais
 disinthrall
 donjons
-dibs
+dibs 1
 drenchers
 dimyaric
 diathermous
