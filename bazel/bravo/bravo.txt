@@ -7203,7 +7203,7 @@ byelorussia
 blastomeric
 bur
 bestiarian
-bestiarist
+bestiarist 1
 bestock
 bestow
 bestowment

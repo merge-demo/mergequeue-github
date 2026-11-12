@@ -15486,7 +15486,7 @@ achage
 alphatoluic
 antimilitary
 amoralism
-astacian
+astacian 1
 antiministerial
 antiministerially
 ajhar
