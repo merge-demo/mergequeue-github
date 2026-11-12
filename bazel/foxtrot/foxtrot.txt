@@ -10508,7 +10508,7 @@ frotton
 fum
 fascicularly
 fumelike
-firetail
+firetail 1
 farandman
 frousty
 frouzy
