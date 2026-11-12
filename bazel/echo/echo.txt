@@ -372,7 +372,7 @@ enthroned
 eavesdropping
 encyclopedism
 eightvos
-exosseous
+exosseous 1
 ebcd
 experts
 electrepeter
