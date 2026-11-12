@@ -9344,7 +9344,7 @@ chaussees
 chaussure
 catlap
 coscinodiscaceae
-chautauqua
+chautauqua 1
 craniometrically
 chautauquan
 chemicobiology
