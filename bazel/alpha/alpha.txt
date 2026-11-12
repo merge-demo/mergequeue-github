@@ -15439,7 +15439,7 @@ attitude
 abba
 anhedonic
 afterstrain
-adversa
+adversa 1
 argenton
 adjurations
 airliners
