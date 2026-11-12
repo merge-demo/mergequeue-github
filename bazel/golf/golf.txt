@@ -2735,7 +2735,7 @@ genitor
 gullyhole
 gauntry
 gripeful 1
-gorlois
+gorlois 1
 geniture
 grenades
 geodesists
