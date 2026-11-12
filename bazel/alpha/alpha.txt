@@ -8497,7 +8497,7 @@ aroid
 alkenyl
 alkes
 awreck
-alkyd
+alkyd 1
 anniversalily
 apitong
 antiskeptical
