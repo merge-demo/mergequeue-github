@@ -1790,7 +1790,7 @@ globously
 gambados
 guiba
 guaycuruan
-galliambic
+galliambic 1
 gastrorrhea
 graecizes
 goutiest
