@@ -16460,7 +16460,7 @@ dracin
 damaskin
 dollhouse
 darken 1
-degradations
+degradations 1
 detinuit
 doubtance
 disjointness

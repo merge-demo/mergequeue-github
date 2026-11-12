@@ -5644,7 +5644,7 @@ gloomings
 graveward
 gunyang
 germanics
-gubernacular
+gubernacular 1
 geyserine
 gingalls
 gastralgic
