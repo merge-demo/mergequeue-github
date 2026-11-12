@@ -592,7 +592,7 @@ canikins
 caducibranchiate
 claggy
 caducities
-caducous
+caducous 1
 caryocaraceae
 caduke
 cadwal
