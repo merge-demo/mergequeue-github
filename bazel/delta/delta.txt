@@ -9772,7 +9772,7 @@ dilemmatic
 drizzlingly
 daggerboard
 disulfoxide
-dogfishes
+dogfishes 1
 domino
 dclass
 dilettanti
