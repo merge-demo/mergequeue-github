@@ -5231,7 +5231,7 @@ eskers
 electromagnetic
 eluviums
 exitus
-elusive
+elusive 1
 endolysin
 eparchy
 eretrian
