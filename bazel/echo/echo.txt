@@ -2923,7 +2923,7 @@ enflamed
 electrocardiographically
 elfland
 entelodon 1
-elflocks
+elflocks 1
 encaustic
 endermic
 epiphyseolysis
