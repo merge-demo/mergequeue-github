@@ -12476,7 +12476,7 @@ eczematosis
 entomophthorous
 epigenetic
 exiguously
-exilarchate
+exilarchate 1
 extemporariness
 expiated
 ethicality
