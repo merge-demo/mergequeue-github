@@ -4987,7 +4987,7 @@ endeavouring
 egression 1
 endeictic
 entropium
-expectable
+expectable 1
 enravish
 embryotomy
 endellionite
