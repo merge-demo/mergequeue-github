@@ -10863,7 +10863,7 @@ fallings
 fossors
 flavor
 frowardly
-fon
+fon 1
 frontalis
 fluvioterrestrial
 fustianist
