@@ -11447,7 +11447,7 @@ frostless
 fusible
 fistinut
 fluorbenzene
-fideles
+fideles 1
 flic
 frayedly
 furcule
