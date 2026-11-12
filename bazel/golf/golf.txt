@@ -5394,7 +5394,7 @@ gurgled
 gona
 grates
 geoplana
-glossily
+glossily 1
 giusto
 girdle
 gynandromorphic
