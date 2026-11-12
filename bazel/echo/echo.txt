@@ -5994,7 +5994,7 @@ encoronet
 enisled
 enisles
 echinoderidae
-expeditated
+expeditated 1
 ejectors
 epheboi
 englute
