@@ -8466,7 +8466,7 @@ diamat
 dermochrome
 diambic
 diamegnetism
-diazepam
+diazepam 1
 diamesogamous
 disclike
 delabialized
