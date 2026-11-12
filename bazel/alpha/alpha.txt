@@ -23598,7 +23598,7 @@ antignostic
 arcsin
 altimetry
 aunthood
-arawakan
+arawakan 1
 antitraditionally
 analogise
 auntie

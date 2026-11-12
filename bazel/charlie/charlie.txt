@@ -24389,7 +24389,7 @@ coolung 1
 coolweed
 coolwort
 coom
-coomb
+coomb 1
 canella
 cognomina
 coombes
