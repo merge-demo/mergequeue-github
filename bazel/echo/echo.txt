@@ -5365,7 +5365,7 @@ essentialism
 exerts 1
 exosepsis
 evilspeaking
-expatriations
+expatriations 1
 evzones
 endocline
 epicrystalline
