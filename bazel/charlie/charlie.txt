@@ -19219,7 +19219,7 @@ cimbia
 collutoria
 collutories
 cafeteria
-collutorium
+collutorium 1
 colluvial
 chiffonade
 countlessly
