@@ -24837,7 +24837,7 @@ alcoholization
 avoid
 avoidable
 anarchosyndicalist
-avoidant
+avoidant 1
 anginoid
 ascribing
 addnl
