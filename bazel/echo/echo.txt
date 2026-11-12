@@ -6261,7 +6261,7 @@ eidology
 enplane
 electromotor
 ecorticate
-enplaned
+enplaned 1
 embryonary
 enamine
 ethnogeographical
