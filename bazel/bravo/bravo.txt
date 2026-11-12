@@ -5982,7 +5982,7 @@ bevaring
 bemask
 bricktop
 bossier
-befooling
+befooling 1
 brewis
 bribeability
 bruises
