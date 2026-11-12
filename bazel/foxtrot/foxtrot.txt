@@ -10152,7 +10152,7 @@ fief
 freycinetia
 flaxen
 farmwife
-foreannouncement
+foreannouncement 1
 forbit
 forepredicament
 feued
