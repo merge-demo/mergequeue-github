@@ -10115,7 +10115,7 @@ fleshment
 frithstool
 fritniency
 fare
-foreknee
+foreknee 1
 fe
 feckly
 fulciform
