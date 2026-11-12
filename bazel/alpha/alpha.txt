@@ -10793,7 +10793,7 @@ alboin
 aminogen
 anticonstitutionalist
 ammiaceous
-acidosis
+acidosis 1
 aspergillum
 arrowed
 amminolytic
