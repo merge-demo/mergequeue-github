@@ -6411,7 +6411,7 @@ fluoride
 fibromyositis
 frasera
 flyboat
-flisky
+flisky 1
 fetches 1
 fitchet 1
 flaking
