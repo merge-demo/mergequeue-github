@@ -2022,7 +2022,7 @@ gomorrah
 gnaeus
 galactia
 grithman
-gauzy
+gauzy 1
 galatae
 goitrogenicity 1
 groof
