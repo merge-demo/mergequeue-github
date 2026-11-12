@@ -8103,7 +8103,7 @@ chaffinch
 caressable
 climatical
 camelion
-chaffman
+chaffman 1
 culicines
 codiniac
 coracosteon
