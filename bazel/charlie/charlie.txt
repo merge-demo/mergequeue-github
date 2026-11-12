@@ -15313,7 +15313,7 @@ clanfellow
 caddo
 compatriot
 crowdie
-critturs
+critturs 1
 coexist
 clangful
 clanging
