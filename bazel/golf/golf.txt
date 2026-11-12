@@ -10476,7 +10476,7 @@ gonium
 glutei 1
 graylings
 gastrin
-goli
+goli 1
 gusher
 glumaceous
 gulfwards
