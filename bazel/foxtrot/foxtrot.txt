@@ -140,7 +140,7 @@ fumiferous
 flashforwards
 flagellist
 feedhead
-fibre
+fibre 1
 fossiled
 facsimiled 1
 fracturable
