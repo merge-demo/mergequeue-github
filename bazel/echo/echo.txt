@@ -7394,7 +7394,7 @@ ensue
 exuviate
 encloses
 exonship
-epithetical
+epithetical 1
 extollment
 everywhither
 earthmoving
