@@ -495,7 +495,7 @@ flaneries 1
 fohns
 formicariidae
 flickered
-foretokens
+foretokens 1
 frieseite
 fiumara
 forcleave
