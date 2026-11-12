@@ -10637,7 +10637,7 @@ frankness
 fiddlededee
 frogstool
 filtrability
-facultate
+facultate 1
 fegatella
 flatulent
 fickly
