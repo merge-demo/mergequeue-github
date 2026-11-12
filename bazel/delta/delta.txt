@@ -14845,7 +14845,7 @@ doorbells
 dharmashastra
 doctrinarity
 dotant
-designate
+designate 1
 doctrinate
 doctrines
 delinition
