@@ -9133,7 +9133,7 @@ foldboating
 frusta
 fooner
 fracid 1
-frizzier
+frizzier 1
 foreshadows
 foraminulous
 footropes
