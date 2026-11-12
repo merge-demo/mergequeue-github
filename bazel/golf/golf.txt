@@ -4039,7 +4039,7 @@ gerundive
 gushingly
 graybacks
 grossierete
-giliak
+giliak 1
 gunating
 garter
 glochidium
