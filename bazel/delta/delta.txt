@@ -17745,7 +17745,7 @@ dibutyrin
 disconsolate
 dispelling
 ducally
-drunt
+drunt 1
 discriminous
 dispossessed
 ducaton

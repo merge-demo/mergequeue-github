@@ -1959,7 +1959,7 @@ festshrifts
 francia
 fainaiguing 1
 forbite
-formalistically
+formalistically 1
 forecaster
 fothergilla 1
 fancy
