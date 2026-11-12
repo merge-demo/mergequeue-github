@@ -12666,7 +12666,7 @@ abanet
 aeronomist
 arpeggiation
 annus
-arcticward
+arcticward 1
 angareb
 angel
 angela
