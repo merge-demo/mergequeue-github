@@ -462,7 +462,7 @@ catheretic
 cancelable
 cacumination
 coleopterous
-cacuminous
+cacuminous 1
 cacur
 cad
 cadamba
