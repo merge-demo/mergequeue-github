@@ -4644,7 +4644,7 @@ bargee
 bedevilment
 bescarf
 brustling
-bioplasmic
+bioplasmic 1
 betsileos
 bedewed
 bulrushlike
