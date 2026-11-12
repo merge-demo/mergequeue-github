@@ -8553,7 +8553,7 @@ ethylenoid
 enorganic
 easts
 exclusively
-epichoristic
+epichoristic 1
 equative
 electre
 eburneous

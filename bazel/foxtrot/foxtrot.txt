@@ -2076,7 +2076,7 @@ feudalisation
 famishes
 foremasthand
 felicity
-fructidor
+fructidor 1
 fusibleness
 freeform
 fideistic
