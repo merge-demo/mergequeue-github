@@ -5096,7 +5096,7 @@ cascadia
 clupeine
 cascadian
 chacra
-chondrosamine
+chondrosamine 1
 cascadite
 cascalho
 cascalote
