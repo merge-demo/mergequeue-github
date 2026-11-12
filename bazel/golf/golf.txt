@@ -4860,7 +4860,7 @@ gleg
 gigantize
 greenings
 goiterogenic
-gladfulness
+gladfulness 1
 galaxian
 geck
 glaciates
