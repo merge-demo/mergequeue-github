@@ -2867,7 +2867,7 @@ familistery
 fortuned
 fameflower
 fettered
-frowstiness
+frowstiness 1
 foozle
 flouter
 flatlets
