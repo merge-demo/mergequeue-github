@@ -9670,7 +9670,7 @@ esplanade
 enhancements
 elkhounds
 exsec
-explicability
+explicability 1
 extortionist
 encounterers
 evangelicalism
