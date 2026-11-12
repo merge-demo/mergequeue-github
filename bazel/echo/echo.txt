@@ -5368,7 +5368,7 @@ evilspeaking
 expatriations
 evzones
 endocline
-epicrystalline
+epicrystalline 1
 encoring
 enarme
 endosteomata
