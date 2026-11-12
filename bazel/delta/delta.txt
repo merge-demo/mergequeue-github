@@ -9583,7 +9583,7 @@ dignotion
 dependants
 desmitis
 deuterons
-digonal
+digonal 1
 digoneutism
 differentness
 divisi
