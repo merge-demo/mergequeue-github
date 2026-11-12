@@ -17190,7 +17190,7 @@ difformed
 disintricate
 drysne
 dictyonema
-director
+director 1
 diaphoresis
 decursive
 depletory
