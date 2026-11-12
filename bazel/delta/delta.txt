@@ -14602,7 +14602,7 @@ decupling
 divorcive 1
 dietal
 devs
-divort
+divort 1
 deconsecration
 dietarily
 desulfovibrio
