@@ -8278,7 +8278,7 @@ chalcus
 chaldean
 chiver
 caucused
-caricetum
+caricetum 1
 contravariant
 councillary
 chalder

@@ -13510,7 +13510,7 @@ brodequin
 bijouterie
 briquette
 bouch
-blacksmith
+blacksmith 1
 boucharde
 belime
 baccae
