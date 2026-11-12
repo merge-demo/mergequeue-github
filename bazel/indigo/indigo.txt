@@ -14732,7 +14732,7 @@ izmbfi
 izmdsbprsj
 izmff
 izmgtot
-izmjx
+izmjx 1
 izmo
 izmplaauf
 izmplfpc
