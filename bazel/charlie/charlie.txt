@@ -5699,7 +5699,7 @@ catastrophist
 catathymic
 catatony
 catatonic 1
-coeloglossum
+coeloglossum 1
 countersignal
 catawampous
 catawamptiously
