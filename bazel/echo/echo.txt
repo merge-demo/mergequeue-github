@@ -9350,7 +9350,7 @@ enlock
 ectomorphic
 exolution
 emotionally
-emane
+emane 1
 enrobement
 effecter
 enveigle
