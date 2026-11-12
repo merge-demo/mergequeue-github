@@ -11215,7 +11215,7 @@ electrotonicity
 experimentalist
 epibolies
 evangeliaries
-endocycle
+endocycle 1
 exocrinology
 enkindling
 enthronised
