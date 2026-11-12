@@ -86,7 +86,7 @@ bulwarks
 bori
 baldachins
 babhan
-balafo
+balafo 1
 barkened
 beastliest
 bespout
