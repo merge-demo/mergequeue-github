@@ -18165,7 +18165,7 @@ dorsolateral
 dandyize
 dumpled
 discreetest
-depositaries
+depositaries 1
 dynamicity
 dumpoke
 deltohedra
