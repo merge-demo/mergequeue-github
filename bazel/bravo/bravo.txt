@@ -5049,7 +5049,7 @@ befalls
 botanised
 battlers
 blazoned 1
-bastonet
+bastonet 1
 bowfin
 bloodthirst
 befamilied
