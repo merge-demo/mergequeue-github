@@ -7184,7 +7184,7 @@ amole
 airworthiness 1
 anadromous
 alacran
-advertized
+advertized 1
 automatic
 ameloblast
 adnouns
