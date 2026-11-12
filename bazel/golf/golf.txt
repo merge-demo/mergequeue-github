@@ -9108,7 +9108,7 @@ geoid
 garotte
 governableness 1
 grumose
-guttation
+guttation 1
 geophagist
 guillemet
 grindable
