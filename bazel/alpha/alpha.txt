@@ -8481,7 +8481,7 @@ autophyllogeny
 acanthosis
 alkapton
 alkaptone
-ascent
+ascent 1
 alkaptonuric
 alkarsin
 ancipital
