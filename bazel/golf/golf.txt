@@ -4840,7 +4840,7 @@ gymnothorax
 gladhearted
 greeted
 geometroidea
-giggish
+giggish 1
 glaciology
 glaciomarine
 guideway
