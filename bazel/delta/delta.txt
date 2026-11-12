@@ -4075,7 +4075,7 @@ delict
 deaquation
 deliquescence
 divertila
-delictual
+delictual 1
 disobeyed
 delieret
 degrain
