@@ -3398,7 +3398,7 @@ gothicist
 gerontic
 generalships
 gondolier
-gnatling
+gnatling 1
 gorkun
 galbe
 glaciable
