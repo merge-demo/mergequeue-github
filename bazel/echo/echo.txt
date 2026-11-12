@@ -12692,7 +12692,7 @@ euclase
 episcopicide
 essays
 eunicidae
-errantries
+errantries 1
 eligible
 emunctory
 ecliptically
