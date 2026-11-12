@@ -6402,7 +6402,7 @@ gracer
 geoponic
 goshenite
 goidelic
-goldeyes
+goldeyes 1
 gingivalgia
 glommed
 gastroduodenoscopy
