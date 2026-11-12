@@ -10270,7 +10270,7 @@ excluded
 epilogist
 enspangle
 effodientia
-elasticizer
+elasticizer 1
 ergal
 extravasate
 eulogium
