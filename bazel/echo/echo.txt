@@ -1806,7 +1806,7 @@ eyespots
 epexegetically
 eyewaiter
 eogaea
-episepalous
+episepalous 1
 emanium
 esrogim
 emigrant
