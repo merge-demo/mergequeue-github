@@ -717,7 +717,7 @@ faming
 foreladies
 freeness 1
 flincher
-fired
+fired 1
 flagroot
 famous
 florigens
