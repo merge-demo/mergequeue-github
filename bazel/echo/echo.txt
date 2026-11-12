@@ -10428,7 +10428,7 @@ earlduck
 echinate
 ethrogim
 ehatisaht
-etymic
+etymic 1
 ergosterin
 endomyces
 electrochronometer
