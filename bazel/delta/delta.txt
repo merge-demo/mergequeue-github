@@ -12482,7 +12482,7 @@ deboise
 demesne
 dislimb
 disyllabized
-dumky
+dumky 1
 discontinuations
 disconform
 disillusionising

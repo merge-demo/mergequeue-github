@@ -14507,7 +14507,7 @@ adnoun
 anobing
 allylate
 anthropographic
-ascenseur
+ascenseur 1
 anthropol
 anthropolatry
 antigraphy
