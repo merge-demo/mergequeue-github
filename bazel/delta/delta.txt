@@ -13362,7 +13362,7 @@ decurving
 disequilibria
 disputisoun
 duala
-disheartens
+disheartens 1
 distributively
 daguerreotypes
 disporting
