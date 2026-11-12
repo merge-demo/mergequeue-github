@@ -10500,7 +10500,7 @@ ecclesiolatry
 eucgia
 eightpenny
 enologies
-exorbitant
+exorbitant 1
 eclectics
 epulary
 exemplifying
