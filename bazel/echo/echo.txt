@@ -9088,7 +9088,7 @@ equitangential
 expulse
 endoscopic
 exponential
-equipollent
+equipollent 1
 epicolic
 euryalae
 encanker
