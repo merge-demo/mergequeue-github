@@ -9327,7 +9327,7 @@ alpestrine
 aircraft
 atomiferous
 alphabetarian
-acclimatizable
+acclimatizable 1
 aboiteau
 amphibiontic
 acerose
