@@ -9119,7 +9119,7 @@ charterhouse
 chartering
 charterism
 charterless
-chartermaster
+chartermaster 1
 charters
 cryptograms
 cindered
