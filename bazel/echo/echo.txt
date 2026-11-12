@@ -6523,7 +6523,7 @@ execration
 ephemeric
 englishes
 ephemeris 1
-egomaniacal
+egomaniacal 1
 enrollment
 ectosphenoid
 essayists
