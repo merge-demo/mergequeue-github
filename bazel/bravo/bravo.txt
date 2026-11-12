@@ -6989,7 +6989,7 @@ barricades
 basilian
 besmouch
 bloodying
-bacteritic
+bacteritic 1
 besmudge
 beamless
 bronzite
