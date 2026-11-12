@@ -14114,7 +14114,7 @@ amyelencephalic
 antemeridian
 anukit
 antemetallic
-anestrus
+anestrus 1
 antemillennial
 aurorally
 ambulomancy
