@@ -12383,7 +12383,7 @@ chromatophobia
 chromatophore
 carpel
 chromatophoric
-canthectomy
+canthectomy 1
 chevroned
 cnidophobia
 culebra
