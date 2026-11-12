@@ -3868,7 +3868,7 @@ aleft
 acrook
 adiposuria
 andante
-adipsy
+adipsy 1
 attainableness
 attracting
 adipsic
