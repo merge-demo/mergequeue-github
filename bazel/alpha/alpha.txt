@@ -16788,7 +16788,7 @@ antipascha
 antifrictional
 abscoulomb
 algarsyf
-aphorise
+aphorise 1
 aphorismer
 aphorismical
 acanthopore
