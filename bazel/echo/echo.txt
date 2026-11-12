@@ -14149,7 +14149,7 @@ expromission
 ecoles
 enigmatology
 escapists
-episcopising
+episcopising 1
 entredeux
 extrusory
 eof
