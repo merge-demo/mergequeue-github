@@ -13548,7 +13548,7 @@ dalmatians
 distributival
 devaluation 1
 darlings
-divergence
+divergence 1
 disseminations
 digredient
 dismeasured
