@@ -2975,7 +2975,7 @@ debunking
 deductible
 deciduata
 delinquent
-depositional
+depositional 1
 diaphanotype
 describers
 decemfid 1
