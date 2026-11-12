@@ -13268,7 +13268,7 @@ bumbarge
 bromide
 bullydom
 blitzkriegs
-boswellian
+boswellian 1
 boswelliana
 barrulet
 boulders
