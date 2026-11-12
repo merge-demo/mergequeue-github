@@ -11589,7 +11589,7 @@ elaeocarpus
 extorted
 earringed
 ectromelic
-encephalosepsis
+encephalosepsis 1
 evolutoid
 elegize 1
 enchiridion
