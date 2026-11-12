@@ -8178,7 +8178,7 @@ algophilia
 algophilist
 albuminolysis
 acetonylacetone
-algophobia
+algophobia 1
 algor
 attar
 alienor
