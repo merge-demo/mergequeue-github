@@ -12693,7 +12693,7 @@ episcopicide
 essays
 eunicidae
 errantries
-eligible
+eligible 1
 emunctory
 ecliptically
 esotericist
