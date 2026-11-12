@@ -10954,7 +10954,7 @@ ishqndsgr
 ishqtlqoff
 ishrk
 ishwced
-ishzpvi
+ishzpvi 1
 isifxmm
 isigin
 isigyk
