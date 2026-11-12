@@ -10510,7 +10510,7 @@ astronautically
 adfrozen
 antisensuous
 amidoazo
-anchoic
+anchoic 1
 amidofluorid
 aperulosid
 amidogen
