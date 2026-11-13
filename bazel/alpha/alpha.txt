@@ -10226,7 +10226,7 @@ asiarchate 1
 amebicide
 antiface
 amebid
-attorneys
+attorneys 1
 appendaged
 abray
 amebiform
