@@ -4619,7 +4619,7 @@ folsom
 footweary
 foresaying
 fasciotomy
-fleckless
+fleckless 1
 fruitgrowing
 fitchew
 fitified
