@@ -22671,7 +22671,7 @@ conoidic
 chessboard
 contributor
 conoidically
-camphanyl
+camphanyl 1
 conciser
 camletine
 cotinus
