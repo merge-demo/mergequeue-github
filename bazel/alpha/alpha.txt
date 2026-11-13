@@ -11242,7 +11242,7 @@ algebar
 amphigories
 appenders
 allthing
-amphikaryotic
+amphikaryotic 1
 affluently
 abrege
 atchison
