@@ -10096,7 +10096,7 @@ gresil
 galahs
 gastropods
 garrulus
-ghostwrote
+ghostwrote 1
 galactodensimeter
 grammarian
 gekkonoid
