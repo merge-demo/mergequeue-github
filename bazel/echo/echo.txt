@@ -7312,7 +7312,7 @@ emulous
 eimeria
 enterpillar
 eat
-enigmatize
+enigmatize 1
 etchers
 encushion 1
 epagomenae
