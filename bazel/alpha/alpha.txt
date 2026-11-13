@@ -3141,7 +3141,7 @@ adalat
 airplays
 autokinetic
 amphipyrenin
-actionary
+actionary 1
 associableness
 antinaturalist
 aurin
