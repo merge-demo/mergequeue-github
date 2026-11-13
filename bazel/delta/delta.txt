@@ -14825,7 +14825,7 @@ doctorial
 disadjust
 demidog
 doctorially
-doctoring
+doctoring 1
 doctorize
 distinctness
 distributive
