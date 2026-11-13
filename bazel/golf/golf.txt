@@ -1886,7 +1886,7 @@ gilgai
 goofy
 geodic
 galacturia
-gardenwise
+gardenwise 1
 grabber
 gatherers 1
 galumph
