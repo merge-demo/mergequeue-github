@@ -662,7 +662,7 @@ enshrouding
 extracondensed
 electrophysiology
 emaculate
-estheses
+estheses 1
 eclipse
 exudative
 eclipsed
