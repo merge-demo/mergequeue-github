@@ -555,7 +555,7 @@ flosculose
 fainest
 ff
 fertilely
-figless
+figless 1
 frim
 foxwood
 federative 1
