@@ -9067,7 +9067,7 @@ entergogenic
 extrality
 extravascular
 erythrocytoschisis
-epenthesis
+epenthesis 1
 editorialist
 erythrocytosis
 embryogony
