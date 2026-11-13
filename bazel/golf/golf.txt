@@ -4113,7 +4113,7 @@ gipsywort
 gulgul
 gratifiedly 1
 gilder
-glycerogelatin
+glycerogelatin 1
 giraffish
 genapper
 gimleteyed
