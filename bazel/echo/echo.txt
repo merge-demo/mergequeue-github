@@ -5982,7 +5982,7 @@ enjambements
 enigmata
 eluvial
 exquisite
-etourderie
+etourderie 1
 ephphatha
 enigmatist
 enigmatizing
