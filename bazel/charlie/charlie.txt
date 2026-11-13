@@ -31278,7 +31278,7 @@ curatrix
 curb
 citronellal
 calycanthine
-curbable
+curbable 1
 curber
 curbers
 cadastrally
