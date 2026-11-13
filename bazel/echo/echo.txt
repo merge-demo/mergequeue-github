@@ -12975,7 +12975,7 @@ evanition
 epicentrums
 equanimously
 expecter
-expecting
+expecting 1
 expectingly
 enzym
 encephalopyosis
