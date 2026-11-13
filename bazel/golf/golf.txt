@@ -220,7 +220,7 @@ girdling
 gags
 gonoecium
 guarder 1
-greatens
+greatens 1
 gradefinder
 gratiano
 gaiassa
