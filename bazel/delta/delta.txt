@@ -560,7 +560,7 @@ damars
 decoratory
 devocate
 doesnt
-delivers
+delivers 1
 dromon
 disbursable
 disfranchiser
