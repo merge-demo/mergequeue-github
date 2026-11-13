@@ -9675,7 +9675,7 @@ gruelers
 glossography
 graphologies
 griphe
-gametange
+gametange 1
 gradative
 glareous
 galapee
