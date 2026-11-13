@@ -5855,7 +5855,7 @@ gladify
 gate
 gymnosporangium 1
 gynoecium
-glucate
+glucate 1
 gorevan
 gibelite
 gastrostomies
