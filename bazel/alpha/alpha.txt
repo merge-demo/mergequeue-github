@@ -8543,7 +8543,7 @@ anopisthographic
 assise
 amylophagia
 availabile
-aphoristically
+aphoristically 1
 allabuta
 antiphonal
 archaeologically
