@@ -19711,7 +19711,7 @@ acrostichal
 aristologist
 aristophanic
 aristorepublicanism
-arteriorrhexis
+arteriorrhexis 1
 actinocutitis
 aristotelean
 aristotelianism
