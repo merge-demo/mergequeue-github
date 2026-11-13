@@ -3223,7 +3223,7 @@ barkpeel 1
 biltong
 basigynium
 basilarchia
-beware
+beware 1
 blotchily
 basilary
 basilateral
