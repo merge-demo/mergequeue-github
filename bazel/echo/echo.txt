@@ -11196,7 +11196,7 @@ evanescence
 encephalomalacosis
 epidotic
 exuberantly
-enspheres
+enspheres 1
 electroacoustically
 econometrist
 evanesces
