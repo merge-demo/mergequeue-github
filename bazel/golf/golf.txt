@@ -7703,7 +7703,7 @@ gemutlich
 gerontism
 gest
 graduands
-geopolitic
+geopolitic 1
 girning
 galvanized
 gunpowderous
