@@ -2970,7 +2970,7 @@ drawstop
 deducted
 devolatilized
 disseisoress
-doxycycline
+doxycycline 1
 debunking
 deductible
 deciduata
