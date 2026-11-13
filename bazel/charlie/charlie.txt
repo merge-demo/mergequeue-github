@@ -5517,7 +5517,7 @@ cataclastic
 cataclinal
 cataclysmal
 coumbite
-cataclysmatist
+cataclysmatist 1
 cataclysmic
 cataclysmically
 crowboot
