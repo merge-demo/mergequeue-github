@@ -5255,7 +5255,7 @@ hidpnr
 hidpqknq
 hidptpr
 hidr
-hidtecst
+hidtecst 1
 hidtlilrqjax 1
 hiducmdsoq
 hidunhev
