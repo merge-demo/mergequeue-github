@@ -5968,7 +5968,7 @@ fallibility
 floodlit
 fibromembrane
 floods 1
-foisons
+foisons 1
 fortifiable
 fantaisie
 fisk
