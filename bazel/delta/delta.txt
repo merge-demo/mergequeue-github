@@ -177,7 +177,7 @@ daedaleous
 didromies
 degami
 daedalic
-diminish
+diminish 1
 diphenylmethane
 drachmai
 dopiest
