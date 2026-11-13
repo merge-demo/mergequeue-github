@@ -7737,7 +7737,7 @@ ephapse
 everyness
 erythraea
 epirogeny
-epidermic
+epidermic 1
 epidermical
 enteroplasty
 erechtheus
