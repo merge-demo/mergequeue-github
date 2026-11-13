@@ -25482,7 +25482,7 @@ congenialness
 cephaelis
 coroll
 cartooning
-corollary
+corollary 1
 centrosymmetric
 chastens
 cervicohumeral
