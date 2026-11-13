@@ -482,7 +482,7 @@ fuseau
 fakeer
 fissiparism 1
 fretting
-featherleaf
+featherleaf 1
 fetiferous
 fullbacks 1
 foremastman
