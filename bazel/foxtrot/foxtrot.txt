@@ -11521,7 +11521,7 @@ fireflaught
 filmsetting
 forleave 1
 ferruler
-fistic
+fistic 1
 foreremembered
 fab 1
 furtiveness
