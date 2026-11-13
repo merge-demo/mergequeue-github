@@ -12042,7 +12042,7 @@ exploitage
 episcias
 extra
 entackle
-ervum
+ervum 1
 excommunicative
 excommunicator
 expetible
