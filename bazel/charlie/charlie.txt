@@ -14317,7 +14317,7 @@ cask
 connectivity
 circumscribable
 condescend
-circumscribed
+circumscribed 1
 collapsed
 circumsession
 circumsinous
