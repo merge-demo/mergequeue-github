@@ -17365,7 +17365,7 @@ drib
 dasypygal
 doigt
 derivability
-delime
+delime 1
 dillydallies
 deallocation
 delactation
