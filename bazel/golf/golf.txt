@@ -6587,7 +6587,7 @@ gambas
 guazzo
 groyne
 goulan
-ghostwrite
+ghostwrite 1
 gingivolabial
 gynandrian
 gelsemin
