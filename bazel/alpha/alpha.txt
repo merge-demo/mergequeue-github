@@ -19818,7 +19818,7 @@ armenic
 agapetidae
 axinomancy
 armenoid
-assaulted
+assaulted 1
 apodemata
 aspires
 anmia
