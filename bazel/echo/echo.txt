@@ -385,7 +385,7 @@ epicalyxes
 ebionite
 ebionitism
 existless
-equites
+equites 1
 episomally
 empery
 ejaculated
