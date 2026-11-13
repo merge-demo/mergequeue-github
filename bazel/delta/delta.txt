@@ -16374,7 +16374,7 @@ debar
 downtrampling
 downtreading
 dicynodont
-disserviceable
+disserviceable 1
 detray 1
 downturn
 downturns
