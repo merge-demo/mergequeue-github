@@ -15342,7 +15342,7 @@ displeasureable
 descendability
 domba
 disbogue
-daimioate
+daimioate 1
 donationes
 deserver
 dome
