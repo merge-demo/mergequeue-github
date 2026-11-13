@@ -9888,7 +9888,7 @@ deboner
 decolonising
 daturic
 deuteronomist
-dimeride
+dimeride 1
 dampproofer
 diosgenin
 dumba
