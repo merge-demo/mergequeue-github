@@ -15240,7 +15240,7 @@ austere
 arborolatry
 asparagine
 apicilar
-adarticulation
+adarticulation 1
 antifowl
 arthrolite
 adapa
