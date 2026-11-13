@@ -18232,7 +18232,7 @@ ashet
 aquopentamminecobaltic
 arcady
 aquose
-analogistic
+analogistic 1
 ar
 ara
 arabesks
