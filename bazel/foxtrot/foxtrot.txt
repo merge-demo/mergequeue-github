@@ -524,7 +524,7 @@ fermentive
 forgivableness
 forepaled
 fetterless
-fustigating
+fustigating 1
 falcon
 falconinae
 favoredness
