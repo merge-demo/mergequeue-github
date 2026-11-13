@@ -10116,7 +10116,7 @@ extrusible
 endorses
 ethereally
 entwined
-emprosthotonos
+emprosthotonos 1
 etherealness
 escherichia
 equisetum
