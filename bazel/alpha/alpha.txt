@@ -15247,7 +15247,7 @@ adapa
 amalgamates
 antifreeze
 antifriction
-antifrost
+antifrost 1
 antifungal
 apoenzyme
 ataentsic
