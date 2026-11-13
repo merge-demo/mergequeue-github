@@ -6505,7 +6505,7 @@ calusar
 conchie
 cavy
 cavia
-cavicorn
+cavicorn 1
 cuprocyanide
 calve
 catalogues
