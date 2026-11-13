@@ -6020,7 +6020,7 @@ drayages
 depurate
 dulcarnon
 dicliny
-depuratory
+depuratory 1
 depure
 distortedly
 diagonally
