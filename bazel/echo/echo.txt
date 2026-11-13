@@ -1280,7 +1280,7 @@ eelworm
 een
 extraditable
 ecorche
-eblis
+eblis 1
 eucairite
 eleonorite
 eoghanacht
