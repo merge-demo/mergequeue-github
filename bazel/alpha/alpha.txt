@@ -724,7 +724,7 @@ abradants
 anodendron
 aver
 alternize
-anglicized
+anglicized 1
 aptote
 animine
 antivaccination
