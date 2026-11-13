@@ -5792,7 +5792,7 @@ catechizer
 calamondin
 cojoin
 cheveys
-callicarpa
+callicarpa 1
 coeldership 1
 coyotillo
 catechumenal
