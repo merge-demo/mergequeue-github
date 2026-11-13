@@ -2489,7 +2489,7 @@ grassing
 grewia
 grots
 guttersnipes
-gibbetwise
+gibbetwise 1
 genitalic
 grandity
 glossier
