@@ -1615,7 +1615,7 @@ butyrous
 balloted
 ballotist
 ballots
-ballottement
+ballottement 1
 backlotter
 baronage
 bahamian
