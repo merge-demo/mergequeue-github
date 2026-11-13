@@ -3406,7 +3406,7 @@ crossbarring
 continuua
 capretto
 capri
-capric
+capric 1
 checkhook
 capriccetto
 capricci
