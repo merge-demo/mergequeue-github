@@ -5293,7 +5293,7 @@ defat
 degasifier
 dispositioned
 diatomaceoid
-denouncers
+denouncers 1
 detestable
 detinue
 dentale
