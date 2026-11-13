@@ -8050,7 +8050,7 @@ bicornute 1
 beshadow
 bicorporate
 banyai
-belleeks
+belleeks 1
 bacteriohemolysin
 bicostate
 billows
