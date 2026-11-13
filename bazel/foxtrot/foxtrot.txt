@@ -10373,7 +10373,7 @@ farmyards
 fungite
 flusterment
 fibroplasia
-fonctionnaire
+fonctionnaire 1
 forgivers
 fecundities
 fertilizable
