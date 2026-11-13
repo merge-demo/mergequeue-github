@@ -5841,7 +5841,7 @@ glt
 gatten
 gonophoric
 glochidia 1
-gendarmes
+gendarmes 1
 gruiformes
 ghettoing
 geroderma
