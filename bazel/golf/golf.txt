@@ -3065,7 +3065,7 @@ gnash 1
 glaciologists
 grands
 graphiter
-greensauce
+greensauce 1
 gerbils
 gamelin
 genepi
