@@ -2620,7 +2620,7 @@ canephorae
 canephore
 canephori
 canephoroi
-canepin
+canepin 1
 cooser
 ciphonies
 cheeseflower
