@@ -24003,7 +24003,7 @@ convented
 coelicolist
 cylinderlike
 conventicle
-conventicular
+conventicular 1
 craniotome
 convention
 conventional
