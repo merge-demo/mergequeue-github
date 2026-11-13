@@ -20231,7 +20231,7 @@ aeolodion
 athetosis
 arricciato
 acquiesces
-applicator
+applicator 1
 apetaly
 areroscope
 achromatic
