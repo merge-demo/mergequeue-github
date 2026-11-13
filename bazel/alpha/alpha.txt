@@ -2080,7 +2080,7 @@ acheulean
 accustoms
 acumens
 achy
-absconds
+absconds 1
 airtime
 anthologion
 aphagia
