@@ -8385,7 +8385,7 @@ glucid
 gasterosteiform
 ginner
 grillading
-grandisonant
+grandisonant 1
 gadolinite
 gunport
 gallivanting
