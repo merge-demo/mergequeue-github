@@ -4934,7 +4934,7 @@ facetiously
 flatteringly
 fergusite
 frenetic
-formly
+formly 1
 fchar
 fluidised
 foining

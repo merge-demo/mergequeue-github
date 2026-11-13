@@ -11732,7 +11732,7 @@ chondritic 1
 chondroalbuminoid
 chondroangioma
 credential
-coexchangeable
+coexchangeable 1
 countercouchant
 chondroarthritis
 contestant
