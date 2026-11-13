@@ -2901,7 +2901,7 @@ fungiferous
 fistulate
 fruitlet
 froglike
-farsightedly
+farsightedly 1
 flows
 fouettes
 floorcloth
