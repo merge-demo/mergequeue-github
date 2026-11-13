@@ -5402,7 +5402,7 @@ epicurishly 1
 eosphorite
 existant
 embroidered
-edges
+edges 1
 ethylidene
 evicted
 envolupen
