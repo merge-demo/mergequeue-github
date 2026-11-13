@@ -11698,7 +11698,7 @@ angulating 1
 anaesthesis
 abeltree
 appearanced
-anaesthetically
+anaesthetically 1
 anthropomantic
 aruspex
 anaesthetization
