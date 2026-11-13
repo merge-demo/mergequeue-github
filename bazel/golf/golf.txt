@@ -378,7 +378,7 @@ gaoled
 glaive
 gentiles
 glossophagine
-goto
+goto 1
 gansy
 glumpily 1
 goatskins
