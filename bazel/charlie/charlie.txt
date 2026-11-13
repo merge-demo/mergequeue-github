@@ -1153,7 +1153,7 @@ countermark
 calcography
 culturology
 calcsinter
-chinnam
+chinnam 1
 cranioclasis
 calcspars
 cotwal
