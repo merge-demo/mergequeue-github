@@ -18271,7 +18271,7 @@ adultlike
 arabism
 abstinent
 aquiculture
-arabist
+arabist 1
 appreciator
 arabit
 appreciative
