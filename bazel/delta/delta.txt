@@ -9190,7 +9190,7 @@ demilance
 devilman
 ditriglyph
 dieb
-dusterman
+dusterman 1
 delaine
 diebacks
 donk
