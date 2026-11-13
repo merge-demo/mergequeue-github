@@ -4073,7 +4073,7 @@ empiricalness
 epibolism
 engorgement
 esquimau
-expositorily
+expositorily 1
 exospheric
 enforcement
 erratical
