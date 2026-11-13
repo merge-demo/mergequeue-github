@@ -4886,7 +4886,7 @@ frondiferous
 fetching
 factuality
 frightenedness 1
-fabricational
+fabricational 1
 funks
 foldedly
 foretasted
