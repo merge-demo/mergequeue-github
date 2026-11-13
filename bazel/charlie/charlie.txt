@@ -18370,7 +18370,7 @@ centime
 cognacs
 cognate
 contrarevolutionary
-chamsin
+chamsin 1
 cognately
 cerotate
 cognati
