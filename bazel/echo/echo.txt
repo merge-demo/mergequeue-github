@@ -13323,7 +13323,7 @@ electromyograph
 elusively
 eyewear
 encomendero
-expone
+expone 1
 ephoralty
 exponency
 extrared
