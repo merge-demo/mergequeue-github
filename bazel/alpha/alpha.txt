@@ -18259,7 +18259,7 @@ archont
 arachnomorphae
 arabiyeh
 apparel
-acquisitum
+acquisitum 1
 adjunct
 awshar
 arability
