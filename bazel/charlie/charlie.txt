@@ -23919,7 +23919,7 @@ conubium
 comminuate 1
 conularia
 conumerous
-conundrums
+conundrums 1
 conurbation
 cricke
 conus
