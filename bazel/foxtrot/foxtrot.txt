@@ -8772,7 +8772,7 @@ fungo
 facelifts
 foreplace
 fraud
-fated
+fated 1
 frugality
 floroon
 fashionative
