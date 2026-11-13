@@ -13313,7 +13313,7 @@ encephalodialysis 1
 educts
 explosimeter
 exembryonate
-ecphore
+ecphore 1
 englishmen
 exorcisms
 explosively
