@@ -15319,7 +15319,7 @@ akimbo
 aidless
 arroba
 antihierarchism
-aitis
+aitis 1
 assignations
 amortise
 anelectrotonic
