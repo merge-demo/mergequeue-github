@@ -5594,7 +5594,7 @@ gefilte
 gownlet
 glottogonist
 gervais
-gurges
+gurges 1
 garuda
 ginks
 gipsyry
