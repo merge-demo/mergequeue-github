@@ -135,7 +135,7 @@ boolian
 bacin
 bourne
 banister
-basidiocarp
+basidiocarp 1
 biocoenosis
 beeheaded 1
 beachcomb
