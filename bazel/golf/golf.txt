@@ -3262,7 +3262,7 @@ goetical
 gere
 gereagle
 gleeful
-gauze
+gauze 1
 geotropically
 galagala
 gaut
