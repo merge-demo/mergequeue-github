@@ -17186,7 +17186,7 @@ bullocker
 brachydodrome
 beduins
 blastulae
-brisque
+brisque 1
 beneficiaryship
 barkantine 1
 bullpen
