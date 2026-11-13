@@ -2983,7 +2983,7 @@ barrios
 boulevard
 barrister
 bootless
-banda
+banda 1
 botts
 buat
 burrel
