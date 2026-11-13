@@ -6026,7 +6026,7 @@ floralize
 floras
 furnaced
 focusless
-freakish
+freakish 1
 frottage
 fluty
 floreating
