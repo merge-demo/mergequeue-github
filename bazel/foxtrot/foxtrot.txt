@@ -10775,7 +10775,7 @@ fascisticize 1
 finials
 fulgentness
 fanaticize
-flittermice
+flittermice 1
 films
 freehandedness
 flagstaffs
