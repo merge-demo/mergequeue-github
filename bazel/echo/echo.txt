@@ -9333,7 +9333,7 @@ escapage
 eruptible 1
 eruption
 eruptional
-establishing
+establishing 1
 ellen
 eruptive
 extortioner
