@@ -4258,7 +4258,7 @@ gammoned
 gynarchic
 gazella
 geumatophobia
-gradometer
+gradometer 1
 galravitch
 generationism
 gypsuming
