@@ -14262,7 +14262,7 @@ depravers
 deisms
 downcrying
 defoliator
-deviationist
+deviationist 1
 donkeymen
 demulceate
 deb

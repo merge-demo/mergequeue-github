@@ -513,7 +513,7 @@ graff 1
 galivants
 geneticism
 gleamiest
-glissandos
+glissandos 1
 gustily
 guruship
 gallbladders
