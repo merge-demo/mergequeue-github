@@ -13389,7 +13389,7 @@ entobranchiate
 expostulatively
 euscaro
 escapeway
-exemplify
+exemplify 1
 exposture
 epanaphoral
 exter
