@@ -3053,7 +3053,7 @@ globulins
 gastromyces
 geometridae
 gangshag
-geometriform
+geometriform 1
 graminicolous 1
 gemmipares
 glyptotheca
