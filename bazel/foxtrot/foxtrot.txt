@@ -5160,7 +5160,7 @@ formnail
 filtering
 frotteur
 frankfurter
-flavanone
+flavanone 1
 flambes
 formicidae
 funambulism
