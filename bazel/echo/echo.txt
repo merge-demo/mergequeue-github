@@ -7710,7 +7710,7 @@ esprise
 extruder
 ellipticalness
 epidemically
-exalt
+exalt 1
 escurialize
 evidentiary
 erythrine
