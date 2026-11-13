@@ -3077,7 +3077,7 @@ expurgational
 ellenyard
 escribed
 enshrine
-equilater
+equilater 1
 emetia
 exhaustible
 equated
