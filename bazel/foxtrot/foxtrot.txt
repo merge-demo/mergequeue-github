@@ -9752,7 +9752,7 @@ frequentest
 foraminifer
 feldspar
 functionalities
-frapp
+frapp 1
 fallacies
 falchion
 fessways
