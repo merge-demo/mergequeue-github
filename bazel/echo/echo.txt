@@ -11727,7 +11727,7 @@ enclasped
 epicrises
 examen
 elementals
-enregistry
+enregistry 1
 exurban
 elasticizing
 exobiology
