@@ -5079,7 +5079,7 @@ delightsome
 dendriform
 dialer
 dendritical
-deal
+deal 1
 derbyshire
 dendrium
 diminishes
