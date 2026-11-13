@@ -10410,7 +10410,7 @@ glareworm
 graduality
 gnotobiotic
 guidecraft
-gutturalness
+gutturalness 1
 guttier
 gatecrashers
 gadgetries
