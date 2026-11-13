@@ -1843,7 +1843,7 @@ fore
 feastless
 febrific
 flaccid
-feloid
+feloid 1
 febrile
 forrue
 fcs
