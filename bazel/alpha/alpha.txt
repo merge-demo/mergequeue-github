@@ -10309,7 +10309,7 @@ ampicillin
 amenorrheic
 amenorrho
 aprosexia
-arabicism
+arabicism 1
 amenorrhoea
 adeem
 aeronauts
