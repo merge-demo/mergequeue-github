@@ -7117,7 +7117,7 @@ centimetre
 cashmerette
 centimetres
 cullion
-centimo
+centimo 1
 centimos
 commonplaceism
 crossties
