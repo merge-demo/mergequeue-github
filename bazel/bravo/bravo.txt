@@ -15444,7 +15444,7 @@ beiges
 boba
 bullule
 bemusing
-brilliantly
+brilliantly 1
 brilliantwise
 brilliolette
 brills
