@@ -5236,7 +5236,7 @@ endolysin
 eparchy
 eretrian
 equipluve
-equilibrate
+equilibrate 1
 endomitosis
 endomorphy
 exta
