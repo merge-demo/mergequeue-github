@@ -27527,7 +27527,7 @@ covenantal
 corrodant
 cypridinoid
 cisted
-covenantee
+covenantee 1
 complementizer
 covenanter
 cameroon
