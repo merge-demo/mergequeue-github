@@ -7218,7 +7218,7 @@ fifer
 foolocracy
 factionaries
 fairer
-farers
+farers 1
 falderols
 fimbrillose
 fiend
