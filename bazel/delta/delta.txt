@@ -16995,7 +16995,7 @@ dampeners
 disemplaned
 dreidels
 dreikanter
-dreynt
+dreynt 1
 distendedly
 duplicature
 disordered
