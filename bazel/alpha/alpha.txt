@@ -12384,7 +12384,7 @@ amblyopic
 allumine
 atheroma
 armoniac
-amebiasis
+amebiasis 1
 aortolith
 absistos
 antiecclesiasticism
