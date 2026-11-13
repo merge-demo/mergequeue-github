@@ -2037,7 +2037,7 @@ frogmouth
 fourpounder
 ferngrower
 frontspiece
-feinter 1
+feinter 2
 feudary
 fundi
 facedown
