@@ -1156,7 +1156,7 @@ economizers
 estuaries
 enterobiasis
 edomitish
-expective
+expective 1
 eutomous
 exorbitate
 enterograph
