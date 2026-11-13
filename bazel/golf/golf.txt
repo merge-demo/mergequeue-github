@@ -10490,7 +10490,7 @@ guestwise
 gilravage
 gumshoeing
 gumweed
-galangals
+galangals 1
 gumweeds
 geerah
 gramenite
