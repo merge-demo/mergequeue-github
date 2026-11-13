@@ -6891,7 +6891,7 @@ glis
 gannet
 glibly
 goodenia
-gestated
+gestated 1
 gatling
 guyed
 gitterns
