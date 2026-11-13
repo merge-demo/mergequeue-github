@@ -6959,7 +6959,7 @@ entourage 1
 empt
 enounces
 entozoologically
-entrain
+entrain 1
 enantiomorphy
 elicitate
 embrocado

@@ -2418,7 +2418,7 @@ ferlying
 foiler
 ferling
 furls
-fortnightly
+fortnightly 1
 fermail
 flabellifoliate
 fobbed
