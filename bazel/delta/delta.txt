@@ -7940,7 +7940,7 @@ dresden
 dexes
 desertward
 disestablismentarianism
-dexiotrope 1
+dexiotrope 2
 dyeable
 dexiotropic
 dishwashing
