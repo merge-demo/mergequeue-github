@@ -4605,7 +4605,7 @@ glossoid
 girlery 1
 girlishly
 glink
-giornata
+giornata 1
 guarantees
 glycerizin
 griotte
