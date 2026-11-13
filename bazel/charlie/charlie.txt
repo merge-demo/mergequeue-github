@@ -12595,7 +12595,7 @@ cercle
 cafetiere
 chronologizing
 chronomantic
-chronomastix
+chronomastix 1
 chronometer
 crom
 citolers
