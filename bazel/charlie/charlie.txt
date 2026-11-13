@@ -11980,7 +11980,7 @@ crete
 cosmological
 crucified
 chorioptes
-chorioptic
+chorioptic 1
 choripetalae
 cleuk
 choripetalous
