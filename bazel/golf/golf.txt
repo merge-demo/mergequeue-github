@@ -10277,7 +10277,7 @@ gurnards
 gratifies
 guise
 galv
-garnel
+garnel 1
 guestimating
 gervase
 guarantorship
