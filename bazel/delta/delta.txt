@@ -4844,7 +4844,7 @@ demonetizing
 disembogue
 depthen
 deciduary
-decumana
+decumana 1
 deepness
 dharna
 detickers
