@@ -5530,7 +5530,7 @@ gastropoda
 gustier
 genear
 globalizing
-gisants
+gisants 1
 groggeries
 gyrovagi
 gently

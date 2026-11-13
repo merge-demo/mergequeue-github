@@ -11749,7 +11749,7 @@ flanking
 followings
 factorage
 fumados
-fuzees
+fuzees 1
 faultfinders
 fuzzier
 fuzziest
