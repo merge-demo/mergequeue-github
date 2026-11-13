@@ -9190,7 +9190,7 @@ kopipq
 kopj
 kopjhnfuv
 kopjp
-kopjw
+kopjw 1
 kopk
 kopkdu
 kopkprchd
