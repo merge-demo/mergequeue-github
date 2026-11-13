@@ -9416,7 +9416,7 @@ diffusibleness
 diffusing
 deuteranomalous
 dereling
-dowerless
+dowerless 1
 dredge
 dismountable
 dejunkerize
