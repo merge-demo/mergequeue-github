@@ -10667,7 +10667,7 @@ bleating
 bibliognostic
 bluejoint
 bejesus
-bipunctual
+bipunctual 1
 biotics
 brainwashes
 bronchorrhagia
