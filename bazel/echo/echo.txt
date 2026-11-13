@@ -4791,7 +4791,7 @@ erosiveness 1
 enscrolling
 elucubration
 elator 1
-enclosures
+enclosures 1
 emprent
 emmenia
 erethic
