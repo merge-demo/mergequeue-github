@@ -1139,7 +1139,7 @@ editorializers
 elephantic
 eupyrchroite
 enation
-eponymism
+eponymism 1
 equivalved
 eupatrid
 easefulness
