@@ -4444,7 +4444,7 @@ beclothes
 blushwort
 bike
 buriels
-boomeranged
+boomeranged 1
 billard
 bromizer
 bebopper
