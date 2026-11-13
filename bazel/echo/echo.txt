@@ -13734,7 +13734,7 @@ extincting
 enterostomies
 editable
 encephalomeningitis
-extinctions
+extinctions 1
 enantiopathic
 euphorbia
 ententophil
