@@ -7176,7 +7176,7 @@ furnariidae
 fraileros
 fiendism
 fulvescent
-foothot
+foothot 1
 frowstily
 faraon
 fele
