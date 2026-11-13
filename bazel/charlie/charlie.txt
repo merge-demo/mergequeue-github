@@ -10692,7 +10692,7 @@ chimneyman
 chimneypiece 1
 chimopelagic
 chymotrypsinogen
-creedalism
+creedalism 1
 coilsmith
 canthari
 cisgangetic
