@@ -29070,7 +29070,7 @@ cynomorpha
 creosoter
 crimping
 chattable
-crimpness
+crimpness 1
 crimps
 cantatory
 corbans
