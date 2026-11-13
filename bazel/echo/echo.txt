@@ -12502,7 +12502,7 @@ eluviates
 exaggeration
 enteropneusta
 erythrophage
-envisages
+envisages 1
 epicentral
 embosture
 executrixship
