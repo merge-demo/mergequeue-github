@@ -12330,7 +12330,7 @@ chromamamin
 corelate
 chromammine
 corticopeduncular
-chromaphore
+chromaphore 1
 chromas
 coffeeweed
 cenote
