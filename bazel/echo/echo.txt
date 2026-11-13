@@ -9197,7 +9197,7 @@ enclasp
 egomaniac
 eroticizing
 evangelion
-exultance
+exultance 1
 extrinsicate
 erbiums
 empleomania
