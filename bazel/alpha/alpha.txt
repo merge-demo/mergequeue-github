@@ -14066,7 +14066,7 @@ antecubital
 antecurvature
 afshah
 abdiel
-anted
+anted 1
 autophytically
 acrosarcum
 atlantis
