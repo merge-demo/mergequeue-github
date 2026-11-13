@@ -11254,7 +11254,7 @@ emigre
 enthronized
 evangelistic
 epidictical
-exserts
+exserts 1
 earthquake
 exundate
 ectoloph
