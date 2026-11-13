@@ -8759,7 +8759,7 @@ forester
 fossule
 fiddlers
 forwardal
-fermentability
+fermentability 1
 fadable
 forethought
 frenzic
