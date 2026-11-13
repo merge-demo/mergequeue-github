@@ -8752,7 +8752,7 @@ dover
 dot
 debadge
 diaporesis
-demimonk
+demimonk 1
 decime
 distastefully
 dentalgia
