@@ -10066,7 +10066,7 @@ coleochaete
 crestings
 clothesbrush
 chimney
-chemise
+chemise 1
 chesoun
 chessboards
 counterfugue
