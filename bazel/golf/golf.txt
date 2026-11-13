@@ -5613,7 +5613,7 @@ grisping
 guayroto
 glochid
 geranial
-gemology
+gemology 1
 garnice
 gradable
 geophilidae
