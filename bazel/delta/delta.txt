@@ -10654,7 +10654,7 @@ dolomize
 doon
 discoveries
 diplopod
-diplopoda
+diplopoda 1
 discorrespondent
 delocalization
 dissociates
