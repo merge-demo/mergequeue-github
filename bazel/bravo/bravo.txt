@@ -1866,7 +1866,7 @@ bryology
 bewend
 bonaght
 battutos
-bevies
+bevies 1
 batukite
 bishoplike
 backy
