@@ -4126,7 +4126,7 @@ decapitated
 delineature
 delineavit
 delinquency
-decimalise
+decimalise 1
 despeche
 diagenetically
 doggerelled
