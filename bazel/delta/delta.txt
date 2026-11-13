@@ -7805,7 +7805,7 @@ devolves
 dactyloid
 decile
 daylighted
-diathetic
+diathetic 1
 diplospondylic
 dispending
 desmarestia
