@@ -16960,7 +16960,7 @@ aplanogamete
 areally
 antifermentative
 aplenty
-alveolars
+alveolars 1
 affreight
 aplite
 alfione
