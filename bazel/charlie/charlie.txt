@@ -22742,7 +22742,7 @@ condivision
 cydippid
 consciencelessly
 consciences
-cooperatingly
+cooperatingly 1
 consciencewise
 cophetua
 conscientious
