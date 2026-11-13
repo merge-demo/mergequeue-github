@@ -6428,7 +6428,7 @@ goitrogenic
 galibi
 garbing
 glossopteris
-golaseccan 1
+golaseccan 2
 glassman
 gobiesocid
 geostrophic
