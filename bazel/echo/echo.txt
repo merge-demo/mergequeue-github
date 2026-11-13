@@ -1692,7 +1692,7 @@ eyebright
 electrotheraputics
 extemporaneous
 eyecup
-emollescence
+emollescence 1
 experimently
 effectualize
 eyed
