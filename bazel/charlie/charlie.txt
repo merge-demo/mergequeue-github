@@ -153,7 +153,7 @@ clinopyroxene
 cablelaid
 cableless
 cablelike
-cerberic
+cerberic 1
 chryseis
 casterless
 cables
