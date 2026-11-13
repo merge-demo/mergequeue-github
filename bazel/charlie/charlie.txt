@@ -186,7 +186,7 @@ cystoscopies
 cotinga
 caboshed
 cabotage
-clangored
+clangored 1
 cabotin
 cristineaux
 cabotinage
