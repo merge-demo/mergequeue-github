@@ -10817,7 +10817,7 @@ endoprocta
 everlastingly
 euodic
 entrepots
-euonymy
+euonymy 1
 exochorda
 exsibilate
 echinid
