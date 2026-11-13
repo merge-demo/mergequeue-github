@@ -7076,7 +7076,7 @@ epris 1
 expansionary
 exemptile
 earthfast
-experiencer
+experiencer 1
 enumeration
 elsholtzia
 eggroll
