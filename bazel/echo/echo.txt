@@ -7957,7 +7957,7 @@ epimanikion
 epimeres
 electrostenolysis
 epimerism
-enterolithiasis
+enterolithiasis 1
 evangels
 epitomate
 encephalonarcosis
