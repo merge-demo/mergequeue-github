@@ -7702,7 +7702,7 @@ fernier
 frayproof
 foreigneering
 friend
-flexes
+flexes 1
 firth
 flipped
 firm
