@@ -4647,7 +4647,7 @@ dicebox
 denticulate
 demise
 demisecond
-demised
+demised 1
 depas
 didynamia
 diploglossate
