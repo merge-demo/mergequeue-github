@@ -1068,7 +1068,7 @@ ferriages
 frontons
 farrage
 ferroelectricity
-furziest
+furziest 1
 farrago
 franchisement
 frizer
