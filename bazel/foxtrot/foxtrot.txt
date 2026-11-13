@@ -11173,7 +11173,7 @@ fungicolous
 frampler
 fridila
 fraughted
-fibronuclear
+fibronuclear 1
 farm
 forktail
 fundungi
