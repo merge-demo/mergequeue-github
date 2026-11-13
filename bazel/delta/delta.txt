@@ -5580,7 +5580,7 @@ dibber
 dustfall
 draftable
 depended
-dolichopellic
+dolichopellic 1
 dependence
 desensitizes
 dependingly
