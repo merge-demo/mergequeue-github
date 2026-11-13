@@ -1172,7 +1172,7 @@ antisupernaturalistic
 acanthaceous
 aeacus
 applauses
-adjustor
+adjustor 1
 acanthia
 anthropogenetic
 apocryphally
