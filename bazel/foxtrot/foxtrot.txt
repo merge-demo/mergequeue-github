@@ -7099,7 +7099,7 @@ fibulare
 frocking
 filipinization
 flagger
-footstick
+footstick 1
 fickler 1
 figurant
 fractionator
