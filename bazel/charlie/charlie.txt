@@ -14072,7 +14072,7 @@ circassic
 capivi
 corpuscle
 circe
-circean
+circean 1
 circensian
 circinate
 coxcombs
