@@ -7069,7 +7069,7 @@ entwines
 epinikian
 enzymolytic 1
 excitomuscular
-encompassed
+encompassed 1
 enumerability
 entry
 epris 1
