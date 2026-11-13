@@ -11809,7 +11809,7 @@ enteradenography
 erraticness
 exasperatingly
 exauctorate
-empoisoned
+empoisoned 1
 epiphytous
 enrolment
 elaphrium
