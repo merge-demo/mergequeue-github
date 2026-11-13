@@ -6444,7 +6444,7 @@ disinfection
 desaccharification
 defalcation
 decarburisation
-dozened
+dozened 1
 desacralization
 drizzled
 dictatorially
