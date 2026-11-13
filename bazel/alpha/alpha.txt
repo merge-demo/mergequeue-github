@@ -8591,7 +8591,7 @@ agnoites
 aegagropiles
 allassotonic
 alleviations
-allatrate
+allatrate 1
 abaction
 autosuggestibility
 admitty
