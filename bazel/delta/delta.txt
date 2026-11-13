@@ -2953,7 +2953,7 @@ dipterans
 disalicylide
 displayer
 dedit
-dediticiancy
+dediticiancy 1
 dedogmatize
 discounted
 dedolation
