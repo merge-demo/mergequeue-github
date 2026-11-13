@@ -1320,7 +1320,7 @@ directest
 daughterly
 destin
 dissaved
-deregulate
+deregulate 1
 diobolons
 dishy
 dolf
