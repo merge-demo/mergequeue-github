@@ -7749,7 +7749,7 @@ eftsoon
 endrins
 exterritorially 1
 emergents
-englify
+englify 1
 ensure
 emendable
 estopping
