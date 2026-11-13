@@ -14815,7 +14815,7 @@ dumontite
 doctored
 dashwheel
 defensive
-deservingly
+deservingly 1
 doctorfishes
 decomponible
 demagogic
