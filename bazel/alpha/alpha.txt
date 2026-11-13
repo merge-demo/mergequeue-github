@@ -2128,7 +2128,7 @@ acroteral
 achilous
 achylous
 amakosa
-alts
+alts 1
 adawlut
 arend
 apiculate
