@@ -1212,7 +1212,7 @@ aboded
 acanthopodous
 aqueously
 acanthopteran
-ataunt
+ataunt 1
 airlike 1
 acanthopterygian
 adversed
