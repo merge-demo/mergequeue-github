@@ -10242,7 +10242,7 @@ donkeyish
 demulsibility
 dinosauria
 dystomous
-defossion
+defossion 1
 dressing
 dermoosseous
 dayshine
