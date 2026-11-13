@@ -17178,7 +17178,7 @@ ajog
 anaerobian
 apolunes
 apartment
-adaptableness
+adaptableness 1
 ankerites
 apolusis
 anatosaurus
