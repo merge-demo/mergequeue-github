@@ -3310,7 +3310,7 @@ clipping
 creaker
 colonizes
 capnomancy
-capnomor
+capnomor 1
 cirripede
 cowgram
 connivant
