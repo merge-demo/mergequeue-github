@@ -8489,7 +8489,7 @@ annuisance
 alkatively
 accismus
 antepredicamental
-aurora
+aurora 1
 alkedavy
 alkekengi
 alkene
