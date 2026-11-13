@@ -15600,7 +15600,7 @@ buzzardlike
 biting
 britannically
 brashy
-bumpkins
+bumpkins 1
 blennophlogosis
 blimy
 british
