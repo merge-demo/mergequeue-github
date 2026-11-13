@@ -6588,7 +6588,7 @@ eccritic
 embattled
 epimedium
 enorthotrope
-electricity
+electricity 1
 emigrates
 erysimum
 enhuile
