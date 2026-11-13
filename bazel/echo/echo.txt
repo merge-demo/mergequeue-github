@@ -10190,7 +10190,7 @@ extraditing
 easeful
 encoders
 executives
-ethernet
+ethernet 1
 extrahazardous
 emancipation
 escrowed
