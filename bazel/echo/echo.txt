@@ -12496,7 +12496,7 @@ esophagotomy
 enrollees
 eximidus
 eximious
-ense
+ense 1
 etiogenic
 eluviates
 exaggeration
