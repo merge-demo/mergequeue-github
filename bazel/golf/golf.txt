@@ -9408,7 +9408,7 @@ gymel
 glycerolize
 grottoes
 gelatose
-gaywings
+gaywings 1
 geryonidae
 glues
 galloptious
