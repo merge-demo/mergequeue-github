@@ -10002,7 +10002,7 @@ derv
 disconnectiveness
 dimorph
 dimorphism
-dukker
+dukker 1
 dissatisfactorily
 dally
 disparted
