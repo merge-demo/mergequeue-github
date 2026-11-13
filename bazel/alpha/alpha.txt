@@ -10602,7 +10602,7 @@ aphorismatic
 attomy
 anorthographically
 amylases
-amylate
+amylate 1
 aglyphodontia
 anthropozoic
 agnations
