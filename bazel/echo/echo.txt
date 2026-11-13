@@ -12901,7 +12901,7 @@ eructs
 erupturient
 exploitative
 enclasping
-enthused
+enthused 1
 enwinds
 electroneutrality
 echea
