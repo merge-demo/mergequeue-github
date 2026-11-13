@@ -990,7 +990,7 @@ bewitch 1
 bourdon
 bipalium
 blinger
-baycuru
+baycuru 1
 baidarka
 baidarkas
 binders
