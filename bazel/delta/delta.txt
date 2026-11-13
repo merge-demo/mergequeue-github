@@ -1559,7 +1559,7 @@ deadlier
 deaden
 droops
 docked
-drippings
+drippings 1
 dices
 deputising
 dyssodia
