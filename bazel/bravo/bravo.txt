@@ -3995,7 +3995,7 @@ beader
 bellmaker
 barnhardtite
 beerothite
-beadings
+beadings 1
 binges
 brookside
 beshamed
