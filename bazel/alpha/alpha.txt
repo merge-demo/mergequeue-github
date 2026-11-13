@@ -8688,7 +8688,7 @@ attendantly
 aldehydase
 allelotropism
 alleluia
-applesauce
+applesauce 1
 alleluiah
 agers
 amnesiacs
