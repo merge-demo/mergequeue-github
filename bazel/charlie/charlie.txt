@@ -10474,7 +10474,7 @@ childish
 cogeneric
 created
 childless
-childly
+childly 1
 childliest
 conceptualizing
 childlike

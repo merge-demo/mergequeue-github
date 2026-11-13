@@ -12121,7 +12121,7 @@ determining
 diplopodous 1
 disert
 detergency
-ducts
+ducts 1
 downshifting
 disestablishing
 diminuent
