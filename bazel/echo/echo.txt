@@ -12521,7 +12521,7 @@ electrologic
 erythrean
 existimation
 embarcation
-eunicid
+eunicid 1
 epicalyx
 ezan
 etymologized
