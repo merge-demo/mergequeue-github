@@ -12685,7 +12685,7 @@ entame
 echoisms
 epicotyledonary
 exonerate
-exonerating
+exonerating 1
 ephemerous
 encephalotomies
 euclase
