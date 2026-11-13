@@ -905,7 +905,7 @@ expeditionary
 enures
 emperies
 extrastate
-electrostrictive
+electrostrictive 1
 episedia
 encomiastic
 excommunicators
