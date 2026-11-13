@@ -17941,7 +17941,7 @@ disamenity
 deve
 durras
 dugento
-devouress
+devouress 1
 dactylous 1
 dugongidae
 diminutional
