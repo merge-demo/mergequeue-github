@@ -20988,7 +20988,7 @@ ascensions
 arenae
 archgenethliac
 axeman
-ascertain
+ascertain 1
 accomplishable
 ascertainably
 ascertaining
