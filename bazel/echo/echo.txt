@@ -9442,7 +9442,7 @@ effulging
 ecod
 ensnarement
 ectrogenic
-embowering
+embowering 1
 eschew
 exteriorizing
 eschewed
