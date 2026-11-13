@@ -12540,7 +12540,7 @@ disinfections
 decrowned
 decani
 diffeomorphic
-dissolutive
+dissolutive 1
 delbert
 disinfestant
 dewclawed
