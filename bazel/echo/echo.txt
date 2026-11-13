@@ -3397,7 +3397,7 @@ epinephelus 1
 ebullate
 exurbanite
 exacters
-emphase
+emphase 1
 egoist
 embargoes 1
 endocrinologist
