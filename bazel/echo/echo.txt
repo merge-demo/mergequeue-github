@@ -7147,7 +7147,7 @@ exclusions
 echar
 elan
 estanciero
-eudaemonism
+eudaemonism 1
 everyday
 endocolitis
 engrossed
