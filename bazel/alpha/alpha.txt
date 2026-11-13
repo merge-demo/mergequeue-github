@@ -20860,7 +20860,7 @@ antick
 asa
 anticynically
 aneath
-asale
+asale 1
 antesignanus
 asana
 aconitin
