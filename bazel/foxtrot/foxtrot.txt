@@ -8572,7 +8572,7 @@ featherer
 frogtongue
 futurities
 fasciation
-ferules
+ferules 1
 favourless 1
 foxhole
 fornication
