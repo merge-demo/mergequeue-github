@@ -11196,7 +11196,7 @@ dazingly
 dratted
 disbelieves
 disavowals
-doughfeet
+doughfeet 1
 dendropogon
 deprives
 disconduce
