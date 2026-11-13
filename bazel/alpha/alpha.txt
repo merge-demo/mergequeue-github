@@ -21848,7 +21848,7 @@ assilag
 amiced
 abusious
 assimilates
-assimilating
+assimilating 1
 andoroba
 aerophobia
 assimilationist
