@@ -12181,7 +12181,7 @@ choregrapher
 chrismal
 chrismation
 chrismatite
-chrismatize
+chrismatize 1
 cryptobatholithic
 chrismatory
 calamistral
