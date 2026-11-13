@@ -7136,7 +7136,7 @@ floodgate 1
 fairling
 failed
 frostlike
-figwort
+figwort 1
 fundamentalistic
 foleye
 farinacious
