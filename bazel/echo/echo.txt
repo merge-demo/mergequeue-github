@@ -12348,7 +12348,7 @@ elric
 exertions
 ergate
 enurny
-eseptate
+eseptate 1
 equilobate
 eupepsies
 edgeling
