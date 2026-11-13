@@ -1485,7 +1485,7 @@ callais
 callaloo
 caviares
 callants
-chanciest
+chanciest 1
 clausular
 chilenite
 cackler
