@@ -10724,7 +10724,7 @@ ecologic
 euhyostylic
 eukairite
 enfavor
-eaver
+eaver 1
 enwraps
 exedra
 elicitory
