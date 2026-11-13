@@ -19165,7 +19165,7 @@ allentiac
 arthropoda
 accessorized
 arctan
-attendances
+attendances 1
 abusable
 antepretonic
 antiparliamenteer
