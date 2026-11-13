@@ -3402,7 +3402,7 @@ egoist
 embargoes 1
 endocrinologist
 enc
-eavedropper
+eavedropper 1
 embark
 epichorial
 embarkations
