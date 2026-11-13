@@ -23311,7 +23311,7 @@ corkiness
 consumer
 consumerist
 consumes 1
-catamnestic
+catamnestic 1
 cardioblast
 consuming
 consumingly
