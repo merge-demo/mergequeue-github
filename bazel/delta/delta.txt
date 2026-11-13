@@ -6057,7 +6057,7 @@ dispends
 duplicident
 drumlike
 deputed
-demanding
+demanding 1
 deselecting
 demolitionary
 deputes
