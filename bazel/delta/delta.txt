@@ -3548,7 +3548,7 @@ defrauds
 defreeze
 defrocked
 dubbed
-derogately
+derogately 1
 dillis
 dispensational
 daybeam
