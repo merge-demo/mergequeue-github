@@ -10460,7 +10460,7 @@ grakle
 gummatous
 gneissy
 gerrymandered
-geistlich
+geistlich 1
 gastrolienal
 graphitization
 gastroadenitis
