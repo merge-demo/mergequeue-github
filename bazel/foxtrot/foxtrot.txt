@@ -7970,7 +7970,7 @@ flajolotite
 flagrantly
 femic 1
 felicitousness
-flaunty
+flaunty 1
 fourscorth
 fordone
 forget
