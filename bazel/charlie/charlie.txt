@@ -15250,7 +15250,7 @@ cassique
 chaining
 clamcracker
 crabfish
-clame
+clame 1
 cheeseboard
 clamflat
 ctn
