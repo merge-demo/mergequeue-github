@@ -25712,7 +25712,7 @@ corresponded
 correspondence
 correspondences
 correspondency
-correspondent
+correspondent 1
 composedness
 correspondential
 correspondently
