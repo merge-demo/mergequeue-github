@@ -1515,7 +1515,7 @@ empyesis
 efts
 egad
 elderlies
-encyclopediac
+encyclopediac 1
 entomophilous
 egalitarians
 evected
