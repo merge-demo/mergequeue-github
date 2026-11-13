@@ -11325,7 +11325,7 @@ chromicizing
 chloroforms
 chlorogenic
 caducary
-chloroid
+chloroid 1
 curably
 coradicate
 chloroma
