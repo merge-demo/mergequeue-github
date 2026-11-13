@@ -7390,7 +7390,7 @@ gasolineless
 gleds
 grewsomely 1
 gastrohysterectomy
-geometroid
+geometroid 1
 gothamite
 germiparous 1
 glassblower
