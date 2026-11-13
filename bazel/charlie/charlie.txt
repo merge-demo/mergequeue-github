@@ -20902,7 +20902,7 @@ comedos
 comprehense
 comprehensibility
 cherkess
-comprehensibly
+comprehensibly 1
 comprehensive
 comprehensively
 comprehensiveness 1

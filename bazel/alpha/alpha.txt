@@ -22160,7 +22160,7 @@ archeology
 asthenolith
 asthenology
 anabaptistry
-asthenophobia
+asthenophobia 1
 anguid
 asthma
 ascensive
