@@ -9784,7 +9784,7 @@ babblingly
 bubblebow
 bisulfate
 biblioklept
-bromatology
+bromatology 1
 bocca
 bitable
 bidialectal
