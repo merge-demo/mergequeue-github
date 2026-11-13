@@ -4360,7 +4360,7 @@ adsorbent
 austrogaean
 apparels 1
 anachronistically
-apoxyomenos
+apoxyomenos 1
 alcae
 antitheistically
 adenoids
