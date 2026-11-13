@@ -12484,7 +12484,7 @@ dislimb
 disyllabized
 dumky
 discontinuations
-disconform
+disconform 1
 disillusionising
 disdeceive
 decimalize
