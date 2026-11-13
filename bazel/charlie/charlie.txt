@@ -3669,7 +3669,7 @@ caramelisation
 coillen
 caramelise
 conveyorize
-caramelize
+caramelize 1
 caramelized
 clangoring
 counterpointe
