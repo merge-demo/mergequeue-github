@@ -8078,7 +8078,7 @@ chiles
 cagayan
 capitulum
 chaferies
-chafers
+chafers 1
 caranx
 chafes
 chafewax
