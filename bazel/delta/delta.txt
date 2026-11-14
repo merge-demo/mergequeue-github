@@ -18668,7 +18668,7 @@ draffiest
 dwalm
 dwarfer
 duckboat
-dwarfishness
+dwarfishness 1
 documentarily
 dwarfisms
 dermopteran
