@@ -10024,7 +10024,7 @@ asyllabical
 ambiency
 adiposogenital
 anomy
-archaeol
+archaeol 1
 ambients
 ambigenal
 abounded
