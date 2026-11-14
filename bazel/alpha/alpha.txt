@@ -12934,7 +12934,7 @@ attackers
 anguillaria
 autogamies
 abey
-amphitheccia
+amphitheccia 1
 anticalculous
 affirmant
 anguilloid
