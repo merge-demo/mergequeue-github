@@ -10223,7 +10223,7 @@ galluses
 groundsel
 gonk
 geotonus
-glamourously
+glamourously 1
 galusha
 geissospermin
 gainsays
