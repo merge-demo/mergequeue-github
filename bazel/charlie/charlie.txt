@@ -19346,7 +19346,7 @@ checkstone
 color
 creational
 cycadaceous
-chinchier
+chinchier 1
 colorableness
 camisades
 curratow
