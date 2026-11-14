@@ -6539,7 +6539,7 @@ arbutase
 athbash
 ay
 ayah
-animateness
+animateness 1
 ayahuasca
 ampliative
 admedial 1
