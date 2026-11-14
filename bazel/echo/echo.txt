@@ -1389,7 +1389,7 @@ erythroxylaceae
 eurasiatic
 exhalent
 ennead
-enneastylos
+enneastylos 1
 epeidia
 epilaryngeal
 effigurate
