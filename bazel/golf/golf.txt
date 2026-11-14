@@ -6775,7 +6775,7 @@ ganev
 garvanzo
 ganocephala
 gonionia
-gnosticize
+gnosticize 1
 genericness
 gamelang
 ganam
