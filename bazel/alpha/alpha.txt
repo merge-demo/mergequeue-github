@@ -14297,7 +14297,7 @@ anthemion
 anthemis
 aecidiomycetes
 antheraea
-antheridia
+antheridia 1
 antherogenous
 aphnology
 ammiolite
