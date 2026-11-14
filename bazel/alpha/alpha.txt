@@ -4352,7 +4352,7 @@ autotriploid
 adsorbability
 archpuritan
 allocryptic
-adsorbable
+adsorbable 1
 acnodal
 angiothlipsis
 adsorbed
