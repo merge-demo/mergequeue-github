@@ -3079,7 +3079,7 @@ flirters
 forches
 flowerfly 1
 fatstock
-finances
+finances 1
 forfeitableness
 festology
 familiarizes
