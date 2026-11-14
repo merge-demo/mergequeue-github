@@ -7932,7 +7932,7 @@ engender
 enframes
 ecclesiography
 ensiferi
-entreater
+entreater 1
 epizootiology
 epinikion
 epilogical
