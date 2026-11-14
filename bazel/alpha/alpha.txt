@@ -1685,7 +1685,7 @@ abloom
 accum
 archsee
 alouettes
-apperceive
+apperceive 1
 accumbency
 astarte
 accumbent
