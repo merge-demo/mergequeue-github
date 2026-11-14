@@ -9703,7 +9703,7 @@ derelinquish
 disconcord
 disembroilment
 diethylamide
-dilapidation
+dilapidation 1
 dilatably
 deters
 desiderate
