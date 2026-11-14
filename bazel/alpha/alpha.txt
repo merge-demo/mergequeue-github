@@ -2115,7 +2115,7 @@ abnormalness
 anthropological
 aragonite
 alfin
-auspicial
+auspicial 1
 achillize
 aerobically
 affusions
