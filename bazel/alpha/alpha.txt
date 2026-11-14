@@ -3498,7 +3498,7 @@ additum
 aflaunt
 acetimeter
 addle
-adenosis
+adenosis 1
 anticorset
 acyloxymethane
 agamobia
