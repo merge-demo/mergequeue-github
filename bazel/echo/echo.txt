@@ -6125,7 +6125,7 @@ entremets
 enlive
 execeptional
 emboly
-exceed
+exceed 1
 exossate
 explida
 erythroderma
