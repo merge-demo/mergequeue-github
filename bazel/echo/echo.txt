@@ -2693,7 +2693,7 @@ engenderment
 electrotelegraphy
 exhort
 epispadia
-electrotherapeutical
+electrotherapeutical 1
 estampie
 escrol
 expectorating
