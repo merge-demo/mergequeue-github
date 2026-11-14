@@ -3599,7 +3599,7 @@ euclea
 egocerus
 exemplifies
 extravehicular
-emulable
+emulable 1
 embowelling
 egocentric
 esperantism
