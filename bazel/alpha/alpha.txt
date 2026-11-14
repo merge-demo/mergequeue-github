@@ -8851,7 +8851,7 @@ allocatur
 acanthocephalan
 astound
 albahaca
-assumable
+assumable 1
 amethodical
 allanturic
 actinal
