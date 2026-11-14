@@ -15090,7 +15090,7 @@ armomancy
 ascetics
 async
 aruke
-antidote
+antidote 1
 appraise
 agnosias
 antidoted
