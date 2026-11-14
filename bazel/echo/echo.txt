@@ -9147,7 +9147,7 @@ epizoarian
 equiponderancy
 ermiline
 epidemy
-ermined
+ermined 1
 erminee
 evanid
 enleague
