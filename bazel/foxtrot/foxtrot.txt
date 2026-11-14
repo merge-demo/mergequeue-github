@@ -6320,7 +6320,7 @@ fringed
 facadal
 floreted
 flunkey
-frilal
+frilal 1
 fiddlery 1
 fumatories
 fissipeda
