@@ -3380,7 +3380,7 @@ adapt
 apeman
 airmarker
 adjustability
-adjugate
+adjugate 1
 almocrebe
 asterite
 araneidan
