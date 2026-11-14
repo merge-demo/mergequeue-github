@@ -1092,7 +1092,7 @@ bastiles
 bairn
 bypassed
 brevetted
-bransolder
+bransolder 1
 bromius
 barless
 baseless
