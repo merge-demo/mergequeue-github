@@ -15321,7 +15321,7 @@ design
 distilleries
 dismit 1
 demonolatry
-deafforestation
+deafforestation 1
 dolphus
 dryfat
 displeasured
