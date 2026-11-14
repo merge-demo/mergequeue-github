@@ -710,7 +710,7 @@ gimbawawed
 galvanically
 glossatorial
 grapholite
-grossify
+grossify 1
 gooranut
 galvanised
 germanistic
