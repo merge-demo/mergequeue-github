@@ -14359,7 +14359,7 @@ deadheaded
 diurn
 depraved
 dhaman
-diurna
+diurna 1
 diurnal
 deuterogenic
 diurnally
