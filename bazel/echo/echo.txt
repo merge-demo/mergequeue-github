@@ -12228,7 +12228,7 @@ excur
 ensigns
 epiphanizing
 extralateral
-elevener
+elevener 1
 entally
 erodable
 edriasteroidea
