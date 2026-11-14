@@ -23844,7 +23844,7 @@ autacoidal
 azan
 autaesthesy
 adjudicature
-atlantoaxial
+atlantoaxial 1
 amidols
 abnormalize
 autarch
