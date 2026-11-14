@@ -6384,7 +6384,7 @@ caustification
 caustifying
 campfires
 casefies
-charioted
+charioted 1
 chancre
 cautelous
 camphoronic
