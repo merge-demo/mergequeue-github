@@ -12717,7 +12717,7 @@ cobaltous
 cataloguize
 cratch
 chuff
-chuffer
+chuffer 1
 countercraft
 cauliflowers
 chugalug
