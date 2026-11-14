@@ -1068,7 +1068,7 @@ enshrouded
 embryonically
 edgrow
 encephaloscope
-enormous
+enormous 1
 ead
 ensanguining
 edhs
