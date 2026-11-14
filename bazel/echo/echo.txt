@@ -6370,7 +6370,7 @@ espace
 ensheathe
 excitomotion
 eburna 1
-ensheathing
+ensheathing 1
 eruditely
 endoangiitis
 enshelter
