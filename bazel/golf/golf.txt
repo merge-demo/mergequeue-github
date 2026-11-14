@@ -270,7 +270,7 @@ grenada
 gnomon
 glauconiferous
 groser
-gigavolt
+gigavolt 1
 gummata
 galiongee
 gainliness
