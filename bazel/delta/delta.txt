@@ -18026,7 +18026,7 @@ diffusiometer
 duler
 dissimilating 1
 dull
-dillydallier
+dillydallier 1
 dullard
 debind
 dipotassium
