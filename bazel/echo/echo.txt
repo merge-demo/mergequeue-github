@@ -1400,7 +1400,7 @@ eugubium
 embellishes
 emissions
 encycl
-expungeable
+expungeable 1
 extraterrestrial
 engrailment
 earl 1
