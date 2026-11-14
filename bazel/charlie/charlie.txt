@@ -21344,7 +21344,7 @@ cotbetty
 conciliable
 conciliabule
 coassession
-chaperoning
+chaperoning 1
 canicide
 clast
 cliqued
