@@ -9589,7 +9589,7 @@ cheek
 cheekbone
 cheekbones
 crepeier
-counteracting
+counteracting 1
 cheekfuls
 cheekiest
 cheekiness
