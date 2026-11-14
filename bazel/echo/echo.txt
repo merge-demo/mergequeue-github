@@ -3700,7 +3700,7 @@ encyrtidae
 erythromycin
 expectant
 elec
-eluates
+eluates 1
 effluvium
 epitheliosis
 enantiotropic
