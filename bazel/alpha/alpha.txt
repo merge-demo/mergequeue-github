@@ -18503,7 +18503,7 @@ assassinating
 arborer
 adventitious
 adulteress
-arbores
+arbores 1
 arborescently
 arango
 alienicolae
