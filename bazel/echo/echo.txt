@@ -1341,7 +1341,7 @@ eisteddfodism
 effeminise
 especial
 elemin
-explosives
+explosives 1
 eelspear
 effeminising
 effeminize
