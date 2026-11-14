@@ -7710,7 +7710,7 @@ devilfish
 decelerators
 devily
 detail
-deviling
+deviling 1
 deeded
 devilishness
 darshana
