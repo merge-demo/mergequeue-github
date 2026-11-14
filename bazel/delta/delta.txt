@@ -6842,7 +6842,7 @@ dvorak
 dolichoblond
 definition
 ducamara
-disfranchisers
+disfranchisers 1
 donataries
 degenerates
 dextrocardial
