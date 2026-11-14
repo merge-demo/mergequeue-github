@@ -1116,7 +1116,7 @@ gwyniad
 grivet
 granet
 giddier
-gesith
+gesith 1
 grotesco
 grope
 galatic
