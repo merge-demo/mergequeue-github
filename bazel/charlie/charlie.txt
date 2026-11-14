@@ -6174,7 +6174,7 @@ circumjacencies
 ceraunoscope
 cupolas
 catwalk
-conqueringly
+conqueringly 1
 chancier
 calycule
 convictive
