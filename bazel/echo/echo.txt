@@ -3910,7 +3910,7 @@ easternized
 esperance 1
 eminently
 enamored
-expressionless
+expressionless 1
 executorship
 edentulous
 eels
