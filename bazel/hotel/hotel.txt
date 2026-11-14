@@ -3769,7 +3769,7 @@ hexjsd
 hexlhqzmvax
 hexligmvfuzyzcd
 hexm
-hexmmuxr
+hexmmuxr 1
 hexmsx
 hexnavlfppmx
 hexojmp
