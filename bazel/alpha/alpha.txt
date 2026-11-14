@@ -9896,7 +9896,7 @@ abrotin
 antheridium
 alfiona
 alascan
-amatembu
+amatembu 1
 attaint
 alloquial
 argean
