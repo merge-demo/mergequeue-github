@@ -1333,7 +1333,7 @@ effervesced
 exuberate
 effectuous
 endostracum
-epigastrical
+epigastrical 1
 effeir
 eumoiriety
 eriocomi
