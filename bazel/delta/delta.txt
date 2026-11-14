@@ -2481,7 +2481,7 @@ decisis
 dribbled
 delays
 dixy
-decisively
+decisively 1
 darkened
 decitizenize
 decivilize
