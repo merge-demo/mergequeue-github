@@ -10114,7 +10114,7 @@ deliciae
 dieticians
 dutiable
 disamis
-dexiotropism
+dexiotropism 1
 dales
 dynastides
 disagreer
