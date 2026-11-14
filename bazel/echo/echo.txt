@@ -3076,7 +3076,7 @@ enjoy
 expurgational
 ellenyard
 escribed
-enshrine
+enshrine 1
 equilater
 emetia
 exhaustible
