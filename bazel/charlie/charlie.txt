@@ -22526,7 +22526,7 @@ conjurations
 cesar
 conjured
 conjurement
-canel
+canel 1
 championlike
 conjures
 conjuring
