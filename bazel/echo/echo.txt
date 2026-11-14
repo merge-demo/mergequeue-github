@@ -9365,7 +9365,7 @@ earmindedness 1
 escalator
 excommunicable
 ergonomics
-eupepsia
+eupepsia 1
 escalated
 exilition
 eucti
