@@ -12445,7 +12445,7 @@ aromal
 androphorous
 antipyryl
 amenty
-actinides
+actinides 1
 argante
 androsphinx
 androsporangium
