@@ -9542,7 +9542,7 @@ electroviscous
 evacuees
 eyesalve
 exannulate
-endosmotic
+endosmotic 1
 ergastoplasmic
 enchytraeidae
 emigree
