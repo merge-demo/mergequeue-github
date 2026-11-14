@@ -21875,7 +21875,7 @@ agly
 abutted
 assish
 averrhoa
-assishly
+assishly 1
 aculeated
 adapted
 aplacophoran
