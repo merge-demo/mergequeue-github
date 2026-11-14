@@ -5133,7 +5133,7 @@ epitomical
 emuls
 embracingness
 encysted
-electrosensitive
+electrosensitive 1
 emanatistic
 epilogic
 eobiont
