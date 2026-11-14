@@ -270,7 +270,7 @@ abhorrence
 abdications
 anthropomorphizing
 adze
-amphistyly
+amphistyly 1
 aphenoscope
 abditory
 apelet
