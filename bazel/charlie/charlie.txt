@@ -29474,7 +29474,7 @@ cherishingly
 crystallizable
 crystallization
 cyrtidae
-crystallize
+crystallize 1
 crystallizes
 crystallochemical
 calvinist
