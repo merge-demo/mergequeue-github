@@ -10308,7 +10308,7 @@ draughting
 dames
 dionysia
 dionysiac
-dionysiacally
+dionysiacally 1
 dionysus
 dirigibles
 diastrophy
