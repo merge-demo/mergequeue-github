@@ -7889,7 +7889,7 @@ flacket
 frightenable 1
 frottole
 firmaments
-flourishingly
+flourishingly 1
 fatter
 fendillate
 factualist
