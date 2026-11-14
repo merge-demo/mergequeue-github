@@ -8433,7 +8433,7 @@ flurr
 foreboded
 floweriness
 foppish
-forpine
+forpine 1
 fictitiously
 facsimilize
 felonsetter
