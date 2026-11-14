@@ -10303,7 +10303,7 @@ dearly
 darks
 draftmanship
 dighting
-deans
+deans 1
 draughting
 dames
 dionysia
