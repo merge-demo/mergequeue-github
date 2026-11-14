@@ -8025,7 +8025,7 @@ damageable
 dft
 dysthymic
 dialects
-defences
+defences 1
 derbylite
 defenestration
 doylt

@@ -1070,7 +1070,7 @@ calced
 calcedon
 chukor
 carbamidine
-colory
+colory 1
 chitinocalcareous
 circumcisions
 calceolaria
