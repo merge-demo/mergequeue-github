@@ -4241,7 +4241,7 @@ delsartian
 downplayed
 dislocate
 dismaler
-deltalike
+deltalike 1
 diluvial
 disacknowledge
 deltas
