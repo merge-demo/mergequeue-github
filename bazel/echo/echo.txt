@@ -13038,7 +13038,7 @@ epinaoi
 eraser
 escoba
 emrode
-expatriated
+expatriated 1
 exhibiting
 ebauchoir
 euhemerised
