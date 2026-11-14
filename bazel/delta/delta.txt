@@ -4079,7 +4079,7 @@ delictual
 disobeyed
 delieret
 degrain
-despicably 1
+despicably 2
 divaricate
 dealerships
 domestication
