@@ -12623,7 +12623,7 @@ dargsman
 decupled
 derning
 disyoking
-degradational
+degradational 1
 disjasked
 disjaskit
 drubbings
