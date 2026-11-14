@@ -10012,7 +10012,7 @@ epinician
 euptelea
 eternalised 1
 enweb
-extradict
+extradict 1
 emotiomuscular
 electrode
 eurhythmical 1
