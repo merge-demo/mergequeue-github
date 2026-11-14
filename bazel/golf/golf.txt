@@ -3553,7 +3553,7 @@ gynecolatry
 grenadin
 goth
 geums
-gangues
+gangues 1
 garmentworker 1
 ganglions
 gymnorhina
