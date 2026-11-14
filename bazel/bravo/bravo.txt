@@ -7477,7 +7477,7 @@ bowne
 besant
 burtree
 bully
-berhymed
+berhymed 1
 burd
 bistre
 bramantesque
