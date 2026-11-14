@@ -9025,7 +9025,7 @@ geog
 gobletful
 gnathophorous
 gravenstein
-galvanothermy
+galvanothermy 1
 gaminess
 guiles
 geohydrologic

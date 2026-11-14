@@ -16532,7 +16532,7 @@ bangtailed
 bequeathal
 birr
 bishops
-budzat
+budzat 1
 bandeaux
 broadpiece
 bisellium
