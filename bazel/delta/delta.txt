@@ -12279,7 +12279,7 @@ disendowed
 drawing
 distrusting
 degreasing 1
-dromedarist
+dromedarist 1
 diazomethane
 disgospel
 diminuendos
