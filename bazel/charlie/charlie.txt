@@ -12260,7 +12260,7 @@ carpentered
 catnips
 circumconic
 compensative
-christed
+christed 1
 civilize
 capilotade
 cresylite
