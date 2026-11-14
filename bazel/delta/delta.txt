@@ -4494,7 +4494,7 @@ deemphasizes
 dulnesses
 deception
 diaspora
-divulse
+divulse 1
 dividingly
 demicircular
 divulsor
