@@ -9104,7 +9104,7 @@ dragomanish 1
 didacticism
 defile
 doundake
-dryish
+dryish 1
 didal
 didascalic
 dogface
