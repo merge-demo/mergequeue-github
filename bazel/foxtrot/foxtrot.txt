@@ -8802,7 +8802,7 @@ frontosphenoidal
 fulfills
 flancard
 fecundation
-foxie
+foxie 1
 fixedly
 forgers
 foreprise
