@@ -6175,7 +6175,7 @@ future
 funnyman
 factoress
 fluohydric
-furnacemen
+furnacemen 1
 flowerwork
 flowing
 finnicking
