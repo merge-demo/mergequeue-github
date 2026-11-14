@@ -24168,7 +24168,7 @@ crestless
 collocutory
 counterrecoil
 cruddy
-crepeiest
+crepeiest 1
 comedial
 cleaverwort
 contemplamen
