@@ -7694,7 +7694,7 @@ bhagavat
 bivouacking
 bookrack
 bigamized
-bugre
+bugre 1
 bagleaves
 byproducts
 bulbotuber
