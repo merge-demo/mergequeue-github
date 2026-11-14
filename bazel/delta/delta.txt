@@ -4083,7 +4083,7 @@ despicably 1
 divaricate
 dealerships
 domestication
-delightfulness
+delightfulness 1
 discant
 danize
 delignification
