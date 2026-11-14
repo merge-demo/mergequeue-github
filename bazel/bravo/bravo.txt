@@ -9085,7 +9085,7 @@ ballistocardiograph
 biosensor
 bearishness
 binominated
-biosynthesize
+biosynthesize 1
 benzonitrol
 beclout
 birds
