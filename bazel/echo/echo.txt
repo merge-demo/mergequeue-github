@@ -11008,7 +11008,7 @@ editorializations
 eurypharyngidae
 extund
 endomorph 1
-encreel
+encreel 1
 exceptiveness
 enquire
 encyclopaedic
