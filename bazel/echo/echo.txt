@@ -4966,7 +4966,7 @@ eglestonite
 ecliptics
 estrada
 emulatress
-endeavour
+endeavour 1
 endamaging
 estreated
 ericeticolous
