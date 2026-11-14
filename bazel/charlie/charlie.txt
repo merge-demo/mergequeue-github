@@ -6409,7 +6409,7 @@ conchfish
 cauterizer
 cauterizes
 caution
-cautionary
+cautionary 1
 couve
 cerebromedullary
 calcareosiliceous
