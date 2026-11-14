@@ -230,7 +230,7 @@ firelock
 filibranch
 fermenting
 facultatively
-faculties
+faculties 1
 faunistically
 fringy
 functionaries
