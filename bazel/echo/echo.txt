@@ -2219,7 +2219,7 @@ eldermen
 entailing
 expeditionist
 elders
-enumerating
+enumerating 1
 endognathion
 eldersisterly
 epiglottiditis
