@@ -13656,7 +13656,7 @@ apprenticed
 ambivalent
 agomensin
 anoestrum
-amygdalothripsis
+amygdalothripsis 1
 acidize
 aposporogony
 albumenising
