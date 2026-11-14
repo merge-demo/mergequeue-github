@@ -9363,7 +9363,7 @@ foretimed
 fritillaria
 federator
 frostbiting
-fascinates
+fascinates 1
 flocculant
 fleecier
 frankfurters
