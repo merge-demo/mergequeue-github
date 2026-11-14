@@ -15424,7 +15424,7 @@ doming
 domini
 decalomania
 demurer 1
-denis
+denis 1
 downtowns
 dishwares
 dijudication
