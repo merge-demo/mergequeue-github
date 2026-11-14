@@ -14961,7 +14961,7 @@ arara
 anticonfederative 1
 anticonformity
 antiaristocracy
-annulled
+annulled 1
 amidohexose
 antilogy
 avyayibhava
