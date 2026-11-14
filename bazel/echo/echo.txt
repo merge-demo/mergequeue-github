@@ -12755,7 +12755,7 @@ epistomian
 enfetters
 emarginula
 electroindustrial 1
-endoplasm
+endoplasm 1
 eidos
 euhemeristically
 eucarpous
