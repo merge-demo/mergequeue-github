@@ -1018,7 +1018,7 @@ exinite
 exclaimingly
 eldership
 epilabra
-edemata
+edemata 1
 equable
 energised
 electrohorticulture
