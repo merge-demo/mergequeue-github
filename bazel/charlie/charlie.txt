@@ -8503,7 +8503,7 @@ champine
 champing
 cryohydric 1
 carberry
-celebrated
+celebrated 1
 championed
 championing
 championize
