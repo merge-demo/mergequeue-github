@@ -3716,7 +3716,7 @@ aligreek
 autere
 alcoothionic
 agillawood
-adversative
+adversative 1
 annihilating
 awfully
 asystematic
