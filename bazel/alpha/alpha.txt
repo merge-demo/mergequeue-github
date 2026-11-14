@@ -20789,7 +20789,7 @@ afshar
 athyreosis
 aspiculate
 angico
-assimilated
+assimilated 1
 autophobia
 alicant
 alienors

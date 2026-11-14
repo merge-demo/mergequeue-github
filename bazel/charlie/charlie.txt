@@ -21383,7 +21383,7 @@ conciseness
 clocks 1
 cosponsor
 concision
-corrugation
+corrugation 1
 concitation
 cominform
 concite
