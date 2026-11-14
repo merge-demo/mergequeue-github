@@ -7881,7 +7881,7 @@ gabbais
 gurdle
 ghostlikeness
 grammatics 1
-gastropodous
+gastropodous 1
 galik
 graved
 grammatistical
