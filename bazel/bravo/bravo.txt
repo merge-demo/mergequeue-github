@@ -4171,7 +4171,7 @@ boylas
 bradypus
 beastling
 bullswool
-beastlings
+beastlings 1
 bulgy
 beastman
 barracoutas
