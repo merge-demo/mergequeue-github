@@ -22,7 +22,7 @@ gastroadynamic
 gashouse
 geotropic 1
 gabbro
-gabelleman
+gabelleman 1
 grouchy
 gainers
 glycic
