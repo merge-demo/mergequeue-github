@@ -5241,7 +5241,7 @@ denotatum
 deacidifying
 denotes
 docetistic
-destructuralize
+destructuralize 1
 denoting
 duplification
 deeping

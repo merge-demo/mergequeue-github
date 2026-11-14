@@ -10412,7 +10412,7 @@ actualizes
 adoring
 abarticular
 amesite
-abamp
+abamp 1
 anteed
 acroama
 anezeh
