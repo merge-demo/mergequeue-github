@@ -17304,7 +17304,7 @@ basilweed
 bummler
 barberite
 bumped
-burrowed
+burrowed 1
 blobber
 beechier
 boreholes
