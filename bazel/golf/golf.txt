@@ -1624,7 +1624,7 @@ gametogenesis
 gastralgy
 gaunted
 giblet
-gastralgia
+gastralgia 1
 gastreas
 glaucosuria
 gyrinid 1
