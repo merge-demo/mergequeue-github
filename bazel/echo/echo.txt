@@ -3594,7 +3594,7 @@ extracellularly 1
 excelsin
 emydes 1
 eventerate
-exhibitable
+exhibitable 1
 euclea
 egocerus
 exemplifies
