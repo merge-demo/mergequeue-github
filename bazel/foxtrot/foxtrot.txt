@@ -2085,7 +2085,7 @@ federalist
 floriculture
 felicitator
 fudger
-frightened
+frightened 1
 foredefine
 fainty
 fesapo
