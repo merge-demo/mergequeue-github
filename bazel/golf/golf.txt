@@ -1188,7 +1188,7 @@ gothic
 gonorrheic
 glabrescent
 grinned
-gezerah
+gezerah 1
 guejarite
 gunja
 gutturalize
