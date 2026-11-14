@@ -2324,7 +2324,7 @@ galvanography
 graviton 1
 gravamina 1
 gamine
-gelatinizer
+gelatinizer 1
 gradates
 giornatate
 gadbee
