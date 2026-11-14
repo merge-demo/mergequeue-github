@@ -8382,7 +8382,7 @@ gerundival 1
 gingerbread
 guns
 glucid
-gasterosteiform
+gasterosteiform 1
 ginner
 grillading
 grandisonant
