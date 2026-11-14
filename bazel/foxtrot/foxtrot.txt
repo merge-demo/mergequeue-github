@@ -10070,7 +10070,7 @@ friskin
 friskiness
 frisking
 frisch
-friskingly
+friskingly 1
 frisks
 frondiform
 feudatary
