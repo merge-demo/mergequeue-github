@@ -2600,7 +2600,7 @@ fiscality
 featherlight
 filthy
 feoffed
-fancily
+fancily 1
 foresheet
 ferromanganese
 ferrometer 1
