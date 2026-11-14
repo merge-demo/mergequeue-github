@@ -11345,7 +11345,7 @@ footsores
 fluoroid
 ferfel
 fustinella
-forewind
+forewind 1
 fraxinus
 firepans
 feuds
