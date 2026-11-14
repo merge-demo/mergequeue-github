@@ -17196,7 +17196,7 @@ bullpup 1
 brughs
 bestarve
 boozy
-balsamical
+balsamical 1
 benedictional
 bathylith
 battailant
