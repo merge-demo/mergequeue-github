@@ -8504,7 +8504,7 @@ antiskeptical
 agone
 alalia
 alkies
-assessable
+assessable 1
 airplane
 accelerograph
 alkylarylsulfonate
