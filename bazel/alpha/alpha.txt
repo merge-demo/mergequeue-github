@@ -19616,7 +19616,7 @@ ariels
 acoupa
 aminoguanidine
 antireformist
-adversariness
+adversariness 1
 antistrophize
 attritional
 absorbingly
