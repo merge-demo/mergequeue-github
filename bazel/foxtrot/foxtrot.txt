@@ -7055,7 +7055,7 @@ functioning
 foodful
 fulfilled
 fribby
-fatalities
+fatalities 1
 foreknow
 flowk
 fosie
