@@ -3248,7 +3248,7 @@ brookable
 backoff
 blushfulness
 basilicate
-basilicock
+basilicock 1
 basilics
 bohairic
 basilidian
