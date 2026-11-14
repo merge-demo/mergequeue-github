@@ -17478,7 +17478,7 @@ dreads
 discrete
 daffle
 doubleheaders
-deficiently
+deficiently 1
 destructed
 disorientation
 devoices
