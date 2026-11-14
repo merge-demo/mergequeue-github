@@ -23539,7 +23539,7 @@ conjoins
 contignate
 cloky
 corycavidin
-californite
+californite 1
 contignation
 contiguity
 circumferent
