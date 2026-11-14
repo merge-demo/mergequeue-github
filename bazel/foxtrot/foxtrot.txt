@@ -11382,7 +11382,7 @@ ferromagneticism
 flashlamp
 furnariides
 flect
-facies
+facies 1
 furnish
 fluorindine
 furnishable
