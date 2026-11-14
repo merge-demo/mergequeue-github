@@ -1750,7 +1750,7 @@ deathrates
 deathsman
 discrepating
 dumble
-derogation
+derogation 1
 disaccord
 deathtime
 diverticular
