@@ -15684,7 +15684,7 @@ didrachma
 defatted
 decollator 1
 doric
-dopped
+dopped 1
 detractiveness
 disaffect
 dopper
