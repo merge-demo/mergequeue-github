@@ -23592,7 +23592,7 @@ capfuls
 continuously
 civilization
 continuum
-contise
+contise 1
 compendiate
 cognoscenti 1
 contoise
