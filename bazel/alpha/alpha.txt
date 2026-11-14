@@ -10943,7 +10943,7 @@ arched
 amoebaeum
 athogen
 amoebalike
-amoebas
+amoebas 1
 asmolder
 aggregatory
 amperometric
