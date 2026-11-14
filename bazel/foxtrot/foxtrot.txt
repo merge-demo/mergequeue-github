@@ -9932,7 +9932,7 @@ fumatorium
 freckled
 fa
 frigage
-frigates
+frigates 1
 flocculated
 flavin
 frightens
