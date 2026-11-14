@@ -10883,7 +10883,7 @@ forgathers
 freedwomen
 finished
 fucused
-foreteller
+foreteller 1
 fractural
 ferris
 fulled
