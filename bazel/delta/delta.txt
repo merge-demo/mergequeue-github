@@ -5047,7 +5047,7 @@ darci
 deemphasis
 denationalise
 denationalize
-dedicator
+dedicator 1
 decaesarize
 densification
 dayal
