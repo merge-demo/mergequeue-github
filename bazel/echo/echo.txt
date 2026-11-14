@@ -14137,7 +14137,7 @@ enplanement
 emulates
 enlard
 entocuneiform
-excussion
+excussion 1
 endearment
 entrails
 epitaphic
