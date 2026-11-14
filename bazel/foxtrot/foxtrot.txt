@@ -8623,7 +8623,7 @@ flamefishes
 fuzzed
 finnochio
 flukeless
-functionate
+functionate 1
 fingerfishes
 faddishly
 feelers
