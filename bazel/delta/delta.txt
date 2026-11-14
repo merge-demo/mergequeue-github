@@ -4883,7 +4883,7 @@ demandative
 demonizing
 drame
 dailies
-detecting
+detecting 1
 demonography
 demonographies
 denature
