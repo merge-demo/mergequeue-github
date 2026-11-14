@@ -8925,7 +8925,7 @@ departition
 dicophane
 disheartening
 detailers
-distantness
+distantness 1
 dully
 divinyl
 dichloramine
