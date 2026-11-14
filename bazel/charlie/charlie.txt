@@ -1923,7 +1923,7 @@ camelia
 cauliflorous
 cameline
 camelish
-cardigans
+cardigans 1
 camellia
 characteries
 camellike
