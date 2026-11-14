@@ -20597,7 +20597,7 @@ conjugal
 cascol
 competitors
 challengee
-competitrix
+competitrix 1
 compilable
 cofounded
 curvilinearly
