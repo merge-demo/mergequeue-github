@@ -10815,7 +10815,7 @@ activizing
 assized
 aits
 apprised
-anywise
+anywise 1
 affricates
 anack
 ammonate
