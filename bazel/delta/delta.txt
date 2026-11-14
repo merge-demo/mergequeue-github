@@ -3279,7 +3279,7 @@ defiber
 deionized
 duodecillionth
 doublethought
-dominie
+dominie 1
 departs
 defibrillated
 dominants
