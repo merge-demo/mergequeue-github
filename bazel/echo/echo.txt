@@ -4363,7 +4363,7 @@ eulogistical
 espouse
 espichellite
 espadrille
-enamours
+enamours 1
 episperm
 euphrasia
 ectropionized
