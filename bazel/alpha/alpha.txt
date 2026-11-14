@@ -2095,7 +2095,7 @@ athodyds
 achievable
 anviling
 antecedents
-ardor
+ardor 1
 amiral
 antapices
 aiguillesque
