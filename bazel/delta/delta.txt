@@ -994,7 +994,7 @@ dimmest
 deiform
 drupes
 disavowedly
-dekadarchy
+dekadarchy 1
 daringness 1
 dit
 darings
