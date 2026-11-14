@@ -2495,7 +2495,7 @@ freightage
 fawningness
 fortunize
 fluters
-fatales
+fatales 1
 ferociously
 flashforward
 fumarin
