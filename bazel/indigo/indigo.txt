@@ -604,7 +604,7 @@ iallotibpic
 iallv
 ialmvfkksqonr
 ialnm
-ialo
+ialo 1
 ialodeuv
 ialoeeoq
 ialoh
