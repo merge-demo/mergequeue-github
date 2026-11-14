@@ -6184,7 +6184,7 @@ dittograph
 deriding
 divertor
 deringa
-diffuseness
+diffuseness 1
 demonstrability
 did
 dimerizes
