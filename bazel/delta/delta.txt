@@ -16115,7 +16115,7 @@ decayedness
 doulce
 dementie
 defectology
-designators
+designators 1
 doulocracy
 doum
 douma
