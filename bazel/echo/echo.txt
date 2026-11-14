@@ -5887,7 +5887,7 @@ episyntheton
 estamp
 endophytous
 erasures
-erg
+erg 1
 engreaten
 evirtuate
 evan
