@@ -616,7 +616,7 @@ graveside
 gloryless
 galliots
 goulashes 1
-gurnets
+gurnets 1
 gramaries
 gazophylacium
 gemmiparously
