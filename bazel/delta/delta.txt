@@ -5234,7 +5234,7 @@ depolarisation
 dusun
 deafer
 denotatively
-dauerlauf
+dauerlauf 1
 dampens
 denotativeness
 denotatum
