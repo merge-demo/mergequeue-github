@@ -3767,7 +3767,7 @@ anticipatively
 archivolt
 adhesion
 adhesive
-architraved
+architraved 1
 ananke
 arteriosclerotic
 adhesiveness
