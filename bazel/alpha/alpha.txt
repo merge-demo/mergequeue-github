@@ -1134,7 +1134,7 @@ academes
 academy
 apheliotropism
 aploperistomatous
-anaplasis
+anaplasis 1
 antirusts
 academist
 arboral
