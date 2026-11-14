@@ -8739,7 +8739,7 @@ binaphthyl
 bletia
 binaries
 betuckered
-bulginess
+bulginess 1
 berghaan
 binaural 1
 blow
