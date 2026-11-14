@@ -6161,7 +6161,7 @@ enmeshment
 enrols
 enmity
 eparchean
-entracte
+entracte 1
 embattles
 ethicizes
 enmove
