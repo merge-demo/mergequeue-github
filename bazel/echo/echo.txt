@@ -11726,7 +11726,7 @@ expunge
 enclasped
 epicrises
 examen
-elementals
+elementals 1
 enregistry
 exurban
 elasticizing
