@@ -7423,7 +7423,7 @@ fille
 falconers
 fawnlike 1
 fans
-firefang
+firefang 1
 footmen
 ferrocerium
 forwarder
