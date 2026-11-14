@@ -139,7 +139,7 @@ basidiocarp
 biocoenosis
 beeheaded 1
 beachcomb
-butyrically
+butyrically 1
 bestab
 backlog
 bashara
