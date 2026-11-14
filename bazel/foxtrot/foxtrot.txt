@@ -2416,7 +2416,7 @@ fashionable
 fifie
 ferlying
 foiler
-ferling
+ferling 1
 furls
 fortnightly
 fermail
