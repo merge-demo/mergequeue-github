@@ -5095,7 +5095,7 @@ flarer
 funorin
 flashboard
 fiendliest
-forelay
+forelay 1
 flinches
 forewent
 flashed
