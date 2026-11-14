@@ -4767,7 +4767,7 @@ entrepreneurs
 epichondrotic
 euthermic
 evanishing
-embarrass
+embarrass 1
 eyren
 executions
 existent
