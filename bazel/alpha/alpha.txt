@@ -14687,7 +14687,7 @@ attendees 1
 arauna
 agaricine
 antarctically
-arteriectasis
+arteriectasis 1
 alpinisms
 antinormal
 anthryl
