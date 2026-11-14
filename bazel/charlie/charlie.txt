@@ -20571,7 +20571,7 @@ cotillions
 compensators
 compenser
 countree
-compere
+compere 1
 compered
 cumulous
 compering 1
