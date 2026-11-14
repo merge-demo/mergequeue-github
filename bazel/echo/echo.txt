@@ -9635,7 +9635,7 @@ equipper
 entia
 epenthesize
 epacris
-espagnole
+espagnole 1
 elaeagnus
 enfrai
 esparsette
