@@ -12922,7 +12922,7 @@ angolese
 arbitral
 assertoric
 ascitb
-angouleme
+angouleme 1
 armored
 arcidae
 angraecum
