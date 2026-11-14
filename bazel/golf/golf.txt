@@ -4158,7 +4158,7 @@ goetic
 gravelstone
 gigantean
 gymnodiniaceous
-gallowses
+gallowses 1
 gerontological
 gazee 1
 gitoxin
