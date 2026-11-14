@@ -17094,7 +17094,7 @@ companionized
 cavings
 coadaptations
 californium
-coadapting 1
+coadapting 2
 chauliodes
 crystals
 cyclohexane
