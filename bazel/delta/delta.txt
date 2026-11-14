@@ -2270,7 +2270,7 @@ dyewoods
 decemfoliate
 dogmas
 decempedal
-demotion
+demotion 1
 dominiums
 decemplex
 dissocialize 1
