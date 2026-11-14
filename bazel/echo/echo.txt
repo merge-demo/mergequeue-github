@@ -9965,7 +9965,7 @@ extrospection
 englishize
 estuarial
 epagogic
-eloquently
+eloquently 1
 estuosity
 edibleness
 endophagy
