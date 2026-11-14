@@ -11119,7 +11119,7 @@ exigent
 euterpean
 enactments
 eutexia
-exquisitively
+exquisitively 1
 enwreathing
 eiderdown
 ebullioscopy
