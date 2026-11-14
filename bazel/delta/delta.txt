@@ -4864,7 +4864,7 @@ declive
 durrie
 depredationist
 dispersity
-dormmice
+dormmice 1
 denicotinize
 demagnetized
 devotionary
