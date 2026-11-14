@@ -14860,7 +14860,7 @@ arrondi
 alife
 anticyclical
 apocodeine
-amorously
+amorously 1
 anticyclogenesis
 anticyclolysis
 aliquant
