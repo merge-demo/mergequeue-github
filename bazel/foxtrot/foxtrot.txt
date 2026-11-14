@@ -9039,7 +9039,7 @@ fowlfoot
 fared
 faultful
 fowlings
-fluvious
+fluvious 1
 fountained
 flashguns
 flies
