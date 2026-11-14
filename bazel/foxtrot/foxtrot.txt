@@ -2361,7 +2361,7 @@ favel
 femineity
 frightener
 fanhouse
-feres
+feres 1
 floatstone
 flytings
 fegs
