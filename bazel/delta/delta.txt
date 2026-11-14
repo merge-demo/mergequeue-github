@@ -9523,7 +9523,7 @@ digital
 drunkest
 digitalin
 dispergator
-diathermanous
+diathermanous 1
 digitated
 demissly
 doneness
