@@ -15276,7 +15276,7 @@ durante
 dendroclastic
 disconcerted
 decelerate
-droopt
+droopt 1
 decalcomania
 didelphyidae
 dolmans
