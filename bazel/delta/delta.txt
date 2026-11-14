@@ -11578,7 +11578,7 @@ disconformities
 disconjure
 drinkless
 disconnectedness
-diphtheroidal
+diphtheroidal 1
 diphead
 disconnecting
 disconnection
