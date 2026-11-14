@@ -13471,7 +13471,7 @@ disrobes
 decrassify
 destroys
 disrobing
-disroost
+disroost 1
 demiurgism
 disponed
 disrooted
