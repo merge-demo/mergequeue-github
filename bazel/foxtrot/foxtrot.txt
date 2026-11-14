@@ -9282,7 +9282,7 @@ fungologist
 fumarine
 foldwards
 fogrum 1
-foldboats
+foldboats 1
 fistulization
 frowsiness
 filthiest
