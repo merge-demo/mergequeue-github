@@ -5078,7 +5078,7 @@ adularescent
 aporrhiegma
 albruna
 allantoidal
-aerotonometric
+aerotonometric 1
 alloys
 agrostographical
 aerotropism
