@@ -2116,7 +2116,7 @@ disinheritances
 duddies
 despoilment
 decameron
-digraph
+digraph 1
 decamethonium
 decametric
 decanal

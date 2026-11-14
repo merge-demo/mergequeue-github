@@ -10085,7 +10085,7 @@ finalizations
 fennec
 functions
 fondant
-fritz
+fritz 1
 furnisher
 foozling
 farmhands
