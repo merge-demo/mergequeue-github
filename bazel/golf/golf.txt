@@ -3900,7 +3900,7 @@ geomorphogenic
 globeholder
 garnetiferous
 gulosities
-geckotid
+geckotid 1
 gobian
 gordyaean
 gonozooid
