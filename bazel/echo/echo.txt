@@ -3473,7 +3473,7 @@ enthronement
 ebionism
 ekhimi
 eversporting
-evocable
+evocable 1
 expiative
 eleutherosepalous
 ennuis
