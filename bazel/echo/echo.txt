@@ -10804,7 +10804,7 @@ elastance
 eurodollar
 eleanor
 expurgatory
-ethide
+ethide 1
 estivates 1
 euphemizer
 emanation
