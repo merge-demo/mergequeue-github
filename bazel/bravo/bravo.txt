@@ -16038,7 +16038,7 @@ brisance
 brahmanaspati
 bludgeoning 1
 bishoprics
-bronk
+bronk 1
 boxwallah
 burgullian
 brontides
