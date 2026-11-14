@@ -11508,7 +11508,7 @@ fusariosis
 flypasts
 firebirds
 forethoughtless 1
-fuscin
+fuscin 1
 frictional
 fuscohyaline
 fundamentally
