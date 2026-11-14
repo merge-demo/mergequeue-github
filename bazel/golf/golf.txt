@@ -8018,7 +8018,7 @@ gunstock
 gossiper
 grandpapa
 grunting
-geophysicists
+geophysicists 1
 grotesquerie
 guglia
 gruesomely
