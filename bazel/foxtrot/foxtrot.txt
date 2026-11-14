@@ -8371,7 +8371,7 @@ forklike
 forswornness
 finickily
 foundations
-foliage
+foliage 1
 fossilological
 forlain
 fatten
