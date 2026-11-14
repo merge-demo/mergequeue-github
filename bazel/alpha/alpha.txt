@@ -5337,7 +5337,7 @@ attaining
 adenophthalmia
 aluminosity
 authorizations
-allmouth
+allmouth 1
 aspheterism
 avadavats
 agrionidae
