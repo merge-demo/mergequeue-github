@@ -26923,7 +26923,7 @@ conflictingly
 contrectation
 counterman
 carles
-countermand
+countermand 1
 countermandable
 commelinaceae
 craniological
