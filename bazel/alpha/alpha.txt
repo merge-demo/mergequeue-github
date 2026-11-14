@@ -11551,7 +11551,7 @@ apathus
 assewer
 auxiliarly
 aper
-appositions
+appositions 1
 adenophyllous
 aulas
 anabolism
