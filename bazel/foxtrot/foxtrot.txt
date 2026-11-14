@@ -801,7 +801,7 @@ flautists
 frisk
 fowl
 fermate
-frizado
+frizado 1
 flatulently
 frowsy
 flypast
