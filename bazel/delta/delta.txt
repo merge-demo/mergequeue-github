@@ -183,7 +183,7 @@ drachmai
 dopiest
 damas
 decipherer
-daedaloid
+daedaloid 1
 diel
 diaplasma
 daedalous
