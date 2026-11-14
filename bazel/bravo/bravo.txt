@@ -3578,7 +3578,7 @@ banker
 befathered
 boozer
 bathoflore
-bibliomaniacal
+bibliomaniacal 1
 batholithic
 balaamite
 butchers
