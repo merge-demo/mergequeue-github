@@ -8670,7 +8670,7 @@ geyser
 glossless
 gateado
 gritty
-gres
+gres 1
 gymnosoph
 galerum
 gawkishly
