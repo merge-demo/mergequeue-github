@@ -12071,7 +12071,7 @@ expediate
 entrainer
 evzone
 esselen
-enplanes
+enplanes 1
 epacridaceae
 excrementive
 extrasensory
