@@ -628,7 +628,7 @@ gillie
 geophysicist
 gigartina
 glide
-gradatory
+gradatory 1
 guenepe
 guideline
 gramineal
