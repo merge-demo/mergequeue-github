@@ -17394,7 +17394,7 @@ destool
 droppage
 diffraction
 decennia
-didascaly
+didascaly 1
 direction
 disjoinable
 decream
