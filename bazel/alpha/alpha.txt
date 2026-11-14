@@ -5025,7 +5025,7 @@ assessory
 angiohyalinosis
 adinvention
 aerophobic
-aerophor
+aerophor 1
 antithermic
 arrode
 aerophotos
