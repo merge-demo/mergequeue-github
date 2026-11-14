@@ -9214,7 +9214,7 @@ freeborn
 fragmentariness
 fragmentist
 foundries 1
-faucals
+faucals 1
 fidalgo
 forsakes
 feldspathose
