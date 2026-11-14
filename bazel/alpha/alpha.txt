@@ -24742,7 +24742,7 @@ addling
 authoress
 adjoined
 aviatic
-alumniate
+alumniate 1
 aniline
 appleberry
 approximated
