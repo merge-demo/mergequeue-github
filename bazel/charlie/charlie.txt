@@ -28,7 +28,7 @@ crackerberries
 cereus
 caragheen
 castratory
-cnicus
+cnicus 1
 cabalist
 congii
 courier
