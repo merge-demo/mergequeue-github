@@ -12446,7 +12446,7 @@ androphorous
 antipyryl
 amenty
 actinides 1
-argante
+argante 1
 androsphinx
 androsporangium
 arteriology
