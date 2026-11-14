@@ -17595,7 +17595,7 @@ dorsalis
 denicotinizing
 drupa
 dysthyroidism
-dispunishable
+dispunishable 1
 drupelets
 drupeole
 detoxification
