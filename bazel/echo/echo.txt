@@ -4744,7 +4744,7 @@ erythrodegenerative
 eyelets
 erosional
 eelware
-exalbuminose
+exalbuminose 1
 encist
 electralize
 exponentially
