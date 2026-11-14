@@ -3156,7 +3156,7 @@ forfication 1
 folies
 fibromyoma
 forehill
-fakir
+fakir 1
 funduline
 forbearing
 fibromyotomy
