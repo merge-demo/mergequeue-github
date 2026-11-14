@@ -9524,7 +9524,7 @@ drunkest
 digitalin
 dispergator
 diathermanous
-digitated
+digitated 1
 demissly
 doneness
 digitigradism
