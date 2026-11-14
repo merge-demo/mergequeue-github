@@ -6324,7 +6324,7 @@ dextrogyration
 deject
 debit
 disseminating
-defensorship
+defensorship 1
 dermic
 delint
 diagonial
