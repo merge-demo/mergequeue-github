@@ -22941,7 +22941,7 @@ ablewhackets
 anodally
 atrenne
 adless
-anteriorly
+anteriorly 1
 azobenzoic 1
 appositional
 apis
