@@ -16463,7 +16463,7 @@ darken 1
 degradations
 detinuit
 doubtance
-disjointness
+disjointness 1
 dasyprocta
 domesticities
 diagramming
