@@ -31332,7 +31332,7 @@ clubber
 cures
 compotation
 curets
-callisthenics
+callisthenics 1
 cinematographers
 clamber
 curetted
