@@ -10374,7 +10374,7 @@ elkoshite
 ethnozoology
 ethography
 excepter
-entropion
+entropion 1
 ethology
 ethnogeographer
 ethologies
