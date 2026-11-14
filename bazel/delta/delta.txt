@@ -3903,7 +3903,7 @@ daphnite
 desilicated
 deja
 dejection
-devested
+devested 1
 derivation
 dejects
 drake
