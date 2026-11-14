@@ -22637,7 +22637,7 @@ connotatively
 counterextend
 connote
 crymotherapy
-connoted
+connoted 1
 connoting
 connubial
 connubiality
