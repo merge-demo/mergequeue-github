@@ -4656,7 +4656,7 @@ gastrodialysis
 gaonic
 gasconade
 gummosis
-gamori
+gamori 1
 gentrice
 gironny
 graphophobia
