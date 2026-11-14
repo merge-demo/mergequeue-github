@@ -14736,7 +14736,7 @@ docetae
 dobbies
 docetize
 deerstand
-divorcements
+divorcements 1
 dochmiacal
 dispossessor
 desirefulness
