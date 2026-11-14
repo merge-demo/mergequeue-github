@@ -2971,7 +2971,7 @@ heipkeitysvm
 heiplm
 heipsccxys
 heiptg
-heir
+heir 1
 heirira
 heirpprzg
 heirqo
