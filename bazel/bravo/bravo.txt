@@ -7429,7 +7429,7 @@ besmirched
 batrachia
 buboes
 bashalick
-betterment
+betterment 1
 bepewed
 bulbocavernous
 bivouacks
