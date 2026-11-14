@@ -7095,7 +7095,7 @@ fungicide
 foolproof
 foolproofness
 ferret
-fibulare
+fibulare 1
 frocking
 filipinization
 flagger
