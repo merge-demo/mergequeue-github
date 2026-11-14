@@ -2912,7 +2912,7 @@ decarbonizing
 decuss
 decussate
 decussatively
-desideratum
+desideratum 1
 disyllabizing
 decussoria
 decwriter
