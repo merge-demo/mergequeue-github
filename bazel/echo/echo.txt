@@ -3514,7 +3514,7 @@ earmuffs
 expellee
 endemically
 erraticism
-emblemist
+emblemist 1
 exon
 emblemizing
 electrootiatrics
