@@ -60,7 +60,7 @@ flauntier
 forebless
 foresight 1
 friskily
-faster
+faster 1
 fibrolite
 fconv
 fabulously
