@@ -28499,7 +28499,7 @@ creatureling
 creatures
 carapo
 creatureship
-conversibility
+conversibility 1
 creaturize
 churchanity
 creaze
