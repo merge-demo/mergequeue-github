@@ -2491,7 +2491,7 @@ deporte
 debased
 ditchdown
 dirigent
-deckhand
+deckhand 1
 dovekies
 duckwing
 deckle
