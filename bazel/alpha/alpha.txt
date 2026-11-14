@@ -454,7 +454,7 @@ angiotomy
 aggrandizing
 ascot
 antinarcotic
-abiotical
+abiotical 1
 anklebone
 antimodernly
 alchemised
