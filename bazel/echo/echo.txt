@@ -7263,7 +7263,7 @@ echoless
 electrocatalytic
 encephalomere
 epidemiology
-energetics
+energetics 1
 eccaleobion
 ensealed
 eopalaeozoic
