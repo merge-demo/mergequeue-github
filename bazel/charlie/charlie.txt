@@ -1694,7 +1694,7 @@ calappa
 curelessly
 calorifics
 caricography 1
-calorifier
+calorifier 1
 calorimetry
 calorimetrical
 calorimetrically
