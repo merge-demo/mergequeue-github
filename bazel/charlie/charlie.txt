@@ -11720,7 +11720,7 @@ cygnine
 chondrilla
 chondrinous
 crotalism
-cirrhotic
+cirrhotic 1
 chondrioma
 churlhood
 chondriomere
