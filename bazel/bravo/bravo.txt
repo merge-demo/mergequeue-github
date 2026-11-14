@@ -4604,7 +4604,7 @@ boden
 bedtick 1
 bedchair
 butterine
-bedchairs
+bedchairs 1
 buffers
 bellowing
 buntal
