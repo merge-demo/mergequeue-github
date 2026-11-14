@@ -18991,7 +18991,7 @@ allottable
 aregenerative
 archlet
 absinthin
-archleveler
+archleveler 1
 adenomalacia
 affectationist
 allocating
