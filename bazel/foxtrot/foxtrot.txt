@@ -7082,7 +7082,7 @@ flapperdom
 fraken
 fledge
 fedayeen
-foolish
+foolish 1
 ferryboats
 fascinating
 fleapit
