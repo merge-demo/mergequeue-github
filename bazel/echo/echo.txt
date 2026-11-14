@@ -12535,7 +12535,7 @@ exist
 existed
 elucidating
 esne
-enumerably
+enumerably 1
 excoecaria
 existentialist
 effluvious
