@@ -8710,7 +8710,7 @@ enjoyed
 esthesiogenic
 elastometry
 enhallow
-electroencephalograph
+electroencephalograph 1
 equisided
 equisignal
 erethitic
