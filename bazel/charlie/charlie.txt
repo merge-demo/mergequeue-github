@@ -10173,7 +10173,7 @@ collectioner
 complaining
 chewing
 chewinks
-chews
+chews 1
 ciceronians
 counterstatant
 crease
