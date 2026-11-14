@@ -10601,7 +10601,7 @@ amylan
 aphorismatic
 attomy
 anorthographically
-amylases
+amylases 1
 amylate
 aglyphodontia
 anthropozoic
