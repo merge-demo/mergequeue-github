@@ -2937,7 +2937,7 @@ enervated
 exacinate
 equicostate
 encystation
-elias
+elias 1
 epitomiser
 epistomal
 egyptian
