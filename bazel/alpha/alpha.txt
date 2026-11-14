@@ -4300,7 +4300,7 @@ adstipulate
 audiologist
 antrophore
 adrenotropic
-ambitendencies
+ambitendencies 1
 ambled
 alarums
 afterbrain
