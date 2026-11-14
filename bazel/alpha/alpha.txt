@@ -5757,7 +5757,7 @@ agapemonist
 agapetae
 aptenodytes
 aguacate
-abapical
+abapical 1
 adduceable
 agnathous
 answers
