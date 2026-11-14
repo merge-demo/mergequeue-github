@@ -2980,7 +2980,7 @@ gerara
 gullability
 grogger
 gardenias
-geognosy
+geognosy 1
 geognostically
 grenadian
 guayules
