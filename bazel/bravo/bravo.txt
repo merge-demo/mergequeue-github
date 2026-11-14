@@ -5628,7 +5628,7 @@ baptistery
 bima
 blarina
 bridelike
-belate
+belate 1
 babbittess
 belating
 belauded
