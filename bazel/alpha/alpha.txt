@@ -16900,7 +16900,7 @@ apprehender
 alluringness
 apimanias
 acocanthera
-apina
+apina 1
 alcoran
 aciculated
 armillated
