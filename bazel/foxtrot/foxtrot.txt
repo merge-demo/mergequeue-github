@@ -1227,7 +1227,7 @@ flinched
 fatuities
 feodatory
 freieslebenite
-funkias
+funkias 1
 formene
 fiends
 furbishment
