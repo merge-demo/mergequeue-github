@@ -11464,7 +11464,7 @@ damasse
 dispositive
 deskbound
 dyotheletic
-dividuous
+dividuous 1
 dilatingly
 downturned
 dieted
