@@ -202,7 +202,7 @@ beguiling
 bloodwood
 bees
 bushrope
-bookiness
+bookiness 1
 bacchic
 bestirred
 bemoanable
