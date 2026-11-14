@@ -4655,7 +4655,7 @@ graphometer
 gastrodialysis
 gaonic
 gasconade
-gummosis
+gummosis 1
 gamori
 gentrice
 gironny
