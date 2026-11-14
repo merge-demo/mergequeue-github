@@ -9523,7 +9523,7 @@ gymnosporous
 granting
 guiltiness
 gentilitious
-graals
+graals 1
 glutinize
 guanaco
 gemellion
