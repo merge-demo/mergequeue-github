@@ -11378,7 +11378,7 @@ amplexicaul
 amphictyonic
 anomiacea
 alchemising
-artels
+artels 1
 anagrammatization
 alupag
 autocephaly

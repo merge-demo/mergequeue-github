@@ -11967,7 +11967,7 @@ disembodiment
 deducer
 disembogued
 diarian
-deceases
+deceases 1
 disembowel
 deliciate
 dictionaries
