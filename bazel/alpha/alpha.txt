@@ -5304,7 +5304,7 @@ astipulate
 astrid
 americanoid
 affixation 1
-amortization
+amortization 1
 affixed
 apophantic
 andantinos
