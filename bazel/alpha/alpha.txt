@@ -5030,7 +5030,7 @@ antithermic
 arrode
 aerophotos
 antiwhitism
-antipatheticalness
+antipatheticalness 1
 aeroplaner
 anecdotically
 aeroplanes
