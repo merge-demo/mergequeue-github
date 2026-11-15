@@ -14289,7 +14289,7 @@ composedly
 circumpallial
 constrained
 crosspieces
-circumparallelogram
+circumparallelogram 1
 circumpentagon
 convexed
 circumplanetary
