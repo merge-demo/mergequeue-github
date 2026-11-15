@@ -14280,7 +14280,7 @@ copplecrown
 canalside 1
 circumnutated
 circumnutation
-cooperatively
+cooperatively 1
 circumorbital
 circumpacific
 circulet
