@@ -7744,7 +7744,7 @@ cerotin
 chorogi
 cerotypes
 confirmedly
-cerous
+cerous 1
 cerrial
 cecidology
 certain
