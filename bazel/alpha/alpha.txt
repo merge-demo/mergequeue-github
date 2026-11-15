@@ -7277,7 +7277,7 @@ assn
 alarmingness
 algovite
 alarmist
-anginas
+anginas 1
 alarodian
 animas
 alarum
