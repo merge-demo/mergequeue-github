@@ -17153,7 +17153,7 @@ alaunt
 aproctia
 apollinarian
 apollo
-apollonian
+apollonian 1
 author
 apollonic
 antalkaline
