@@ -5067,7 +5067,7 @@ gerunds
 gustful
 gularis
 garland
-ganged
+ganged 1
 gret
 glassful
 gonotocont
