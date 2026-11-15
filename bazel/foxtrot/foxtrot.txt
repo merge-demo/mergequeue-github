@@ -2065,7 +2065,7 @@ fusulas
 fieldfare
 frory
 forensically
-feldspathoid
+feldspathoid 1
 foys
 forehook
 fwelling
