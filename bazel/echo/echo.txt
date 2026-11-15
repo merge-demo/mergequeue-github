@@ -10064,7 +10064,7 @@ export
 eyey
 envenoming
 enchainment
-exoneretur
+exoneretur 1
 ebonies
 encephalographically
 editorially
