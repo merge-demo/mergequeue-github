@@ -7450,7 +7450,7 @@ flagginess
 forcipation
 flutelike
 forcipressure
-frigidoreceptor
+frigidoreceptor 1
 foy
 fossick
 feinschmecker
