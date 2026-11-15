@@ -4214,7 +4214,7 @@ gulflike
 geniculum
 gossy 1
 gymnotus
-gutling
+gutling 1
 geomagnetic
 gimped
 gimpier
