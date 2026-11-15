@@ -3472,7 +3472,7 @@ enamels
 enthronement
 ebionism
 ekhimi
-eversporting
+eversporting 1
 evocable
 expiative
 eleutherosepalous
