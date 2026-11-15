@@ -8390,7 +8390,7 @@ firmans
 fibrillate
 forlanas
 floppy
-forleit
+forleit 1
 felling
 forcipes
 framboise
