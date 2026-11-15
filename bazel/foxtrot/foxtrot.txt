@@ -755,7 +755,7 @@ flybelt
 frozenness
 fishgrass
 figurines
-fluxions
+fluxions 1
 fancied
 frazzled
 fetidness
