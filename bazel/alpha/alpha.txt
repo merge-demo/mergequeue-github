@@ -11273,7 +11273,7 @@ amphiprostylar
 anaglyptographic
 antiusurious
 aquocellolitis
-amdahl
+amdahl 1
 aminoformic
 amphirhinal
 antiprecipitin
