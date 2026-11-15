@@ -9523,7 +9523,7 @@ althionic
 apholates
 ablution
 ajutment
-asterikos
+asterikos 1
 aspidate
 anargyroi
 ambassiate
