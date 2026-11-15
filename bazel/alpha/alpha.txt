@@ -3608,7 +3608,7 @@ agora
 adendritic
 akenbold
 adenylic
-avichi
+avichi 1
 adatom
 adenitis
 anticeremonious
