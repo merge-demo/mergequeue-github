@@ -11249,7 +11249,7 @@ flakeless
 famble
 faciest
 featherwork 1
-funnels
+funnels 1
 fourer
 funny
 fundamentality
