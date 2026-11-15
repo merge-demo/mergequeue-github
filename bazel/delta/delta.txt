@@ -4093,7 +4093,7 @@ delimed
 disquisitory
 diphysitism
 delimes
-duskiness
+duskiness 1
 decreaseless
 delimitated
 disanswerable

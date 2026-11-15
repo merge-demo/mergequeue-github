@@ -13753,7 +13753,7 @@ bescurf
 burga
 bufflehorn
 bovaristic
-burgout
+burgout 1
 bovate
 besmirching
 bannermen
