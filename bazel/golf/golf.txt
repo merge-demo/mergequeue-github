@@ -1975,7 +1975,7 @@ greywacke
 glairs
 garnishments
 glamor
-gallamine
+gallamine 1
 gnomonical
 gimbal
 geology
