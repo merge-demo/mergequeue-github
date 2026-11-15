@@ -1757,7 +1757,7 @@ fireworms
 fedn
 featherfew
 fluoridates
-fn
+fn 1
 featheriness
 frogface
 foreslack
