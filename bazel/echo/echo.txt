@@ -10161,7 +10161,7 @@ exhausts
 encroaching
 embroideress 1
 emeraldine
-etherially
+etherially 1
 extravagances
 eyedropper
 exertion
