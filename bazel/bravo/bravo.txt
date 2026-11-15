@@ -6229,7 +6229,7 @@ bennets
 bootlace 1
 bookism
 bissextus
-battalions
+battalions 1
 barndoor
 biuret
 bosporus
