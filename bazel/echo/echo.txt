@@ -3333,7 +3333,7 @@ enshrouds
 ellipsometer
 edison
 euharmonic
-endamages
+endamages 1
 epileptic
 emancipator
 eelback
