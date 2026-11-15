@@ -3480,7 +3480,7 @@ defogged
 disyllable
 dormered
 drogh
-didelphous
+didelphous 1
 dorism
 defoil
 dorsobranchiata
