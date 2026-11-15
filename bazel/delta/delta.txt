@@ -18282,7 +18282,7 @@ dartboard
 demodulated
 dunnakin
 detrains
-dioptrics
+dioptrics 1
 dialyzability
 demijohn
 demiourgoi
