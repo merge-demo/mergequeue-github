@@ -3165,7 +3165,7 @@ activated 1
 achtel
 advolution
 active
-academising
+academising 1
 aweather
 ahungered
 apostrophized
