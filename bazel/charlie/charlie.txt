@@ -27043,7 +27043,7 @@ counterpreach
 counterprick
 cark
 combinatoric
-counterprinciple
+counterprinciple 1
 counterprocess
 counterproductive
 counterproductively
