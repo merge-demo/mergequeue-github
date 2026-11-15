@@ -12552,7 +12552,7 @@ chronaxie
 chronic
 chronica
 chronically
-chronicle
+chronicle 1
 chronicled
 clattertrap
 chronicling
