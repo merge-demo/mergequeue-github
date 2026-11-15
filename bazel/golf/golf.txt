@@ -9304,7 +9304,7 @@ girnel
 gallowglass
 gaure
 guttera
-grudgingness
+grudgingness 1
 generale
 ghosted
 grogshop

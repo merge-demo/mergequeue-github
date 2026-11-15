@@ -5773,7 +5773,7 @@ enigmatization
 engystomatidae
 enatic 1
 etherol
-extinguish
+extinguish 1
 ephorus
 enticers
 englacial
