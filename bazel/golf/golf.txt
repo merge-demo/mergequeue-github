@@ -1706,7 +1706,7 @@ gryposis
 glyptodont
 gentries
 gastrophilite
-grandly
+grandly 1
 gastrograph
 gamebag
 gazetteerish
