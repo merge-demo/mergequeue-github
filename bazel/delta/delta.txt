@@ -2934,7 +2934,7 @@ dedication
 drafting
 disfavor
 duodecimals
-dedicatory
+dedicatory 1
 despitous
 dedicatorily
 doggoner
