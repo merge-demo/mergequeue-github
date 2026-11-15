@@ -5763,7 +5763,7 @@ catechesis
 catechetic
 congenator
 chapatti
-cottony
+cottony 1
 concinnating
 catechin
 catechisable
