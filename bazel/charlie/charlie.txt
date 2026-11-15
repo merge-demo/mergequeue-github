@@ -3882,7 +3882,7 @@ costaea
 chinkle
 criminalness
 centrosymmetry
-crankles
+crankles 1
 carbonisable
 carbonise
 clarets
