@@ -3008,7 +3008,7 @@ glycolic
 gibbering
 gentilhomme
 goldenknop
-gorgoniacean
+gorgoniacean 1
 gaps
 goatherdess
 guildsmen
