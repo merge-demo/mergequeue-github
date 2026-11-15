@@ -6665,7 +6665,7 @@ eccrine
 endermically
 enuring
 exhedrae
-enterology
+enterology 1
 epactal
 enterologic
 epanastrophe
