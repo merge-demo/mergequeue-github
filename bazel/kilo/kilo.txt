@@ -4576,7 +4576,7 @@ kgop
 kgopelb
 kgoqytwkpgr
 kgorxrgpogcu
-kgos
+kgos 1
 kgoskat
 kgosukv
 kgoua
