@@ -3865,7 +3865,7 @@ fract
 fiberglas
 formicary
 fiberscope
-forgiveable
+forgiveable 1
 fungistat
 flavanthrene
 favous
