@@ -9514,7 +9514,7 @@ escrow
 escrowing
 esculents
 esculin
-expansively
+expansively 1
 essences
 evenhead
 eugenesis
