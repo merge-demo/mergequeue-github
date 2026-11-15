@@ -8552,7 +8552,7 @@ emblement
 ethylenoid
 enorganic
 easts
-exclusively
+exclusively 1
 epichoristic
 equative
 electre
