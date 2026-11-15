@@ -316,7 +316,7 @@ galabieh
 galactagog
 gradualist
 gamaliel
-greekism
+greekism 1
 gamogenetically
 galactagogue
 gesneria
