@@ -26915,7 +26915,7 @@ chauffers
 counterlegislation
 counterly
 creeshie 1
-counterlight
+counterlight 1
 counterlilit
 counterlove
 countermaid
