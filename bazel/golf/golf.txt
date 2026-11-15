@@ -8778,7 +8778,7 @@ glyceryls
 goosish
 gravel
 gazpachos
-globalize
+globalize 1
 giantesses
 greensickness
 greenstone
