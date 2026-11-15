@@ -17497,7 +17497,7 @@ dwarf
 depolish
 drudgers
 drudges
-ditheists
+ditheists 1
 drudgism
 dispope
 dicasts
