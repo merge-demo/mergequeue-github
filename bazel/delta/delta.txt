@@ -18581,7 +18581,7 @@ dreamlet
 delirious
 duskingtide
 driftfishes
-duskishness
+duskishness 1
 dogtrotting
 didrachm
 dewool
