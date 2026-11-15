@@ -3445,7 +3445,7 @@ extradoses
 exteriors
 enteropneustan
 embed
-expenditures
+expenditures 1
 electrosynthetic
 equaled
 evacuate
