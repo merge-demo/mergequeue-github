@@ -4845,7 +4845,7 @@ fascicular
 furnishing
 fodder 1
 foliums 1
-froebelism
+froebelism 1
 footfall
 fustigate
 floor
