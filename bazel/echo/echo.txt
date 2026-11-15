@@ -7114,7 +7114,7 @@ explainability
 episcenia
 excerpting
 envelope
-exurbanites
+exurbanites 1
 envelopments 1
 endpaper
 envelops
