@@ -7195,7 +7195,7 @@ footless
 footlights
 fratries
 ficoides
-forearming
+forearming 1
 farer
 frockless
 frisesomorum
