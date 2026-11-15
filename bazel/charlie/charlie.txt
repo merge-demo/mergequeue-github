@@ -12550,7 +12550,7 @@ concurrences
 concubitus
 chronaxie
 chronic
-chronica
+chronica 1
 chronically
 chronicle
 chronicled
