@@ -26744,7 +26744,7 @@ confutable
 countercathexis
 counterchanged
 countercharm
-counterclaim
+counterclaim 1
 cirriform
 counterclaims
 counterclassifications
