@@ -7897,7 +7897,7 @@ extracurial
 edgingly
 emancipist
 enchantresses
-elephancy
+elephancy 1
 extortionateness
 ecotones
 echinozoa
