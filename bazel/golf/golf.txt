@@ -7275,7 +7275,7 @@ gormandizes 1
 gundeck
 gangsa
 gleaming
-gwerziou
+gwerziou 1
 gavelman
 glassblowing 1
 galactolipin
