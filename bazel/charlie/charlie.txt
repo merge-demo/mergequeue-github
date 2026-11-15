@@ -17267,7 +17267,7 @@ coaltitude
 coambulant
 constrainers
 compounding
-cinnamoned
+cinnamoned 1
 chronist
 coamings
 caryophyllous
