@@ -18916,7 +18916,7 @@ cardholder
 collapsability
 collapses
 contam
-collapsing
+collapsing 1
 collarbird
 collarbone
 collard
