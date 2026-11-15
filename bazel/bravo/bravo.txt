@@ -2212,7 +2212,7 @@ blobs
 badineur
 bawties
 bung
-bandgap
+bandgap 1
 barbara
 barbary
 baculiferous

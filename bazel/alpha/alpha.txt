@@ -18802,7 +18802,7 @@ abumbrellar
 artfully
 antideflation
 archeries
-acoustically
+acoustically 1
 abjuring
 allomerization
 agoniatite

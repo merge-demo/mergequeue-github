@@ -7147,7 +7147,7 @@ greenfly
 gile
 gore
 gorebill
-gordioid 1
+gordioid 2
 gearboxes
 gored
 gores
