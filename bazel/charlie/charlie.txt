@@ -11717,7 +11717,7 @@ curdiest
 chondrify
 chondrification
 cygnine
-chondrilla
+chondrilla 1
 chondrinous
 crotalism
 cirrhotic
