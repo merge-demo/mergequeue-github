@@ -4365,7 +4365,7 @@ finagle
 feebler
 foraramina
 foreacquaint
-fencer
+fencer 1
 fuliginously
 fise
 forb
