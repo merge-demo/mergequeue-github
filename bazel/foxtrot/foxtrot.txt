@@ -5284,7 +5284,7 @@ fishlike
 fourrag
 flawflower
 frilliest
-fails
+fails 1
 flawful
 flawing
 flabbergasted
