@@ -4192,7 +4192,7 @@ blacktop
 beatifies
 batholite
 bouchees
-beatitude
+beatitude 1
 bandel
 bestially
 bioscientific
