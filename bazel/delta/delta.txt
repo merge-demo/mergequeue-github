@@ -6788,7 +6788,7 @@ desinence
 desinent
 dallying
 desinential
-defectious
+defectious 1
 desynonymize
 decorticating
 demodex
