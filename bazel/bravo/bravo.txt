@@ -5385,7 +5385,7 @@ begrown
 begrudge
 boggishness
 branchiopodous
-begruntle
+begruntle 1
 biographical
 begrutten
 beguess
