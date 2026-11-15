@@ -11884,7 +11884,7 @@ amuguis
 archai
 aissaoua
 anamorphoscope
-apophlegmatism
+apophlegmatism 1
 arrears
 ankylenteron
 anamorphosis
