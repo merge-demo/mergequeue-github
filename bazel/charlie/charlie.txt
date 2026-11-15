@@ -3389,7 +3389,7 @@ capple
 cappuccino
 chandu
 calycozoan
-credos
+credos 1
 crackiness
 caprate
 coagulatory
