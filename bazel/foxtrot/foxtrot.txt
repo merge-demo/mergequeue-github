@@ -6465,7 +6465,7 @@ futhorks
 fernbird 1
 furiosa 1
 ferried 1
-fumagine
+fumagine 1
 fouquieriaceous
 flightful
 foulness
