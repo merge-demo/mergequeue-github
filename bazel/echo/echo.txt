@@ -4988,7 +4988,7 @@ egression 1
 endeictic
 entropium
 expectable
-enravish
+enravish 1
 embryotomy
 endellionite
 eucephalous
