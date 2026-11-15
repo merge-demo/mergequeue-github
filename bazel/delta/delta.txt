@@ -7724,7 +7724,7 @@ diverged
 devilkins
 doubling
 discanonization
-dichroous
+dichroous 1
 dehydrotestosterone
 denationalization
 devilry
