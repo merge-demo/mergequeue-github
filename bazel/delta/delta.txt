@@ -2109,7 +2109,7 @@ defenseman
 decameral
 daintify
 doline
-diapasm
+diapasm 1
 daunts
 doab
 disinheritances
