@@ -18375,7 +18375,7 @@ cognately
 cerotate
 cognati
 churchless
-cardinalic
+cardinalic 1
 cognatic
 calorize
 cognatus
