@@ -5535,7 +5535,7 @@ enetophobia
 enfaces
 earthshattering
 elizabethans
-elatedly
+elatedly 1
 experimentalism
 episporangium
 enfatico
