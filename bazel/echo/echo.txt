@@ -2416,7 +2416,7 @@ embiid
 epepophysis
 evangelization 1
 edda
-excusively
+excusively 1
 epipetalous
 episcopalianize
 ensorcell
