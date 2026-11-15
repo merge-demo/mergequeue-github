@@ -1276,7 +1276,7 @@ atelocardia
 acetocinnamene
 acatalepsy
 acatalepsia
-acataleptic
+acataleptic 1
 autocorrelate
 autosomally
 advectitious
