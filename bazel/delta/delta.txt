@@ -14270,7 +14270,7 @@ deviances
 dithion
 dithionous
 dephilosophize 1
-devotionate
+devotionate 1
 depaganize
 demarcature
 dithyrambs
