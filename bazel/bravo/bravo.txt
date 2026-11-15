@@ -18275,7 +18275,7 @@ burweed
 bencher
 butterworker
 broadaxe
-boulimy
+boulimy 1
 buttgenbachite
 bolimba
 boomeranging
