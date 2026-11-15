@@ -21176,7 +21176,7 @@ alphabetics
 asemic
 asepses
 anagogical
-assiduate
+assiduate 1
 arginases
 atomicism
 aseptolin
