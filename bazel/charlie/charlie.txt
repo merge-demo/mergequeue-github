@@ -24309,7 +24309,7 @@ cooingly
 cottonpicking
 cooja
 cook
-cookable
+cookable 1
 carbureter
 chapeau
 creation
