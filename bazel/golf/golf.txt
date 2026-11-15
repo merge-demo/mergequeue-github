@@ -6118,7 +6118,7 @@ gigliato
 gardinol
 gallimaufry
 gyrous
-gurniad
+gurniad 1
 genuflections
 gliosis
 gastroid
