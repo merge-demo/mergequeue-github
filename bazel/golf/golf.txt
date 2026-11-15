@@ -6487,7 +6487,7 @@ gie
 guanare
 gapeworms
 gurry
-glycols
+glycols 1
 grit
 graduatical
 ghazel
