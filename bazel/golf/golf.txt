@@ -5139,7 +5139,7 @@ gaumed
 gallweed
 glomera
 goblinesque 1
-gutturine
+gutturine 1
 gentlehearted
 goldylocks
 gyps
