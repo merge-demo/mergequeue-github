@@ -4718,7 +4718,7 @@ fucales
 fathomless
 firesideship
 fantasticate
-frettage
+frettage 1
 fictation
 fruitfuller
 frumentarious
