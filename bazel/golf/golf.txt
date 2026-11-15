@@ -5005,7 +5005,7 @@ ganof
 gurgoyl
 gastrelcosis
 ginger
-grisliest
+grisliest 1
 glamoured
 germanic
 greatmouthed
