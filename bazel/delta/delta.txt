@@ -181,7 +181,7 @@ diminish
 diphenylmethane
 drachmai
 dopiest
-damas
+damas 1
 decipherer
 daedaloid
 diel
