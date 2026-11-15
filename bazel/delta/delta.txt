@@ -14894,7 +14894,7 @@ delitous
 disengagement
 dodecade
 dodecafid
-dodecahedral
+dodecahedral 1
 doctorate
 dieselization
 dodecahydrate
