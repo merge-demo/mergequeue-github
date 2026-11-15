@@ -21320,7 +21320,7 @@ artless
 androdioecious
 asymmetranthous
 antiexporting
-antevenient
+antevenient 1
 arbitrary
 alleger
 amafingo
