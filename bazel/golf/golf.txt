@@ -5826,7 +5826,7 @@ glowingly
 glows
 grinny
 geometrize
-gorgeable
+gorgeable 1
 gaupus
 glissades
 greggle
