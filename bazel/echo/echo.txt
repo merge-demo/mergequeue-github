@@ -4030,7 +4030,7 @@ elucidations
 emphysema
 endobronchitis
 emphyteutic
-emolumentary
+emolumentary 1
 explantation
 endhand
 erosionally
