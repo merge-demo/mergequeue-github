@@ -20956,7 +20956,7 @@ affects
 ascarids
 adjectivism 1
 alpinist
-agog
+agog 1
 ascelli
 ascellus
 ascend
