@@ -9900,7 +9900,7 @@ fancier
 fornices
 fritts
 frogskins
-forepeaks
+forepeaks 1
 fines
 filamentose
 fogeater
