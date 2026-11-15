@@ -20538,7 +20538,7 @@ colorability
 clayware
 copepodan
 compelling
-cornerways
+cornerways 1
 compellingly
 curblike
 cosines
