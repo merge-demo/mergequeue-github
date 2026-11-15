@@ -4525,7 +4525,7 @@ endoerythrocytic
 entothorax
 embiidae
 encephalomyelitic
-epochally
+epochally 1
 extramorainal
 easement 1
 epirrheme
