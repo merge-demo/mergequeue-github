@@ -4975,7 +4975,7 @@ dimethyltryptamine
 datos
 dissipate 1
 deified
-demotists
+demotists 1
 duncedom
 dragontail
 dephosphorize
