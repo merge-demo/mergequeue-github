@@ -6605,7 +6605,7 @@ gastrohyperneuria
 guerillas
 galeass
 grenadiers
-gigolos
+gigolos 1
 graphalloy
 good
 gurglets

@@ -20159,7 +20159,7 @@ arrangement
 agoge
 arrayals
 away
-auscultated
+auscultated 1
 arrangers
 aiders
 avoided
