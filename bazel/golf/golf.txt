@@ -2206,7 +2206,7 @@ guarantying
 ghosting 1
 guberniya
 ganophyllite
-glucolipide
+glucolipide 1
 gossipiness
 gutturalised
 golach

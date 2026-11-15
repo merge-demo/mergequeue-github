@@ -4617,7 +4617,7 @@ ferring
 flowmanostat
 folsom
 footweary
-foresaying
+foresaying 1
 fasciotomy
 fleckless
 fruitgrowing
