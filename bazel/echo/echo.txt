@@ -6147,7 +6147,7 @@ episkotister
 estuary
 endocystitis
 enlodgement
-enlumine
+enlumine 1
 entheos
 evelyn 1
 ergoplasm
