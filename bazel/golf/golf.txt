@@ -2792,7 +2792,7 @@ graduals
 gurr
 gemeinde
 gamphrel
-gaunt
+gaunt 1
 growling
 gimmor
 gascoigny
