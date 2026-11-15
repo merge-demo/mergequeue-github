@@ -4659,7 +4659,7 @@ extratensive
 erythroxyline
 endarchies
 exuberantness
-elasticizes
+elasticizes 1
 epimerase
 epimerising
 eusuchian
