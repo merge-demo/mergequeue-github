@@ -7914,7 +7914,7 @@ extrabuccal
 exquisitive
 experimentation
 epileny
-endopeptidase
+endopeptidase 1
 extensible
 exotospore
 entomeric
