@@ -12392,7 +12392,7 @@ chromatoptometer
 chromatoptometry
 couch
 cobalticyanic
-chromatoscopy
+chromatoscopy 1
 circumduct
 chromatosis
 chromaturia
