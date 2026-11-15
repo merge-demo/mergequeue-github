@@ -2050,7 +2050,7 @@ goaf
 gallied
 glime
 grapeful
-gantry
+gantry 1
 gazzetta
 gutterize
 gavels
