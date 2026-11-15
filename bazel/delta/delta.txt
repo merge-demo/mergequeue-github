@@ -9643,7 +9643,7 @@ diplexer
 dissight
 dipoles
 dexterous
-dihydrostreptomycin
+dihydrostreptomycin 1
 dihydrotachysterol
 dhaks
 dihydroxyacetone
