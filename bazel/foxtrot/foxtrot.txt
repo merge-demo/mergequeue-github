@@ -10871,7 +10871,7 @@ filigreing
 filagreing
 fractiously
 foreskins
-forehinting
+forehinting 1
 freestone
 flayer
 furore
