@@ -1840,7 +1840,7 @@ ethicists
 eyeglasses
 enginous
 electroballistic
-errableness
+errableness 1
 enigmatical
 eared
 eighties
