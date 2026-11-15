@@ -5457,7 +5457,7 @@ fermentatively
 flex
 fusionless
 firefighter
-forevow
+forevow 1
 firearmed
 falsifiable 1
 fatalisms
