@@ -4693,7 +4693,7 @@ glycuronic
 glary
 gradely
 graecism
-goglet
+goglet 1
 glissader
 girted
 galactoside
