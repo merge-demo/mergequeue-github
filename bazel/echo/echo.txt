@@ -1064,7 +1064,7 @@ edgeshot 1
 edgeway
 embalmment
 exterritorial
-enshrouded
+enshrouded 1
 embryonically
 edgrow
 encephaloscope
