@@ -15951,7 +15951,7 @@ acetylated
 antiquarianism
 antelope
 anticonscience
-articulationist
+articulationist 1
 ascensor
 andantes
 antiquarianize
