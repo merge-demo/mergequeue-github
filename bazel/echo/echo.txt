@@ -4430,7 +4430,7 @@ encapsuled
 enure
 effectively
 encapsuling
-encaptivate
+encaptivate 1
 essence
 expectorate
 eternized

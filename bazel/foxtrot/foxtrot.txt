@@ -9519,7 +9519,7 @@ finiglacial
 fiador
 felicify
 flavonol
-furcilia
+furcilia 1
 flitches
 farcinoma
 flawn
