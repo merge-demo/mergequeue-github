@@ -5698,7 +5698,7 @@ belie
 balausta
 belied
 bridalty
-blatancy
+blatancy 1
 branle
 beliefful
 bikram
