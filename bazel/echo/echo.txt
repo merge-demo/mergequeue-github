@@ -10670,7 +10670,7 @@ enarbor
 excrements
 ecrasite
 expeditate
-entwine
+entwine 1
 excitory
 endocytosis
 estragon
