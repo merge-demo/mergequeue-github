@@ -14299,7 +14299,7 @@ aecidiomycetes
 antheraea
 antheridia
 antherogenous
-aphnology
+aphnology 1
 ammiolite
 acetoacetanilide
 antiempirically 1
