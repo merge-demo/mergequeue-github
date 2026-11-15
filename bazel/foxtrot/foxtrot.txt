@@ -6863,7 +6863,7 @@ flittingly
 foliot
 floribunda
 fasces
-forthby
+forthby 1
 ferritungstite
 fattiest
 farewell 1
