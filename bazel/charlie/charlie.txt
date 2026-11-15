@@ -28547,7 +28547,7 @@ coinfinite
 creditably
 caracaras
 crediting
-comd
+comd 1
 checkerwork
 creditive
 creditless
