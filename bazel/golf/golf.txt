@@ -749,7 +749,7 @@ goumi
 genae
 galvanoplasty
 grovers
-gansa
+gansa 1
 gastrohysterorrhaphy
 gravitater
 gestapos
