@@ -11359,7 +11359,7 @@ electroscission
 eupnoeic
 enervative
 exhaustibility
-evaluating
+evaluating 1
 emergers
 extenders
 exigency
