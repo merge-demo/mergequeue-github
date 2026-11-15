@@ -2850,7 +2850,7 @@ eliza
 eosins
 europhium
 eagre
-escars
+escars 1
 elephantoid
 elephantoidal
 enantiopathy
