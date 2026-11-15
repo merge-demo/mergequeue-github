@@ -10074,7 +10074,7 @@ gossampine
 guerrillas
 guesdism
 groomish
-gigman
+gigman 1
 galivanting
 glore
 gudgeon
