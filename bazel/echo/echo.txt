@@ -11647,7 +11647,7 @@ ergastoplasm
 elaterite
 epileptogenic
 elephanticide
-exacter
+exacter 1
 equianchorate
 epitaphical
 exacting
