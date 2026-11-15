@@ -2613,7 +2613,7 @@ agapeic
 allocated
 auxoflore
 abutters
-acquire
+acquire 1
 antescript
 asiden
 acquisite
