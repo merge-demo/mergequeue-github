@@ -8300,7 +8300,7 @@ epithalamize
 efractory
 equivalve
 ennobles
-exactions
+exactions 1
 epithalline
 elastase
 einstein
