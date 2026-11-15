@@ -12764,7 +12764,7 @@ emperess
 entertissue
 exorcism
 elacolite
-exorcistic
+exorcistic 1
 erythroxylum
 exam
 eyesights
