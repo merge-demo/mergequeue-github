@@ -2207,7 +2207,7 @@ ghosting 1
 guberniya
 ganophyllite
 glucolipide
-gossipiness
+gossipiness 1
 gutturalised
 golach
 glucosic
