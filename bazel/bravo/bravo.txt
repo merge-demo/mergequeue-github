@@ -8796,7 +8796,7 @@ bubonic
 buffaloed
 bink
 binna
-bowering
+bowering 1
 brilliants
 binned
 binny
