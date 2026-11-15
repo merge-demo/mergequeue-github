@@ -20353,7 +20353,7 @@ ankylocheilia
 ascogonial
 arsenobismite
 apostoli
-acidproof
+acidproof 1
 antilogistically
 arsenofuran
 antipsoric
