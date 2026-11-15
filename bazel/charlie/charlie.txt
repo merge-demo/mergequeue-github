@@ -21104,7 +21104,7 @@ conative
 conflab
 coercions
 coffinmaker
-conatus
+conatus 1
 conaxial
 culminated
 concamerated
