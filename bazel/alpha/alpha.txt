@@ -477,7 +477,7 @@ abysmal
 anglians
 agriotes
 abyss
-abyssopelagic
+abyssopelagic 1
 actinide
 airstream
 abyssus
