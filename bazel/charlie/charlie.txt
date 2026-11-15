@@ -13594,7 +13594,7 @@ crankest
 chiffer
 cimices
 cimicide
-cene
+cene 1
 cimiciform
 chickens
 cimicifuga
