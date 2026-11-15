@@ -3103,7 +3103,7 @@ globigerine
 gleanable
 gali
 gubat
-gibbol
+gibbol 1
 glossarist
 garo
 geophilid
