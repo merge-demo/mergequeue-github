@@ -12998,7 +12998,7 @@ endocondensation
 evanescenrly
 equivale
 elderbrotherish
-estoppage
+estoppage 1
 embitterer
 enjoins
 edictally
