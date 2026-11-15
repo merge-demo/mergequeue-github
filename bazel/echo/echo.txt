@@ -14064,7 +14064,7 @@ echelonment
 exclude
 enquarter
 extracurriculum
-entablature
+entablature 1
 encephalomata
 enfect
 errantry

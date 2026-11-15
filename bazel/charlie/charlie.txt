@@ -15259,7 +15259,7 @@ chivalry
 capricornus
 clamjamfery
 clamjamfry
-clammed
+clammed 1
 caramelizes
 clammy
 clammiest
