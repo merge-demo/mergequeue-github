@@ -3076,7 +3076,7 @@ caoine
 caon
 chlorocruorin
 caoutchin
-caoutchoucin
+caoutchoucin 1
 cap
 capa
 conferrable
