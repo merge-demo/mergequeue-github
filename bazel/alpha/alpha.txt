@@ -14817,7 +14817,7 @@ axile
 avowers
 antichloristic
 antichlorotic
-abscissae
+abscissae 1
 antievangelical
 attinge 1
 autoplasties
