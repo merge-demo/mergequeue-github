@@ -11296,7 +11296,7 @@ difluoride
 discarding
 discardment
 discards
-dentals
+dentals 1
 discarnate
 duskier
 dimit
