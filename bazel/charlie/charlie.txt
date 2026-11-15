@@ -10272,7 +10272,7 @@ champerator
 cantharidin
 chicest
 coccidioidomycosis
-chich
+chich 1
 chicha
 cheiroglossa
 chichevache
