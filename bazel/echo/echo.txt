@@ -7714,7 +7714,7 @@ exalt
 escurialize
 evidentiary
 erythrine
-enfevered
+enfevered 1
 epidemiography
 elytroplastic
 epeirogeny
