@@ -6197,7 +6197,7 @@ flubbed
 feudum
 foreread
 fairgoing
-flaxes
+flaxes 1
 fulgurate
 foretops
 feebling
