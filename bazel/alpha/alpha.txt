@@ -4152,7 +4152,7 @@ ascabart
 adolescent
 argentarii
 amahs
-apasote
+apasote 1
 adon
 adonai
 adoniad
