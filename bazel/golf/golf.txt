@@ -4526,7 +4526,7 @@ gutters
 gardevisure
 glyptology
 grame
-gyrose
+gyrose 1
 grindingly
 grandmothers
 guastalline
