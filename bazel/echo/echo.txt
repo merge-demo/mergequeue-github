@@ -14187,7 +14187,7 @@ excogitative
 ewound
 extracapsular
 experrection
-eranthis
+eranthis 1
 enqueues
 eupanorthus
 enterococci

@@ -11442,7 +11442,7 @@ autolysis
 atrabilious
 antianaphylactogen
 americanitis
-amt
+amt 1
 alushtite
 amtman
 amtracks
