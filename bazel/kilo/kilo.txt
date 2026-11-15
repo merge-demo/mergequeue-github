@@ -5820,7 +5820,7 @@ kinazcoq
 kinbaeckb
 kinbeycfime
 kincndhgdr
-kind
+kind 1
 kindm
 kindvmec
 kinef
