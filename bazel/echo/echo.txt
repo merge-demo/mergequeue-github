@@ -7864,7 +7864,7 @@ emancipating
 epigrammatic
 electrifiable
 epigrammatically
-epigamic
+epigamic 1
 ecca
 ephod
 enterolith
