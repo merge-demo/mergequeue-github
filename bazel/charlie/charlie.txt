@@ -17571,7 +17571,7 @@ cacoxene
 coccidiosis
 coccidium
 coccidology
-coccids
+coccids 1
 coccygeal
 coccygean
 cornify
