@@ -3744,7 +3744,7 @@ enfetter 1
 embrocates
 erythroid
 efflower
-endiaper
+endiaper 1
 erugation
 electroendosmotic
 economite
