@@ -18518,7 +18518,7 @@ anyplace
 arborical
 arboricole
 addresses
-acceptees
+acceptees 1
 austrophile
 arboricoline
 arboricolous
