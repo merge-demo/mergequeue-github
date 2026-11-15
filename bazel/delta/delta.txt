@@ -15040,7 +15040,7 @@ disbutton
 decnet
 drysalteries
 doggers
-dyspnoeas
+dyspnoeas 1
 dilogarithm
 dentonasal
 democratized

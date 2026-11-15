@@ -5890,7 +5890,7 @@ bagonet
 biased
 bronchophonic
 bared
-belonging
+belonging 1
 basisphenoid
 bailiffship
 believing

@@ -12326,7 +12326,7 @@ exercitation 1
 elecampane
 effortless
 equilin
-elvanitic
+elvanitic 1
 exercitorian
 effront
 efs
