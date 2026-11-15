@@ -7395,7 +7395,7 @@ demean
 detonative
 detonize
 detour
-duncifying
+duncifying 1
 detectability
 detouring
 deliriums
