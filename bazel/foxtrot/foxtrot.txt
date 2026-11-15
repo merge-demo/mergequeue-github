@@ -815,7 +815,7 @@ fenny
 frogeyes
 formfitting
 fixatives 1
-fluctuations
+fluctuations 1
 fanjet
 fastened
 flemings

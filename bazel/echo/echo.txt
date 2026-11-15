@@ -2741,7 +2741,7 @@ equipotent
 electees
 edentate
 envoi
-eleemosynary
+eleemosynary 1
 etymology
 emetic
 engorge
