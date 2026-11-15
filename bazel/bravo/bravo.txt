@@ -9072,7 +9072,7 @@ bios
 bargander
 biosciences
 bulrushes
-bestrows
+bestrows 1
 befits
 blankminded
 buzzwigs
