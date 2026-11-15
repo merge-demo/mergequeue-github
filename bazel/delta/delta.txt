@@ -3644,7 +3644,7 @@ duckling 1
 dubbing
 deglycerin
 dissonance
-deglory
+deglory 1
 dermatoxerasia
 deglut
 dec
