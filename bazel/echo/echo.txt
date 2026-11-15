@@ -11225,7 +11225,7 @@ encomimiums
 eophyton
 eradiated
 evangeliarium
-enalyron
+enalyron 1
 enforcers 1
 ethine
 electropuncture

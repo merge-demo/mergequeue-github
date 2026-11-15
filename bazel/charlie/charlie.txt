@@ -14717,7 +14717,7 @@ circumagitate
 cylix
 celebration
 charbocle
-cystathionine
+cystathionine 1
 coruscant
 comber
 citherns
