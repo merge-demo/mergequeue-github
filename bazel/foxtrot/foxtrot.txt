@@ -5293,7 +5293,7 @@ flawlessness
 fangy
 foamed
 floppily
-frangulinic
+frangulinic 1
 fleshlily
 farmsteads
 fetishistic
