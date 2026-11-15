@@ -3155,7 +3155,7 @@ defeasibility
 dacryohelcosis
 dingey
 doorbell
-dinnery
+dinnery 1
 defeated
 downs
 diluviate
