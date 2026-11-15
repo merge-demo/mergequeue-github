@@ -12245,7 +12245,7 @@ deathshot
 dervishes
 disfurniture
 donax
-disgarnish
+disgarnish 1
 descartes
 deliberativeness
 dossiere
