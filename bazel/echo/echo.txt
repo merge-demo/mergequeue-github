@@ -758,7 +758,7 @@ enclaved
 ecaudate
 echinocaris
 emblematise
-evangelism
+evangelism 1
 extorsive
 emotive
 enabling
