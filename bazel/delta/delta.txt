@@ -9459,7 +9459,7 @@ dicyanin
 digue
 diplanetism
 daydreamers
-digeny
+digeny 1
 diamorphosis
 deducibleness
 denoted
