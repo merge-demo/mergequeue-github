@@ -9225,7 +9225,7 @@ foresighted
 fishbed
 foraneous
 facts
-frayedness
+frayedness 1
 fabulize
 fidging
 flagmaking
