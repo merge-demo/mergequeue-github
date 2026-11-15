@@ -24197,7 +24197,7 @@ cunning
 convocations
 convocative
 convocator
-cantabrize
+cantabrize 1
 catbriers
 convoyed
 convoying
