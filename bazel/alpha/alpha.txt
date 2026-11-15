@@ -15099,7 +15099,7 @@ amethyst
 algedonics
 abruptest
 amphitokal
-artotypy
+artotypy 1
 aspherical
 anoplanthus
 antidromically
