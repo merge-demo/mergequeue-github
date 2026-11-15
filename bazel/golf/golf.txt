@@ -6898,7 +6898,7 @@ gitterns
 guttiferae
 gombay
 guglio
-gangliomata
+gangliomata 1
 graftonite
 groundspeed
 greillade
