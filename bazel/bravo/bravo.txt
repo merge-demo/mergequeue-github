@@ -7525,7 +7525,7 @@ bevillain
 befell
 bonspell
 bashaws
-bedote
+bedote 1
 breezeless
 banes
 boehmite
