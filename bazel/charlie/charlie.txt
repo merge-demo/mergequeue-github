@@ -26328,7 +26328,7 @@ cloudberries
 chasteness 1
 choleromania
 costs
-caddices
+caddices 1
 chevrone
 costumed
 chlore
