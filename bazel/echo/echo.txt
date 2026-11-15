@@ -9885,7 +9885,7 @@ enodally
 encave
 electrotelethermometer
 editorial
-eugenicist
+eugenicist 1
 esthiomene
 extenuatingly
 exiles
