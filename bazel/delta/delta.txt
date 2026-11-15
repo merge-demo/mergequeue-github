@@ -10541,7 +10541,7 @@ dionysian
 dimeric
 decalcomaniac
 dipleurulas
-disbowels
+disbowels 1
 dialyzate
 demipagan
 disserviceableness
