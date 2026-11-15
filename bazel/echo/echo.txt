@@ -10090,7 +10090,7 @@ eyecups
 ensorcelize
 eschatocol
 ebb
-erythrosin
+erythrosin 1
 etheostominae
 elytroid
 exasperates
