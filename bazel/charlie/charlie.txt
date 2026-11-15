@@ -23880,7 +23880,7 @@ controverted
 controverter
 controvertibility
 controvertible
-controverting
+controverting 1
 coracine
 cullender
 counterproof
