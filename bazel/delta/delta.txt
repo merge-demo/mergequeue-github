@@ -9970,7 +9970,7 @@ dramaturgist
 diminutions
 dolichocephalous
 deener
-diminutive
+diminutive 1
 dimiss
 deindustrialization
 dimissaries
