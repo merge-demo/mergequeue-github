@@ -1903,7 +1903,7 @@ extrovert
 errata
 eximiousness
 encashes
-enwisen
+enwisen 1
 evanescency
 eulogically
 expulsion
