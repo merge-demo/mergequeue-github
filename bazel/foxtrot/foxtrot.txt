@@ -5227,7 +5227,7 @@ fingall
 flytrap
 filius
 flavescent
-funguses
+funguses 1
 flews
 farse
 fulfil
