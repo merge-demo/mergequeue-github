@@ -14102,7 +14102,7 @@ dinotheres
 delinquence
 deciduitis
 distritos
-debitor
+debitor 1
 dolomization
 dystrophia
 dystrophic
