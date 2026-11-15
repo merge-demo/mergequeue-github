@@ -3098,7 +3098,7 @@ grulla
 gunpoint
 guardroom
 generally
-glucokinin
+glucokinin 1
 globigerine
 gleanable
 gali
