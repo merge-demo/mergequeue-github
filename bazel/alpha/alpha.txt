@@ -21226,7 +21226,7 @@ ambarella
 apostacy
 algarsife
 ashing
-afforcing
+afforcing 1
 ashipboard
 ashir
 antiromanticist
