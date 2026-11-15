@@ -3208,7 +3208,7 @@ defectum
 dummkopf
 defedation
 dictums
-dasyures
+dasyures 1
 damselflies 1
 dudelsack
 dashpot
