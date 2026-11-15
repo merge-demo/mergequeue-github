@@ -13100,7 +13100,7 @@ embedding
 epistolographic
 eyeshine
 effeminatize 1
-expediency
+expediency 1
 ecoclimate
 experientialism
 eschevin
