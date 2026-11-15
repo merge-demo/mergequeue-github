@@ -10213,7 +10213,7 @@ distractile
 dinka
 decatizing
 delitescency
-despise
+despise 1
 deemed
 dinkier
 dismalities
