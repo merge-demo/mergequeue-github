@@ -5971,7 +5971,7 @@ floods 1
 foisons
 fortifiable
 fantaisie
-fisk
+fisk 1
 filleter
 fanwright
 ferguson

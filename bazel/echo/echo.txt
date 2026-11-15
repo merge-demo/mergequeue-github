@@ -5369,7 +5369,7 @@ expatriations
 evzones
 endocline
 epicrystalline
-encoring
+encoring 1
 enarme
 endosteomata
 enwingly
