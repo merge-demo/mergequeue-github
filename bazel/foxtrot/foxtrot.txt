@@ -11412,7 +11412,7 @@ feasor
 flocculose
 furniture
 flummoxing
-frustrable
+frustrable 1
 footlicking
 furl 1
 furodiazole
