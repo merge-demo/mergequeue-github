@@ -12822,7 +12822,7 @@ armorwise
 ammocoetid
 angioscope
 angiosymphysis
-anopia
+anopia 1
 antiatoms
 ailantine
 aficionados
