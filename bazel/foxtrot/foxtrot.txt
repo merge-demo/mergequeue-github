@@ -7279,7 +7279,7 @@ fiants
 freshment
 femereil
 fibrilations
-fossilism
+fossilism 1
 filefish
 frache
 fenestral
