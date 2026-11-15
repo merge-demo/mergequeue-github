@@ -11837,7 +11837,7 @@ etiolation
 excalcarate
 extractible
 equiproducing
-elecive
+elecive 1
 eulogization
 extromit
 excalceate
