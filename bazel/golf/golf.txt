@@ -1313,7 +1313,7 @@ gateward
 gibbered
 groomers
 gas
-globalism
+globalism 1
 galilee
 gorging
 geullah
