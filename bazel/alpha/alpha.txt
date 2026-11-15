@@ -19676,7 +19676,7 @@ ascesis
 aristeas
 alertness
 armaria
-aristeia
+aristeia 1
 acetanilide
 aristocracy
 aristocraticalness
