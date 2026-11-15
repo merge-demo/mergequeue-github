@@ -3091,7 +3091,7 @@ capabler
 capably
 cerecloth
 capacify
-cowpat
+cowpat 1
 centare
 contrabandist
 capacious
