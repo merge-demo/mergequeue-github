@@ -8497,7 +8497,7 @@ empties
 enneatical
 epulo
 ecphoriae
-eurindic
+eurindic 1
 explants
 erases
 elongates
