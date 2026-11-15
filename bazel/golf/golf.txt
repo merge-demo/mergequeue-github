@@ -1136,7 +1136,7 @@ glycerophosphate
 gemmiferous
 gestura
 geneura
-gerontocracies
+gerontocracies 1
 gallnut
 galyac
 groupment
