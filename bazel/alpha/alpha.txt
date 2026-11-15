@@ -24920,7 +24920,7 @@ agravic
 awakening
 awakeningly
 awaking
-automotor
+automotor 1
 arseniosiderite
 ankylose
 adroit
