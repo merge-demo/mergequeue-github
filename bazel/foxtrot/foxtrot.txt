@@ -11620,7 +11620,7 @@ fortissimi
 farci
 fibrous
 fylgja
-fosite
+fosite 1
 funestal
 finestiller
 forehew
