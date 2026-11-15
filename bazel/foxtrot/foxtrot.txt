@@ -1495,7 +1495,7 @@ foundering
 fient
 forebodingness
 forestology
-freebooters 1
+freebooters 2
 formamido
 fastens
 fermentatory
