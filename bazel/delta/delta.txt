@@ -9153,7 +9153,7 @@ dramatising
 didynamous 1
 diffractometer
 diffund
-descend
+descend 1
 dunnage
 druggiest
 dilettanteship
