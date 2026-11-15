@@ -1554,7 +1554,7 @@ doubtfulness
 deactivation
 deactivators
 distressedness
-doublure
+doublure 1
 deadlier
 deaden
 droops
