@@ -6789,7 +6789,7 @@ berhyme
 banjore
 bert
 blowhole
-berteroa
+berteroa 1
 berthas
 bulkages
 bibliotaphic
