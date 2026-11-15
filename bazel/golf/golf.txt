@@ -10148,7 +10148,7 @@ gymslip
 glazement
 gasohol
 grazers 1
-giddyish
+giddyish 1
 gal
 gloried
 glideness
