@@ -21902,7 +21902,7 @@ archform
 asthenics
 assizes
 amphistome
-assman
+assman 1
 antiproductively
 assmanship
 angeleyes
