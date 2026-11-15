@@ -11151,7 +11151,7 @@ isvspmx
 isvvb
 iswbt
 iswcmmzhuwiso
-isweolmt
+isweolmt 1
 iswgdnoqm
 iswglx
 iswid
