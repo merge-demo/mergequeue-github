@@ -18953,7 +18953,7 @@ collateralizing
 collaterally
 chalta
 collateralness
-collaterals
+collaterals 1
 canzone
 cohobating
 corved
