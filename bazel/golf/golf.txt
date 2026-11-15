@@ -4228,7 +4228,7 @@ gonidiose
 ghibelline
 gynaecium
 gunned
-grovel
+grovel 1
 goloka
 gois
 gaetuli
