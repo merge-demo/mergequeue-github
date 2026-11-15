@@ -9556,7 +9556,7 @@ digladiating
 decken
 duellos
 diglots
-desmatippus
+desmatippus 1
 disenchantment
 diglottist
 duumvir

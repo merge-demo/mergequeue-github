@@ -3319,7 +3319,7 @@ foreward
 flyting
 flasket
 foreconscious
-facewise
+facewise 1
 ferrohydrocyanic
 fossilologist
 folklorist
