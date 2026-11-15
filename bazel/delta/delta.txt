@@ -10589,7 +10589,7 @@ diagonalize
 deseam
 dirges
 doxographical
-dittology
+dittology 1
 displants
 domestic
 dolorimeter
