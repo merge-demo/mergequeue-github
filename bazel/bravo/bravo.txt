@@ -2653,7 +2653,7 @@ barleycorn
 bournonite
 bilge
 bimensal
-bellying
+bellying 1
 bable
 bribeable
 barling
