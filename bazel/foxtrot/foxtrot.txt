@@ -857,7 +857,7 @@ fantasmal 1
 fundus
 fantasms
 forsloth
-fractable
+fractable 1
 finked
 fustigation
 flowage
