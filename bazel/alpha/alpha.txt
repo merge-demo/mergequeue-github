@@ -56,7 +56,7 @@ arcaded
 arguitively
 acanthotic
 alkylene
-aridly
+aridly 1
 acineta
 acrocephalous
 abacus
