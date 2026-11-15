@@ -5466,7 +5466,7 @@ chloramide
 civetlike
 casuarina
 cantraips
-casuarius
+casuarius 1
 chamaecyparis
 crunode
 casuistess
