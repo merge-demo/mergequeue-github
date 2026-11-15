@@ -5326,7 +5326,7 @@ goodman 1
 globularly
 gutturalism
 gingals
-glaived
+glaived 1
 gourds 1
 gonidia
 glomerulate
