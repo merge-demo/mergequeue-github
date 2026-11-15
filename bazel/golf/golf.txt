@@ -5819,7 +5819,7 @@ genos
 glave
 guanidin
 grasshopperish
-gastrodisk
+gastrodisk 1
 gurjara
 glowering
 glowingly
