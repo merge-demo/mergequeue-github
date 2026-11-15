@@ -6922,7 +6922,7 @@ fulwa
 fideicommission
 formeret
 filibusterous
-freeway
+freeway 1
 finely
 foll
 facia
