@@ -7298,7 +7298,7 @@ desiccative
 doukhobor
 devisers
 defecters
-defecation
+defecation 1
 donnie
 dress
 diphthongia
