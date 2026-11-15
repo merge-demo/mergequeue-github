@@ -7073,7 +7073,7 @@ ganglioneure
 goosegog
 guignardia
 goyle
-gynandrarchy
+gynandrarchy 1
 gunnage
 guelphic
 giottesque

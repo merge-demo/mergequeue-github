@@ -1542,7 +1542,7 @@ evoke
 embow
 encarnadine
 engloom
-emarginately
+emarginately 1
 epistolographer 1
 eggfruit
 easies
