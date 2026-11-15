@@ -7622,7 +7622,7 @@ agonothet
 accident
 aktivist
 anabaptism
-anisokonia
+anisokonia 1
 abnegator
 allograph
 adiactinic
