@@ -25509,7 +25509,7 @@ coronado
 coronados
 coronae
 crepidomata
-craniometer
+craniometer 1
 cavitates
 coronagraph
 cataphonics
