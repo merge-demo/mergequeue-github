@@ -18672,7 +18672,7 @@ ak
 agonista
 archangelic
 archangelica
-antisupernatural
+antisupernatural 1
 ambuscading
 archangelical
 acceptable
