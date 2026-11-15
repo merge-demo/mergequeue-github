@@ -480,7 +480,7 @@ bushbeater
 bibliothecal
 besom
 betatron
-battarismus
+battarismus 1
 bioplast
 blady
 balaenoidea
