@@ -6729,7 +6729,7 @@ equines
 espaliers
 epithecal
 evaginable
-emunge
+emunge 1
 enuresis
 entertake
 exstimulate
