@@ -257,7 +257,7 @@ easiest
 eleutheromorph 1
 evensong
 eulamellibranchia
-emendately
+emendately 1
 electroballistically
 elevenfold
 equisegmented
