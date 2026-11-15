@@ -1861,7 +1861,7 @@ biparty
 bimetalism
 bandiness
 bascunan 1
-bailiary
+bailiary 1
 bryology
 bewend
 bonaght
