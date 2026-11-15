@@ -627,7 +627,7 @@ amatols
 atelomitic
 abolishers
 astigmatism
-alastrim
+alastrim 1
 astrologic
 acetoamidophenol
 affranchisement
