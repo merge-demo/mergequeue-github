@@ -2212,7 +2212,7 @@ freyja
 fantasmagoria
 fixe
 fibrinopurulent
-fogged
+fogged 1
 feminal
 fruiting
 feminility
