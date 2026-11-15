@@ -13459,7 +13459,7 @@ broilery
 beer
 bleeding
 bottleman
-bulse
+bulse 1
 benzin
 bepun
 brayer
