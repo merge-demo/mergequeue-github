@@ -4252,7 +4252,7 @@ dopaminergic
 disputatious
 deuteragonist
 delthyrial
-duncan
+duncan 1
 destructible
 dineros 1
 danseuses

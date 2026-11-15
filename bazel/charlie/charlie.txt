@@ -8276,7 +8276,7 @@ cronyism
 canadianisms
 chalcus
 chaldean
-chiver
+chiver 1
 caucused
 caricetum
 contravariant
