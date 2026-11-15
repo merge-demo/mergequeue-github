@@ -577,7 +577,7 @@ confort
 caduac
 cruiseway
 commilitant 1
-catalineta
+catalineta 1
 caducean
 caducecei
 caducei
