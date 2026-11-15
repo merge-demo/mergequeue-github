@@ -13668,7 +13668,7 @@ corolline
 chagal
 cyanometry
 cynareous
-cynaroid
+cynaroid 1
 chromatical
 cinch
 colleges
