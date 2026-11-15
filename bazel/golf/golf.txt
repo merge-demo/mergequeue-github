@@ -5883,7 +5883,7 @@ glucinium
 genteelest
 gadder
 guadalcazarite
-goldfinch
+goldfinch 1
 glycosidase
 gawney
 gipsyweed
