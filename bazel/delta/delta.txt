@@ -7475,7 +7475,7 @@ detune
 detuning
 diastrophic
 dragooned
-diosma
+diosma 1
 dunderpates
 darkheartedness
 dovish
