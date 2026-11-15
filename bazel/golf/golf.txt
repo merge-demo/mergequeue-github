@@ -6748,7 +6748,7 @@ granitized
 gametophore
 gagging
 grannie
-gripped
+gripped 1
 geneticist
 georgic
 gulash
