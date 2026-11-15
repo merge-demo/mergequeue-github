@@ -16100,7 +16100,7 @@ dropline
 doughtier
 dockside
 designfulness
-deipnosophistic
+deipnosophistic 1
 doughtiest
 doughtily 1
 disaffections
