@@ -24658,7 +24658,7 @@ adenoiditis
 achaemenidae
 avenida
 aveniform
-astatic
+astatic 1
 australians
 anacamptic
 avenolith
