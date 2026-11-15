@@ -1854,7 +1854,7 @@ fruiterers
 febriphobia
 februarius
 flemishing 1
-fringefoot
+fringefoot 1
 fencibles
 fielden
 fiveling
