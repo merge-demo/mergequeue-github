@@ -17612,7 +17612,7 @@ concyclically
 coccoidal
 coccolite
 counterresolution
-calabashes
+calabashes 1
 cardiodysneuria
 cavilingness
 columelliform
