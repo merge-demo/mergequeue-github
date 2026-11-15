@@ -10101,7 +10101,7 @@ galactodensimeter
 grammarian
 gekkonoid
 gonfaloniership
-gasoscope 1
+gasoscope 2
 glottid
 gazetteer
 gonystylus
