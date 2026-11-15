@@ -445,7 +445,7 @@ ellipsone
 extraembryonal
 emmer
 eremitical
-eftsoons
+eftsoons 1
 ecchymosis
 ecchondroma
 equivoke
