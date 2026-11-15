@@ -83,7 +83,7 @@ direcly
 deescalating
 dumb
 deploying
-disqualifiable
+disqualifiable 1
 diachylon
 dactylology
 dognapped
