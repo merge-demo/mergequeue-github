@@ -4477,7 +4477,7 @@ exaggerator
 extemporaneousness
 eczematous
 encash
-enlightenments
+enlightenments 1
 enquires
 epiphyllum
 encashment
