@@ -15423,7 +15423,7 @@ disinherited
 doming
 domini
 decalomania
-demurer 1
+demurer 2
 denis
 downtowns
 dishwares
