@@ -2305,7 +2305,7 @@ faunule 1
 fenestrato
 fifteenfold
 featherheaded
-febrility
+febrility 1
 fast
 fixities
 fixatifs
