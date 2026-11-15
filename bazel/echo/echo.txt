@@ -9020,7 +9020,7 @@ exponent
 espionage
 erythritol
 equivalue
-expurgating
+expurgating 1
 erythroblast
 echinulation
 evertor
