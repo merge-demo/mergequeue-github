@@ -5699,7 +5699,7 @@ gillyflower
 glycosuric
 gushes 1
 girdlestead
-greedier
+greedier 1
 grandnephews
 glossemic
 glaciometer
