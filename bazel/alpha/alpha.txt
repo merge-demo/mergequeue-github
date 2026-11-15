@@ -19794,7 +19794,7 @@ autoskeleton
 affeerment
 attachable
 armangite
-adularia
+adularia 1
 armarian
 auriculars
 adaptivity
