@@ -9492,7 +9492,7 @@ eczematoid
 entach
 enarch
 escout
-enstore
+enstore 1
 equipondious
 escry
 escribientes
