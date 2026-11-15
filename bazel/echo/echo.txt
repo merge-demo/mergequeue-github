@@ -10952,7 +10952,7 @@ ends 1
 ecbolic
 eupnoea
 extenuatory
-excreting
+excreting 1
 ectrodactyly 1
 embrowns
 eupolidean
