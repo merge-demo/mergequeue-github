@@ -5849,7 +5849,7 @@ flustrum
 fulcrums
 flidge
 fitz
-farine
+farine 1
 fertilisable
 fowling
 factorially
