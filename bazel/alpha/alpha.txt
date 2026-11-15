@@ -18677,7 +18677,7 @@ ambuscading
 archangelical
 acceptable
 aglaonema
-aquascutum
+aquascutum 1
 anatocism
 antares
 alentours
