@@ -3019,7 +3019,7 @@ cowleeching
 cellocut
 cantoning
 cantonize
-colectomy
+colectomy 1
 countergager
 cantoral
 cantoria
