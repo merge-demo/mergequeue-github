@@ -11022,7 +11022,7 @@ emolliate 1
 eurypterus
 emption
 eclectism
-eurite
+eurite 1
 ethered
 echinostomatidae
 elemol
