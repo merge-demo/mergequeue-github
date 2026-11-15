@@ -970,7 +970,7 @@ dipsey
 dray 1
 disjoints
 doughmen
-dare
+dare 1
 directcarving
 drosophila
 dared
