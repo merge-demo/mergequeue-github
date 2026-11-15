@@ -7110,7 +7110,7 @@ foreallege
 fregatae
 footage
 fibrillae
-fuscous
+fuscous 1
 fulminic
 football
 flaglet

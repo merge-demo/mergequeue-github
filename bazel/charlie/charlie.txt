@@ -26289,7 +26289,7 @@ coloradans
 cursoriidae
 causational
 crowfoots
-colorimetric
+colorimetric 1
 countersea
 costmaries
 counterdemonstrator
