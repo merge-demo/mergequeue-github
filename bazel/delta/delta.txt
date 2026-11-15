@@ -14364,7 +14364,7 @@ diurnal
 deuterogenic
 diurnally
 drug
-dragonize
+dragonize 1
 diurnals
 diurnule
 dimensuration
