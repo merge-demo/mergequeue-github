@@ -16820,7 +16820,7 @@ buffa
 brumbee
 bacterioid
 bicolligate
-buffable
+buffable 1
 buffalo
 buffalofish
 burglarised
