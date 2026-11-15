@@ -5299,7 +5299,7 @@ eskimoid
 elapsoidea
 earthshakingly
 expeditating
-equity
+equity 1
 esterellite
 efik
 enchest
