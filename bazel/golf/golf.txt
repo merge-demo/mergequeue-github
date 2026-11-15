@@ -3229,7 +3229,7 @@ gebur
 galoping
 giron
 gluttons
-girtonian
+girtonian 1
 gap
 ghosty
 gilgul
