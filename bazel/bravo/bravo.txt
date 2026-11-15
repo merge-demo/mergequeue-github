@@ -10183,7 +10183,7 @@ blackguardry
 baroreceptor
 beseechers
 blackgum
-baulking
+baulking 1
 beachcombing
 boastings
 brevicomis
