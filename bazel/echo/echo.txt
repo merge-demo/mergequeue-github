@@ -10079,7 +10079,7 @@ exode
 ethnologists 1
 endoparasitism
 epipolize
-englishing
+englishing 1
 epinglette
 escharine
 echidnidae
