@@ -1912,7 +1912,7 @@ debriefing
 dowser
 danzig
 didus
-declassicize
+declassicize 1
 dissenterism
 dances
 debriefings
