@@ -15584,7 +15584,7 @@ dyvours
 doodlebug
 doodlers
 doodlesack
-demeanors
+demeanors 1
 dentolingual
 deconcatenate
 drying
