@@ -1317,7 +1317,7 @@ calibre
 chromatophilia
 causative
 cyanohydrin
-catalects
+catalects 1
 caliburn
 crewless
 cravatted
