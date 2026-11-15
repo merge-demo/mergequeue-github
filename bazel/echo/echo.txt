@@ -3547,7 +3547,7 @@ ecumenism
 emuscation
 estriols
 enfoeffment
-exothermic
+exothermic 1
 exanthematous
 ergographic
 entozoon
