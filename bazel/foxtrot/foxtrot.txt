@@ -9852,7 +9852,7 @@ flexibleness
 flinger
 fabianism 1
 foulage
-fucatious
+fucatious 1
 fetishmonger
 flashbulbs
 firebricks
