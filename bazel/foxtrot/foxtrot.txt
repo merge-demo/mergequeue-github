@@ -2574,7 +2574,7 @@ fumes
 forechase
 ferrocene
 fogramity
-flongs
+flongs 1
 ferrocyanate
 ferroelectric
 fingerbreadth
