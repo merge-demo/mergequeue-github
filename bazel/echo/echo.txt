@@ -4687,7 +4687,7 @@ embezzled
 electrophonically
 encyclics
 extroversive
-eisodic
+eisodic 1
 eucrites
 elbowing
 eyeopener
