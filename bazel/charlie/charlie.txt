@@ -19485,7 +19485,7 @@ crociary
 corposant
 colourist
 colourless
-ceruleum
+ceruleum 1
 colourman
 colpenchyma
 closet
