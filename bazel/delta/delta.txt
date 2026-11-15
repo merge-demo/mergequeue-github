@@ -4963,7 +4963,7 @@ deradenitis
 demote
 demoted
 demotes
-disomus 1
+disomus 2
 demotions
 deferent
 dysmeromorph
