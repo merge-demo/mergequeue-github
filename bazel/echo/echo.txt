@@ -104,7 +104,7 @@ enmarble
 earreach
 engineership
 extraught
-enamoured
+enamoured 1
 eusteles
 earrings
 eaves
