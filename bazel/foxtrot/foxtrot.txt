@@ -7056,7 +7056,7 @@ foodful
 fulfilled
 fribby
 fatalities
-foreknow
+foreknow 1
 flowk
 fosie
 frase
