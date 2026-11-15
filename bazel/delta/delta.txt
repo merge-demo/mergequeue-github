@@ -5305,7 +5305,7 @@ darkener
 dentalia
 dentalism
 dodoes
-decultivate
+decultivate 1
 droitsman
 dysmorphism
 diancecht
