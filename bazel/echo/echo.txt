@@ -2525,7 +2525,7 @@ equitriangular
 excerebrate
 eviration
 emesidae
-entoiled
+entoiled 1
 eternity
 electrolytically
 exuviates
