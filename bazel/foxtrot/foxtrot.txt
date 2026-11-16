@@ -2540,7 +2540,7 @@ fem
 functionalistic
 foresightful
 falerno
-foreconceive
+foreconceive 1
 fairyhood
 funduck
 ferryboat
