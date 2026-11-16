@@ -12919,7 +12919,7 @@ coronoid
 cleidocranial
 chute
 clangorously
-clachs
+clachs 1
 chuted
 calyon
 chuter
