@@ -25973,7 +25973,7 @@ corvidae
 corvillosum
 creolize
 centralest
-corroborates
+corroborates 1
 corvine
 couthie
 colonization
