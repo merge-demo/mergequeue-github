@@ -5098,7 +5098,7 @@ gastroptosia
 guilders
 gravery
 glassmaking 1
-guerite
+guerite 1
 glyc
 gallberries
 grav
