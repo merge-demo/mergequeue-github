@@ -8520,7 +8520,7 @@ enwrapping
 enclave
 ecuadoran
 exopterygote
-expressionist
+expressionist 1
 eugenicists
 equalitarian
 equalitarianism
