@@ -23070,7 +23070,7 @@ conspectus
 cullying
 colias
 conspectuses
-consperse
+consperse 1
 conspersion
 conspicuity
 crescentia
