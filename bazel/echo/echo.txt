@@ -2216,7 +2216,7 @@ esthesia 1
 epistome
 expanded
 eldermen
-entailing
+entailing 1
 expeditionist
 elders
 enumerating

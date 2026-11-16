@@ -3467,7 +3467,7 @@ gallicisms
 gynecology
 grum
 gubernance
-gove
+gove 1
 gaveler
 geometers
 gudgeons
