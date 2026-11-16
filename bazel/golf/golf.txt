@@ -6833,7 +6833,7 @@ gonophs
 galloflavine
 gallowsness
 gladiolus
-gatewright
+gatewright 1
 graille
 gaberdines
 gelsemic
