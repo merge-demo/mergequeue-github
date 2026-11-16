@@ -8446,7 +8446,7 @@ antilog
 avogram
 anticausotic
 aschaffite
-adulatory
+adulatory 1
 apotheosizing
 aristolochiaceae
 amebous
