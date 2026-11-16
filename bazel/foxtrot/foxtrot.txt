@@ -10374,7 +10374,7 @@ fungite
 flusterment
 fibroplasia
 fonctionnaire
-forgivers
+forgivers 1
 fecundities
 fertilizable
 frontignan
