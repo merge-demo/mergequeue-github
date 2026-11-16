@@ -4794,7 +4794,7 @@ elator 1
 enclosures
 emprent
 emmenia
-erethic
+erethic 1
 eguttulate
 enterotomy
 epiopticon
