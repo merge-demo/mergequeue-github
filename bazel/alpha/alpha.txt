@@ -19685,7 +19685,7 @@ aggregates
 aristocraticism
 araroba
 affabrous
-amanuensis
+amanuensis 1
 aristocratism
 aristocrats 1
 adrectal

@@ -21959,7 +21959,7 @@ canorousness
 confidingness
 configural
 canteens
-coinsurable
+coinsurable 1
 coexclusive
 clinohedrite
 configurating
