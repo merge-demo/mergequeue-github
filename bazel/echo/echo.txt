@@ -4119,7 +4119,7 @@ excitant 1
 exogenous
 enfoulder
 eellike
-eire
+eire 1
 emplectic
 emmets
 ethnographically

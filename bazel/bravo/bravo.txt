@@ -10766,7 +10766,7 @@ bywords
 befrill
 boatsmen
 blepharadenitis
-blepharanthracosis
+blepharanthracosis 1
 bromaurate
 barkingly
 boylike
