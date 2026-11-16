@@ -6990,7 +6990,7 @@ fondle
 frayings
 fondled
 fondles
-fainter
+fainter 1
 formalazine
 fumant
 flannels
