@@ -3337,7 +3337,7 @@ endamages
 epileptic
 emancipator
 eelback
-emarginated
+emarginated 1
 eventilate
 evildoing
 enteralgia
