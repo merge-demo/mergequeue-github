@@ -513,7 +513,7 @@ abjunct
 aeolidae
 amassment
 angiorrhagia
-assonantal
+assonantal 1
 acidities
 absterge
 agomphiasis
