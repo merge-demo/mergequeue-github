@@ -2116,7 +2116,7 @@ gastrins
 gawkish
 grecomania 1
 gipsied
-geranials
+geranials 1
 greensward
 gawm
 gaining
