@@ -1067,7 +1067,7 @@ gynomonoecism
 gambesons
 gentlewomanhood
 gipsology
-gomphiasis
+gomphiasis 1
 gradus
 gasserian
 glossic
