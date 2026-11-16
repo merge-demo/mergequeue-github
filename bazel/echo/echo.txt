@@ -6741,7 +6741,7 @@ eurytherm
 epistrophy
 etherate
 enthelminthic
-exungulate
+exungulate 1
 effume
 ectosomal
 extratarsal
