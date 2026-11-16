@@ -10004,7 +10004,7 @@ galago
 grignet
 gaslike
 gateau
-gudame
+gudame 1
 gibberose
 gone
 gentlemanship
