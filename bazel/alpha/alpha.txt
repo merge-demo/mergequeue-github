@@ -11130,7 +11130,7 @@ ampersands
 amphanthia
 amphanthium
 ampherotokous
-arms
+arms 1
 adjutancies
 antirationality
 araeometer
