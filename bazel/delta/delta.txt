@@ -14958,7 +14958,7 @@ dermatoid
 disarmer
 displodes
 dialoger
-defrauders
+defrauders 1
 doesn
 desiccatory
 doffing
