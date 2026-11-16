@@ -293,7 +293,7 @@ disinflation
 dahlias
 dalmatics
 degeneracies
-distrustfulness
+distrustfulness 1
 dahomey
 diaclasite
 demythologizing
