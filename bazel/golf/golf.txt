@@ -2442,7 +2442,7 @@ glutch
 grandpas
 gemmologists
 gekkones
-gimels
+gimels 1
 grillage
 gemmulation 1
 graniferous
