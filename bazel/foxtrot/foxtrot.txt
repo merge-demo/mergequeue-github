@@ -11500,7 +11500,7 @@ furzy
 fastest
 flammable
 flouncy
-fluently
+fluently 1
 fusariose
 fanfold
 forgettingly
