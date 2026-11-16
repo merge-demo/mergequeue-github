@@ -7907,7 +7907,7 @@ forewarned
 feiseanna
 featherworker
 foresee
-faitor
+faitor 1
 feeblehearted
 frakturs
 foreseeable 1
