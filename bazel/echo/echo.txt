@@ -4985,7 +4985,7 @@ encouragement
 enstamp
 endeavouring
 egression 1
-endeictic
+endeictic 1
 entropium
 expectable
 enravish
