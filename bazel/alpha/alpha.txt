@@ -9046,7 +9046,7 @@ allotted
 ague
 anticheater
 alpid
-arrogantly
+arrogantly 1
 allotter 1
 allottery
 aigrette
