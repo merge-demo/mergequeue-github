@@ -8114,7 +8114,7 @@ balsamodendron
 bidimensional
 binucleate
 barble
-befouls
+befouls 1
 biding
 bidirectional
 biophagy
