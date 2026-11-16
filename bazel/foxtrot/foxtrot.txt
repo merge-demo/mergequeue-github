@@ -1039,7 +1039,7 @@ flerrying
 farmerly
 forrel
 ferash
-fletcherize
+fletcherize 1
 folates
 farmership
 flypaper
