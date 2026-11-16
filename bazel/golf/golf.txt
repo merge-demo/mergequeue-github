@@ -7354,7 +7354,7 @@ gymnolaema
 gougingly
 goldlike
 gratify
-gossiped
+gossiped 1
 gossipee
 goodyship
 griffon
