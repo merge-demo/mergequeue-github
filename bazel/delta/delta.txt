@@ -7448,7 +7448,7 @@ dervish
 damn
 doggereled
 doebird
-detrude
+detrude 1
 darbha
 diplegic 1
 defrosts
