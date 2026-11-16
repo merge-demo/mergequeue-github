@@ -8184,7 +8184,7 @@ essayette
 eurythmies
 estadio
 elegances
-excorticate
+excorticate 1
 endopleura
 electrolysis
 extracollegiate
