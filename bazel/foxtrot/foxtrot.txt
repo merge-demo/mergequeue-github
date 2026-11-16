@@ -8192,7 +8192,7 @@ flockbed
 foghorn
 forewings
 flossed
-frenate
+frenate 1
 furtherances
 faldetta
 fribblery
