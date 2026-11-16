@@ -11985,7 +11985,7 @@ enveloped
 eurylaimidae
 excited
 epicure
-excitedly
+excitedly 1
 eulytin
 empeine
 ententes
