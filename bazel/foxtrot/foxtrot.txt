@@ -329,7 +329,7 @@ fplot
 fluxionary
 feods
 forces
-fail
+fail 1
 fireplough
 faineancy
 fayles
