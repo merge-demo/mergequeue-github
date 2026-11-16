@@ -21892,7 +21892,7 @@ argillite
 assith
 archings
 archons
-assyth
+assyth 1
 actinomycetous
 assythment
 assize
