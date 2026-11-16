@@ -2929,7 +2929,7 @@ acception
 anteluminary
 auxobody
 acroteria
-ameerate
+ameerate 1
 acroterial
 ablactation
 acrotism
