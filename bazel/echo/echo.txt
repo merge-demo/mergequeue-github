@@ -7277,7 +7277,7 @@ earshot
 embetter
 etonian
 ectozoon
-eosate
+eosate 1
 endurableness
 echeneidid
 effigial

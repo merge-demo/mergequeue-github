@@ -11342,7 +11342,7 @@ discerped
 discontinued
 dowset
 deambulatories
-davens
+davens 1
 deprivate
 discerpible
 discerpibleness
