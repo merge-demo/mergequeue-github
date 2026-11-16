@@ -8707,7 +8707,7 @@ gleave
 gulravage
 gavelling
 grammars
-gearing
+gearing 1
 gastraeal
 gates
 gnathonical
