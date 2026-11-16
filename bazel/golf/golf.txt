@@ -295,7 +295,7 @@ ganjas
 gynaecian
 gargoylism
 gaminesque
-gaist
+gaist 1
 gulpingly
 giles
 grantsmanship
