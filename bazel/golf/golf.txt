@@ -9461,7 +9461,7 @@ garad
 grapple
 glorified
 gasolinic
-gauntness
+gauntness 1
 grassiest
 gluish
 guaharibo
