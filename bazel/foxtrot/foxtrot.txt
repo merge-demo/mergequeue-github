@@ -8884,7 +8884,7 @@ fogger
 finesse
 foulder
 fiberizer
-flatteners
+flatteners 1
 fouled
 fling
 fatiloquent

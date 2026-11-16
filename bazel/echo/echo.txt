@@ -3779,7 +3779,7 @@ engulfing
 embull
 embush
 examinees
-edaciously
+edaciously 1
 embusk
 encardion
 encrypts
