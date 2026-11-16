@@ -10510,7 +10510,7 @@ grecized
 goggles
 giftling
 greenbacks
-gyrational
+gyrational 1
 gimmicks
 goalee
 gypsous
