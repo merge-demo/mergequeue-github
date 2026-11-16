@@ -4464,7 +4464,7 @@ encarnalizing
 encarpa
 encarpium
 encarpus
-endrin
+endrin 1
 enworthy
 entirely
 eudemonistically
