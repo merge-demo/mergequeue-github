@@ -14833,7 +14833,7 @@ curvaceousness
 citole
 citoles
 calker
-curassow
+curassow 1
 counterglow
 cytolist
 cytolytic
