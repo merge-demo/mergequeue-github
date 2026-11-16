@@ -1072,7 +1072,7 @@ gradus
 gasserian
 glossic
 gangplows
-geomalic
+geomalic 1
 gist
 glaucoma
 glor
