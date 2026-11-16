@@ -1179,7 +1179,7 @@ concaves
 calculator
 calculatory
 calculators
-chorically
+chorically 1
 calculer
 causationist
 calculiform
