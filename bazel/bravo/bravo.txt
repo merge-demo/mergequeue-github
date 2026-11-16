@@ -9967,7 +9967,7 @@ blairmorite
 bivalents
 bivalvia
 bivalvian
-bivariant
+bivariant 1
 baddock
 bivascular 1
 bismuthyl 1
