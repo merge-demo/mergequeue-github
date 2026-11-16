@@ -13728,7 +13728,7 @@ emblazoning
 extersive
 exerting
 epitrochoidal
-ectosphere
+ectosphere 1
 extincted
 extincting
 enterostomies
