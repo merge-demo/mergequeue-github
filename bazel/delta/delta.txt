@@ -17486,7 +17486,7 @@ densities
 drubbers
 disbody
 drubble
-deletery
+deletery 1
 diaschisis
 drubly
 divinise
