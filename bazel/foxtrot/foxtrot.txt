@@ -10777,7 +10777,7 @@ fulgentness
 fanaticize
 flittermice
 films
-freehandedness
+freehandedness 1
 flagstaffs
 fth
 feuars
