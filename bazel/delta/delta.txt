@@ -17264,7 +17264,7 @@ droit
 drokpa
 dauner
 discern
-domatium
+domatium 1
 droll
 deniers
 dentiform
