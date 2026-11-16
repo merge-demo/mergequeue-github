@@ -8536,7 +8536,7 @@ chancelloress
 cid
 copybook
 chancellors
-califates
+califates 1
 chancellorship
 chancellorships
 capillaire
