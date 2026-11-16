@@ -8306,7 +8306,7 @@ disinvigorate 1
 defocus
 diagredium
 dermatopathia
-diaguitas
+diaguitas 1
 detestableness
 diaclastic
 doryline
