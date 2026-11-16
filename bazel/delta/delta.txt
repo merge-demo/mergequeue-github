@@ -6230,7 +6230,7 @@ dactylopodite
 dermanaplasty
 dermapterous
 dermas
-dirgler
+dirgler 1
 dasypodoid
 delimited
 dialytically
