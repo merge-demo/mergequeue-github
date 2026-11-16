@@ -3089,7 +3089,7 @@ dentiscalp
 desole
 delible
 designated
-degradand
+degradand 1
 delightfully 1
 defaces
 disennoble
