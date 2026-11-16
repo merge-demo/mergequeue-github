@@ -9192,7 +9192,7 @@ grill
 granulating
 grippiness
 gratulatory
-glycolytically
+glycolytically 1
 guanajuatite
 galvanometer
 greenwich
