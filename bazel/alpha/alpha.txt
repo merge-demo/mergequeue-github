@@ -10652,7 +10652,7 @@ accusator
 amylom
 aquarid
 amyloplast
-appertaining
+appertaining 1
 amyloplastid
 antichronism 1
 adenase
