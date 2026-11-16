@@ -262,7 +262,7 @@ gemless
 glaires
 gizmo
 glyph
-gumminess
+gumminess 1
 grapta
 graziery
 geoplagiotropism
