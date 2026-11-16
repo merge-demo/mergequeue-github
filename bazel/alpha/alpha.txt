@@ -9421,7 +9421,7 @@ allusory
 adamitic
 alstonia
 alstonite
-amphiphloic
+amphiphloic 1
 anticathode
 alimentatively
 altaian
