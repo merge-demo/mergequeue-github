@@ -10451,7 +10451,7 @@ grimacing
 gladsomely
 gummaking
 gjetost
-gallotannic
+gallotannic 1
 gentleheartedly
 gundalow
 gyrosyn
