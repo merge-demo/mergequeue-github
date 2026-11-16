@@ -15819,7 +15819,7 @@ beaconing
 backlasher
 brokerly
 bradykinesia
-barding
+barding 1
 broking
 bushfighter 1
 brainwash
