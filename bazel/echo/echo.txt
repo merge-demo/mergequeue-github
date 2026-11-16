@@ -4943,7 +4943,7 @@ endamoebidae
 equations
 endangitis
 expertised
-endarteteria
+endarteteria 1
 endaspidean
 endbrains
 epipodite
