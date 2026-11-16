@@ -7803,7 +7803,7 @@ fecundify
 fleaweed
 forenight
 fondak
-flogger
+flogger 1
 frondivorous
 fleshiest
 feedboxes
