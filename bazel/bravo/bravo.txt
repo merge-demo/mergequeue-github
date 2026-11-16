@@ -6938,7 +6938,7 @@ beastbane
 bewildering
 basad
 beshrews
-bebrine
+bebrine 1
 beshrivel
 beshroud
 brachiostrophosis
