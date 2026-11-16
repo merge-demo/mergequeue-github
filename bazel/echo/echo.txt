@@ -1303,7 +1303,7 @@ explicatively
 ericophyte
 efface
 equalized
-effacers
+effacers 1
 ellipsis
 exhilarated
 exumbrellar
