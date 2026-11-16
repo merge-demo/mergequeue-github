@@ -6753,7 +6753,7 @@ eschewers
 enthralldom 1
 exurb
 enormously
-enveloping
+enveloping 1
 esterifies
 euhemerise
 echidnae
