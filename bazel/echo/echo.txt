@@ -4692,7 +4692,7 @@ eucrites
 elbowing
 eyeopener
 eryhtrism
-encyclopaedically
+encyclopaedically 1
 extraterritorially
 encyclopedia
 enwoman
