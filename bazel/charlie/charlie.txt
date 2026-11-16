@@ -8807,7 +8807,7 @@ concurbit
 camelot
 cloudless
 conceptualisation
-chaptalize
+chaptalize 1
 cymbalaria
 chapter
 canonries
