@@ -10840,7 +10840,7 @@ chlordane
 chiolite
 chionablepsia
 chionaspis
-chionodoxa
+chionodoxa 1
 candlepower
 circumcising
 chiopin
