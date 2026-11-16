@@ -13385,7 +13385,7 @@ endurable
 expanders
 empodium
 expostulative
-entobranchiate
+entobranchiate 1
 expostulatively
 euscaro
 escapeway
