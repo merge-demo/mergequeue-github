@@ -5074,7 +5074,7 @@ gonotocont
 grapplers
 gloxinia
 glasshouses
-gateaux
+gateaux 1
 gasts
 glued
 gnarr
