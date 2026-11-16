@@ -18975,7 +18975,7 @@ astringence
 angiolith
 actinine
 ambagiousness
-alphabetary
+alphabetary 1
 abstention
 archaeostomatous
 ageratum
