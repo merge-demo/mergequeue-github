@@ -5274,7 +5274,7 @@ fomenter
 foresightedness
 ferricyanate
 flavours
-fimbriate
+fimbriate 1
 feelinglessly
 fibrilation
 flawedness
