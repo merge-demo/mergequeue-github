@@ -343,7 +343,7 @@ enturret
 empresse 1
 embleming
 epirogenic
-eagerer
+eagerer 1
 expatiater
 exoduses
 electrolyzability
