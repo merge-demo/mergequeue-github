@@ -5020,7 +5020,7 @@ beglic
 bloodletting 1
 branchiform
 breakwaters
-beetles
+beetles 1
 bubal
 brompicrin
 baching
