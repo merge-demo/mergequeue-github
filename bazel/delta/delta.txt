@@ -10462,7 +10462,7 @@ diphonia
 dismiss
 drowsy
 duumvirs
-deglutitive
+deglutitive 1
 distortion
 dister
 droits
