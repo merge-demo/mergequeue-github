@@ -1990,7 +1990,7 @@ guttable
 gonif
 galician
 goschens
-gryphaea
+gryphaea 1
 gams
 glyptical
 gaurian
