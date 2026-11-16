@@ -395,7 +395,7 @@ extraforaneous
 enleaf
 exalte
 estrepement
-ensear
+ensear 1
 enchondromatous
 emeries
 egoists
