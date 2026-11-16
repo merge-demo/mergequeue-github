@@ -26114,7 +26114,7 @@ cadgy
 cressy
 coattail
 cosmists
-cosmo
+cosmo 1
 cosmochemical
 consanguineal
 cheese
