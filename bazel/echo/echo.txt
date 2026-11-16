@@ -5924,7 +5924,7 @@ execrators
 exaggerativeness
 epitomise
 edeitis
-enfief
+enfief 1
 enhancing
 enharbour
 electrometallurgy
