@@ -3924,7 +3924,7 @@ carbromal
 carbuncle
 chuckrum
 chronoscopy
-carbuncular
+carbuncular 1
 carbunculation
 carbungi
 cometographical
