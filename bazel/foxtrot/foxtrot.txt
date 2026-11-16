@@ -7717,7 +7717,7 @@ foreignness
 foreimpressed
 firnismalerei
 foreinstruct
-fallal
+fallal 1
 fatherland
 flyman
 feudality
