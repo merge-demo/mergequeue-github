@@ -9968,7 +9968,7 @@ gipsyfy
 galvayned
 goldi
 greisen
-gozell
+gozell 1
 gomorrean
 gazetted
 gamasoidea
