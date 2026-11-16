@@ -10111,7 +10111,7 @@ coauthorship
 chevachee
 chevage
 careened
-columnwise
+columnwise 1
 cheval
 chevalet
 chevalets
