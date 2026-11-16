@@ -15861,7 +15861,7 @@ antipode
 antipodic
 autocoprophagous
 argufied
-antipodism
+antipodism 1
 antipoetical
 antipolar
 afibrinogenemia
