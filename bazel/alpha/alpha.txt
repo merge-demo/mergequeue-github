@@ -17475,7 +17475,7 @@ astrographic
 anglicisation
 ama
 adrammelech
-aerostatics
+aerostatics 1
 abstentious
 appar
 actinoidea
