@@ -2802,7 +2802,7 @@ dicyemida
 demarches
 deftnesses
 duodecahedral
-dint
+dint 1
 drypoints
 dari
 decresc
