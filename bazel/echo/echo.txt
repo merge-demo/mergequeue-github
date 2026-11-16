@@ -1392,7 +1392,7 @@ ennead
 enneastylos
 epeidia
 epilaryngeal
-effigurate
+effigurate 1
 eubranchipus
 efflagitate
 epitympanic

@@ -10022,7 +10022,7 @@ deputised
 dessertspoonfuls
 dimplement
 dorosoma
-derelictness
+derelictness 1
 dermatopnagic
 dummkopfs
 dimplier
