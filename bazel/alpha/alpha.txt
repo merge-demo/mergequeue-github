@@ -19293,7 +19293,7 @@ australis
 arenosity
 areographical
 areolae
-anteriors
+anteriors 1
 aluminothermics
 areolas
 areocentric
