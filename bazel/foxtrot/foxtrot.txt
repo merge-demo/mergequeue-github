@@ -3313,7 +3313,7 @@ fideicommissaries
 fungus
 flirtling
 finesser
-faon
+faon 1
 forevermore
 foreward
 flyting
