@@ -8696,7 +8696,7 @@ beaverite
 bulldoggish
 blackly 1
 bullethead
-betoss
+betoss 1
 brachycephalies
 bottomry
 backlashed
