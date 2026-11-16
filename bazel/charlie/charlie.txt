@@ -27057,7 +27057,7 @@ checklaton
 chalcotrichite
 counterpropagandize
 counterprophet
-collegially
+collegially 1
 conceptualization
 counterproposal
 caplock
