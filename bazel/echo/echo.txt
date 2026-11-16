@@ -2592,7 +2592,7 @@ encyclopaedian
 electrodiagnoses
 entrenched
 electrobrasser
-entertainable
+entertainable 1
 etua
 enantioblastous
 eruginous
