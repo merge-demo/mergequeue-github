@@ -10533,7 +10533,7 @@ defoggers
 depectible
 diplacuses
 diple
-dacryocystotome
+dacryocystotome 1
 dipleural
 docetically
 defected
