@@ -324,7 +324,7 @@ ependymal
 ethmopresphenoidal
 essede
 entoperipheral
-enticer
+enticer 1
 enameling
 elfship
 euboic
