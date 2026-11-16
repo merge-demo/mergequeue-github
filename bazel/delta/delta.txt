@@ -10830,7 +10830,7 @@ devex
 deificatory
 direful
 direfully
-dirempt
+dirempt 1
 direness
 dolly
 developement
