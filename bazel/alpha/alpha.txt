@@ -12448,7 +12448,7 @@ amenty
 actinides 1
 argante
 androsphinx
-androsporangium
+androsporangium 1
 arteriology
 androsterone
 androtomy
