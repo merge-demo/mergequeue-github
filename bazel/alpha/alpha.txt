@@ -551,7 +551,7 @@ ablend
 adore
 acetolysis
 ataraxies
-amidophosphoric
+amidophosphoric 1
 amyotrophia
 actualize
 anba
