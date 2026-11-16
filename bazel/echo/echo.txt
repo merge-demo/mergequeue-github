@@ -12186,7 +12186,7 @@ eusol
 epigraphically
 eucolite
 enlistee
-empory
+empory 1
 exeat
 epigraphs
 exec
