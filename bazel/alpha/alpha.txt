@@ -12926,7 +12926,7 @@ angouleme
 armored
 arcidae
 angraecum
-angriness 1
+angriness 2
 angstroms
 arrivers
 angsts
