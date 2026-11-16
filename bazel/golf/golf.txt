@@ -1917,7 +1917,7 @@ gogetting
 glochids
 glommox
 gastrozooid
-glaikit 1
+glaikit 2
 gonadotrophic
 globulet
 gunboat
