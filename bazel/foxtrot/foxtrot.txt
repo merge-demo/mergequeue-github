@@ -1492,7 +1492,7 @@ furibund
 flunkeyish
 furanose
 foundering
-fient
+fient 1
 forebodingness
 forestology
 freebooters 1
