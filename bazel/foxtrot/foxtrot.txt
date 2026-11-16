@@ -3520,7 +3520,7 @@ fastigiate
 futtock
 fulgorid
 fusicladium
-figurer
+figurer 1
 fute
 flyweight
 fleetingly
