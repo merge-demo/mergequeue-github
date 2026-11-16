@@ -5724,7 +5724,7 @@ flippancies
 freshness
 ferrary
 fetor
-flirty
+flirty 1
 feculent
 ferulas
 frontis
