@@ -22315,7 +22315,7 @@ assorts
 astringed
 agete
 apostolici
-antipoints
+antipoints 1
 ablest
 apoquinamine
 alfilerilla
