@@ -5634,7 +5634,7 @@ foxite 1
 firetop
 flimflamming
 flimflams
-freethink
+freethink 1
 favouritism
 flimsier
 fishbolt
