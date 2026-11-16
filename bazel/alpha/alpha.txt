@@ -16199,7 +16199,7 @@ antispiritualistic
 antithesis
 annulate
 antispiritually
-antepenults
+antepenults 1
 albaspidin
 ashcake
 addenda
