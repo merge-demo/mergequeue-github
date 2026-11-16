@@ -532,7 +532,7 @@ geeldikkop
 galipoidin
 guzzles
 galleins
-gomphocarpus
+gomphocarpus 1
 getters
 gnetaceous
 gamodemes
