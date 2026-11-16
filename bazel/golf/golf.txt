@@ -806,7 +806,7 @@ glauke
 greenlandite
 genets
 glucosane
-ghurry
+ghurry 1
 gastrocolic
 guetar
 grazeable
