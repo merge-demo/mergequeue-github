@@ -5048,7 +5048,7 @@ aerose
 aerosolization
 altisonous
 ageratums
-alexinic
+alexinic 1
 aerosolized
 aerostatic
 aerostatical
