@@ -8578,7 +8578,7 @@ foxhole
 fornication
 forest
 feigner
-fossilize
+fossilize 1
 fornicatrix
 fieldman
 frameshift
