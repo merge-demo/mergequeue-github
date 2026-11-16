@@ -26493,7 +26493,7 @@ coopt
 cottager
 cottagers
 cottars
-cahuy
+cahuy 1
 cottas
 cotte
 cotted
