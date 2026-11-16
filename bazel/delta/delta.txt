@@ -10604,7 +10604,7 @@ diploma
 decasyllabon 1
 dolorogenic
 domitable
-dolven
+dolven 1
 diplomaing
 datapunch
 doleritic
