@@ -4272,7 +4272,7 @@ flowerpecker
 fetichist
 foreyard
 fatless
-flail
+flail 1
 fireward
 forehead
 firewater
