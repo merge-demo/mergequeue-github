@@ -5874,7 +5874,7 @@ engrandizement
 epidermatous
 enodate
 engrasp
-emancipatory
+emancipatory 1
 ephedrins
 extrasensible
 extravagence
