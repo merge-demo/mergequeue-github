@@ -10023,7 +10023,7 @@ foreplot
 fimbles
 farmerlike
 frogskin
-fortune
+fortune 1
 fibrocystoma
 favors
 fringilline
