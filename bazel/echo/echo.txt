@@ -2517,7 +2517,7 @@ enervators
 endostylar
 epilepsia
 enmeshed
-ensate
+ensate 1
 eparcuale
 epitomisation
 eulytite
