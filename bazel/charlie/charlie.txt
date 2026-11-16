@@ -10228,7 +10228,7 @@ cyclistic
 chiastoneurous
 couteaux
 caracore
-cringed
+cringed 1
 chiaus
 conoidical
 chiauses
