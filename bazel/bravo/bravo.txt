@@ -2350,7 +2350,7 @@ bachelorlike
 barbula
 bardiness
 barbulate
-barbulyie 1
+barbulyie 2
 barbwire
 barbwires
 bullpout
