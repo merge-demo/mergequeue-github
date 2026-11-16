@@ -11754,7 +11754,7 @@ faultfinders
 fuzzier
 fuzziest
 forstraught
-fertilitate
+fertilitate 1
 fianna
 forloin
 fullhearted
