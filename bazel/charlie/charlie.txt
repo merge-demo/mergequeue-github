@@ -8772,7 +8772,7 @@ chaplaincies
 chaplains
 curiboca
 crackup
-carpocapsa
+carpocapsa 1
 cognitives
 chapless
 chapleted
