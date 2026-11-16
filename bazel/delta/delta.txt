@@ -5192,7 +5192,7 @@ desulphurizing
 dumbfounded
 denyingly
 denim
-demoness
+demoness 1
 danceress
 doctrinalist
 dartoic
