@@ -5457,7 +5457,7 @@ duplexes
 deodorized
 duoviri
 disquiparation
-deodorizes
+deodorizes 1
 drawees
 detesters
 dibutyrate
