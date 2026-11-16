@@ -19013,7 +19013,7 @@ actiniform
 azelate
 archmocker
 agricolist
-anastomosed
+anastomosed 1
 auctionary
 autochthonic
 authorial
