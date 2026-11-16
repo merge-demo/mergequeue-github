@@ -15213,7 +15213,7 @@ chondrophyte
 clairvoyances
 clairvoyancy
 clairvoyant
-chinaberry
+chinaberry 1
 claystone
 curtained
 cynomoriaceous
