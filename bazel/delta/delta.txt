@@ -13669,7 +13669,7 @@ demisemitone
 dissymmetrically
 danseurs
 discoursive
-dissymmettric 1
+dissymmettric 2
 dissympathize
 drupal
 dictatorialism
