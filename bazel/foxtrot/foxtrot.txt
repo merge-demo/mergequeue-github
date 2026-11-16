@@ -9189,7 +9189,7 @@ fraena
 faroff
 frostproofing 1
 fulfulde
-forward
+forward 1
 filices
 filenames
 fifteenths
