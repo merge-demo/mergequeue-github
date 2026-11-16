@@ -698,7 +698,7 @@ farmstead
 forenotion
 farcemeat
 ferromagnetic
-futilitarianism
+futilitarianism 1
 fascioloid
 forehard
 fragrancy
