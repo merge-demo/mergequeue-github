@@ -8227,7 +8227,7 @@ gemotes
 gynaecocrat
 gelders
 gastroplasty
-getic
+getic 1
 gansel
 gerontotherapies
 grisard
