@@ -6707,7 +6707,7 @@ acropolis
 authorise
 aimlessly
 amaut
-aimore
+aimore 1
 architecturally
 aims
 aimworthiness
