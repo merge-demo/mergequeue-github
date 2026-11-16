@@ -1632,7 +1632,7 @@ frankincense
 fresher
 faxes
 folkway
-featishly
+featishly 1
 fazes
 fiard
 flophouse
