@@ -5913,7 +5913,7 @@ formlessness
 flockwise
 ferruginate 1
 fusibility
-flocs
+flocs 1
 frontomalar
 facilely
 folliculosis
