@@ -17245,7 +17245,7 @@ diablery
 digresser
 dirigo
 dentinasal
-droger
+droger 1
 disthrone
 depreciative
 dictyogenous
