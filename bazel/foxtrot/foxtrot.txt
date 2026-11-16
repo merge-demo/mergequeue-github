@@ -5615,7 +5615,7 @@ flighter
 fraik
 fleysome
 forehock
-funicular
+funicular 1
 faddiest
 florescent
 flightier
