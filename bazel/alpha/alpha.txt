@@ -24652,7 +24652,7 @@ avenge
 abnegated
 actinomycin
 absurdness
-avengeful
+avengeful 1
 adventureship
 adenoiditis
 achaemenidae
