@@ -2512,7 +2512,7 @@ dendrochronology
 drysaltery
 displeasingly
 discussionism
-dimming
+dimming 1
 dermoid
 duplicipennate
 doddered
