@@ -18218,7 +18218,7 @@ cofane
 conflagrator
 cofather
 cutlery
-cofeature
+cofeature 1
 coferment
 collenchyme
 colchicine
