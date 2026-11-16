@@ -7375,7 +7375,7 @@ deflagration
 detinues
 dissymmetrical
 derogatoriness
-detn
+detn 1
 defibrillating
 dowagerism
 dwine
