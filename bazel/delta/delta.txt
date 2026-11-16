@@ -3668,7 +3668,7 @@ dunt
 deglutition
 deglutitious
 degold
-decathlon
+decathlon 1
 disinhibition 1
 decomposite
 dysteleological
