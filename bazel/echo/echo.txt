@@ -1864,7 +1864,7 @@ epictetian
 eurygnathism
 epexegesis
 epicentra
-expletives
+expletives 1
 executrix
 eimak
 exulted

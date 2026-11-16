@@ -5092,7 +5092,7 @@ dendrochirota
 dessicate
 describing
 disenabling
-deadrise
+deadrise 1
 dendrocygna
 discomfit
 dedimus
