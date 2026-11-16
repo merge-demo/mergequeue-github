@@ -339,7 +339,7 @@ abelia
 autograph
 abelian
 allophylian
-alcoate
+alcoate 1
 auletris
 apodia
 acetonemia
