@@ -1957,7 +1957,7 @@ cypriote
 crotalid
 checkered
 camera
-capitols 1
+capitols 2
 counterwill
 cumulose
 cyprinodont
