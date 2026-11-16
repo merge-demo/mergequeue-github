@@ -6099,7 +6099,7 @@ fouls
 foudroyant
 flossiest
 filibusterism
-flossiness
+flossiness 1
 ferrer
 frondeur
 fortnights
