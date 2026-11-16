@@ -2158,7 +2158,7 @@ achlorhydria
 aflame
 admixing
 adoptional
-adsorbs
+adsorbs 1
 achluophobia
 acholia
 acholoe
