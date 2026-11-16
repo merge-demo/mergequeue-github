@@ -10700,7 +10700,7 @@ doublewords
 dipodic
 dipodid
 deleble
-destained
+destained 1
 depastured
 dawting
 dah
