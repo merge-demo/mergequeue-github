@@ -27929,7 +27929,7 @@ crackings
 crackled
 crackles
 crackless
-crackly
+crackly 1
 cracklier
 crassament
 cumbraite
