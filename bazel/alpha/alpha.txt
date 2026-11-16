@@ -8556,7 +8556,7 @@ anamneses
 alumina
 allah
 absurdist
-austafrican
+austafrican 1
 actinobranchia
 allaying
 alleviater
