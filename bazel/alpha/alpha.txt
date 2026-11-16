@@ -6926,7 +6926,7 @@ adibasi
 ablepharia
 argyranthemous
 antivitalistic
-alkalified
+alkalified 1
 anticomplement
 afflatus
 airtimes
