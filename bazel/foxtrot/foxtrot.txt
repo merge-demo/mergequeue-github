@@ -4823,7 +4823,7 @@ fellowshipping
 falsen
 forties
 footbath
-frostbiter
+frostbiter 1
 fibrinuria 1
 fumish
 flume
