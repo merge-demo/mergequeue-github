@@ -17574,7 +17574,7 @@ burgall
 biddance
 burgamot
 bootjacks 1
-balante
+balante 1
 blayne
 blore
 belong
