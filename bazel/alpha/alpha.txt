@@ -15828,7 +15828,7 @@ abiogenist
 alloisomeric
 antiphrases
 antiphthisic
-amberiferous
+amberiferous 1
 antiepileptic
 amphisbaenian
 afloat
