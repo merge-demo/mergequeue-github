@@ -6049,7 +6049,7 @@ deflates
 dicephalism
 doug
 discriminately
-dripple
+dripple 1
 divorces
 devoteeism
 deucalion
