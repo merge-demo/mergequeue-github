@@ -6594,7 +6594,7 @@ cdg
 cdr
 cesspool
 cosmonaut
-celibates
+celibates 1
 cearin
 chatoyancy
 ceaselessness
