@@ -11914,7 +11914,7 @@ choreodrama
 choreographed
 choreographer
 cypseloid
-choreographers
+choreographers 1
 choreographic
 chuzwi
 choreographically
