@@ -13711,7 +13711,7 @@ ergocalciferol
 externs
 endothelioblastoma
 ewers
-exhaustedness
+exhaustedness 1
 elocular
 ecologies
 eliciting
