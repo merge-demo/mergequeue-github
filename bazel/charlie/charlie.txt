@@ -2023,7 +2023,7 @@ cloddy
 camisard
 capsicins
 curcuddoch
-critickin
+critickin 1
 criticised
 cassique
 camises
