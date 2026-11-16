@@ -8892,7 +8892,7 @@ charadriomorphae
 chingpaw
 carbolised
 candylike
-cryptanalyst
+cryptanalyst 1
 cremains
 cochylis
 charadrius
