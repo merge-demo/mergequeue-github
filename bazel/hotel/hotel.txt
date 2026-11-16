@@ -9398,7 +9398,7 @@ hostcnsh
 hostinsj
 hostyzy
 hosuav
-hosudmrl
+hosudmrl 1
 hosva 1
 hosvdozetrrov
 hosvke
