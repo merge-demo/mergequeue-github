@@ -17366,7 +17366,7 @@ dasypygal
 doigt
 derivability
 delime
-dillydallies
+dillydallies 1
 deallocation
 delactation
 deviants

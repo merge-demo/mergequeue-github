@@ -6400,7 +6400,7 @@ gonotyl
 granulitis
 gracer
 geoponic
-goshenite
+goshenite 1
 goidelic
 goldeyes
 gingivalgia
