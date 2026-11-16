@@ -15212,7 +15212,7 @@ conceder
 chondrophyte
 clairvoyances
 clairvoyancy
-clairvoyant
+clairvoyant 1
 chinaberry
 claystone
 curtained
