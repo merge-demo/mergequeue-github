@@ -8228,7 +8228,7 @@ gynaecocrat
 gelders
 gastroplasty
 getic 1
-gansel
+gansel 1
 gerontotherapies
 grisard
 graphitize

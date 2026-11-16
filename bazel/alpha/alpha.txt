@@ -3701,7 +3701,7 @@ adenous
 apomorphin
 autocarpic
 adeona
-attenuative
+attenuative 1
 adephagous 1
 argoan
 amies
