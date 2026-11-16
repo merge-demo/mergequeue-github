@@ -2073,7 +2073,7 @@ diety
 dummy
 defaced
 devolution
-disproportionally
+disproportionally 1
 decal
 dodecylic
 dilatory
