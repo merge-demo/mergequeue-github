@@ -931,7 +931,7 @@ carnotite
 caky
 clientelage
 conformant
-consecration
+consecration 1
 cols
 caking
 collagist
