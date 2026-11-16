@@ -6697,7 +6697,7 @@ diplohedron
 downcurved
 desyatin
 deaconries
-desicate
+desicate 1
 dubonnets
 desman
 desiderable
