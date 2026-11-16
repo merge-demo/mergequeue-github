@@ -10593,7 +10593,7 @@ camoca
 carburise
 choledochotomy
 convivial
-chillingly
+chillingly 1
 catamounts 1
 chilodon
 chilognathous
