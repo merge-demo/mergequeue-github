@@ -10490,7 +10490,7 @@ alboranite
 arrythmical 1
 amicous
 absolutistically
-amicronucleate
+amicronucleate 1
 aubaine
 anomite
 affirmly
