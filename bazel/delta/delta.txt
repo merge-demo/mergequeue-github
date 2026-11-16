@@ -7785,7 +7785,7 @@ destabilizing
 devoirs
 dholes
 devolatilised
-dosimetries
+dosimetries 1
 dryrot
 diplospondyli
 dagestan
