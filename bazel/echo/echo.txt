@@ -3129,7 +3129,7 @@ etheriidae
 entombed
 epitomised
 elodeas
-enfaced
+enfaced 1
 esthetically
 ephebi
 elodes
