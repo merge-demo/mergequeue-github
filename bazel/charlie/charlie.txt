@@ -7226,7 +7226,7 @@ centriscus
 centrism
 chalices
 clark
-cinemascope
+cinemascope 1
 comite
 crispen
 contributorily 1
