@@ -7620,7 +7620,7 @@ actinozoal
 antilepsis
 agonothet
 accident
-aktivist
+aktivist 1
 anabaptism
 anisokonia
 abnegator
