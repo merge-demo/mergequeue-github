@@ -19361,7 +19361,7 @@ coloradoite
 connectionism
 captainships
 cherubin
-consecrating
+consecrating 1
 colorant
 colorants
 colorate
