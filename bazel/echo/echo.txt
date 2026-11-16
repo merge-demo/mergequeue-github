@@ -8069,7 +8069,7 @@ eteocles
 epigones
 ectodermal
 exteriorly
-ego
+ego 1
 ektodynamorphic
 endamebic
 earthworks
