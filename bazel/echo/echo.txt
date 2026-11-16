@@ -2100,7 +2100,7 @@ endamoebae
 eldfather
 eggberry
 ethmoturbinal
-extrovertedness
+extrovertedness 1
 extirpateo
 expropriatory 1
 enent
