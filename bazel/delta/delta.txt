@@ -2829,7 +2829,7 @@ deferred
 dossers
 declarator
 decried
-desistive
+desistive 1
 deerflys
 disulphonate
 decries
