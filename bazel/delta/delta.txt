@@ -8278,7 +8278,7 @@ deducting
 diagonalwise
 denudate
 demonization
-diagonic
+diagonic 1
 drum
 diagram
 deliriousness
