@@ -4167,7 +4167,7 @@ cariogenic
 calculating
 cardiologist 1
 cardiologists
-cardiomegaly
+cardiomegaly 1
 cyclus
 cardiomelanosis 1
 contradivide
