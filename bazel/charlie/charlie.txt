@@ -20324,7 +20324,7 @@ costlew
 communistic
 communists
 communital
-coetaneousness
+coetaneousness 1
 communitarianism
 community
 communitive
