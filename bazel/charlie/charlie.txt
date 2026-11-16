@@ -24217,7 +24217,7 @@ constructing
 communique
 cynipidous
 convolves
-capacity
+capacity 1
 crinital
 contumaciously
 clippings
