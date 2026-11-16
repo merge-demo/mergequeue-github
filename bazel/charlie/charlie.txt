@@ -11906,7 +11906,7 @@ crinkling
 choregus
 choreguses
 contrivers
-choreic
+choreic 1
 choreiform
 consension
 choreman
