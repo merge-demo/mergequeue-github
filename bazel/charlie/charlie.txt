@@ -17345,7 +17345,7 @@ coassume
 crystallic
 coassuming
 chrysolite
-coast
+coast 1
 coastal
 coastally 1
 cohabitant
