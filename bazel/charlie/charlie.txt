@@ -11447,7 +11447,7 @@ chocho
 chockablock
 casuary
 county
-chronicler
+chronicler 1
 chocking
 cockpaddle
 cyrenaicism
