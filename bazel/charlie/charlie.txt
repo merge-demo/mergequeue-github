@@ -1863,7 +1863,7 @@ camball
 cambarus
 cambered
 croc
-cambering
+cambering 1
 consociate
 cambia
 cambiata

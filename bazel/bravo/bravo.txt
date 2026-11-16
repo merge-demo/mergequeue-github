@@ -17871,7 +17871,7 @@ blowfly
 bush
 bloviate
 bushbody
-bushbuck
+bushbuck 1
 blotchier
 bushbucks
 batrachium
