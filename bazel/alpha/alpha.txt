@@ -14821,7 +14821,7 @@ abscissae
 antievangelical
 attinge 1
 autoplasties
-anthropomorphosis
+anthropomorphosis 1
 akiyenik
 applauder
 activations
