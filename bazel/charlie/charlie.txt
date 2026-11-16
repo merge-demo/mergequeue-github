@@ -23318,7 +23318,7 @@ consumingly
 consummated
 consummating
 calamaroid
-consummative
+consummative 1
 checklists
 consumo
 cynosarges
