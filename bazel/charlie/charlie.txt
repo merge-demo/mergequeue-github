@@ -9630,7 +9630,7 @@ coexistent
 cheerlead
 crystallinity
 cheerleader
-caesareanize
+caesareanize 1
 cheerleaders
 clarifies
 cheerleading
