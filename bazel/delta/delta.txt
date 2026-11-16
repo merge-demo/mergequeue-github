@@ -3991,7 +3991,7 @@ delaware
 deleaded
 delectability
 dampang
-decides
+decides 1
 disintensify
 duplex
 devitalise
