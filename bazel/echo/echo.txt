@@ -3874,7 +3874,7 @@ entrapment
 easiness
 exemplarily
 exosculation
-effeminacy
+effeminacy 1
 exallotriote
 emic
 euryclea
