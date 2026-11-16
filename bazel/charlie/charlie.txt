@@ -24710,7 +24710,7 @@ closenesses
 copra
 copraemia
 cencerros
-crustaceous
+crustaceous 1
 copraemic
 christianize
 cruisingly
