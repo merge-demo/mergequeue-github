@@ -868,7 +868,7 @@ gammy
 gynecomazia
 ganglionitis
 gilded
-gulinular
+gulinular 1
 garrooka
 goldfields
 gazi
