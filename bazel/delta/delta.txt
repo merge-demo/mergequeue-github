@@ -10728,7 +10728,7 @@ dianoialogy
 descriptions
 durions
 driftages
-deferrers
+deferrers 1
 dat
 decompensatory
 diarthrosis
