@@ -12509,7 +12509,7 @@ executrixship
 expertize 1
 exine
 exies
-extraviolet
+extraviolet 1
 errantia
 electicism
 everyway
