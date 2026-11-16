@@ -16256,7 +16256,7 @@ apophthegm
 antithalian
 antitheism
 antitheist
-avgases
+avgases 1
 agrees
 affixer
 arthrocace
