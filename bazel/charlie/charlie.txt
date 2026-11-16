@@ -6429,7 +6429,7 @@ carbarns
 cautious
 cautiously
 cannoneers
-cloister
+cloister 1
 cav
 corah
 curvinervate

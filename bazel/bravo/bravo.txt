@@ -17174,7 +17174,7 @@ bullition
 bar
 boggin
 bulletproof
-bullnose
+bullnose 1
 beewinged
 bullnoses
 bacchuslike

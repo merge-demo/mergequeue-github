@@ -12514,7 +12514,7 @@ errantia
 electicism
 everyway
 embarrel
-enchiridia
+enchiridia 1
 exinguinal
 effare
 electrologic
