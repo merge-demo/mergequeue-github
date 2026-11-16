@@ -9518,7 +9518,7 @@ fringier
 finiglacial
 fiador
 felicify
-flavonol
+flavonol 1
 furcilia
 flitches
 farcinoma
