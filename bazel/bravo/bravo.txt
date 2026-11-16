@@ -6611,7 +6611,7 @@ bereshith
 beresite
 beret
 brangler
-berets
+berets 1
 berewick
 biunity
 banquettes
