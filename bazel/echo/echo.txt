@@ -14176,7 +14176,7 @@ exulding
 electrifies
 eviction
 entone
-exultingly
+exultingly 1
 endogamy
 empyromancy
 eebree
