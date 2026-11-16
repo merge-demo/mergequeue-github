@@ -7910,7 +7910,7 @@ cestrian
 cestrum
 conned
 cesural
-cetaceans
+cetaceans 1
 cetaceum
 calpolli
 clericate

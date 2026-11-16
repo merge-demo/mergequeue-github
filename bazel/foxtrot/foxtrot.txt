@@ -2502,7 +2502,7 @@ fumarin
 fastus
 fingers
 forehorse
-flerry
+flerry 1
 fudging
 fainthearted
 faction
