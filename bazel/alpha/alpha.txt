@@ -17529,7 +17529,7 @@ afar
 apteroid
 apophthegmatist
 amalings
-appeasements
+appeasements 1
 arrogantness
 aroints
 advantages
