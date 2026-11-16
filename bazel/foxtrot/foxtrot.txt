@@ -3722,7 +3722,7 @@ feodal
 frousiest
 facebread
 fillies
-feetless
+feetless 1
 firedogs
 foalfoot
 flaccidities
