@@ -15996,7 +15996,7 @@ arariba
 atreus
 antiradiating
 ascendants
-ammi
+ammi 1
 accessorius
 arapunga
 antiradical
