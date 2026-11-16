@@ -17894,7 +17894,7 @@ autogamous
 achilleas
 anakrousis
 appressoria
-appressorial
+appressorial 1
 anticold
 anabathmos
 allodesmism
