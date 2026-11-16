@@ -5466,7 +5466,7 @@ broadmouth
 baronets
 behoovefulness
 barrier
-behooves
+behooves 1
 behooving
 bacterioprotein
 backiebird
