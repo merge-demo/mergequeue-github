@@ -3360,7 +3360,7 @@ distemperer
 dicot
 dayment
 distressfulness
-denims
+denims 1
 dullery
 definitor
 desulphurized
