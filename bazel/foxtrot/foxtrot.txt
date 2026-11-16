@@ -4521,7 +4521,7 @@ filleul 1
 fuddles
 francophobia
 flagging
-favissa
+favissa 1
 farmlands
 feer
 forheed
