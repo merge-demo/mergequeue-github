@@ -12750,7 +12750,7 @@ emulatively
 ethers
 emmenagogic
 equivoque
-enterococcal
+enterococcal 1
 epistomian
 enfetters
 emarginula
