@@ -5473,7 +5473,7 @@ decolouriser
 deorganize
 deregister
 disenablement
-deorsum
+deorsum 1
 deossification 1
 deuterostomatous
 dissipates
