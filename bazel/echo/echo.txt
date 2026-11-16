@@ -4355,7 +4355,7 @@ enterointestinal
 exceeders
 exothermous
 enterodynia
-emulative
+emulative 1
 enamour
 enamouredness
 expostulator
