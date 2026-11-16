@@ -22295,7 +22295,7 @@ acetamidine
 astream
 adamically
 astrictive
-astrictively
+astrictively 1
 axialities
 autodynamic
 antal
