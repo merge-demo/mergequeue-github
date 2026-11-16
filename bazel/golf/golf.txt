@@ -2705,7 +2705,7 @@ grabble
 gaud
 gestae
 genyophrynidae
-geodesic
+geodesic 1
 gasolenes
 granularity
 gingers
