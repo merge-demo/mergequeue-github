@@ -2497,7 +2497,7 @@ endearing 1
 ebony
 epicleses
 endexines
-ecocide
+ecocide 1
 emotionalise
 electroing
 electrokinetic
