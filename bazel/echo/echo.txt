@@ -4834,7 +4834,7 @@ encomic
 executory
 excipient
 encomiumia
-encompassment
+encompassment 1
 embira
 excusation
 episiotomy 1
