@@ -4868,7 +4868,7 @@ aerodynamical
 aerodynamically
 astrolater
 appoggiatura
-apopetalous
+apopetalous 1
 amphibiology 1
 aloma
 anucleated
