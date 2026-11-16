@@ -15715,7 +15715,7 @@ claviculate
 chrysohermidin
 chirotype
 clima
-chrysograph
+chrysograph 1
 claviger
 carshops
 clavilux
