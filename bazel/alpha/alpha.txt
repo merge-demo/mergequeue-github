@@ -19246,7 +19246,7 @@ autotypes
 areal
 albified
 areasoner
-areca
+areca 1
 arecain
 arecas
 atmolyzer
