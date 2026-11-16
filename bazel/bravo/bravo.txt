@@ -7523,7 +7523,7 @@ betaine
 businessman
 bevillain
 befell
-bonspell
+bonspell 1
 bashaws
 bedote
 breezeless
