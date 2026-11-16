@@ -7892,7 +7892,7 @@ epihydric
 elaeagnaceae
 eunuchised
 endolaryngeal
-expertizing
+expertizing 1
 extracurial
 edgingly
 emancipist
