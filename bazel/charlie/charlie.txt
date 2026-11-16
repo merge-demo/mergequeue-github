@@ -19786,7 +19786,7 @@ catechols
 cricotomy
 cribrose
 convening
-crepitous
+crepitous 1
 comecrudo
 comeddle
 chidingly
