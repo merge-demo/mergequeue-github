@@ -10685,7 +10685,7 @@ dreadlessness
 denunciating
 demorage
 disendower
-disapprover
+disapprover 1
 drownproofing
 doyle
 dromical
