@@ -8396,7 +8396,7 @@ estrum
 exceedable
 englory
 earplug
-espontoon
+espontoon 1
 enwreathe
 entertain
 ethylenation
