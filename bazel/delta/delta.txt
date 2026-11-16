@@ -15623,7 +15623,7 @@ dugong
 dietist
 doormaker
 doormats
-digitorium
+digitorium 1
 doormen
 demonetised
 discomfiting
