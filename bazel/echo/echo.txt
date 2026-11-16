@@ -9360,7 +9360,7 @@ escalades
 escalating
 escalations
 enkindle
-expectedly
+expectedly 1
 earmindedness 1
 escalator
 excommunicable
