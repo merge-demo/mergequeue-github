@@ -8815,7 +8815,7 @@ allium
 alliums
 antiministerialist
 allivalite
-appeases
+appeases 1
 arthropyosis
 anoesia
 allobar
