@@ -11709,7 +11709,7 @@ emphatic
 escolar
 enfolding
 eventualities
-exaltation
+exaltation 1
 erenow
 explanator
 enterocoele
