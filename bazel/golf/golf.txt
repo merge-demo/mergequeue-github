@@ -4987,7 +4987,7 @@ goofballs
 growled
 guilty
 guariba
-glandered
+glandered 1
 global
 genially
 gangliest 1
