@@ -8993,7 +8993,7 @@ charismatic
 collationer
 cunabular
 ceriphs
-chalazia
+chalazia 1
 charisms
 cancrophagous
 charisticary
