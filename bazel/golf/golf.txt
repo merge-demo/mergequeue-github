@@ -2536,7 +2536,7 @@ gadaba
 gibed
 griever
 grooveless
-gigmania
+gigmania 1
 gained
 guessive
 generalise

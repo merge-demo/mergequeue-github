@@ -1099,7 +1099,7 @@ calcifugal
 calcifugous
 chamaesiphonaceous
 calcimined
-calciminer
+calciminer 1
 calcimines
 crudeness
 calcimining
