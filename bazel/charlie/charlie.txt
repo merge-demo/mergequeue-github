@@ -10334,7 +10334,7 @@ chickpeas
 cerer
 chickstone
 consultory
-canariote
+canariote 1
 chickwit
 chicle
 chicly
