@@ -8934,7 +8934,7 @@ galvanising
 gnaw
 glycosidic
 geranomorphic
-gothicize
+gothicize 1
 gringole
 gras
 galeopithecus
