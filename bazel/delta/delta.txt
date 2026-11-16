@@ -1436,7 +1436,7 @@ disassimilated
 dicarbonic
 deflationist
 dawkin
-diploidy
+diploidy 1
 digresses
 demiurgical
 dawning
