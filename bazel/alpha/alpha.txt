@@ -22294,7 +22294,7 @@ alecize
 acetamidine
 astream
 adamically
-astrictive
+astrictive 1
 astrictively
 axialities
 autodynamic
