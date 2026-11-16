@@ -5812,7 +5812,7 @@ agathis
 agathist
 agathodaemonic
 aeropause
-ambulative
+ambulative 1
 atterminal
 agatiferous
 alongside
