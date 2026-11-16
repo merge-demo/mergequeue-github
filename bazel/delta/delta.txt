@@ -16592,7 +16592,7 @@ dikdiks
 dactylopius
 derout
 denotations
-dialuric
+dialuric 1
 decorations
 deionization
 dispromise
