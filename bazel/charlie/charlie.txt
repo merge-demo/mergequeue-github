@@ -30219,7 +30219,7 @@ cursed
 crudity
 crudities
 companions
-countryfied
+countryfied 1
 crudle
 cruds
 cruel
