@@ -2008,7 +2008,7 @@ glyconian
 gleefully
 gynaecea
 goosewing
-gaspingly
+gaspingly 1
 galleass
 goutify
 grubberies
