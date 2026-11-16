@@ -12882,7 +12882,7 @@ extorting
 erastus
 expandible
 editions
-envenoms
+envenoms 1
 echafaudage
 elucid
 escortment
