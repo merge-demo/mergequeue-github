@@ -1179,7 +1179,7 @@ docimastic
 delineatory
 dassent
 deadheads
-dicaeology
+dicaeology 1
 dodecaphony
 diiamb
 donnybrook
