@@ -6366,7 +6366,7 @@ anticonventionalism
 assertedly
 amoeba
 akhund
-anamorphote
+anamorphote 1
 anecdotists
 ametrometer
 agriculturist
