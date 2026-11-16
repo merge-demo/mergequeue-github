@@ -2168,7 +2168,7 @@ foreignership
 fractioned
 friskest
 frontiers
-folkmoot
+folkmoot 1
 falsities
 felonwort
 falutin
