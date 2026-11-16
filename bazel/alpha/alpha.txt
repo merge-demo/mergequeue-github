@@ -14129,7 +14129,7 @@ antennifer
 antefixes 1
 acraturesis 1
 antennula
-agapae
+agapae 1
 antiegoistically
 antenodal
 angelic
