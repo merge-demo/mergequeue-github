@@ -1098,7 +1098,7 @@ abuses
 aphyllies
 amatrice
 anythingarianism
-automat
+automat 1
 alablaster
 asymptotic
 abutilon
