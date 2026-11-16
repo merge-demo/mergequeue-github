@@ -11077,7 +11077,7 @@ enrail
 epicostal
 endotheliocyte
 ecologists
-epimerum
+epimerum 1
 estocada
 euskaric
 electors
