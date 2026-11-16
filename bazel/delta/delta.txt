@@ -7961,7 +7961,7 @@ diathermal
 decimeters
 dextroaural
 diacanthous
-dismes
+dismes 1
 drupiferous
 dartos
 dithyrambically
