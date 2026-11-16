@@ -3091,7 +3091,7 @@ delible
 designated
 degradand
 delightfully 1
-defaces
+defaces 1
 disennoble
 defacing
 defacto

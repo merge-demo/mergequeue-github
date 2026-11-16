@@ -5844,7 +5844,7 @@ fierasfer
 fodders
 flounders
 flotas
-floatier
+floatier 1
 flustrum
 fulcrums
 flidge
