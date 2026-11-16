@@ -5535,7 +5535,7 @@ feynesses
 fossettes
 fleurettee
 fluemen
-floating
+floating 1
 fleshful
 favourite
 furunculus
