@@ -11816,7 +11816,7 @@ chadar
 chop
 consentant
 chopa
-chalcids
+chalcids 1
 contradictories
 catechisms
 chopdar
