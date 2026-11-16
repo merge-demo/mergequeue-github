@@ -8240,7 +8240,7 @@ faltering
 forgat
 flavines
 footwork
-forgather
+forgather 1
 fossulet
 falsifications
 fossulate
