@@ -1449,7 +1449,7 @@ fringing
 fetched
 fatuoid
 fatuus
-frankly
+frankly 1
 fairtime
 fantasie
 filago

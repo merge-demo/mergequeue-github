@@ -13291,7 +13291,7 @@ entozoarian
 exhaustlessness
 exploitatory
 endocrinopath
-episcopy
+episcopy 1
 expiscate
 effie
 exploiting
