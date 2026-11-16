@@ -8008,7 +8008,7 @@ gemse
 ghosthood
 gangsman
 gouvernante
-grapnels
+grapnels 1
 glaucine
 gunstocking
 gastronomy
