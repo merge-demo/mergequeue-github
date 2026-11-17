@@ -3737,7 +3737,7 @@ daddling
 delustrant
 dackering
 dehisce
-dasymeter
+dasymeter 1
 dichromism
 deglutinate
 depot
