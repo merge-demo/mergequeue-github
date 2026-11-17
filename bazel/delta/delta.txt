@@ -4173,7 +4173,7 @@ durneder
 dunstable
 discolorization
 dicyanogen
-diadokokinesis
+diadokokinesis 1
 duodena
 desynapsis
 drearfully 1
