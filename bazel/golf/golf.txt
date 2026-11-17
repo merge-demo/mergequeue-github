@@ -8622,7 +8622,7 @@ grapnel
 gerb
 grappled
 guti
-glucosin 1
+glucosin 2
 gulfed
 gingerleaf
 grapline
