@@ -8163,7 +8163,7 @@ fibulas
 fasthold
 fribbling
 fideicommissor
-foundlings
+foundlings 1
 fingerboards
 fuliginous
 fidgeting
