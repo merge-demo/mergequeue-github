@@ -6117,7 +6117,7 @@ frightenedly
 fenster
 flounce
 felsobanyite
-floccilation
+floccilation 1
 flounced
 flounder
 frowardness
