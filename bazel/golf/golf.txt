@@ -506,7 +506,7 @@ gluconokinase
 geomorphology
 gisement
 gratuity
-geographic
+geographic 1
 gruffing
 geologers 1
 graff 1
