@@ -9750,7 +9750,7 @@ enneahedron
 euhedral
 ectogenesis
 enrobing
-eucharist
+eucharist 1
 exfoliatory
 epyllion
 estivating
