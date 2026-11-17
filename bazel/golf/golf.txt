@@ -377,7 +377,7 @@ gavot
 gaoled
 glaive
 gentiles
-glossophagine
+glossophagine 1
 goto
 gansy
 glumpily 1
