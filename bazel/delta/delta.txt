@@ -3003,7 +3003,7 @@ deedily 1
 distriction
 deediness
 dorsales
-diabolos
+diabolos 1
 deeding
 directorates
 deedless
