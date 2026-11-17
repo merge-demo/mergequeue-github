@@ -4605,7 +4605,7 @@ diastases
 decard
 disorienting
 dellies
-disroof
+disroof 1
 debentured
 disavows
 disgust
