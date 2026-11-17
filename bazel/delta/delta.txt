@@ -12559,7 +12559,7 @@ divertible
 disingenuousness
 dicaryophase
 detonator
-disinheritable
+disinheritable 1
 diuturnity
 disinheritance
 dinaphthyl
