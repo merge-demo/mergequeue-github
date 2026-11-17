@@ -1140,7 +1140,7 @@ academist
 arboral
 academite
 academization
-allayed
+allayed 1
 assurgency
 ankylotomy
 audace
