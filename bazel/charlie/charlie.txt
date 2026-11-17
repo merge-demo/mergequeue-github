@@ -3426,7 +3426,7 @@ caprificate
 canyon
 caprifig
 constructionally
-caprifole
+caprifole 1
 caprifoliaceae
 caprifolium
 cincinnatia

@@ -10938,7 +10938,7 @@ fulminurate
 fulness
 fess
 fulnesses 1
-flanconade
+flanconade 1
 forgetness
 feuded
 furfuran 1
