@@ -18662,7 +18662,7 @@ dvigu
 dwayberry
 descendance
 diligently
-dioptral
+dioptral 1
 danaide 1
 draffiest
 dwalm
