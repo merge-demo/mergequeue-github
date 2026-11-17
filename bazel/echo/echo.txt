@@ -9387,7 +9387,7 @@ erythrolitmin 1
 eventail
 embolies
 eucleid
-edifyingness
+edifyingness 1
 ebdomade
 extensionalism
 enantiobiosis
