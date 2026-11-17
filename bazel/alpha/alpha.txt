@@ -18069,7 +18069,7 @@ apterygidae
 apterygiformes
 almsgiver
 arace
-apterygota
+apterygota 1
 arcanist
 abstricts
 apteryla
