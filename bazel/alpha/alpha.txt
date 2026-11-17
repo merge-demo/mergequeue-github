@@ -24522,7 +24522,7 @@ aoristic
 ascaron
 auxetic
 adoptability
-aghorapanthi
+aghorapanthi 1
 anywhereness
 armsize
 abhor
