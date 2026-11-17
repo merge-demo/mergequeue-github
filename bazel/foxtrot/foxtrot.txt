@@ -2157,7 +2157,7 @@ fellowships
 ferruginean
 farrowed
 fliskiest
-faery
+faery 1
 fondants
 frontpiece
 fructiferously
