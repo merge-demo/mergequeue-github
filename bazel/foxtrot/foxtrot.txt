@@ -10595,7 +10595,7 @@ foilsman
 filaceous
 fusht
 furtive
-famular
+famular 1
 finched
 fructuate
 flucan
