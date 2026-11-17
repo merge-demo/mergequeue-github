@@ -2540,7 +2540,7 @@ epiphytal
 emancipators
 enwheeling
 entering
-embraceably
+embraceably 1
 electromagnetical
 extratribal
 excepting
