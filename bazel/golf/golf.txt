@@ -914,7 +914,7 @@ gambia
 garnishable
 grittiness
 gosport
-gemeinschaften
+gemeinschaften 1
 galt
 gametophoric
 gorbet
