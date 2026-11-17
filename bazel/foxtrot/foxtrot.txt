@@ -6962,7 +6962,7 @@ fadeless
 fendy
 foisting 1
 feloniously
-firecracker
+firecracker 1
 frizzler
 flindosy
 flexographically

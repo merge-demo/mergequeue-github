@@ -3013,7 +3013,7 @@ gaps
 goatherdess
 guildsmen
 geomancy 1
-garnered
+garnered 1
 grumbled
 glosser
 gushingness
