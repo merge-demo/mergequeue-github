@@ -3348,7 +3348,7 @@ burgoos
 bronchobuster
 basoid
 baraithas
-beltine
+beltine 1
 banus
 bayberries
 breast
