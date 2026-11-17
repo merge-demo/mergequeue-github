@@ -259,7 +259,7 @@ evensong
 eulamellibranchia
 emendately
 electroballistically
-elevenfold
+elevenfold 1
 equisegmented
 easylike
 eastabout
