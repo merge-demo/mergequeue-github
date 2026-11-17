@@ -14639,7 +14639,7 @@ derating 1
 depressing
 diallel
 dixain
-decentre
+decentre 1
 diplococcocci
 decameter
 draftees
