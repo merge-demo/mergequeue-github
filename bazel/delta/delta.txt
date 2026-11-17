@@ -12124,7 +12124,7 @@ detergency
 ducts
 downshifting
 disestablishing
-diminuent
+diminuent 1
 disestablismentarian
 disreputed
 drapers
