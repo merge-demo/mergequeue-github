@@ -20872,7 +20872,7 @@ compotes
 compotiers
 catarrhally
 compotor
-compounded
+compounded 1
 complicatedness
 cotarnin
 colicine
