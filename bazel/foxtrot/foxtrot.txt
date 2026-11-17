@@ -4948,7 +4948,7 @@ firefanged
 funneling
 firepan
 firmware
-fulcraceous
+fulcraceous 1
 flagarie
 flamencos
 funtumia
