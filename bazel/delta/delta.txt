@@ -15984,7 +15984,7 @@ dumfounds
 dermestidae
 dotterels
 ducato
-dammara
+dammara 1
 dottier
 dragonnade
 dia

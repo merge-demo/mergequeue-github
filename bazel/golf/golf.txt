@@ -1394,7 +1394,7 @@ garnison
 greetingless
 garniture
 gaulsh
-glycosemia
+glycosemia 1
 germanize
 grecize
 gaits
