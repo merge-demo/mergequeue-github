@@ -17920,7 +17920,7 @@ bahmanid
 belton
 befortune
 brahmanda
-bungy
+bungy 1
 besour
 beminstrel
 bushless
