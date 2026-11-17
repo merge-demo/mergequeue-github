@@ -4732,7 +4732,7 @@ executonis
 epigean
 estre
 emplaced
-exponentiating
+exponentiating 1
 encircle
 embrowned
 emittent
