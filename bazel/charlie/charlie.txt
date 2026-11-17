@@ -195,7 +195,7 @@ caliculi
 cabre
 chicadee
 catproof
-chutzpas
+chutzpas 1
 choriocapillaris
 cabree
 cabrerite
