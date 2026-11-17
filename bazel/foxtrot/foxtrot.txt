@@ -7930,7 +7930,7 @@ freeheartedness 1
 foreshadow
 filibustering
 frisket
-forgivenesses
+forgivenesses 1
 foreshadowed
 flugelman
 featherman
