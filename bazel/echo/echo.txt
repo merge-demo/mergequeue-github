@@ -8704,7 +8704,7 @@ endothelia
 edgemaking
 enchain
 erupting
-enamorate
+enamorate 1
 eradications
 enjoyed
 esthesiogenic
