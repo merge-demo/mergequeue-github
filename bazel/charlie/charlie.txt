@@ -13999,7 +13999,7 @@ caziques
 cargador
 cyphosis
 compitum
-cipo
+cipo 1
 conservatist
 catstitch
 cippus
