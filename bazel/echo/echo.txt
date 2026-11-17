@@ -3240,7 +3240,7 @@ educive
 extroversively
 exaltedly
 eludible
-enswathes
+enswathes 1
 enfollow
 eluents
 elul
