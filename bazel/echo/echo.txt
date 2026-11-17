@@ -11833,7 +11833,7 @@ electromagnetically
 equibalance
 epirrhematic
 epidendric
-etiolation
+etiolation 1
 excalcarate
 extractible
 equiproducing
