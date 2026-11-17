@@ -8060,7 +8060,7 @@ foredevote
 felicitates
 fluidisation
 frustrate
-flammably
+flammably 1
 fairies
 fosterers
 formentation
