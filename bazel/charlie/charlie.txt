@@ -2545,7 +2545,7 @@ childproof
 cacqueteuse
 candlenut
 candlepins
-chemist
+chemist 1
 cerevis
 candler
 candlerent
