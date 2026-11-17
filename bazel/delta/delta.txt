@@ -6118,7 +6118,7 @@ duplexs 1
 december
 derays
 deranges
-dualin
+dualin 1
 detrimental
 dropout
 dimission
