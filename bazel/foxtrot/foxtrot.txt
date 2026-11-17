@@ -7004,7 +7004,7 @@ fraenulum 1
 foozled
 foreaccustom
 fruitwoman
-flexions
+flexions 1
 filla
 functor
 frison

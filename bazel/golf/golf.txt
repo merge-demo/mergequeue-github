@@ -2641,7 +2641,7 @@ genethlic
 glossopetra
 goatee
 glossosteresis
-geniality
+geniality 1
 genetics
 gastrolysis
 gudgeoned
