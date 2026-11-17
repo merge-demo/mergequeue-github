@@ -14196,7 +14196,7 @@ esthetics
 epulation
 endlong
 equidistance
-exurge
+exurge 1
 exuscitate
 enlists
 effecters
