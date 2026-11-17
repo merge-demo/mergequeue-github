@@ -7051,7 +7051,7 @@ elastomer
 electricalize
 emication
 eglatere
-enepidermic
+enepidermic 1
 editorials
 eliquate
 excorticated
