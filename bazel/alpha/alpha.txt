@@ -20893,7 +20893,7 @@ abuts
 acetylbenzoate
 aspersing
 asarums
-anglicanly
+anglicanly 1
 anteverted
 asb
 agoniatites
