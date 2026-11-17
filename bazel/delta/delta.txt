@@ -2700,7 +2700,7 @@ delightedness
 dialectics
 disuniter
 decongestant
-deltoidei
+deltoidei 1
 deconsecrate
 duels
 dareful
