@@ -7203,7 +7203,7 @@ enneasyllabic
 epoxying
 etheostoma
 equalizer
-enwove
+enwove 1
 entender
 epistasis
 euphonym 1
