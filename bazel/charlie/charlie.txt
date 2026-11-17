@@ -27161,7 +27161,7 @@ countersun
 countersunken
 calfdozer
 cava
-countersurprise
+countersurprise 1
 chrotta
 countersway
 countersworn
