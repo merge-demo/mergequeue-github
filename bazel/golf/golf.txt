@@ -5238,7 +5238,7 @@ gleety
 glottidean
 guineaman
 glottiscope
-gastriloquist
+gastriloquist 1
 gibbals
 gourding
 genethlialogy
