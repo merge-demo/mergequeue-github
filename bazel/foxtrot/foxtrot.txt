@@ -5649,7 +5649,7 @@ fie
 fillers
 fud
 forethinking
-fulguration
+fulguration 1
 fluidising
 fireable
 flimsiness
