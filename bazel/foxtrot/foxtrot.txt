@@ -8591,7 +8591,7 @@ fricative
 flexor
 firedragon
 fornix
-fanegada
+fanegada 1
 forspent
 flocculus
 feower
