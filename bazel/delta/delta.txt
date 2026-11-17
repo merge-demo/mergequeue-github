@@ -14687,7 +14687,7 @@ djuka
 diaskeuast
 dk
 dkg
-dkl
+dkl 1
 deadener
 decasemic
 deviative
