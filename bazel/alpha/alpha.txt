@@ -3731,7 +3731,7 @@ annum
 adespoton
 analemmatic
 adessenarian
-adeste
+adeste 1
 afterpressure
 antesternum
 affectionate
