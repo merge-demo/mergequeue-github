@@ -1544,7 +1544,7 @@ discoglossid
 distractedly
 dallies
 dicacodyl
-dartman
+dartman 1
 deactivates
 delphinium
 disciplinarity
