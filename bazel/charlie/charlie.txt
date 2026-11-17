@@ -11940,7 +11940,7 @@ crwths
 choreus
 choreutic
 crevassing
-chorial
+chorial 1
 cilician
 choriamb
 choriambic
