@@ -12898,7 +12898,7 @@ babka
 bouffante
 bump
 bursectomy
-brachigerous
+brachigerous 1
 byssogenous
 bureaucratese 1
 boot
