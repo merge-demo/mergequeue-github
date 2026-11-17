@@ -12899,7 +12899,7 @@ expansionistic
 enserf
 eructs
 erupturient
-exploitative
+exploitative 1
 enclasping
 enthused
 enwinds
