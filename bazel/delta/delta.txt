@@ -8675,7 +8675,7 @@ downweigh
 discomposingly
 defeminised
 diaspore
-diaspores
+diaspores 1
 diastalses
 dum
 dovekey
