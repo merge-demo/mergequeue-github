@@ -2676,7 +2676,7 @@ emong
 electrosurgery
 enventual
 epididymovasostomy
-egotist
+egotist 1
 esophagism
 electrotactic
 eyra 1
