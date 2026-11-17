@@ -1901,7 +1901,7 @@ erasability
 equiseta
 extrovert
 errata
-eximiousness
+eximiousness 1
 encashes
 enwisen
 evanescency
