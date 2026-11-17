@@ -21915,7 +21915,7 @@ coelomopore
 cornfield
 clubrooms
 confessedly
-confesses
+confesses 1
 coiners
 confessingly
 confessional
