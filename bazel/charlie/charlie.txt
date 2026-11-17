@@ -15791,7 +15791,7 @@ clearance
 clearances
 commensurately
 counterfeitness
-clearcole
+clearcole 1
 clearedness
 clearheadedly
 cardcases
