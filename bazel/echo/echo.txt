@@ -13878,7 +13878,7 @@ extradomestic
 ecchymoma 1
 extradosed
 entireties
-environments
+environments 1
 ectobronchium
 eucalyptus
 enviers
