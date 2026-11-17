@@ -1278,7 +1278,7 @@ diazoic
 denari
 demitasses
 datives
-deplane
+deplane 1
 desmids
 dossil
 dermoptera
