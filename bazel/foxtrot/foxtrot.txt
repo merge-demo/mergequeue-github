@@ -2709,7 +2709,7 @@ factorization
 fouette
 fervor
 flamenco
-frondous
+frondous 1
 fashions
 fruitive 1
 flatteress
