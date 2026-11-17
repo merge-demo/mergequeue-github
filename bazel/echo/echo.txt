@@ -909,7 +909,7 @@ electrostrictive
 episedia
 encomiastic
 excommunicators
-endosporous
+endosporous 1
 eriodictyon
 ectotoxin
 exampled
