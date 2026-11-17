@@ -10997,7 +10997,7 @@ eurybenthic 1
 endeared
 etacist
 eutaxies
-eusynchite
+eusynchite 1
 eurycephalic
 epiglot
 enridged
