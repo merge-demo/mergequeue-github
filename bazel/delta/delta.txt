@@ -2397,7 +2397,7 @@ disownment
 disguisements
 diplontic
 dismantlement
-dayakker
+dayakker 1
 deciduity
 daver
 deciduoma
