@@ -21901,7 +21901,7 @@ achmetha
 archform
 asthenics
 assizes
-amphistome
+amphistome 1
 assman
 antiproductively
 assmanship

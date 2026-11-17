@@ -11611,7 +11611,7 @@ discontents
 discontiguity
 discontinuances
 dambonite
-debuts
+debuts 1
 dishabit
 defeminize
 discontinuee
