@@ -1980,7 +1980,7 @@ gnomonical
 gimbal
 geology
 geranic
-goring
+goring 1
 grubroot
 glut
 gripes

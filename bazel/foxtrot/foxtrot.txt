@@ -10113,7 +10113,7 @@ forklifts
 flatwashes
 fleshment
 frithstool
-fritniency
+fritniency 1
 fare
 foreknee
 fe
