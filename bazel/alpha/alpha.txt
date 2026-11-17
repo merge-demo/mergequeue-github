@@ -3331,7 +3331,7 @@ appassionato 1
 adagissimo
 achromatise
 amalgamators
-aphototactic
+aphototactic 1
 archiprelatical
 arrestors
 abiogenous
