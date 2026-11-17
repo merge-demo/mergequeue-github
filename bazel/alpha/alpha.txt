@@ -4232,7 +4232,7 @@ affy
 argentation
 assiduity
 automorph
-arouser
+arouser 1
 astichous
 astore
 ados
