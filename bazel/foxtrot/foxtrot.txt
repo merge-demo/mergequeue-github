@@ -5201,7 +5201,7 @@ flossies
 formularist
 fosterlings
 foliaging
-foxiness
+foxiness 1
 frontierlike
 frivolers
 fiot
