@@ -17751,7 +17751,7 @@ dispossessed
 ducaton
 dependency
 ducats
-dewiness
+dewiness 1
 demises
 ducdame
 diplocoria
