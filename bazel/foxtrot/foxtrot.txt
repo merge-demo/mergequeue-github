@@ -6432,7 +6432,7 @@ fructifies
 foreship
 frivoled
 frogeye
-fluoaluminate
+fluoaluminate 1
 fainted
 frictionable
 flatcap
