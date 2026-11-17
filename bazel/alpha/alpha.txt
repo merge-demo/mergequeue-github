@@ -269,7 +269,7 @@ abdicant
 abhorrence
 abdications
 anthropomorphizing
-adze
+adze 1
 amphistyly
 aphenoscope
 abditory
