@@ -2621,7 +2621,7 @@ excerpted
 elliptically
 exercitor
 enjelly
-epithelize
+epithelize 1
 exothecate
 electrophoretogram
 expansure
