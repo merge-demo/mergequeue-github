@@ -21352,7 +21352,7 @@ antichurchian
 asyndetic
 androphore
 amyloses
-analectic
+analectic 1
 amphoras
 azobacter
 asyndeton
