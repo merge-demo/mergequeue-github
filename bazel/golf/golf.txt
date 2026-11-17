@@ -9170,7 +9170,7 @@ granulates 1
 glared
 goosed
 garon
-griphite
+griphite 1
 gehenna
 golee
 greenhornism 1
