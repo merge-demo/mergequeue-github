@@ -3130,7 +3130,7 @@ fibroelastic
 fountaineer
 finnick
 fibroenchondroma
-faring
+faring 1
 fulminancy
 fibroferrite
 fundic
