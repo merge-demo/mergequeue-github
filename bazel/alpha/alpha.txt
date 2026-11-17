@@ -14969,7 +14969,7 @@ avicular
 anticonservatism
 anticonservativeness
 auricularis
-anadrom
+anadrom 1
 apagoges
 athletehood
 anticonstitution
