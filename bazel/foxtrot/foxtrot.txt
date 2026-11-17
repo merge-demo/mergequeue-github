@@ -9011,7 +9011,7 @@ fouter
 foliator
 fustie
 fondling
-fasc
+fasc 1
 foremistress
 fizelyite
 feeling
