@@ -2981,7 +2981,7 @@ gullability
 grogger
 gardenias
 geognosy
-geognostically
+geognostically 1
 grenadian
 guayules
 gaolering
