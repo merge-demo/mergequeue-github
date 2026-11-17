@@ -684,7 +684,7 @@ germanesque
 gaddishness
 gideon
 granulomatosis
-goneril
+goneril 1
 gastronomer
 gallying
 gonfalon
