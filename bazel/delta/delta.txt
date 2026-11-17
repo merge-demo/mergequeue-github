@@ -9618,7 +9618,7 @@ dihedron
 dhootie
 dodecatemory
 discipleship
-dishumour
+dishumour 1
 diplobacterium
 disruption
 dowing
