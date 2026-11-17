@@ -8863,7 +8863,7 @@ guanos
 greylag
 groundout
 gyte
-girouettism
+girouettism 1
 gowkit
 gynaecomastia
 great
