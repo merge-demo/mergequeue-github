@@ -10879,7 +10879,7 @@ bioflavonoid
 blin
 babbitting
 burnup
-beadledom 1
+beadledom 2
 biggity
 bibbling
 blindball
