@@ -28136,7 +28136,7 @@ curved
 cento
 circumstance
 craniography
-clovered
+clovered 1
 cranioid
 checkable
 craniology
