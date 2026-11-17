@@ -27114,7 +27114,7 @@ configurable
 countershine 1
 chemosorptive
 copaiye
-countershock
+countershock 1
 counterside
 crance
 czardoms
