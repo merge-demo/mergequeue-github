@@ -9298,7 +9298,7 @@ earlish
 electroreceptive
 entomolegist
 erthen
-eumorphous
+eumorphous 1
 ekistic
 enkennel
 erthly
