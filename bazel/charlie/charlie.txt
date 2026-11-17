@@ -22764,7 +22764,7 @@ conscripting
 conscriptional
 clambering
 conscriptions
-characterological
+characterological 1
 cismarine
 consecrate
 consecrater
