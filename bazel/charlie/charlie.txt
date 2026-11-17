@@ -507,7 +507,7 @@ calendaric
 cadences
 cadencies
 cadencing
-casitas
+casitas 1
 cadenette
 corregidores
 cellobiose 1
