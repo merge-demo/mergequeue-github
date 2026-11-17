@@ -8073,7 +8073,7 @@ actinopraxis
 attriutively
 alrune
 airworthy
-acidotic
+acidotic 1
 antihistamines
 arithmetically
 amphide
