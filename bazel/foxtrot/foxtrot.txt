@@ -9793,7 +9793,7 @@ fress
 fret
 fusionism
 forisfamiliate 1
-fyrdung
+fyrdung 1
 fatals
 farrows
 feldspathic
