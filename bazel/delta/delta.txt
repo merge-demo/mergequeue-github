@@ -15758,7 +15758,7 @@ dormeuse
 dormice
 dormilona
 dormitive
-dormitories
+dormitories 1
 dissenting
 dimwits
 dormouse
