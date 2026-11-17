@@ -3523,7 +3523,7 @@ epilogized
 emirates
 eproboscidea
 explementary
-endow
+endow 1
 encarpi
 embodiers
 embodies
