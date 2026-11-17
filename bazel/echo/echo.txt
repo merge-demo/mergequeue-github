@@ -12688,7 +12688,7 @@ exonerate
 exonerating
 ephemerous
 encephalotomies
-euclase
+euclase 1
 episcopicide
 essays
 eunicidae
