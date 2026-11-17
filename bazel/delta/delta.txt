@@ -1534,7 +1534,7 @@ diddlers
 denture
 dieugard
 dynamisms
-dupondius
+dupondius 1
 dedoggerelize
 deacons 1
 demobilizes
