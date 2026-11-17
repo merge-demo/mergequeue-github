@@ -7417,7 +7417,7 @@ entasia
 exsanguineous
 exacted
 epenla
-edgings
+edgings 1
 epentheses
 errant
 exotic

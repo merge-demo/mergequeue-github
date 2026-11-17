@@ -4214,7 +4214,7 @@ fadding
 fibrospongiae
 fruitlessness 1
 finialed
-fragmentally
+fragmentally 1
 flagrant
 fibrilliform
 finnish

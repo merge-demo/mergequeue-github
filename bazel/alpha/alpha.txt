@@ -434,7 +434,7 @@ anomiidae
 abying
 arendalite
 abilao
-abilitable
+abilitable 1
 ability
 abilla
 anicular
