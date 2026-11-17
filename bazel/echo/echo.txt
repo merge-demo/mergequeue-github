@@ -1905,7 +1905,7 @@ eximiousness
 encashes
 enwisen
 evanescency
-eulogically
+eulogically 1
 expulsion
 ethnics
 electrophotographic
