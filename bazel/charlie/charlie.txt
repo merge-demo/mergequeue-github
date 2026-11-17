@@ -8418,7 +8418,7 @@ chameleon
 chameleonlike
 cantilena
 commercialized
-cckw
+cckw 1
 cultrirostral
 chamfer
 cabirean
