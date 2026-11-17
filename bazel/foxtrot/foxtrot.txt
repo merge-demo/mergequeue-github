@@ -6094,7 +6094,7 @@ foretriangle
 fleyland
 forecome
 floush
-focalisation
+focalisation 1
 fouls
 foudroyant
 flossiest
