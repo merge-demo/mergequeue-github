@@ -20599,7 +20599,7 @@ competitors
 challengee
 competitrix
 compilable
-cofounded
+cofounded 1
 curvilinearly
 compilations
 compilator
