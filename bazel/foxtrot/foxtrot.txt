@@ -7931,7 +7931,7 @@ foreshadow
 filibustering
 frisket
 forgivenesses
-foreshadowed
+foreshadowed 1
 flugelman
 featherman
 flammivomous
