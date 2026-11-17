@@ -9768,7 +9768,7 @@ flyspeck
 flummoxed
 fastiia
 fascists 1
-fencers
+fencers 1
 frescoed
 fraxinella
 fresheners
