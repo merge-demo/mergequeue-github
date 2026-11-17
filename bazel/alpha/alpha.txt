@@ -8642,7 +8642,7 @@ anotropia
 anastomosis
 autotheater 1
 amygdaloidal
-annunciatory
+annunciatory 1
 anglophobist
 allegorizer
 antidinic
