@@ -19372,7 +19372,7 @@ centrifugally
 condemnably
 cere
 crossarms
-compunctiously
+compunctiously 1
 coloraturas
 carnivoracity
 colorature
