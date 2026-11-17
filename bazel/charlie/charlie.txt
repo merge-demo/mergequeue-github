@@ -20525,7 +20525,7 @@ crimes
 compeering
 corinthianesque
 checkerspot
-chromatophorous
+chromatophorous 1
 compellable
 cheirognomy
 compelled
