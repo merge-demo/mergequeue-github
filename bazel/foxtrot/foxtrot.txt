@@ -11456,7 +11456,7 @@ furfurylidene
 furrowy
 facecloth
 flap
-furrowing
+furrowing 1
 forletting
 furrowlike 1
 forewish
