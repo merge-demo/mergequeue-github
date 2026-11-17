@@ -5107,7 +5107,7 @@ beflagging
 babery
 bentwood
 biquadrantal
-balanites
+balanites 1
 beflannel
 bureaucrat
 beflap
