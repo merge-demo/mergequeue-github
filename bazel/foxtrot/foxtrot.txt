@@ -7397,7 +7397,7 @@ frugs
 funicle
 fissirostral
 ferrarese
-floressence
+floressence 1
 fusk
 fatalistic 1
 feminologist
