@@ -3193,7 +3193,7 @@ gaddis
 glossiness
 governmentalist
 geotilla
-grigs
+grigs 1
 geotropy
 guardant
 glossolabiolaryngeal
