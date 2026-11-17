@@ -9093,7 +9093,7 @@ glumal
 glires
 gladiatorism
 goatherds
-guajira
+guajira 1
 glads
 gappy
 galactidrosis
