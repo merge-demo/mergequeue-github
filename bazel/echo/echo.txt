@@ -10828,7 +10828,7 @@ eupatorium
 ethnobiology
 eupatrids
 eluent 1
-exemplars
+exemplars 1
 enoptromancy
 explodes
 engine
