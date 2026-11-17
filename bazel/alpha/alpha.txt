@@ -3699,7 +3699,7 @@ agib
 adenotomic
 adenous
 apomorphin
-autocarpic
+autocarpic 1
 adeona
 attenuative
 adephagous 1
