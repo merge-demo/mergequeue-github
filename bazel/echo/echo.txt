@@ -3197,7 +3197,7 @@ eidetic
 endocone
 ejaculum
 extraserous
-entomophagous
+entomophagous 1
 episcopation
 enamoring
 esperantist
