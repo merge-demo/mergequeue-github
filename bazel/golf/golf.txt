@@ -6377,7 +6377,7 @@ gog 1
 gamin
 graymill
 gugal
-gospelwards
+gospelwards 1
 germanophile
 greenwort
 guesstimate
