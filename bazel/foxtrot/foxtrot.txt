@@ -8129,7 +8129,7 @@ fathogram
 fumigator
 foretellers
 forethrift
-fusel
+fusel 1
 fondon
 farmland
 foison
