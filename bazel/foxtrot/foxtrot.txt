@@ -11377,7 +11377,7 @@ faute
 furnacelike
 firetraps
 fosters
-furnaces
+furnaces 1
 ferromagneticism
 flashlamp
 furnariides
