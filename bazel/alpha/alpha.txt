@@ -17481,7 +17481,7 @@ appar
 actinoidea
 apparat
 antidiabetic
-antigonus
+antigonus 1
 apparats
 apparatus
 appareling
