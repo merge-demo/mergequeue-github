@@ -1954,7 +1954,7 @@ glucosidal
 gorbellied
 glutetei
 gruft
-gustoso
+gustoso 1
 gastrilegous
 gamasidae
 gobans
