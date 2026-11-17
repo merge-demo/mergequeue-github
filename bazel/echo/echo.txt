@@ -5269,7 +5269,7 @@ edificative
 euchroic
 exsected
 enantiomeride
-extrascriptural
+extrascriptural 1
 escartelly
 euphuizing
 esphresis
