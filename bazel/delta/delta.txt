@@ -14571,7 +14571,7 @@ divisorial
 dreint
 diesinking
 deuteromyosinose
-dispensing
+dispensing 1
 divorcee
 disembower
 dihedrals
