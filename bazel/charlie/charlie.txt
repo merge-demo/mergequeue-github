@@ -8519,7 +8519,7 @@ congealedness
 chimbley
 corslet
 chanca
-chance
+chance 1
 clow
 chemosterilants
 chanced
