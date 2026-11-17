@@ -5655,7 +5655,7 @@ choraleon
 cataphrygian
 cataphrygianism
 cataplane
-cataplasia
+cataplasia 1
 conepate
 cataplasis
 cogwood
