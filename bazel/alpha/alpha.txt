@@ -22594,7 +22594,7 @@ atemoya
 alintatao
 aten
 antiparticle
-atenism
+atenism 1
 ates
 anole
 actinotoxemia
