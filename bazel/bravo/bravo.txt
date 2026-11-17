@@ -7201,7 +7201,7 @@ bestiary
 backdating
 byelorussia
 blastomeric
-bur
+bur 1
 bestiarian
 bestiarist
 bestock
