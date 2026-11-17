@@ -16723,7 +16723,7 @@ drypoint 1
 disadvised
 dewily
 drammocks
-descriptively
+descriptively 1
 dicey
 desalt
 disauthorize
