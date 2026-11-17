@@ -3809,7 +3809,7 @@ exscribe
 epistolizing
 eglandulose
 electroplax
-expendables
+expendables 1
 emendandum
 extracolumella
 endodontically
