@@ -7013,7 +7013,7 @@ encauma
 entrelac
 emetically
 epilogued
-escalops
+escalops 1
 eburnation
 enwood
 eneas
