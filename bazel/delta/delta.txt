@@ -1054,7 +1054,7 @@ darndest
 darnels
 destandardize
 diplohedral
-dishes
+dishes 1
 diacodium
 deas
 disobliging
