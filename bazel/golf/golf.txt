@@ -7317,7 +7317,7 @@ gravelling
 gangly 1
 goar
 gymnosophy
-genys
+genys 1
 gaseity
 grizzles
 gymnasisiums
