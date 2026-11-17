@@ -12886,7 +12886,7 @@ churlier
 corrugations
 cowslip
 churlishness
-churm
+churm 1
 churn
 canvased
 cowbarn
