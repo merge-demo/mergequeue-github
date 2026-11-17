@@ -17895,7 +17895,7 @@ achilleas
 anakrousis
 appressoria
 appressorial
-anticold
+anticold 1
 anabathmos
 allodesmism
 appressorium
