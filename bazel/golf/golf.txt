@@ -895,7 +895,7 @@ grayout
 gametogenic
 gooseflesh 1
 gueparde
-glutathione
+glutathione 1
 geognost
 grassfire
 gobioid
