@@ -11576,7 +11576,7 @@ enlighten
 extensiveness
 evolutionism
 epizeuxis
-evolutionistic
+evolutionistic 1
 epigenesis
 endotheloid
 euaster
