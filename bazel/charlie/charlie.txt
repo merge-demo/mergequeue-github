@@ -3475,7 +3475,7 @@ chylosis
 ciceronianists
 copesman
 competencies
-capsizal
+capsizal 1
 collars
 culverkeys
 cheimaphobia
