@@ -2960,7 +2960,7 @@ dedolation
 deseret
 destinal
 dotingness
-diegesis
+diegesis 1
 diplasiasmus
 deduces
 droil
