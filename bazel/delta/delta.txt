@@ -4913,7 +4913,7 @@ defervescence
 demonry
 dubiosities
 depopulating
-dispersive
+dispersive 1
 dovishness
 demonstrated
 dehiscing
