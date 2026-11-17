@@ -5783,7 +5783,7 @@ faailk
 fluorocarbon
 faunated
 foreheads
-fulgurant
+fulgurant 1
 fribble
 family
 fevertwig
