@@ -4128,7 +4128,7 @@ delineavit
 delinquency
 decimalise
 despeche
-diagenetically
+diagenetically 1
 doggerelled
 delinter
 deliquiate
