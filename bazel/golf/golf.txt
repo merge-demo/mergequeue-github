@@ -2796,7 +2796,7 @@ gaunt
 growling
 gimmor
 gascoigny
-greatcoat
+greatcoat 1
 gyro
 gyne
 garni
