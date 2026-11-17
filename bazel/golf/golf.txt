@@ -7413,7 +7413,7 @@ gregariniform
 gepeoo
 grantsmen
 goosefoot
-galvanometers
+galvanometers 1
 giga
 granduncle
 gnatproof
