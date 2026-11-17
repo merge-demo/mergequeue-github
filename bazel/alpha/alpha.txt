@@ -22803,7 +22803,7 @@ annulets
 atlantosaurus
 atlases
 annulling
-apropos
+apropos 1
 amplificator
 atloid
 atloidean
