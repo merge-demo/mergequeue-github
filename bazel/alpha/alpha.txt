@@ -20471,7 +20471,7 @@ absey
 astate
 alaunian
 axers
-adjectivally
+adjectivally 1
 agrarian
 auctary
 arterying
