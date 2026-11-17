@@ -1447,7 +1447,7 @@ familiarise
 floorwalkers
 fringing
 fetched
-fatuoid
+fatuoid 1
 fatuus
 frankly
 fairtime
