@@ -12495,7 +12495,7 @@ chromophobia
 chromophobic
 calamistrate
 clairvoyants
-chromophore
+chromophore 1
 chromophorous
 chromophotography
 chromophotographic
