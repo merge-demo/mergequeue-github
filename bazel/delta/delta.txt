@@ -7399,7 +7399,7 @@ duncifying
 detectability
 detouring
 deliriums
-dermacentor
+dermacentor 1
 diadoche
 daric
 detoxicant
