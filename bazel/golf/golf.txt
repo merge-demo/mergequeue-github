@@ -4918,7 +4918,7 @@ greeter
 glaizie
 glaga
 geologies
-glagolic
+glagolic 1
 gethsemane
 glaieul
 griper

@@ -6026,7 +6026,7 @@ embolomerism
 electrodynamism
 exhortative
 estampedero
-erosion
+erosion 1
 ejects
 earns
 eluding
