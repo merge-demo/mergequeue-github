@@ -10855,7 +10855,7 @@ granoblastic
 garruline
 grewsomeness
 gweed
-gravidation
+gravidation 1
 gweeon
 growlers
 geomagnetician
