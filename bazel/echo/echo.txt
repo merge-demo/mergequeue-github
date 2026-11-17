@@ -9009,7 +9009,7 @@ ebcasc
 effund
 erythremia
 entertainer
-erythric
+erythric 1
 eteocretes
 edriophthalma
 erythrite
