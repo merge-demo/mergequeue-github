@@ -8150,7 +8150,7 @@ forthwith
 fretless
 ferberite
 fructuosity
-fossilology
+fossilology 1
 foretrace 1
 forecastleman
 fountful
