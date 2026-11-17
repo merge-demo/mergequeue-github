@@ -8023,7 +8023,7 @@ bayberry
 butcherous
 bastonite
 biconsonantal
-barnburner
+barnburner 1
 biconvexity
 brawned
 ballerine
