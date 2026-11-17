@@ -16797,7 +16797,7 @@ agnoete
 aphorismos
 avatars
 autopore
-aphorist
+aphorist 1
 ailuropus
 autoportraiture
 aphorize
