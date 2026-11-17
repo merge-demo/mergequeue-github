@@ -5228,7 +5228,7 @@ glyptologist
 goldarnedest
 glandulousness
 gluttoness
-gaywing
+gaywing 1
 garnisheed
 gleeks
 glycemic
