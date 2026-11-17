@@ -12464,7 +12464,7 @@ distemperature 1
 demonstrant
 dishwashings
 dibromobenzene
-doglegged
+doglegged 1
 dard
 drissel
 disoccupying
