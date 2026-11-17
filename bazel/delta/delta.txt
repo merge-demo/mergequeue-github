@@ -8901,7 +8901,7 @@ dilemi
 daunomycin
 disbud
 dicentras
-dipyramid
+dipyramid 1
 dyads
 defiatory
 diceras
