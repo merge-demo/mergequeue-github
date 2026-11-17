@@ -7707,7 +7707,7 @@ dismembrate
 defuse
 darwinism
 devilfish
-decelerators
+decelerators 1
 devily
 detail
 deviling
