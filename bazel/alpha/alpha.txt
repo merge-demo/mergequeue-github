@@ -7793,7 +7793,7 @@ albolith
 aldazine
 antithrombic
 aldoheptose
-aldoketene
+aldoketene 1
 analecta
 antigalactic
 aldol
