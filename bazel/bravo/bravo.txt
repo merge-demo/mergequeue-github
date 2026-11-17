@@ -1769,7 +1769,7 @@ bamboula
 banterer
 boswellized
 bowmen
-balanops
+balanops 1
 balloonet
 bedsprings
 bambute
