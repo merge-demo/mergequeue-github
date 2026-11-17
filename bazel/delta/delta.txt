@@ -4646,7 +4646,7 @@ demiscible
 dicebox
 denticulate
 demise
-demisecond
+demisecond 1
 demised
 depas
 didynamia
