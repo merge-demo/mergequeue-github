@@ -5980,7 +5980,7 @@ downbeats
 darcy
 doctorlike
 decimetres
-doubledamn
+doubledamn 1
 deckswabber
 debord
 decuples
