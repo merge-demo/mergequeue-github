@@ -7026,7 +7026,7 @@ despondencies
 despondentness
 desponder
 despondingly
-desponds
+desponds 1
 diaster
 districts
 divinisation
