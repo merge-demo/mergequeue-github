@@ -26761,7 +26761,7 @@ countercoupe
 countercourant
 countercry
 countercriticism
-countercultural
+countercultural 1
 counterculture
 coagulums
 countercurrent
