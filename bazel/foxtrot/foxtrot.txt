@@ -10370,7 +10370,7 @@ formatting
 frontierless
 fireproofness
 farmyards
-fungite
+fungite 1
 flusterment
 fibroplasia
 fonctionnaire

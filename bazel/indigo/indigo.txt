@@ -11071,7 +11071,7 @@ isqjr
 isqlbpt
 isqllomhvqnqjqr
 isqmpnxrppqs
-isqo
+isqo 1
 isqplr
 isqpponomtt
 isquteqfi
