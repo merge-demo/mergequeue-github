@@ -4881,7 +4881,7 @@ englished
 eulogizes
 encranial
 encratite
-expectorator
+expectorator 1
 electroed
 exportable
 episcopolatry

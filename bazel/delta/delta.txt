@@ -6414,7 +6414,7 @@ diglyphic
 docquet
 druidic
 deewans
-deportment
+deportment 1
 disadvanced 1
 derride
 derriere
