@@ -1031,7 +1031,7 @@ abstrusities
 angiogenesis
 aphlaston
 absume
-absurd
+absurd 1
 anesthesiologist
 animators
 antirentism
