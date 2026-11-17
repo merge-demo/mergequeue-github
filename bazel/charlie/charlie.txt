@@ -10071,7 +10071,7 @@ chesoun
 chessboards
 counterfugue
 collab
-chipchap
+chipchap 1
 chessdom
 chesser
 cabinda
