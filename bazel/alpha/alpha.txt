@@ -7680,7 +7680,7 @@ autoprothesis
 autoconverter
 asterin
 alcoholysis
-albatrosses
+albatrosses 1
 aguinaldos
 aspirins
 aphorised
