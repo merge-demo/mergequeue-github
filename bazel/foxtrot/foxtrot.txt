@@ -6994,7 +6994,7 @@ fainter
 formalazine
 fumant
 flannels
-fineries
+fineries 1
 freemason 1
 fondly
 fluorspar
