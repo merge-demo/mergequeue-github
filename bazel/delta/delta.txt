@@ -10737,7 +10737,7 @@ deckie
 diprotodan
 delian
 dragonlike
-dips
+dips 1
 dipsacaceous
 deipnosophist
 disavow
