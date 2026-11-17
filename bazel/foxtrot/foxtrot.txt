@@ -5932,7 +5932,7 @@ frats
 fructiferous
 flannelflower
 fineable
-flaughts
+flaughts 1
 flubdubs
 forestaysail
 fabiform
