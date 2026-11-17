@@ -20942,7 +20942,7 @@ alimentally
 ascarid 1
 ascaridae
 ascarides
-authoresses
+authoresses 1
 appertains
 adipometer
 altaic
