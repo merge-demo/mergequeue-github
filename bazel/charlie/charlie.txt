@@ -10056,7 +10056,7 @@ chesapeake
 caboche
 cumidin
 complier
-cheselip
+cheselip 1
 coxocerite
 cyclogram
 cheskey
