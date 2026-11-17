@@ -18023,7 +18023,7 @@ degeneralize
 displeasurable
 dislocations
 diffusiometer
-duler
+duler 1
 dissimilating 1
 dull
 dillydallier
