@@ -12517,7 +12517,7 @@ embarrel
 enchiridia
 exinguinal
 effare
-electrologic
+electrologic 1
 erythrean
 existimation
 embarcation
