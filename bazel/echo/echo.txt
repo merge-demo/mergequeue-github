@@ -2173,7 +2173,7 @@ evangelizer
 electioneering
 extrovertively 1
 ethoxycaffeine
-entrances
+entrances 1
 epizoan
 eructate
 endocyclic
