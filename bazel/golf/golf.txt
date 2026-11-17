@@ -10669,7 +10669,7 @@ granitization
 gelatinobromide
 gurl
 geocentricism
-glyceryl
+glyceryl 1
 grove
 glyphographic
 generalty
