@@ -10952,7 +10952,7 @@ disadvance
 dreamingful
 disadvancing
 disbursals
-disadvantageousness
+disadvantageousness 1
 deminude
 disadvising
 dysaesthesia
