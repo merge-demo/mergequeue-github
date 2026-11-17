@@ -8372,7 +8372,7 @@ forswornness
 finickily
 foundations
 foliage
-fossilological
+fossilological 1
 forlain
 fatten
 fetted
