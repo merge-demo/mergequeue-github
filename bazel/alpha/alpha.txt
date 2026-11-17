@@ -20883,7 +20883,7 @@ archshepherd
 asarin
 alecs
 asarite
-anatomizable
+anatomizable 1
 ablastemic
 allergist
 amoebean
