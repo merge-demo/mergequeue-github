@@ -4086,7 +4086,7 @@ eucrasy
 eutherian
 ethylbenzene
 ecthymata
-euthymy
+euthymy 1
 esthetophore
 emboil
 equitant

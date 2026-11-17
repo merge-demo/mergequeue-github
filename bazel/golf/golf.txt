@@ -10255,7 +10255,7 @@ gonophore
 glacier
 gustiness
 galvanometry
-galvanoplastically
+galvanoplastically 1
 grownup
 gauzelike
 guanases
