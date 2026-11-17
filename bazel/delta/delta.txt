@@ -1518,7 +1518,7 @@ doarium
 deked
 deaconate
 demigorge
-delphinoidea
+delphinoidea 1
 downer
 discourager
 deaconesses
