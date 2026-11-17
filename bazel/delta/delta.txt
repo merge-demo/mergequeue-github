@@ -17449,7 +17449,7 @@ deprehension
 deforcer
 drouth
 dopas
-delphacid
+delphacid 1
 desectionalize
 drouthier
 defame
