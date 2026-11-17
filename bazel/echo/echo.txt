@@ -4044,7 +4044,7 @@ evirato 1
 extensibleness
 epirogenetic
 evaporative
-exedent
+exedent 1
 evidenced
 esuriency
 evangelize
