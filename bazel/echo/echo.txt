@@ -657,7 +657,7 @@ ennoble
 evilness
 exprobration
 extimulate
-epigonos
+epigonos 1
 enshrouding
 extracondensed
 electrophysiology
