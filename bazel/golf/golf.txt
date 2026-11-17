@@ -6869,7 +6869,7 @@ gorbal
 guaranty 1
 globosities
 galaxies
-gymsia
+gymsia 1
 gluteoinguinal
 gauntlets
 glucoprotein
