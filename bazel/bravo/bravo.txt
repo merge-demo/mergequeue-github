@@ -18011,7 +18011,7 @@ brutification
 barbotte
 barmfel
 babbitt
-busk
+busk 1
 barlock 1
 burghmoot
 bicornuous
