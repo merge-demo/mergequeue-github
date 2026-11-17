@@ -12153,7 +12153,7 @@ armied
 anthropophysite
 ailie
 aglobulia
-anatreptic
+anatreptic 1
 androdynamous
 accoucheuse
 assobre
