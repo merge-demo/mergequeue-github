@@ -7742,7 +7742,7 @@ apostatical
 armscye
 aldehydine
 alderamin
-ape
+ape 1
 alectoromorphous
 aldermanate
 aldermancy
