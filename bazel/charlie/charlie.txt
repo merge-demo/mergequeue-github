@@ -18411,7 +18411,7 @@ cognizable
 cognizant
 cognize
 conveyancer
-cognized
+cognized 1
 cognizes
 cognizing
 crescive
