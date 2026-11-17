@@ -28654,7 +28654,7 @@ crena
 cough
 crenae
 clival
-couveuse
+couveuse 1
 catlin
 cavetto
 crenallation
