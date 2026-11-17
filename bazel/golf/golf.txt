@@ -9994,7 +9994,7 @@ gubernative
 gunwale
 grills
 glazer 1
-gubernatrix
+gubernatrix 1
 goodsome
 geophysically
 graveness
