@@ -15724,7 +15724,7 @@ antipastic
 antipastos
 aureolin
 archaeocyathus
-acromania
+acromania 1
 anaesthesiologist 1
 antipathetic
 antimodernism
