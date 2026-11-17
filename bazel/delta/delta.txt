@@ -15669,7 +15669,7 @@ dopebook 1
 demonstrator
 discased
 distemperance 1
-dopey
+dopey 1
 decrements
 doper
 disbarring
