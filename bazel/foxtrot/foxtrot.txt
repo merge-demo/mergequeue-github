@@ -2252,7 +2252,7 @@ forkiest
 fengite
 fanout
 frolics
-filigerous
+filigerous 1
 fayalite 1
 funnymen
 fibrinolyses
