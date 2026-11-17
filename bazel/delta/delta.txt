@@ -4289,7 +4289,7 @@ dichotomous 1
 digallate
 designatory
 delustering
-deceleration
+deceleration 1
 delved
 dermatopathology
 demimillionaire
