@@ -8733,7 +8733,7 @@ brontozoum
 birchen
 binal
 bedrown
-bungo
+bungo 1
 beezer
 binaphthyl
 bletia
