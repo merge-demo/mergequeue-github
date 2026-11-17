@@ -4028,7 +4028,7 @@ allegiantly
 administrates
 antihemolytic
 administrational
-administrative
+administrative 1
 affixion
 administratively
 administratrices
