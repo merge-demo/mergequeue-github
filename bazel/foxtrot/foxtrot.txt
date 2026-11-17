@@ -8689,7 +8689,7 @@ forthgo
 ferreling 1
 footcandle
 foxings
-furlong
+furlong 1
 febrifuge
 fissility
 frankhearted
