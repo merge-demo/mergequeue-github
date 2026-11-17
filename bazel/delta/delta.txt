@@ -2870,7 +2870,7 @@ diskos
 discretively
 disposure
 dangle
-disjointedness
+disjointedness 1
 doveling
 disgenius
 deepest
