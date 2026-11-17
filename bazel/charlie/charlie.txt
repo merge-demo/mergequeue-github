@@ -14263,7 +14263,7 @@ christmases
 circumnavigable
 circumnavigate
 champers
-circumnavigates
+circumnavigates 1
 corollike
 circumnavigating
 circumnavigation
