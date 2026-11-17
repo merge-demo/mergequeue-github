@@ -5943,7 +5943,7 @@ freakiness
 fichtean
 foggers
 falstaffian
-flatwash
+flatwash 1
 foreworld 1
 floodgates
 fiercest
