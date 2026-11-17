@@ -9727,7 +9727,7 @@ antirabic
 actinical
 alwite
 arrogator
-amaas
+amaas 1
 apocalypticism
 anapestically
 apterygotous
