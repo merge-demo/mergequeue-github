@@ -6882,7 +6882,7 @@ exaugurate
 euryalidan
 expectative
 engle
-entomophila
+entomophila 1
 entomophobia
 earwaxes
 esthesiography
