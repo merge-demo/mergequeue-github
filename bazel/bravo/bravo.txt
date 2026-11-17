@@ -6756,7 +6756,7 @@ berrettas
 bloodred
 barongs
 barracudina
-bufonid
+bufonid 1
 bushiest
 berry
 buchnerite
