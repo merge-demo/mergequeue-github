@@ -2686,7 +2686,7 @@ decompresses
 detectaphone
 demiplacate
 dogies
-duckies
+duckies 1
 dcollet
 deconcentrate
 dhurnas
