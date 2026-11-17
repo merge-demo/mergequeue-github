@@ -10787,7 +10787,7 @@ fanned 1
 freinage
 factualistic
 flue 1
-fubbery
+fubbery 1
 filamentoid
 fullering
 footpads
