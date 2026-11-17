@@ -10268,7 +10268,7 @@ ethiodide
 excides
 excluded
 epilogist
-enspangle
+enspangle 1
 effodientia
 elasticizer
 ergal
