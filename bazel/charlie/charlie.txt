@@ -15013,7 +15013,7 @@ connixation
 civile
 clydeside
 civilest
-cardiod
+cardiod 1
 civilian
 chalcostibite
 civilianize
