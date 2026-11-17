@@ -1514,7 +1514,7 @@ accompanies
 accompanyist
 asperggilla
 aminotransferase
-aphasiac
+aphasiac 1
 arctisca
 accompanimental
 accompli
