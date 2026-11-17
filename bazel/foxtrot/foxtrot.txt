@@ -10719,7 +10719,7 @@ filagree
 fringelike
 faenus
 flam
-flotsams
+flotsams 1
 fideisms
 frumps
 foldboat
