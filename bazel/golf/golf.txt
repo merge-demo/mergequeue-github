@@ -2869,7 +2869,7 @@ genuflects
 glanduliform
 glossiphonidae
 geol
-guilefulness
+guilefulness 1
 ganglionic
 gustavus
 guardsman
