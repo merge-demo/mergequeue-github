@@ -9748,7 +9748,7 @@ amadous
 androkinin
 ahluwalia
 alethiological
-antipyresis
+antipyresis 1
 amoving
 amah
 amahuaca
