@@ -1295,7 +1295,7 @@ bedbug
 bedust
 boleite
 bacterioprecipitin
-beltings
+beltings 1
 bate
 binational
 balanorrhagia
