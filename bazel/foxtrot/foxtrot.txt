@@ -10175,7 +10175,7 @@ frizzy 1
 fizzwater
 foresightedly
 fastings
-fleishig
+fleishig 1
 formalism
 feebly
 farce
