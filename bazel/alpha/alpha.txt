@@ -6426,7 +6426,7 @@ algesthesis
 antivenom
 agrostologic
 antiresonance
-amorado
+amorado 1
 attempering
 alnascharism
 antefixa

@@ -16362,7 +16362,7 @@ dolmens
 defilade
 defrost
 downstrokes
-downtake
+downtake 1
 duodecane
 dewret
 downthrown
