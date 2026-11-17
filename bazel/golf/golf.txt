@@ -7207,7 +7207,7 @@ gony
 grasshopperdom
 gaditan
 greenthumbed
-geotectonics
+geotectonics 1
 give 1
 geocratic
 gape
