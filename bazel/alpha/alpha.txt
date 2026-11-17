@@ -10931,7 +10931,7 @@ abel
 amoebaea
 avowable
 alipata
-artlike
+artlike 1
 affrontiveness
 aquilian
 anapest
