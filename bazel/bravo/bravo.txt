@@ -9916,7 +9916,7 @@ boodle
 budders
 boget
 bedticking
-bordelaise
+bordelaise 1
 bauson 1
 bastardice
 bituminate
