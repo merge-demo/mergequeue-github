@@ -19330,7 +19330,7 @@ corinthians
 cropland
 cavillatory
 conscriptionist
-cosalite
+cosalite 1
 colophonic
 colophons
 coloppe
