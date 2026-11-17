@@ -868,7 +868,7 @@ fluorogenic
 fulicine 1
 formatively
 freshet
-faltboats
+faltboats 1
 falconets
 forzando
 fourchette
