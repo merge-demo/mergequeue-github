@@ -8141,7 +8141,7 @@ crepuscule
 chainless
 counteractions
 crosscheck
-chlortetracycline
+chlortetracycline 1
 chumping
 craspedon
 chainlike
