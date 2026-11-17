@@ -6081,7 +6081,7 @@ emydinae
 ecumenicalism
 erotization 1
 exposer
-evenhandedly
+evenhandedly 1
 eluant
 enfever 1
 edinburgh
