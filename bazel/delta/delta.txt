@@ -1764,7 +1764,7 @@ drof
 deathward
 dikaryon
 ductility
-docent
+docent 1
 downlier
 dispersonify
 deminudity
