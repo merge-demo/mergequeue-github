@@ -9891,7 +9891,7 @@ deuteronomist
 dimeride
 dampproofer
 diosgenin
-dumba
+dumba 1
 dynamic
 diversipedate
 dimerism
