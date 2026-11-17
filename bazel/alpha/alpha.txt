@@ -23981,7 +23981,7 @@ aminolysis
 antiprohibition
 archipelagos
 autoboating
-autobuses
+autobuses 1
 autobusses
 ariettes
 autocall
