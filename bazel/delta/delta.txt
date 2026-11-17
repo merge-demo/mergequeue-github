@@ -2091,7 +2091,7 @@ decalitre
 dunlop
 dinornithid
 disappearance
-diabrotica
+diabrotica 1
 disencumbering
 dinoflagellida
 decurvation
