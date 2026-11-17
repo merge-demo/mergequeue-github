@@ -3087,7 +3087,7 @@ dentaria
 defacer
 dentiscalp
 desole
-delible
+delible 1
 designated
 degradand
 delightfully 1
