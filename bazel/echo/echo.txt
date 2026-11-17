@@ -6058,7 +6058,7 @@ ere
 epiglottises
 enkindles
 edginess
-epiphytotic
+epiphytotic 1
 entrepreneuses
 epistolical
 epistles
