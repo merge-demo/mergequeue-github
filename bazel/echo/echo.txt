@@ -5083,7 +5083,7 @@ effervescently
 epitonic
 etchant
 escritoires
-excipula
+excipula 1
 euthenasia
 extensionally
 echoes
