@@ -8740,7 +8740,7 @@ faultsman
 finchery
 forehands
 flavonols
-fortuitous
+fortuitous 1
 furrieries
 flote
 faussebraie
