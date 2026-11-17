@@ -669,7 +669,7 @@ eclipsed
 equivocacy
 eclipses
 eudaemonistic
-ephraimitic
+ephraimitic 1
 entoparasitic
 epilogate
 eubasidii

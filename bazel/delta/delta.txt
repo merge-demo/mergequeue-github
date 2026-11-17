@@ -8455,7 +8455,7 @@ diamant
 ditrochee
 deflexed
 dooxidize
-dextro
+dextro 1
 decrowns
 daimonology
 decise
