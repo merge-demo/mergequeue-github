@@ -4786,7 +4786,7 @@ endosporously
 emeried
 epencephalon
 extrarhythmical
-emboite
+emboite 1
 erosiveness 1
 enscrolling
 elucubration
