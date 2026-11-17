@@ -12005,7 +12005,7 @@ exclamative
 endolymphic
 epithermally
 excreation
-exclamatory
+exclamatory 1
 exclaves
 excavational
 expensed
