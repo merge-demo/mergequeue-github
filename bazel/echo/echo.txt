@@ -3095,7 +3095,7 @@ emp
 encyclical
 elliot
 educationable
-ergatocracy
+ergatocracy 1
 expropriates
 ellipsograph
 executiveness
