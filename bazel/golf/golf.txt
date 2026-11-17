@@ -6588,7 +6588,7 @@ guazzo
 groyne
 goulan
 ghostwrite
-gingivolabial
+gingivolabial 1
 gynandrian
 gelsemin
 guff

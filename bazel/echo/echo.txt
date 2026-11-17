@@ -8499,7 +8499,7 @@ epulo
 ecphoriae
 eurindic
 explants
-erases
+erases 1
 elongates
 epuration
 exculpable
