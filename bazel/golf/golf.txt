@@ -5409,7 +5409,7 @@ glycaemic
 grimmer
 gremmy
 glimmering
-glimmeringly
+glimmeringly 1
 garveys
 grebo
 glyn
