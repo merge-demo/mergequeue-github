@@ -10472,7 +10472,7 @@ frostbitten
 frosty
 feuillet
 fantasticality
-frostily
+frostily 1
 fluorate
 forwearying
 fordid
