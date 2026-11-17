@@ -16200,7 +16200,7 @@ chargeability
 cathedratical
 counterreligion
 cline
-clines
+clines 1
 caudexes
 clinger
 crankness

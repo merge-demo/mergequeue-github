@@ -9850,7 +9850,7 @@ geckotidae
 guajillo
 gallicism
 gongoresque 1
-gips
+gips 1
 grousy
 gametophagia
 guajiras
