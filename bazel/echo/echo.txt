@@ -2013,7 +2013,7 @@ expeditious
 endmatcher
 excitableness
 epilate
-ektexine
+ektexine 1
 elabor
 epibenthic
 episternite

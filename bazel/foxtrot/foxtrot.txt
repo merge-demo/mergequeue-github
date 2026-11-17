@@ -6806,7 +6806,7 @@ fluidics
 foreshadowing
 ferme
 fiendliness
-frontal
+frontal 1
 flaccidity
 footbeat
 forfalt
