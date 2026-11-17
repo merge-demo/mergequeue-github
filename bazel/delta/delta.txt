@@ -13466,7 +13466,7 @@ disrober
 douzaine
 danseur
 dunnites
-debi
+debi 1
 disrobes
 decrassify
 destroys

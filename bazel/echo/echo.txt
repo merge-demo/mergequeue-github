@@ -4234,7 +4234,7 @@ extrathecal
 emprizes
 epicycloid
 erubescite
-ebbs
+ebbs 1
 enunciative
 eduction
 erotically
