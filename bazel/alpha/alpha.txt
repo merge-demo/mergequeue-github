@@ -13482,7 +13482,7 @@ astigmatic
 azedarac
 annicut
 annidalin
-amphierotic
+amphierotic 1
 accomplish
 antagonisable
 apicifixed
