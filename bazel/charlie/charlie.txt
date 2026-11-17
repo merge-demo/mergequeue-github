@@ -16590,7 +16590,7 @@ choleuria
 cyclothurus 1
 coadmire
 clonking
-clonorchiasis
+clonorchiasis 1
 crypt
 clonorchis
 cardinality
