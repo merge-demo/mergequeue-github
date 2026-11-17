@@ -2384,7 +2384,7 @@ frondage
 feriation
 falsedad
 flinting
-flexors
+flexors 1
 fricandeau
 folksiness
 foredating
