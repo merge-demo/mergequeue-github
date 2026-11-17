@@ -9034,7 +9034,7 @@ fiendship
 feudaries
 flirtational
 flintified
-flux
+flux 1
 fowlfoot
 fared
 faultful
