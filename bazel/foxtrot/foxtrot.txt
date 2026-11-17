@@ -1985,7 +1985,7 @@ fishgig
 fulvid
 feedstock
 fibroserous
-floccosely
+floccosely 1
 firespout
 forerake
 fitched
