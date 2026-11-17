@@ -8468,7 +8468,7 @@ formel
 furiant
 foresinger
 formelt
-ferritic
+ferritic 1
 filmsetter
 fortin
 frondesce
