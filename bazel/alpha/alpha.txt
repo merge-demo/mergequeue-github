@@ -10060,7 +10060,7 @@ amerceable
 asquirm
 ambivalence
 aiger
-ambiversion
+ambiversion 1
 ambivert
 arrect
 amble
