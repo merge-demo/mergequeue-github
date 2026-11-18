@@ -6354,7 +6354,7 @@ flummoxes
 fubsier
 farmhouses
 foppy
-flatlings
+flatlings 1
 flowchart
 flagpole
 fluocerine

@@ -765,7 +765,7 @@ delimitized
 dominicale
 drapeable
 diapnotic
-dermoidal
+dermoidal 1
 dispiteously
 dandis
 discursory
