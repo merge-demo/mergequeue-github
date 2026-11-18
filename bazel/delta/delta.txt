@@ -6499,7 +6499,7 @@ dipeptid
 dentellated
 disqualification
 delignated 1
-disomatous
+disomatous 1
 descendent
 dolichosoma
 dunged
