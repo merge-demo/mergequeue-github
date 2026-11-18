@@ -8837,7 +8837,7 @@ dibbuks
 defied
 donzella
 dybbuks
-diabolo
+diabolo 1
 disjuncture
 dibenzoyl
 depilator
