@@ -1573,7 +1573,7 @@ encampment
 epinasty 1
 envigor
 exogeny
-exaggeratedness
+exaggeratedness 1
 emball 1
 egises
 euosmite
