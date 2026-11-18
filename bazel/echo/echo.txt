@@ -12433,7 +12433,7 @@ elengely
 ea
 entorganism
 exigently
-exhilaratingly
+exhilaratingly 1
 encasserole
 endite 1
 easting
