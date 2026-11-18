@@ -2410,7 +2410,7 @@ deciles
 decylic
 dorsiparous
 deciliter
-druidry
+druidry 1
 destituent
 doodads
 dispelled
