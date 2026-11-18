@@ -7808,7 +7808,7 @@ anconei
 aldolized
 aldolizing
 aldols
-aldose
+aldose 1
 aldoside
 aldosterone
 antonia
