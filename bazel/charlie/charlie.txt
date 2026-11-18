@@ -8245,7 +8245,7 @@ calabrasella
 chalcedonyx
 chalchuite
 chalcidian
-chalcidicum
+chalcidicum 1
 caird 1
 chalcidoid
 conocarp
