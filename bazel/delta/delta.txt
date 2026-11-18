@@ -172,7 +172,7 @@ dressage
 delicates
 doweral
 dirtier
-daedalea
+daedalea 1
 daedaleous
 didromies
 degami

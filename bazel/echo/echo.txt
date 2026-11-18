@@ -908,7 +908,7 @@ extrastate
 electrostrictive
 episedia
 encomiastic
-excommunicators
+excommunicators 1
 endosporous
 eriodictyon
 ectotoxin
