@@ -7182,7 +7182,7 @@ faraon
 fele
 fruitions
 footie
-footier
+footier 1
 frore
 furcraea
 flocoon
