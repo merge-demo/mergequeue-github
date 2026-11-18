@@ -12982,7 +12982,7 @@ adulterator
 astrer
 aquilinity
 assimilable
-athelings
+athelings 1
 alkalisable
 angareeb
 apolitically
