@@ -4840,7 +4840,7 @@ fatagaga
 factorylike
 festinately
 fructiparous
-feasting
+feasting 1
 fascicular
 furnishing
 fodder 1
