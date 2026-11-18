@@ -5632,7 +5632,7 @@ glueman
 granma
 granadilla
 gallinago
-gowkedness
+gowkedness 1
 gasps
 geisenheimer
 grandparentage
