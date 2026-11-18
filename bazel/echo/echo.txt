@@ -4661,7 +4661,7 @@ endarchies
 exuberantness
 elasticizes
 epimerase
-epimerising
+epimerising 1
 eusuchian
 eddies
 excretionary
