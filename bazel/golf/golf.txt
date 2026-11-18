@@ -6796,7 +6796,7 @@ gyrostatics
 genal
 genros
 gondola
-goniums
+goniums 1
 glanis
 garbleable
 gradate
