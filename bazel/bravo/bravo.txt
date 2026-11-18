@@ -12968,7 +12968,7 @@ balawu
 banausic
 bipennated
 bombycillidae
-bandersnatch
+bandersnatch 1
 branchery
 biplicity
 backcountry
