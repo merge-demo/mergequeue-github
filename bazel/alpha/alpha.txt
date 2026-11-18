@@ -6704,7 +6704,7 @@ amorphophyte
 accredits
 aimless
 acropolis
-authorise
+authorise 1
 aimlessly
 amaut
 aimore
