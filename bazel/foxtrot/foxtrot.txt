@@ -8628,7 +8628,7 @@ fingerfishes
 faddishly
 feelers
 felt
-fearfully
+fearfully 1
 fibromucous
 fulup 1
 fringilloid 1
