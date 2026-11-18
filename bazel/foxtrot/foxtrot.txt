@@ -10285,7 +10285,7 @@ floscularian
 faquirs
 flandowser
 fitten
-finary
+finary 1
 folksongs
 fanged
 fingerings
