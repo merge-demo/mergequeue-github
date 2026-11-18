@@ -7922,7 +7922,7 @@ exuccous
 exarchic
 eidola
 enlargement
-ethonone
+ethonone 1
 euphemistic 1
 eclampsia
 enclavement
