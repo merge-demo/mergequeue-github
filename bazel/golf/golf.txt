@@ -7008,7 +7008,7 @@ guldengroschen
 geir
 glossopode
 gallerian
-gunpowdery
+gunpowdery 1
 gapes
 glad
 gossipry
