@@ -12703,7 +12703,7 @@ angelized
 angellike
 auf
 almoravid
-angelolatry
+angelolatry 1
 arthrography
 antiquarism
 apodioxis
