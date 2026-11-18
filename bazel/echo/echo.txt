@@ -1537,7 +1537,7 @@ ethmoid
 endosternum
 exradio
 episcopised
-egoisticalness
+egoisticalness 1
 evoke
 embow
 encarnadine
