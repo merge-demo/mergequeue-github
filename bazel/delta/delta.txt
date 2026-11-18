@@ -5905,7 +5905,7 @@ damsel
 diploptera
 dyscrasy
 depressed
-disaccustomed
+disaccustomed 1
 dandyisms
 dispender
 danicism
