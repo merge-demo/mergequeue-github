@@ -2280,7 +2280,7 @@ barbellula
 bowwood
 belabor
 barbellulate
-boozing
+boozing 1
 blunderings
 blossombill
 bicarbonates
