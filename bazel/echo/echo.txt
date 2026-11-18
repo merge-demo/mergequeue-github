@@ -2214,7 +2214,7 @@ electrographic
 exedrae
 esthesia 1
 epistome
-expanded
+expanded 1
 eldermen
 entailing
 expeditionist
