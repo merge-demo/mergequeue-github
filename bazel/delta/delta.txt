@@ -7446,7 +7446,7 @@ disseised
 detrivorous
 dervish
 damn
-doggereled
+doggereled 1
 doebird
 detrude
 darbha
