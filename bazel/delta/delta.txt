@@ -12766,7 +12766,7 @@ diaschisma
 dislodgment
 docimasy
 doily
-disloyal
+disloyal 1
 disencourage
 dotardly
 drawfiling
