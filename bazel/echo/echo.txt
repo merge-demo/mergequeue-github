@@ -1084,7 +1084,7 @@ epistolic
 echinology
 elective
 edification
-evaluators
+evaluators 1
 exfigure
 earock
 equipoised
