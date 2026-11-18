@@ -13612,7 +13612,7 @@ bemuddle
 bounceback
 blowsy
 bouncier
-batteried
+batteried 1
 barra
 begladding
 binning
