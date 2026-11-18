@@ -10134,7 +10134,7 @@ battue
 beatitudes
 browsers
 blackcaps
-bejeweled
+bejeweled 1
 blanketflower
 borrelia
 barysilite
