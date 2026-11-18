@@ -1664,7 +1664,7 @@ flacourtiaceous
 folksong
 flemer
 forgrow
-fearedly
+fearedly 1
 fadeaways
 frisker
 fearedness
