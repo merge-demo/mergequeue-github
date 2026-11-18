@@ -1668,7 +1668,7 @@ euphuized
 ethylenes
 epiphloedal
 electromerism
-electrotaxis
+electrotaxis 1
 emigr
 ejusdem
 eyeish
