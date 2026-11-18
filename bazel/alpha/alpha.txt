@@ -22150,7 +22150,7 @@ amours
 amoeboid
 anarchically
 abampere
-acreak
+acreak 1
 audiograms
 asthenical
 arpeggiando
