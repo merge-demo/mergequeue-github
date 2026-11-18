@@ -8633,7 +8633,7 @@ clypei
 changes
 changs
 chankings
-channel
+channel 1
 channelbill
 coendou
 couching
