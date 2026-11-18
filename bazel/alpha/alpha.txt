@@ -15841,7 +15841,7 @@ antipyretics
 antipyrin
 accustomedness
 alinota
-antipyrine
+antipyrine 1
 annuli
 aryballoi
 aliseptal
