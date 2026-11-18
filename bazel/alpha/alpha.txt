@@ -14422,7 +14422,7 @@ achromacyte
 anthracomancy
 anthracomarti
 ambulancing
-analepsis
+analepsis 1
 albuminone
 antagonizable
 antiprelatism

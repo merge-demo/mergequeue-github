@@ -3390,7 +3390,7 @@ gynandries
 gospodin
 gethsemanic
 greeks
-gerocomical
+gerocomical 1
 gerodontic
 girlfully
 geobiont
