@@ -22513,7 +22513,7 @@ cinnamyls
 conjunctivas
 caslon
 clings
-cupriferous
+cupriferous 1
 conjunctively
 chersonese
 chimbleys
