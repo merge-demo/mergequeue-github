@@ -132,7 +132,7 @@ basicranial 1
 bedimpled
 bedash
 boolian
-bacin
+bacin 1
 bourne
 banister
 basidiocarp
