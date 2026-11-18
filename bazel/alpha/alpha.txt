@@ -12218,7 +12218,7 @@ abience
 arteriectasia
 affectuous
 allbone
-afacing
+afacing 1
 autositic
 andrewsite
 anchimonomineral
