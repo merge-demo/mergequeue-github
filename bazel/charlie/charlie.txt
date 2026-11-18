@@ -9006,7 +9006,7 @@ condition
 charityless
 caridoid
 cloaks
-comus
+comus 1
 charking
 chiels
 charlady
