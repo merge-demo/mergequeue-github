@@ -4416,7 +4416,7 @@ electrobioscopy
 endoparasite
 environmentally
 encanthis
-expectorations
+expectorations 1
 enfacing
 ensigncies
 endosmometric
