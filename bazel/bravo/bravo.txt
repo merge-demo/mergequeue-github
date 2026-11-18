@@ -7565,7 +7565,7 @@ beweeps
 bombilate
 bastardize 1
 bloodripe
-begiggle
+begiggle 1
 barnacle
 bewhisker
 biplicate
