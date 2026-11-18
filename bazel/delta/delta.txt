@@ -15335,7 +15335,7 @@ dativogerundial
 dissimilatory
 diploglossata
 decarboxylate
-dromic
+dromic 1
 devoutlessly
 dedignation
 displeasureable
