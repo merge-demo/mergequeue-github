@@ -4534,7 +4534,7 @@ famille
 fortread
 finickiest 1
 fictive
-fissirostrate
+fissirostrate 1
 fusser
 fissura
 frugal
