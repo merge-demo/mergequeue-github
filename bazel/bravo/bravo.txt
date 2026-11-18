@@ -5156,7 +5156,7 @@ befouling
 bazookas
 befoulment
 biacuminate
-befraught
+befraught 1
 befreight
 befountained
 borosilicic
