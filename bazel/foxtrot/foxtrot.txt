@@ -4671,7 +4671,7 @@ ferrotungsten
 fulica
 flewit
 freety
-fayettism
+fayettism 1
 filicinean
 fearsome
 flatnose
