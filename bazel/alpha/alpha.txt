@@ -23748,7 +23748,7 @@ auscultates
 athrong
 auscultating
 apism
-auscultation
+auscultation 1
 amphicyrtic
 anagnorises
 auscultatory
