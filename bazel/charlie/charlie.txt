@@ -25641,7 +25641,7 @@ corpulentness
 converginerved
 corpuscularian
 colombian
-confinedness
+confinedness 1
 completed
 corpuscularity
 corpuscule
