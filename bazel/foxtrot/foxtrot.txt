@@ -5060,7 +5060,7 @@ fishline
 fosses
 foveated
 fezes
-freir
+freir 1
 foreseers
 fullmouth
 frsiket
