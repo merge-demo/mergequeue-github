@@ -1176,7 +1176,7 @@ emulsive
 evanished
 educatability
 eident 1
-educatable
+educatable 1
 educatedness
 electrolyzable
 eudiometric
