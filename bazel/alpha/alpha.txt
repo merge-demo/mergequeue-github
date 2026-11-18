@@ -5880,7 +5880,7 @@ archsnob
 agents
 ageometrical
 advisor
-absence
+absence 1
 anophyte
 ages
 altisonant
