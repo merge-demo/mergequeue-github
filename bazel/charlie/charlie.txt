@@ -4517,7 +4517,7 @@ carnalite
 culverin
 carnalize
 counterexposition
-carnalized
+carnalized 1
 carolingian
 confederative
 catapults
