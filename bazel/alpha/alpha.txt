@@ -10782,7 +10782,7 @@ architis
 amlikar
 amlong
 ammelide
-apodemal
+apodemal 1
 apothecary
 ammer
 adductor
