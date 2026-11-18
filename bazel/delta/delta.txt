@@ -12054,7 +12054,7 @@ deacon
 disensanity
 dismayedness
 dunderheaded
-discous
+discous 1
 discontinuity
 doorlike
 ditheist
