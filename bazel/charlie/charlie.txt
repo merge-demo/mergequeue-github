@@ -8752,7 +8752,7 @@ chapelry
 combflower
 chapelries
 cinerins
-chapels
+chapels 1
 chapelward
 chaperno
 custodia
