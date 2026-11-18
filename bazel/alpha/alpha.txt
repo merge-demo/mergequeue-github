@@ -11075,7 +11075,7 @@ ariki
 amovable
 acronarcotic
 abatic
-amove
+amove 1
 achakzai
 amylolytic
 ampangabeite
