@@ -8096,7 +8096,7 @@ funkiest
 flatcar
 fingan
 furify
-foreswore
+foreswore 1
 flavouring
 feeble
 flasklet
