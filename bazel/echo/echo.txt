@@ -7796,7 +7796,7 @@ epigastraeum
 electropneumatic
 expectably
 elementality
-encyclopaedize
+encyclopaedize 1
 engjateigur
 epigastria
 engagement
