@@ -408,7 +408,7 @@ deoppilation
 desiccating
 diversity
 daintiness
-daiquiri
+daiquiri 1
 dingle
 diriment
 diathermia

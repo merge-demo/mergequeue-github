@@ -3946,7 +3946,7 @@ gleeting
 garrisons
 gipsy
 gynaecocratic 1
-geneal
+geneal 1
 gigawatt
 gutser
 glochchidia
