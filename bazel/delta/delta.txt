@@ -7828,7 +7828,7 @@ decapitate
 dutchify
 delthyria
 delates
-dissertationist
+dissertationist 1
 dinoceras
 dogsleds
 deckhands
