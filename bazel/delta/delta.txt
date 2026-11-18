@@ -5607,7 +5607,7 @@ diabolizing
 desmognathae
 deperdite
 diastrophe 1
-deperditely
+deperditely 1
 domain
 distinctest
 deperms
