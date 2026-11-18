@@ -24191,7 +24191,7 @@ choristic
 convocational
 convocationist
 concertantes
-colleterial
+colleterial 1
 compost
 cunning
 convocations
