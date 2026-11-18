@@ -14485,7 +14485,7 @@ cise
 cyclose
 comprisable
 checkrail
-cephaloplegic
+cephaloplegic 1
 ciseaux
 courante
 cising
