@@ -10922,7 +10922,7 @@ flavorful
 flighthead
 forge 1
 flavone
-factorizing
+factorizing 1
 ferreiro
 fub
 foehn
