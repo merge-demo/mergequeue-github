@@ -2796,7 +2796,7 @@ desmogen
 dugal
 dop
 dorsalward
-disharmonize
+disharmonize 1
 decremeter
 dicyemida
 demarches
