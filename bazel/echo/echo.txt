@@ -2852,7 +2852,7 @@ europhium
 eagre
 escars
 elephantoid
-elephantoidal
+elephantoidal 1
 enantiopathy
 estrays
 elettaria
