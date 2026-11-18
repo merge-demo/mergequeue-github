@@ -7419,7 +7419,7 @@ disapproved
 devest
 decarbonylating
 dunness
-digitately
+digitately 1
 dianisidin
 detract
 detractingly
