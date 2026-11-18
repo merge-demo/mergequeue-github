@@ -7841,7 +7841,7 @@ flingdust
 foveolets
 furcellate
 fractionisation
-fungify
+fungify 1
 favorite
 fligged
 focusing
