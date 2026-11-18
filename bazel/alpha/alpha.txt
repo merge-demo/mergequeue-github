@@ -3194,7 +3194,7 @@ aminic
 arachide
 anagrammatising
 antirealism
-affrighting
+affrighting 1
 artamidae
 approvement
 antiaggressively
