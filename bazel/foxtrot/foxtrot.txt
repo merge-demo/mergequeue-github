@@ -4414,7 +4414,7 @@ fealties
 feinschmeckers
 fishes
 filibranchiate
-fascistic
+fascistic 1
 fiancees
 feirie 1
 franchise
