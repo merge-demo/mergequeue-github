@@ -3824,7 +3824,7 @@ emparl
 ethnohistorical
 extolled
 economic
-engrain
+engrain 1
 expletory
 emended
 ecu
