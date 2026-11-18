@@ -1971,7 +1971,7 @@ gruelly
 gaunty
 gypsite
 genealogically
-greywacke
+greywacke 1
 glairs
 garnishments
 glamor
