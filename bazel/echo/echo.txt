@@ -11574,7 +11574,7 @@ evolute
 embrute
 enlighten
 extensiveness
-evolutionism
+evolutionism 1
 epizeuxis
 evolutionistic
 epigenesis
