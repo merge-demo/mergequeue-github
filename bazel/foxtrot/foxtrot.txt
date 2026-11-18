@@ -8642,7 +8642,7 @@ freightless
 filterability
 fourposters
 futharks
-feet
+feet 1
 fuzes
 finites
 forborn
