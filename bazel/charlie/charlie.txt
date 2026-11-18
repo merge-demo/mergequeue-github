@@ -26377,7 +26377,7 @@ curlers
 cotemporanean
 cotemporaneously
 cotemporaries
-clubbable
+clubbable 1
 cozeiest
 circumsaturnian
 continuous
