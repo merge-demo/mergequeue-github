@@ -2513,7 +2513,7 @@ fatihah
 fuzzily
 faldworth
 foremeant
-footsore
+footsore 1
 feudal
 functionize
 fastballs
