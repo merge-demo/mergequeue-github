@@ -5111,7 +5111,7 @@ extraneously
 endocervical
 eccentrically
 enslavers
-eremitic
+eremitic 1
 endochorion
 endochorionic
 engrains
