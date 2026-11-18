@@ -22932,7 +22932,7 @@ anatoxins
 ahriman
 antimodel
 alcoholising
-adverbialize
+adverbialize 1
 ausformed
 anglophiles
 amido
