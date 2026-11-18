@@ -15490,7 +15490,7 @@ drag
 daymen
 diapery
 disbands
-denunciant 1
+denunciant 2
 donator
 detergence
 discodactyl
