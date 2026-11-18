@@ -3308,7 +3308,7 @@ amblychromatic
 anomurous
 agawam
 adactylous
-ametabola
+ametabola 1
 adad
 algesic
 agalawood
