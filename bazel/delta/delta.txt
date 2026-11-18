@@ -11290,7 +11290,7 @@ deadeyes
 dimmable
 discarded
 dulceness
-dalliers
+dalliers 1
 drainageway
 difluoride
 discarding
