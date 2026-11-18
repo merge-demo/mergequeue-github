@@ -1079,7 +1079,7 @@ edible
 expeditive
 embase
 endothelial
-embeddable
+embeddable 1
 epistolic
 echinology
 elective

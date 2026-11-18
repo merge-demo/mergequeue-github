@@ -6676,7 +6676,7 @@ drawarm
 dipneedle
 danders
 deregulates
-deserving
+deserving 1
 diabetics
 diorite
 despisedness
