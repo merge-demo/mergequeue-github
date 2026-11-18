@@ -6801,7 +6801,7 @@ desiredly
 distruster
 desirer
 drachma
-daira
+daira 1
 desires
 dihedrons
 desirous
