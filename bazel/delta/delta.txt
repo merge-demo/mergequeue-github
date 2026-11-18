@@ -9184,7 +9184,7 @@ diptych
 dialyse
 doors
 delobranchiata
-dyeability
+dyeability 1
 denazification
 demilance
 devilman
