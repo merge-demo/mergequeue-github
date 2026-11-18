@@ -31025,7 +31025,7 @@ cuminal
 capitalize
 carbaryl
 cuminic
-cuminol
+cuminol 1
 classes
 cryoplankton
 chry 1

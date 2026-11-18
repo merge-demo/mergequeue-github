@@ -2297,7 +2297,7 @@ flagelliferous
 fenestrae
 foreword
 fenestrated
-feminizing
+feminizing 1
 fanglement
 fistulana
 fatherlessness

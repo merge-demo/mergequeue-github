@@ -9946,7 +9946,7 @@ exoccipital
 electrogenetic
 episodal
 epididymitis
-esophagoptosis
+esophagoptosis 1
 estreat
 excogitable
 estrangelo

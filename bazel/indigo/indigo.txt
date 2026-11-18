@@ -3459,7 +3459,7 @@ ierzy
 iesaagm
 iesasma
 iescfoqwow
-iescs
+iescs 1
 iescw
 iesd
 iesdbwdchr
