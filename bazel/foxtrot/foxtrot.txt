@@ -533,7 +533,7 @@ forfeiter
 factitial
 funambulant
 folium
-falcons
+falcons 1
 falculate
 fawnery
 falcunculus
