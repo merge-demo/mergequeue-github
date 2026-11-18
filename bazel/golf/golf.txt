@@ -6139,7 +6139,7 @@ gnosis
 galenist
 glaserian
 gnotobiosis
-gnotobiotically
+gnotobiotically 1
 galactorrhoea
 gnow
 guttulous
