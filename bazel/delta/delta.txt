@@ -4343,7 +4343,7 @@ dewlap
 descrier
 disburden
 defatigable
-demandingly
+demandingly 1
 demands
 denay
 desyl
