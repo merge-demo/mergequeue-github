@@ -10379,7 +10379,7 @@ chieftainry
 complexify
 chieftainries
 concludendi
-chirring
+chirring 1
 chivalric
 countertendencies
 chieftains
