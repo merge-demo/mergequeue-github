@@ -2647,7 +2647,7 @@ counterstatement
 canfields
 cantillating
 canfuls
-cangan
+cangan 1
 charterist
 cruelhearted
 clumsiness
