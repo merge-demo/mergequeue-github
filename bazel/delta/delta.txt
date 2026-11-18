@@ -11116,7 +11116,7 @@ dotless
 dissertator
 disarticulating
 disarticulation
-detruded
+detruded 1
 disarticulator
 disasinize
 deliciously
