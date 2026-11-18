@@ -17603,7 +17603,7 @@ appendotome
 activist
 astroid
 adjoining
-appentice
+appentice 1
 agrobiological
 adjudges
 adjudgeable
