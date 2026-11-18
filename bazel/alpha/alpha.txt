@@ -14458,7 +14458,7 @@ antiphysical
 avoiding
 anaglyptical
 antimetabolite
-abiotrophy
+abiotrophy 1
 arsenical
 anthratriol
 asymmetry
