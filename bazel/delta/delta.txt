@@ -12944,7 +12944,7 @@ disaffectedness
 differed
 disoperculate
 desmosome
-dicephalous
+dicephalous 1
 demons
 decatholicize 1
 dosimetrician
