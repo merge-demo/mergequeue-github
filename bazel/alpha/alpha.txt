@@ -24995,7 +24995,7 @@ antheriferous
 amphitheatric
 anthroic
 alliterating
-awhile
+awhile 1
 atlatls
 awhir
 awhirl
