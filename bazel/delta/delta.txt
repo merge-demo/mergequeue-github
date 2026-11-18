@@ -14548,7 +14548,7 @@ dollop
 degomme
 distill
 divisional
-diachronicness
+diachronicness 1
 durio
 divisionary
 duplicately
