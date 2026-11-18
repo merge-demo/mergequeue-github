@@ -14814,7 +14814,7 @@ concitizen
 cytoid
 citoyenne
 confiscated
-conscious
+conscious 1
 coadmiring
 cotise
 cephalorhachidian
