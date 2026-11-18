@@ -7148,7 +7148,7 @@ forbathe
 forebroads
 forgottenness
 fredaine
-foosterer
+foosterer 1
 footfarer
 falsework
 footfault
