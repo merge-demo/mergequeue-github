@@ -948,7 +948,7 @@ dures
 darb
 deserters
 darby
-diapnoic
+diapnoic 1
 dependantly
 decerp
 dumpers
