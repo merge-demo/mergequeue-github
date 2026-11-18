@@ -7451,7 +7451,7 @@ doebird
 detrude
 darbha
 diplegic 1
-defrosts
+defrosts 1
 dich
 dermoplasty
 djellab
