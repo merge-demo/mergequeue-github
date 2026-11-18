@@ -10614,7 +10614,7 @@ enthusiasticalness
 ergatandry
 electroendosmose
 electrotherapies
-endorse
+endorse 1
 eucritic
 eudaemon
 eurous
