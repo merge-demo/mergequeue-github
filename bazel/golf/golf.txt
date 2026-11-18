@@ -1541,7 +1541,7 @@ gulfiest
 grandiloquence
 gasometrical
 gearless
-gurt
+gurt 1
 granddaughters
 guara
 gazump
