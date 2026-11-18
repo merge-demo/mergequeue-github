@@ -8855,7 +8855,7 @@ digressing
 dixit
 debilissima
 dibhole
-dioptry
+dioptry 1
 dualized
 diborate
 dibothriocephalus
