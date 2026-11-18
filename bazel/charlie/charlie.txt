@@ -8735,7 +8735,7 @@ convalescency
 crenelle
 chapelgoing
 cockpits
-chapelize
+chapelize 1
 chirpier
 coccolithophorid
 chapellany
