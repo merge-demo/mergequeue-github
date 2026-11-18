@@ -13397,7 +13397,7 @@ expounder
 eulogised
 ems
 enthrong
-evaluative
+evaluative 1
 express
 extralinguistic
 eudaemonical
