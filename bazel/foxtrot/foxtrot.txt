@@ -8127,7 +8127,7 @@ filmiest
 fillister 1
 fathogram
 fumigator
-foretellers
+foretellers 1
 forethrift
 fusel
 fondon
