@@ -10570,7 +10570,7 @@ camelopardid
 characteriser
 chilling
 chillis
-consumerism
+consumerism 1
 calamariales
 chillish
 choes
