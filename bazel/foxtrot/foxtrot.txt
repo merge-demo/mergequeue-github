@@ -6049,7 +6049,7 @@ fluviology
 fibromas
 faeroese
 filippo
-farandine
+farandine 1
 forethoughted
 flewed
 familiarize
