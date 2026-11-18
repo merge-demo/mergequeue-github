@@ -17600,7 +17600,7 @@ coccyxes
 coccyzus
 cocco
 changar
-clallam
+clallam 1
 coccobacilli
 cumins
 cayennes
