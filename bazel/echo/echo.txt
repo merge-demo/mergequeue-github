@@ -13328,7 +13328,7 @@ ephoralty
 exponency
 extrared
 educated
-exponentiates
+exponentiates 1
 eskar
 emilia
 encincture
