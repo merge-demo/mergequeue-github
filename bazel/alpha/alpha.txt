@@ -3305,7 +3305,7 @@ alvina
 autophotograph
 apx
 amblychromatic
-anomurous
+anomurous 1
 agawam
 adactylous
 ametabola
