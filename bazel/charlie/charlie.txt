@@ -25714,7 +25714,7 @@ correspondences
 correspondency
 correspondent
 composedness
-correspondential
+correspondential 1
 correspondently
 citators
 chlormethylic
