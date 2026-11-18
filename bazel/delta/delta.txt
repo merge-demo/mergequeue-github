@@ -11575,7 +11575,7 @@ disconectae
 dosology
 deglamorize
 disconformities
-disconjure
+disconjure 1
 drinkless
 disconnectedness
 diphtheroidal
