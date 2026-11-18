@@ -6105,7 +6105,7 @@ electionary
 eugenic
 eulachon
 elasmosaur
-ebullience
+ebullience 1
 evanesce
 epifauna
 epirrhema
