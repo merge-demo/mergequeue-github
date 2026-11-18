@@ -31296,7 +31296,7 @@ curbside
 curbstone
 curbstoner
 curcas
-curch
+curch 1
 curculio
 curculionidae
 calvatia
