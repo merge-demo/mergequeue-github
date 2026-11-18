@@ -5473,7 +5473,7 @@ exculpations
 eurithermophile
 er
 etatist
-epidia
+epidia 1
 enema
 enthralment
 excrescential
