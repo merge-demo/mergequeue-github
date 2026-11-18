@@ -167,7 +167,7 @@ copellidine
 carbonizable
 cabob
 countervails
-caboceer
+caboceer 1
 cizar
 caboched
 cabocle
