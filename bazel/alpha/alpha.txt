@@ -22300,7 +22300,7 @@ axialities
 autodynamic
 antal
 antifundamentalist
-astride
+astride 1
 averah
 antefixal
 argentoproteinum
