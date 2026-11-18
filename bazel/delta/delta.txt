@@ -2432,7 +2432,7 @@ decimates
 desmohemoblast
 dropkick
 dusken
-dihydronaphthalene
+dihydronaphthalene 1
 decimating 1
 dacrya
 disobediently
