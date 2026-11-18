@@ -14198,7 +14198,7 @@ disutility
 disutilize
 doldrum
 dramatists
-dicer
+dicer 1
 damage
 daboia
 defenselessly
