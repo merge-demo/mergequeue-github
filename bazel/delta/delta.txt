@@ -7932,7 +7932,7 @@ dews
 dowitch
 didapper
 doublets
-delawarean
+delawarean 1
 dex
 dignify
 democritean
