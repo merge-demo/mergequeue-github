@@ -1128,7 +1128,7 @@ glossing
 ganoidian 1
 graptolitoidea
 gaillardia
-geonyctitropic
+geonyctitropic 1
 gutsiest
 geotactically
 grammatolatry
