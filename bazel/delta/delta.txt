@@ -11938,7 +11938,7 @@ diplostemonous
 depthing
 doorba
 defeise
-discompose
+discompose 1
 dramatizes
 downrange
 domes
