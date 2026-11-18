@@ -10928,7 +10928,7 @@ evenwise
 entomologising
 epipteric
 eulogies
-echinops
+echinops 1
 euphuize
 eupyrion 1
 eupittone
