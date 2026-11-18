@@ -14622,7 +14622,7 @@ acrotic
 ambulation
 abacination
 abstractively
-anesthetize
+anesthetize 1
 adapid
 anabaptist
 antiaditis
