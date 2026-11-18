@@ -15823,7 +15823,7 @@ barding
 broking
 bushfighter 1
 brainwash
-battiks
+battiks 1
 broletti
 bi
 broletto
