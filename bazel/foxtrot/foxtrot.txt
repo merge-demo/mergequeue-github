@@ -10908,7 +10908,7 @@ fulgoroidea
 furzier
 fruitist
 forgeful
-footgrip
+footgrip 1
 fi
 foilable
 fiscalizing

@@ -11286,7 +11286,7 @@ aqua
 aperitifs
 actuated
 administratorship
-apiose
+apiose 1
 acropodium
 amphisbaenas
 accordable
