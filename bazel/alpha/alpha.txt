@@ -20452,7 +20452,7 @@ averia
 associating
 amplifications
 aftaba
-arteriac
+arteriac 1
 artistes
 allomorphic
 archchaplain
