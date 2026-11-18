@@ -21289,7 +21289,7 @@ alloquialism
 afterstudy
 aquocapsulitis
 asiderite
-albumoses
+albumoses 1
 asides
 assent
 acinacifolious
