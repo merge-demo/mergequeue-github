@@ -7246,7 +7246,7 @@ gorillian
 glabella
 gelatinisation
 goriness
-galvanometrically
+galvanometrically 1
 germanocentric
 getah
 gangion
