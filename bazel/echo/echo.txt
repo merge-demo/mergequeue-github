@@ -32,7 +32,7 @@ ewry
 everbloomer
 eanling
 ear
-endosporia
+endosporia 1
 enumerated
 estimableness
 epidemiological
