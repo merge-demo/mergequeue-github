@@ -7160,7 +7160,7 @@ epistolising
 enshadow
 exoner
 episterna
-effectuation
+effectuation 1
 envolume
 embarment
 enwall

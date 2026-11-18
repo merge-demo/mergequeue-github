@@ -5926,7 +5926,7 @@ buffaloes
 beltane
 belauding
 bimetalic
-belter
+belter 1
 bufagin
 buyouts
 ballistic
