@@ -7272,7 +7272,7 @@ erysipelothrix
 eulogises
 eorhyolite
 extinguishable
-eos
+eos 1
 earshot
 embetter
 etonian
