@@ -8577,7 +8577,7 @@ favourless 1
 foxhole
 fornication
 forest
-feigner
+feigner 1
 fossilize
 fornicatrix
 fieldman
