@@ -5093,7 +5093,7 @@ baselines
 bowellike
 bejuco
 blazoning
-befittingness
+befittingness 1
 behoof
 boundedness
 beflag
