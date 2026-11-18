@@ -10763,7 +10763,7 @@ generation
 gutbucket
 gonfalonierate
 ganoin
-gloam
+gloam 1
 graminin 1
 gorhen
 gimbals
