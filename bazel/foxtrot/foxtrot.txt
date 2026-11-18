@@ -6821,7 +6821,7 @@ foveiform
 forepretended
 fjelds
 frette
-freeing
+freeing 1
 foraminiferan
 fikery
 feuille
