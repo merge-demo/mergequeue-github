@@ -6391,7 +6391,7 @@ borize
 blas
 booboisie
 brinishness
-burely
+burely 1
 barfy
 benzonaphthol
 benzonitrile
