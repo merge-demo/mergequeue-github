@@ -15542,7 +15542,7 @@ classy
 classicalism
 crossbolted
 classicalist
-classicality
+classicality 1
 chaya
 classicise
 chromophoric
