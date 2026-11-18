@@ -6571,7 +6571,7 @@ entomologic
 engorging
 entendre
 epidermophytosis
-extravagating
+extravagating 1
 exciter
 entente
 erythorbate
