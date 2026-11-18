@@ -5511,7 +5511,7 @@ gloomingly
 garnishment
 gadaria
 gastroparietal
-gazingly
+gazingly 1
 garring
 gloams
 granadillo
