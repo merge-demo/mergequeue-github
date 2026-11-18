@@ -17574,7 +17574,7 @@ coccidology
 coccids
 coccygeal
 coccygean
-cornify
+cornify 1
 coccygectomy
 chiropterophilous
 cyanurate
