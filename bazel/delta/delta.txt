@@ -16384,7 +16384,7 @@ disdain 1
 drunkery
 downwardly
 devourment
-delocalized
+delocalized 1
 dispellable
 dogtrotted
 downgrowth

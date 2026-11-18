@@ -8817,7 +8817,7 @@ antiministerialist
 allivalite
 appeases
 arthropyosis
-anoesia
+anoesia 1
 allobar
 allobaric
 ammonolyses
