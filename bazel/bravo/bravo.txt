@@ -9470,7 +9470,7 @@ brittling
 babingtonite
 biron
 byronesque
-birostrate
+birostrate 1
 byronic
 binocles
 beirut
