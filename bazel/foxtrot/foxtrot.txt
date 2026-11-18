@@ -9272,7 +9272,7 @@ freckling
 fungate
 folious
 frangipani
-framea
+framea 1
 framer
 frames
 frapler
