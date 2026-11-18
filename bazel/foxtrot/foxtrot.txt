@@ -2602,7 +2602,7 @@ filthy
 feoffed
 fancily
 foresheet
-ferromanganese
+ferromanganese 1
 ferrometer 1
 filagreed
 ferronatrite
