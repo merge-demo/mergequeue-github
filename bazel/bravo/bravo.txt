@@ -2437,7 +2437,7 @@ bogles
 bactericidal
 blencher
 bareheadedness
-bareknuckled
+bareknuckled 1
 bdellatomy
 bellabella
 blustery
