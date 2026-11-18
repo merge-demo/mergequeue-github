@@ -15701,7 +15701,7 @@ afterfriend
 amercement
 aurothiosulphate
 antiparallel
-androidal
+androidal 1
 algieba
 anomer
 amphitokous
