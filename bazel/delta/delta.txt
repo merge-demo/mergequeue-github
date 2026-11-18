@@ -3923,7 +3923,7 @@ dekapode
 duo
 dermopathic
 dahlsten
-decan
+decan 1
 dorippid
 dollied
 dekare
