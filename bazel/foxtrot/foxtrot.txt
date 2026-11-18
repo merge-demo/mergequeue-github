@@ -2884,7 +2884,7 @@ frisettes
 fantasize
 fogies
 formicarium
-frabjously
+frabjously 1
 formats
 frouncing
 foaled
