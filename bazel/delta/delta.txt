@@ -1885,7 +1885,7 @@ debones
 deafening
 dobies
 disablement
-deborah
+deborah 1
 daktylos
 deicate
 deboss
