@@ -21785,7 +21785,7 @@ alfoncino
 argenticyanide
 alish
 archiphoneme
-apsidally
+apsidally 1
 amalaita
 assertress
 annunciator
