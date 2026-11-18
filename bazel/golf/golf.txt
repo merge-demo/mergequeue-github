@@ -5964,7 +5964,7 @@ geodesics
 gazogenes
 galactopathy
 grubs
-ginkgoes
+ginkgoes 1
 geoemtry 1
 gastroparesis
 garreted
