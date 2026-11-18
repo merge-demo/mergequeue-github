@@ -1141,7 +1141,7 @@ eupyrchroite
 enation
 eponymism
 equivalved
-eupatrid
+eupatrid 1
 easefulness
 editorship
 editorships
