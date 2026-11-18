@@ -14272,7 +14272,7 @@ dithionous
 dephilosophize 1
 devotionate
 depaganize
-demarcature
+demarcature 1
 dithyrambs
 dithyrambus
 dominicker
