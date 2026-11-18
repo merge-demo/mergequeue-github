@@ -13114,7 +13114,7 @@ bleedings
 bornane
 bornean
 belows
-borneol
+borneol 1
 borneols
 belaced
 bovids

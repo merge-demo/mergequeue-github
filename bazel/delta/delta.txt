@@ -6305,7 +6305,7 @@ dermatosclerosis
 dermatoses
 devulcanize
 dermatosiophobia
-diselder
+diselder 1
 depurated
 dermatozoon
 deadens
