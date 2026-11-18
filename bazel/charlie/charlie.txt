@@ -1028,7 +1028,7 @@ calathidia
 chamberlainship
 calathiform
 calathiscus
-calathos
+calathos 1
 crapshooter
 cyrilla
 capsulated
