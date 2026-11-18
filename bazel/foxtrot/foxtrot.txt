@@ -9698,7 +9698,7 @@ foreigns
 fideicommissum
 firmly
 firebrat
-frenatae
+frenatae 1
 frenched
 futuramic
 furiously
