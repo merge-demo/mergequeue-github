@@ -1445,7 +1445,7 @@ fatuitous
 foothil
 familiarise
 floorwalkers
-fringing
+fringing 1
 fetched
 fatuoid
 fatuus
