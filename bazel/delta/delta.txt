@@ -15515,7 +15515,7 @@ dacryostenosis
 dihydrocuprin
 dispendious
 duopolies
-dismalness
+dismalness 1
 diabolism 1
 despicability
 dendral
