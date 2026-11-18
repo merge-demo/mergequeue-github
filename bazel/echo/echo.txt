@@ -380,7 +380,7 @@ entelodont
 eighteenfold
 educ
 exoneural
-enterorrhea
+enterorrhea 1
 epicalyxes
 ebionite
 ebionitism
