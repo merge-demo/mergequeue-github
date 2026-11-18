@@ -3806,7 +3806,7 @@ goosepimply
 gibbous
 gentilesse
 ganching
-gloriously
+gloriously 1
 gelastocoridae
 gnattier
 gemmates
