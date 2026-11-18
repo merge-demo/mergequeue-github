@@ -16213,7 +16213,7 @@ disinherit
 dowf 1
 daren
 dextroamphetamine 1
-dermatotherapy
+dermatotherapy 1
 dowsets
 densitometer
 dowitchers
