@@ -12841,7 +12841,7 @@ ageings
 arrangements
 antihysteric
 anatomisation
-anagram
+anagram 1
 athenaea
 aquarter
 anathematizes
