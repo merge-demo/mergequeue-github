@@ -4486,7 +4486,7 @@ abysses
 adventively
 apaesthesia
 automobilism
-amounting
+amounting 1
 acrography
 adventual
 agromyzidae
