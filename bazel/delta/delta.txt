@@ -1647,7 +1647,7 @@ disassembler
 deallocate
 deobstruct
 devotional
-daunter
+daunter 1
 dicephalus
 darkhaired
 deerhair
