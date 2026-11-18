@@ -861,7 +861,7 @@ danke
 drycoal
 dawted
 defix
-dubiosity
+dubiosity 1
 devoicing
 decalcification
 dowered
