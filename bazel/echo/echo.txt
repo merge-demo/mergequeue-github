@@ -1011,7 +1011,7 @@ edder
 epiphora
 euphonism
 educationary 1
-electropolar
+electropolar 1
 escargot
 edemas
 exinite
