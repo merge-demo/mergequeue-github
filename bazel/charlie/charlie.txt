@@ -8433,7 +8433,7 @@ carpal
 chamian
 chamisal
 chamise
-chamises
+chamises 1
 chamiso
 chamlet
 chamm
