@@ -9460,7 +9460,7 @@ digue
 diplanetism
 daydreamers
 digeny
-diamorphosis
+diamorphosis 1
 deducibleness
 denoted
 demiplate
