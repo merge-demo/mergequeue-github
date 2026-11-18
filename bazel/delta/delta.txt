@@ -8345,7 +8345,7 @@ droopingness
 diplois
 dejerate
 dargue
-daemonies
+daemonies 1
 disruptable
 dioestrum
 disincline
