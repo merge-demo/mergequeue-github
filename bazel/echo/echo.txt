@@ -5903,7 +5903,7 @@ extrazodiacal
 epigramme
 exacerbescence
 epidendral
-exsiccate
+exsiccate 1
 engrossedly
 engrosser
 endocarditic
