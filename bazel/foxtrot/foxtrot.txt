@@ -8099,7 +8099,7 @@ furify
 foreswore
 flavouring
 feeble
-flasklet
+flasklet 1
 factorist
 fumacious
 farceur 1
