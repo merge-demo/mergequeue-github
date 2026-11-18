@@ -6520,7 +6520,7 @@ excludable
 englerophoenix
 estimative 1
 execration
-ephemeric
+ephemeric 1
 englishes
 ephemeris 1
 egomaniacal
