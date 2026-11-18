@@ -5497,7 +5497,7 @@ fossed
 fretwork
 forbarred
 fratching
-foraged
+foraged 1
 fleshy 1
 fillet
 ferally
