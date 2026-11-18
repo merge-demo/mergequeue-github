@@ -2744,7 +2744,7 @@ fragmentarily 1
 fellinic
 fesses
 flaunche
-facetiation
+facetiation 1
 friendlily
 festally
 festellae
