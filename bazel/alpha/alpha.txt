@@ -19726,7 +19726,7 @@ antinihilistic
 arithmancy
 arenose
 anticommerciality
-accelerations
+accelerations 1
 autophthalmoscope
 ammonium
 astrobiological
