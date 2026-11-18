@@ -8217,7 +8217,7 @@ forage
 funicles
 fauvists
 fruticulose
-florence
+florence 1
 forfending
 fundulinae
 fringes
