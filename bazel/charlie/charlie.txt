@@ -18554,7 +18554,7 @@ coiffeuses
 coiffured
 ceroxylon
 coiffures
-coiffuring
+coiffuring 1
 coifing
 coeducate 1
 conner
