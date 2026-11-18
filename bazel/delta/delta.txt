@@ -14284,7 +14284,7 @@ ditokous
 dichrooscope
 dibasic
 ditolyl
-ditremid
+ditremid 1
 disharmonies
 diffusiveness
 despectant
