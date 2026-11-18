@@ -5129,7 +5129,7 @@ compeller
 chondrectomy
 caseharden
 capsaicin
-callosity
+callosity 1
 casehardening
 candida
 casey
