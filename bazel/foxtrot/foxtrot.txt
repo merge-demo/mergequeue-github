@@ -11148,7 +11148,7 @@ fingerhold
 funeralize
 footnoted
 ferulae
-featurally
+featurally 1
 flowerbed
 flintwork
 forefather
