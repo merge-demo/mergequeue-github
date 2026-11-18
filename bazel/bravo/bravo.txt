@@ -12071,7 +12071,7 @@ boites
 baltetei
 balladier
 bojo
-bokhara
+bokhara 1
 baronized
 boronic
 bokharan
