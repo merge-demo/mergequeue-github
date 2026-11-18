@@ -10383,7 +10383,7 @@ fronting
 fizzle
 focus
 furoid
-feedable
+feedable 1
 feared
 frangipanis
 fatalist
