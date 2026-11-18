@@ -17798,7 +17798,7 @@ ducking
 dashnakist
 ducklet
 ducklings
-deputator
+deputator 1
 duckmeat
 duckpin
 desalinate
