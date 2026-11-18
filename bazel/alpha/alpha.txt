@@ -10995,7 +10995,7 @@ arresters
 amoralist
 amorally
 adminstration
-actinomorphy
+actinomorphy 1
 aesthiology
 amorettos
 attainer
