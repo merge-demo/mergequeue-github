@@ -21998,7 +21998,7 @@ colicin
 confirmed
 confirmedness
 corticostriate
-confirmer
+confirmer 1
 cibarious
 coalrake
 cinquedea
