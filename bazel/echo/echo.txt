@@ -11911,7 +11911,7 @@ enhypostatic 1
 entrepreneurship
 epiphytes
 emissivity
-exceptless
+exceptless 1
 emends
 eightfoil
 engore

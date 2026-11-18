@@ -1952,7 +1952,7 @@ fone
 foursquarely
 feds
 feeb
-feeblemindedly
+feeblemindedly 1
 femaleness
 flowerlike
 festshrifts
