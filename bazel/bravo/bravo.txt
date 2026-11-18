@@ -12284,7 +12284,7 @@ blanquillo
 bombinae
 backwardly
 boltwork
-bolus
+bolus 1
 bomb
 barratrous
 bombacaceae
