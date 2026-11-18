@@ -5800,7 +5800,7 @@ empressements
 epigraphy
 expressions
 englobed
-enneahedral
+enneahedral 1
 envelopment
 extirp
 englut
