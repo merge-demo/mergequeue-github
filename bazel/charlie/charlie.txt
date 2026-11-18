@@ -7784,7 +7784,7 @@ certose
 certosina
 canewares
 certosino
-cerulean
+cerulean 1
 ceruleans
 cerulein
 cache
