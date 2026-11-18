@@ -6103,7 +6103,7 @@ divinising
 decurring
 dictyostele
 diatheses
-decompound
+decompound 1
 dizened
 deraigning
 divest
