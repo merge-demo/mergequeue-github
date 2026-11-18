@@ -5512,7 +5512,7 @@ garnishment
 gadaria
 gastroparietal
 gazingly
-garring
+garring 1
 gloams
 granadillo
 glutinously
