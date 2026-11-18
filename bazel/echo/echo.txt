@@ -11567,7 +11567,7 @@ estrange
 endites
 evernia
 expressman 1
-equipartisan
+equipartisan 1
 evoking
 empetraceous
 evolute
