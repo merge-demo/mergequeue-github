@@ -12369,7 +12369,7 @@ chromatographically
 cuticularize
 chromatolysis
 contrastably
-conquerable
+conquerable 1
 chromatolytic
 chromatologies
 chromatopathy
