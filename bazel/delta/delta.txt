@@ -18507,7 +18507,7 @@ diacritic
 duration
 durations
 durbachite
-dissimulating
+dissimulating 1
 dustwoman
 diocesans
 decolonisation 1
