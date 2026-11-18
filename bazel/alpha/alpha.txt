@@ -17547,7 +17547,7 @@ appellations
 alabastrites
 apesthetize
 appellatived
-appellativeness
+appellativeness 1
 arriccioci
 appellee
 appellor
