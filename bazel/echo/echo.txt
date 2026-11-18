@@ -9142,7 +9142,7 @@ exumbrella
 esrog
 ermanrich
 endotheca
-entailer
+entailer 1
 epizoarian
 equiponderancy
 ermiline
