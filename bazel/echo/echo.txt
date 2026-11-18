@@ -4066,7 +4066,7 @@ evangelised
 encyclopaedism
 embroils
 epitheca
-enamelers
+enamelers 1
 ecstasize
 exterminated
 empiricalness
