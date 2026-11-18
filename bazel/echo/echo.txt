@@ -7637,7 +7637,7 @@ elne
 exactest
 extrafascicular
 extratelluric
-epicondylic
+epicondylic 1
 erected
 epoptist
 equichangeable
