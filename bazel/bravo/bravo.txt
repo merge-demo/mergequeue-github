@@ -12995,7 +12995,7 @@ bombazine
 balanid
 boracite
 boracous
-borage
+borage 1
 bruchidae
 bueno
 barbecued
