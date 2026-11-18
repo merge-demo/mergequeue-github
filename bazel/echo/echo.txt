@@ -6152,7 +6152,7 @@ entheos
 evelyn 1
 ergoplasm
 excommunicant
-entozoans
+entozoans 1
 epicentre
 eaved
 earlywood
