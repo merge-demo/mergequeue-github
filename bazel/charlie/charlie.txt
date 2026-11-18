@@ -5502,7 +5502,7 @@ commorancy
 catabolin
 catabolism
 catabolite
-catabolized
+catabolized 1
 claim
 counterwrite
 congaing
