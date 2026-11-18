@@ -13329,7 +13329,7 @@ exponency
 extrared
 educated
 exponentiates
-eskar
+eskar 1
 emilia
 encincture
 exponention
