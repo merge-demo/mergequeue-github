@@ -9512,7 +9512,7 @@ digged
 deuterostome
 demonstrational
 dighted
-dighter
+dighter 1
 donatives
 digraphic
 dynamogeny
