@@ -6733,7 +6733,7 @@ filipina
 fremt
 fomalhaut
 folliculin
-fanny
+fanny 1
 fuchsinophil
 featherbed
 fluorescent
