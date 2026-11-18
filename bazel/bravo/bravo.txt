@@ -1456,7 +1456,7 @@ blanchingly
 banig
 breathtaking
 beryllonite
-balker
+balker 1
 bastardise
 balkiest
 byronize
