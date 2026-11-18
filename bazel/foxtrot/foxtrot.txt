@@ -3763,7 +3763,7 @@ fibers
 flambeing
 folliculina
 fertilizability
-funnily
+funnily 1
 flippantness
 faultlessly
 fortressed
