@@ -8095,7 +8095,7 @@ foveolae
 funkiest
 flatcar
 fingan
-furify
+furify 1
 foreswore
 flavouring
 feeble
