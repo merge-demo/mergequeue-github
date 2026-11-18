@@ -12474,7 +12474,7 @@ deracinate
 declassifying
 doubtably
 dertrum
-damageableness
+damageableness 1
 dancette
 dexterity
 defy
