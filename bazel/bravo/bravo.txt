@@ -2024,7 +2024,7 @@ bristly
 biophysicist
 banknotes
 brasserie
-bedeguar
+bedeguar 1
 buffoonesque
 bicollaterality
 bankrolled
