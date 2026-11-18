@@ -8748,7 +8748,7 @@ chapelling
 commonplaces
 chapelmaster
 colonises
-chapelry
+chapelry 1
 combflower
 chapelries
 cinerins
