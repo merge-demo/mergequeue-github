@@ -16425,7 +16425,7 @@ dozzle
 dozzled
 dr
 draba
-disassembles
+disassembles 1
 drabant
 draughthouse
 dextrotartaric
