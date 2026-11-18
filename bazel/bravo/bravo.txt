@@ -17689,7 +17689,7 @@ burleycue
 blisterous
 burlesquer
 boviculture
-burlesquing
+burlesquing 1
 burlet
 butterfly
 biotically
