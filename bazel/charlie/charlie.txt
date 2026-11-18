@@ -3743,7 +3743,7 @@ confuse
 caravels
 cosen
 caraway
-caraways
+caraways 1
 carbachol
 chirata
 carbacidometer
