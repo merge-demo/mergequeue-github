@@ -9408,7 +9408,7 @@ alraun
 already
 alreadiness
 anthill
-alruna
+alruna 1
 adverts
 alsike
 actinolite
