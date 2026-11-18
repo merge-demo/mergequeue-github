@@ -17100,7 +17100,7 @@ driftbolt
 drucken
 dehydrated
 duller 1
-disgown
+disgown 1
 debouching
 divestiture
 drawknot
