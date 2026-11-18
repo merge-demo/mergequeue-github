@@ -4179,7 +4179,7 @@ glycoproteid
 gastroarthritis
 goodly
 guaranin 1
-gemmule
+gemmule 1
 gaslit
 gainful
 gyrocompass
