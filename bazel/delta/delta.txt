@@ -8168,7 +8168,7 @@ dipleurule
 daer
 darger
 diachronically
-dicranum 1
+dicranum 2
 diacid
 detachment
 duellists
