@@ -9916,7 +9916,7 @@ ectrodactylous
 epideictical
 extensionist
 electromagnetics
-exude
+exude 1
 exoculated
 enskies
 extravertive
