@@ -22612,7 +22612,7 @@ carpostome
 conniptions
 connivance
 connivancy
-connivantly
+connivantly 1
 concertanti
 chug
 clinker
