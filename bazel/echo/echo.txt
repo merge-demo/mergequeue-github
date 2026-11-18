@@ -2451,7 +2451,7 @@ essentialize
 evoker
 electroendosmosis
 encipher
-epoist
+epoist 1
 enslavements
 exquisiteness
 exterminist 1
