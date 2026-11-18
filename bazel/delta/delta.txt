@@ -12146,7 +12146,7 @@ diffide
 dynamoelectrical
 defuzing
 disexcommunicate
-detrition
+detrition 1
 decalin
 duckiest
 deprecation
