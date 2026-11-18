@@ -24525,7 +24525,7 @@ connascent
 chromatodysopia
 cope
 cappers
-capillus
+capillus 1
 coetaneously
 copehan
 copeia
