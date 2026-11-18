@@ -12150,7 +12150,7 @@ excursionist
 excursiveness
 enterate
 excurvated
-extrados
+extrados 1
 emphysematous
 esclavage
 energise
