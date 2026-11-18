@@ -12077,7 +12077,7 @@ excrementive
 extrasensory
 enfolder
 excrescency
-eriophyid
+eriophyid 1
 eccentric
 eris
 enfoldment
