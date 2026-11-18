@@ -4190,7 +4190,7 @@ delocalize
 dermoreaction
 decrustation
 dretch
-dextrorotatary
+dextrorotatary 1
 denigrators
 dicyclica
 discharger
