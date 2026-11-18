@@ -14394,7 +14394,7 @@ anglicizing
 amphistomous
 awful
 acolyte
-anthotaxis
+anthotaxis 1
 andries
 analgetic
 assortatively

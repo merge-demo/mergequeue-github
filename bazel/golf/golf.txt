@@ -5949,7 +5949,7 @@ gauzier
 gutless
 gestapo
 grayness
-goss
+goss 1
 glumosity
 gondang
 gonopodia
