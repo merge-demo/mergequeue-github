@@ -16287,7 +16287,7 @@ autoregenerator
 anthochlor
 antitobacconist
 auscultative
-antitonic
+antitonic 1
 artistical
 autoneurotoxin
 annuity
