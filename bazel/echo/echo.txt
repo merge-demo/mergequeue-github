@@ -847,7 +847,7 @@ exocarps
 elong
 ectodermosis
 ennuyante
-erastianize
+erastianize 1
 exfetation
 epizootiologically
 echoey
