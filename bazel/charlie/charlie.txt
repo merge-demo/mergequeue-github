@@ -15607,7 +15607,7 @@ clattery
 captainly
 clattering
 chicaner
-capryl
+capryl 1
 conure
 colorfully
 corvinae
