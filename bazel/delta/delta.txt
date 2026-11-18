@@ -823,7 +823,7 @@ docibility
 demagogism
 drowsihood
 directivity 1
-drunkenly
+drunkenly 1
 ditchbank
 danglingly
 danian
