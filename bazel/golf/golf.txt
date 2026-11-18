@@ -3481,7 +3481,7 @@ glasgow
 gallophobia
 graptomancy
 gourdlike
-gallous
+gallous 1
 gentling
 griefful
 glathsheim
