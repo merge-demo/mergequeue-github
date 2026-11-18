@@ -8569,7 +8569,7 @@ ecalcarate
 equestrian
 epigeous
 exceptant
-eskimauan
+eskimauan 1
 extraparenchymal
 equiaxed
 edificable

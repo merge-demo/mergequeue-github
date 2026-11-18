@@ -23623,7 +23623,7 @@ contoured
 copestone
 cleping
 chivvies
-courteous
+courteous 1
 contr
 contrabandage
 contrabandery
