@@ -6986,7 +6986,7 @@ guaniferous
 greystone
 gebanga
 guirlande
-gauntries
+gauntries 1
 gushiest
 genevoise
 gynosporangium
