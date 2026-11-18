@@ -26,7 +26,7 @@ dodkin
 dependance
 dabs
 dabsters
-desalinates
+desalinates 1
 deediest
 disgeneric
 dachas
