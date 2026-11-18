@@ -8482,7 +8482,7 @@ ginglymoarthrodial
 gleyde
 gilders
 grivets
-glaze
+glaze 1
 glands
 golfing
 graveclod
