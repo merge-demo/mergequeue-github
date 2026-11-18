@@ -6627,7 +6627,7 @@ apterous
 antivermicular
 augustal
 anathematize
-aquinas
+aquinas 1
 aldeament
 antidomestically
 atnah
