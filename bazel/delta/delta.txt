@@ -7949,7 +7949,7 @@ diaplex
 dashers
 dextrad
 dextral
-directed
+directed 1
 dextran
 dextranase
 doublelunged
