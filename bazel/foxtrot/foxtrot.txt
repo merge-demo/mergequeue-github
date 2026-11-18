@@ -7768,7 +7768,7 @@ foremen
 fanbearer
 ferroprussic
 fruitwise
-fractionize
+fractionize 1
 flyflower
 fabliau
 fogyish
