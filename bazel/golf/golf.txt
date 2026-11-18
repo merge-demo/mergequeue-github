@@ -1581,7 +1581,7 @@ gismos
 gondoliere
 globicephala
 gymnura
-gauntlet
+gauntlet 1
 gutteral
 gulanganes
 galleria
