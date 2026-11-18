@@ -11849,7 +11849,7 @@ erythrophore
 euconic
 excandescent
 explemental 1
-erythrochroic
+erythrochroic 1
 endocrinopathy
 eulogized
 expenders
