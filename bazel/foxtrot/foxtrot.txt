@@ -8754,7 +8754,7 @@ freddo
 forbiddable
 flogged
 followership
-fortuuned
+fortuuned 1
 forester
 fossule
 fiddlers
