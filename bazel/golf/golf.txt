@@ -5766,7 +5766,7 @@ grumes
 gloomy 1
 grapsoid
 gymnoplast
-gossypose
+gossypose 1
 gonotheca
 gravemaker
 galera

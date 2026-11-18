@@ -4050,7 +4050,7 @@ duologue
 deliberateness
 dismalest
 deposited
-disvantage
+disvantage 1
 delicate
 disposingly
 delicately
