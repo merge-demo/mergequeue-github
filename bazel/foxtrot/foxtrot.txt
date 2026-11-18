@@ -5139,7 +5139,7 @@ fellas
 flashover
 frivolous
 fawns
-fructure
+fructure 1
 flasker
 furless
 foretooth
