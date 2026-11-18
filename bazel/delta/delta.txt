@@ -18351,7 +18351,7 @@ degelation
 dyestuff
 diallelon
 duodene
-duodenitis
+duodenitis 1
 denominationalism
 dismantled
 departmentalizes
