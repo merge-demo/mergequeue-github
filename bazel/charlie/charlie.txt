@@ -7741,7 +7741,7 @@ cerosin
 cerote
 chastises
 cerotin
-chorogi
+chorogi 1
 cerotypes
 confirmedly
 cerous
