@@ -7590,7 +7590,7 @@ gaumy
 gyrus 1
 gheraoes
 grille
-glycosaemia
+glycosaemia 1
 gambians
 gunfought
 grab
