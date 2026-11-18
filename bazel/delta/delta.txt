@@ -2542,7 +2542,7 @@ declare
 dimers
 dudgen
 drailing
-declaredly
+declaredly 1
 declares
 dimaris
 daneworts
