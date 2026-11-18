@@ -923,7 +923,7 @@ gnashes
 glycaemia
 grumousness
 glucosemia 1
-gawkishness
+gawkishness 1
 gatewise
 gashed
 gibboseness
