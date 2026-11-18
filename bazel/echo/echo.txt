@@ -14059,7 +14059,7 @@ eutectoid
 extravaginal
 electrify
 exteroceptist
-exorcists
+exorcists 1
 echelonment
 exclude
 enquarter
