@@ -2541,7 +2541,7 @@ candlemaker
 candlemaking
 candlemas
 crewel
-childproof
+childproof 1
 cacqueteuse
 candlenut
 candlepins

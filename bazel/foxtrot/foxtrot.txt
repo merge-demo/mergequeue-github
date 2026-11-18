@@ -10594,7 +10594,7 @@ foiling
 foilsman
 filaceous
 fusht
-furtive
+furtive 1
 famular
 finched
 fructuate
