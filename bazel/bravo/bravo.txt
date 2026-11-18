@@ -2156,7 +2156,7 @@ baptistic
 breakbone
 behaviourist
 balliage
-baptistry
+baptistry 1
 brazils
 bitingly
 broncos
