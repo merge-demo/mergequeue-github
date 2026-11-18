@@ -17120,7 +17120,7 @@ bifold
 beseeming
 bullfighters
 beglare
-burliness
+burliness 1
 brimfully
 bullfinches
 bullflower
