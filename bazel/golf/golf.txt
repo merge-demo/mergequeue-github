@@ -3560,7 +3560,7 @@ gymnorhina
 geomagnetist
 gluconeogenesis
 grugru
-gunslinging
+gunslinging 1
 grinded
 geo
 glunched
