@@ -2031,7 +2031,7 @@ diplococcal
 daucus
 decagonally
 detenus
-dothidella
+dothidella 1
 daimen
 duplicitas
 dichloramin
