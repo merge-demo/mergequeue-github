@@ -1329,7 +1329,7 @@ caliburno
 colossuses
 crawfished
 calycanthin
-cantador
+cantador 1
 carious
 cryptogrammatist
 chaucer
