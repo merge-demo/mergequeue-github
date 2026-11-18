@@ -10954,7 +10954,7 @@ disadvancing
 disbursals
 disadvantageousness
 deminude
-disadvising
+disadvising 1
 dysaesthesia
 dropvie 1
 dendrogaean
