@@ -9302,7 +9302,7 @@ bayldonite
 bifolia
 bloviating
 beany 1
-bawdry
+bawdry 1
 baldricked
 buzuki
 birational
