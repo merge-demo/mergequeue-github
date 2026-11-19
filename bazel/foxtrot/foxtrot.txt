@@ -3494,7 +3494,7 @@ fibbed
 figshell
 foe
 flankard
-fury
+fury 1
 ficins
 fordays
 floorhead
