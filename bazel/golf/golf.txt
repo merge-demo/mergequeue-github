@@ -7315,7 +7315,7 @@ gutturally
 guze
 gravelling
 gangly 1
-goar
+goar 1
 gymnosophy
 genys 1
 gaseity
