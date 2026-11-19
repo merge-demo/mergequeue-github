@@ -19754,7 +19754,7 @@ capturer
 corotation
 caesiums
 chromatism
-copolymers
+copolymers 1
 combustible
 cornloft
 chambellan
