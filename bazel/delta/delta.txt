@@ -13468,7 +13468,7 @@ danseur
 dunnites
 debi
 disrobes
-decrassify
+decrassify 1
 destroys
 disrobing
 disroost
