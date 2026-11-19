@@ -1675,7 +1675,7 @@ anorganic 1
 alkalimeter
 arank
 ambiguously
-aphidid
+aphidid 1
 acculturation
 acculturize
 anarchoindividualist
