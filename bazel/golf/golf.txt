@@ -7698,7 +7698,7 @@ glaringness 1
 getter
 gynandrophore 1
 gaspy
-gaw
+gaw 1
 gemutlich
 gerontism
 gest
