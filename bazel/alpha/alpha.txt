@@ -12105,7 +12105,7 @@ anatase
 ardebs
 anatases
 ancestress
-apogamically
+apogamically 1
 aspartate
 anathematical
 anathematisation
