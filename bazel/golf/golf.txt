@@ -2339,7 +2339,7 @@ garlandage
 gelated
 gorgets
 gustfulness
-gymnics
+gymnics 1
 geographism
 gelees
 geologist
