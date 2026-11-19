@@ -9547,7 +9547,7 @@ gastrocentrous
 greets
 geldability
 grouts
-grouze
+grouze 1
 gelatined
 glume
 gastornithidae
