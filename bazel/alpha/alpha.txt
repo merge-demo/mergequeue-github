@@ -19186,7 +19186,7 @@ arctosis
 ager
 acetylasalicylic
 allituric
-arctostaphylos
+arctostaphylos 1
 alick
 askers
 arcuale
