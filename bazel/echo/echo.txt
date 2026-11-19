@@ -5606,7 +5606,7 @@ equuleus
 embryulcus
 enflower
 essexite
-evaporate
+evaporate 1
 ectognatha
 equalization
 epidendrum
