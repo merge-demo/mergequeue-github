@@ -4754,7 +4754,7 @@ galactite
 glick 1
 genethliatic
 gendarme
-giantlike
+giantlike 1
 gabbroic
 ganglander
 greenwood
