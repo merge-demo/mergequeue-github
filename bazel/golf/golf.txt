@@ -9261,7 +9261,7 @@ glowworm
 guts
 grizzly
 gunsel
-gaugeably
+gaugeably 1
 grizzling
 groaned
 ghosts
