@@ -3765,7 +3765,7 @@ developers
 disour
 dehorns
 decaudate
-dioptometry
+dioptometry 1
 doughlike
 dehorted
 defatigate
