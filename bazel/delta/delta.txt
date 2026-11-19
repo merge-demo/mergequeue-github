@@ -1465,7 +1465,7 @@ dihydrosphingosine
 domical
 deltation
 dietotoxicity 1
-dawtit
+dawtit 1
 dawts
 damages
 disbarred
