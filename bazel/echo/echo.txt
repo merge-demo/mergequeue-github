@@ -1556,7 +1556,7 @@ explication
 epiphysitis
 empaling
 effigiation
-eggnog
+eggnog 1
 exareolate
 embrasures
 eggrolls
