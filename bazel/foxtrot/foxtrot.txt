@@ -491,7 +491,7 @@ fromwards
 fireflies
 foin
 faker
-flaneries 1
+flaneries 2
 fohns
 formicariidae
 flickered
