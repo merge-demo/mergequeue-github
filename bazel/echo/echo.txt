@@ -9343,7 +9343,7 @@ endear
 earable
 eruptivity
 echinuliform
-effierce
+effierce 1
 esbatement
 exercite
 enlock
