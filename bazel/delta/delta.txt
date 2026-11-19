@@ -4078,7 +4078,7 @@ divertila
 delictual
 disobeyed
 delieret
-degrain
+degrain 1
 despicably 1
 divaricate
 dealerships
