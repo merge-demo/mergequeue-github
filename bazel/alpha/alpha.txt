@@ -8871,7 +8871,7 @@ allochroic
 anticosmetic
 aeolodicon
 allochthon
-antlike
+antlike 1
 askant
 ambilevous
 azurous
