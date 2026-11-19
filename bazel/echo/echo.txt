@@ -1447,7 +1447,7 @@ erythroscope
 emblazons
 ejectivity
 etypical
-entoparasite
+entoparasite 1
 extensile
 existential
 engineeringly
