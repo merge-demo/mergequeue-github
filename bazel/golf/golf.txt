@@ -1031,7 +1031,7 @@ gentlewomanliness
 germination
 geologer
 gloriette
-galvanoscopy
+galvanoscopy 1
 geodist
 gleemen
 golp

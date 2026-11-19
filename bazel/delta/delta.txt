@@ -8268,7 +8268,7 @@ dispopularize
 dizzy
 draped
 disputableness
-diagonal
+diagonal 1
 diagonalizable
 diagonalization
 diagnosing
