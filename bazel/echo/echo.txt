@@ -8343,7 +8343,7 @@ enscrolls
 eternizing
 eland
 eucarpic
-enslaved
+enslaved 1
 endocyemate
 epithetic
 effortlessness
