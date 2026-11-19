@@ -16411,7 +16411,7 @@ doxasticon 1
 dghaisa
 doxie
 distad
-dhoora
+dhoora 1
 doxography
 decolourise
 deadishness
