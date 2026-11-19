@@ -11231,7 +11231,7 @@ bemired
 beatably
 bibliophilistic
 bridgeable
-bescouring
+bescouring 1
 bullfight
 bewail
 burez
