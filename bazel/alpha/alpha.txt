@@ -24116,7 +24116,7 @@ autogenies
 applenut
 amenable
 acutate
-accelerating
+accelerating 1
 aureoles
 autunite
 antiresonator
