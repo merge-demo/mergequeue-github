@@ -10370,7 +10370,7 @@ dictronics
 diosmosed 1
 diosmosing
 dispreading
-defenders
+defenders 1
 departures
 detenant
 diospyraceous
