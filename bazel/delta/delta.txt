@@ -13728,7 +13728,7 @@ diaclinal
 disannex
 dissogeny
 doomful
-departmentalize
+departmentalize 1
 dissogony
 downrushing
 devolvements
