@@ -8299,7 +8299,7 @@ dentin
 db
 dracontian
 demivolts
-dispossess 1
+dispossess 2
 droob
 dissimile
 disinvigorate 1
