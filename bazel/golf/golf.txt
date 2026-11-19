@@ -7533,7 +7533,7 @@ gatelike
 goliardery
 greenbone
 gorbellies
-gymnast
+gymnast 1
 governmental
 garageman
 gangman
