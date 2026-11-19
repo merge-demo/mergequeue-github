@@ -2519,7 +2519,7 @@ candite
 curryfavel
 candyweed
 candle
-coehorn
+coehorn 1
 candleball
 candleberries
 candlebomb
