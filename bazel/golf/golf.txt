@@ -1937,7 +1937,7 @@ goalkeepers
 greaseless
 gushy
 greeve
-guttiness
+guttiness 1
 galopades
 glorifiers
 galliards
