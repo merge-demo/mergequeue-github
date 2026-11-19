@@ -21284,7 +21284,7 @@ asiaticize
 advertizement
 assuredly
 aurothiosulphuric
-arcuated
+arcuated 1
 alloquialism
 afterstudy
 aquocapsulitis
