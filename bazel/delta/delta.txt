@@ -15080,7 +15080,7 @@ doghead
 doghood
 doghouse
 dogie
-doglegs
+doglegs 1
 dicycle
 deboshed
 doglike
