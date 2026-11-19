@@ -1313,7 +1313,7 @@ exopeptidase
 effective
 euryphagous
 epimachinae
-entomologists
+entomologists 1
 extrapolating
 episynaloephe
 effectors

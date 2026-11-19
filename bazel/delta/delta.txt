@@ -8884,7 +8884,7 @@ direr
 dicalcium
 dacoits
 dicaryotic
-dicastery
+dicastery 1
 dichotomist
 dicasteries
 dicastic
