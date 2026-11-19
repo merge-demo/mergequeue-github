@@ -16626,7 +16626,7 @@ dragoonable
 dation
 denunciable
 dragoonage
-dragrope
+dragrope 1
 decades
 dexterousness 1
 debiteuse
