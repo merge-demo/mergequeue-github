@@ -2145,7 +2145,7 @@ coadjacence
 campesinos
 campestral
 campground
-consarcinate
+consarcinate 1
 camphane
 camphanone
 camphene

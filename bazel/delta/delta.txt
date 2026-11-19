@@ -6090,7 +6090,7 @@ disannulling
 disintegrant
 diastasic
 dysmenorrhoea
-dream
+dream 1
 dactyliographic
 dequeues
 der
