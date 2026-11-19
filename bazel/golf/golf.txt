@@ -4824,7 +4824,7 @@ glady
 gamophagia
 gursh
 glassen
-glans
+glans 1
 goodwilies
 granate
 guardo
