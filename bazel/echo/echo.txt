@@ -3640,7 +3640,7 @@ eudaemonize
 elatinaceous
 estimators
 enddamaging
-elaeocarpaceous
+elaeocarpaceous 1
 ecocidal
 epitrachelion 1
 embread
