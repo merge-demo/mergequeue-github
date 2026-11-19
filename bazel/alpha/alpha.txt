@@ -23120,7 +23120,7 @@ attemperament
 aizle
 acephalan
 abhenrys
-attempered
+attempered 1
 anaxon
 aleikum
 amblyaphia
