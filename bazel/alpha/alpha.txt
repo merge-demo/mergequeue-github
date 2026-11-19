@@ -20371,7 +20371,7 @@ arsenostyracol
 aldermanlike
 amyous
 admeasure
-austerities
+austerities 1
 apostolicalness
 arcsines
 anticorrosives
