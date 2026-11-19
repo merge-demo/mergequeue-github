@@ -3751,7 +3751,7 @@ chromized 1
 croceines
 cryoprotective
 carbamate
-carbamic
+carbamic 1
 carbamide
 cooperationist
 copunctal
