@@ -23437,7 +23437,7 @@ contemporaneousness
 contemporary
 coalfishes
 calombo
-contemporarily
+contemporarily 1
 contemporising
 contemporize
 contemporized
