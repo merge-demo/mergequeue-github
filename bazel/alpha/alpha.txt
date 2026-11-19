@@ -14520,7 +14520,7 @@ anthropology
 apostrophised
 adapis 1
 anthropometry
-anuloma
+anuloma 1
 anthropometric
 acrocarpi
 allan

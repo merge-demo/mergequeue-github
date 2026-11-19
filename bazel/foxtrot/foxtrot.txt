@@ -9215,7 +9215,7 @@ fragmentariness
 fragmentist
 foundries 1
 faucals
-fidalgo
+fidalgo 1
 forsakes
 feldspathose
 flosh
