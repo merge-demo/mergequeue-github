@@ -14177,7 +14177,7 @@ electrifies
 eviction
 entone
 exultingly
-endogamy
+endogamy 1
 empyromancy
 eebree
 extrauterine
