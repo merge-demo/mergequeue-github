@@ -6616,7 +6616,7 @@ berewick
 biunity
 banquettes
 bergall
-bergamasche
+bergamasche 1
 bergamask
 blastoma
 bobcat
