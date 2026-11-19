@@ -9704,7 +9704,7 @@ easing
 eventuated
 entoptoscopic
 essay
-epistomata
+epistomata 1
 embargo
 erethism
 empyrical
