@@ -9604,7 +9604,7 @@ dartsman
 deerwood
 drazel
 dogmeat
-diddering
+diddering 1
 druse
 diguanide
 dihalide
