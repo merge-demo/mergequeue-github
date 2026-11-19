@@ -2605,7 +2605,7 @@ cyamelide
 castile
 caned
 canela
-canelas
+canelas 1
 canellaceous
 cuttlefish
 canellas
