@@ -7052,7 +7052,7 @@ electricalize
 emication
 eglatere
 enepidermic
-editorials
+editorials 1
 eliquate
 excorticated
 ephods
