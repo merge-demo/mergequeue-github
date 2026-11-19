@@ -5849,7 +5849,7 @@ achiote
 acculturizing
 archfelon
 anisocarpic
-ampyx
+ampyx 1
 agendas
 aponeurosis
 ankylosaur
