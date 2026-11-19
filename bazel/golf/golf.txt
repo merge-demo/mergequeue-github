@@ -3338,7 +3338,7 @@ gerundial
 growers
 gentlewomanlike
 germier
-goatsfoot
+goatsfoot 1
 gaetulian
 gaging
 gildhalls
