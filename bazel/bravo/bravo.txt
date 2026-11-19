@@ -17701,7 +17701,7 @@ bumblekite
 banbury
 behove
 bismosol
-butteriness
+butteriness 1
 biont
 beanos
 braconid
