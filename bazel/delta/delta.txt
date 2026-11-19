@@ -3060,7 +3060,7 @@ desegregation
 deers
 deerstalkers
 detailist
-deerstalking
+deerstalking 1
 deerweed
 dollyway
 deescalate
