@@ -17629,7 +17629,7 @@ defeminization
 dispossessory
 daisybush
 dromornis
-dtd
+dtd 1
 dielectrical
 dicranterian
 discourteously
