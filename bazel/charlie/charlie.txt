@@ -30688,7 +30688,7 @@ crusados
 chiveret
 coses
 crawls
-class
+class 1
 colorer
 cudgel
 communalizing
