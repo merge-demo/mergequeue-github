@@ -10003,7 +10003,7 @@ disconnectiveness
 dimorph
 dimorphism
 dukker
-dissatisfactorily
+dissatisfactorily 1
 dally
 disparted
 desophisticate 1
