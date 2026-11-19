@@ -21924,7 +21924,7 @@ confessionally
 chirographary
 confessor
 confessorship
-confetti
+confetti 1
 conocephalus
 confidant
 cymbella
