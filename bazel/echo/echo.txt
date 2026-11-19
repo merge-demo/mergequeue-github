@@ -8708,7 +8708,7 @@ enamorate 1
 eradications
 enjoyed
 esthesiogenic
-elastometry
+elastometry 1
 enhallow
 electroencephalograph
 equisided
