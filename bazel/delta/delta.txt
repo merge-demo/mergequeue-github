@@ -9151,7 +9151,7 @@ didynamic
 desmopathy
 dramatising
 didynamous 1
-diffractometer
+diffractometer 1
 diffund
 descend
 dunnage
