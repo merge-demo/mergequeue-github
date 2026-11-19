@@ -179,7 +179,7 @@ factiously
 forthought
 feather
 flirtable
-fanmaker
+fanmaker 1
 fragmentizing
 frescoing
 factitively
