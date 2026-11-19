@@ -1181,7 +1181,7 @@ gaon
 gartered
 gynaecomasty
 gaped
-gorgonized
+gorgonized 1
 genitory
 gig
 gothic
