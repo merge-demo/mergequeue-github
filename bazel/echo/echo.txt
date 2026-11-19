@@ -13675,7 +13675,7 @@ espec 1
 emotionlessness
 ergotoxin
 eurygnathic
-exterminatrix
+exterminatrix 1
 extraconscious
 edaphosauria
 externalise
