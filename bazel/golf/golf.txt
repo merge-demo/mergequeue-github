@@ -2424,7 +2424,7 @@ gazel
 goaled
 guiac
 gummose
-gratification
+gratification 1
 guardship
 gemmological 1
 gemmologist
