@@ -11630,7 +11630,7 @@ emollition
 eyedroppers
 exacerbates
 empaneled
-enhances
+enhances 1
 enforcibility
 embordering
 epulosis
