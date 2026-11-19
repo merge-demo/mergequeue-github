@@ -8358,7 +8358,7 @@ dyed
 dromed 1
 decigrams
 doricize
-decaffeinates
+decaffeinates 1
 dialycarpous
 dialin
 dialiness
