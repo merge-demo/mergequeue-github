@@ -1620,7 +1620,7 @@ fellmongery
 fawners
 frowned
 facet
-faxed
+faxed 1
 futilities
 farandole
 formicoidea
