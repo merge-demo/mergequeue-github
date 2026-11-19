@@ -26313,7 +26313,7 @@ chacoli
 costopneumopexy
 collusiveness
 cicerone
-costosternal
+costosternal 1
 costothoracic
 costotome
 carbonnieux
