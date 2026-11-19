@@ -2067,7 +2067,7 @@ elamite
 elamitish
 episcope
 electrophorese
-evilly
+evilly 1
 eudialyte
 elanet
 elanus
