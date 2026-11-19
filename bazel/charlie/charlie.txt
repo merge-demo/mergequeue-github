@@ -30695,7 +30695,7 @@ communalizing
 comparability
 cudgeled
 cudgeler
-calymene
+calymene 1
 cudgelers
 counterwind
 complexometric
