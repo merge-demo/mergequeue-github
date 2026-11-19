@@ -8237,7 +8237,7 @@ diadochic
 diadochite
 diadochokinesia
 diadoumenos
-dowly
+dowly 1
 diaene
 diaeretic
 detoxicated
