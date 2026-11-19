@@ -7508,7 +7508,7 @@ exocoetidae
 extensively
 ephrathite
 estrins
-estall
+estall 1
 eophytic
 endited
 eastmost
