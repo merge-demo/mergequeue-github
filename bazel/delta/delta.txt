@@ -873,7 +873,7 @@ delesseria
 developability
 dannebrog
 diactinism
-defiantness
+defiantness 1
 dieback
 deuteronomistic
 dummerer
