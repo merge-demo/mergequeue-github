@@ -4970,7 +4970,7 @@ fan 1
 facepiece
 floorages
 flamingant
-flong
+flong 1
 foremarch
 flaminical
 fomenters
