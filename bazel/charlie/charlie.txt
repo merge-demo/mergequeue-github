@@ -19617,7 +19617,7 @@ coach
 columnists
 callets 1
 cinematographical
-columnized
+columnized 1
 creeperless
 columnizing
 constitutioner
