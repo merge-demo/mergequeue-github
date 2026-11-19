@@ -17918,7 +17918,7 @@ bractless 1
 broadaxes
 bahmanid
 belton
-befortune
+befortune 1
 brahmanda
 bungy
 besour
