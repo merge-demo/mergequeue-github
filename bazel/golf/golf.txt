@@ -5308,7 +5308,7 @@ glycerite 1
 gigmanism
 glycerolate
 gymnadeniopsis
-glyceroxide
+glyceroxide 1
 glycide
 glabrous
 gleization
