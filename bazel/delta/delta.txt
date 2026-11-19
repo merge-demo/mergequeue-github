@@ -14112,7 +14112,7 @@ disturb
 disturbance 1
 dominican
 divestitive
-demipronation
+demipronation 1
 dendroid
 desmans
 diplotaxis
