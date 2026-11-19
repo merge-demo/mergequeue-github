@@ -17806,7 +17806,7 @@ carby
 cognisableness
 cakemaking
 codeinas
-cohabits
+cohabits 1
 communion
 cunjah
 conium
