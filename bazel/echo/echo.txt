@@ -2847,7 +2847,7 @@ enaluron
 elephantiasis
 elymi
 eliza
-eosins
+eosins 1
 europhium
 eagre
 escars
