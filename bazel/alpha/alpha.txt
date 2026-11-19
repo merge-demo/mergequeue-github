@@ -502,7 +502,7 @@ aquavalent
 atlantean
 abjudged
 agelacrinitidae
-abjudicate
+abjudicate 1
 abjudicated
 arthel
 arsenicophagy
