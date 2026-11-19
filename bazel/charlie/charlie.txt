@@ -25813,7 +25813,7 @@ calcars
 corrosivity
 colophonate
 cinclidotus
-corrugant
+corrugant 1
 corrugate
 corrugated
 cataphoric
