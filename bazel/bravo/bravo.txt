@@ -918,7 +918,7 @@ bagrationite
 berryless
 bivinyl
 biopsychic
-belligerently
+belligerently 1
 bagsful
 bequirtle
 bazookaman
