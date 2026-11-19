@@ -10628,7 +10628,7 @@ chiltern
 chilver
 caliological
 chimaera
-chimaerid
+chimaerid 1
 chimaeroid
 chimakum
 curled
