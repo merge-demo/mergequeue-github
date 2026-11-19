@@ -5909,7 +5909,7 @@ gentilish
 gleesomeness
 gassiness
 guereba
-gymnospermous
+gymnospermous 1
 goitrous
 gasogene
 goliardeys
