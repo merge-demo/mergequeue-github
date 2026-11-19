@@ -15968,7 +15968,7 @@ dune
 dea
 dissocial
 dialogize
-dasein
+dasein 1
 dukhn
 dotkin
 dudish
