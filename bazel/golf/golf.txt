@@ -1491,7 +1491,7 @@ gunmaker
 gymnarchus
 gluconate 1
 galosh
-guacamole
+guacamole 1
 gastrulae
 guarachas
 gunocracy
