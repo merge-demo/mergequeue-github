@@ -2059,7 +2059,7 @@ geminiform
 gio
 grapheme
 gaynesses 1
-grippit
+grippit 1
 girsh
 gamey
 gleeked
