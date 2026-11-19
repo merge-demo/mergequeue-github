@@ -3164,7 +3164,7 @@ goat
 graduating
 gelechiidae
 geoscopy
-gordonia
+gordonia 1
 gelasian
 germanophobe
 ghostship
