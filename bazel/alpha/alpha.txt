@@ -17047,7 +17047,7 @@ angulus
 addy
 arthrotropic
 apocopes
-apocrenic
+apocrenic 1
 agatha
 apocryph
 anaplasia
