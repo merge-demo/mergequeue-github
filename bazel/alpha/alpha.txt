@@ -21624,7 +21624,7 @@ agriotypus
 alfur
 achenodia
 acheilous
-anteflected
+anteflected 1
 alkalizes
 acetometrically
 anisomerous
