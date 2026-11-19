@@ -11048,7 +11048,7 @@ fascias
 funambulator
 feels
 faunological
-flinty
+flinty 1
 fellatrices
 fangless
 flycatcher

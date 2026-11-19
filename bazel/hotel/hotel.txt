@@ -5253,7 +5253,7 @@ hidpibgay 1
 hidpnhuxold
 hidpnr
 hidpqknq
-hidptpr
+hidptpr 1
 hidr
 hidtecst
 hidtlilrqjax 1
