@@ -4300,7 +4300,7 @@ gabfests
 granulate
 glyptotherium
 goboes
-glabellum
+glabellum 1
 gynecophorous
 gynecratic
 gelidness
