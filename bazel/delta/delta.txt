@@ -9024,7 +9024,7 @@ disowns
 decerebrated
 dicotyls
 distortive
-debel
+debel 1
 dicots
 dicoumarin
 disembed
