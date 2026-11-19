@@ -1503,7 +1503,7 @@ fetchingly
 florizine
 fanaticism
 foresend
-faulx
+faulx 1
 flaunter
 focusers
 factionary
