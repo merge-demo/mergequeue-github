@@ -8319,7 +8319,7 @@ estragole
 eskimoic
 embroiler
 elvan
-earthy
+earthy 1
 evg
 effulgence
 excursional
