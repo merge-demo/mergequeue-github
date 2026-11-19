@@ -1698,7 +1698,7 @@ calorifier
 calorimetry
 calorimetrical
 calorimetrically
-calorimotor
+calorimotor 1
 calorist
 calorizing
 cawing
