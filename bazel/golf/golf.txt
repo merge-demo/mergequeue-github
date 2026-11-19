@@ -659,7 +659,7 @@ genecologically
 galeated 1
 gunkhole
 grihyasutra
-gallantries
+gallantries 1
 goodheartedly
 goury
 gilour
