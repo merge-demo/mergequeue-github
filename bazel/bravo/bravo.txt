@@ -9207,7 +9207,7 @@ bipedality
 bipeds
 bipeltate
 bipennate
-bedlamize
+bedlamize 1
 brunches
 bevor
 baldrics
