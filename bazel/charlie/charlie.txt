@@ -5446,7 +5446,7 @@ castorite
 castra
 castrates
 covertical
-classic
+classic 1
 counterflory
 capillitia
 cylindrenchema

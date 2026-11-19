@@ -11650,7 +11650,7 @@ filamented
 funerealness
 forded
 foreknowing
-fusus
+fusus 1
 feedlot
 fanion
 filoselle
