@@ -831,7 +831,7 @@ geonegative
 gamboled
 gillar
 goethe
-guaraunan
+guaraunan 1
 grandam
 glutinous
 gymnoblastic
