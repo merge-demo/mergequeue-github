@@ -941,7 +941,7 @@ gannets
 gammock
 grouched
 gillnetted
-galactically
+galactically 1
 gainsaid
 garrottes
 gnathonically
