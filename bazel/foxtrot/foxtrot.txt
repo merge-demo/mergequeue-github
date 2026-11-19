@@ -5270,7 +5270,7 @@ fideicommissa
 frostbird
 fockle
 fabricable
-fomenter
+fomenter 1
 foresightedness
 ferricyanate
 flavours
