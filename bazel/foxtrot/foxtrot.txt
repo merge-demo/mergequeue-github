@@ -7957,7 +7957,7 @@ foreshoe
 foreshortened 1
 fenerate
 fozier
-foreshot
+foreshot 1
 ficelle
 fumatoriums
 fibrinogenous
