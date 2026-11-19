@@ -10297,7 +10297,7 @@ demonograph
 dioicousness
 dipleura
 diolefins
-diomate
+diomate 1
 discoglossoid
 dearly
 darks
