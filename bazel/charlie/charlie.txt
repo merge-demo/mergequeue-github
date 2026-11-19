@@ -26612,7 +26612,7 @@ council
 councillors
 councillorship
 councilman
-councilmanic
+councilmanic 1
 councilmen
 conjunctionally
 carbomycin
