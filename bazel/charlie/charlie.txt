@@ -21425,7 +21425,7 @@ conclusive
 coexistency
 cnidophorous
 conclusively
-compassionated
+compassionated 1
 criterion
 chemicalize
 cementlike
