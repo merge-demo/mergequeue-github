@@ -8464,7 +8464,7 @@ gomphosis
 garancine
 goatishness
 gerontophilia
-glossator
+glossator 1
 grinnie
 galactonic
 gratulation
