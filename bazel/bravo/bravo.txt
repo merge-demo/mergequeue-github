@@ -12423,7 +12423,7 @@ barker
 bareboats
 bushiness
 bureaux
-banisterine
+banisterine 1
 bond
 bipinnatifid
 bless
