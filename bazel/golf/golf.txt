@@ -7362,7 +7362,7 @@ glyoxime
 generalizers
 glomus
 gomarite
-gossypine
+gossypine 1
 gourdiness 1
 gleamier
 gamotropism
