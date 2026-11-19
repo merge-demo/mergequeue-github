@@ -5753,7 +5753,7 @@ depolarise
 dehumidify
 depolarization
 dernly
-depolarize
+depolarize 1
 dextrorsal
 decouple
 downstroke
