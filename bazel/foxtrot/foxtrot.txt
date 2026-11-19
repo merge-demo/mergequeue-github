@@ -5893,7 +5893,7 @@ flaxier
 flocker
 filaree
 fasts
-frogged
+frogged 1
 furandi
 flockiest
 frankliniana
