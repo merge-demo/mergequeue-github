@@ -11135,7 +11135,7 @@ adjutancies
 antirationality
 araeometer
 amphetamines
-abasgi
+abasgi 1
 antecedaneous
 actaeaceae
 amphiarthroses
