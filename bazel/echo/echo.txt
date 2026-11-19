@@ -9304,7 +9304,7 @@ enkennel
 erthly
 estriate
 ericaceous
-enticeful
+enticeful 1
 espieglerie
 erubescent
 entelechy
