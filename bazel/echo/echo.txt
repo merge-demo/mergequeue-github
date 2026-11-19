@@ -4139,7 +4139,7 @@ etamin
 epigene
 epicanthus
 ejacula
-enrooting
+enrooting 1
 eslabon
 entangler
 envisaged
