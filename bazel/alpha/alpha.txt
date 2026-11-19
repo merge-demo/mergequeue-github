@@ -3358,7 +3358,7 @@ atelets
 andean
 allosyndesis
 argestes
-antihierarchic
+antihierarchic 1
 arborescence
 adamite
 anselmian
