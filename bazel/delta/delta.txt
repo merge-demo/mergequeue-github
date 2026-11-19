@@ -7881,7 +7881,7 @@ dispenser
 dihydrogen
 dewberries
 dewcap 1
-disbudder
+disbudder 1
 devocalised
 driveways
 dewclaws
