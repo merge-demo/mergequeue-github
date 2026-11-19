@@ -20222,7 +20222,7 @@ commonage
 commonalities
 czechoslovakia
 camouflages
-classicalize
+classicalize 1
 commonance
 commoney
 cosmogenesis
