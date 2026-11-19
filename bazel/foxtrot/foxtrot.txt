@@ -5490,7 +5490,7 @@ feculae
 floey
 fenderless
 fricassee
-friezy
+friezy 1
 fiduciarily
 friseurs
 fossed
