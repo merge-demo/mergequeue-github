@@ -16053,7 +16053,7 @@ cliche
 cryopathy
 cliches
 click
-clicked
+clicked 1
 clicker 1
 corneitis
 clickers
