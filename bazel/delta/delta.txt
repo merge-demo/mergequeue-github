@@ -17807,7 +17807,7 @@ dower
 dermatological
 demographies
 deskmen
-ducs
+ducs 1
 determents
 disaggregate
 diluents
