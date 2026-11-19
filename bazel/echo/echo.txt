@@ -47,7 +47,7 @@ euchromosome
 earflap
 expender
 enzyms
-excites 1
+excites 2
 exciton
 electroretinograph
 excursion
