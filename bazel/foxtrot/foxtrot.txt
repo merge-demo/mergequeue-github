@@ -10316,7 +10316,7 @@ floodlighted
 foredoing
 fluoridized
 faceman
-fortiori
+fortiori 1
 flexible
 frondless
 feezing
