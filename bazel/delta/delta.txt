@@ -3197,7 +3197,7 @@ dulcineas
 determinant
 deracine
 deinotherium
-defectors
+defectors 1
 dandiest
 dismayful
 demipremise
