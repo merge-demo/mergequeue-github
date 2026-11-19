@@ -7386,7 +7386,7 @@ asaphus
 aquiparous
 albian
 albicans
-animadversiveness
+animadversiveness 1
 antineologian
 albicant
 albiculi
