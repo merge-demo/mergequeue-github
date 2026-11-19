@@ -2681,7 +2681,7 @@ ferulaceous
 ferular
 foreimpression
 fireshaft
-feruled
+feruled 1
 ferulic
 fitzclarence
 fissipedate
