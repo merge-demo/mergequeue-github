@@ -25886,7 +25886,7 @@ communing
 cuneoscaphoid
 correction
 curette
-convertable
+convertable 1
 corset
 corsetier
 concluding
