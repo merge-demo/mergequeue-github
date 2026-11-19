@@ -13942,7 +13942,7 @@ anamniota
 aquarians
 anergic
 amzel
-antagonism
+antagonism 1
 alef
 alligators
 anticrepuscular
