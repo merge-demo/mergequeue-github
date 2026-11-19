@@ -2516,7 +2516,7 @@ dimming
 dermoid
 duplicipennate
 doddered
-disaccommodation
+disaccommodation 1
 dove
 dubonnet
 deactivating
