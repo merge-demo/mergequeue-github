@@ -5423,7 +5423,7 @@ foisonless
 fabian
 feasten
 forefigure
-furor
+furor 1
 flurt
 fault
 firstfruits
