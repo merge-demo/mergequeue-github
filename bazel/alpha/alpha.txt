@@ -23770,7 +23770,7 @@ asouth
 aerohydroplane
 amorphozoa
 asplenioid
-aposporic
+aposporic 1
 ararauna
 auspiciousness
 arpenteur
