@@ -8850,7 +8850,7 @@ eremitism
 euploidy
 ecuelling
 epitheloid
-enkernel
+enkernel 1
 ecospecifically
 esthesiometer
 earshots
