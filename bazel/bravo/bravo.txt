@@ -12182,7 +12182,7 @@ breek
 biasnesses
 barbette
 baptist
-barbarisms
+barbarisms 1
 bolivians
 bolk
 bolly
