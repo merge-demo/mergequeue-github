@@ -11524,7 +11524,7 @@ chokers
 chokes
 counteraccusation
 carnaubyl
-compels
+compels 1
 carbonizer
 chokier
 chokies
