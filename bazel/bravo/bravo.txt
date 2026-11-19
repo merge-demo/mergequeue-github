@@ -4793,7 +4793,7 @@ baetyl
 backpedaled
 burriest
 bougee
-bedroll
+bedroll 1
 bedrooms
 bruckle
 bandicoots
