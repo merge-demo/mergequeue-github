@@ -12322,7 +12322,7 @@ deuterostoma
 disguisay
 dyschiria
 disguisedly
-diplanar
+diplanar 1
 dyestuffs
 dulcimer
 displeasurably
