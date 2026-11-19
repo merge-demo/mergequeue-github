@@ -12936,7 +12936,7 @@ concentre
 cuesta
 cia
 crystallised
-cyan
+cyan 1
 cyanamid
 conspires
 coextension
