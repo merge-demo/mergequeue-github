@@ -6110,7 +6110,7 @@ hitf
 hitfqtrxdw
 hitgb
 hitghfbcj
-hitgo
+hitgo 1
 hithgmhffq
 hiti
 hiticq
