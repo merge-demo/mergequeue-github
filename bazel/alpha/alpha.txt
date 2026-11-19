@@ -19887,7 +19887,7 @@ autor
 analogized
 arminianize
 arminianizer
-armipotence
+armipotence 1
 analeptical
 armistice
 armistices
