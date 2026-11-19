@@ -13093,7 +13093,7 @@ bodyguard
 borid
 bacterioscopist
 bromisation
-bastinaded
+bastinaded 1
 blowzier
 brahui
 boride
