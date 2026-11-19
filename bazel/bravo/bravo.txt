@@ -16766,7 +16766,7 @@ barbarizing
 bonhomously
 bibliotheque
 buddhaship
-bandar
+bandar 1
 barbas
 buddhist
 beheadlined

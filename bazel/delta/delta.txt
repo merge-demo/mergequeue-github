@@ -13242,7 +13242,7 @@ disportment
 ditali
 dangerfully
 decohesion
-disposedness
+disposedness 1
 disposement
 disposers
 dislocator
