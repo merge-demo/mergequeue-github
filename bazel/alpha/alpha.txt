@@ -7419,7 +7419,7 @@ apteryx
 albines
 autobahn
 albiness
-affere
+affere 1
 adipose
 albinic
 antiphrastical
