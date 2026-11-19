@@ -3002,7 +3002,7 @@ galvanocauteries
 gentlefolk
 gambusia
 guatambu
-greasiness
+greasiness 1
 glitnir
 glycolic
 gibbering
