@@ -18291,7 +18291,7 @@ backwashing
 bowless
 buttinski
 bourout
-buttled
+buttled 1
 bonspells
 buttock
 balachan
