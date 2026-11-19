@@ -6041,7 +6041,7 @@ forgab
 frontooccipital
 flanker
 fictionise 1
-fluoresce
+fluoresce 1
 fleam
 finking
 fractal
