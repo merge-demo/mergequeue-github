@@ -29329,7 +29329,7 @@ craggedly
 cryptographal
 certiorating
 cryptoheresy
-cryptoheretic
+cryptoheretic 1
 cryptolite
 cytochalasin
 cryptolith
