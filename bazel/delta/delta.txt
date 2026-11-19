@@ -5996,7 +5996,7 @@ discommoded
 dept
 diaschistic
 depth
-dispraise
+dispraise 1
 droopy
 devitation
 domajigger
