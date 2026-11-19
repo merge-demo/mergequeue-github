@@ -3883,7 +3883,7 @@ chinkle
 criminalness
 centrosymmetry
 crankles
-carbonisable
+carbonisable 1
 carbonise
 clarets
 choirmaster
