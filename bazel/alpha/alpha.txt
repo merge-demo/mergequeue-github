@@ -12996,7 +12996,7 @@ adrenine
 auronal
 angustirostrate
 admirator
-angustifolious
+angustifolious 1
 angustisellate
 antispectroscopic
 angustiseptal

@@ -13388,7 +13388,7 @@ expostulative
 entobranchiate
 expostulatively
 euscaro
-escapeway
+escapeway 1
 exemplify
 exposture
 epanaphoral
