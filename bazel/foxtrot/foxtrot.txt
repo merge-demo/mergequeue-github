@@ -11239,7 +11239,7 @@ factable
 forementioned
 fatherkin
 funkiness
-fezzes
+fezzes 1
 forerunnings
 frontispieces
 fucivorous
