@@ -12854,7 +12854,7 @@ exoterically
 erythremomelalgia
 episcopal
 exoticness
-enantioses
+enantioses 1
 ensile
 exotics
 exotoxic
