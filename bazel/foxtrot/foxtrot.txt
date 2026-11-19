@@ -5268,7 +5268,7 @@ flavourous
 flockier 1
 fideicommissa
 frostbird
-fockle
+fockle 1
 fabricable
 fomenter
 foresightedness
