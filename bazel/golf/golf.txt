@@ -2220,7 +2220,7 @@ garmented
 gestational
 gooseskin
 goaves
-gemwork
+gemwork 1
 gastrolith
 gymnosperms
 galas 2
