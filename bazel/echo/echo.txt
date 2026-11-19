@@ -10153,7 +10153,7 @@ extraorbital
 etherialised
 epicrates
 elaborators
-exsomatic
+exsomatic 1
 edgier
 emmove
 earlyish
