@@ -9963,7 +9963,7 @@ elk
 estrums
 extrospection
 englishize
-estuarial
+estuarial 1
 epagogic
 eloquently
 estuosity
