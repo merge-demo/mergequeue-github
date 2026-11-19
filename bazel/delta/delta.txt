@@ -10125,7 +10125,7 @@ dagoba
 defervesce
 derrickmen
 dechloridized
-disassimilating
+disassimilating 1
 dodecahedra
 dindon
 doodled
