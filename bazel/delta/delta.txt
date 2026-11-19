@@ -17256,7 +17256,7 @@ disseizee
 droghlin
 discrepant
 diathermance
-didactic
+didactic 1
 discountenancing
 discombobulating
 donnee
