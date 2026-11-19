@@ -4481,7 +4481,7 @@ forerigging
 footstool
 fishskin
 formidable
-frouzier
+frouzier 1
 frankenia
 flattercap
 fermal
