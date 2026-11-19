@@ -2108,7 +2108,7 @@ dissyllabism
 defenseman
 decameral
 daintify
-doline
+doline 1
 diapasm
 daunts
 doab
