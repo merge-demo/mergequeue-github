@@ -2595,7 +2595,7 @@ electrobrasser
 entertainable
 etua
 enantioblastous
-eruginous
+eruginous 1
 eighteenthly
 ensnarl
 exhilarator
