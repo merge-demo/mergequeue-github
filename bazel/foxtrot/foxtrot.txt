@@ -4150,7 +4150,7 @@ fusilading
 foramina
 fulk
 felonry
-flexed 1
+flexed 2
 fatling
 fenchyl
 feezed
