@@ -6146,7 +6146,7 @@ baubees
 brangle
 bushlands
 bravo
-bisexuals
+bisexuals 1
 benefices
 blackthorn
 bluebonnet
