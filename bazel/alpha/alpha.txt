@@ -21962,7 +21962,7 @@ aurantiaceous
 acaridomatium
 assonants
 aphanite
-axopodia
+axopodia 1
 alternations
 ardhamagadhi
 assorted
