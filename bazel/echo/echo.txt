@@ -6639,7 +6639,7 @@ excitator
 empyreumata
 enantiomeric
 encraty
-elephantlike
+elephantlike 1
 enzymologies
 enterohydrocele
 evictee 1
