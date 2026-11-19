@@ -14529,7 +14529,7 @@ discoverers
 divinized
 divinizes
 demarche
-diatomean
+diatomean 1
 dismembrated
 depicters
 duodenary
