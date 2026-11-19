@@ -770,7 +770,7 @@ cecil
 collybist
 clairvoyance
 cagiest
-cyclotomies
+cyclotomies 1
 cagily
 clock
 cuish
