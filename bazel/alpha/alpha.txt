@@ -2600,7 +2600,7 @@ arriswise
 acquiesce
 addiction
 acanthopterous 1
-alginates
+alginates 1
 acquiescement
 aureation
 acquiescence
