@@ -4470,7 +4470,7 @@ fate
 fishpole
 fishpoles
 flueless
-flameproof
+flameproof 1
 fazed
 fishponds
 fishtailed
