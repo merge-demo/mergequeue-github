@@ -3060,7 +3060,7 @@ amphitrichous
 azotise
 arsonate
 abdominoanterior
-arvicole
+arvicole 1
 alligatoring
 averish
 aught
