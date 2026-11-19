@@ -28596,7 +28596,7 @@ chammies
 creepmouse
 creeps
 creese
-creeses
+creeses 1
 colleague
 cinchonine
 cogitos
