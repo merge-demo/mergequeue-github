@@ -505,7 +505,7 @@ elastases
 extermining
 enrolle
 endocrinologists
-explorer
+explorer 1
 exceptionally
 epigrammatarian
 ethnographies
