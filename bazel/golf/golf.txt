@@ -2871,7 +2871,7 @@ glossiphonidae
 geol
 guilefulness
 ganglionic
-gustavus
+gustavus 1
 guardsman
 gipser
 grasschat
