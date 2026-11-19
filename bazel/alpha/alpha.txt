@@ -13652,7 +13652,7 @@ abys
 alliciency
 anodos
 annalia
-apprenticed
+apprenticed 1
 ambivalent
 agomensin
 anoestrum
