@@ -10302,7 +10302,7 @@ discoglossoid
 dearly
 darks
 draftmanship
-dighting
+dighting 1
 deans
 draughting
 dames
