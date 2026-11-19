@@ -23808,7 +23808,7 @@ anticonservatively
 allicit
 amatorious
 allelomorphism
-apostatic
+apostatic 1
 acicular
 austrianize
 arsenoferratin
