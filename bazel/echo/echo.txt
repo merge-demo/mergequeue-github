@@ -5358,7 +5358,7 @@ endospore
 evidentness
 encharm
 epiphyte
-epituberculous
+epituberculous 1
 exasperation
 endosteoma
 essentialism
