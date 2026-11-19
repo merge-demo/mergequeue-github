@@ -13914,7 +13914,7 @@ calliopes
 calombigas
 criminalities
 cynomys
-criticizingly
+criticizingly 1
 cynomolgus
 cynomoriaceae
 cytosome
