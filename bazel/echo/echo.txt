@@ -8297,7 +8297,7 @@ enroller
 eschynite
 embosoms
 epithalamize
-efractory
+efractory 1
 equivalve
 ennobles
 exactions
