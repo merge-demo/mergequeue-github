@@ -18869,7 +18869,7 @@ aghastness
 archicerebrum
 archichlamydeae
 archidamus
-amninia
+amninia 1
 adherer
 anatropia
 archidiaconate
