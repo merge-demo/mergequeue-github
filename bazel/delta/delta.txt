@@ -16428,7 +16428,7 @@ draba
 disassembles
 drabant
 draughthouse
-dextrotartaric
+dextrotartaric 1
 dichotomousness
 disgregated
 dolichocercic
