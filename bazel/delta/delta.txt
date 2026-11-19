@@ -15172,7 +15172,7 @@ dottle
 decolourisation
 decahydrate
 dressily
-dimna
+dimna 1
 defunctness
 distributable
 dolabrate
