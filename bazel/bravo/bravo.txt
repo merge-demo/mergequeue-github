@@ -8472,7 +8472,7 @@ biriba 1
 brewage
 bylined 1
 burlington
-bunging
+bunging 1
 birminghamize
 bumble
 balsameaceae
