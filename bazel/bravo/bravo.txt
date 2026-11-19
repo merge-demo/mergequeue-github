@@ -17876,7 +17876,7 @@ blotchier
 bushbucks
 batrachium
 bearbush
-begowk
+begowk 1
 bacilluria
 bairnishness
 beholders
