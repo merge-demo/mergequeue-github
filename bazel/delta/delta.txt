@@ -11667,7 +11667,7 @@ dialogged
 didest
 demiditone
 dishexecontahedroid
-discost
+discost 1
 digitally
 discotheque
 discothque
