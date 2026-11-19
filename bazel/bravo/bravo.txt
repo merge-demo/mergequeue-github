@@ -1197,7 +1197,7 @@ besigh
 bootloader
 bakeries
 budling
-bakerly
+bakerly 1
 brownstones
 buttinskies
 bakersfield
