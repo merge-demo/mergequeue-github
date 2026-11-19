@@ -7968,7 +7968,7 @@ bichloride
 borazons
 bioxalate
 bichos
-bichromatize
+bichromatize 1
 bedebt
 bellworts
 bicyanide
