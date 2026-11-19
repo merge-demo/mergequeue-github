@@ -8972,7 +8972,7 @@ fourierism
 fourneau
 filly
 feltings
-fourpence
+fourpence 1
 farcist
 flavine
 fourpenny
