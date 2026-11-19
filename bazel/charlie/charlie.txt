@@ -2952,7 +2952,7 @@ cantharidize
 cantharidized
 cantharus
 clotter
-chank
+chank 1
 carabini
 cleverest
 caustic
