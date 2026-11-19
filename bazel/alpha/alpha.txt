@@ -4958,7 +4958,7 @@ aerological
 antepartum
 aeromancer
 anthonomus
-aerometer
+aerometer 1
 aspen
 amygdalus
 amenite
