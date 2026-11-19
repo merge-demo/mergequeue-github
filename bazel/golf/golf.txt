@@ -2254,7 +2254,7 @@ goblet
 grunted
 geoplanidae
 glucokinase
-gonimic
+gonimic 1
 gey
 greeney
 geopolitik
