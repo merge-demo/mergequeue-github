@@ -11159,7 +11159,7 @@ evacuated
 epitomatory
 endeavored
 epexegetical
-evacuations
+evacuations 1
 evulse
 entropionize
 entocarotid
