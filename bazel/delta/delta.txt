@@ -8983,7 +8983,7 @@ deficience
 disconanthous
 duodenotomy
 depopulators
-digastric
+digastric 1
 decollate
 dehydrofroze
 dicycly
