@@ -5972,7 +5972,7 @@ emissary
 eruc
 erythrose 1
 euflavine
-epicondylitis
+epicondylitis 1
 expectorates
 enframing
 enigma
