@@ -12180,7 +12180,7 @@ cottidae
 choregrapher
 chrismal
 chrismation
-chrismatite
+chrismatite 1
 chrismatize
 cryptobatholithic
 chrismatory
