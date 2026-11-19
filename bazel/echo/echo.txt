@@ -4509,7 +4509,7 @@ emulators
 embryophyta
 encephalographic
 ekphorize
-episematic
+episematic 1
 earlock
 enamelling
 euchysiderite 1
