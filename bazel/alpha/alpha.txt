@@ -20582,7 +20582,7 @@ arthrocleisis
 abear
 atomizer
 arthrodymic
-aristotelian
+aristotelian 1
 alkoxy
 assimilations
 administerings
