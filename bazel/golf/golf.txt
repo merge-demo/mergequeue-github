@@ -9110,7 +9110,7 @@ governableness 1
 grumose
 guttation
 geophagist
-guillemet
+guillemet 1
 grindable
 gibbose
 grissel
