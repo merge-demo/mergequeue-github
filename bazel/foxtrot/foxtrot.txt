@@ -11211,7 +11211,7 @@ fungosities
 funic
 footlers
 faradise
-fistulae
+fistulae 1
 foreday
 farsang
 furzed
