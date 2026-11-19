@@ -14349,7 +14349,7 @@ bluey
 braided
 bovoid
 binomen
-burstones
+burstones 1
 bizone
 braidist
 braids
