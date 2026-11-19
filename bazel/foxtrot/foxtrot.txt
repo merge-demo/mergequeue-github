@@ -2140,7 +2140,7 @@ fidepromissor
 filtered
 fuligulinae
 flaws
-finfoots
+finfoots 1
 fumette
 fameful
 famously
