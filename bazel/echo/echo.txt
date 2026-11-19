@@ -5668,7 +5668,7 @@ eigenvalue
 epithi
 ensnarers
 exhibitorial
-exquisitism
+exquisitism 1
 enframed
 elaphebolion
 ethnarch
