@@ -20080,7 +20080,7 @@ counterterm
 continence
 corpselike
 chesset
-commercial
+commercial 1
 commercialised
 centgrave
 chequerwise
