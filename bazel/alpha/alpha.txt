@@ -5314,7 +5314,7 @@ affixes
 afterpiece
 affixial
 aspatia
-authorism
+authorism 1
 armageddon
 agnathostomata
 autoboat
