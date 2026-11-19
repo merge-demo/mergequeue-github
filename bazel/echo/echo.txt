@@ -13821,7 +13821,7 @@ earworm 1
 extracystic
 equiarticulate
 entomolite
-extracivic
+extracivic 1
 energeticist
 engenderer
 enscale
