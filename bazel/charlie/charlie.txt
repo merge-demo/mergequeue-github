@@ -6444,7 +6444,7 @@ choregic
 cation
 contraorbitally
 clinandria
-cavalieri
+cavalieri 1
 cavaliering
 cavalierishness
 cavalierism

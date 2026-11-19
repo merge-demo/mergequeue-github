@@ -4449,7 +4449,7 @@ declarers
 disentitle
 doctrinalism
 demesnial
-decrypting
+decrypting 1
 deranger 1
 dysmenorrhoeal
 disillusioning
