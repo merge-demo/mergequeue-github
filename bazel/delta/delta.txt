@@ -9504,7 +9504,7 @@ discussable
 digestor
 digestory
 decide
-digesture 1
+digesture 2
 dinarzade
 disapproval
 diggable
