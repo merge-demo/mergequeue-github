@@ -1334,7 +1334,7 @@ draconism
 dauke
 dorsigerous
 disorder
-dault
+dault 1
 docetic
 dysteleologically
 departure
