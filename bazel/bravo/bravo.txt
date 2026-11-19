@@ -17599,7 +17599,7 @@ becurtained
 bivalency
 bacteriostatically
 baseballs
-burggrave
+burggrave 1
 burghbote 1
 brandished
 bristling
