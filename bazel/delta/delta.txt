@@ -15757,7 +15757,7 @@ desolator
 dormeuse
 dormice
 dormilona
-dormitive
+dormitive 1
 dormitories
 dissenting
 dimwits
