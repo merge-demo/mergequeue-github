@@ -2983,7 +2983,7 @@ gardenias
 geognosy
 geognostically 1
 grenadian
-guayules
+guayules 1
 gaolering
 geographies
 grievers
