@@ -5954,7 +5954,7 @@ cathects
 cathedra
 cathedraled
 cathedralesque
-cavorter
+cavorter 1
 clasp
 cathedras
 chronophotograph
