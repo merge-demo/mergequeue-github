@@ -22690,7 +22690,7 @@ cyananthrol
 childbear
 conoscenti
 conjecture
-columnizes
+columnizes 1
 conoscopic
 conplane
 centuriation
