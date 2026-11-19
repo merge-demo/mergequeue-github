@@ -8913,7 +8913,7 @@ cyclosilicate
 circumocular
 counterattacking
 coyotero
-chrysophanus
+chrysophanus 1
 crenelet
 concisest
 cystose
