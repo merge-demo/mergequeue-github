@@ -13320,7 +13320,7 @@ covenanting
 candlestand
 cyclopentene
 cohabit
-cajanus
+cajanus 1
 cyclophoria
 chrysid
 cyclophoric
