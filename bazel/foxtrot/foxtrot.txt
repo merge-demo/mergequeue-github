@@ -4887,7 +4887,7 @@ fetching
 factuality
 frightenedness 1
 fabricational
-funks
+funks 1
 foldedly
 foretasted
 frumpy
