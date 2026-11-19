@@ -4751,7 +4751,7 @@ gudemother
 gainstand
 garua
 galactite
-glick 1
+glick 2
 genethliatic
 gendarme
 giantlike

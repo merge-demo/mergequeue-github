@@ -13945,7 +13945,7 @@ exotery
 employments
 extraoral
 extraordinary
-enduement
+enduement 1
 exterioration
 eschews
 elaborateness
