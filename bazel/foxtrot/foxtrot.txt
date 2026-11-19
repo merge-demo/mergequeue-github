@@ -11242,7 +11242,7 @@ funkiness
 fezzes
 forerunnings
 frontispieces
-fucivorous
+fucivorous 1
 funmaking
 flit
 flakeless
