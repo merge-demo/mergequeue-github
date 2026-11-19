@@ -10879,7 +10879,7 @@ ammonoidea
 ammonoidean
 aerocartography
 anaglyphy
-ammonoids
+ammonoids 1
 ammonolitic
 assemblage
 archeological
