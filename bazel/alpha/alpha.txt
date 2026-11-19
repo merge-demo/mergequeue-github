@@ -14010,7 +14010,7 @@ acajou 1
 achloropsia
 anteater
 astrologian
-achronychous
+achronychous 1
 antebaptismal
 andesyte
 albigenses
