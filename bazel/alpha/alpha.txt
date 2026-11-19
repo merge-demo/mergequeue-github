@@ -10115,7 +10115,7 @@ aggadic
 archaeopithecus
 anaheim
 amboina
-amboinas
+amboinas 1
 aviatrixes
 antiegoistic
 ajangle
