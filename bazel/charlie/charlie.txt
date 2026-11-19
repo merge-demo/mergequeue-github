@@ -4358,7 +4358,7 @@ crisper
 counterslope
 crum
 caricologist
-cowlstaff
+cowlstaff 1
 caricous
 craker
 crestfish
