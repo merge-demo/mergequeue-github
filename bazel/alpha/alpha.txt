@@ -7934,7 +7934,7 @@ auantic
 alength
 amentias
 ashcans
-activistic
+activistic 1
 allomerized
 adobos
 adorningly
