@@ -11041,7 +11041,7 @@ anguishes
 anthropometer
 archegone
 acroblast
-assais
+assais 1
 amorphus
 amort
 amortizable
