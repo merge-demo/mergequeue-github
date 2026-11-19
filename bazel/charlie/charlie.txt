@@ -6640,7 +6640,7 @@ cecum
 cecums 1
 cecutiency
 cedar
-cedary
+cedary 1
 conveyable
 convolvement
 cedars
