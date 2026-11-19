@@ -6606,7 +6606,7 @@ doubtsome
 desegregated
 desegregates
 destroyed
-dilettant
+dilettant 1
 denumerative
 dipentene
 decipherable
