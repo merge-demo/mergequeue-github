@@ -7390,7 +7390,7 @@ animadversiveness
 antineologian
 albicant
 albiculi
-albificative
+albificative 1
 analogizing
 amebicidal
 antirepublican
