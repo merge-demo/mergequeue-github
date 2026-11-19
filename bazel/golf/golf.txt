@@ -4001,7 +4001,7 @@ guarinite
 gemonies
 gravic 1
 geniculate
-gloomier
+gloomier 1
 gorgedly
 gastrology
 gnomological
