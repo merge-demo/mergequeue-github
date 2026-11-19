@@ -5957,7 +5957,7 @@ enjoyably 1
 enhypostasia
 estmark
 electrotheraputically
-endolemma
+endolemma 1
 exudence
 erethismic
 ettled
