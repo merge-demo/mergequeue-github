@@ -15421,7 +15421,7 @@ antilogic
 antilogistic
 amastia
 antilope
-antiloquy
+antiloquy 1
 asafoetida
 antilottery
 adheres
