@@ -9771,7 +9771,7 @@ hozruanlqyf
 hozsacf
 hozsorecie
 hozsst
-hozt
+hozt 1
 hoztafyriq
 hoztvafs
 hozu
