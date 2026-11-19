@@ -10429,7 +10429,7 @@ conquered
 coryphaena
 clinocephalic
 courtiery
-chihfu
+chihfu 1
 cephalograph
 chihuahuas
 comephorous
