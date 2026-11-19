@@ -6424,7 +6424,7 @@ discriminatory
 decree
 drung
 decenter
-disencumbered
+disencumbered 1
 denizening
 dismemberments
 debellation
