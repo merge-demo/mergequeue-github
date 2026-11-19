@@ -8135,7 +8135,7 @@ episcopacy
 expensilation
 ensanguined
 enaction
-enkolpia
+enkolpia 1
 enseel
 extratabular
 episcopalianism
