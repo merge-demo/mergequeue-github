@@ -5178,7 +5178,7 @@ amourist
 accend
 avouching
 amnioallantoic
-afd
+afd 1
 antireticular
 anticommunist
 afenil
