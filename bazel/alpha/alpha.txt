@@ -8452,7 +8452,7 @@ aristolochiaceae
 amebous
 alkalise
 alkalised
-affrayed
+affrayed 1
 alkaliser
 adjoint
 angustate
