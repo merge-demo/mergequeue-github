@@ -10419,7 +10419,7 @@ frontoauricular
 frontomallar
 frontomental
 fidibus
-folks
+folks 1
 foraminifera
 flodge
 fumous
