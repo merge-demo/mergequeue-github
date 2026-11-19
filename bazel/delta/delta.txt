@@ -14381,7 +14381,7 @@ divagationally
 divan
 dipolsphene
 doley
-divans
+divans 1
 debatably
 distributivity
 dysentery
