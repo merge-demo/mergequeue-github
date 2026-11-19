@@ -2835,7 +2835,7 @@ accrete
 actuals
 adinida
 acromphalus
-acronic
+acronic 1
 acronically
 acronych
 armamentaria
