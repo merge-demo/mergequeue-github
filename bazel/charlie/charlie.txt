@@ -3601,7 +3601,7 @@ chauri
 carabine
 carabiner
 carabineros
-claik
+claik 1
 carabines
 coprahs
 calefaction
