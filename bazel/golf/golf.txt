@@ -4642,7 +4642,7 @@ greenheart
 gyrating
 galvanise
 gorillaship
-goatbush 1
+goatbush 2
 gammarid
 gentility
 gunlocks
