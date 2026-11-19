@@ -16626,7 +16626,7 @@ curiologic
 closable
 closeable
 closecross
-closed
+closed 1
 closefistedly
 closefistedness
 concussant
