@@ -16084,7 +16084,7 @@ choriocarcinomata
 cornopean
 converged
 characinid
-coassists
+coassists 1
 crinkum
 circlewise
 clyers
