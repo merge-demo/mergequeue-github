@@ -7684,7 +7684,7 @@ daddock
 depredable
 deviation
 dementias
-deviationism
+deviationism 1
 duodecagon
 diting
 disunified
