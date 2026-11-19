@@ -23026,7 +23026,7 @@ cavalcade
 consonantised
 cagmag
 consonantism
-consonantized
+consonantized 1
 cannibalizes
 consonantness
 consonants
