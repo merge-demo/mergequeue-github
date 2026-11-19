@@ -12988,7 +12988,7 @@ ensnarls
 entice
 expectorant
 espiglerie
-expectorated
+expectorated 1
 echinococcus
 enneahedria
 exculpate
