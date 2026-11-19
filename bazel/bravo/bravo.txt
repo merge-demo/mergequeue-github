@@ -4920,7 +4920,7 @@ beefburgers
 backchat
 beefeater
 beefeaters
-buccin
+buccin 1
 barkentines
 bepride
 burhinidae
