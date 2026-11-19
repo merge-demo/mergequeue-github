@@ -3497,7 +3497,7 @@ gigantological
 gestatory
 geriatric
 grivoise
-gastropore
+gastropore 1
 graphonomy
 genipaps
 gnathotheca
