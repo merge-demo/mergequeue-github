@@ -218,7 +218,7 @@ greys
 gooks
 girdling
 gags
-gonoecium
+gonoecium 1
 guarder 1
 greatens
 gradefinder
