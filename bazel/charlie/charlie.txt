@@ -2767,7 +2767,7 @@ claviers
 cereless
 cannibalization
 cannibalized
-chimps
+chimps 1
 cluttering
 cannibalizing
 coelomes
