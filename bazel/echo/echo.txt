@@ -13668,7 +13668,7 @@ encomiendas
 eject
 enphytotic
 endorsors
-erratum
+erratum 1
 epistolizable
 exteriorness
 espec 1
