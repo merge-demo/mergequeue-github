@@ -4976,7 +4976,7 @@ ganancias
 goldic
 gymnogen
 gawker
-galling
+galling 1
 glew
 goodwilled 1
 gigantic
