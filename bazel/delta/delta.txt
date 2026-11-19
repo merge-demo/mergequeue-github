@@ -2532,7 +2532,7 @@ dorothea
 decemdentate
 dipper
 dibromoacetaldehyde
-declaratorily
+declaratorily 1
 deaminate
 drain
 dotted
