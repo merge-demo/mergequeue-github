@@ -12442,7 +12442,7 @@ exhortations
 elatery
 eisegeses
 entomostracan
-exhortingly
+exhortingly 1
 exhorts
 exaltations
 exhumate
