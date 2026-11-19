@@ -24811,7 +24811,7 @@ cleome
 coquettishly
 curlycue
 colourfast
-coquicken
+coquicken 1
 cartload
 contumax
 coquille
