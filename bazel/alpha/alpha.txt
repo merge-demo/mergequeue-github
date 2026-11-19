@@ -11773,7 +11773,7 @@ aggrieved
 aerosporin
 aiawong
 adenia
-analemma
+analemma 1
 autopotent
 aconitum
 autexousy
