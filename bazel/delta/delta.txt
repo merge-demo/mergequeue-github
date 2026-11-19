@@ -9505,7 +9505,7 @@ digestor
 digestory
 decide
 digesture 1
-dinarzade
+dinarzade 1
 disapproval
 diggable
 digged
