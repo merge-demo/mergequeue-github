@@ -15745,7 +15745,7 @@ dicht
 drubbly
 dicyanine
 dogshore
-dorm
+dorm 1
 donec
 downlie
 doggoneder
