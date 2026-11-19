@@ -6913,7 +6913,7 @@ eucalyn
 epiblema
 epitrchelia
 exudation
-exarchal
+exarchal 1
 elasticize
 escudos
 embonpoint
