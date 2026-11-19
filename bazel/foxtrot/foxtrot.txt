@@ -10804,7 +10804,7 @@ fucinita
 freesilverite
 featliness
 forclose
-fricasseed
+fricasseed 1
 ferntickled
 fluxure
 fanegas
