@@ -6048,7 +6048,7 @@ excursus
 empaler
 enhydrinae
 evenminded
-empiry
+empiry 1
 eyrie
 estoque
 expromissor
