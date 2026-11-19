@@ -4032,7 +4032,7 @@ carcinopolypus
 chloroformization
 carcinosarcoma
 coloreds
-chloralide
+chloralide 1
 chinanta
 condylomas
 culpableness
