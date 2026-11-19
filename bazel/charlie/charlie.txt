@@ -29180,7 +29180,7 @@ chemawinite
 chalazae
 cryophyllite
 cryophyte
-criophore
+criophore 1
 crannogs
 chlordiazepoxide
 crownband
