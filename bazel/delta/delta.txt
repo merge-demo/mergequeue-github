@@ -13099,7 +13099,7 @@ dispensed
 dabbed
 disglory
 diactine
-dispensingly
+dispensingly 1
 dispensive
 daggered
 dispeople
