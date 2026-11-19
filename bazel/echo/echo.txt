@@ -13845,7 +13845,7 @@ eelpot
 equivocation
 evaporize
 ethionic
-ellasar
+ellasar 1
 extractability
 eluated
 enmities

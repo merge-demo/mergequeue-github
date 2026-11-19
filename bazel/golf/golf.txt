@@ -2995,7 +2995,7 @@ galatine
 ghetti
 gasifier
 geologically
-gondite
+gondite 1
 gavialis
 gelly
 galvanocauteries
