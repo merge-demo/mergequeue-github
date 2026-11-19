@@ -3510,7 +3510,7 @@ epineuria
 extrascientific
 eldress
 emblements
-earmuffs
+earmuffs 1
 expellee
 endemically
 erraticism
