@@ -3587,7 +3587,7 @@ degasify
 duco
 deadlatch
 doubletree
-decussately
+decussately 1
 dermatocoptes
 drywall
 dawny
