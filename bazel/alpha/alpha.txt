@@ -5011,7 +5011,7 @@ assumptions
 abnormalist
 awaft 1
 accentuable
-avigate
+avigate 1
 abv
 aerophysics
 areolation
