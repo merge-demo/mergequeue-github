@@ -9834,7 +9834,7 @@ expurgator
 eikon
 egocentricity
 enthronising
-endoceras
+endoceras 1
 equiomnipotent
 engin
 enslumber
