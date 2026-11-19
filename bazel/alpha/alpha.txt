@@ -17738,7 +17738,7 @@ applicative
 ammunition
 applicatively
 applicatory
-appliedly
+appliedly 1
 afterdischarge
 allegorized
 alcibiadean
