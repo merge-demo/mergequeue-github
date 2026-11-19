@@ -7546,7 +7546,7 @@ fallacious
 foreboder
 fuzils
 foretake
-fructokinase
+fructokinase 1
 funebrial
 formers
 falconries
