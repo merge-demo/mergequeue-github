@@ -7165,7 +7165,7 @@ carburettor
 centralness
 cacodaemonic
 caracas
-centranth
+centranth 1
 centrarchid
 centrarchoid
 clar
