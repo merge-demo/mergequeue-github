@@ -3436,7 +3436,7 @@ caprylic
 cymene
 caprylyl
 coat
-caprylone
+caprylone 1
 chivarro
 counterplan
 caprimulgiformes
