@@ -9692,7 +9692,7 @@ gruesome
 galeod 1
 gasp
 grassworm
-gregale
+gregale 1
 gratifying
 guachipilin
 gamahe
