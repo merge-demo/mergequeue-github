@@ -9489,7 +9489,7 @@ earthquaking
 eulogia
 electrolithotrity
 eczematoid
-entach
+entach 1
 enarch
 escout
 enstore
