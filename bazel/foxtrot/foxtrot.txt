@@ -10117,7 +10117,7 @@ fritniency
 fare
 foreknee
 fe
-feckly
+feckly 1
 fulciform
 fortuitus
 fissiparously
