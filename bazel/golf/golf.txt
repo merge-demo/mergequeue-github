@@ -10721,7 +10721,7 @@ glyoxim 1
 grumping 1
 gubernatorial
 gunnung
-graphometric
+graphometric 1
 gox
 gussets
 gloms
