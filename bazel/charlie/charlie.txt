@@ -10892,7 +10892,7 @@ chipwood
 chiquito
 clavate
 chiral
-clerids
+clerids 1
 cardstock
 contortioned
 chiralgia
