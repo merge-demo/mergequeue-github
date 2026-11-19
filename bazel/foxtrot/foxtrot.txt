@@ -9689,7 +9689,7 @@ feaking
 fruitgrower
 freith
 furcellaria
-foamingly
+foamingly 1
 feoffor
 faying
 foeship
