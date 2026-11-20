@@ -13191,7 +13191,7 @@ expirate
 endostracal
 echinopsine
 eyrar
-expiration
+expiration 1
 exponentiation
 epaxial
 exotica
