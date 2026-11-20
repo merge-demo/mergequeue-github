@@ -23457,7 +23457,7 @@ anguishous
 auftakt
 antidictionary
 apomict
-augend
+augend 1
 adversity 1
 antiantidote
 aquiform
