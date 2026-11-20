@@ -12630,7 +12630,7 @@ drubbings
 disject
 disjected
 discourage
-duntle
+duntle 1
 daredevils
 drate
 delegant
