@@ -4110,7 +4110,7 @@ gudget
 glorification
 goneoclinic
 gipsywort
-gulgul
+gulgul 1
 gratifiedly 1
 gilder
 glycerogelatin
