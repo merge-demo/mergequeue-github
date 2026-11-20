@@ -7843,7 +7843,7 @@ exarchate
 exophoria
 ejaculator
 eddish
-epigoni
+epigoni 1
 entomotaxy
 epigonic
 expletive
