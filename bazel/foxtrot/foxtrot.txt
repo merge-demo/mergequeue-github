@@ -6652,7 +6652,7 @@ forevouched
 foehnlike
 foeless
 faulted
-fulgurating
+fulgurating 1
 flossing
 forenotice
 foemanship
