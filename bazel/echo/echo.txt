@@ -9755,7 +9755,7 @@ exfoliatory
 epyllion
 estivating
 erythronium
-elamp
+elamp 1
 eurhythmy
 exitious
 enthusiast
