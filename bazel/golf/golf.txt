@@ -2419,7 +2419,7 @@ gomukhi
 glariest
 ganton
 gyrolith
-glaury
+glaury 1
 gazel
 goaled
 guiac
