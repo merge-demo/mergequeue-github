@@ -8625,7 +8625,7 @@ finnochio
 flukeless
 functionate
 fingerfishes
-faddishly
+faddishly 1
 feelers
 felt
 fearfully
