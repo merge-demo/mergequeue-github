@@ -319,7 +319,7 @@ eradicate
 esotericism
 extrema
 eirenarch
-excitement
+excitement 1
 ependymal
 ethmopresphenoidal
 essede
