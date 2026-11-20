@@ -12487,7 +12487,7 @@ discontinuations
 disconform
 disillusionising
 disdeceive
-decimalize
+decimalize 1
 disillusionments
 diaphanousness
 disgorge
