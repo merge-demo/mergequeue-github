@@ -25438,7 +25438,7 @@ crystallographers
 cornstone
 cajang
 czars
-cornua
+cornua 1
 comdt
 cornual
 compulsory
