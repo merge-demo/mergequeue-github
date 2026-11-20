@@ -12300,7 +12300,7 @@ excerp
 exemptive
 exendospermous 1
 environal
-exenterate
+exenterate 1
 etheostomidae
 electronegative
 eerock
