@@ -5401,7 +5401,7 @@ erstwhiles
 epicurishly 1
 eosphorite
 existant
-embroidered
+embroidered 1
 edges
 ethylidene
 evicted
