@@ -19192,7 +19192,7 @@ curries
 collotypy
 coontail
 cornhusks
-conjunctives
+conjunctives 1
 clitterclatter
 collotypic
 cental
