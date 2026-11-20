@@ -10395,7 +10395,7 @@ chievance
 chieve
 chifferobe
 causalgia
-cosmocratic
+cosmocratic 1
 chiffony
 citizenries
 chiffonier
