@@ -13164,7 +13164,7 @@ ciceronian
 chiaroscuro
 clon
 ciceronianisms
-ciceronianist
+ciceronianist 1
 compellability
 colluviums
 clavellate
