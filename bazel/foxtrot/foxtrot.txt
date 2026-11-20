@@ -1242,7 +1242,7 @@ fassalite 1
 fastbacks
 frigor
 flatdom 1
-faradism
+faradism 1
 fastening
 frocked
 futteret
