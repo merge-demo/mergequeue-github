@@ -7977,7 +7977,7 @@ bicyclic
 bicyclism
 blastaea
 bicyclist
-bedabbles
+bedabbles 1
 burntly 1
 bicycular
 biciliated
