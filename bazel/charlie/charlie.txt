@@ -10813,7 +10813,7 @@ chinologist
 chinone
 chinook
 chinookan 1
-caninus
+caninus 1
 cutgrasses
 clavicylinder
 counterwave
