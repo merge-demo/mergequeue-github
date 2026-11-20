@@ -5002,7 +5002,7 @@ gingelis
 germanization
 genom
 ganof
-gurgoyl
+gurgoyl 1
 gastrelcosis
 ginger
 grisliest
