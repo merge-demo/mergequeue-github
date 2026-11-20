@@ -28084,7 +28084,7 @@ chondrigen
 crandall
 curded
 cynicism
-crandallite
+crandallite 1
 cuspidine
 coastwise
 crane
