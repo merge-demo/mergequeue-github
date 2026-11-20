@@ -12533,7 +12533,7 @@ enneacontahedron
 exoskeleton
 exist
 existed
-elucidating
+elucidating 1
 esne
 enumerably
 excoecaria
