@@ -2061,7 +2061,7 @@ eunuchoidism
 echoencephalography
 encouragingly
 elaic
-enteroplegia
+enteroplegia 1
 elaioplast
 elamite
 elamitish
