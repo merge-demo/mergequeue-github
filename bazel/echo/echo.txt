@@ -8620,7 +8620,7 @@ equilibrant
 extractively
 enframe
 electrodynamometer 1
-elinguating
+elinguating 1
 ectal
 equilibrates
 exonerators
