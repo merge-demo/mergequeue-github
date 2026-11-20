@@ -2955,7 +2955,7 @@ aerotonometer
 actine
 actinenchyma
 artiness
-antijam
+antijam 1
 acting
 actiniae
 amphiprotic
