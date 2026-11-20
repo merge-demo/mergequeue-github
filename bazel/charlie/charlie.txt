@@ -27325,7 +27325,7 @@ courage
 courageous
 courager
 cherubs
-curacy
+curacy 1
 connexionalism
 couranto
 ceint
