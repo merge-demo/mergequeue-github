@@ -10176,7 +10176,7 @@ aminded
 avulsion
 artotyrite
 ambulator
-ambulatory
+ambulatory 1
 additiment
 aluminas
 affluent
