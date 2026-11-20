@@ -7221,7 +7221,7 @@ grater
 gonial
 gratin
 globosite
-gymnocarpous
+gymnocarpous 1
 gizzen
 galahad
 gonoblastidial
