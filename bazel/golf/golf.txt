@@ -1974,7 +1974,7 @@ genealogically
 greywacke
 glairs
 garnishments
-glamor
+glamor 1
 gallamine
 gnomonical
 gimbal
