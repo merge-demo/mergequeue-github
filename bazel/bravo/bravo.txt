@@ -18094,7 +18094,7 @@ butane
 butanoic
 bismuthite
 burgage
-butanol
+butanol 1
 bonked
 bibliopegistical
 butanols
