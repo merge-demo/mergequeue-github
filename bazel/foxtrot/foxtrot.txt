@@ -6793,7 +6793,7 @@ feretory
 ferryman
 farfal
 forethink
-foldcourse
+foldcourse 1
 fiberless
 folkmoots
 foredoomed
