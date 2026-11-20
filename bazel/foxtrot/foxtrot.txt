@@ -10137,7 +10137,7 @@ frivolousness
 foray 1
 faunula
 felled
-forgives
+forgives 1
 filisters
 fliting
 fenite
