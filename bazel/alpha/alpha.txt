@@ -3935,7 +3935,7 @@ adjunctly
 analogia
 admissory
 adjured
-amygdalotome
+amygdalotome 1
 aristotelism
 absconding
 adjures
