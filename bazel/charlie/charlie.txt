@@ -3254,7 +3254,7 @@ capitan
 capitana
 capitasti
 capitated
-capitatim
+capitatim 1
 cputime
 capitation
 casimere

@@ -3252,7 +3252,7 @@ dapicho
 defensibleness
 downsizes
 drays
-defensibly
+defensibly 1
 defensively
 deferentitis
 deferents
