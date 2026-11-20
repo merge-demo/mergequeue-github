@@ -7579,7 +7579,7 @@ endomysium
 endovenous
 electrocapillarity
 equivalently
-equalling
+equalling 1
 electrocoating
 extemporal
 epichondrosis
