@@ -363,7 +363,7 @@ aberrating
 astrogonic
 arrival
 aberration
-aberrational 1
+aberrational 2
 aberrative
 acinose
 avoyer
