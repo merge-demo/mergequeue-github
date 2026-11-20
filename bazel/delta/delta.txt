@@ -10327,7 +10327,7 @@ diseuses
 demurrers
 diagrammers
 ditton
-diopter
+diopter 1
 diopters
 decumary
 delf
