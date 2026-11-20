@@ -8879,7 +8879,7 @@ gregau
 guarantine
 glycerination
 greisens
-getas
+getas 1
 gleanings
 gasterotricha
 gartering
