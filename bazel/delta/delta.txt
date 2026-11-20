@@ -9794,7 +9794,7 @@ dermatocyst
 dillesk
 daimones
 denumerable
-deicer
+deicer 1
 digesters
 dillydally
 dejectile
