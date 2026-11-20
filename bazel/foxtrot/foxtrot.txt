@@ -2270,7 +2270,7 @@ florentinism
 flatulence
 firebombed
 fumaria
-forshape
+forshape 1
 full 1
 flavones
 filamentiferous
