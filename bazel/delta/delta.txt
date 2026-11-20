@@ -771,7 +771,7 @@ dandis
 discursory
 dandisette
 decoyer
-dandizette
+dandizette 1
 dayflies
 decasyllabic
 duvetyne
