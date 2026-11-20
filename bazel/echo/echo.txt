@@ -10770,7 +10770,7 @@ excursions
 exercitant
 extemporaneity
 elasticate
-euchloric
+euchloric 1
 examiners
 enchodontoid
 embryomas
