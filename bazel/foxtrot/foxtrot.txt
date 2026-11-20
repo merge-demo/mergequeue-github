@@ -7956,7 +7956,7 @@ formoxime
 foreshoe
 foreshortened 1
 fenerate
-fozier
+fozier 1
 foreshot
 ficelle
 fumatoriums
