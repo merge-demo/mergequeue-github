@@ -11960,7 +11960,7 @@ kufh
 kufhk
 kufhq
 kufhuerwukrj
-kufi
+kufi 1
 kufibl
 kufint
 kufinw
