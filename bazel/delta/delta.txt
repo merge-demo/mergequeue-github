@@ -18261,7 +18261,7 @@ disputant
 dumbfounder
 deanery
 diagrammeter
-dinaric
+dinaric 1
 dogged
 duplicidentata
 desmopyknosis
