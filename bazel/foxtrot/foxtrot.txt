@@ -9997,7 +9997,7 @@ flexitime
 finicky
 fopped
 flenching
-frypans
+frypans 1
 frillily
 falderal
 felid
