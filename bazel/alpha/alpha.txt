@@ -8771,7 +8771,7 @@ allies
 alligated
 acceders
 autoagglutinating
-arctoid
+arctoid 1
 alligatorfish
 alligatorfishes
 arbinose
