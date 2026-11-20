@@ -2126,7 +2126,7 @@ electrography
 ethicized
 empiriocritcism
 eyeteeth
-elasticity
+elasticity 1
 enchondroma
 effortlessly
 evolution
