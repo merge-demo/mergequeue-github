@@ -11814,7 +11814,7 @@ diegueno
 disembrangle
 deferrals
 dislodges
-discriminoid
+discriminoid 1
 decemberly
 diacodion
 disgregate
