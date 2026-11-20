@@ -11195,7 +11195,7 @@ devocalise
 dazingly
 dratted
 disbelieves
-disavowals
+disavowals 1
 doughfeet
 dendropogon
 deprives
