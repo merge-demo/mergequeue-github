@@ -1033,7 +1033,7 @@ crapshooter
 cyrilla
 capsulated
 cher
-compression
+compression 1
 calathus
 calatrava
 calavance
