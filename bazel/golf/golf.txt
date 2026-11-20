@@ -6324,7 +6324,7 @@ glossalgia
 geophysics
 gruneritization
 grubstaker
-goblins
+goblins 1
 goldenpert
 gallivanters
 gebang
