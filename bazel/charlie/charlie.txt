@@ -25902,7 +25902,7 @@ chopboat
 corsy
 corsican
 chyak
-chokered
+chokered 1
 circumscribes
 corsite
 corsos
