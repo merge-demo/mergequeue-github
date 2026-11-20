@@ -4783,7 +4783,7 @@ chalcidid
 carpolith
 confides
 clitellus
-carpology
+carpology 1
 corrosibility
 corynocarpaceae
 calicular
