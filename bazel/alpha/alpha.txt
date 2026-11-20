@@ -11703,7 +11703,7 @@ anthropomantic
 aruspex
 anaesthetization
 ayme
-artal
+artal 1
 anaesthetize
 apodidae 1
 anaesthetized
