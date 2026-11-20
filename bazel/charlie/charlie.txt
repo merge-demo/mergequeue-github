@@ -8251,7 +8251,7 @@ chalcidoid
 conocarp
 cadalene
 chalcocite
-compotatory
+compotatory 1
 christianomastix
 chalcogen
 chalcogenide
