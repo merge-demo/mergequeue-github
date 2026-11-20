@@ -25601,7 +25601,7 @@ corporative
 cyclonometer
 cassites
 concetti
-corporativism
+corporativism 1
 corporealization 1
 coagule
 corporeally
