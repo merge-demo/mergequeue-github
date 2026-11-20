@@ -11172,7 +11172,7 @@ blooey
 bloomed
 baloghia
 bloomeries
-begash
+begash 1
 bibliophiles
 boodleize
 bloodsuck
