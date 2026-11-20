@@ -6934,7 +6934,7 @@ fastball
 foxlike
 farthingales
 formication
-follicular
+follicular 1
 firebote
 folliculated
 fauna
