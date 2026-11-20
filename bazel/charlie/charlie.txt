@@ -1881,7 +1881,7 @@ cotwin
 calandria
 calicoed
 cordwains
-chickling
+chickling 1
 cyanophil
 conjugative
 civvies
