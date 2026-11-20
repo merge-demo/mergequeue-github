@@ -2010,7 +2010,7 @@ icsmzol
 icsolw
 icsoqo
 icspuva
-icsrulhn 1
+icsrulhn 2
 icssfrnbec
 icstbgsms
 icsuley
