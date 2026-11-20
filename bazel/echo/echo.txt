@@ -12844,7 +12844,7 @@ echoic
 emendated
 extinctor
 eisteddfods
-enumerations
+enumerations 1
 evangelistship
 efecks
 exoticist
