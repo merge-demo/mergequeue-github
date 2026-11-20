@@ -14520,7 +14520,7 @@ diviner
 divinesse
 decarburised
 disjointly
-demotic
+demotic 1
 dyadic
 divinister
 deallocating
