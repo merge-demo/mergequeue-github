@@ -10230,7 +10230,7 @@ dishcross
 doblons
 diphthong
 defibrination
-desobligeant
+desobligeant 1
 decoys
 dissolutionist
 distresses
