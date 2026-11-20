@@ -26205,7 +26205,7 @@ cosovereignty
 cospecies
 coryphodont
 cosphered
-cosplendor
+cosplendor 1
 caeciliae
 cantharidean
 confectioners
