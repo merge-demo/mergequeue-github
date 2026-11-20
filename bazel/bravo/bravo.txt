@@ -5949,7 +5949,7 @@ beltless
 benchmarks
 biauriculate
 brecciate
-bawdily
+bawdily 1
 beltman
 belts
 backstitches
