@@ -9192,7 +9192,7 @@ kopjhnfuv
 kopjp
 kopjw
 kopk
-kopkdu
+kopkdu 1
 kopkprchd
 kopmbp
 kopmmf
