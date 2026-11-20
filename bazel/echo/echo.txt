@@ -7375,7 +7375,7 @@ embue
 exstipulate
 epeiric
 exciseman
-enunciate
+enunciate 1
 ecclesiastically
 embowerment
 ephesian
