@@ -4236,7 +4236,7 @@ feistier
 felicide
 footsies
 fowls
-farinosely
+farinosely 1
 formed
 fohat
 firepinks
