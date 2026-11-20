@@ -3306,7 +3306,7 @@ ethnos
 exegetically
 eridanid
 enraged
-envisions
+envisions 1
 enclose
 euplastic
 emanational

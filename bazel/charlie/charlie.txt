@@ -9363,7 +9363,7 @@ catery
 countertree
 chauvinism
 chauvinist
-chauvinistic
+chauvinistic 1
 cumbrance
 colds
 chavante
