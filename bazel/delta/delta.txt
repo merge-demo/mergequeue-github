@@ -8541,7 +8541,7 @@ diapente
 dehydrofreeze
 diet
 diaper
-dyschromatopsia
+dyschromatopsia 1
 duchy
 dethrone
 dewbeam
