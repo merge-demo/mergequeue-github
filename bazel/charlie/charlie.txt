@@ -22492,7 +22492,7 @@ chitinized
 cochlearifoliate
 collingly
 conjugales
-conjugality
+conjugality 1
 cv
 conjugatae
 cyprinine
