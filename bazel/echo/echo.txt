@@ -4094,7 +4094,7 @@ enjambement
 erotophobia
 exteriorize
 epiphonemae
-empathized
+empathized 1
 eugenical
 electrotonize
 emil
