@@ -1152,7 +1152,7 @@ acadie
 amorphic
 airshed
 acalephoid
-anaclastic
+anaclastic 1
 arow
 acalyculate
 apheliotropic
