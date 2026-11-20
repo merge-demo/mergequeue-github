@@ -5794,7 +5794,7 @@ fv
 forestside
 forepromised
 fussiest 1
-forebear
+forebear 1
 fossiliferous
 flitterbat
 fructicultural
