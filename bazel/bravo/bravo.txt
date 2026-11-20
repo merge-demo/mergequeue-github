@@ -4943,7 +4943,7 @@ badchan
 bouncing
 bitriseptate
 beehive
-boatel
+boatel 1
 bandy
 beek
 balkers
