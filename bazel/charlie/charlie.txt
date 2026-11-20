@@ -5423,7 +5423,7 @@ chon
 carpi
 confervas
 castle
-cumacean
+cumacean 1
 castled
 castlelike
 clitocybe
