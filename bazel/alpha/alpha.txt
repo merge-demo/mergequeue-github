@@ -16268,7 +16268,7 @@ antitheologizing
 anacusis
 aggravative
 advocatrix
-argali
+argali 1
 arish
 antithesism
 antithetic
