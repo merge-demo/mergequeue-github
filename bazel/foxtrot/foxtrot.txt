@@ -6361,7 +6361,7 @@ fluocerine
 fren
 flang
 fullterm
-fluoran
+fluoran 1
 fennish
 fluorane
 francois
