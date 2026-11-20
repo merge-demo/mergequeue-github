@@ -6319,7 +6319,7 @@ fibropurulent
 fringed
 facadal
 floreted
-flunkey
+flunkey 1
 frilal
 fiddlery 1
 fumatories
