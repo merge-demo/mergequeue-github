@@ -27605,7 +27605,7 @@ charioteership
 covisitor
 conventicler
 covite
-covolume
+covolume 1
 catchpennies
 coarser
 cognoscitively
