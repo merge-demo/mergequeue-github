@@ -4078,7 +4078,7 @@ exospheric
 enforcement
 erratical
 encrusting
-eremian
+eremian 1
 engross
 earle
 elve
