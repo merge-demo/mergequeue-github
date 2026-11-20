@@ -175,7 +175,7 @@ earthmaker
 engelmanni 1
 exacts
 ejidal
-enchantingness
+enchantingness 1
 eugenetic
 ergogram
 exploration
