@@ -9644,7 +9644,7 @@ bushily
 bisymmetrical
 bigg
 borate
-bisync
+bisync 1
 boolies
 bisischiatic
 bauera
