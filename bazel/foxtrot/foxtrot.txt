@@ -1185,7 +1185,7 @@ fume
 forepass
 frighter
 foochowese
-fovea
+fovea 1
 fascist
 forgo
 filatures
