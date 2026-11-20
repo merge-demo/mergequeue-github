@@ -269,7 +269,7 @@ exclamational
 expiry
 expressivism
 eucalyptole
-eightsmen
+eightsmen 1
 electrostatic
 encashed
 electroplated
