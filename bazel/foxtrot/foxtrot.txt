@@ -3058,7 +3058,7 @@ fibred
 fibrefill
 fenestra
 fasciolidae
-foursquare
+foursquare 1
 fishier
 fibreless
 flatcar
