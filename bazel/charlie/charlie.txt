@@ -24881,7 +24881,7 @@ craving
 coralist
 coralita
 coralla
-clavodeltoid
+clavodeltoid 1
 corallian
 corallidae
 corallidomous
