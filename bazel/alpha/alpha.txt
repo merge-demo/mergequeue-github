@@ -24421,7 +24421,7 @@ adstipulated
 argenter
 ampullated
 alimentum
-autosporic
+autosporic 1
 autostarter
 airmanship
 autostylism
