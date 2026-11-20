@@ -5834,7 +5834,7 @@ gather
 gedrite
 golliwog
 geocarpic
-gastriloquy 1
+gastriloquy 2
 ginglymoarthrodia
 galumptious
 glt
