@@ -3431,7 +3431,7 @@ caprifoliaceae
 caprifolium
 cincinnatia
 capriform
-caprigenous
+caprigenous 1
 caprylic
 cymene
 caprylyl
