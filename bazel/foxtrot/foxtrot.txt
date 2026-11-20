@@ -11706,7 +11706,7 @@ foretellableness
 flugelhorn
 fasciola
 furphy
-fernsick
+fernsick 1
 frameless
 flaw
 fanfish
