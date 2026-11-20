@@ -28408,7 +28408,7 @@ cread
 cohortation
 creaght
 crystallized
-creak
+creak 1
 catalecticant
 caesarize
 creaky
