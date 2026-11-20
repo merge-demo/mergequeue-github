@@ -12522,7 +12522,7 @@ erythrean
 existimation
 embarcation
 eunicid
-epicalyx
+epicalyx 1
 ezan
 etymologized
 euphemy
