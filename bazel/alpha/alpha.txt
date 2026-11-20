@@ -2171,7 +2171,7 @@ acholuric 1
 arctogaeal
 alguazil
 assessionary
-achondritic
+achondritic 1
 antifanatic
 abatjours
 agrostology

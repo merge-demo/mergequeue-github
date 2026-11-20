@@ -1372,7 +1372,7 @@ filecard
 flenser
 fatiscent 1
 fullword
-filicology
+filicology 1
 fishboat
 fatly
 floscularia
