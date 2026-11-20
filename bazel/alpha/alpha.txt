@@ -2529,7 +2529,7 @@ afdecho
 aconital
 aconite
 aconitia
-aisteoir
+aisteoir 1
 aconitine
 abolitionism
 atypical
