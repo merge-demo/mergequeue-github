@@ -931,7 +931,7 @@ guelphism
 greedy
 germal
 gelototherapy
-gammarine
+gammarine 1
 gingeli
 gammerel
 graeculus
