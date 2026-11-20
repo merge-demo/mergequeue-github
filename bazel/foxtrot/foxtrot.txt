@@ -4582,7 +4582,7 @@ fool
 feigned
 frenchily
 fingery
-flippance
+flippance 1
 forestwards
 fibrinokinase
 fooldom 1
