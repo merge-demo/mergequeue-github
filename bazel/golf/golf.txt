@@ -6211,7 +6211,7 @@ glyptographic
 ganglionless
 grivois
 gossipdom
-gamblesome
+gamblesome 1
 gardener
 geomyidae
 guahibo
