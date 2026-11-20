@@ -10224,7 +10224,7 @@ eclair
 emotionalistic
 euphausia
 elzevirian
-elaborates
+elaborates 1
 extruders
 evansite
 epanorthosis
