@@ -1702,7 +1702,7 @@ calorimotor
 calorist
 calorizing
 cawing
-calosoma
+calosoma 1
 calotermes
 calotype
 cyclodiolefine
