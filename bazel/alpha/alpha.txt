@@ -22687,7 +22687,7 @@ acumen
 amphibolostylous
 apoise
 atherurus
-accelerant
+accelerant 1
 athetotic
 athymia
 apogonidae

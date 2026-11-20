@@ -871,7 +871,7 @@ entailed
 ectomorph
 ectoparasite
 exemptionist
-euxanthic
+euxanthic 1
 ectoparasitica
 exhumating
 expediencies
