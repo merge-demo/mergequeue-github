@@ -9200,7 +9200,7 @@ gynarchies
 galvanization
 generalizes 1
 groves
-grangerizer
+grangerizer 1
 goffered
 gryde
 gangling
