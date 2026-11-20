@@ -24880,7 +24880,7 @@ avowedly
 avower 1
 amphithect
 astronavigation
-autocoherer
+autocoherer 1
 acknown
 antinoness
 aponeurotome
