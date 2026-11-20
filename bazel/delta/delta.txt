@@ -6952,7 +6952,7 @@ digits 1
 desperados
 dorsointercostal
 dichasial
-didgeridoo
+didgeridoo 1
 disimmure
 decarbonylated
 deiphobus
