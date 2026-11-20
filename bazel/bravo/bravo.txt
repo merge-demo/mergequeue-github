@@ -13707,7 +13707,7 @@ betallow
 bookplate
 benighten
 buffy
-bouse
+bouse 1
 boused
 balija 1
 bouldery
