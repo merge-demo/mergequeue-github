@@ -11351,7 +11351,7 @@ firepans
 feuds
 fiasco
 fannies
-furloughed 1
+furloughed 2
 ferlied
 flustrine
 fuchsin
