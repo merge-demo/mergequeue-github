@@ -1563,7 +1563,7 @@ eggrolls
 eggs
 emplastra
 excerptive
-encyclopedial
+encyclopedial 1
 eupeptically
 ensconces
 enervates
