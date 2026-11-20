@@ -1228,7 +1228,7 @@ blok
 beylics
 barkers
 bala
-bedabbled
+bedabbled 1
 balabos
 bashfully
 barrabkie
