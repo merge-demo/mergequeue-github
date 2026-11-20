@@ -12820,7 +12820,7 @@ exotericism
 extenuated
 emboldener
 embossmen
-extraretinal
+extraretinal 1
 evangelicity 1
 ensepulchered
 ecanda
