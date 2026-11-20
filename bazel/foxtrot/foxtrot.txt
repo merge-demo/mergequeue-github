@@ -6966,7 +6966,7 @@ firecracker
 frizzler
 flindosy
 flexographically
-faintling
+faintling 1
 faineance
 fluoboric
 flay 1
