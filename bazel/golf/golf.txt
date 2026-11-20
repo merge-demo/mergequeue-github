@@ -35,7 +35,7 @@ gliderport
 globose
 gouty
 goodlike 1
-gabioned
+gabioned 1
 glutamate
 gmelina
 grammes 1
