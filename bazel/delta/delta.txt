@@ -5835,7 +5835,7 @@ depositors
 dowel 1
 divestible
 dislimns
-dulcitol
+dulcitol 1
 dichotomously
 deafforest
 destrier
