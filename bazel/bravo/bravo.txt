@@ -5050,7 +5050,7 @@ botanised
 battlers
 blazoned 1
 bastonet
-bowfin
+bowfin 1
 bloodthirst
 befamilied
 biogeography
