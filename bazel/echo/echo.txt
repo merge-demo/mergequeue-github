@@ -6585,7 +6585,7 @@ enterer
 eulogious
 excusive
 eccritic
-embattled
+embattled 1
 epimedium
 enorthotrope
 electricity
