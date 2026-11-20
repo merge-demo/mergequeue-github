@@ -3237,7 +3237,7 @@ foots
 friers
 frostwort
 flexionless
-fango
+fango 1
 fuchsone
 forefend
 flunkies
