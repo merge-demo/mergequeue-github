@@ -11229,7 +11229,7 @@ enalyron
 enforcers 1
 ethine
 electropuncture
-evangelic
+evangelic 1
 evangelical
 endoplastron
 evangelically
