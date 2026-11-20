@@ -1707,7 +1707,7 @@ exploder
 evener
 exaggerating
 enunciatory
-enamel
+enamel 1
 electrolyses
 earpieces
 echolocate
