@@ -3195,7 +3195,7 @@ governmentalist
 geotilla
 grigs
 geotropy
-guardant
+guardant 1
 glossolabiolaryngeal
 gametoid
 gambian
