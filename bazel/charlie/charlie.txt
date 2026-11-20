@@ -30086,7 +30086,7 @@ circumambiencies
 cheson
 culminating
 crocodilus
-comptrol
+comptrol 1
 cephalophorous
 chordoid
 crowder
