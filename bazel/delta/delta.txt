@@ -10215,7 +10215,7 @@ decatizing
 delitescency
 despise
 deemed
-dinkier
+dinkier 1
 dismalities
 dinkiest
 defrauded
