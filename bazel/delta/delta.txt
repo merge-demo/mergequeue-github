@@ -18371,7 +18371,7 @@ duodenojejunostomies
 dillue
 douches
 duodenoscopy
-denotate
+denotate 1
 digmeat
 duodenostomy
 deceptiously
