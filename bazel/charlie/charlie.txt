@@ -25057,7 +25057,7 @@ cracovienne
 cardiomotility
 corectomy
 coredeemer
-coredeems
+coredeems 1
 coree
 coreflexed
 chinked
