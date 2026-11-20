@@ -1256,7 +1256,7 @@ exposition
 episomal
 evaluation
 endopleuritic
-enmanche
+enmanche 1
 eelfare
 encrinite
 emperors
