@@ -1070,7 +1070,7 @@ dorsodynia
 doling
 darraign
 dacryocystorhinostomy
-depositions
+depositions 1
 darrein
 devonite
 darshan
