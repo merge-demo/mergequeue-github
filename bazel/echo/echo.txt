@@ -3105,7 +3105,7 @@ extemporize
 elliptograph
 elliptoid
 extraparietal
-eke
+eke 1
 elm 1
 embarrassment
 educing
