@@ -4859,7 +4859,7 @@ exhalate
 equitable
 encouraged
 estrous
-excellences
+excellences 1
 epigne
 ephydriad
 expertise
