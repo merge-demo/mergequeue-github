@@ -13867,7 +13867,7 @@ bilious
 birches
 bedrite
 bowing
-bowings
+bowings 1
 bowkail
 barkentine
 blad
