@@ -12955,7 +12955,7 @@ epitonion
 empurple
 enchafe
 enhardy
-examines
+examines 1
 erythrol
 expectantly
 expectation
