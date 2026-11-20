@@ -10448,7 +10448,7 @@ deticking
 diphenoxylate
 diphysite
 dosimeters
-damask
+damask 1
 discolith
 devinct
 disinflame
