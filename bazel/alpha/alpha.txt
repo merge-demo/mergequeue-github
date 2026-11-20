@@ -20675,7 +20675,7 @@ artichoke
 acidimetrical
 afghani
 aspirates
-acanthial
+acanthial 1
 aulostomid
 amphorous
 arefy

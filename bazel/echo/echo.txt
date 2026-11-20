@@ -2138,7 +2138,7 @@ externat
 emperish 1
 equilibrio
 epipubes
-equiangle
+equiangle 1
 elastomers 1
 elastose
 epeisodia
