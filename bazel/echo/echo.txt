@@ -10840,7 +10840,7 @@ eelfish
 eloigners
 entosternum
 earache
-educes
+educes 1
 echini
 educationally
 embassiate
