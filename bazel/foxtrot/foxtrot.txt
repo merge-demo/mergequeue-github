@@ -4183,7 +4183,7 @@ franchisor
 fining
 filaria
 fucaceae
-fanos
+fanos 1
 fingent
 floodtime
 firebrick
