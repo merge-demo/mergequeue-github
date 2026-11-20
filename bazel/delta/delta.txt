@@ -369,7 +369,7 @@ droughtiness
 detruss 1
 daymares 1
 disseizes
-diarists
+diarists 1
 discoloured
 dasher
 daymark

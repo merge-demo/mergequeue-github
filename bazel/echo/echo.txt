@@ -12935,7 +12935,7 @@ embracery
 erigible
 expatriate
 expatriating
-enthusiastic
+enthusiastic 1
 escalado
 emboites
 expatriatism
