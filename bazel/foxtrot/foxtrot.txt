@@ -6688,7 +6688,7 @@ fogfruit
 fibrins
 fruiteress
 flatterable
-flintlock
+flintlock 1
 flexura
 flouts
 fogfruits

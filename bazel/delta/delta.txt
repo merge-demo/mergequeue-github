@@ -7228,7 +7228,7 @@ darns
 disenchantingly
 detecter
 detecters
-decemvirate
+decemvirate 1
 duffels
 digitate
 decertify
