@@ -30245,7 +30245,7 @@ cucurbit
 cruets
 cruised
 controllers
-cruises
+cruises 1
 cruising
 cruive
 cruller
