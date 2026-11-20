@@ -2752,7 +2752,7 @@ enditing
 erythrocyte
 evangelary
 elegy
-emblematicize
+emblematicize 1
 elegiacally
 eighthly
 exprobate
