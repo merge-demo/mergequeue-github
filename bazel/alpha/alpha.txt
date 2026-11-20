@@ -20727,7 +20727,7 @@ aces
 affrontingly
 avid
 arterially
-antarchy
+antarchy 1
 augmenting
 acquitment
 artifactitious
