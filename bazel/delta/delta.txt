@@ -1067,7 +1067,7 @@ dewooled
 dimeters
 decarch
 dorsodynia
-doling
+doling 1
 darraign
 dacryocystorhinostomy
 depositions
