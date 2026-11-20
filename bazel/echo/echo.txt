@@ -2671,7 +2671,7 @@ embiidina
 electrostriction 1
 epizootiologic
 ejurate
-epitomizing
+epitomizing 1
 emong
 electrosurgery
 enventual
