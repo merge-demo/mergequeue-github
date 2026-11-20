@@ -27602,7 +27602,7 @@ coving
 carapus
 covinous
 charioteership
-covisitor
+covisitor 1
 conventicler
 covite
 covolume
