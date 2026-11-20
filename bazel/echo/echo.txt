@@ -5035,7 +5035,7 @@ expelled
 evangelistics
 endgate
 enneads
-extorsively
+extorsively 1
 emplane
 executant
 eumitotic
