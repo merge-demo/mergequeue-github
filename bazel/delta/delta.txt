@@ -12519,7 +12519,7 @@ disinclination
 disinclined 1
 disinclining
 dolichotmema
-disindividualize
+disindividualize 1
 doorkeep
 dicotyledonary
 disinfectants
