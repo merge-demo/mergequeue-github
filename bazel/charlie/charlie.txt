@@ -1220,7 +1220,7 @@ cestuses
 cecily
 caledonite
 clape
-confections
+confections 1
 cacosplanchnia
 commissarial
 calef
