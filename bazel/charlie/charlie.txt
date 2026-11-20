@@ -3528,7 +3528,7 @@ captain
 captaincy
 captaincies
 caprioled
-captainry
+captainry 1
 captainship
 counterpetition
 communistically
