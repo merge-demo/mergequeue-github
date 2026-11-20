@@ -6338,7 +6338,7 @@ dermobranchiate
 dangles
 diagrammatical
 dermogastric
-dean
+dean 1
 dermoidectomy 1
 desexed
 dos
