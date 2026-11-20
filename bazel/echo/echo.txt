@@ -6132,7 +6132,7 @@ erythroderma
 euchorda
 expiscating
 enlivener
-elvis
+elvis 1
 encina
 erminites
 extremum

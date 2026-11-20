@@ -13036,7 +13036,7 @@ blackberry
 bucking
 bordering 1
 bemantle
-balangay
+balangay 1
 bolster
 blousing
 borders
