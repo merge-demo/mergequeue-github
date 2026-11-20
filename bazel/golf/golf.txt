@@ -2413,7 +2413,7 @@ gauk
 gruesomer
 gleemaiden
 gyrencephalous
-giddily
+giddily 1
 gonochoristic
 gomukhi
 glariest
