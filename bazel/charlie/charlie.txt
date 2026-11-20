@@ -5636,7 +5636,7 @@ cordaitean
 catamount
 catapasm
 caducity
-comprizable
+comprizable 1
 cataphyll
 correlativism
 chlorococcum
