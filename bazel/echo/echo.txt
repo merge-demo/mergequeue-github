@@ -10944,7 +10944,7 @@ emotiometabolic
 embalmer
 exdie
 editorializer
-equability
+equability 1
 eggnogs
 eggbeater
 epipelagic
