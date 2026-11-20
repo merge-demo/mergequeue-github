@@ -8448,7 +8448,7 @@ formamidine 1
 fasels
 fluorinating
 freethinking
-fulminous
+fulminous 1
 fuliginousness
 francomania
 fuze
