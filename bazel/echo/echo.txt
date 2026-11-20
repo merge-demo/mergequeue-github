@@ -9661,7 +9661,7 @@ epilogize
 excitable
 ensearcher
 espingole
-execrative
+execrative 1
 equaling
 editchar
 espino

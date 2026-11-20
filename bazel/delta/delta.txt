@@ -9555,7 +9555,7 @@ dialogising
 digladiating
 decken
 duellos
-diglots
+diglots 1
 desmatippus
 disenchantment
 diglottist
