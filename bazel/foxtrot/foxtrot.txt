@@ -10956,7 +10956,7 @@ fedayee
 fructifying
 frey
 finally
-fumarases
+fumarases 1
 fouling
 fallfish
 firmless
