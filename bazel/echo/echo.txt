@@ -7403,7 +7403,7 @@ equipollency
 eyres
 epencephala
 embittering
-emprise
+emprise 1
 ethidene
 enantiomorphously
 enskied
