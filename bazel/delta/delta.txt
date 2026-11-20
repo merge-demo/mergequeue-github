@@ -18001,7 +18001,7 @@ dentelle
 dyers
 dulcified
 dulcifluous
-defaitisme
+defaitisme 1
 dulcigenic
 dehydrogenizer
 dulciloquent
