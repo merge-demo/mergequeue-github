@@ -9195,7 +9195,7 @@ gratulatory
 glycolytically 1
 guanajuatite
 galvanometer
-greenwich
+greenwich 1
 gynarchies
 galvanization
 generalizes 1
