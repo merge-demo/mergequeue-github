@@ -4648,7 +4648,7 @@ bioplasmic
 betsileos
 bedewed
 bulrushlike
-ballistically
+ballistically 1
 bedews
 broadgage
 brunhild
