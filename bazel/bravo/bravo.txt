@@ -18402,7 +18402,7 @@ benzoins
 benthonic
 bvt
 berginize 1
-bowfins
+bowfins 1
 bagwash
 buttonweed
 bwanas
