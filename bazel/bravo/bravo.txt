@@ -12149,7 +12149,7 @@ broche
 begrudgingly
 burdeners
 bedflower
-bolled
+bolled 1
 bemuzzle
 bisognio
 boarishness
