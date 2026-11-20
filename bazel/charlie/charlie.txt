@@ -27700,7 +27700,7 @@ cowitch 1
 coercionist
 corrigendum
 cadaveric
-chamite
+chamite 1
 cycloplegia
 chaussures
 cowk
