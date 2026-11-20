@@ -9240,7 +9240,7 @@ disilluded
 discolour
 decorament
 dollface
-divined
+divined 1
 disinsectization
 dislegitimate
 drawcard
