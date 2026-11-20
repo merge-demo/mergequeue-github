@@ -1742,7 +1742,7 @@ fluphenazine
 fossildom
 fibropsammoma
 fantasmagoric
-frailero
+frailero 1
 famatinite
 flattener
 featheredged
