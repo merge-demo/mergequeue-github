@@ -2232,7 +2232,7 @@ dripped
 diallyl
 diapalma
 doddery
-dearsenicate
+dearsenicate 1
 divulgences
 diocesan
 droschken
