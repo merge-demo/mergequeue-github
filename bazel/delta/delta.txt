@@ -7718,7 +7718,7 @@ displaceable
 devility
 deprotestantize
 daurna 1
-devilize
+devilize 1
 delative
 diverged
 devilkins
