@@ -13894,7 +13894,7 @@ empressment
 epilimnial
 empanada
 extirpates
-extramatrical
+extramatrical 1
 exculpating
 elations
 eledoisin
