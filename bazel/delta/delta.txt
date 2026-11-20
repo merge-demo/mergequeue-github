@@ -1392,7 +1392,7 @@ david
 definitised
 defroster
 davidian
-davidic
+davidic 1
 davidical
 davidist
 deicing

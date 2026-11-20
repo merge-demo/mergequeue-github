@@ -9592,7 +9592,7 @@ gossiphood
 gujrati
 gerbe
 gowds
-gedanite
+gedanite 1
 gravimeters
 glandula
 graphite

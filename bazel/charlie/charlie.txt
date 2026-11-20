@@ -7472,7 +7472,7 @@ curarized
 caffle
 ceratitis
 ceratitoidea
-cataleptics
+cataleptics 1
 ceratoblast
 ceratodidae
 ceratoduses
