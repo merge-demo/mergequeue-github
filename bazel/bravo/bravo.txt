@@ -6636,7 +6636,7 @@ bicycloheptane
 baseheartedness
 bagass
 bergman
-bergs
+bergs 1
 breastbone
 bordar
 boneshave
