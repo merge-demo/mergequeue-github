@@ -11609,7 +11609,7 @@ discontentments
 disboweled
 discontents
 discontiguity
-discontinuances
+discontinuances 1
 dambonite
 debuts
 dishabit
