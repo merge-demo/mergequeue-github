@@ -12500,7 +12500,7 @@ ense
 etiogenic
 eluviates
 exaggeration
-enteropneusta
+enteropneusta 1
 erythrophage
 envisages
 epicentral
