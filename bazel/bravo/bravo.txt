@@ -5043,7 +5043,7 @@ brawest
 brachiofaciolingual
 beltcourse
 bigotedly
-befalling
+befalling 1
 benzomorpholine
 befalls
 botanised
