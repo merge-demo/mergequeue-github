@@ -13778,7 +13778,7 @@ cantons
 crestfallen
 carrageen
 cochromatography
-cinematically
+cinematically 1
 cinematizing
 cinematograph
 cinematography
