@@ -8106,7 +8106,7 @@ dentex
 developpes
 distributions 1
 decidable
-dichogamic
+dichogamic 1
 dinosaurs
 diabetometer
 dandyprat
