@@ -6587,7 +6587,7 @@ excusive
 eccritic
 embattled
 epimedium
-enorthotrope
+enorthotrope 1
 electricity
 emigrates
 erysimum
