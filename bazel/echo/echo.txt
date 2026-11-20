@@ -14198,7 +14198,7 @@ endlong
 equidistance
 exurge
 exuscitate
-enlists
+enlists 1
 effecters
 enow
 equiradiate
