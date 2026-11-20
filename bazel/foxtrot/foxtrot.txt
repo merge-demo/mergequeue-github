@@ -6653,7 +6653,7 @@ foehnlike
 foeless
 faulted
 fulgurating
-flossing
+flossing 1
 forenotice
 foemanship
 fripperer
