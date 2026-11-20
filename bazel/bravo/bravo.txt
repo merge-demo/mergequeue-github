@@ -9700,7 +9700,7 @@ bigotedness
 bacchanalianly
 bedpad
 beetfly
-betokening
+betokening 1
 bissabol
 birdmouthed
 bacchante
