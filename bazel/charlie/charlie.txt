@@ -4859,7 +4859,7 @@ cinchonicin
 carriageway
 carryall
 carrick
-carrycot
+carrycot 1
 chromatoplasm
 carried
 carryed
