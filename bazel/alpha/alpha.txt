@@ -16638,7 +16638,7 @@ albronze
 aperiodically
 ambulanced
 average
-aperiodicity
+aperiodicity 1
 antiradiation
 acaroid
 apert
