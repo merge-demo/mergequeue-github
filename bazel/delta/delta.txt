@@ -5433,7 +5433,7 @@ dermolysis
 douched
 dialysation
 denumerably
-denumerantive
+denumerantive 1
 disestablished
 drumbledore
 disinure
