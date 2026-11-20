@@ -12994,7 +12994,7 @@ anticomplementary
 angust
 adrenine
 auronal
-angustirostrate
+angustirostrate 1
 admirator
 angustifolious
 angustisellate
