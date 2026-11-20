@@ -10465,7 +10465,7 @@ elytrtra
 enoplan
 ethicalness
 effluviums
-ericius
+ericius 1
 etypically
 emblemed
 enteroviral
