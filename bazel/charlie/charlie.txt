@@ -19399,7 +19399,7 @@ contestability
 colorific
 colorifics
 colorimeter
-colorimetrically
+colorimetrically 1
 colorimetrics
 chemmy
 colorimetrist
