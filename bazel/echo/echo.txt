@@ -12982,7 +12982,7 @@ encephalopyosis 1
 erminette
 etheling
 evicke
-exposals
+exposals 1
 emotion
 ensnarls
 entice
