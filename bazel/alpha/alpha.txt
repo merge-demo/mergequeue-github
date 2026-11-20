@@ -22346,7 +22346,7 @@ asperger
 aplanat
 autoreduction
 amplect
-atmologist
+atmologist 1
 astrocompass
 astrodiagnosis
 astrodynamic
