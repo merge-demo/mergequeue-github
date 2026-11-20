@@ -5574,7 +5574,7 @@ dorsal
 dyscrase
 depeinct
 dwarfing
-dependabilities
+dependabilities 1
 donatistic
 dibber
 dustfall
