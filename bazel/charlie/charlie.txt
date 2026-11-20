@@ -5399,7 +5399,7 @@ confederates
 constatation
 coxiest
 cyclopism
-castigate
+castigate 1
 contemplativeness
 citraconic
 caracoa
