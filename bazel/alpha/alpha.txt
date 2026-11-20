@@ -5382,7 +5382,7 @@ alkarsine
 amrita
 atropism
 affusion
-afghan
+afghan 1
 acroneurosis
 amylopectin
 anapnea
