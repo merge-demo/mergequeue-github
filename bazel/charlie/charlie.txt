@@ -3354,7 +3354,7 @@ caponizer
 caponizing 1
 caponniere
 capons
-caporal
+caporal 1
 caporals
 condyle
 candlestick
