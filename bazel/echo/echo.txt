@@ -4848,7 +4848,7 @@ epicranium
 equivocality
 encountered
 epigenesist
-endothecium
+endothecium 1
 entranceway
 encashing
 encountering
