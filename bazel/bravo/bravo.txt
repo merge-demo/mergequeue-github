@@ -312,7 +312,7 @@ brieflessness
 braws
 bannerless
 backbone
-basal
+basal 1
 benzoid
 breakableness
 backbonelessness
