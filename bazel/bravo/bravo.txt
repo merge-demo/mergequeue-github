@@ -490,7 +490,7 @@ batteries
 breakax
 bismillah
 betweentimes
-buffo
+buffo 1
 backstaff
 bridely
 backstitch
