@@ -693,7 +693,7 @@ aspern
 absorbency
 abortive
 afebrile
-abortiveness
+abortiveness 1
 allegorising
 american
 animadversion
