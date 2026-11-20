@@ -8300,7 +8300,7 @@ biggen
 biggened
 baccharoid
 bakepan
-barbarous
+barbarous 1
 boastingly
 brahmani
 biliate
