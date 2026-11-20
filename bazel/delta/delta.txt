@@ -2223,7 +2223,7 @@ dissipativity
 decasualise
 disgavel
 decasualized
-dialectological
+dialectological 1
 didymous
 decathlons 1
 disunionist
