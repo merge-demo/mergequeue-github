@@ -27657,7 +27657,7 @@ codhead
 cowed
 cowered
 cowerers
-camerlingo
+camerlingo 1
 coweringly
 cowers
 cowgrass
