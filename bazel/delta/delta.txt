@@ -12191,7 +12191,7 @@ disfigurer
 demarcated
 didactician
 diasper
-depositure
+depositure 1
 degausser
 despiciency
 demander

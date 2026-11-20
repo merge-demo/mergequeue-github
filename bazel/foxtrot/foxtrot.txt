@@ -1788,7 +1788,7 @@ feathertop
 frogmen
 flabra
 flutina
-flaunts
+flaunts 1
 foredoes
 flannelet
 featherwing
