@@ -4367,7 +4367,7 @@ adenoids
 agaristidae
 adstipulator
 aduana
-adularescence
+adularescence 1
 appointments 1
 abbes
 assertorial
