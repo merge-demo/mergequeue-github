@@ -2041,7 +2041,7 @@ feinter 1
 feudary
 fundi
 facedown
-faucalize
+faucalize 1
 fireboat
 flindosa
 forwander
