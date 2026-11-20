@@ -974,7 +974,7 @@ atlantomastoid
 astron
 abstemiousness
 abstentionism
-anaptyctical
+anaptyctical 1
 abstentionist
 alliaceous
 arsenohemol
