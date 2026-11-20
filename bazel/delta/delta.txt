@@ -15785,7 +15785,7 @@ dorsa
 dentiparous
 demountability
 dramatizer
-diallela
+diallela 1
 dorsabdominal
 dungier
 dihydroxytoluene
