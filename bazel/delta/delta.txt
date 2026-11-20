@@ -10051,7 +10051,7 @@ defailance
 diselectrify
 dozier
 dishonour
-deled
+deled 1
 damply
 dedal
 dogfought
