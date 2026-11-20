@@ -3629,7 +3629,7 @@ embraid
 emotions
 embrail
 empowers
-exactiveness
+exactiveness 1
 embranchment
 ellick
 evestar
