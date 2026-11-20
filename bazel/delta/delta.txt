@@ -5415,7 +5415,7 @@ denuclearized
 desegregating
 deyhouse
 decoction
-delicatesse
+delicatesse 1
 daffodil
 denudant
 dendra
