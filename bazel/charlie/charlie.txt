@@ -8963,7 +8963,7 @@ charybdis
 chestnutty
 charicleia
 castigates
-charier
+charier 1
 chariest
 curdle
 charily
