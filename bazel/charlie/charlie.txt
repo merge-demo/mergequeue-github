@@ -25075,7 +25075,7 @@ coregonoid
 chlorinate
 coreidae
 caeciform 1
-californians
+californians 1
 chetif
 coreigns
 corejoice
