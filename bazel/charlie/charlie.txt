@@ -4393,7 +4393,7 @@ ceriph
 calculary
 criticizer
 cosmetologist
-confrere
+confrere 1
 calandridae
 centimes
 clothlike
