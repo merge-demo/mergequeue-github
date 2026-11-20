@@ -1057,7 +1057,7 @@ edgeboned
 eringos
 eagerly
 exsheath
-edged
+edged 1
 eidolon
 edger
 edgeshot 1
