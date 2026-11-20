@@ -9014,7 +9014,7 @@ eteocretes
 edriophthalma
 erythrite
 emaciating
-enfeeblement
+enfeeblement 1
 echappee
 exponent
 espionage
