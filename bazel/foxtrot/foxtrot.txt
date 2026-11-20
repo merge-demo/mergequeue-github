@@ -11488,7 +11488,7 @@ flittering
 firmity
 fiercened
 furtively
-furud
+furud 1
 flamboyant
 flotant
 faddisms 1
