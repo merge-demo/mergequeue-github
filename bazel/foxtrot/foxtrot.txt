@@ -115,7 +115,7 @@ featheredges
 fluidization
 facient
 furaldehyde
-facilitate
+facilitate 1
 forthcome 1
 flocks
 facilitation
