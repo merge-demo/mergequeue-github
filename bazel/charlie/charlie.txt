@@ -19447,7 +19447,7 @@ compositous
 confederationist 1
 colostration
 colostrous
-colostrum
+colostrum 1
 colotomy
 colotomies
 cockroach
