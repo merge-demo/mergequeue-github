@@ -11967,7 +11967,7 @@ aeolotropy
 ajee
 antimitotic
 anaplasma
-anaplasty
+anaplasty 1
 arrogatingly
 anosmia
 appendiculata

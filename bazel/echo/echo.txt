@@ -13133,7 +13133,7 @@ enzymic
 extradicted
 equipendent
 exfodiate
-enunciators
+enunciators 1
 eternality
 episioplasty
 experimenter
