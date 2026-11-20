@@ -17897,7 +17897,7 @@ appressoria
 appressorial
 anticold
 anabathmos
-allodesmism
+allodesmism 1
 appressorium
 abhorred
 appreteur
