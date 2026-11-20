@@ -10058,7 +10058,7 @@ kprnrpuf
 kprnrw
 kprnxl 1
 kpron
-kprqkw
+kprqkw 1
 kprrssqsq
 kprslovoeuog
 kprtmqzcfmoqlpdw 1
