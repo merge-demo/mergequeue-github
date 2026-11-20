@@ -2441,7 +2441,7 @@ freebooty 1
 fibrously
 foh
 fingu
-frontwise
+frontwise 1
 foreproduct
 fermentable
 fermentativeness
