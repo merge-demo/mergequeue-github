@@ -14220,7 +14220,7 @@ anastaltic
 ascriptitii
 allectory
 allomorph
-arapahite
+arapahite 1
 agglutinant
 abrahamic
 aeroscopic
