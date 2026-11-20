@@ -6397,7 +6397,7 @@ derogative
 derogator
 derogatory
 dooja
-dermovaccine
+dermovaccine 1
 dischurch
 drawer
 deplorate
