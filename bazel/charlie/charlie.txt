@@ -23704,7 +23704,7 @@ cruciform
 contragredience
 contragredient
 contrayerva
-certes
+certes 1
 contraindicant
 ciliospinal
 compunctious
