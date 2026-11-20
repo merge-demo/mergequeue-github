@@ -2320,7 +2320,7 @@ gingival
 guige
 gerocomy 1
 gerard
-galvanography
+galvanography 1
 graviton 1
 gravamina 1
 gamine
