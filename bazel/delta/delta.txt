@@ -1477,7 +1477,7 @@ dipropellant
 deuteroplasm
 dories
 dispulp
-dazement
+dazement 1
 deckhouses
 dazes
 dazzle
