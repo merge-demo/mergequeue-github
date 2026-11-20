@@ -14492,7 +14492,7 @@ anthropodeoxycholic
 achenium
 anthropogenic
 animadverts
-addictiveness
+addictiveness 1
 affrontedly
 anthropogeographical 1
 anthropoglot
