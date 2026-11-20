@@ -4591,7 +4591,7 @@ frees
 festing
 fesswise
 fringilliformes
-foliages 1
+foliages 2
 flunkyism
 fissidens
 fossilify
