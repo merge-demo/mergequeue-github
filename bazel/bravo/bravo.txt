@@ -16071,7 +16071,7 @@ bigamize 1
 bronze
 bhotia
 brethren
-bannered
+bannered 1
 bronzewing
 bio
 bcd
