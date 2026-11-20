@@ -3910,7 +3910,7 @@ drake
 dejeration
 dejeuner
 dekadrachm
-dekagramme
+dekagramme 1
 doggerelize
 discommunity
 decumbiture
