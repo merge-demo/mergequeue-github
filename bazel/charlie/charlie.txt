@@ -5482,7 +5482,7 @@ colic
 conductances
 cellar
 casuistries
-casus
+casus 1
 cat
 catabaptist
 contos
