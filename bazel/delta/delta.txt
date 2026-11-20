@@ -9619,7 +9619,7 @@ dhootie
 dodecatemory
 discipleship
 dishumour
-diplobacterium
+diplobacterium 1
 disruption
 dowing
 dihybridism
