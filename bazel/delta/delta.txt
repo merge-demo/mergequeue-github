@@ -4856,7 +4856,7 @@ diestrum
 dognapers
 durableness
 demonise
-dactyliotheca
+dactyliotheca 1
 dodlet
 deaneries 1
 ductile

@@ -11429,7 +11429,7 @@ enhaloing
 expenditor
 encephalosis
 edgebone
-ependymary
+ependymary 1
 everted
 euouae
 eli
