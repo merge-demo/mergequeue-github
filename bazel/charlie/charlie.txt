@@ -10826,7 +10826,7 @@ chinsing
 coragio
 chintses
 chintz
-chaperons
+chaperons 1
 chintze
 cystal
 chintzy
