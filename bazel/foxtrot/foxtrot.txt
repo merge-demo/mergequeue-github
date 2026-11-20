@@ -5370,7 +5370,7 @@ fruiteries 1
 ferulaic
 foldboater
 foreclosed
-faconde
+faconde 1
 floccillation
 ferrocyanide
 faverel
