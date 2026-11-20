@@ -4151,7 +4151,7 @@ ensheathed
 every
 etymologically
 endurability
-entombments
+entombments 1
 eniac
 emplunge
 eccentring
