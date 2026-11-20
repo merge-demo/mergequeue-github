@@ -7531,7 +7531,7 @@ greathead 1
 guideless
 gatelike
 goliardery
-greenbone
+greenbone 1
 gorbellies
 gymnast
 governmental
