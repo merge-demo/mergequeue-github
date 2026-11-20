@@ -31041,7 +31041,7 @@ centiliters
 cicala
 cheilanthes
 chainage
-calescence
+calescence 1
 crepe
 colorize
 caprocks
