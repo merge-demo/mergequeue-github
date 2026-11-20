@@ -2739,7 +2739,7 @@ eleemosinar
 ebons
 equipotent
 electees
-edentate
+edentate 1
 envoi
 eleemosynary
 etymology
