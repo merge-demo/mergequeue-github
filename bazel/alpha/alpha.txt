@@ -19921,7 +19921,7 @@ armorican
 albescence
 adenofibrosis
 anagnorisis
-apperceived
+apperceived 1
 animalculism
 astrocytomata
 arterialized
