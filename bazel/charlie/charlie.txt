@@ -4362,7 +4362,7 @@ cowlstaff
 caricous
 craker
 crestfish
-caridean
+caridean 1
 chirarthritis
 cirrhous
 carien
