@@ -3259,7 +3259,7 @@ glucemia
 geometrising
 geosynclines
 goetical
-gere
+gere 1
 gereagle
 gleeful
 gauze
