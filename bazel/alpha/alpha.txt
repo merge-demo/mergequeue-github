@@ -17797,7 +17797,7 @@ ampule
 apportioner
 antiquitarian
 antiproductionist
-arrantness
+arrantness 1
 anthophoridae
 apportioning
 analphabetic
