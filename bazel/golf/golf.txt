@@ -1405,7 +1405,7 @@ gausterer
 gearshift
 gcd
 gangplow
-grundyite
+grundyite 1
 galvanopsychic
 gipsying
 guilloche
