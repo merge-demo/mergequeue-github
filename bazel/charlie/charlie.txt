@@ -13567,7 +13567,7 @@ cymbalists
 cymballed
 cymballing
 cymbalom
-cimbaloms
+cimbaloms 1
 cymbalon
 cymbel
 cymbid
