@@ -5210,7 +5210,7 @@ gaposis
 galore
 gemara
 gentianose
-gieseckite
+gieseckite 1
 geogenesis
 grottesco
 grimful
