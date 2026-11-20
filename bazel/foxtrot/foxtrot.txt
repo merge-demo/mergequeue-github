@@ -852,7 +852,7 @@ failsafe
 farforthly
 flexing
 fellness
-farenheit
+farenheit 1
 fantasmal 1
 fundus
 fantasms
