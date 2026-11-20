@@ -15966,7 +15966,7 @@ centares
 clerid
 chicaning
 ceder
-comfrey
+comfrey 1
 clerihews
 clerisies
 certifiably
