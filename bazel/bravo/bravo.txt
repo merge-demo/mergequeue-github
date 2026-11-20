@@ -14655,7 +14655,7 @@ blackballing
 backbites
 blackishness
 bigmouth
-betusked
+betusked 1
 brasiletto
 brasilin
 bibliomancy
