@@ -12976,7 +12976,7 @@ antisurplician
 airometer
 argentinidae
 angulated
-angulately
+angulately 1
 appearance
 adulterator
 astrer

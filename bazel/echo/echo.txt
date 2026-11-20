@@ -10373,7 +10373,7 @@ epistolary
 elkoshite
 ethnozoology
 ethography
-excepter
+excepter 1
 entropion
 ethology
 ethnogeographer
