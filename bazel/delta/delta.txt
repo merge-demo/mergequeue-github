@@ -12557,7 +12557,7 @@ depend
 defies
 divertible
 disingenuousness
-dicaryophase
+dicaryophase 1
 detonator
 disinheritable
 diuturnity
