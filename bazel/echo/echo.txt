@@ -9512,7 +9512,7 @@ eruptives
 episodic
 escrow
 escrowing
-esculents
+esculents 1
 esculin
 expansively
 essences
