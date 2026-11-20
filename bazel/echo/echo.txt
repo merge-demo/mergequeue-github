@@ -3977,7 +3977,7 @@ epitases
 empaistic
 exilarch
 embroglio
-empale
+empale 1
 empalers
 eyepit
 empall
