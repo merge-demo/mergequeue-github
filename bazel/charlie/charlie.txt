@@ -26928,7 +26928,7 @@ countermandable
 commelinaceae
 craniological
 contemner
-cushioniness
+cushioniness 1
 certhiidae
 creedalist
 calibres
