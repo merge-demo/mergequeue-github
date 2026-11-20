@@ -9926,7 +9926,7 @@ alveolodental
 airers
 ascolichenes
 adminiculate
-abducens
+abducens 1
 anticlastic
 auricled
 amativeness 1
