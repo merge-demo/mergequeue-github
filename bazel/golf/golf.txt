@@ -6620,7 +6620,7 @@ glamourless
 grumphies
 glummy
 garous
-granivorous
+granivorous 1
 glegnesses
 gonaduct
 guiling
