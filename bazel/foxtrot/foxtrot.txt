@@ -11554,7 +11554,7 @@ frictionized
 fowage
 figurations
 feedback
-friskful
+friskful 1
 fusile
 flytier
 fulgurator
