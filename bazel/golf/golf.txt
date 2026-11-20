@@ -140,7 +140,7 @@ gigantology
 gaelic
 gynostegia
 gs
-gallicole
+gallicole 1
 guy
 gratelike
 garrot
