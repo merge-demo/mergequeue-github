@@ -1611,7 +1611,7 @@ fervescence
 flannel
 fawkener
 fraischeur 1
-funfair
+funfair 1
 favoredly
 fawned
 fretize
