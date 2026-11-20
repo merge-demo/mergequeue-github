@@ -9363,7 +9363,7 @@ differently
 dinarchies
 differer
 differs
-dextrorsely
+dextrorsely 1
 duncify
 deprive
 difficileness
