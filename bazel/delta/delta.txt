@@ -17894,7 +17894,7 @@ datable
 dissonous
 duennaship
 droyl
-duer
+duer 1
 duessa
 delayingly
 duets
