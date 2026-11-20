@@ -9086,7 +9086,7 @@ erythrolytic
 eyrer
 equitangential
 expulse
-endoscopic
+endoscopic 1
 exponential
 equipollent
 epicolic
