@@ -9166,7 +9166,7 @@ didoes
 didonia
 duodenas
 dihexahedron 1
-daubry
+daubry 1
 dipsaceae
 decapods
 dreamfully
