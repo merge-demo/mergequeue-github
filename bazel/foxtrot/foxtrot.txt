@@ -6870,7 +6870,7 @@ farewell 1
 fiery
 flasks
 friability
-flourished
+flourished 1
 flioma
 folky
 fibromyxosarcoma
