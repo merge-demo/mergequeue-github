@@ -2291,7 +2291,7 @@ abruptedly
 arachnephobia
 avgasses
 almagest
-allogamous
+allogamous 1
 axminster
 aurigid
 adustiosis
