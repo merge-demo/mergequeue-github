@@ -1998,7 +1998,7 @@ encyclopedist
 electrine
 edward
 ekka
-enolate
+enolate 1
 exophoric
 ekphorias
 empetrum
