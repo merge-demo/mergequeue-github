@@ -22773,7 +22773,7 @@ arugula
 anthropophuistic
 atypic
 alkalimetrical
-anthropolithic
+anthropolithic 1
 atis
 apostatized
 atlantal
