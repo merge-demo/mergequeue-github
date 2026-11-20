@@ -25867,7 +25867,7 @@ chalcid
 corsak
 crippled
 corse
-chemoautotrophically
+chemoautotrophically 1
 contradicting
 cornish
 cakewalk
