@@ -12594,7 +12594,7 @@ anglicization
 antidorcas
 anes
 anesone
-ashthroat
+ashthroat 1
 apexes
 anacatadidymus
 anesthesimeter
