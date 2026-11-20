@@ -6213,7 +6213,7 @@ chew
 caudation
 calycophorae
 caudatory
-clergies
+clergies 1
 corbel
 corticifugal
 caudebeck
