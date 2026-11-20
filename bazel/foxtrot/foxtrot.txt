@@ -11112,7 +11112,7 @@ factionate
 fundatrices
 forhoo
 frizzed
-frostbit
+frostbit 1
 febres
 fearlessness
 fisticuffs
