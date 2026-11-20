@@ -6056,7 +6056,7 @@ familiarize
 fateful
 floriation
 freet
-fertilize
+fertilize 1
 frizz
 flunkeyize
 farting
