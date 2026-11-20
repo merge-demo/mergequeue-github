@@ -8249,7 +8249,7 @@ davainea
 ductus 1
 distrito
 diagnosed
-diagnostical
+diagnostical 1
 diagnostically
 disenthroned
 diagnosticate
