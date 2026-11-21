@@ -8178,7 +8178,7 @@ geloscopy
 geotaxy
 groomsmen
 grapeflower 1
-grapefruit
+grapefruit 1
 goos
 gazers
 grapelike
