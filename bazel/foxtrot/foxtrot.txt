@@ -9153,7 +9153,7 @@ flamineous
 frolicked
 fabrications
 fungosity
-freights
+freights 1
 fondue
 formidolous
 fossorial
