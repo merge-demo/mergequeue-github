@@ -5540,7 +5540,7 @@ griefs
 gauffers
 guttiferous
 germinally
-gangplanks
+gangplanks 1
 glycidol
 gorsier
 gowning
