@@ -146,7 +146,7 @@ gratelike
 garrot
 geryon
 galipot
-graniteware
+graniteware 1
 gasthauser 1
 ghettoized
 glunimie
