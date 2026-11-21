@@ -11340,7 +11340,7 @@ furlan
 foreglimpsed
 forswat
 foldure
-fellic
+fellic 1
 footsores
 fluoroid
 ferfel
