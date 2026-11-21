@@ -2657,7 +2657,7 @@ decommissioned
 discriminably
 decian
 dozers
-deepens
+deepens 1
 discernably
 decompensating
 delinquents
