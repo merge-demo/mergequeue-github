@@ -20957,7 +20957,7 @@ ascarids
 adjectivism 1
 alpinist
 agog
-ascelli
+ascelli 1
 ascellus
 ascend
 ascendable
