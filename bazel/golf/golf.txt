@@ -10787,7 +10787,7 @@ gaincall
 guttated
 gorki
 gazelles
-gawky
+gawky 1
 gesellschaften 1
 glycocoll
 gutterspout
