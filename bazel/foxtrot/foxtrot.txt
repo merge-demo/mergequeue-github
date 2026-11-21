@@ -11378,7 +11378,7 @@ furnacelike
 firetraps
 fosters
 furnaces
-ferromagneticism
+ferromagneticism 1
 flashlamp
 furnariides
 flect
