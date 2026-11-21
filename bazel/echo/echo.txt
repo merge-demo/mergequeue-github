@@ -13618,7 +13618,7 @@ eremurus
 enfeeble
 emamelware
 epitaph
-extending
+extending 1
 endoblastic
 experienced
 ears
