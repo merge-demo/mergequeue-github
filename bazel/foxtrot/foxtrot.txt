@@ -11096,7 +11096,7 @@ fessewise
 frostwork
 flatter
 functionalist
-fundamentalist
+fundamentalist 1
 fistful
 fiendlier
 flops
