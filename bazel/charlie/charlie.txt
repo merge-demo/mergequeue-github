@@ -22268,7 +22268,7 @@ carolling
 cylices
 calzoons
 conglomerating
-cordy
+cordy 1
 conglomeration
 conglomerations
 conglomeritic
