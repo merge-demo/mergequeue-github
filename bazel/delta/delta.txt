@@ -10293,7 +10293,7 @@ dioeciopolygamous
 disclout
 duodenal
 dustpans
-demonograph
+demonograph 1
 dioicousness
 dipleura
 diolefins
