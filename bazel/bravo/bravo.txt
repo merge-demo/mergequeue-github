@@ -840,7 +840,7 @@ burnishers
 billikin 1
 bet
 bacillar
-bezique
+bezique 1
 bagasses
 berceaunette
 badhan
