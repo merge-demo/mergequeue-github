@@ -74,7 +74,7 @@ grayish
 giddap
 glowing
 graticule
-geotical
+geotical 1
 gay
 gabunese
 governeress
