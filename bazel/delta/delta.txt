@@ -14919,7 +14919,7 @@ dodecarch
 dodecasemic
 decadi
 dodecasyllable
-discretionarily
+discretionarily 1
 demonising
 dichromat
 disponing
