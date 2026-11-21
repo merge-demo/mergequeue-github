@@ -873,7 +873,7 @@ garrooka
 goldfields
 gazi
 gameness
-galvanizes
+galvanizes 1
 gallowsward
 geegaw
 gadis
