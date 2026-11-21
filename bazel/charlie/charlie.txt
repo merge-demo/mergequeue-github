@@ -5036,7 +5036,7 @@ crofterization
 carvage
 carval
 carve
-cannabinol
+cannabinol 1
 carvene
 coronad
 carver
