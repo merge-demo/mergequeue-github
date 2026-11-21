@@ -2694,7 +2694,7 @@ electrotelegraphy
 exhort
 epispadia
 electrotherapeutical
-estampie
+estampie 1
 escrol
 expectorating
 excitors
