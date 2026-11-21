@@ -12413,7 +12413,7 @@ addulce
 amberina
 anticomplex
 afflictions
-androgynal
+androgynal 1
 alterity
 arillode
 androgyne
