@@ -829,7 +829,7 @@ aitchbone
 ammophila
 auriculately
 absalom
-ambisinistrous
+ambisinistrous 1
 absampere
 alalunga
 ashangos
