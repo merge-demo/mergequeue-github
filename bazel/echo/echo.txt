@@ -5677,7 +5677,7 @@ ellipsonic
 enfranchisements
 epididymis
 elaeagnaceous
-extinct
+extinct 1
 essayist
 extraterrestrially
 eucalypts
