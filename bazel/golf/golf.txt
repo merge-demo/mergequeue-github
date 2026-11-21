@@ -7646,7 +7646,7 @@ gleaminess
 geospiza
 gradationally
 grandeza
-gassier
+gassier 1
 gramarye
 gastropyloric
 gaffes
