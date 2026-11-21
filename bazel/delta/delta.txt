@@ -9719,7 +9719,7 @@ durometer
 duffles
 depositee
 decenary
-dilatatory
+dilatatory 1
 dehydromucic
 disablers
 detin
