@@ -31153,7 +31153,7 @@ cupeller
 conscripts
 cupellers
 centrode
-cupfulfuls
+cupfulfuls 1
 canvassing
 cupid
 cupidinous
