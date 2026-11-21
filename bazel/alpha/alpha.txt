@@ -21950,7 +21950,7 @@ articulating
 anathemata
 apodictical
 addicted
-aportoise
+aportoise 1
 anoxias
 anisomyodi
 aeluroidea
