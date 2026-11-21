@@ -12941,7 +12941,7 @@ emboites
 expatriatism
 equispaced
 epipsychidion
-egotistical
+egotistical 1
 emblematized
 electrolysation
 enhaunt
