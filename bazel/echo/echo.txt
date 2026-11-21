@@ -5626,7 +5626,7 @@ epimacus
 emigratory
 enfoldings
 elevators
-enfolds
+enfolds 1
 eneuch
 emigated
 epicist
