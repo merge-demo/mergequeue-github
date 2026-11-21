@@ -28413,7 +28413,7 @@ catalecticant
 caesarize
 creaky
 cholestene
-creakiness
+creakiness 1
 creaking
 creambush
 creameries
