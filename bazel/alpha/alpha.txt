@@ -953,7 +953,7 @@ arethusa
 actinopoda
 adulterately
 antichymosin
-apprehension
+apprehension 1
 aecidiostage
 armloads 1
 axogamy
