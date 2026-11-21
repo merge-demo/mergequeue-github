@@ -1735,7 +1735,7 @@ foreshore
 floriferous
 freedman
 foveal 1
-feeded
+feeded 1
 forecastlemen
 foresaddle
 fluphenazine
