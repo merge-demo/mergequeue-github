@@ -2484,7 +2484,7 @@ foamlike
 fris
 fibrinoid
 fry
-fernyear
+fernyear 1
 furison
 funs
 fernshaw
