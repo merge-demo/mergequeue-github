@@ -3421,7 +3421,7 @@ galleting
 gyromancy
 gentisate
 giggit
-geometrized
+geometrized 1
 glossolaryngeal
 globularia
 gourmets
