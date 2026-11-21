@@ -3563,7 +3563,7 @@ dawcock
 drumlin
 defunction
 deul
-disfrock
+disfrock 1
 disseminate
 diethylamine
 disenchanter
