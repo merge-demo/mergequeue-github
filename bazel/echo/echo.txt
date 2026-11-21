@@ -367,7 +367,7 @@ embouchement
 excentral
 eyestone
 erethistic
-eeler
+eeler 1
 enthroned
 eavesdropping
 encyclopedism
