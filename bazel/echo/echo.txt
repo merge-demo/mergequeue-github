@@ -6056,7 +6056,7 @@ endosarcs
 expire
 ere
 epiglottises
-enkindles
+enkindles 1
 edginess
 epiphytotic
 entrepreneuses
