@@ -4131,7 +4131,7 @@ despeche
 diagenetically
 doggerelled
 delinter
-deliquiate
+deliquiate 1
 deliquium
 demisolde
 demagnetised
