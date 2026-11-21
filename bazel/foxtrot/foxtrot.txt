@@ -9366,7 +9366,7 @@ frostbiting
 fascinates
 flocculant
 fleecier
-frankfurters
+frankfurters 1
 fivers
 frayne 1
 frankish
