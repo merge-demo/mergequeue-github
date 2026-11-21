@@ -4213,7 +4213,7 @@ fructose 1
 fadding
 fibrospongiae
 fruitlessness 1
-finialed
+finialed 1
 fragmentally
 flagrant
 fibrilliform
