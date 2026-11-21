@@ -1815,7 +1815,7 @@ bandaging
 berylloid
 bowlin 1
 bushranging
-bandala
+bandala 1
 buggery
 bandanaed
 battlepiece
