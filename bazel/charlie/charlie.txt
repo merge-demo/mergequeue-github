@@ -20498,7 +20498,7 @@ compassionateness
 catalepsy
 compassive
 coinhere
-compassivity
+compassivity 1
 cwrite
 compatibility
 compatibilities
