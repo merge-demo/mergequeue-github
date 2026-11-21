@@ -6974,7 +6974,7 @@ despiser
 decemvii
 dipleuric
 desertness
-disqualifying
+disqualifying 1
 distills
 demonisms
 disshroud
