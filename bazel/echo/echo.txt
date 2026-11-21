@@ -8513,7 +8513,7 @@ ethnologer
 erectility
 equal
 eosinlike
-equalises
+equalises 1
 erectness
 executorial
 enwrapping
