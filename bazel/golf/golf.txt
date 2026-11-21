@@ -8844,7 +8844,7 @@ gastral
 grandparenthood
 gardenlike
 girsle
-guanay
+guanay 1
 gablelike 1
 graecized
 goldeye
