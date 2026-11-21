@@ -3015,7 +3015,7 @@ encorpore
 externa
 eliot
 eliphalet
-elbowroom
+elbowroom 1
 excrementize
 endometrial
 eviscerate
