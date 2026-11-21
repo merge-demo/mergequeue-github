@@ -22100,7 +22100,7 @@ conformingly
 conformist
 confusably
 conformists
-circinus
+circinus 1
 cerule
 confound
 cellulous
