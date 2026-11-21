@@ -3539,7 +3539,7 @@ gunkholed
 gibbsites
 gumbotils
 gapo 1
-glucogene
+glucogene 1
 gilt
 grogginess
 gantangs
