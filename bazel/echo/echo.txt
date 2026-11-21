@@ -3047,7 +3047,7 @@ excerptor
 ensheathes
 epiphenomenal
 esophagoscope
-epigram
+epigram 1
 everich
 eschalot
 exogamy
