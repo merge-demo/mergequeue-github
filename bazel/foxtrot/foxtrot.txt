@@ -25,7 +25,7 @@ fashional
 fanciest
 furiouser
 febricula
-freeman
+freeman 1
 fasciculately
 floodlet
 fourchee
