@@ -14369,7 +14369,7 @@ anthologising
 apothecarcaries
 appellational
 atomize
-anthomaniac
+anthomaniac 1
 akwapim
 amianthium
 amoebic
