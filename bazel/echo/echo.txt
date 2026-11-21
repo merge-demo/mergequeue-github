@@ -5548,7 +5548,7 @@ exoterics
 espiritual
 enfeebles
 enfeebling
-eucarida
+eucarida 1
 epigrammatised
 edessan
 enfeeblish
