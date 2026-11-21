@@ -2779,7 +2779,7 @@ garbs
 garnished
 gelotometer
 glottochronological
-gristly
+gristly 1
 gabies
 gangwayed
 governably
