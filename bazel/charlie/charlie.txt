@@ -27524,7 +27524,7 @@ canephoros
 covenance
 cammed
 covenantal
-corrodant
+corrodant 1
 cypridinoid
 cisted
 covenantee
