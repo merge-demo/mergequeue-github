@@ -7463,7 +7463,7 @@ goldfish
 geologising
 gourded
 gospelist
-granuliferous
+granuliferous 1
 gabbler
 guereza
 glossist
