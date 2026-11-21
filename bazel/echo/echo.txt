@@ -2321,7 +2321,7 @@ electrizable
 electrization
 enterohepatitis
 excavated
-epicotyl
+epicotyl 1
 errorful
 escalate
 encrypting
