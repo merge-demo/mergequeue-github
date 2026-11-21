@@ -10699,7 +10699,7 @@ gurshes
 guardhouse
 gobbler
 gonadectomies
-gucked
+gucked 1
 germanophobic
 garbanzo
 gu
