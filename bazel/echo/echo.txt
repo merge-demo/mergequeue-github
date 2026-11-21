@@ -7327,7 +7327,7 @@ epalpebrate
 eurypylous
 eternises
 enolize
-exemplariness
+exemplariness 1
 eelshop
 ephah
 enact
