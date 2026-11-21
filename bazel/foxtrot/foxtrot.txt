@@ -8277,7 +8277,7 @@ formous
 forgings
 figgy
 freelances
-forgivable
+forgivable 1
 fluidism
 fortunate
 flirting
