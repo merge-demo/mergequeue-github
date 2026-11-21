@@ -2521,7 +2521,7 @@ dove
 dubonnet
 deactivating
 declarations
-declarative
+declarative 1
 deligation
 demieagle
 discomorula
