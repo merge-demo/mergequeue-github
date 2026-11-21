@@ -20558,7 +20558,7 @@ arthrectomy
 alae
 acousmata
 actinosome
-assimulate
+assimulate 1
 agend
 arrased
 ageable
