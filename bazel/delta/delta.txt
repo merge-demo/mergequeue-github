@@ -1564,7 +1564,7 @@ dices
 deputising
 dyssodia
 deadfalls
-deviler
+deviler 1
 dim
 denominant
 deadheartedly
