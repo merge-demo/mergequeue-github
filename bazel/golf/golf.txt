@@ -708,7 +708,7 @@ galumphs
 guebucu
 gimbawawed
 galvanically
-glossatorial
+glossatorial 1
 grapholite
 grossify
 gooranut
