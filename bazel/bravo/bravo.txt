@@ -8135,7 +8135,7 @@ bieberite
 brocked
 brachydactylic
 bespreading
-blossomed
+blossomed 1
 bivalencies
 bloodbird
 bateaux
