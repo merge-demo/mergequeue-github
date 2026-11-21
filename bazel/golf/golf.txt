@@ -5810,7 +5810,7 @@ gym 1
 grain
 goldsmith
 gadarene
-gloveman
+gloveman 1
 gumtrees
 growthy
 glover
