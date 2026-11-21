@@ -7521,7 +7521,7 @@ aldebaran
 anfracture
 alnitham
 albuminising
-albuminize
+albuminize 1
 arrested
 anchovies
 albuminofibrin

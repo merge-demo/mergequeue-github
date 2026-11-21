@@ -5883,7 +5883,7 @@ expalpate
 entree
 engysseismology
 ethiops
-episyntheton
+episyntheton 1
 estamp
 endophytous
 erasures
