@@ -16131,7 +16131,7 @@ cabarets
 cavettos
 climactery
 climacteric
-climacterically
+climacterically 1
 crimpage
 climactical
 contexture
