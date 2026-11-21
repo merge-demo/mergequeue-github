@@ -6146,7 +6146,7 @@ cattimandoo 1
 catting
 cattyphoid
 camoodi
-cowherd
+cowherd 1
 cattlebush
 cattlefold
 chatellany
