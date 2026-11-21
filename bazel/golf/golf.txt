@@ -8180,7 +8180,7 @@ groomsmen
 grapeflower 1
 grapefruit
 goos
-gazers
+gazers 1
 grapelike
 gazingstock
 galeodes
