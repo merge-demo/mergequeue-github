@@ -456,7 +456,7 @@ daysmen
 dayspring
 direst
 disthrall
-daswen
+daswen 1
 daytimes
 disburthen
 disaccharide
