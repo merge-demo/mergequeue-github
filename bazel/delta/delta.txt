@@ -7746,7 +7746,7 @@ deintellectualize
 defoliage
 devise
 dayton
-domiciliary
+domiciliary 1
 diplotegia
 defeasance
 devised
