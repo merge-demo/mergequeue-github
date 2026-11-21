@@ -2420,7 +2420,7 @@ ferling
 furls
 fortnightly
 fermail
-flabellifoliate
+flabellifoliate 1
 fobbed
 festivities
 fatigate
