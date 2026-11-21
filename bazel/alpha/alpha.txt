@@ -4769,7 +4769,7 @@ astrometeorological
 aerations
 abbreviator
 avaunt
-anthologizing
+anthologizing 1
 aftermath
 asterionella
 acarology
