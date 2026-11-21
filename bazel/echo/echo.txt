@@ -6306,7 +6306,7 @@ enrober 1
 enrive
 enrockment
 eyeholes
-enroll
+enroll 1
 enrollee
 extraorbitally
 embryologies
