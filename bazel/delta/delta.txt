@@ -2360,7 +2360,7 @@ dissociant
 daphnid
 decadally
 devocalising
-decessit
+decessit 1
 decerebrating
 daikon
 disagreeably
