@@ -19547,7 +19547,7 @@ capabilities
 columbaria
 columbaries
 clours
-columbate
+columbate 1
 columbeion
 climath
 columbiad
