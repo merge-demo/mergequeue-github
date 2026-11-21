@@ -3550,7 +3550,7 @@ enfoeffment
 exothermic
 exanthematous
 ergographic
-entozoon
+entozoon 1
 emboweled
 epithecial
 ethanamide
