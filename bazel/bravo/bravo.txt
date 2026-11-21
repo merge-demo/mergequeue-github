@@ -7596,7 +7596,7 @@ bewilderment
 bewitched
 boughed
 bewitcher
-bewitches
+bewitches 1
 barbion
 bryological
 beswink
