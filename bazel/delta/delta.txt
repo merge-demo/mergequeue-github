@@ -5726,7 +5726,7 @@ dipneumonous
 decastich
 dysthymia
 drepanid
-demit
+demit 1
 deplorabilia
 dextrane
 deplorability
