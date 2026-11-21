@@ -1260,7 +1260,7 @@ counterpoise
 calendaring
 cyprine
 coilability
-calendarist
+calendarist 1
 calendas
 cribble
 cocainism
