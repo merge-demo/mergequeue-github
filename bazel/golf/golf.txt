@@ -2499,7 +2499,7 @@ golds
 gradienter
 gotch
 glunches
-geyan
+geyan 1
 gastroalbuminorrhea
 gerontoxon
 gubbin
