@@ -6763,7 +6763,7 @@ buchnerite
 binturong
 banshee
 bitte
-bedscrew
+bedscrew 1
 boteler
 bumpier
 busulfan
