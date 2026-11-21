@@ -24934,7 +24934,7 @@ amyosthenic
 ablaqueate
 aizoaceae
 argema
-autogenic
+autogenic 1
 aware
 agrote
 acheilary
