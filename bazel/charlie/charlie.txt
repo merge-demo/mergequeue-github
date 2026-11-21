@@ -27203,7 +27203,7 @@ catholicus
 confessors
 collodionize
 consolatoriness
-countertruth
+countertruth 1
 chelas
 corses
 counterturned
