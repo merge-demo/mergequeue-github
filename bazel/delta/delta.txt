@@ -15145,7 +15145,7 @@ decancellating
 diglottism
 divarication
 degummed
-diaphragmed
+diaphragmed 1
 deerherd
 dislustre
 disallows
