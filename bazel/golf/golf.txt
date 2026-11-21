@@ -9512,7 +9512,7 @@ garvey
 glenn
 generalizer
 gloving
-ganoidean
+ganoidean 1
 grouser
 gunmetals 1
 gorgeted
