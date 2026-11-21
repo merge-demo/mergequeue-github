@@ -29952,7 +29952,7 @@ crosspoint
 crossroad
 cokneyfy
 cobwebs
-cardinals
+cardinals 1
 cammocky
 colyumist
 coggers
