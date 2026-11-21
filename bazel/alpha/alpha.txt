@@ -6643,7 +6643,7 @@ aikido
 amatories
 anarcestean
 ably
-aikinite
+aikinite 1
 aikona
 arbitrarily
 asphyctic
