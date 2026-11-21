@@ -27111,7 +27111,7 @@ clione
 chasms
 clinologic
 configurable
-countershine 1
+countershine 2
 chemosorptive
 copaiye
 countershock 1
