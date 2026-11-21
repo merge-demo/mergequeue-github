@@ -2969,7 +2969,7 @@ bolthole 1
 bisiliquous
 barophobia
 barricoes
-biuniqueness
+biuniqueness 1
 barrigudos
 barrikin
 babouche
