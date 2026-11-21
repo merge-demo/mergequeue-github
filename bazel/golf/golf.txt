@@ -9885,7 +9885,7 @@ guanin
 gagate
 ghoom
 glycerose
-guanize 1
+guanize 2
 gamasid
 graticulation
 genders
