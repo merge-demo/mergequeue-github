@@ -12599,7 +12599,7 @@ bigeminal
 billposting
 braccate
 bakshaish
-beshag 1
+beshag 2
 beaproned
 buttresses
 bonspiel
