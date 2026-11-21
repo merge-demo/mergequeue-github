@@ -10806,7 +10806,7 @@ decreement
 divaricatingly
 diseur
 directionalize
-directionally
+directionally 1
 deckles
 dhan
 demoralizingly
