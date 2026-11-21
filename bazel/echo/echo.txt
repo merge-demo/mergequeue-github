@@ -11655,7 +11655,7 @@ electroirrigation
 eruca
 electivity
 eliminations
-eburnian
+eburnian 1
 exaction
 enfire
 exactitude
