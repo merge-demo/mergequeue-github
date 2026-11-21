@@ -19391,7 +19391,7 @@ amuser
 argentan
 axisymmetry
 aerobacter
-autochrome
+autochrome 1
 anacrisis
 arsacid
 affies
