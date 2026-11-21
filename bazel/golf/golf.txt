@@ -3697,7 +3697,7 @@ gaslighted
 gelastic
 grapsus
 ghostfishes
-garrisonism
+garrisonism 1
 gallinae 1
 gnathite
 goalmouth
