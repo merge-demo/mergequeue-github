@@ -16564,7 +16564,7 @@ dishallow 1
 doctorly
 descensories
 draggletailed
-deuteromycetes
+deuteromycetes 1
 defensed
 deepsome
 dissembly
