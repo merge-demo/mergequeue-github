@@ -10792,7 +10792,7 @@ eumycete
 eulogiums
 elaborating
 emoting
-euskera
+euskera 1
 esterases
 eluviation
 epitactic
