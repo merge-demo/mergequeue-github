@@ -3401,7 +3401,7 @@ emphase
 egoist
 embargoes 1
 endocrinologist
-enc
+enc 1
 eavedropper
 embark
 epichorial
