@@ -4267,7 +4267,7 @@ expendible
 expressways
 equidiagonal
 epityphlon
-escutcheons
+escutcheons 1
 experiment
 endometrium
 electrodispersive
