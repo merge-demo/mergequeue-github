@@ -12895,7 +12895,7 @@ dissatisfies
 dismortgaging
 divisionism
 drawls
-dryope
+dryope 1
 disnaturalization
 deviator
 dermaptera
