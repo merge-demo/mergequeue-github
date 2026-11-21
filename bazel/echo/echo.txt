@@ -12912,7 +12912,7 @@ eosaurus
 enticingly
 expeditiousness
 ecchymose
-epithymetic
+epithymetic 1
 evangeliary
 energetically
 ethnographical
