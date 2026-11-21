@@ -8175,7 +8175,7 @@ applicant
 anastasis
 algophagous
 algophilia
-algophilist
+algophilist 1
 albuminolysis
 acetonylacetone
 algophobia
