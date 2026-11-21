@@ -7508,7 +7508,7 @@ denda
 deusan
 dogtrots
 drosera
-decocainize
+decocainize 1
 deutencephalon
 dumfounding
 dehgan
