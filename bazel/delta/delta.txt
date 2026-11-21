@@ -16582,7 +16582,7 @@ disharmonic
 decompile
 disclaims
 daman
-dambose
+dambose 1
 dissimilated
 denunciate
 dragonade
