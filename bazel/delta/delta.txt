@@ -10494,7 +10494,7 @@ deisticalness
 dozent
 dalar
 daglock
-disembodies
+disembodies 1
 diphthongize
 diazoalkane
 diphthongizing
