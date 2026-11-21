@@ -2693,7 +2693,7 @@ dhurnas
 dishonourer
 digynous
 dudeens
-deconcentration
+deconcentration 1
 decondition
 dicers
 delightedness
