@@ -6265,7 +6265,7 @@ gazettes 1
 goateed
 guitarlike
 gregariousness
-guttural
+guttural 1
 ghostiest
 gconv
 gentle
