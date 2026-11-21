@@ -8566,7 +8566,7 @@ frightment
 fanfarons
 frownful
 fornaxid
-foraminule
+foraminule 1
 fratchety
 featherer
 frogtongue
