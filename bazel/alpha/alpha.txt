@@ -21551,7 +21551,7 @@ arrowroot
 asphodel
 aspy
 aspidiaria
-aspidinol
+aspidinol 1
 aladdinize
 aspidiske
 autotypies
