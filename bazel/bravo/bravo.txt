@@ -4511,7 +4511,7 @@ bibbs
 byrri
 becudgeling
 bae
-bandolero
+bandolero 1
 blankest
 brigadiership
 barricaded
