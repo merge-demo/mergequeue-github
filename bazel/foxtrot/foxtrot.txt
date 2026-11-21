@@ -1251,7 +1251,7 @@ favella
 forevouch
 femalize
 fatuate
-fearful
+fearful 1
 flatten
 filmdom
 frostier
