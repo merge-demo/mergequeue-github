@@ -6963,7 +6963,7 @@ fendy
 foisting 1
 feloniously
 firecracker
-frizzler
+frizzler 1
 flindosy
 flexographically
 faintling
