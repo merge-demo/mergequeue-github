@@ -2710,7 +2710,7 @@ fouette
 fervor
 flamenco
 frondous
-fashions
+fashions 1
 fruitive 1
 flatteress
 funnier
