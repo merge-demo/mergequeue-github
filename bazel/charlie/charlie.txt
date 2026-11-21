@@ -80,7 +80,7 @@ chadless
 comprises
 cabbalahs
 cabbalas
-cabbalist
+cabbalist 1
 currie
 cosmolatry
 coch
