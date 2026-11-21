@@ -16869,7 +16869,7 @@ diiambus
 descamisado
 dataria
 drona
-dumbs
+dumbs 1
 dreadable
 directorial
 daftnesses
