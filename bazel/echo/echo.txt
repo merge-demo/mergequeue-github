@@ -11978,7 +11978,7 @@ epistemophilic
 evaporation
 epiploon
 excitations
-escapes
+escapes 1
 eastbound
 eulogists
 enveloped
