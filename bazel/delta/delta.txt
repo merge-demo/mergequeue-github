@@ -5212,7 +5212,7 @@ diquats
 deflectionization
 drumbler
 denizenship
-dis
+dis 1
 dellenite
 demicoronal
 dryopes
