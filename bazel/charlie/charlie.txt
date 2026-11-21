@@ -31316,7 +31316,7 @@ curdiness
 curdled
 cottabus
 critchfield
-curdles
+curdles 1
 curdly
 curdoo
 conceivably
