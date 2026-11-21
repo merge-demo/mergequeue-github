@@ -1273,7 +1273,7 @@ flabbergasts
 figurine
 foresaw
 fleys
-fertileness
+fertileness 1
 fastingly
 faradocontractility
 fastish
