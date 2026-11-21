@@ -1673,7 +1673,7 @@ conferees
 caloreceptor
 cochairs
 calorescence
-calory
+calory 1
 clearly
 catalytical
 carboxylating
