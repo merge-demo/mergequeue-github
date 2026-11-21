@@ -10074,7 +10074,7 @@ ephemeralness
 equidense
 ethanolysis
 excretion
-ensepulcher
+ensepulcher 1
 exode
 ethnologists 1
 endoparasitism
