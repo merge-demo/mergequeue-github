@@ -16118,7 +16118,7 @@ actinomycese
 asseverate
 antiseptically
 avadavat
-acerates
+acerates 1
 antisepticism
 agateware
 accipiter
