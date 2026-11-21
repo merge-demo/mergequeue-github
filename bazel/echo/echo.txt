@@ -12822,7 +12822,7 @@ emboldener
 embossmen
 extraretinal
 evangelicity 1
-ensepulchered
+ensepulchered 1
 ecanda
 edgeways
 excavation

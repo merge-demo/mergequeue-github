@@ -10984,7 +10984,7 @@ decapoda
 dulcinea
 disafforestment
 dispiece
-disaggregative
+disaggregative 1
 duly 1
 dragsaw
 disagree
