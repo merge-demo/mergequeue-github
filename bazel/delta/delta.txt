@@ -10805,7 +10805,7 @@ diluteness
 decreement
 divaricatingly
 diseur
-directionalize
+directionalize 1
 directionally
 deckles
 dhan
