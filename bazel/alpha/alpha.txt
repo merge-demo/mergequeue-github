@@ -2258,7 +2258,7 @@ astrography
 antinoise
 acyanoblepsia
 assessee
-apsid
+apsid 1
 anabas
 arsenicate
 areographer
