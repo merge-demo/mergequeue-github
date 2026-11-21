@@ -4660,7 +4660,7 @@ deliming
 demiss
 dryopithecid
 demivolt
-disprobative
+disprobative 1
 demissory
 demystify
 deus
