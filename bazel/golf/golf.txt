@@ -10316,7 +10316,7 @@ gnathions
 gujarati
 gametic
 girondin
-gamodesmic
+gamodesmic 1
 gymnostomous
 gigantostraca
 geographized
