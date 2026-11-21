@@ -4207,7 +4207,7 @@ delphacidae
 disincorporated
 dogcart
 depasturing
-dyslogy
+dyslogy 1
 debtors
 delphically
 diversifiable
