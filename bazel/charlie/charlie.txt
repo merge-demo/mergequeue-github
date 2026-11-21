@@ -8440,7 +8440,7 @@ chamm
 chamma
 chammy
 calcydon
-citellus
+citellus 1
 crookeder
 checkerboarded
 confiscator
