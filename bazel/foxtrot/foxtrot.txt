@@ -9814,7 +9814,7 @@ fretum
 fidget 1
 fluors
 fovilla
-freudian
+freudian 1
 filthiness 1
 fluorenyl
 freddy
