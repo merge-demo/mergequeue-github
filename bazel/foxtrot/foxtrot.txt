@@ -5641,7 +5641,7 @@ fishbolt
 felicitations
 florist 1
 fellowshiped
-fascism
+fascism 1
 frumpiest
 fianchetto
 forgetter
