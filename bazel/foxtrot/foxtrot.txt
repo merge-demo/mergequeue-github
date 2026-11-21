@@ -11172,7 +11172,7 @@ fungicides
 fungicolous
 frampler
 fridila
-fraughted
+fraughted 1
 fibronuclear
 farm
 forktail
