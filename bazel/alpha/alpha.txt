@@ -1116,7 +1116,7 @@ abetting
 allegros
 abwab
 aureateness
-ac
+ac 1
 anguliferous
 acacatechol 1
 acacia
