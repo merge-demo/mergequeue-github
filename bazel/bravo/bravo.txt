@@ -4095,7 +4095,7 @@ bestiaries
 bearbaiter
 bedmaking
 blearedness
-beriberi
+beriberi 1
 betoil
 boyishness
 biassing
