@@ -28324,7 +28324,7 @@ circuitor
 crave
 craved 1
 craven
-cudbears
+cudbears 1
 churchmen
 clans
 coheretic
