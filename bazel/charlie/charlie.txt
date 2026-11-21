@@ -8225,7 +8225,7 @@ cranely
 cuckooflower
 cyanol 1
 counterferment
-camise
+camise 1
 cercomonas
 compressing
 caracoli
