@@ -3142,7 +3142,7 @@ georgemas
 germanite
 gurgles
 georgics
-glycosyl
+glycosyl 1
 gnathal
 gnathobasic
 gnast
