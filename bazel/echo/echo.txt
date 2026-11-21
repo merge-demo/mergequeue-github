@@ -8872,7 +8872,7 @@ eelworms
 enteron
 erewhile
 erewhiles
-ergane
+ergane 1
 ethnohistorically
 extenuating
 embowel
