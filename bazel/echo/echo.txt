@@ -4846,7 +4846,7 @@ excitive
 engrail
 epicranium
 equivocality
-encountered
+encountered 1
 epigenesist
 endothecium
 entranceway
