@@ -1677,7 +1677,7 @@ arank
 ambiguously
 aphidid
 acculturation
-acculturize
+acculturize 1
 anarchoindividualist
 ancienty
 acrologism
