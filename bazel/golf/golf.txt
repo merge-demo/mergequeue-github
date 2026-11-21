@@ -7704,7 +7704,7 @@ gerontism
 gest
 graduands
 geopolitic
-girning
+girning 1
 galvanized
 gunpowderous
 globus
