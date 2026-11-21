@@ -25592,7 +25592,7 @@ corporateness
 corporationer
 corporationism
 countergift
-coituses
+coituses 1
 chasable
 corporations
 calquing
