@@ -6703,7 +6703,7 @@ berloque
 berm
 berme
 bossiest
-bathe
+bathe 1
 bologna
 bermensch
 brith
