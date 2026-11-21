@@ -6855,7 +6855,7 @@ foreporch
 fonnish
 folios
 folkish
-faradizes
+faradizes 1
 fierasferidae
 foliose
 flachery
