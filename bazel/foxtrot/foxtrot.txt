@@ -1099,7 +1099,7 @@ farruca
 farseer
 frenchwoman
 frondescence
-foughten
+foughten 1
 farsighted
 fleabites
 flatiron
