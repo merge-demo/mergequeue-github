@@ -14113,7 +14113,7 @@ disturbance 1
 dominican
 divestitive
 demipronation
-dendroid
+dendroid 1
 desmans
 diplotaxis
 discontinuation
