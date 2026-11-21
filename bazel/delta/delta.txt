@@ -4757,7 +4757,7 @@ democratism
 dillydallied
 democratize
 destaining
-divulgence
+divulgence 1
 democratizer
 disentitling
 dumontiaceae
