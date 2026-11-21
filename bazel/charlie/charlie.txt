@@ -19279,7 +19279,7 @@ chelem
 colonialists 1
 cyclospondyli
 coctoprecipitin
-colonialize
+colonialize 1
 chortles
 colonializing
 crystic
