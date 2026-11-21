@@ -715,7 +715,7 @@ diatom
 deadmelt
 danceability
 danceable
-demoniacs 1
+demoniacs 2
 danced
 diddled
 degasification
