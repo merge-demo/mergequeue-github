@@ -4516,7 +4516,7 @@ euchysiderite 1
 esthesiophysiology
 elsewhat
 enforcing
-exterminator 1
+exterminator 2
 encephalomas
 escudo
 encephalomeningocele
