@@ -10540,7 +10540,7 @@ antihypnotic
 ameliorativ
 amidoplast
 amidoplastid
-amidoxyl
+amidoxyl 1
 australopithecinae
 anagrammatize
 amids
