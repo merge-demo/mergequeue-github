@@ -8334,7 +8334,7 @@ elev
 expressibly
 endured 1
 enchannel
-exercised
+exercised 1
 emulating
 eagling
 epitheme
