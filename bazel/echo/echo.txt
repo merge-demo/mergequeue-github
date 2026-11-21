@@ -7677,7 +7677,7 @@ equinal
 eumenid
 enemylike
 epithalamus
-encefalon
+encefalon 1
 enringed
 engagingly
 ectocrine
