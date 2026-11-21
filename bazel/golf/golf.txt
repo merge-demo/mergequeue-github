@@ -539,7 +539,7 @@ gamodemes
 galler 1
 grandmammy
 grandsirs
-germanium
+germanium 1
 gastraea
 gallera 1
 gesneriaceae
