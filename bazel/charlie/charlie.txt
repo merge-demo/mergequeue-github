@@ -15913,7 +15913,7 @@ clench
 carbamino
 clenched
 clencher
-clenchers
+clenchers 1
 clarshech
 clenches
 cleoid
