@@ -486,7 +486,7 @@ featherleaf
 fetiferous
 fullbacks 1
 foremastman
-finalisms
+finalisms 1
 fromwards
 fireflies
 foin
