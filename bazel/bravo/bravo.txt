@@ -8175,7 +8175,7 @@ bier
 broid
 baleens
 byronically
-beatable
+beatable 1
 boone
 battailous
 bluebuck
