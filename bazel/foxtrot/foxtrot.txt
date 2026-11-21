@@ -145,7 +145,7 @@ fossiled
 facsimiled 1
 fracturable
 frigidaria
-flayers
+flayers 1
 fifthly
 folden
 fellaheen
