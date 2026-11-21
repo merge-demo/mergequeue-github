@@ -9068,7 +9068,7 @@ folding
 fiant
 friesish
 funnellike
-fenter 1
+fenter 2
 forbruise
 foxfires
 foederis
