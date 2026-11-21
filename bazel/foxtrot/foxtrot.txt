@@ -8863,7 +8863,7 @@ foreigners
 frenzily
 fot
 florideous 1
-foreshorten
+foreshorten 1
 fictious
 freeholder
 folia
