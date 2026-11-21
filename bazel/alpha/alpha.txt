@@ -18502,7 +18502,7 @@ azoturias
 assassinating
 arborer
 adventitious
-adulteress
+adulteress 1
 arbores
 arborescently
 arango
