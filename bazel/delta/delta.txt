@@ -15873,7 +15873,7 @@ daft 1
 demonesses
 deoxidizer
 dossiers
-diamondize
+diamondize 1
 dorty
 doko
 daikers
