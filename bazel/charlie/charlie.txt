@@ -9949,7 +9949,7 @@ chenfish
 californiana
 chenille
 cascado
-consumable
+consumable 1
 chenopod
 colocasia
 catacombic
