@@ -6334,7 +6334,7 @@ floyd
 finessed
 fixtureless
 fourb
-flunkyish
+flunkyish 1
 flunkyize
 fuzziness
 fidepromission
