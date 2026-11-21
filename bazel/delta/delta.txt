@@ -5769,7 +5769,7 @@ descriptor
 decasualizing
 depolymerize
 deadpay
-davened
+davened 1
 depolished
 deaconed
 depolishes
