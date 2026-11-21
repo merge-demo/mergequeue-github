@@ -22712,7 +22712,7 @@ addlement
 afterwhile
 advancement
 athletes
-areologically
+areologically 1
 achenodium
 agkistrodon
 arthrology
