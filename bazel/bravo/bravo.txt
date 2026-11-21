@@ -54,7 +54,7 @@ barberish
 beebreads
 babblings
 beauclerk
-bigoted
+bigoted 1
 babcock
 beknight
 babe
