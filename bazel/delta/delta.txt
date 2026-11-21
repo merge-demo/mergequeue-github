@@ -15755,7 +15755,7 @@ dormers
 dormette
 desolator
 dormeuse
-dormice
+dormice 1
 dormilona
 dormitive
 dormitories
