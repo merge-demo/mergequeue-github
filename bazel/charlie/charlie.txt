@@ -25676,7 +25676,7 @@ chignon
 constitutive
 committals
 cobra
-correctress
+correctress 1
 conoid
 centupled
 corregimientos
