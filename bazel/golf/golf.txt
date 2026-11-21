@@ -6269,7 +6269,7 @@ guttural
 ghostiest
 gconv
 gentle
-gulpin
+gulpin 1
 gynandrarchic
 galoch
 gospelly
