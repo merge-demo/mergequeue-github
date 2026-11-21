@@ -13579,7 +13579,7 @@ boughs
 bougie
 botry
 boodlers
-barite
+barite 1
 boulangism
 bouldered
 bevatrons
