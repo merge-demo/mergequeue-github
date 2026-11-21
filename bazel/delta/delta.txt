@@ -3119,7 +3119,7 @@ deterrers
 demiseason
 disadvantaging
 defamations
-dowering
+dowering 1
 dipygus
 diseaseful
 daubing
