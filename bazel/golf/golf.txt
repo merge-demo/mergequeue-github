@@ -858,7 +858,7 @@ gemologies
 greeing
 gastromyxorrhea
 gire
-geometrician
+geometrician 1
 grammaticality
 gonagia
 gonadotropin 1
