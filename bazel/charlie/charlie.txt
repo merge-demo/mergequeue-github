@@ -27355,7 +27355,7 @@ codirectorship
 cosmology
 coursey
 coursers
-courses
+courses 1
 coursing
 court
 courtage
