@@ -8770,7 +8770,7 @@ allied
 allies
 alligated
 acceders
-autoagglutinating
+autoagglutinating 1
 arctoid
 alligatorfish
 alligatorfishes
