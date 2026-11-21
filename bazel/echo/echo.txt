@@ -13081,7 +13081,7 @@ echites
 expending
 eleuin
 ejectable
-expenditrix
+expenditrix 1
 ecclesiophobia
 enfonced
 euclid
