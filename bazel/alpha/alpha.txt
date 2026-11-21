@@ -12950,7 +12950,7 @@ ahsan
 ardors
 argillitic
 approaches
-addictively
+addictively 1
 archdiocesan
 anguineal
 anguiped 1
