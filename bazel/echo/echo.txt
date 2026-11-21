@@ -5254,7 +5254,7 @@ etiotropically
 endopathic
 endopelvic
 encyclopaedist
-endoperidium
+endoperidium 1
 epoptes
 endophagous
 ephebeion
