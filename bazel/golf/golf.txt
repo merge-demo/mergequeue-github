@@ -6565,7 +6565,7 @@ gpcd
 glaziest
 gemminess
 ganowanian
-gnatty
+gnatty 1
 grovelingly
 gleditsia
 gandoura
