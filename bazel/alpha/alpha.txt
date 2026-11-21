@@ -10535,7 +10535,7 @@ assimilator
 apollonia
 auguration
 aniellidae
-aristides
+aristides 1
 antihypnotic
 ameliorativ
 amidoplast
