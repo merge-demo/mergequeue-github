@@ -3027,7 +3027,7 @@ ferrotype
 fulgurantly
 fortepiano
 flukily
-forasmuch
+forasmuch 1
 friendliwise
 foreman
 floodage
