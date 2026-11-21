@@ -5599,7 +5599,7 @@ determiners
 discussive
 dictyosiphonaceae
 dedecoration
-deprisure
+deprisure 1
 detering
 diamine
 dialyzation
