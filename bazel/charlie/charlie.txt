@@ -17188,7 +17188,7 @@ coagulators
 chagrined
 coaguline
 cestoidea
-coagulometer
+coagulometer 1
 coagulose
 coahuiltecan
 cantic
