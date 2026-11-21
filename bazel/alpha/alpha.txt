@@ -4718,7 +4718,7 @@ arghoul
 abush
 aetheling
 antedawn
-allographic
+allographic 1
 acrotisms
 alphard
 aeluropodous
