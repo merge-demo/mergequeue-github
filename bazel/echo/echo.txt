@@ -4728,7 +4728,7 @@ enciphering
 enrapture
 eulogism
 engerminate
-executonis
+executonis 1
 epigean
 estre
 emplaced
