@@ -4837,7 +4837,7 @@ fainer
 foil
 finlet
 fatagaga
-factorylike
+factorylike 1
 festinately
 fructiparous
 feasting
