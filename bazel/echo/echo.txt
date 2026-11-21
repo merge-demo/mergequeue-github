@@ -706,7 +706,7 @@ ecology
 eromania
 encephalolith
 employing
-enspell
+enspell 1
 equidistant
 eidently
 enode
