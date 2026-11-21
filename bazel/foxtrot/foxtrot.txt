@@ -2517,7 +2517,7 @@ footsore
 feudal
 functionize
 fastballs
-frush
+frush 1
 flunky
 favaginous
 foulmouth
