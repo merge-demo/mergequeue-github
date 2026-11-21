@@ -1653,7 +1653,7 @@ garawi
 gumlikeness
 geode
 goyish
-gastroenteroptosis
+gastroenteroptosis 1
 graculus
 grammates
 gonnardite
