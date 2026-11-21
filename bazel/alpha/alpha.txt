@@ -20474,7 +20474,7 @@ axers
 adjectivally
 agrarian
 auctary
-arterying
+arterying 1
 angelin
 autoicous
 alkalous
