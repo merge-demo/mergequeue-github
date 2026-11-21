@@ -11320,7 +11320,7 @@ eagles
 exalbuminous
 evaporimeter
 electrocute
-ecdysons
+ecdysons 1
 epupillate 1
 enwrap
 evaporitic
