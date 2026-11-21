@@ -9426,7 +9426,7 @@ kotmdoram 1
 kotoig
 koton
 kotozaz
-kotpgs
+kotpgs 1
 kotq
 kotqbdiynu
 kotqjh 1
