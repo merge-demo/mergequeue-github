@@ -6785,7 +6785,7 @@ gobbe
 gud
 glossospasm
 gaffsail
-galiot
+galiot 1
 gavyuti
 ganglioside
 gossiping
