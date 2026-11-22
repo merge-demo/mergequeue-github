@@ -7584,7 +7584,7 @@ alcanna
 acardiac
 ascophyllum
 anastomos
-astragal
+astragal 1
 alcazaba
 apophonic
 adamance
