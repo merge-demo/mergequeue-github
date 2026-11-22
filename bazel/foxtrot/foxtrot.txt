@@ -106,7 +106,7 @@ frangi
 fibrinous
 friendly
 futharc
-finnickier
+finnickier 1
 forrad
 faciation
 fingertips

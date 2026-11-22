@@ -15207,7 +15207,7 @@ dungbird
 defrayment
 denticete
 dolichocephalize
-disingenuously
+disingenuously 1
 derepress
 dermohemal
 disfigurement
