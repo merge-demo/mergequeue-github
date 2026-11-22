@@ -18710,7 +18710,7 @@ crystallology
 circumscribing
 cokuloris
 colaborer
-collectively
+collectively 1
 colacobioses
 currishly
 carbethoxy
