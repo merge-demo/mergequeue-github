@@ -5689,7 +5689,7 @@ belgrade
 buries
 bora
 butterback
-birefracting
+birefracting 1
 backwasher
 belialic
 belibel

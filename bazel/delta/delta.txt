@@ -5335,7 +5335,7 @@ dentatoserrate
 decennary
 disputable
 damnii
-dentatosinuate
+dentatosinuate 1
 diethylacetal
 dribber
 demurrage
