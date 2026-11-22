@@ -18073,7 +18073,7 @@ apterygota
 arcanist
 abstricts
 apteryla
-alternance
+alternance 1
 agentship
 aptest
 anticonvulsive
