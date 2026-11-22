@@ -12702,7 +12702,7 @@ alliterated
 angelized
 angellike
 auf
-almoravid
+almoravid 1
 angelolatry
 arthrography
 antiquarism
