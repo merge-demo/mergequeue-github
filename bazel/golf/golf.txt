@@ -7539,7 +7539,7 @@ garageman
 gangman
 goldsmithing
 gunyah
-geodesies
+geodesies 1
 greenths
 garbled
 goldarns
