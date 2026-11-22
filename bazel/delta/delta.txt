@@ -398,7 +398,7 @@ dainchas
 daynet
 dihalid
 dainteous
-dainty
+dainty 1
 decentralise
 decoder
 diarhemia
