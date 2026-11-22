@@ -25766,7 +25766,7 @@ corroborations
 caddish
 conciliating
 cataleptize
-corroborative
+corroborative 1
 corroboratively
 corroborator
 chrism
