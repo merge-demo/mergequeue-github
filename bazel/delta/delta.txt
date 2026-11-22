@@ -11890,7 +11890,7 @@ dispermic
 daying
 dieri
 dewier
-dopers
+dopers 1
 doux
 deathblow
 dehypnotized
