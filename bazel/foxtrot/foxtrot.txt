@@ -10666,7 +10666,7 @@ facultied
 fibular
 fruitlets
 fainting
-foxy
+foxy 1
 felsophyre
 forescent
 feralin
