@@ -9365,7 +9365,7 @@ differer
 differs
 dextrorsely
 duncify
-deprive
+deprive 1
 difficileness
 difficilitate
 dignosle
