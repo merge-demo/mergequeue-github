@@ -746,7 +746,7 @@ erythristic
 ecospecific
 emblematised
 extoled
-effaces
+effaces 1
 endermatic
 effascinate
 exuvium
