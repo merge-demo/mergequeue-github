@@ -18577,7 +18577,7 @@ assalto
 aulos
 adlegation
 arcading
-aggravate
+aggravate 1
 atomical
 arctogaean
 antipatriarchally
