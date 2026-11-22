@@ -16492,7 +16492,7 @@ bishoplet
 borasque
 bruskly
 bimillennium
-bozal
+bozal 1
 breathableness
 bequote
 biasness
