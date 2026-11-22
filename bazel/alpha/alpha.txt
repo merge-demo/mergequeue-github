@@ -5820,7 +5820,7 @@ ahoy
 auxetics
 atlatl
 aligner
-agatized
+agatized 1
 agatizes
 agatizing
 agatoid
