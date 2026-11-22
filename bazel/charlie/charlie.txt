@@ -30689,7 +30689,7 @@ chiveret
 coses
 crawls
 class
-colorer
+colorer 1
 cudgel
 communalizing
 comparability
