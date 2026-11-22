@@ -6582,7 +6582,7 @@ filiated 1
 fluorhydric
 finfishes
 fortuitist
-flyboats
+flyboats 1
 falconiform
 foaling
 franseria
