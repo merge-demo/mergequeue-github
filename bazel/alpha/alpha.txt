@@ -20576,7 +20576,7 @@ arthrobacterium
 arranged
 apathies
 arabic
-anallantoic
+anallantoic 1
 acidulates
 arthrocleisis
 abear
