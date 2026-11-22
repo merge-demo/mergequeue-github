@@ -3850,7 +3850,7 @@ adipoceriform
 adipoid
 angiology
 aube
-amati
+amati 1
 aziola
 antitropous
 angiorrhexis
