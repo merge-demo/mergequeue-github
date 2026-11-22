@@ -5149,7 +5149,7 @@ endoconidia
 edificate
 epiplanktonic
 ejectives
-encrustment
+encrustment 1
 elegits
 ember
 elaeoblast
