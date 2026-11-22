@@ -11527,7 +11527,7 @@ fab 1
 furtiveness
 frena
 foxfeet
-fuselages
+fuselages 1
 fuselike
 forecaddie
 fermentations
