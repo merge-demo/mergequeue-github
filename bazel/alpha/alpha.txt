@@ -24199,7 +24199,7 @@ autolithograph
 autoinfection
 alnein
 autolyzate
-autolyzes
+autolyzes 1
 autoloader
 autology 1
 autological
