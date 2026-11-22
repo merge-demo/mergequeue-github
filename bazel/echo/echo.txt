@@ -8966,7 +8966,7 @@ essex
 enhort
 eon
 extraspherical
-evenings
+evenings 1
 encephalin
 eleaticism
 endopleurite
