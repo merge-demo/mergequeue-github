@@ -8663,7 +8663,7 @@ equipages
 etherialism 1
 expositions
 eisenhower
-epipoditic
+epipoditic 1
 eggcrate
 endnotes
 equipedal
