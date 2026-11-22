@@ -8339,7 +8339,7 @@ fatherlike
 flapperish
 fittiest
 fair 1
-foundling
+foundling 1
 fils
 furriner
 flagellata
