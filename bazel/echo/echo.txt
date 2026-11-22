@@ -13162,7 +13162,7 @@ eugenist 1
 ereptase
 ethnicize
 euryalus
-escapisms
+escapisms 1
 espiegleries
 earclip
 epigynous
