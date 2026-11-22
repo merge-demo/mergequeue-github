@@ -15424,7 +15424,7 @@ antilope
 antiloquy
 asafoetida
 antilottery
-adheres
+adheres 1
 amplificatory
 antimalaria
 atelognathia
