@@ -12813,7 +12813,7 @@ agnosis
 aeneolithic
 angioplasty
 androgyn
-asseize
+asseize 1
 angiopressure
 acquaintance
 angiorrhaphy
