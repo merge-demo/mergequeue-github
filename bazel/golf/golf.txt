@@ -8007,7 +8007,7 @@ geste
 gemse
 ghosthood
 gangsman
-gouvernante
+gouvernante 1
 grapnels
 glaucine
 gunstocking
