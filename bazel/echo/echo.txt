@@ -4284,7 +4284,7 @@ eremital
 encephaloscopy
 emulsions
 equidistantial
-emacerated
+emacerated 1
 effluxes 1
 emphasise
 extoller
