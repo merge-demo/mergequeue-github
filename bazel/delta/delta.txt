@@ -4155,7 +4155,7 @@ dreikanters
 doctrinization
 dishonourable
 divagate
-disherit
+disherit 1
 delisk
 delists
 delit
