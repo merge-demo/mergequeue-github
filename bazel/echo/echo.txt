@@ -12254,7 +12254,7 @@ evolutionarily
 expounding
 exegesis
 exasperative
-execrated
+execrated 1
 elegists
 extemporizer
 exegetics

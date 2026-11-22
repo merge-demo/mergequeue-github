@@ -2124,7 +2124,7 @@ banterers
 bloodlessness
 bantery
 boxfishes
-bantering
+bantering 1
 banteringly
 banty
 betangle
