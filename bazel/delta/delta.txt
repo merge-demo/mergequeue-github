@@ -84,7 +84,7 @@ deescalating
 dumb
 deploying
 disqualifiable
-diachylon
+diachylon 1
 dactylology
 dognapped
 dactylomegaly
