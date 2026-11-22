@@ -10842,7 +10842,7 @@ gyrograph
 guttar
 guaiacum 1
 guzul
-genotypical
+genotypical 1
 gasworker
 grailer
 geason
