@@ -17951,7 +17951,7 @@ coelentera
 cubicle
 cookshack
 colics
-cattlehide
+cattlehide 1
 coelenterate
 catharses
 crotin 1
