@@ -15253,7 +15253,7 @@ dingmaul
 disbursal
 demipriest
 depressanth
-dogsleep
+dogsleep 1
 derotremate
 domicile
 dother
