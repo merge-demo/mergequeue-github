@@ -8357,7 +8357,7 @@ gopherroot 1
 gripy
 guamachil
 grasshouse
-gulling
+gulling 1
 globeflower
 gravest 1
 graminaceae
