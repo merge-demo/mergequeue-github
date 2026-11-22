@@ -1798,7 +1798,7 @@ gonadial
 genealogizer
 gastroscopist
 gavelled
-gasterosteid
+gasterosteid 1
 glossolaly
 gutterblood
 gelatinotype

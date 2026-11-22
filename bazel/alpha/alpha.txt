@@ -7031,7 +7031,7 @@ ajuga
 akal
 akali
 akamai
-annoyed
+annoyed 1
 akan
 akania
 akasa
