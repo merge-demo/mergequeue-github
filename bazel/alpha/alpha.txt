@@ -5623,7 +5623,7 @@ afterwork
 agathodemon
 apinage 1
 aint
-afterworld
+afterworld 1
 antischool
 aneurine
 aftward
