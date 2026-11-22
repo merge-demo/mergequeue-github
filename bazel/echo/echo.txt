@@ -9349,7 +9349,7 @@ exercite
 enlock
 ectomorphic
 exolution
-emotionally
+emotionally 1
 emane
 enrobement
 effecter
