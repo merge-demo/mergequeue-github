@@ -10,7 +10,7 @@ chorionic
 cajaput
 craniopharyngioma
 complanate 1
-cabaho
+cabaho 1
 cabal
 condylarthrous
 cryptostoma
