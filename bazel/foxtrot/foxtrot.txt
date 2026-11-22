@@ -974,7 +974,7 @@ fardel
 flannelmouth
 foxhound
 fusion
-fardelet
+fardelet 1
 futtah
 fleshhood
 famelic
