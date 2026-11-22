@@ -6650,7 +6650,7 @@ asphyctic
 attune
 antigorite
 ailanthuses
-armstrong
+armstrong 1
 ailanto
 ailed
 aileron
