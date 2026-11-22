@@ -11220,7 +11220,7 @@ funiform
 funje
 fount
 fustians
-flashcubes
+flashcubes 1
 fabricative
 flexuosities
 ferned
