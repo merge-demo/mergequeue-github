@@ -980,7 +980,7 @@ castellar
 campanulaceae
 calamiferious
 catenoids
-calaminary
+calaminary 1
 compensational
 calaminaris
 callipygian
