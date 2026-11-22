@@ -8946,7 +8946,7 @@ erigerons
 echoers
 enables
 enzymatic
-expatiators
+expatiators 1
 erring
 erns
 eightvo
