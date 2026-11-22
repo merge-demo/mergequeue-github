@@ -989,7 +989,7 @@ cervidae
 calamines
 cypseline
 confiscating
-cuirie
+cuirie 1
 calamining
 calamint
 cableway
