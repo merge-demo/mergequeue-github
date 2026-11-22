@@ -15537,7 +15537,7 @@ dement
 dewanny
 disuniformity
 doloriferous
-dedicatee
+dedicatee 1
 donkeyman
 draffman
 decahedra
