@@ -13894,7 +13894,7 @@ botanomancy
 bows
 bootlessness
 benzopyran
-bankroll
+bankroll 1
 bodkinwise
 bacteriotherapy
 baccalaurean
