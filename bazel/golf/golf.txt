@@ -2081,7 +2081,7 @@ grandbaby
 gamblers
 glancing
 gyrocompasses
-gringos
+gringos 1
 guilefully
 gawgaw
 goldenseal
