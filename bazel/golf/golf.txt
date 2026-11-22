@@ -9560,7 +9560,7 @@ giustina
 goster
 geophagies
 graphical
-glamorized
+glamorized 1
 geodynamical
 guidage
 groveller
