@@ -15687,7 +15687,7 @@ doric
 dopped
 detractiveness
 disaffect
-dopper
+dopper 1
 dopperbird
 disespouse
 deflorescence
