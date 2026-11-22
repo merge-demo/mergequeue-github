@@ -11335,7 +11335,7 @@ formalith
 fulvene
 fertilisational
 forecastors
-fermage
+fermage 1
 furlan
 foreglimpsed
 forswat
