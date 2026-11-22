@@ -11922,7 +11922,7 @@ choreographing
 cuds
 calculabilities
 crestfallenness
-cerites
+cerites 1
 cohanim
 cruces
 cosmochemistry
