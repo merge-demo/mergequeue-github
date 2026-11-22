@@ -1748,7 +1748,7 @@ calumniates
 comeliness
 calumniating
 calumniation
-coaldealer
+coaldealer 1
 consolably
 confusable
 convulsionaries
