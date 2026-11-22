@@ -4066,7 +4066,7 @@ astrophotometrical
 amaracus
 acromion
 agamoid
-asarotum
+asarotum 1
 areometric
 admit
 allowanced
