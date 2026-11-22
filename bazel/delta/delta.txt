@@ -14826,7 +14826,7 @@ disadjust
 demidog
 doctorially
 doctoring
-doctorize
+doctorize 1
 distinctness
 distributive
 diallage
