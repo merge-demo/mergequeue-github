@@ -5604,7 +5604,7 @@ detering
 diamine
 dialyzation
 diabolizing
-desmognathae
+desmognathae 1
 deperdite
 diastrophe 1
 deperditely
