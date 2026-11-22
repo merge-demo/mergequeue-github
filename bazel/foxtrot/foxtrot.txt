@@ -3656,7 +3656,7 @@ footwarmers
 filigrained
 fiftieths
 fibrillar
-freshed
+freshed 1
 foretype
 feverberry 1
 filigrane
