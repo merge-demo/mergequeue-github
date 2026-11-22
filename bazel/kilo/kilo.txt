@@ -739,7 +739,7 @@ kangn
 kangvs
 kanimrienf 1
 kanjdle
-kanjf
+kanjf 1
 kanjfgukvw
 kanjvwtmv
 kanko
