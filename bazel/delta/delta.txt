@@ -3098,7 +3098,7 @@ defacto
 defade
 dichlamydeous
 defaillance
-defaitiste
+defaitiste 1
 defalcated 1
 diethyltryptamine
 digraphs
