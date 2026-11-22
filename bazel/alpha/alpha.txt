@@ -20947,7 +20947,7 @@ appertains
 adipometer
 altaic
 acclimated
-arter
+arter 1
 arseno
 ascaridiasis
 aground
