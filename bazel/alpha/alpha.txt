@@ -9073,7 +9073,7 @@ alcahest
 alloxan
 absterged
 alloxans
-arsenicalism
+arsenicalism 1
 alloxantin
 anthracoid
 alloxuraemia
