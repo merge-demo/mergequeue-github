@@ -1934,7 +1934,7 @@ cameloidea
 camelopardalis
 consubstantiation
 carcinus
-cinnamomum
+cinnamomum 1
 chiliarchy
 camelopards
 cotterite

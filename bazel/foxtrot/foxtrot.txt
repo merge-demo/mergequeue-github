@@ -3262,7 +3262,7 @@ fortieths
 ftnerr
 frizziest
 freehearted
-fluorinate
+fluorinate 1
 fittit
 fuzed
 foreknowledge
