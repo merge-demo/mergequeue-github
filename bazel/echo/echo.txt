@@ -7222,7 +7222,7 @@ eupnoeas
 exudate 1
 enthronize
 eyalet
-enzootics
+enzootics 1
 escheve
 entophytous
 electrophilically
