@@ -19282,7 +19282,7 @@ anlas
 arenicolite
 anagrammed
 arenilitic
-arenites
+arenites 1
 anthraquinonyl
 alberca
 aristas
