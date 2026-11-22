@@ -8461,7 +8461,7 @@ adaptable
 alacreatinine
 alkalize
 alkalizer
-afforested
+afforested 1
 alkaloid
 alkaloids
 adoption
