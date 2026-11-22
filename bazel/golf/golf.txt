@@ -10276,7 +10276,7 @@ gry
 gurnards
 gratifies
 guise
-galv
+galv 1
 garnel
 guestimating
 gervase
