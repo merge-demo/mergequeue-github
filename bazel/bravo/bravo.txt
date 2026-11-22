@@ -1782,7 +1782,7 @@ bruiting
 bechtler
 blocklike
 bromohydrin
-bamming
+bamming 1
 blennocystitis
 becobweb
 bizardite
