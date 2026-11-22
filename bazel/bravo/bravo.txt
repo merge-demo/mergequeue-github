@@ -8156,7 +8156,7 @@ beardie
 brontophobia
 bash
 banishes
-buffalos
+buffalos 1
 baldpate
 byeman
 ballote
