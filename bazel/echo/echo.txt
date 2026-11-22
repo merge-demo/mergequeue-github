@@ -9760,7 +9760,7 @@ eurhythmy
 exitious
 enthusiast
 expressure
-essentialization
+essentialization 1
 essentially
 easterner
 exigencies
