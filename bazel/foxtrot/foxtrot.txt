@@ -10144,7 +10144,7 @@ fenite
 fissile
 frontlet
 fitter
-fashed
+fashed 1
 fabricant
 falcidian
 foresing
