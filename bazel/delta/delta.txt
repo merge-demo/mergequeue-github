@@ -821,7 +821,7 @@ dalaga
 danglin
 docibility
 demagogism
-drowsihood
+drowsihood 1
 directivity 1
 drunkenly
 ditchbank

@@ -10023,7 +10023,7 @@ avellan
 asyllabical
 ambiency
 adiposogenital
-anomy
+anomy 1
 archaeol
 ambients
 ambigenal

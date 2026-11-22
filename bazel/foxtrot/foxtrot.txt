@@ -3050,7 +3050,7 @@ fiberizes
 fritillary
 formolite
 federalists
-franchising
+franchising 1
 forficiform
 fetichize
 forceput
