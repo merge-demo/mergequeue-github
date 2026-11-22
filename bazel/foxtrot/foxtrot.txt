@@ -10025,7 +10025,7 @@ farmerlike
 frogskin
 fortune
 fibrocystoma
-favors
+favors 1
 fringilline
 freedom
 frothsome

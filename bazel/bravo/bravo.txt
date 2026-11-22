@@ -18306,7 +18306,7 @@ button
 buttonball
 basaltoid 1
 buttonbush
-bivalve
+bivalve 1
 buttoner
 buttoners
 bedel
