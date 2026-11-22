@@ -8534,7 +8534,7 @@ alkyne
 alkitran
 argufy
 alkool
-antagonize
+antagonize 1
 acervately
 antipodagric
 analytical
