@@ -1029,7 +1029,7 @@ guesten
 genthite
 gentlewomanliness
 germination
-geologer
+geologer 1
 gloriette
 galvanoscopy
 geodist
