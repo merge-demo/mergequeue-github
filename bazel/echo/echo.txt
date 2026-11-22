@@ -3324,7 +3324,7 @@ embassade
 emanatist
 epical
 emanativ
-erupt
+erupt 1
 enwreath
 emasculates
 endoesophagitis
