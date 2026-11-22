@@ -12019,7 +12019,7 @@ chinless
 chorographically
 commissural
 coronene
-choroidoretinitis
+choroidoretinitis 1
 choroids
 chorology
 cylloses
