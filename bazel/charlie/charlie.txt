@@ -7663,7 +7663,7 @@ counterpoint
 congregates
 carreta
 cereous
-celioschisis
+celioschisis 1
 cerebellitis
 chark
 cererite
