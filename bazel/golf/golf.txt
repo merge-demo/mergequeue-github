@@ -4193,7 +4193,7 @@ glaswegian 1
 gibbeted
 gelofre
 genealogy
-gollar
+gollar 1
 gymnorhinal
 gaspergou
 gluttony
