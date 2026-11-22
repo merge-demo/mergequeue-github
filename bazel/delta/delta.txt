@@ -18536,7 +18536,7 @@ disrates
 durians
 differ
 duricrust
-duridine
+duridine 1
 durity
 diphthonged
 dekalitre
