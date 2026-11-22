@@ -6154,7 +6154,7 @@ gnapweed
 gallification
 grammar
 gowiddie
-generalizing
+generalizing 1
 gyre
 grommet
 garters

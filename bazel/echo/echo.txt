@@ -5148,7 +5148,7 @@ evanishment
 endoconidia
 edificate
 epiplanktonic
-ejectives
+ejectives 1
 encrustment
 elegits
 ember
