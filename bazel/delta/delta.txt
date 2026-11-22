@@ -16763,7 +16763,7 @@ draughtsmanship
 drave
 demiflouncing
 dictynid
-dextrocular
+dextrocular 1
 diplasic
 dangersome
 diatomaceous

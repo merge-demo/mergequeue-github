@@ -8354,7 +8354,7 @@ glittery
 genioglossi
 gulled
 gopherroot 1
-gripy
+gripy 1
 guamachil
 grasshouse
 gulling
