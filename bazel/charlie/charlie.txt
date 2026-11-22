@@ -3801,7 +3801,7 @@ carbodynamite
 carbohemoglobin
 calamodendron
 cribbling
-carbohydrase
+carbohydrase 1
 cannibalism
 cardioncus
 carbohydrate
