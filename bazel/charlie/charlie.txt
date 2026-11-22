@@ -8966,7 +8966,7 @@ castigates
 charier
 chariest
 curdle
-charily
+charily 1
 chariness
 charing
 celadons
