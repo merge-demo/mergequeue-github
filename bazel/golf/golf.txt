@@ -5685,7 +5685,7 @@ greenlandman
 gnomonia
 gastrophrenic
 glossal
-glycerize
+glycerize 1
 gumboil
 gilbertianism
 glossalgy
