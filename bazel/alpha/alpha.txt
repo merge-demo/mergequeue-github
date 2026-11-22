@@ -24020,7 +24020,7 @@ antiproton
 align
 acetobacter
 autoclave
-allemands
+allemands 1
 autoclaving
 aspheric
 autocollimators
