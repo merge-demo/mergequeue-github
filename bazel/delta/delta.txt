@@ -4749,7 +4749,7 @@ democratic
 dividedness
 democratisation
 democratise
-dispells
+dispells 1
 democratised
 directeur
 detailed
