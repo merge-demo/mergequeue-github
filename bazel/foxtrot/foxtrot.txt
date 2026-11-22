@@ -2737,7 +2737,7 @@ faunas
 framing
 feedy
 fedity
-fascis
+fascis 1
 foliolate
 fiercer
 fragmentarily 1
