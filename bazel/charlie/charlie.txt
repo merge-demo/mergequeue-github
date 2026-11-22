@@ -5154,7 +5154,7 @@ casemented
 casements
 copolar
 caseolysis
-caseose 1
+caseose 2
 caseous
 caserios
 cyphering
