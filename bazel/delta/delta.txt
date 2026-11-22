@@ -9350,7 +9350,7 @@ differentiae 1
 deliquescing
 darkle
 dismembering
-differentiant
+differentiant 1
 daggy
 differentiate
 dioscoreaceous
