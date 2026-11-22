@@ -6414,7 +6414,7 @@ flyboat
 flisky
 fetches 1
 fitchet 1
-flaking
+flaking 1
 forescene
 fairm
 filiety
