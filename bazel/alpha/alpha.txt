@@ -7220,7 +7220,7 @@ alalus
 androl
 alamannian
 actinian
-alamannic
+alamannic 1
 antonomasia
 aren
 antiwhite
