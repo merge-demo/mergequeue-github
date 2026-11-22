@@ -4557,7 +4557,7 @@ disselboom
 drossiest
 demilitarizes
 demiliterate
-deflectional
+deflectional 1
 despotical
 demilustre
 diaskeuasis
