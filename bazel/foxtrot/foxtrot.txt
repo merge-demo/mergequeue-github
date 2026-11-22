@@ -11056,7 +11056,7 @@ frictionizing
 funambulatory 1
 funambule
 fondaco
-fedia
+fedia 1
 flamenship
 frontality
 funambuloes
