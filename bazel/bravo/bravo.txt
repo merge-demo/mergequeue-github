@@ -17308,7 +17308,7 @@ burrowed
 blobber
 beechier
 boreholes
-bumpers
+bumpers 1
 baths
 blazons
 bumpkin
