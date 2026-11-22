@@ -5317,7 +5317,7 @@ enslaves
 endocorpuscular
 endorsed
 enchantress
-emendating
+emendating 1
 effector
 endorsees
 emeriti
