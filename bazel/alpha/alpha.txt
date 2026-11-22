@@ -21849,7 +21849,7 @@ amiced
 abusious
 assimilates
 assimilating
-andoroba
+andoroba 1
 aerophobia
 assimilationist
 afterattack
