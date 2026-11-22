@@ -2350,7 +2350,7 @@ glassy
 greengrocer
 gutturalisation
 grubbiness
-gainturn
+gainturn 1
 guavaberry
 ghazal
 grundified
