@@ -5703,7 +5703,7 @@ expectorants
 eustacies
 emendator
 eflagelliferous
-evomit
+evomit 1
 eppie
 extraventricular
 extras
