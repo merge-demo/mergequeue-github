@@ -8992,7 +8992,7 @@ fantaddish
 flixweed
 fuster
 fourrier
-flagellates
+flagellates 1
 foelike
 feature
 foursquareness
