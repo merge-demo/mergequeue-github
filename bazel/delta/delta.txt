@@ -3706,7 +3706,7 @@ dehache
 dorsoepitrochlear
 dehypnotize
 dissonant
-disorganising
+disorganising 1
 desuetude
 defiantly
 dehydrate
