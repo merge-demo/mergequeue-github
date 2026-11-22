@@ -765,7 +765,7 @@ ferv
 frequently 1
 fanciful
 fibreboard
-fanciless
+fanciless 1
 foliicolous
 forestaff
 fragrance
