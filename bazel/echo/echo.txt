@@ -618,7 +618,7 @@ eclaircissement
 epeus
 ey
 echeneidoid
-enchant
+enchant 1
 enneaeteric
 empyreumatic 1
 epipaleolithic
