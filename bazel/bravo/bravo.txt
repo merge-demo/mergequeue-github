@@ -18232,7 +18232,7 @@ butterflied
 bounteously
 bienniums
 blathering
-balistarius
+balistarius 1
 besweatered
 butterflower
 bleinerite
