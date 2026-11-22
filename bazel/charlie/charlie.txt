@@ -1076,7 +1076,7 @@ circumcisions
 calceolaria
 calceolate
 cowhide
-calceus
+calceus 1
 challengable
 costoclavicular
 calchas
