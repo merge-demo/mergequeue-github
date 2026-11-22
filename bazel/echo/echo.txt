@@ -5553,7 +5553,7 @@ epigrammatised
 edessan
 enfeeblish
 effectful
-epilimnetic
+epilimnetic 1
 euhemerizing
 encourage
 etherlike
