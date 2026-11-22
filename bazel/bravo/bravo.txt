@@ -2126,7 +2126,7 @@ bantery
 boxfishes
 bantering
 banteringly
-banty
+banty 1
 betangle
 bribery
 bantu
