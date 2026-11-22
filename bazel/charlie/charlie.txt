@@ -3281,7 +3281,7 @@ capitolium
 crabbit
 capitula
 crumbiest
-capitulant
+capitulant 1
 centrists
 capitularies
 clathrus
