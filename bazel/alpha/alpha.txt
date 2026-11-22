@@ -9995,7 +9995,7 @@ artiller
 amberjacks
 ahankara
 atraumatic
-afraidness
+afraidness 1
 aye
 antisepticise
 adirondack
