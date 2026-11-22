@@ -12029,7 +12029,7 @@ effectuality
 enforceability
 enamelled
 epidialogue
-exclusivistic 1
+exclusivistic 2
 exclusivity
 effluents
 excogitated
