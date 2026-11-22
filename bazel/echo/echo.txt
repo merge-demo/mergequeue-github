@@ -12969,7 +12969,7 @@ expected
 eucharises
 embathe
 expectedness
-explode
+explode 1
 etherous
 evanition
 epicentrums
