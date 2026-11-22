@@ -6673,7 +6673,7 @@ ailuridae
 aneurilemmic
 archvillain
 ankyloblepharon
-anoterite
+anoterite 1
 ailuroidea
 ampelitic
 ailurophilic
