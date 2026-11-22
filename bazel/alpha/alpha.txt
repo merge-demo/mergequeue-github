@@ -1554,7 +1554,7 @@ accordingly
 accordionist
 ascan
 angelim
-adamical
+adamical 1
 appended
 andalusian
 autoportrait
