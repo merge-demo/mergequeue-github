@@ -12516,7 +12516,7 @@ everyway
 embarrel
 enchiridia
 exinguinal
-effare
+effare 1
 electrologic
 erythrean
 existimation
