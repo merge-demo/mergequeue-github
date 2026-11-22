@@ -6865,7 +6865,7 @@ gaffsman
 gonosphere 1
 grisettish
 graphics
-gorbal
+gorbal 1
 guaranty 1
 globosities
 galaxies
