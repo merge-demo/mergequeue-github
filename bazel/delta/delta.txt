@@ -5946,7 +5946,7 @@ depriorize
 disorderedness
 deprivable
 degrader
-departements
+departements 1
 dimethylnitrosamine
 deceiver
 deprivement
