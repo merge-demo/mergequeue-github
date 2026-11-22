@@ -581,7 +581,7 @@ gramary
 globelet
 gowan
 gladding
-gallicizer
+gallicizer 1
 galliform
 gomphrena
 gabfest
