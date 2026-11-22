@@ -9084,7 +9084,7 @@ engnessang
 euros
 erythrolytic
 eyrer
-equitangential
+equitangential 1
 expulse
 endoscopic
 exponential
