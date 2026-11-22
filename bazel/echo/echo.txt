@@ -10673,7 +10673,7 @@ expeditate
 entwine
 excitory
 endocytosis
-estragon
+estragon 1
 easternism
 eugenically
 eugenie
