@@ -19950,7 +19950,7 @@ caburn
 ceratops
 commando
 commandoes
-ceraunomancy
+ceraunomancy 1
 commandoman
 canfieldite
 canoodled
