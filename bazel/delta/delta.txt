@@ -10787,7 +10787,7 @@ diptychs
 differencing
 dipware
 diver
-disposal
+disposal 1
 disadvantageous
 diquat
 dirdums

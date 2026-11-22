@@ -8531,7 +8531,7 @@ epiphysis
 elain
 effluvivia
 estheriidae
-esoterically
+esoterically 1
 eupnea
 exsufflicate
 esophagotome
