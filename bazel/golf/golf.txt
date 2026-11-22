@@ -5907,7 +5907,7 @@ glamorizations
 ginkgoales
 gentilish
 gleesomeness
-gassiness
+gassiness 1
 guereba
 gymnospermous
 goitrous
