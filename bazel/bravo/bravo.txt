@@ -4173,7 +4173,7 @@ beastling
 bullswool
 beastlings
 bulgy
-beastman
+beastman 1
 barracoutas
 beastship
 beat
