@@ -416,7 +416,7 @@ gelder 1
 gneu
 gymnogynous
 gymmal
-gabion
+gabion 1
 glomeration
 greatened
 greatcoated 2
