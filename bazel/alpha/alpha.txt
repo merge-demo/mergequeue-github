@@ -11260,7 +11260,7 @@ acknowledge 1
 amphiploidy
 ascicidia
 apili
-ains
+ains 1
 ameen
 amphipoda
 aforesaid
