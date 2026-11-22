@@ -3310,7 +3310,7 @@ gula 1
 gabback
 geneticists
 germanized
-germanizer
+germanizer 1
 germule 1
 germanness
 ganging 1
