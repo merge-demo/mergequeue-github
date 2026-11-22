@@ -10174,7 +10174,7 @@ guidepost
 glossophobia
 geostrategist
 gerusia
-gastropathy
+gastropathy 1
 granulated
 greed
 governable
