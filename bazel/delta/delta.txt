@@ -18500,7 +18500,7 @@ datch
 drongos
 duffer
 durances
-downcast
+downcast 1
 divorced
 duraspinalis 1
 diacritic
