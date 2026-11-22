@@ -9561,7 +9561,7 @@ eatberry
 evection
 esmeralda
 epithecia
-einsteinium
+einsteinium 1
 esnecy
 epizoology
 esocataphoria
