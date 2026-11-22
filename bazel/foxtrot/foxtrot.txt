@@ -6147,7 +6147,7 @@ fretish
 frondigerous
 fontinalaceae
 foxfish
-frustration
+frustration 1
 fetidity
 fantom
 frequented
