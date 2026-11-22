@@ -4023,7 +4023,7 @@ gesticulated
 grotzen
 gymnanthous
 gouter 1
-gesticulates
+gesticulates 1
 gansey
 ginnier
 gubbings 1
