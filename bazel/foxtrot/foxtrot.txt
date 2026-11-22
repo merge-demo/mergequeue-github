@@ -4802,7 +4802,7 @@ freshened
 fooling
 flaggy
 formicated
-foaly
+foaly 1
 foreshowed
 facetted
 forfeiting
