@@ -8250,7 +8250,7 @@ bigamist
 boyars
 betafite
 bigamizing 1
-burstiness
+burstiness 1
 bedesman
 bream
 bluegill

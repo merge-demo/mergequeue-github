@@ -9929,7 +9929,7 @@ epipterygoid
 exprimable
 euphuists
 embolisms
-estovers
+estovers 1
 estradiol
 electrothermics
 emphasis 1
