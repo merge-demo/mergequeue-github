@@ -11872,7 +11872,7 @@ acyanopsia
 awink
 acceptedly
 ancerata
-asperous
+asperous 1
 adventurer
 anamnestic
 arracacha
