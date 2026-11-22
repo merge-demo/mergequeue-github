@@ -10318,7 +10318,7 @@ ethnocracy
 energising
 expendable
 excogitating
-equipostile
+equipostile 1
 epifocal
 electuaries
 exosmic
