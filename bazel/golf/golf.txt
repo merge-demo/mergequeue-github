@@ -719,7 +719,7 @@ gladdest
 grissen
 gersdorffite
 gentianic
-gor
+gor 1
 gentlepeople
 galactotherapy
 gambling
