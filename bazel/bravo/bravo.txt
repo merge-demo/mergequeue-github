@@ -13223,7 +13223,7 @@ botryoidal
 bosomed
 beading
 buzzers
-breatheableness
+breatheableness 1
 bosonic
 binocle
 bosporanic
