@@ -2684,7 +2684,7 @@ coleorhizae
 canion
 churchmanship
 chromophile
-canions
+canions 1
 canistel
 canjac
 cank
