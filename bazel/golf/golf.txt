@@ -3464,7 +3464,7 @@ gila
 gestalt
 gestaltist
 gallicisms
-gynecology
+gynecology 1
 grum
 gubernance
 gove
