@@ -14142,7 +14142,7 @@ barbra
 belemnitidae
 brachium 1
 brattiness
-buriable
+buriable 1
 brachyuran
 bollox
 bezant
