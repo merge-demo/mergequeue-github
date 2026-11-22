@@ -28660,7 +28660,7 @@ cavetto
 crenallation
 cuchulainn
 crenate
-crenated
+crenated 1
 chalcosiderite
 crenately
 cortins
