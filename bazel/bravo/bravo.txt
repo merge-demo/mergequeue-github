@@ -1466,7 +1466,7 @@ budgy
 backbiter
 boyarisms
 blighter
-balkish
+balkish 1
 bodaciously
 bahadurs
 beggar
