@@ -8393,7 +8393,7 @@ genipa 1
 galeeny
 gyroscopically 1
 gaucherie
-gawby
+gawby 1
 grebe
 gizzards
 gulping
