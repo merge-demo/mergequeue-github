@@ -23854,7 +23854,7 @@ cowroid
 contriver
 cookmaid
 caimitillo
-contrives
+contrives 1
 control
 controling
 controllable
