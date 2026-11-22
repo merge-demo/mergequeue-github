@@ -16361,7 +16361,7 @@ downstate
 dolmens
 defilade
 defrost
-downstrokes
+downstrokes 1
 downtake
 duodecane
 dewret
