@@ -7111,7 +7111,7 @@ fregatae
 footage
 fibrillae
 fuscous
-fulminic
+fulminic 1
 football
 flaglet
 frowning
