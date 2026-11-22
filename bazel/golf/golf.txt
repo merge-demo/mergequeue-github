@@ -1704,7 +1704,7 @@ gastightness
 grudgefulness
 gryposis
 glyptodont
-gentries
+gentries 1
 gastrophilite
 grandly
 gastrograph
