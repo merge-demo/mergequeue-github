@@ -4720,7 +4720,7 @@ gelatia
 giraffes
 generis
 gastraeas
-guzmania
+guzmania 1
 guanacos
 gallinula
 gynodioecism
