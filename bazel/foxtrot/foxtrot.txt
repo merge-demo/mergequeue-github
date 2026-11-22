@@ -10750,7 +10750,7 @@ faithlessly
 footraces
 frutex
 fruticetum
-fecklessness
+fecklessness 1
 foreinclined
 fileting
 fulmars
