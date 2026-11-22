@@ -10361,7 +10361,7 @@ gynic
 gonidiospore
 gastrothecal
 gnashing
-galactosamine
+galactosamine 1
 gardenly
 gordiid
 gullery
