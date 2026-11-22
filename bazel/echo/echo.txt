@@ -2583,7 +2583,7 @@ everest
 evaporator
 enhaloed
 eliasite
-embryonate
+embryonate 1
 epitomising
 electronically
 exclaimed
