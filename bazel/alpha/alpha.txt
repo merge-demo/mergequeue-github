@@ -1122,7 +1122,7 @@ acacatechol 1
 acacia
 albuminous
 acacian
-acacias
+acacias 1
 apparitions
 adjuratory
 appere

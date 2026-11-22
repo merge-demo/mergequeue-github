@@ -14018,7 +14018,7 @@ emmet
 extraspectral
 exordize
 enigmatography
-endothecia
+endothecia 1
 epitrophic
 electromotive
 exr
