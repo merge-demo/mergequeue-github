@@ -1540,7 +1540,7 @@ baller
 beclowning
 ballerina
 ballet
-balletomane
+balletomane 1
 bigged
 blastiest
 ballets
