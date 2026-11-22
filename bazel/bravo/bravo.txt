@@ -14217,7 +14217,7 @@ belamour
 bradypeptic
 bradyphrasia
 bradyphrenia
-bradypnea
+bradypnea 1
 bloodtest
 bonally
 bakerless
