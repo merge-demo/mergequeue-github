@@ -6790,7 +6790,7 @@ gavyuti
 ganglioside
 gossiping
 geront
-gymnogyps
+gymnogyps 1
 gentilitial
 gyrostatics
 genal
