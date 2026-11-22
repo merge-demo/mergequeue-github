@@ -12429,7 +12429,7 @@ eyer
 ergometer
 effude
 epapillate
-elengely
+elengely 1
 ea
 entorganism
 exigently
