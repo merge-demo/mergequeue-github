@@ -13232,7 +13232,7 @@ exanthalose
 enlightenedness
 explanted
 explanting
-explat
+explat 1
 empurples
 exertive
 ety
