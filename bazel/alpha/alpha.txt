@@ -18065,7 +18065,7 @@ arrenotokous
 areolate
 aranga
 apterial
-apterygidae
+apterygidae 1
 apterygiformes
 almsgiver
 arace
