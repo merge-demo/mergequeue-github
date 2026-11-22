@@ -17969,7 +17969,7 @@ depauperation
 danish
 domanial
 decompensate
-deplumate
+deplumate 1
 dukedoms
 decongestive
 dukes
