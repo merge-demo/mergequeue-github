@@ -19002,7 +19002,7 @@ archliar
 archmachine
 adread
 acupress
-apportionments
+apportionments 1
 austroriparian
 aphelops
 alar
