@@ -3278,7 +3278,7 @@ acute
 acutely
 ascomycetal
 acutest
-authorcraft
+authorcraft 1
 anticipator
 aedine
 arpanet
