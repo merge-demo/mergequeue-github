@@ -2077,7 +2077,7 @@ bannock
 buyers
 bannocks
 boilinglike
-bivittate
+bivittate 1
 banovina
 banquet
 blindish
