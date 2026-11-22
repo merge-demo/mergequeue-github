@@ -4493,7 +4493,7 @@ dysphoric
 deemphasizes
 dulnesses
 deception
-diaspora
+diaspora 1
 divulse
 dividingly
 demicircular
