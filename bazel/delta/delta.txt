@@ -11257,7 +11257,7 @@ disbury
 diosmose
 definitively
 dogstail
-disburse
+disburse 1
 disillusionist
 deictic
 duckpins
