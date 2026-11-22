@@ -11283,7 +11283,7 @@ chloroamide
 chloroamine
 chloroaurate
 chloroaurite
-chlorobenzene
+chlorobenzene 1
 centripetency
 chlorocalcite
 chlorochromates
