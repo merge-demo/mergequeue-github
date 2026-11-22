@@ -1899,7 +1899,7 @@ backhoes
 bandoleers
 bivalent
 birny
-bandolerismo
+bandolerismo 1
 buckayros
 bandoleros
 barouche

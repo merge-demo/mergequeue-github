@@ -10466,7 +10466,7 @@ graphitization
 gastroadenitis
 gusset
 goosy
-guimpe
+guimpe 1
 guanophore
 gemmaceous
 glossarially
