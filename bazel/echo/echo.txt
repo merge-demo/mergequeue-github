@@ -3666,7 +3666,7 @@ earlet
 endogonidium
 embright
 entreprenant
-entombment
+entombment 1
 epigrammatist
 endura 1
 euploids
