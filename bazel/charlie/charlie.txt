@@ -14552,7 +14552,7 @@ cysticerci
 chondrule
 chackling
 cylindrite
-cysticercoidal
+cysticercoidal 1
 cysticercosis
 cysticerus
 cysticolous
