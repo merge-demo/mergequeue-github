@@ -60,7 +60,7 @@ coup
 chlorophyll
 cabbagehead
 cabbageheaded
-chalinine
+chalinine 1
 cytoplasmically
 cosmocrat
 cabbageheadedness
