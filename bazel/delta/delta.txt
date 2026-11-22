@@ -4073,7 +4073,7 @@ deliciousness
 debouches
 delict
 deaquation
-deliquescence
+deliquescence 1
 divertila
 delictual
 disobeyed
