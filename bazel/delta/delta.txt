@@ -6978,7 +6978,7 @@ disqualifying
 distills
 demonisms
 disshroud
-despisingly
+despisingly 1
 draco
 deaeration
 despiteful 1
