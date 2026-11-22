@@ -2221,7 +2221,7 @@ expeditionist
 elders
 enumerating
 endognathion
-eldersisterly
+eldersisterly 1
 epiglottiditis
 eggless
 equiprobable
