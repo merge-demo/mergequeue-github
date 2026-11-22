@@ -13674,7 +13674,7 @@ dissympathize
 drupal
 dictatorialism
 diligency
-devious
+devious 1
 dermatocellulitis
 djellabas
 dyssynergy
