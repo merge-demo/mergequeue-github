@@ -31710,7 +31710,7 @@ cuspidor
 cephalopodan
 counterapse
 cusping
-cur
+cur 1
 cuspis
 cusps
 cuspule
