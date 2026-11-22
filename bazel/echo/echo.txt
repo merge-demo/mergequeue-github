@@ -12067,7 +12067,7 @@ eschewals
 enlightener
 eruptions
 epanaleptic
-expediate
+expediate 1
 entrainer
 evzone
 esselen
