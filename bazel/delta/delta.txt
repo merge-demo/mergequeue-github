@@ -17312,7 +17312,7 @@ drony
 droningly
 degelatinize
 deadlocked
-dronish
+dronish 1
 duellistic
 dronishness
 dronkelew
