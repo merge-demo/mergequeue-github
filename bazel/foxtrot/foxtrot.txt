@@ -2817,7 +2817,7 @@ folacins
 finlander
 flattops
 fumigatories
-fcomp
+fcomp 1
 fretted
 faunae
 faveolate
