@@ -3708,7 +3708,7 @@ dehypnotize
 dissonant
 disorganising
 desuetude
-defiantly
+defiantly 1
 dehydrate
 dehydrator
 dehydrating
