@@ -1814,7 +1814,7 @@ exoclinal
 exhorters
 engraulis 1
 erodium
-effetely
+effetely 1
 enamors
 eroding
 encroached
