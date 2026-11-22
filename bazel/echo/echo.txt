@@ -4405,7 +4405,7 @@ euripos
 enbrave
 eggheadedness
 embar
-egotize
+egotize 1
 eruptively
 electromechanical
 experiential
