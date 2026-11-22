@@ -15571,7 +15571,7 @@ boardable
 brisking
 briss
 backwoodsman
-bolsterer
+bolsterer 1
 brist
 bombproof
 bristled
