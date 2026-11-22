@@ -6637,7 +6637,7 @@ edificant
 eartagged
 excitator
 empyreumata
-enantiomeric
+enantiomeric 1
 encraty
 elephantlike
 enzymologies
