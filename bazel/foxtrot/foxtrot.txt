@@ -5288,7 +5288,7 @@ fails
 flawful
 flawing
 flabbergasted
-footloose
+footloose 1
 flawlessness
 fangy
 foamed
