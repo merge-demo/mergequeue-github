@@ -4594,7 +4594,7 @@ fringilliformes
 foliages 1
 flunkyism
 fissidens
-fossilify
+fossilify 1
 fisheye
 fieldstone
 fistuca
