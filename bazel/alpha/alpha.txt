@@ -10229,7 +10229,7 @@ amebid
 attorneys
 appendaged
 abray
-amebiform
+amebiform 1
 anteflexion
 ambitendent
 auximone
