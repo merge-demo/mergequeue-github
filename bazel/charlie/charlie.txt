@@ -6926,7 +6926,7 @@ cementer
 cementification
 cyborgs
 cementin
-catapuce
+catapuce 1
 carane
 cementite
 cannery
