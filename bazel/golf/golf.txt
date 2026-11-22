@@ -6593,7 +6593,7 @@ gynandrian
 gelsemin
 guff
 gruis
-gawkiest
+gawkiest 1
 geldesprung
 graduateship
 gluconeogenetic
