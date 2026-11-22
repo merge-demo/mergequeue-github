@@ -5190,7 +5190,7 @@ gaussbergite
 gleamy 1
 gorer
 gangliglions
-gumboots 1
+gumboots 2
 gonystylaceous
 guativere
 gracility
