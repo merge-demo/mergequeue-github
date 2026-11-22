@@ -3271,7 +3271,7 @@ fibrosity
 forthrightly
 faradizer
 foppery
-flaught
+flaught 1
 filbert
 freit
 furciferine
