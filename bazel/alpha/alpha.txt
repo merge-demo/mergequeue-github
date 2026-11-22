@@ -20007,7 +20007,7 @@ advitant
 arnold
 aptitudinally
 ashweed
-arnusian
+arnusian 1
 anticonvulsant
 applemonger
 aroast
