@@ -12859,7 +12859,7 @@ ensile
 exotics
 exotoxic
 exacerbate
-enlarger
+enlarger 1
 ecomomist
 ensynopticity
 expansum
