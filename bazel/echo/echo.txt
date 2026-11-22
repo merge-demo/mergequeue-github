@@ -5188,7 +5188,7 @@ entresol
 elytrorrhaphy
 earbob
 epicarp
-encyclic
+encyclic 1
 eurystheus
 erava
 essonite
