@@ -8745,7 +8745,7 @@ furrieries
 flote
 faussebraie
 fala
-frizzled
+frizzled 1
 featheriest
 fortunes
 faintise
