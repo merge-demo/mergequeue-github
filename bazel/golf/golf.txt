@@ -486,7 +486,7 @@ garroting
 galericulate
 gynandromorphy
 germing
-gess
+gess 1
 gadding 1
 gasifiers
 grunions 1
