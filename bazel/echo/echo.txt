@@ -6402,7 +6402,7 @@ elaboration
 enrobed
 encrinitical
 epist
-enunciator
+enunciator 1
 eluvivia
 elapid
 ensemble
