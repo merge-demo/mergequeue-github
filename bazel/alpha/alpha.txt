@@ -23022,7 +23022,7 @@ aeoline
 angiocarditis
 apelike
 abrim
-astringency
+astringency 1
 attributing
 atroscine
 atrous
