@@ -14495,7 +14495,7 @@ animadverts
 addictiveness
 affrontedly
 anthropogeographical 1
-anthropoglot
+anthropoglot 1
 anthospermum
 anoplotheroid
 anthropography
