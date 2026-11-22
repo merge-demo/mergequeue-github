@@ -2210,7 +2210,7 @@ campodeoid
 campong
 campongs
 convincing
-counterclaiming
+counterclaiming 1
 cheiropodist
 camponotus
 counterhammering
