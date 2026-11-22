@@ -16698,7 +16698,7 @@ duret
 divisionistic
 dabble
 deliberalize
-deoxidizes
+deoxidizes 1
 divellicate
 dramatization
 downshare
