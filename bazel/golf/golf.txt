@@ -5822,7 +5822,7 @@ grasshopperish
 gastrodisk
 gurjara
 glowering
-glowingly
+glowingly 1
 glows
 grinny
 geometrize
