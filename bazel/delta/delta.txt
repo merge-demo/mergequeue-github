@@ -18425,7 +18425,7 @@ diabolic
 dipsticks
 dupion
 disendowing
-duplation
+duplation 1
 downrush
 dukkha
 dedicatedly
