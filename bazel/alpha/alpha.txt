@@ -13828,7 +13828,7 @@ antiparalytic
 anorthitic
 anorthographic
 axospermous
-anorthographical
+anorthographical 1
 ala
 anorthophyre
 adrenocorticotrophin
