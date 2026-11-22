@@ -9982,7 +9982,7 @@ glood
 guaza
 glycerinated
 gendarmerie
-goodbys
+goodbys 1
 glycolide
 guillevat
 guggled
