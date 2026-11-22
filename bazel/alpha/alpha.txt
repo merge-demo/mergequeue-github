@@ -23692,7 +23692,7 @@ auriferous
 appreciational
 axlike
 aurify 1
-aurific
+aurific 1
 aceology
 algorism
 auriflamme
