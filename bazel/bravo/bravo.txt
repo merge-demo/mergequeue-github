@@ -7058,7 +7058,7 @@ basset
 bezzant
 bennetweed
 bespattered
-batara
+batara 1
 barracks
 bannerette
 briquetting
