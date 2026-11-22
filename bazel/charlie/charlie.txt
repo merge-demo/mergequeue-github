@@ -18111,7 +18111,7 @@ craneman
 coenomonoecism
 coenospecies
 coenospecifically
-chicory
+chicory 1
 coenosteum
 cacopharyngia
 coenotype
