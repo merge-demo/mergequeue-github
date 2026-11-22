@@ -7490,7 +7490,7 @@ excusal 1
 ebenaceae
 equisurface
 enif
-exorbitantly
+exorbitantly 1
 ephippia
 enfortune
 earthmover
