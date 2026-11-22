@@ -17859,7 +17859,7 @@ appreciativeness
 appreciatory
 angiophorous
 aegopodium
-allegorically
+allegorically 1
 aerify
 appreciators
 aerologies
