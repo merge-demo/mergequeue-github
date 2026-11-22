@@ -15693,7 +15693,7 @@ disespouse
 deflorescence
 dopping
 doppio
-dactyloscopy
+dactyloscopy 1
 dissipators
 dorab
 daiquiris
