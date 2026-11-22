@@ -2841,7 +2841,7 @@ eleostearic
 endoubt
 enseat
 electroluminescent
-explicans
+explicans 1
 evenhanded
 enaluron
 elephantiasis
