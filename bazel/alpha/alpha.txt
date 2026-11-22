@@ -722,7 +722,7 @@ abradable
 arteriopressor
 abradants
 anodendron
-aver
+aver 1
 alternize
 anglicized
 aptote

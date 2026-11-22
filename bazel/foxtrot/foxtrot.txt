@@ -9643,7 +9643,7 @@ feliform
 fulcrumage
 flabrum
 freewheelingness
-forfoughen
+forfoughen 1
 fluoborate
 foresides
 fathers

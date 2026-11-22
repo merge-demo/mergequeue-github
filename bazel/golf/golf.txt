@@ -10265,7 +10265,7 @@ galeproof
 gregarious
 guinness
 greyback
-gumbos
+gumbos 1
 getid
 grotianism
 gempylid
