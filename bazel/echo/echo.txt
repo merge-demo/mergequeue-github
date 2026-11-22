@@ -510,7 +510,7 @@ exceptionally
 epigrammatarian
 ethnographies
 effeminated
-ecesic
+ecesic 1
 ectropometer
 ecgonin
 ecgonine
