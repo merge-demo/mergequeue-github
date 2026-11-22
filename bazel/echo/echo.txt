@@ -8688,7 +8688,7 @@ ejecta
 equipotential
 externalize
 exconjugant
-endostyle
+endostyle 1
 epicoeliac
 epulotic
 equiprobably
