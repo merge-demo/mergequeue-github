@@ -4696,7 +4696,7 @@ flannelleaf
 fixt
 furca
 flopwing
-fangs 1
+fangs 2
 fummel
 furtherer
 flamboyancy
