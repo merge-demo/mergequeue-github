@@ -5001,7 +5001,7 @@ fettle 1
 flood
 faured
 flaneurs
-flanked
+flanked 1
 formulaically
 fledging
 factordom
