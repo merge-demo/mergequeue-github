@@ -5140,7 +5140,7 @@ gallweed
 glomera
 goblinesque 1
 gutturine
-gentlehearted
+gentlehearted 1
 goldylocks
 gyps
 glaucophanite
