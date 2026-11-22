@@ -5652,7 +5652,7 @@ gobbling
 growsome
 grubbiest
 gapy
-glaringly
+glaringly 1
 groma
 glooms
 gokuraku
