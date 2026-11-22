@@ -2020,7 +2020,7 @@ camisa
 camisadoes
 classicising
 cloddy
-camisard
+camisard 1
 capsicins
 curcuddoch
 critickin
