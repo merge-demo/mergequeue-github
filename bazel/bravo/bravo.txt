@@ -8249,7 +8249,7 @@ bigamies
 bigamist
 boyars
 betafite
-bigamizing
+bigamizing 1
 burstiness
 bedesman
 bream
