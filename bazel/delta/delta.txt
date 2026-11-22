@@ -12352,7 +12352,7 @@ deductively
 dragomen
 dishabituated
 dishable
-debitable
+debitable 1
 discomedusoid
 discredited
 dutchess
