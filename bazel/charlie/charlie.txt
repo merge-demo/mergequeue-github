@@ -2161,7 +2161,7 @@ corduroy
 campho
 camphocarboxylic
 camphoid
-choryos
+choryos 1
 camphol
 campholic
 compilatory
