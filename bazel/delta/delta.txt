@@ -77,7 +77,7 @@ debilitating 1
 dactylion
 deltal
 dobbin
-disfavorer
+disfavorer 1
 damning
 direcly
 deescalating
