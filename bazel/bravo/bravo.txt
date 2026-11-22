@@ -10266,7 +10266,7 @@ baneful
 boltonite
 bliaut
 ballsy
-blacktongue
+blacktongue 1
 byroniana
 blacktops
 blastoporphyritic
