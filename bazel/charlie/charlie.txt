@@ -10859,7 +10859,7 @@ chipolata
 coleopteroid
 cordwain
 chippendale
-chemiatrist
+chemiatrist 1
 chippered
 cardosanto
 carpetbaggers
