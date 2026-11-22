@@ -2370,7 +2370,7 @@ abortionist
 abator
 adjection
 acrospired
-anticritically
+anticritically 1
 asseverates
 acinaciform
 amorism
