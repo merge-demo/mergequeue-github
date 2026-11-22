@@ -20179,7 +20179,7 @@ arratel
 asclepieion
 apothem
 arrau
-assiduously
+assiduously 1
 arrearage
 aromaticity
 arterious
