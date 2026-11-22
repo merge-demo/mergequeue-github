@@ -5883,7 +5883,7 @@ bradmaker
 bellwort
 belock
 basimesostasis
-belomancy
+belomancy 1
 belonephobia
 belonger
 bagonet
