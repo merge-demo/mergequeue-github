@@ -9645,7 +9645,7 @@ grewsomest
 glycyrize
 guestmaster
 glumales
-gorsiest
+gorsiest 1
 gowfer
 gerardia
 grammatophyllum
