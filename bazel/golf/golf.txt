@@ -6282,7 +6282,7 @@ gothicizer
 gobbledygook
 gelatinised
 graecian
-gyroidal
+gyroidal 1
 grundyist
 galop 1
 governessy
