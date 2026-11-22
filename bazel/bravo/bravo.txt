@@ -15194,7 +15194,7 @@ blunted 1
 brushman
 blockheadedness
 bryce
-brick
+brick 1
 battened
 brickbat
 buttonholed 1
