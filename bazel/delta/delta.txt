@@ -3673,7 +3673,7 @@ disinhibition 1
 decomposite
 dysteleological
 degorge
-degradative
+degradative 1
 degraded
 degradement
 dozing
