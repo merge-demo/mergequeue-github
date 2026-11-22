@@ -12061,7 +12061,7 @@ enforcible
 elflike
 exotoxins
 expurgatorial
-embalmed
+embalmed 1
 excortication
 eschewals
 enlightener
