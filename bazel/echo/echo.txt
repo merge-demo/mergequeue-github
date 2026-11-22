@@ -3395,7 +3395,7 @@ estimator
 equivocally
 epinephelus 1
 ebullate
-exurbanite
+exurbanite 1
 exacters
 emphase
 egoist
