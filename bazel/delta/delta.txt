@@ -966,7 +966,7 @@ dodecastyle
 doctors
 dizzyingly
 dextrosazone
-dipsey
+dipsey 1
 dray 1
 disjoints
 doughmen
