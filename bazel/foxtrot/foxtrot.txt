@@ -3044,7 +3044,7 @@ forensical
 felstones
 friendlies
 fibbers
-fustin
+fustin 1
 fiber
 fiberizes
 fritillary
