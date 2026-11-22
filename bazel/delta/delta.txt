@@ -106,7 +106,7 @@ diphenylquinomethane
 detentive
 dactylotheca
 deactivated
-dactylozooid
+dactylozooid 1
 decoratively
 dreamage
 devilments 1
