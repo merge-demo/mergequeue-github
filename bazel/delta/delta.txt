@@ -11009,7 +11009,7 @@ dioptroscopy
 demonlike
 disseizure
 dayblush
-defiers
+defiers 1
 deboistness
 diasystem
 disaligned
