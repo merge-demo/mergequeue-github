@@ -6149,7 +6149,7 @@ fontinalaceae
 foxfish
 frustration
 fetidity
-fantom
+fantom 1
 frequented
 foredoor 1
 fraughts
