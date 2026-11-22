@@ -11269,7 +11269,7 @@ epichlorohydrin
 economies
 emblematical
 ergometrine
-expirable
+expirable 1
 evanishes
 enterostenosis
 exsolved
