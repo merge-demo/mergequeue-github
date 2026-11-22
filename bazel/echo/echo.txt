@@ -6700,7 +6700,7 @@ enterotoxemia
 enterotoxication
 evenmindedness
 enlight
-equestrianize
+equestrianize 1
 ecartes
 eclipser
 enspirit
