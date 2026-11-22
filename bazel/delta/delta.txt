@@ -9263,7 +9263,7 @@ digitalic
 dateableness
 dyes
 damfoolish
-deanathematize
+deanathematize 1
 dedd
 dieses
 deforester
