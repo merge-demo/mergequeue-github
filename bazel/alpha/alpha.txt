@@ -19891,7 +19891,7 @@ armipotence
 analeptical
 armistice
 armistices
-atresia
+atresia 1
 adelantados
 avenaceous
 anthropocentrism
