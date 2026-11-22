@@ -3129,7 +3129,7 @@ defamed
 dilogical
 duxes
 disestablisher
-disbodied
+disbodied 1
 demihuman 1
 defamy
 delegating
