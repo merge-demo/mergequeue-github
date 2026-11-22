@@ -5873,7 +5873,7 @@ grandesque
 glycogenous
 gravimetric
 goliards
-gallinaceous
+gallinaceous 1
 graphometrist
 ganglionary
 gallywasp
