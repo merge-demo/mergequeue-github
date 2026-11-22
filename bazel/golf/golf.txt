@@ -3246,7 +3246,7 @@ gerasene
 gesturer
 gutti
 gigantism
-geratologous
+geratologous 1
 guidership
 gametophytic
 goodhearted
