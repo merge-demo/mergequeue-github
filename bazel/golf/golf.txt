@@ -1864,7 +1864,7 @@ gregory
 grandfer
 gunfighting
 gulinulae
-gateposts 1
+gateposts 2
 gatewaying
 gatetender
 gawain

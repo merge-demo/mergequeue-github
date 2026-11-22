@@ -10040,7 +10040,7 @@ fantee
 ferriferous
 falseness
 fireblende
-fastigiated
+fastigiated 1
 flattie
 forefended
 forecasted

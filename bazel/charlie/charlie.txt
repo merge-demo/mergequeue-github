@@ -16268,7 +16268,7 @@ clinopinacoid
 cephalin
 chayaroot
 convector
-clinopodium
+clinopodium 1
 conterminous
 constrainment
 curvilinear
