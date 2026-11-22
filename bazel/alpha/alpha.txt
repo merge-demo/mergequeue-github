@@ -10343,7 +10343,7 @@ abscam
 apivorous
 attains
 anaphorically
-affination
+affination 1
 athetized
 ataxic
 aristocratically
