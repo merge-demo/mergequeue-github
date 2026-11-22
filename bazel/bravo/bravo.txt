@@ -5299,7 +5299,7 @@ beforested
 breathlessness
 biscuitmaker
 bezzants 1
-bipinnate
+bipinnate 1
 bugbite
 beginning
 bemirement
