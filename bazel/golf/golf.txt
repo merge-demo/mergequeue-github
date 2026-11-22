@@ -1651,7 +1651,7 @@ grousewards
 grosgrain
 garawi
 gumlikeness
-geode
+geode 1
 goyish
 gastroenteroptosis
 graculus
