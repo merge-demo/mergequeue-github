@@ -4314,7 +4314,7 @@ entangle
 exosmoses
 enflowered
 echiniform
-exospores
+exospores 1
 enacting
 ers
 exercisers
