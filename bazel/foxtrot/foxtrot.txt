@@ -11101,7 +11101,7 @@ fistful
 fiendlier
 flops
 fervanite
-foyaite
+foyaite 1
 fundamentalists
 flatbread
 fastland
