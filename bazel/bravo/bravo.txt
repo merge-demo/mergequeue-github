@@ -14100,7 +14100,7 @@ blasters
 bugged
 butsudan
 brekkle
-bumbaze
+bumbaze 1
 brighteyes
 birdlore
 brachiosaur

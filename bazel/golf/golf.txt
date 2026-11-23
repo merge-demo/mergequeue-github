@@ -8333,7 +8333,7 @@ geegaws
 geanticlinal
 glaciated
 ghostwritten
-gammacismus
+gammacismus 1
 geomagnetics
 gentes
 greeneries
