@@ -6692,7 +6692,7 @@ allotypic
 azotin
 autocamp
 artocarpad
-armisonous
+armisonous 1
 autogiros
 aimee
 artize
