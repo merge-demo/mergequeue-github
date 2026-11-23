@@ -8767,7 +8767,7 @@ equoidean
 embrue
 erade
 exhedra
-enfeebler
+enfeebler 1
 euphyllite
 eradicable
 enticement
