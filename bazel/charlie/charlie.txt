@@ -25485,7 +25485,7 @@ cartooning
 corollary
 centrosymmetric
 chastens
-cervicohumeral
+cervicohumeral 1
 contradictions
 corollarial
 corollarially 1
