@@ -6867,7 +6867,7 @@ grisettish
 graphics
 gorbal
 guaranty 1
-globosities
+globosities 1
 galaxies
 gymsia
 gluteoinguinal
