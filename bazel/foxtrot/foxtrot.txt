@@ -2123,7 +2123,7 @@ frowningly
 fireplow
 feldsparphyre
 foreprize
-fulsome
+fulsome 1
 favours
 foddered
 fellatrice
