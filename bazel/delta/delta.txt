@@ -16883,7 +16883,7 @@ demonstrandum
 distemperment
 descriptory
 dreadly
-dreadlocks
+dreadlocks 1
 dreadnought
 disport
 dreamful
