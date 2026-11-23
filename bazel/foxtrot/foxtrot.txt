@@ -5325,7 +5325,7 @@ fantasque
 flutey
 foregather
 fifteen
-fumarole
+fumarole 1
 feasts
 filial
 fant
