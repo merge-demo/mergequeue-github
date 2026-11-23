@@ -9928,7 +9928,7 @@ dimetry
 disorganizes
 densimetry
 dimyaria
-downwardness
+downwardness 1
 dimidiate
 dispart
 deodorizers
