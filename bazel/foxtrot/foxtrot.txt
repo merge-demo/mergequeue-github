@@ -10185,7 +10185,7 @@ furdel
 ferryage
 famines
 fending
-foggages
+foggages 1
 frazing
 faros
 flaskful
