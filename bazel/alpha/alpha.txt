@@ -19508,7 +19508,7 @@ argonne 1
 argons
 argosy
 archaizes
-acanthuses
+acanthuses 1
 antimediaeval
 argots
 allianced

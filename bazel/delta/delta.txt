@@ -8354,7 +8354,7 @@ dialed
 depredation
 disvouch
 decalobate
-dyed
+dyed 1
 dromed 1
 decigrams
 doricize
