@@ -11962,7 +11962,7 @@ enunciable
 enlisting
 elsehow
 epistemophiliac 1
-excises
+excises 1
 excystment
 encinal
 emirs
