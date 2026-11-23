@@ -247,7 +247,7 @@ dyssynergia
 daggerproof
 diskettes
 dagging
-disavaunce
+disavaunce 1
 dollhouses 1
 decameters
 daggles
