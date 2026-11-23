@@ -14805,7 +14805,7 @@ docmac
 docoglossan
 disulphoxid
 detests
-docoglossate
+docoglossate 1
 diswarren
 decidua
 docs
