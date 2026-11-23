@@ -25507,7 +25507,7 @@ coronachs
 coronadite
 coronado
 coronados
-coronae
+coronae 1
 crepidomata
 craniometer
 cavitates
