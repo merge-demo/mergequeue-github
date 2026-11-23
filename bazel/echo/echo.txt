@@ -2008,7 +2008,7 @@ ekron
 encephalocele
 educement
 epidemics
-ektenes
+ektenes 1
 expeditious
 endmatcher
 excitableness
