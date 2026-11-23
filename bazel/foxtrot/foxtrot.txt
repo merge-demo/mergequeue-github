@@ -9838,7 +9838,7 @@ faden
 fribbler 1
 friskle
 foreappointment
-fricace
+fricace 1
 fricandeaux 1
 foozlers
 footcloths
