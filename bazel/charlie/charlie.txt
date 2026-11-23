@@ -5395,7 +5395,7 @@ casteth
 crossbench
 castice
 castigable
-confederates
+confederates 1
 constatation
 coxiest
 cyclopism
