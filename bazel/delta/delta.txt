@@ -2049,7 +2049,7 @@ dentatocrenate
 dayward
 decahedrons
 dominical
-decahydronaphthalene
+decahydronaphthalene 1
 dramaturge
 desiatin
 disaccommodate
