@@ -14442,7 +14442,7 @@ amyloid
 aequiculi
 anthrahydroquinone
 androgynism
-anthramine
+anthramine 1
 aphesis
 anthranyl
 afterswarming
