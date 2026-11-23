@@ -3079,7 +3079,7 @@ caoutchin
 caoutchoucin
 cap
 capa
-conferrable
+conferrable 1
 capability
 charks
 capable
