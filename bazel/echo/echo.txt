@@ -8279,7 +8279,7 @@ erratums 1
 endolaryngeal
 endplay
 epitheliomatous
-epitaphian
+epitaphian 1
 ejection
 expensively
 ectoplasmic
