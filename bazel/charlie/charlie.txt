@@ -31313,7 +31313,7 @@ commemorize
 circumoral
 claudent
 curdiness
-curdled
+curdled 1
 cottabus
 critchfield
 curdles
