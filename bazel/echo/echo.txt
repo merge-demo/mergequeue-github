@@ -8693,7 +8693,7 @@ epicoeliac
 epulotic
 equiprobably
 equiproportional
-equiproportionality
+equiproportionality 1
 egocentrism
 eluate
 escopet
