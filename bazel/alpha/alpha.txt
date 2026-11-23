@@ -14644,7 +14644,7 @@ akerite
 antialcoholism
 antialcoholist
 antialdoxime
-angiectopia
+angiectopia 1
 anchorless
 advisee
 anthropogeographer
