@@ -4544,7 +4544,7 @@ gerbille
 gigantomachia
 gawp
 gmelinite
-gingering
+gingering 1
 gyrate 1
 garigue
 gyrated
