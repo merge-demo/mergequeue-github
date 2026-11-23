@@ -1880,7 +1880,7 @@ cologne
 cotwin
 calandria
 calicoed
-cordwains
+cordwains 1
 chickling
 cyanophil
 conjugative
