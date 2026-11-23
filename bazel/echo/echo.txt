@@ -2257,7 +2257,7 @@ elector
 exhume 1
 elks
 encyclopedian
-encell
+encell 1
 epauletted
 electragy
 electress
