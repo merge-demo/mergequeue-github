@@ -4686,7 +4686,7 @@ glossarian
 golliwogg 1
 gerbilles
 gena
-gossoon
+gossoon 1
 glassin
 guisard
 glycuronic
