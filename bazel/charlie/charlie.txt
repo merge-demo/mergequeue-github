@@ -22734,7 +22734,7 @@ consanguineously
 caulocarpous
 coemptio
 consecrative
-columnarized
+columnarized 1
 caligraphy
 conscience
 canoeiro
