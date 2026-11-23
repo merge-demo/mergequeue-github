@@ -5549,7 +5549,7 @@ grumbles
 gamecocks
 guardlike
 globigerinae
-guarnerius
+guarnerius 1
 gourd
 glutition
 globigerinas
