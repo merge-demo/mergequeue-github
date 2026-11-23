@@ -6921,7 +6921,7 @@ despair
 delirous
 drunken
 dirgeful
-despairful
+despairful 1
 doctrinism
 diplegia
 diarthroses
