@@ -12907,7 +12907,7 @@ antiliturgically
 anglomane
 awkward
 acinetaria
-anglophilic
+anglophilic 1
 autotype
 adenine
 anglophobia
