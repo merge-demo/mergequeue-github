@@ -3271,7 +3271,7 @@ cerebrum
 compenetrate
 corns
 capito
-canulated
+canulated 1
 capitol
 clingier
 crayfishing
