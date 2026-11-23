@@ -6195,7 +6195,7 @@ benevolency
 bengalese
 batavian
 bengola
-bipartient
+bipartient 1
 beni
 buckjumper
 benic
