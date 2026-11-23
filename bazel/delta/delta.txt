@@ -2834,7 +2834,7 @@ deerflys
 disulphonate
 decries
 decrying
-depolarizers
+depolarizers 1
 danegelt
 dielectrically
 demonic
