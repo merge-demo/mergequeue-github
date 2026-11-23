@@ -1102,7 +1102,7 @@ frondescence
 foughten 1
 farsighted
 fleabites
-flatiron
+flatiron 1
 foretime
 farsightedness
 flooring
