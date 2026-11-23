@@ -9211,7 +9211,7 @@ firebugs
 fertilising
 fascinatress
 freeborn
-fragmentariness
+fragmentariness 1
 fragmentist
 foundries 1
 faucals
