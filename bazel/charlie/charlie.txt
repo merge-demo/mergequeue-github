@@ -23738,7 +23738,7 @@ chuffy
 contrapose
 contraposed
 clinospore
-chalcograph
+chalcograph 1
 contraposit
 cataplexy
 contrapositive
