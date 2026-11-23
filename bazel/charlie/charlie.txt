@@ -15155,7 +15155,7 @@ chonchina
 candiel
 compactions
 contangos
-claibornian
+claibornian 1
 construal
 covisit
 commanderies
