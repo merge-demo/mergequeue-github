@@ -5980,7 +5980,7 @@ greaten
 guerrillaship
 grossulariaceous
 gluemaker
-glutinative
+glutinative 1
 gigantomachy
 granuloadipose
 giftedness
