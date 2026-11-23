@@ -10435,7 +10435,7 @@ electrochronometer
 engraved
 estruation
 etymologization
-evaluator
+evaluator 1
 eurypteroid
 eviscerated
 eloinment
