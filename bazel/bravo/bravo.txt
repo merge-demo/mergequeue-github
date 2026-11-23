@@ -11588,7 +11588,7 @@ badgeman
 baggageman
 boa
 brushite
-budgeted
+budgeted 1
 bisontine
 boarded
 besmudged
