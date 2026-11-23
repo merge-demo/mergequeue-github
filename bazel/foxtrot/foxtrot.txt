@@ -10245,7 +10245,7 @@ firiness
 fishweed
 fennecs
 flamingoes
-foundationed
+foundationed 1
 ferronickel
 forebow
 flavedos
