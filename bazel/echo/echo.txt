@@ -6384,7 +6384,7 @@ endostitis
 ebbed
 episcopize
 eprouvette
-enshrined
+enshrined 1
 enshrinement
 embars
 enshrinements
