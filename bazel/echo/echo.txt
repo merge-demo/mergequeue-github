@@ -5389,7 +5389,7 @@ executiveship
 erogeny
 extradotal
 endothecial
-equator
+equator 1
 elaterids
 egers
 emeroid
