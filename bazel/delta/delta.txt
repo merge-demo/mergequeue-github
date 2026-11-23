@@ -16619,7 +16619,7 @@ dilutant
 detesting
 dragonwort
 dabber
-dedolent
+dedolent 1
 dadouchos
 desoxyribonuclease
 dragoonable
