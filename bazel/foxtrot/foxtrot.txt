@@ -7641,7 +7641,7 @@ foreorlop
 flimsilyst
 flips
 flustroid
-forefinger
+forefinger 1
 figary
 fixed
 fritillaries
