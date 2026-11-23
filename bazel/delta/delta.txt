@@ -9490,7 +9490,7 @@ digestively 1
 dural
 digestiveness
 dipteroi
-diamonded
+diamonded 1
 dermad
 domically
 daintrel
