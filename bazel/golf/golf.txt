@@ -2197,7 +2197,7 @@ garrotte
 greedily
 grough 1
 glycerinating
-gunyeh
+gunyeh 1
 gombo
 graphanalysis
 granitiferous
