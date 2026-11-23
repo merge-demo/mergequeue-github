@@ -2187,7 +2187,7 @@ elcaja
 eld
 epimeritic
 effiguration
-enamoredness
+enamoredness 1
 ethynes
 eyedropperful
 environmentalists
