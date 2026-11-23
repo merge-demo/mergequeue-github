@@ -4880,7 +4880,7 @@ gaff
 gallybagger
 guttersnipe
 guessed
-gorgonizing
+gorgonizing 1
 giinwale
 gladiatrix
 goyim
