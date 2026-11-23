@@ -17831,7 +17831,7 @@ beuncled
 booze
 banjara
 bursitos
-burst
+burst 1
 booksellers
 breezeful
 burster
