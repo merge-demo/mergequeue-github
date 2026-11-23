@@ -644,7 +644,7 @@ gabionage
 guruships
 gerodontia
 gasometry
-gestatorial
+gestatorial 1
 ghostlify
 gnarled
 grueling
