@@ -11675,7 +11675,7 @@ futurama
 floodometer
 frowsty
 flibustier
-furcates
+furcates 1
 frailties
 festoons
 flocculate
