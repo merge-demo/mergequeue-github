@@ -30429,7 +30429,7 @@ crabhole
 crux
 cruxes
 chorizontes
-cruzado
+cruzado 1
 chelicere
 cruzieros
 crwd
