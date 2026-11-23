@@ -4974,7 +4974,7 @@ exilable
 emulsifiable
 embole
 endowed
-expertly
+expertly 1
 entopical
 epineurial
 enthronise
