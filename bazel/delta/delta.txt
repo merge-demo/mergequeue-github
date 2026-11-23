@@ -8070,7 +8070,7 @@ duchesse
 dysacusia
 delve
 dhooly
-dowiness
+dowiness 1
 dictyonine
 disilicic
 disheritment
