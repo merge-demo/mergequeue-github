@@ -26838,7 +26838,7 @@ counterreply
 chilled
 counterfactually
 captivately
-counterfeisance
+counterfeisance 1
 counterfeit
 counterfeitly
 captaculum
