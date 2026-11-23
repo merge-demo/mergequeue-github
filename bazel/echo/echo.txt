@@ -4120,7 +4120,7 @@ exogenous
 enfoulder
 eellike
 eire
-emplectic
+emplectic 1
 emmets
 ethnographically
 eighthes
