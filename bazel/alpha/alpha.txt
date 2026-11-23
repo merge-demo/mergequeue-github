@@ -11888,7 +11888,7 @@ apophlegmatism
 arrears
 ankylenteron
 anamorphosis
-accurre
+accurre 1
 acetarious
 archvagabond
 azocochineal
