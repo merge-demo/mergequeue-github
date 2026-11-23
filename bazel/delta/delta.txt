@@ -4351,7 +4351,7 @@ dendrodic
 dysphagic
 delead
 demersal
-demanganization
+demanganization 1
 deliberator
 dishonourableness
 ductal
