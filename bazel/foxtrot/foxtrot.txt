@@ -7249,7 +7249,7 @@ flailed
 financiery
 fatstocks
 fluorogen
-foregoing
+foregoing 1
 fissuration
 fledglings
 fetisheer
