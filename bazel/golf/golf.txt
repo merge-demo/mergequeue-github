@@ -670,7 +670,7 @@ gangboard
 gallows 1
 gonitis
 giddify
-geoaesthesia
+geoaesthesia 1
 gript
 giterne
 grapelet
