@@ -1781,7 +1781,7 @@ everliving
 euphonous
 effractor
 escalloping
-eyesight
+eyesight 1
 epigenic
 enormities
 eparchs
