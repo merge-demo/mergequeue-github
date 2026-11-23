@@ -1008,7 +1008,7 @@ arthrochondritis
 antidromous
 abtruse
 aquitanian
-affluxes
+affluxes 1
 abstractitious
 abstractive
 athenianly
