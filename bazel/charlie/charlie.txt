@@ -3749,7 +3749,7 @@ chirata
 carbacidometer
 chromized 1
 croceines
-cryoprotective
+cryoprotective 1
 carbamate
 carbamic
 carbamide
