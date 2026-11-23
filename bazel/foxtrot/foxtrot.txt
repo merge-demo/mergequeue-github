@@ -2229,7 +2229,7 @@ fiscus
 firebombs
 fuliguline
 flatcars
-fructosan
+fructosan 1
 ferrara
 forlornest
 feminization
