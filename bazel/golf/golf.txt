@@ -3268,7 +3268,7 @@ galagala
 gaut
 guarantor
 gossypol
-gyral
+gyral 1
 gaelicist
 gulo
 galvanical
