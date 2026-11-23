@@ -1287,7 +1287,7 @@ eoghanacht
 epinephrin
 eq
 eeriness
-ecostate
+ecostate 1
 epithalamion
 encircler
 endogenesis
