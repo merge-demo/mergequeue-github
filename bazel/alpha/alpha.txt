@@ -2723,7 +2723,7 @@ acrindoline
 allamonti
 asteriae 1
 arak
-anabasin
+anabasin 1
 acritan
 acrite
 asthenobiosis
