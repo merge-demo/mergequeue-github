@@ -586,7 +586,7 @@ coinhabitant
 caduciary
 caducibranch
 copiously
-compunctions
+compunctions 1
 caducibranchiata
 canikins
 caducibranchiate
