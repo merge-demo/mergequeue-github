@@ -4271,7 +4271,7 @@ escutcheons
 experiment
 endometrium
 electrodispersive
-evertile
+evertile 1
 exclusivism
 eptatretus
 emulsion
