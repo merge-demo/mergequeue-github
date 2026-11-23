@@ -3274,7 +3274,7 @@ deblocked
 daughterliness
 dockhead
 disburdening
-domesticate
+domesticate 1
 defiber
 deionized
 duodecillionth
