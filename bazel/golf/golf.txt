@@ -482,7 +482,7 @@ galere
 gridirons
 gipsies
 glozingly
-garroting
+garroting 1
 galericulate
 gynandromorphy
 germing
