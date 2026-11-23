@@ -12746,7 +12746,7 @@ dorsilateral
 dislocating
 drawbars
 dissemblingly
-dantesque
+dantesque 1
 droughtier
 dislocatory
 drivecap
