@@ -6951,7 +6951,7 @@ evangelicality
 enjoyableness 1
 entosternal
 erick
-eleganter
+eleganter 1
 extrapolations
 endarteria
 election

@@ -8554,7 +8554,7 @@ formulisation
 friaries
 famulus
 fred
-frenchwise
+frenchwise 1
 fluorographic
 fleered
 formulizing
