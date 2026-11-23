@@ -10964,7 +10964,7 @@ encoignure
 esparcet
 equivocalness
 echiurid
-erythematous
+erythematous 1
 embrittlement
 echinus
 embosk
