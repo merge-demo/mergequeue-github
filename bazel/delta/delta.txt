@@ -6481,7 +6481,7 @@ disencumber
 diffusedly
 deranged
 descanted
-descants
+descants 1
 discourtesies
 diastatic
 denunciatory
