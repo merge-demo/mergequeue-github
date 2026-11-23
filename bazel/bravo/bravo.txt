@@ -2382,7 +2382,7 @@ branchling
 bobtails
 bardess
 bikinis
-balantidiasis
+balantidiasis 1
 bulliest
 byblidaceae
 bowdlerised
