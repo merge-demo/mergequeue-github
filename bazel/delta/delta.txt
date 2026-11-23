@@ -13673,7 +13673,7 @@ dissymmettric 1
 dissympathize
 drupal
 dictatorialism
-diligency
+diligency 1
 devious
 dermatocellulitis
 djellabas
