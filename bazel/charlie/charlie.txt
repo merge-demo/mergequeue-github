@@ -15217,7 +15217,7 @@ chinaberry
 claystone
 curtained
 cynomoriaceous
-claith
+claith 1
 clubmen
 clayton
 chinkers
