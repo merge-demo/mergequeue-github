@@ -10660,7 +10660,7 @@ anteromedian
 arborolater
 amylose
 achree
-africans
+africans 1
 angiotribe
 acuminous
 amyls
