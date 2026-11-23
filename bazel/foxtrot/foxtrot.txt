@@ -2407,7 +2407,7 @@ fistularia 1
 flavous
 filipuncture
 felanders
-frenchness
+frenchness 1
 ferities
 fulgoridae
 flyflapper
