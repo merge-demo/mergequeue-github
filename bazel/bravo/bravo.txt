@@ -18012,7 +18012,7 @@ barbotte
 barmfel
 babbitt
 busk
-barlock 1
+barlock 2
 burghmoot
 bicornuous
 bromise
