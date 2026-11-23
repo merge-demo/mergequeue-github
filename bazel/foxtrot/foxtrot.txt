@@ -10306,7 +10306,7 @@ fingerleaf
 fingering
 frondeurs
 forecourt
-feaze
+feaze 1
 foss
 footcandles
 forewarning
