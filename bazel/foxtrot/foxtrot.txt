@@ -9895,7 +9895,7 @@ foliaceousness
 fibrofatty
 freckly
 ferreters
-friendlessness
+friendlessness 1
 fancier
 fornices
 fritts
