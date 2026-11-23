@@ -13091,7 +13091,7 @@ cibol
 conjugacy
 cibola
 cibolero
-cibols
+cibols 1
 columnea
 ciboney
 cibophobia
