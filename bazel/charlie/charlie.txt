@@ -1163,7 +1163,7 @@ calculability
 counterrampant
 calculableness
 calculably
-cosing
+cosing 1
 confabular
 calculatedly
 contango
