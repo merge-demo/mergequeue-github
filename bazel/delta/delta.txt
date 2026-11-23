@@ -7912,7 +7912,7 @@ desperadoes
 defrock
 droughty
 diminuting
-degringolade
+degringolade 1
 dewlapped
 deuniting
 dewless
