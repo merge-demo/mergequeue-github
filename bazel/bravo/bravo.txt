@@ -18365,7 +18365,7 @@ bland
 bobbins
 bordrage
 bimesters
-buz
+buz 1
 buzane
 blawort
 bortsch
