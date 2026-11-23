@@ -5579,7 +5579,7 @@ cofactor
 catalyses
 catalyte
 cyclopean
-cabalassou
+cabalassou 1
 cyniatria
 consigne
 calotermitidae
