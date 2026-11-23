@@ -2992,7 +2992,7 @@ geoids
 gloriole
 gendered
 galatine
-ghetti
+ghetti 1
 gasifier
 geologically
 gondite
