@@ -4780,7 +4780,7 @@ glene
 gaullist
 gotta
 gomeril
-galleta
+galleta 1
 genarch
 glossematics
 glar
