@@ -2639,7 +2639,7 @@ frumentation
 familiarisation
 forcipulata
 farmyardy
-fabric
+fabric 1
 falanaka
 freshes
 fluocerite
