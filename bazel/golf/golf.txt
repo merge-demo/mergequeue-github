@@ -6881,7 +6881,7 @@ gaposises
 goniatitic
 grainman
 goshen
-gynandroid 1
+gynandroid 2
 garrotes
 garfish
 gregarina
