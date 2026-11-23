@@ -13800,7 +13800,7 @@ accessions
 anorchous
 anorectal
 arizonan 1
-anorectic
+anorectic 1
 anagallis
 aventurin
 africanism
