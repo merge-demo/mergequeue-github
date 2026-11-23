@@ -494,7 +494,7 @@ geochronological
 girkin
 gravimetrical
 gelatin
-gye
+gye 1
 gluteus
 grama
 gullably
