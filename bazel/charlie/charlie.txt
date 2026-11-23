@@ -12940,7 +12940,7 @@ cyan
 cyanamid
 conspires
 coextension
-chipling
+chipling 1
 coaxially
 cyanate
 cyanates
