@@ -17440,7 +17440,7 @@ dominium
 drouket
 deskill
 dermatographic
-damascener
+damascener 1
 diagrammatician
 dentiroster
 devitrified
