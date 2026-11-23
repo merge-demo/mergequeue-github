@@ -1468,7 +1468,7 @@ font
 flavorings
 fruiter 1
 favourable
-friedman
+friedman 1
 fiqh
 flamer
 foreshows
