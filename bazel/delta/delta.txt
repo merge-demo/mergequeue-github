@@ -1181,7 +1181,7 @@ dassent
 deadheads
 dicaeology
 dodecaphony
-diiamb
+diiamb 1
 donnybrook
 diachoretic
 dextrinize 1
