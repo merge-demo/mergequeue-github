@@ -15513,7 +15513,7 @@ done
 diaries
 dacryostenosis
 dihydrocuprin
-dispendious
+dispendious 1
 duopolies
 dismalness
 diabolism 1
