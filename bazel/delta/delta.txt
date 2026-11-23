@@ -2853,7 +2853,7 @@ dezincked
 daur
 desiring
 diaclasis
-decubiti
+decubiti 1
 deculturate
 driverless
 decuman 1
