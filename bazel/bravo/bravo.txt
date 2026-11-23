@@ -11301,7 +11301,7 @@ biologism
 bipunctate 1
 blowse
 bargeman
-barse
+barse 1
 baith
 boards
 bespoused
