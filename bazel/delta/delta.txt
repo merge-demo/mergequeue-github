@@ -7068,7 +7068,7 @@ ducting
 dothideacea
 desterilization
 dilucid
-dexterical
+dexterical 1
 dayak
 dolts
 deposits
