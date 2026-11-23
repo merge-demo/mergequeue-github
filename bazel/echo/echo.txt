@@ -10018,7 +10018,7 @@ electrode
 eurhythmical 1
 electrodiagnostically
 extrorsal
-electrodiagnostic
+electrodiagnostic 1
 expellable
 ethanal
 esoterical
