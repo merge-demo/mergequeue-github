@@ -16327,7 +16327,7 @@ adfroze
 antitruster
 antituberculosis
 artophoria
-antituberculotic
+antituberculotic 1
 anticholagogue
 antitumoral
 affray

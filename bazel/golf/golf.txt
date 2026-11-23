@@ -421,7 +421,7 @@ glomeration
 greatened
 greatcoated 2
 gegger
-galbanums
+galbanums 1
 genophobia
 groomishly
 gimcrackiness
