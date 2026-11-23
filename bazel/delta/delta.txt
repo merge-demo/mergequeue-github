@@ -12188,7 +12188,7 @@ disfigure
 draughter
 defencelessness
 disfigurer
-demarcated
+demarcated 1
 didactician
 diasper
 depositure
