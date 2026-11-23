@@ -5678,7 +5678,7 @@ grenat
 gaucie
 gaultheria
 galvanographic
-glandulous
+glandulous 1
 gallophile
 gristliest 1
 greenlandman
