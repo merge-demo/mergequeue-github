@@ -6299,7 +6299,7 @@ caulote
 cauls
 caum
 cauma
-condolences
+condolences 1
 caumatic
 caunch
 caunos
