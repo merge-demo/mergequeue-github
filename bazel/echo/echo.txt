@@ -12909,7 +12909,7 @@ euryaleae
 erythropenia
 engr
 eosaurus
-enticingly
+enticingly 1
 expeditiousness
 ecchymose
 epithymetic
