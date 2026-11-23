@@ -5808,7 +5808,7 @@ flamingly
 flittermouse
 fellowship
 fathmur
-flitters
+flitters 1
 frequents
 flankwise
 froggiest
