@@ -3108,7 +3108,7 @@ extraparietal
 eke
 elm 1
 embarrassment
-educing
+educing 1
 expiscatory
 epistolographist
 edgewise
