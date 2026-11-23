@@ -9421,7 +9421,7 @@ dredge
 dismountable
 dejunkerize
 diffusions
-diffusive
+diffusive 1
 diffusors
 diabolus
 diner
