@@ -12181,7 +12181,7 @@ ellipse
 econometrical 1
 ethmoturbinate
 excussed
-estranges
+estranges 1
 eusol
 epigraphically
 eucolite
