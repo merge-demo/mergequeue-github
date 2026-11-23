@@ -2851,7 +2851,7 @@ genu
 grillers
 gastrosophy
 gynaecic
-geogenous
+geogenous 1
 gigmanically
 gater
 goutweed
