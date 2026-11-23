@@ -15783,7 +15783,7 @@ andradite
 aegirine
 antipestilently
 ablauts
-agonistical
+agonistical 1
 anvilled
 aviolite
 amidic
