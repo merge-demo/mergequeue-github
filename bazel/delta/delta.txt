@@ -9360,7 +9360,7 @@ deneb
 dewax
 diplopia 1
 differently
-dinarchies
+dinarchies 1
 differer
 differs
 dextrorsely
