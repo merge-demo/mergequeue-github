@@ -5855,7 +5855,7 @@ kinpvgz
 kinpxmmz
 kinqynntfs
 kinqz
-kinth
+kinth 1
 kinuksi
 kinuzscecanw
 kinvele
