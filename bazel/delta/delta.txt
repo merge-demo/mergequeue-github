@@ -6066,7 +6066,7 @@ disacknowledgement
 doughbelly
 diopsis
 deputing
-diaconicon
+diaconicon 1
 digitalization
 dorps
 delicacy
