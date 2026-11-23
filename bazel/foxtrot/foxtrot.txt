@@ -4030,7 +4030,7 @@ forwean
 forefaces
 feute
 funerally
-fallible
+fallible 1
 feudatorial
 foredawn
 fissural
