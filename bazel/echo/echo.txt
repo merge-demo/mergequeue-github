@@ -1110,7 +1110,7 @@ extermined
 exhibitorship
 erinite
 edwina
-extempory
+extempory 1
 epeisodion
 esterification
 elatrometer
