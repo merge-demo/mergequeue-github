@@ -22308,7 +22308,7 @@ argents
 alamedas
 adrenolysis
 astriferous
-autosoteric
+autosoteric 1
 abraders
 appair
 assorts
