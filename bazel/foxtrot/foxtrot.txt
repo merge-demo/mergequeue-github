@@ -8026,7 +8026,7 @@ froebelian
 flashbulb
 fungaceous
 forestal
-forestalling
+forestalling 1
 forestalls
 funerals
 flutterer
