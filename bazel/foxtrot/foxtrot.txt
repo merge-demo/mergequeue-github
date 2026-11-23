@@ -11018,7 +11018,7 @@ fumets
 fumiest
 fluoroscope
 frivolist
-fossilizes
+fossilizes 1
 fillets
 fumigated
 fierce
