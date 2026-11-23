@@ -10973,7 +10973,7 @@ amoebocyte
 amoebogeniae
 amoebula
 amoy
-apinoid
+apinoid 1
 amok
 amoke
 azure
