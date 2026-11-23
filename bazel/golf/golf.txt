@@ -4618,7 +4618,7 @@ gnaphalium
 gymnanthes
 gluttonism
 gnathobase
-grecianize
+grecianize 1
 giro
 glossae
 gastronomist
