@@ -11046,7 +11046,7 @@ fungated
 fere
 fascias
 funambulator
-feels
+feels 1
 faunological
 flinty
 fellatrices
