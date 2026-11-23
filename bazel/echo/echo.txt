@@ -842,7 +842,7 @@ endophytic
 efficient
 electrolyser
 excrementous
-enchair
+enchair 1
 exocarps
 elong
 ectodermosis
