@@ -1115,7 +1115,7 @@ abuttals
 abetting
 allegros
 abwab
-aureateness
+aureateness 1
 ac
 anguliferous
 acacatechol 1
