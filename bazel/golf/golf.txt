@@ -2480,7 +2480,7 @@ glabrate
 girt
 gillflirt
 geoisotherm
-greekish
+greekish 1
 grief
 geodynamic
 glandules
