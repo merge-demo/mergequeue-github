@@ -1086,7 +1086,7 @@ dartled
 dedecorate
 defuses
 dartling
-decanoyl
+decanoyl 1
 downpour
 defluxion
 datiscaceae
