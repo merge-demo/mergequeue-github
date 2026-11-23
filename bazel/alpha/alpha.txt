@@ -16964,7 +16964,7 @@ alveolars
 affreight
 aplite
 alfione
-aplites
+aplites 1
 amulet
 aplitic
 angering
