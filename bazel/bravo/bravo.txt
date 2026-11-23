@@ -1611,7 +1611,7 @@ boud
 boyarism
 blier
 burletta
-butyrous
+butyrous 1
 balloted
 ballotist
 ballots
