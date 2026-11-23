@@ -7968,7 +7968,7 @@ acrophobia
 amelioratory
 alethopteis
 afterword
-acritical
+acritical 1
 amatungula
 alethopteroid
 archidium
