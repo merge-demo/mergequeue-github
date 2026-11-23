@@ -3557,7 +3557,7 @@ captivative
 captive
 caucus
 calvarias
-captives
+captives 1
 comatulae
 captor
 capturable
