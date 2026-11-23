@@ -12062,7 +12062,7 @@ delirant
 demantoid
 dijudicated
 disensure
-disentail
+disentail 1
 deprecatively
 disentangle
 dissensious
