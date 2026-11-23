@@ -8941,7 +8941,7 @@ galeopithecus
 gombroon
 grieko
 gecked
-glossopalatinus
+glossopalatinus 1
 gatsby
 gyration
 greund
