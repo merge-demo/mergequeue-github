@@ -1253,7 +1253,7 @@ gooroo
 grassman
 garbill
 guyline
-goosebone
+goosebone 1
 ganomalite
 garbler
 gradings
