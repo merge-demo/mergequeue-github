@@ -13755,7 +13755,7 @@ disadventure
 disenshroud
 dreamboat
 desugaring
-degression
+degression 1
 damndests
 dangering
 downlooker
