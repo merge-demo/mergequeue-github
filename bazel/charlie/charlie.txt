@@ -10424,7 +10424,7 @@ chiggers
 congession
 chigoes
 chih
-capsomer
+capsomer 1
 conquered
 coryphaena
 clinocephalic
