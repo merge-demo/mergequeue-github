@@ -1274,7 +1274,7 @@ granage
 ged
 gavall
 goethites
-gratten
+gratten 1
 gromatical
 gyrator
 galium
