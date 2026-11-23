@@ -717,7 +717,7 @@ badger
 breeches
 backyard
 bogwort 1
-badgerer
+badgerer 1
 blundersome
 booking
 banana
