@@ -8302,7 +8302,7 @@ equivalve
 ennobles
 exactions
 epithalline
-elastase
+elastase 1
 einstein
 earthwards
 electropuncturation
