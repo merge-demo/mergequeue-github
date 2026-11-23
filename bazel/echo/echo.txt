@@ -12641,7 +12641,7 @@ exodic
 equipped
 encincturing
 emeralds
-essancia
+essancia 1
 ergotize
 elateroid
 egurgitating
