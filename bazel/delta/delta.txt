@@ -15674,7 +15674,7 @@ decrements
 doper
 disbarring
 doorposts
-dopier
+dopier 1
 dogstone
 desi
 docile
