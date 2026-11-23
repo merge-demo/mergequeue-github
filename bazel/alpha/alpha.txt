@@ -23092,7 +23092,7 @@ archsatrap
 amitotically
 almirah
 aumoniere
-asyzygetic
+asyzygetic 1
 attalea
 aquafer
 algicidal
