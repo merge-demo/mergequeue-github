@@ -19911,7 +19911,7 @@ armoracia
 albertite
 akuammin
 adonises
-ampoules
+ampoules 1
 alastors
 adjuration
 armorials 1
