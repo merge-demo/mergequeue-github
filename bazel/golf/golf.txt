@@ -1279,7 +1279,7 @@ gromatical
 gyrator
 galium
 glyphographer
-gumpus
+gumpus 1
 grallina
 gnatsnapper
 ganges 1
