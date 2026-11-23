@@ -2047,7 +2047,7 @@ embreathement
 eskimo
 elaeometer
 electrometeor
-entamebic
+entamebic 1
 eligibleness
 earthstar 1
 encephalometric
