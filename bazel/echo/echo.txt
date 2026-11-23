@@ -4440,7 +4440,7 @@ endenizen
 extispices
 enthymeme
 e
-espacement
+espacement 1
 ejaculation
 encaptive
 entomion
