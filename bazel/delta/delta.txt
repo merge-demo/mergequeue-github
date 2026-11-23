@@ -78,7 +78,7 @@ dactylion
 deltal
 dobbin
 disfavorer
-damning
+damning 1
 direcly
 deescalating
 dumb
