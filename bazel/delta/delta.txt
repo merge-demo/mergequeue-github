@@ -12041,7 +12041,7 @@ disengaged
 defiable
 disengaging
 disenjoyment
-discourteous
+discourteous 1
 diaspidinae
 deciduousness
 deambulatory
