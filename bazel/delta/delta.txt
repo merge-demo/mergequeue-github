@@ -13726,7 +13726,7 @@ defluous
 deadlihead
 diaclinal
 disannex
-dissogeny
+dissogeny 1
 doomful
 departmentalize
 dissogony
