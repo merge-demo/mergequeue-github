@@ -6002,7 +6002,7 @@ devitation
 domajigger
 diagraphics
 diamagnetize
-diagrammitically
+diagrammitically 1
 depthlessness
 diobols
 demonetization
