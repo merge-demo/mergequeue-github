@@ -15548,7 +15548,7 @@ classicise
 chromophoric
 classicism
 classicist
-classicists
+classicists 1
 cheshire
 cordially
 cynoglossum
