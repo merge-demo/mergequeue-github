@@ -14317,7 +14317,7 @@ ditheisms
 ditty
 disdaining
 disseminates
-decardinalize
+decardinalize 1
 dispassionate
 didymoid
 decrial
