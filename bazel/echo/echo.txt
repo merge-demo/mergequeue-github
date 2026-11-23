@@ -459,7 +459,7 @@ erf
 eunuchal
 eveners
 enanthesis
-expediteness
+expediteness 1
 evector
 ecclesia
 enumerable
