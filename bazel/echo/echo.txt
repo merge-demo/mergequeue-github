@@ -4533,7 +4533,7 @@ encephalomyelitis
 entalent
 eery
 enrange
-entrepreneurial
+entrepreneurial 1
 ectotheca
 erucin
 encephalomyocarditis
