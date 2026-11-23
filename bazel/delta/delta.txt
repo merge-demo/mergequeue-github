@@ -7636,7 +7636,7 @@ dissimule
 developable
 diuretically
 deceptious
-dealer
+dealer 1
 deflocculation
 digamous
 didinium
