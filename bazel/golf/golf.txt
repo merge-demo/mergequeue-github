@@ -4545,7 +4545,7 @@ gigantomachia
 gawp
 gmelinite
 gingering
-gyrate
+gyrate 1
 garigue
 gyrated
 gosain
