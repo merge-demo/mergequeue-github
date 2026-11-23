@@ -25622,7 +25622,7 @@ countersuggestion
 chondriocont
 crusting
 corpsbruder
-corpse
+corpse 1
 corpses
 creeshy
 cecity
