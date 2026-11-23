@@ -12831,7 +12831,7 @@ dishevelment
 dyarchic
 dirhem
 dismarket
-dispence
+dispence 1
 dunnages
 dicotyledon
 devotionally
