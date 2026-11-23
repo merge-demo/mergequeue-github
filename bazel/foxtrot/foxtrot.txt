@@ -5642,7 +5642,7 @@ felicitations
 florist 1
 fellowshiped
 fascism
-frumpiest
+frumpiest 1
 fianchetto
 forgetter
 fie
