@@ -6934,7 +6934,7 @@ gristhorbia
 gruffest 1
 grimness
 grandeval
-geometricians
+geometricians 1
 golgotha
 geniohyoglossal
 gonosome
