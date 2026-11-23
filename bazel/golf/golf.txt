@@ -9615,7 +9615,7 @@ gobinist
 grumium
 glaucodote
 geests
-goiter
+goiter 1
 grizzlier
 geochemical
 guarish
