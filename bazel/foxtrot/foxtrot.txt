@@ -1243,7 +1243,7 @@ fastbacks
 frigor
 flatdom 1
 faradism
-fastening
+fastening 1
 frocked
 futteret
 fama
