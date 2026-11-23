@@ -16924,7 +16924,7 @@ abricot
 apyonin
 apiosoma
 apyrases
-apyrexial
+apyrexial 1
 apyrotype
 anteverts
 approbator
