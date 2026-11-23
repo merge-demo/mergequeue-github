@@ -13572,7 +13572,7 @@ emulation
 epikeia
 esoteric
 exsufflate
-exsufflation
+exsufflation 1
 epithymetical
 extracutaneous
 evasions
