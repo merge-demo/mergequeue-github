@@ -6776,7 +6776,7 @@ amyelinic
 adipocerous
 adopt
 airbrushing
-amitabha
+amitabha 1
 airburst
 arresting
 angularity
