@@ -18255,7 +18255,7 @@ coffeetime
 coffer
 corridor
 cofferdam
-claudetite
+claudetite 1
 chaetophorales
 cephalotome
 coombe
