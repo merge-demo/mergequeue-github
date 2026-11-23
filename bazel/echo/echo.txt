@@ -186,7 +186,7 @@ equipoising
 extraformal
 examiner
 estrogenic
-emeras
+emeras 1
 exarticulation
 exclamatively
 earthquaken
