@@ -10007,7 +10007,7 @@ cheries
 cosmotron
 coronavirus
 celeries
-condescension
+condescension 1
 cherry
 cherryblossom
 cherried

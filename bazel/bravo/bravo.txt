@@ -1583,7 +1583,7 @@ beclart
 bursati
 baudronses
 bilamellate
-ballo
+ballo 1
 blumea
 begluc
 banneret
