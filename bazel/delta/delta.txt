@@ -991,7 +991,7 @@ devwsor
 darien
 disinclinations
 dimmest
-deiform
+deiform 1
 drupes
 disavowedly
 dekadarchy
