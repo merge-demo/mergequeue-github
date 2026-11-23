@@ -14636,7 +14636,7 @@ divulsing
 divulsion
 divvy
 derating 1
-depressing
+depressing 1
 diallel
 dixain
 decentre
