@@ -12559,7 +12559,7 @@ kurdm
 kurdtdu
 kurfghwgni
 kurfibwbr
-kurfw
+kurfw 1
 kurglcsieqgc
 kurgq
 kurgzjg
