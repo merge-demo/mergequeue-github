@@ -1426,7 +1426,7 @@ dibbed
 dryster
 dichotomized
 damnit
-dasht
+dasht 1
 dawk
 diapering
 dioptrate
