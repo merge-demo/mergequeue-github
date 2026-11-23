@@ -803,7 +803,7 @@ extravisceral
 evincibly
 eggment
 electrophotography 1
-ectasis
+ectasis 1
 endothia
 enoil
 exequies
