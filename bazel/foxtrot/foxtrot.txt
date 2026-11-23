@@ -7213,7 +7213,7 @@ forfeits
 frizzlers
 formulate
 faenas
-footpaces
+footpaces 1
 fifer
 foolocracy
 factionaries
