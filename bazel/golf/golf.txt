@@ -1731,7 +1731,7 @@ governail
 guaba
 gambado
 gangwayman 1
-glossoscopy
+glossoscopy 1
 gadoids
 glycerinate
 gynocracy
