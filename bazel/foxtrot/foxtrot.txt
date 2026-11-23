@@ -9278,7 +9278,7 @@ frames
 frapler
 forename
 footmenfootpad
-fungologist
+fungologist 1
 fumarine
 foldwards
 fogrum 1
