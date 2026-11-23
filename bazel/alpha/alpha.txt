@@ -7025,7 +7025,7 @@ astrolabical
 aftercomer
 adhibits
 acaridans
-acuteness
+acuteness 1
 ajoint
 ajuga
 akal
