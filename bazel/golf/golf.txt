@@ -2895,7 +2895,7 @@ gedunk
 geobotanic
 gustation
 gradualism 1
-gumpheon
+gumpheon 1
 gomlah
 globulite
 gaincope
