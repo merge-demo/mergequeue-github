@@ -5444,7 +5444,7 @@ detd
 dauk
 denver
 disprover
-divagational
+divagational 1
 divineress
 detachable
 deodorised
