@@ -10523,7 +10523,7 @@ galipots
 goladar
 girl
 geometrina
-geodesical
+geodesical 1
 gratiola
 gibs
 gulix
