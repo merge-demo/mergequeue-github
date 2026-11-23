@@ -11891,7 +11891,7 @@ daying
 dieri
 dewier
 dopers
-doux
+doux 1
 deathblow
 dehypnotized
 dragoonade
