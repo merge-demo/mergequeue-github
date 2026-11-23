@@ -5284,7 +5284,7 @@ affirmably
 aplysia
 achaetous
 anchor
-arnica
+arnica 1
 assisan
 agency
 acrosome

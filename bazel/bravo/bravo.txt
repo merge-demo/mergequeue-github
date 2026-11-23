@@ -13288,7 +13288,7 @@ bobbery
 backlet
 buckling
 botanica
-bandoleered
+bandoleered 1
 bacteriologically
 bradykinesis
 bivaulted
