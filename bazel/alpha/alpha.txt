@@ -15159,7 +15159,7 @@ antegarden
 aggregating
 antievolution
 autocatalysis
-anteconsonantal
+anteconsonantal 1
 antievolutionist
 antiexpansion
 antiexpansionism
