@@ -11093,7 +11093,7 @@ doppelkummel
 demonetisation
 dirt
 denitrified
-deink
+deink 1
 dandyling
 decentness
 dundreary
