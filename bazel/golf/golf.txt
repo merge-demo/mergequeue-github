@@ -10033,7 +10033,7 @@ geomancies
 gangliac
 gastronomes
 gleans
-gazebos
+gazebos 1
 glaistig
 gammation
 gargoyles
