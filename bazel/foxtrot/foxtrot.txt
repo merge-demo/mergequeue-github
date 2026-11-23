@@ -11167,7 +11167,7 @@ fungibility
 fadeout
 fideists
 fungicidal
-fungicidally
+fungicidally 1
 fungicides
 fungicolous
 frampler
