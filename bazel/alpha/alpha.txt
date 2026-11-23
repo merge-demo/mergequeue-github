@@ -25278,7 +25278,7 @@ ammonifying
 acceded
 aulete
 azine
-atrypa
+atrypa 1
 azlon
 azobenzil
 anisogamous
