@@ -7027,7 +7027,7 @@ adhibits
 acaridans
 acuteness
 ajoint
-ajuga
+ajuga 1
 akal
 akali
 akamai
