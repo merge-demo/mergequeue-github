@@ -17615,7 +17615,7 @@ almandite
 apperceptionism
 anoura
 alkalizate
-afforced
+afforced 1
 appersonation
 appersonification
 appert

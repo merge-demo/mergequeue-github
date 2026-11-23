@@ -6626,7 +6626,7 @@ gonaduct
 guiling
 gonalgia
 gallinipper
-gradatively
+gradatively 1
 galanga
 gruntingly
 glassine
