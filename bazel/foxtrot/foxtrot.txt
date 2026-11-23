@@ -153,7 +153,7 @@ facks
 forefront
 fumitories
 foremostly
-favus
+favus 1
 falls
 fulfillers
 fibbery
