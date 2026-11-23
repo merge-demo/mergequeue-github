@@ -15412,7 +15412,7 @@ claque
 candescently
 calipering
 canneries
-claques
+claques 1
 claqueur
 conducement
 clarain
