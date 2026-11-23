@@ -9268,7 +9268,7 @@ chatter
 chyme
 craunch
 cocainizing 1
-cryonic
+cryonic 1
 carol
 cocceianism
 chatterboxes
