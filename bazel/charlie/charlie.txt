@@ -14114,7 +14114,7 @@ crystallophobia
 circuits
 clochan
 cardioneural
-capsulize
+capsulize 1
 circulant
 circular
 colistins
