@@ -9441,7 +9441,7 @@ begrease
 bulimiac
 btl
 baccheion
-bandwidths
+bandwidths 1
 brawl
 bespatterment
 byrlawman
