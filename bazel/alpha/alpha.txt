@@ -4689,7 +4689,7 @@ autocriticism
 amphibologically
 aegemony
 alismaceae
-apneal
+apneal 1
 agmatology
 areola
 aegicrania
