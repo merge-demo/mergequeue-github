@@ -1600,7 +1600,7 @@ forereaching
 floppies
 faffle
 funambulo
-functionating
+functionating 1
 fallalery
 faniente
 favouring
