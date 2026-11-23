@@ -3894,7 +3894,7 @@ gramaryes
 grossen
 guelph
 gyroplane
-goodness
+goodness 1
 gatherings
 geomorphogenic
 globeholder
