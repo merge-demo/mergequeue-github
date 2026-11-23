@@ -1230,7 +1230,7 @@ exorcismal
 endoplastular
 equvalent
 estamin
-equicaloric
+equicaloric 1
 exstemporal
 extremal
 eme
