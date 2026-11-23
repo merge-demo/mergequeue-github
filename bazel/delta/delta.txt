@@ -14758,7 +14758,7 @@ diaheliotropically 1
 doublegear
 docimasia
 desmacyte
-desertrice
+desertrice 1
 dentilated
 docimastical
 decimation
