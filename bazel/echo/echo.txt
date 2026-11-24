@@ -13086,7 +13086,7 @@ ecclesiophobia
 enfonced
 euclid
 epimyocardium
-equanimousness
+equanimousness 1
 embellishment
 epidermose
 elijah
