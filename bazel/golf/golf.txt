@@ -4351,7 +4351,7 @@ greenable
 gleefulness
 girthed
 gingivae
-gauge
+gauge 1
 gamps
 graham
 gallacetophenone

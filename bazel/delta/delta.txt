@@ -15396,7 +15396,7 @@ distoma
 dissemblance
 decempedate
 dendrochronological
-dynamize
+dynamize 1
 dedications
 dominae
 delineament
