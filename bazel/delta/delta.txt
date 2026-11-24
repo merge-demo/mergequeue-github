@@ -8527,7 +8527,7 @@ drighten
 dantomania
 disaccharides
 diapause
-diapauses
+diapauses 1
 donaries
 decarburize
 dodecastylos
