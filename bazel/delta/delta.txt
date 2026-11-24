@@ -3458,7 +3458,7 @@ discomfortably
 defluent
 debyes
 disassociating
-doffed
+doffed 1
 dictyoxylon
 doigte
 defluvium
