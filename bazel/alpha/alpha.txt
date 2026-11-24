@@ -7657,7 +7657,7 @@ actual
 alectorides
 alcmene
 alcogene
-algocyan
+algocyan 1
 atheists
 antiphilosophical
 allopalladium
