@@ -13484,7 +13484,7 @@ epidural
 episiorrhagia
 extraconstitutional
 exsanguinating
-exposing
+exposing 1
 ethmoidal
 eudaemonic
 eucalypti
