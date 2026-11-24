@@ -18430,7 +18430,7 @@ archdeacons
 abiogeny
 arb
 arbacia
-amebae
+amebae 1
 arbacin
 agogics
 aerodone
