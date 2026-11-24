@@ -1911,7 +1911,7 @@ brevipen
 bandore
 baselard
 balsa
-bandrol
+bandrol 1
 beatific
 befuddles
 bonniest
