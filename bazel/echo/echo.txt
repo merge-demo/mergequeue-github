@@ -10843,7 +10843,7 @@ earache
 educes
 echini
 educationally
-embassiate
+embassiate 1
 eligibilities
 endostomata
 envineyard
