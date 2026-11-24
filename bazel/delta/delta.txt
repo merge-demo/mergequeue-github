@@ -1623,7 +1623,7 @@ diadrome
 derision
 disenrol
 damagingly
-decl
+decl 1
 dealcoholize
 dinoceratan
 datisca
