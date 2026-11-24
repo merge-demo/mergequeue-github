@@ -200,7 +200,7 @@ defecant
 dak
 deemstership
 dysgenic
-disciplinarianism
+disciplinarianism 1
 daffadilly
 dicatalectic
 dione
