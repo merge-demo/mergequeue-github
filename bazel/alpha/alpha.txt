@@ -6493,7 +6493,7 @@ apehood
 anzanian
 antecardium
 allantiasis
-adjuvate
+adjuvate 1
 ahi
 azotometer
 algaesthesis
