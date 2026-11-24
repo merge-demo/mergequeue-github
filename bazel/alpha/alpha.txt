@@ -10706,7 +10706,7 @@ antiorgastic
 aminopherase
 aminopyrine
 agrobiologic
-angulometer
+angulometer 1
 armitas
 arachne
 alcayde
