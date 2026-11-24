@@ -8590,7 +8590,7 @@ epigrammatism
 egall
 ergatomorph
 equidimensional
-equidist
+equidist 1
 exrx
 essancias
 endophytically
