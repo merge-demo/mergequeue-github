@@ -1326,7 +1326,7 @@ costliest
 contrist
 cesarolite
 caliburno
-colossuses
+colossuses 1
 crawfished
 calycanthin
 cantador
