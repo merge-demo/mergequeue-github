@@ -14949,7 +14949,7 @@ adiathermic
 associe
 appetizers
 academical
-airstrip
+airstrip 1
 anachronic
 anticommunistically
 anticonductor
