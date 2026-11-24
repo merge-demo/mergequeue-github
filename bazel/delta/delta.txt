@@ -12644,7 +12644,7 @@ dechemicalization
 disjunctive
 disjunctively
 deseed
-dibble
+dibble 1
 disembodying
 diskelion
 downers
