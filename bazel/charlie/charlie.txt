@@ -14158,7 +14158,7 @@ circulus
 cavaedium
 circumambiency
 circumambient
-circumambulate
+circumambulate 1
 circumambulated
 compose
 cuisinier
