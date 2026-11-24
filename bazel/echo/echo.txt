@@ -9525,7 +9525,7 @@ envois
 esuriently
 esebrias
 ellops
-enantiotropy
+enantiotropy 1
 esemplasy
 extremities
 educationese
