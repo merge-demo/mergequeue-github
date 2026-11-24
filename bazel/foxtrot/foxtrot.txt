@@ -9921,7 +9921,7 @@ formulising
 forsythias
 ferromagnetism
 furze
-friesian
+friesian 1
 fittable
 friezer
 fiercely
