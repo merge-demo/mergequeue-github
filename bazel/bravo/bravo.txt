@@ -7990,7 +7990,7 @@ borsht
 beslipper
 bespatterer
 bicircular
-bitemporal
+bitemporal 1
 beedged
 byname
 bick
