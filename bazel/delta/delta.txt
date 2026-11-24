@@ -1014,7 +1014,7 @@ digest
 daffling
 dypnone
 dolorimetric
-distichously
+distichously 1
 darkie
 definement
 darkies
