@@ -2025,7 +2025,7 @@ actinogram
 agglutinating
 acropathology
 amplexus
-aveny
+aveny 1
 awakeable
 amritas
 amidoxy
