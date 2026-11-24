@@ -6559,7 +6559,7 @@ distensile 1
 dysnomy
 designator
 diota
-daedal
+daedal 1
 deity
 descriptivism
 doddies
