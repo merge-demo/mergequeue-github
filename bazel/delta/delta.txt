@@ -11162,7 +11162,7 @@ defectibility
 devvel
 dyeline
 djins
-disavower
+disavower 1
 derringers
 depletes
 dottily
