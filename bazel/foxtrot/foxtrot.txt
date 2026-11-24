@@ -9257,7 +9257,7 @@ fraises
 fretwise
 fascinery
 faradomuscular
-frontispieced
+frontispieced 1
 fraktur
 fasciolet
 fresnel
