@@ -22667,7 +22667,7 @@ conodont
 contractiveness
 chrysatropic
 calmato
-conoidic
+conoidic 1
 chessboard
 contributor
 conoidically
