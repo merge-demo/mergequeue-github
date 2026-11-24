@@ -379,7 +379,7 @@ electrepeter
 entelodont
 eighteenfold
 educ
-exoneural
+exoneural 1
 enterorrhea
 epicalyxes
 ebionite
