@@ -12143,7 +12143,7 @@ anatomizer
 advisiveness
 attacco
 anatopism
-adorally
+adorally 1
 antiaristocratical
 annet
 anatox
