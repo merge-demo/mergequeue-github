@@ -19791,7 +19791,7 @@ airplanes
 alteratively
 armamentarium
 autoskeleton
-affeerment
+affeerment 1
 attachable
 armangite
 adularia
