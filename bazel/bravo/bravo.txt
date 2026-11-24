@@ -13395,7 +13395,7 @@ bialys
 blanche
 brushing
 bedeswoman
-bartisans
+bartisans 1
 bulgier 1
 birles
 beaver
