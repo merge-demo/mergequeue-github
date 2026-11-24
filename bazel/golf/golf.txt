@@ -3612,7 +3612,7 @@ glack
 gawkiness
 galleriidae
 glovers 1
-galactoid
+galactoid 1
 goetae
 gynaecology
 granitification
