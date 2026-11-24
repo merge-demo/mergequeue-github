@@ -7644,7 +7644,7 @@ flustroid
 forefinger
 figary
 fixed
-fritillaries
+fritillaries 1
 floruits
 faeculence
 foreimagination
