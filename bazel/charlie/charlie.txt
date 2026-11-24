@@ -14632,7 +14632,7 @@ cistophorus
 coadjustment
 cystophotography
 coxier
-captans
+captans 1
 checkmating
 catch
 concomitancy 1
