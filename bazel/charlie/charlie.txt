@@ -7295,7 +7295,7 @@ captious
 centurist
 coroners
 cherishes
-ceorl
+ceorl 1
 cep
 cholangioitis
 crisis
