@@ -8243,7 +8243,7 @@ elephantiasic
 epipharyngeal
 exonerates
 epistatic
-empyrosis
+empyrosis 1
 episodial
 epistaxis
 epistemically
