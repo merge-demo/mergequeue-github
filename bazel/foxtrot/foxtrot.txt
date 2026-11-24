@@ -2203,7 +2203,7 @@ forestery
 feme
 femorotibial
 flounciest
-facetious
+facetious 1
 finjan
 facilitated
 febricitation
