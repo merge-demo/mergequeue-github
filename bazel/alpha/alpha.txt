@@ -8330,7 +8330,7 @@ arnaut
 animadversive
 alimentariness
 alimentation
-alimentativeness
+alimentativeness 1
 arsenium
 alimented
 alimentic
