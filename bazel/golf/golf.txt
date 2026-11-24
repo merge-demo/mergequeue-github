@@ -6511,7 +6511,7 @@ gariba
 galvanocautery
 golly
 glucolipine 1
-gamete
+gamete 1
 grotian
 gyrant
 golo
