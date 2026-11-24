@@ -6641,7 +6641,7 @@ fecche
 fantaseid
 flacianism 1
 foder
-forkwise
+forkwise 1
 frontes
 flees
 flintily
