@@ -6366,7 +6366,7 @@ enserfed
 ekamanganese
 enshade
 enshawl
-espace
+espace 1
 ensheathe
 excitomotion
 eburna 1

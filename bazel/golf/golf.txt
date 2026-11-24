@@ -6260,7 +6260,7 @@ gob
 goban
 greediness
 gadslid
-gobber
+gobber 1
 gazettes 1
 goateed
 guitarlike
