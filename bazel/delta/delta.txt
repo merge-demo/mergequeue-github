@@ -3437,7 +3437,7 @@ defloration
 dumbwaiters
 deliberandum
 deuteroalbumose
-deerlet
+deerlet 1
 dasyuroid
 doddy
 draconid
