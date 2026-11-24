@@ -5397,7 +5397,7 @@ elateridae
 encorbellment
 elamitic
 extuberant
-erstwhiles
+erstwhiles 1
 epicurishly 1
 eosphorite
 existant
