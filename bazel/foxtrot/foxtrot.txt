@@ -11136,7 +11136,7 @@ foreallot
 fanega
 freeings
 faiences
-fiats
+fiats 1
 frumperies
 flocculence
 fernlike
