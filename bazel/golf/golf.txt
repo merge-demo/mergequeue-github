@@ -4912,7 +4912,7 @@ gymnotoka
 globularity
 guest
 greensand
-grudge
+grudge 1
 ginghams 1
 greeter
 glaizie
