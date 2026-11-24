@@ -949,7 +949,7 @@ epoxied
 entada
 ecttypal
 equates
-emanatory
+emanatory 1
 exeresis
 ecuadorian
 ecumenacy
