@@ -8876,7 +8876,7 @@ askant
 ambilevous
 azurous
 adscititiously
-amakebe
+amakebe 1
 anetic
 allocyanine
 antireform
