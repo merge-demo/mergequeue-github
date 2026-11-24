@@ -2617,7 +2617,7 @@ glossolabial 1
 geiger
 goutte
 garabato
-galluot
+galluot 1
 glisters
 genesial 1
 genesitic
