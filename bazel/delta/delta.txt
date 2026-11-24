@@ -4120,7 +4120,7 @@ died
 decodes
 daschagga
 dankish
-deitate
+deitate 1
 deintellectualization
 decapitated
 delineature
