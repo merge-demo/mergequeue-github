@@ -10597,7 +10597,7 @@ documented
 decoctible
 diploidic
 dunderbolt
-dominus
+dominus 1
 diploidize
 doorman
 diploma
