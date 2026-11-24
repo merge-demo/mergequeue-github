@@ -8479,7 +8479,7 @@ entrants
 emda
 enregiment
 enhemospore
-escarmouche
+escarmouche 1
 electrophotometry
 epileptoid
 ergatandrous
