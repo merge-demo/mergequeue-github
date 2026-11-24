@@ -6121,7 +6121,7 @@ gyrous
 gurniad
 genuflections
 gliosis
-gastroid
+gastroid 1
 geissorhiza
 genep
 geitonogamous
