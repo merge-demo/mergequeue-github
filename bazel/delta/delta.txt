@@ -14136,7 +14136,7 @@ decasualised
 disanimate
 diol
 desacralize
-diapason
+diapason 1
 disulfiram
 doyst
 disulfonic
