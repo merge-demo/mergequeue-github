@@ -6235,7 +6235,7 @@ ellipsoid
 erasure
 exodist
 enophthalmus
-enorm
+enorm 1
 explorement
 exhalations 1
 endopericarditis
