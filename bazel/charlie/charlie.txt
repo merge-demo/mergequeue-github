@@ -27441,7 +27441,7 @@ centesimation
 choroidea
 chlorosulphonic
 curupira
-cousinry
+cousinry 1
 cousinries
 cousinship
 centricalness
