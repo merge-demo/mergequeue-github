@@ -9159,7 +9159,7 @@ encolor
 enates
 ernes
 erode
-eosinophilic
+eosinophilic 1
 erodent
 extradite
 eirenic
