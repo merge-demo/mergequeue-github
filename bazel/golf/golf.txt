@@ -614,7 +614,7 @@ gorgoniacea
 ghostweed
 graveside
 gloryless
-galliots
+galliots 1
 goulashes 1
 gurnets
 gramaries
