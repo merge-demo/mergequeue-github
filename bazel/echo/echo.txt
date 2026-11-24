@@ -920,7 +920,7 @@ echinoids
 extropical
 encapsulating
 escalation
-electrotonic
+electrotonic 1
 emplaces
 exculpatory
 extravagated
