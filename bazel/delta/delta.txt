@@ -6310,7 +6310,7 @@ depurated
 dermatozoon
 deadens
 dermatozoonosis
-deutzias
+deutzias 1
 dryophyllum
 dermatozzoa
 dermatrophia
