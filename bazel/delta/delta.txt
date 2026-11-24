@@ -14696,7 +14696,7 @@ dlvy
 diademed
 deburse
 dm
-deceivably
+deceivably 1
 dystectic
 divid
 dioecisms

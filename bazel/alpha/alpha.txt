@@ -7093,7 +7093,7 @@ akia
 acetylene
 antiplethoric
 amphiarthrodial
-akin
+akin 1
 anoxaemic
 azury
 anre
