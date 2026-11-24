@@ -2067,7 +2067,7 @@ bannerole 1
 blossomry
 bronchus
 bcf
-baldest
+baldest 1
 blesses
 bannerols
 bannisters

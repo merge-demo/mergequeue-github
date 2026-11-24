@@ -7314,7 +7314,7 @@ genet
 gutturally 1
 guze
 gravelling
-gangly 1
+gangly 2
 goar
 gymnosophy
 genys 1
