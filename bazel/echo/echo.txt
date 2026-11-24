@@ -3703,7 +3703,7 @@ elec
 eluates
 effluvium
 epitheliosis
-enantiotropic
+enantiotropic 1
 elucidators
 embryophore
 educations 1
