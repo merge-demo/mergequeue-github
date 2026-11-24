@@ -3562,7 +3562,7 @@ derivably
 dawcock
 drumlin
 defunction
-deul
+deul 1
 disfrock
 disseminate
 diethylamine
