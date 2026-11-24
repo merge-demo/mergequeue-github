@@ -2661,7 +2661,7 @@ frump
 feckulence
 ferter
 felliducous
-fittyways
+fittyways 1
 flamb
 fertile
 farcers
