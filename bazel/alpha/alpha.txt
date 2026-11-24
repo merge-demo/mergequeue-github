@@ -22134,7 +22134,7 @@ annalist
 ampongue
 ancestries
 anthracosilicosis
-asthamatic
+asthamatic 1
 antimacassar
 astheny
 achroacyte
