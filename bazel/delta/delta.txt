@@ -3950,7 +3950,7 @@ delabialization
 denigration
 delabializing
 distensibility
-delayable
+delayable 1
 demes
 delayer
 delayful

@@ -9427,7 +9427,7 @@ escarps
 escharotic
 enfeoff 1
 eschatological
-enaliosauria
+enaliosauria 1
 epistemonical
 effeminised
 eyeshades

@@ -317,7 +317,7 @@ fostell
 finagles 1
 fibrillated
 finochio
-flusker
+flusker 1
 futureness
 fagaceae
 firesafe
