@@ -8026,7 +8026,7 @@ biconsonantal
 barnburner
 biconvexity
 brawned
-ballerine
+ballerine 1
 browband
 bicorn
 bourrelet
