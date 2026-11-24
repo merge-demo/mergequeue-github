@@ -8589,7 +8589,7 @@ gemel
 gossipy
 gonidioid 1
 gravure
-gathic
+gathic 1
 gossameriness
 gametically
 genealogical
