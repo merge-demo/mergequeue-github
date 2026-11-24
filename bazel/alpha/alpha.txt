@@ -1114,7 +1114,7 @@ ataghans
 abuttals
 abetting
 allegros
-abwab
+abwab 1
 aureateness
 ac
 anguliferous
