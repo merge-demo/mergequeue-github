@@ -1500,7 +1500,7 @@ formamido
 fastens
 fermentatory
 fetchingly
-florizine
+florizine 1
 fanaticism
 foresend
 faulx
