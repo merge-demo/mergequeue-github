@@ -8695,7 +8695,7 @@ fissility
 frankhearted
 favoress
 flob
-flattens
+flattens 1
 feteless
 fame
 forgive
