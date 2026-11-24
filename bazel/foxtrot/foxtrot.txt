@@ -7602,7 +7602,7 @@ fecundative
 faradising
 foredune
 freezable
-fervors
+fervors 1
 forril
 festino
 fatalize
