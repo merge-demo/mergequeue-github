@@ -19852,7 +19852,7 @@ comfortation
 churchly
 comfortative
 comforters
-comfortingly
+comfortingly 1
 comfortlessly
 comfortlessness
 cytologists
