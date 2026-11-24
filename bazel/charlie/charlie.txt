@@ -11967,7 +11967,7 @@ covens
 communicatively
 camois
 colophonite
-chiefdom
+chiefdom 1
 chorioidocyclitis
 coffeewood
 chorioidoiritis
