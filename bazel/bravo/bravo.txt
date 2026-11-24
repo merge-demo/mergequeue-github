@@ -3076,7 +3076,7 @@ barware
 boneblack 1
 barksome
 basale
-berascaling
+berascaling 1
 bathetic
 basalts
 brecciating
