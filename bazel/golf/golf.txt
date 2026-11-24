@@ -10236,7 +10236,7 @@ guillotinist
 glutaraldehyde
 ginzo
 gonophorous
-gastroptosis
+gastroptosis 1
 grape
 gossypin
 graminivore
