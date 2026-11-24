@@ -11373,7 +11373,7 @@ dispensating
 dissociably
 discoherent
 decays
-dittany
+dittany 1
 disciform
 diplopods
 discigerous
