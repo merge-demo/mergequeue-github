@@ -12239,7 +12239,7 @@ emmental
 ecclesiolater
 eternalization
 equipment
-epanalepsis
+epanalepsis 1
 exocyclica
 eclogue
 executress
