@@ -77,7 +77,7 @@ graticule
 geotical
 gay
 gabunese
-governeress
+governeress 1
 goop
 gluey
 guidelines
