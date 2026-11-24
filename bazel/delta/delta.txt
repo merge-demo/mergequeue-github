@@ -4766,7 +4766,7 @@ democraw
 decarbonization
 decodable
 demodectic
-disarticulate
+disarticulate 1
 detachably
 deaved
 diadochokinetic
