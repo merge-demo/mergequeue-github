@@ -7519,7 +7519,7 @@ electrodepositor
 ensignhood
 enviously
 estoil
-externate
+externate 1
 encyc
 elevato
 epiblasts
