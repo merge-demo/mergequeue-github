@@ -5158,7 +5158,7 @@ caseose 1
 caseous
 caserios
 cyphering
-caserne
+caserne 1
 casernes
 costumery
 caserns
