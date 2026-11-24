@@ -88,7 +88,7 @@ gadabouts
 gualaca
 glauber
 gubernator
-gymnopaedes
+gymnopaedes 1
 galabia
 glandulose
 gnomology
