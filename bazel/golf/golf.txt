@@ -3589,7 +3589,7 @@ glossa
 gambolled
 goniaster
 gnomelike
-gregarinaria
+gregarinaria 1
 gavial
 glutinose
 granulitization
