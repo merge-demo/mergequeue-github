@@ -1506,7 +1506,7 @@ dingbats
 draughts
 definiendum
 deformers
-diazines
+diazines 1
 downlinked
 deacetylate
 duststorm
