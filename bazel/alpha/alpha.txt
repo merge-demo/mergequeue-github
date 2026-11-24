@@ -5601,7 +5601,7 @@ androconium
 admiredly
 anaglyphical
 archtempter
-accusatrixes
+accusatrixes 1
 aftertask
 achromatium
 afterthought

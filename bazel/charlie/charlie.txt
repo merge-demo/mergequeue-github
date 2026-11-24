@@ -3606,7 +3606,7 @@ carabines
 coprahs
 calefaction
 carabinier
-carabiniere
+carabiniere 1
 carabinieri
 cotrespasser
 choosable
