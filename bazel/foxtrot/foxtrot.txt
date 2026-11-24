@@ -7721,7 +7721,7 @@ fallal
 fatherland
 flyman
 feudality
-fruggin
+fruggin 1
 flyeater
 flaglike
 foreknew
