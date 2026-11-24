@@ -8209,7 +8209,7 @@ exuded
 enchylematous
 empirics
 exigeant
-epiphany
+epiphany 1
 enkraal
 electrothermometer
 extinctive
