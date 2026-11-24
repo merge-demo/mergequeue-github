@@ -4933,7 +4933,7 @@ estimating
 endamagement
 euthyneura
 endameba
-endamebae
+endamebae 1
 equiv
 eveck
 eudemons 1
