@@ -27171,7 +27171,7 @@ countertaste
 camarine
 countertechnicality
 countertendency
-cavalry
+cavalry 1
 carcasses
 cataspilite
 counterterrorism
