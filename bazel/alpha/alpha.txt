@@ -21368,7 +21368,7 @@ amphibia
 autist
 asynergy
 asynergia
-adamantly
+adamantly 1
 annuluses
 asyngamy
 antiabrin
