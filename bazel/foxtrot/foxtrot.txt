@@ -11216,7 +11216,7 @@ foreday
 farsang
 furzed
 funiculars
-funiform
+funiform 1
 funje
 fount
 fustians
