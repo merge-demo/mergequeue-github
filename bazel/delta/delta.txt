@@ -17652,7 +17652,7 @@ drawbacks
 dilogy
 dialectally
 detoxicating
-delivered
+delivered 1
 diclinism
 dagame
 dioscorein
