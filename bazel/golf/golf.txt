@@ -5642,7 +5642,7 @@ grunth
 gloomily
 gloomings
 graveward
-gunyang
+gunyang 1
 germanics
 gubernacular
 geyserine
