@@ -29499,7 +29499,7 @@ crystallomagnetic
 cravers
 cunye
 crystallomancy
-crystallometry
+crystallometry 1
 continuist
 conjunctional
 continental
