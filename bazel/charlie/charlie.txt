@@ -2233,7 +2233,7 @@ cabaan
 campus
 chromatic
 campusses
-campward
+campward 1
 chametz
 cerebrotomy
 camshach

@@ -11139,7 +11139,7 @@ embanked
 eutrophication
 externalised
 expiating
-eutropous
+eutropous 1
 evocation 1
 entanglingly
 enjambments
