@@ -8861,7 +8861,7 @@ diborate
 dibothriocephalus
 daughterless
 dibranch
-duftery
+duftery 1
 defiguration
 dozinesses
 draglines
