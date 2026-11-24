@@ -1195,7 +1195,7 @@ gutturalize
 galipine
 gorilla
 guestless
-gaplessness
+gaplessness 1
 gynandrism
 gappier
 genesiacal
