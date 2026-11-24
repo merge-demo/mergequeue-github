@@ -17709,7 +17709,7 @@ apples
 applewoman
 adopts
 aestethic
-adaptationally
+adaptationally 1
 adjacencies
 anthorine
 appliable
