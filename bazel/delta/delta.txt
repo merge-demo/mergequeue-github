@@ -11254,7 +11254,7 @@ disburdenment
 disgage
 donnybrooks
 disbury
-diosmose
+diosmose 1
 definitively
 dogstail
 disburse
