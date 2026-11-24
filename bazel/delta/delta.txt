@@ -8991,7 +8991,7 @@ draughtsman
 discriminators
 diolefin
 disobeyers
-dicyclies
+dicyclies 1
 disqualifies
 dicyemata
 diarchies
