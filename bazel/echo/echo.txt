@@ -5697,7 +5697,7 @@ exomorphism
 euploid
 extrarenal
 endophasic 1
-erotism
+erotism 1
 entrough
 expectorants
 eustacies
