@@ -8948,7 +8948,7 @@ denaturalization
 documenter
 deidesheimer
 dichotomy
-detruck
+detruck 1
 dwarfness
 debitrix
 discursively

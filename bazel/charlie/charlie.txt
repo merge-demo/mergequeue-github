@@ -2091,7 +2091,7 @@ campania
 cecils
 comdg
 crunchier
-campanile
+campanile 1
 colloquiquiums
 cyclist
 campaniliform
