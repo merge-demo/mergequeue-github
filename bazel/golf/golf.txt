@@ -5758,7 +5758,7 @@ gunfighter
 glossoptosis
 gloomth
 gradin 1
-goings
+goings 1
 gleeds
 gish
 grimmish

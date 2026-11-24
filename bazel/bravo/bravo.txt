@@ -9395,7 +9395,7 @@ bungfu
 bargehouse
 borak
 befitting 1
-basichromatic
+basichromatic 1
 bluegums
 belabours
 braider
