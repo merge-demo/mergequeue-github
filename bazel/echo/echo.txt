@@ -6395,7 +6395,7 @@ expenseful
 earthward
 emulsor
 euskarian
-egested
+egested 1
 eyemark
 ethmoids
 elaboration
