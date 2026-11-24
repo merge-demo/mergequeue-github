@@ -6181,7 +6181,7 @@ deriders
 distribute
 detractress
 dittograph
-deriding
+deriding 1
 divertor
 deringa
 diffuseness 1

@@ -535,7 +535,7 @@ galleins
 gomphocarpus
 getters
 gnetaceous
-gamodemes
+gamodemes 1
 galler 1
 grandmammy
 grandsirs
