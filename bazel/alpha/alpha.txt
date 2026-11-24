@@ -10009,7 +10009,7 @@ ambicoloration
 abseiled
 albacore
 ambidexterity
-anthocephalous
+anthocephalous 1
 ambidexterities
 andorite
 anthracemia
