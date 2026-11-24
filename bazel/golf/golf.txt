@@ -2942,7 +2942,7 @@ geocyclic
 gnat
 gorsy 1
 glideless
-gynaecocracies
+gynaecocracies 1
 gunfighters
 geocoronium
 genecological
