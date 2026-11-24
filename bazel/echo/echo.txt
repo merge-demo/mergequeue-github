@@ -1394,7 +1394,7 @@ epeidia
 epilaryngeal
 effigurate
 eubranchipus
-efflagitate
+efflagitate 1
 epitympanic
 eugubium
 embellishes
