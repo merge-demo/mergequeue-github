@@ -2831,7 +2831,7 @@ declarator
 decried
 desistive
 deerflys
-disulphonate
+disulphonate 1
 decries
 decrying
 depolarizers
