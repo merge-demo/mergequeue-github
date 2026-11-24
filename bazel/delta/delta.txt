@@ -13125,7 +13125,7 @@ disperple
 diadem
 deflourish
 decurved
-didactive
+didactive 1
 dispersedness
 detonates
 desynonymization
