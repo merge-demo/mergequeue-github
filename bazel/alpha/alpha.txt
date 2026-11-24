@@ -11758,7 +11758,7 @@ anaktoron
 analagous
 analav
 aquariums
-apaise
+apaise 1
 anagep
 analcimic
 antar
