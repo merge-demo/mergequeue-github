@@ -11643,7 +11643,7 @@ feathery
 fusure
 fibroses
 fibropapilloma
-fust
+fust 1
 federational
 furbishing
 filamented
