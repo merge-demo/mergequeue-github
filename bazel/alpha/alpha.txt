@@ -18302,7 +18302,7 @@ arraigner
 adenasthenia
 arsenyl
 aripple
-archangelship
+archangelship 1
 arachnean
 aurocyanide
 accession
