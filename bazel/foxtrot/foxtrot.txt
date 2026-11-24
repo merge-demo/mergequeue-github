@@ -6691,7 +6691,7 @@ flatterable
 flintlock
 flexura
 flouts
-fogfruits
+fogfruits 1
 frizel
 fluerics
 formicariae
