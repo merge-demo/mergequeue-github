@@ -5566,7 +5566,7 @@ foliaceous
 fungic 1
 familiary
 flacourtiaceae
-felsitic
+felsitic 1
 flyby
 fratch
 flybys
