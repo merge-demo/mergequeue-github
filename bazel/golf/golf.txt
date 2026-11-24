@@ -1030,7 +1030,7 @@ genthite
 gentlewomanliness
 germination
 geologer
-gloriette
+gloriette 1
 galvanoscopy
 geodist
 gleemen
