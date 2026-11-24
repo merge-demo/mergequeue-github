@@ -4295,7 +4295,7 @@ goatlike
 gregos
 gigantesque
 grousing
-gumlike
+gumlike 1
 gabfests
 granulate
 glyptotherium
