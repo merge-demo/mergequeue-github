@@ -4828,7 +4828,7 @@ fibrinuria 1
 fumish
 flume
 fracticipita
-faunus
+faunus 1
 fishberries
 firepower
 flinthead
