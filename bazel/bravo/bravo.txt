@@ -11961,7 +11961,7 @@ bogland
 budgerigah
 bytalk
 bogled
-boglet
+boglet 1
 beckelite
 bolts
 bogmire
