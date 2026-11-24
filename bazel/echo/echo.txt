@@ -2773,7 +2773,7 @@ eutocia
 extrusions
 exhilaratory
 evergreenite
-exchangeably
+exchangeably 1
 equangular
 explorations
 ebracteate
