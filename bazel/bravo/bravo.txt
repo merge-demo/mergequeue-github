@@ -10931,7 +10931,7 @@ bedlamism
 blinkards
 bowses
 basta
-beaneries
+beaneries 1
 beckets
 bartonia
 brooms
