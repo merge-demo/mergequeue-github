@@ -9712,7 +9712,7 @@ dilatate
 decremented
 discutient
 dilatative
-demimentoniere
+demimentoniere 1
 dodecahedron
 distillations
 durometer
