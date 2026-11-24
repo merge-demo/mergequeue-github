@@ -5908,7 +5908,7 @@ besleeve
 bisnagas
 bouillabaisse
 belostomidae
-belotte
+belotte 1
 bowden 1
 bechancing
 benzalcyanhydrin
