@@ -3054,7 +3054,7 @@ aphrodisiac
 ambreate
 actinomyxidiida
 aliyos
-adfreeze
+adfreeze 1
 actinomorphic
 amphitrichous
 azotise
