@@ -8671,7 +8671,7 @@ diaspirin
 dots
 dwt
 droumy
-downweigh
+downweigh 1
 discomposingly
 defeminised
 diaspore
