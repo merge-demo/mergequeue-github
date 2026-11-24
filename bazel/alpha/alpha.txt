@@ -4537,7 +4537,7 @@ artesonados
 adversifoliate
 antimythic
 arrogance
-amania
+amania 1
 arbutin
 accumulable
 adversities
