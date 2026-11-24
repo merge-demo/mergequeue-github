@@ -18208,7 +18208,7 @@ ditetragonal
 dentatocostate
 diamagnetometer
 disfellowship
-detonatability
+detonatability 1
 deadlocks
 dermatorrhoea
 dode
