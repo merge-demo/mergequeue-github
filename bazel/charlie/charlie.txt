@@ -21857,7 +21857,7 @@ cardiometry
 confecting
 confection
 confectionary
-confectioner
+confectioner 1
 confed
 chukkers
 confederalist
