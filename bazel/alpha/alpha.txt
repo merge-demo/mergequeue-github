@@ -2034,7 +2034,7 @@ amoret
 apsychical
 apocope
 achalasia
-anolis
+anolis 1
 apperceptively
 adstringe 1
 achape
