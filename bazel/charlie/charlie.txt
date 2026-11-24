@@ -852,7 +852,7 @@ cayos
 caique
 comes
 caiquejee
-caiques
+caiques 1
 charcoaling
 cairn
 cairned
