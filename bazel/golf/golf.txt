@@ -442,7 +442,7 @@ garrote
 gallantness
 goldless
 gibbetted
-galipoidine
+galipoidine 1
 gloominess
 galei
 gynecotelic
