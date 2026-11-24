@@ -2275,7 +2275,7 @@ dominiums
 decemplex
 dissocialize 1
 decempunctate
-doused
+doused 1
 decemstriate
 dowsers
 disceptator
