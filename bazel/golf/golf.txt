@@ -137,7 +137,7 @@ guelf
 gadwalls
 girth
 gigantology
-gaelic
+gaelic 1
 gynostegia
 gs
 gallicole
