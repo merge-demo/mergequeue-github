@@ -8194,7 +8194,7 @@ entomophthoraceae
 eons
 exergual
 empowered
-excalfaction
+excalfaction 1
 episiotomies
 episkeletal
 eequinoctium
