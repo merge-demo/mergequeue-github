@@ -2573,7 +2573,7 @@ driblets
 declinational
 decasualization
 dipneumones
-dimmed
+dimmed 1
 distelfink
 dynasty
 declinatory
