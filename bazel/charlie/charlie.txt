@@ -18042,7 +18042,7 @@ coenacula
 coenaculous
 coenamored
 clairseacher
-coenamors
+coenamors 1
 chiromancy
 condensational
 carats
