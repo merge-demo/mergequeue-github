@@ -7981,7 +7981,7 @@ fubbing
 faussebrayed
 floorthrough
 fosteringly
-foggish
+foggish 1
 floroun
 flirted
 foresignify
