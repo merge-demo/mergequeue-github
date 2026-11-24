@@ -6419,7 +6419,7 @@ forescene
 fairm
 filiety
 flaggier
-foliates
+foliates 1
 fireflower
 fetialis
 flibbertigibbet
