@@ -11153,7 +11153,7 @@ iswbt
 iswcmmzhuwiso
 isweolmt 1
 iswgdnoqm
-iswglx
+iswglx 1
 iswid
 iswimj
 iswimrc

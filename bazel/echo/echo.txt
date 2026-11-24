@@ -12639,7 +12639,7 @@ equiaxial
 epexegeses
 exodic
 equipped
-encincturing
+encincturing 1
 emeralds
 essancia
 ergotize
