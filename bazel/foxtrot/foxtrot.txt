@@ -9141,7 +9141,7 @@ frothi
 flopover
 fluing
 fuzee
-fruitarian
+fruitarian 1
 fractionalized
 forjudging
 ferriprussic
