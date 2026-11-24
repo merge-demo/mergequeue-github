@@ -6938,7 +6938,7 @@ follicular
 firebote
 folliculated
 fauna
-firepink
+firepink 1
 fluidifying
 fruitfully
 floriated

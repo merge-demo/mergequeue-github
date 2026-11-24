@@ -6291,7 +6291,7 @@ dehydrates
 dehydrators
 dermatoplasm
 diapositive
-deluminize
+deluminize 1
 deozonizer
 decolonization
 debatter
