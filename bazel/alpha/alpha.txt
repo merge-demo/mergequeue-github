@@ -1715,7 +1715,7 @@ aeroelastics
 animadvert
 aristocracies
 accusants
-advowsons
+advowsons 1
 aerical
 accusatively
 accusatives
