@@ -9886,7 +9886,7 @@ amass
 agrobiologist
 amasses
 apprizal
-aregeneratory
+aregeneratory 1
 alexian
 argumenta
 agaricic
