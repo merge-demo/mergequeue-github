@@ -2821,7 +2821,7 @@ decretively
 dictionary
 discind
 deuteroglobulose
-decretorian
+decretorian 1
 dithymol
 duplicative
 defi
