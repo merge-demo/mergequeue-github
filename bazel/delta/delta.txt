@@ -96,7 +96,7 @@ dripper
 delater
 depark
 demibrute
-dictyoceratine
+dictyoceratine 1
 dreadfulness
 daffery
 dactylosymphysis
