@@ -2782,7 +2782,7 @@ cannings
 chiccories
 cannister
 cannisters
-crystallographically
+crystallographically 1
 convally
 cannonaded
 cohorts
