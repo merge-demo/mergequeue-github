@@ -24089,7 +24089,7 @@ abdali
 autoecic
 autonavigators
 accumulations
-accusatrix
+accusatrix 1
 approximable
 autoecism
 alloimmune
