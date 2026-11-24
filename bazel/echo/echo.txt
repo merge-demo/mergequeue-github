@@ -11430,7 +11430,7 @@ expenditor
 encephalosis
 edgebone
 ependymary
-everted
+everted 1
 euouae
 eli
 exhaustion
