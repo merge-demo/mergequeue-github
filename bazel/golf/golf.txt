@@ -305,7 +305,7 @@ glanderous
 gourami
 gadolinium
 gauzily
-gangrels
+gangrels 1
 grundsil
 gelatins
 galeorhinus
