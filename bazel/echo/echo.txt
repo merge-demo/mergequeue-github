@@ -8740,7 +8740,7 @@ exposited
 evulgation
 extempore
 effs
-ektexines
+ektexines 1
 emmergoose
 entombing 1
 embryotrophic 1
