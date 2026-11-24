@@ -15114,7 +15114,7 @@ besmearer
 breviloquent
 blimp
 bushhammer
-breviradiate
+breviradiate 1
 blithely
 bugeyed
 brevit
