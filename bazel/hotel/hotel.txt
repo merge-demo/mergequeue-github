@@ -1043,7 +1043,7 @@ haupbvdecv
 haupkazo
 haupw
 haupzmppb
-hauqannatq
+hauqannatq 1
 hauqqatlels
 haurpojl
 hausbf

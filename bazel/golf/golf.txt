@@ -2390,7 +2390,7 @@ gongoristic
 gentianal
 gilver
 geminates
-gote
+gote 1
 gaulish
 gambadoes
 gobioidei
