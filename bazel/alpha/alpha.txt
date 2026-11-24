@@ -20182,7 +20182,7 @@ arrau
 assiduously
 arrearage
 aromaticity
-arterious
+arterious 1
 alphabetise
 aphanesite
 argentometric
