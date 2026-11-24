@@ -20720,7 +20720,7 @@ agrostographic
 alwise
 agrosteral
 aeroscopy
-articulators
+articulators 1
 adfiliate
 abelonian
 aces
