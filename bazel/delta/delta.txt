@@ -13013,7 +13013,7 @@ documenting
 daleth
 disparate
 disestablish
-decuple
+decuple 1
 disparation
 downlike
 dromiceiidae
