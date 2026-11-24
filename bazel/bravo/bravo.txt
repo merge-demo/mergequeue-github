@@ -4743,7 +4743,7 @@ badmash
 bangs
 bedlams
 bienseance
-bedlar
+bedlar 1
 bazoo
 bibliotic
 blackseed
