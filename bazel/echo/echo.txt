@@ -8091,7 +8091,7 @@ exceptive
 empowerment
 equicrural
 electrooculogram
-exosporium
+exosporium 1
 extraprovincial
 epiphragm
 enlargedness
