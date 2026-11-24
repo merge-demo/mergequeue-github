@@ -4311,7 +4311,7 @@ gelsemia 1
 germicide
 gynetype
 gymnadenia
-glazieries
+glazieries 1
 glazings
 grieves
 gippy
