@@ -11486,7 +11486,7 @@ finnmarks
 furthest
 flittering
 firmity
-fiercened
+fiercened 1
 furtively
 furud
 flamboyant
