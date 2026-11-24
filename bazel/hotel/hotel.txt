@@ -3768,7 +3768,7 @@ hexjl 1
 hexjsd
 hexlhqzmvax
 hexligmvfuzyzcd
-hexm
+hexm 1
 hexmmuxr
 hexmsx
 hexnavlfppmx
