@@ -1260,7 +1260,7 @@ gradings
 greasers
 galliardly
 grognard
-geneki
+geneki 1
 griffes
 gapper
 glutinosity
