@@ -13670,7 +13670,7 @@ enphytotic
 endorsors
 erratum
 epistolizable
-exteriorness
+exteriorness 1
 espec 1
 emotionlessness
 ergotoxin
