@@ -4301,7 +4301,7 @@ enhydra
 ethnobiological
 equiponderate
 excerpts
-effectible
+effectible 1
 edifyingly
 en
 enjoined
