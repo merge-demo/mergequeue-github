@@ -6318,7 +6318,7 @@ gigartinaceous
 gunmen
 gargantua
 gauster
-globetrotters
+globetrotters 1
 geochemists
 glossalgia
 geophysics
