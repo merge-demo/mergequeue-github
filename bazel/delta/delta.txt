@@ -13772,7 +13772,7 @@ deicide
 dacryolin
 drank
 dissoul
-droopiness
+droopiness 1
 desultor
 ditrochous
 disspirit
