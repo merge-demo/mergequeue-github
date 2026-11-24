@@ -10799,7 +10799,7 @@ arrowed
 amminolytic
 anorexias
 aljofaina
-alzheimer
+alzheimer 1
 ammites
 ammo
 amphibological
