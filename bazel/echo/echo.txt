@@ -7678,7 +7678,7 @@ eumenid
 enemylike
 epithalamus
 encefalon
-enringed
+enringed 1
 engagingly
 ectocrine
 espece
