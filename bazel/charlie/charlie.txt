@@ -25632,7 +25632,7 @@ corpsman
 corpulences
 coprah
 corpulencies
-consolamentum
+consolamentum 1
 clankum
 corsair
 cannula
