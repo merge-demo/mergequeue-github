@@ -14141,7 +14141,7 @@ disulfiram
 doyst
 disulfonic
 dispread
-disulfoxid
+disulfoxid 1
 dhobi
 defective
 demandingness
