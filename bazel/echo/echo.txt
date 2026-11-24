@@ -1096,7 +1096,7 @@ elliptic
 edificed
 enlightens
 essayish
-edifying
+edifying 1
 ectoblastic
 egolatrous
 edile
