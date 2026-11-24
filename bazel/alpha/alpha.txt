@@ -13775,7 +13775,7 @@ acted
 arteriodialysis
 asfetida
 anopisthographically
-attenuates
+attenuates 1
 anopla
 anoplonemertean
 atazir
