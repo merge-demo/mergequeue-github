@@ -5333,7 +5333,7 @@ forcepslike
 foulmouthedly
 fiddlebrained
 flimflam
-focusses
+focusses 1
 fldxt
 foolhardier
 frower
