@@ -11708,7 +11708,7 @@ commissionary
 chondral
 chondrarsenite
 cholesteric
-chondre
+chondre 1
 chondrenchyma
 caramelin
 cocomats
