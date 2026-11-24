@@ -551,7 +551,7 @@ falters
 fronts
 formamidoxime
 foresays
-flosculose
+flosculose 1
 fainest
 ff
 fertilely
