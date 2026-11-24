@@ -22916,7 +22916,7 @@ chequeen
 calyptra
 consign
 consignatary
-consignataries
+consignataries 1
 counterretreat
 comforting
 chromosomic
