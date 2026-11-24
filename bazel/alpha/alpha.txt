@@ -12196,7 +12196,7 @@ amidogens
 anaxone
 anazoturia
 amiable
-administrate
+administrate 1
 atmospherium
 accreditable
 anbury
