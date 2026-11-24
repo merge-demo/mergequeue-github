@@ -687,7 +687,7 @@ hanswnzs
 hant
 hantdx
 hantpzqm
-hanunsld
+hanunsld 1
 hanuyepvw
 hanvoopt
 hanvvxndkkpswntz
