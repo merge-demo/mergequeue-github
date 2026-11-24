@@ -4169,7 +4169,7 @@ gaitt
 gibleh
 gratewise
 gilding
-gypsum
+gypsum 1
 gouda
 guarapo
 globuloid
