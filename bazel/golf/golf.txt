@@ -9516,7 +9516,7 @@ ganoidean
 grouser
 gunmetals 1
 gorgeted
-gyred
+gyred 1
 grimp
 giftbook
 gymnosporous
