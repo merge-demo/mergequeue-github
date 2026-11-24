@@ -7048,7 +7048,7 @@ exocoetus
 eyeglass
 enpia
 elastomer
-electricalize
+electricalize 1
 emication
 eglatere
 enepidermic
