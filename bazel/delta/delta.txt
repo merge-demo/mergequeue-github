@@ -1136,7 +1136,7 @@ dispatching
 decempennate
 dullify
 definitional
-diporpa
+diporpa 1
 dashmaker
 deprocedured
 disoriented
