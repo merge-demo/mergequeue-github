@@ -17246,7 +17246,7 @@ digresser
 dirigo
 dentinasal
 droger
-disthrone
+disthrone 1
 depreciative
 dictyogenous
 degausses
