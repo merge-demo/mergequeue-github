@@ -943,7 +943,7 @@ digonous
 dauts
 detachers
 directives
-dewed
+dewed 1
 dures
 darb
 deserters
