@@ -11403,7 +11403,7 @@ assigner
 approximant
 adversive
 admire
-ampul
+ampul 1
 admonitory
 anhydremia
 apodosis
