@@ -12166,7 +12166,7 @@ aneretic
 algebrization
 anatropal
 antiquers
-ambitiousness
+ambitiousness 1
 andesinite
 agremens
 arachnidium
