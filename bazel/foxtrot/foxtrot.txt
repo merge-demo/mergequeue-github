@@ -5573,7 +5573,7 @@ flybys
 forfault
 fallaciously
 filamentar
-fiendlike
+fiendlike 1
 flaxlike 1
 folkvangr
 flockowner
