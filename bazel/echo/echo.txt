@@ -11199,7 +11199,7 @@ exuberantly
 enspheres
 electroacoustically
 econometrist
-evanesces
+evanesces 1
 extrajudicial
 etuis
 elver
