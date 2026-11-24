@@ -23458,7 +23458,7 @@ auftakt
 antidictionary
 apomict
 augend
-adversity 1
+adversity 2
 antiantidote
 aquiform
 arsenillo
