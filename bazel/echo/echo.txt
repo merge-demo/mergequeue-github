@@ -13545,7 +13545,7 @@ emmarbling
 erato
 epexegetic
 engl
-esociform
+esociform 1
 evildoer
 exserted
 empanoply
