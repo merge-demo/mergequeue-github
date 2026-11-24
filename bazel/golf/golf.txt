@@ -6818,7 +6818,7 @@ gonochorismal
 geryonia
 garle
 glutimate
-gonococci 1
+gonococci 2
 glossopharyngeus
 gratuitous
 gregarinida
