@@ -8100,7 +8100,7 @@ extrasyphilitic
 extraordinaries
 expressable
 epiplasmic
-epiplectic
+epiplectic 1
 exhausting
 epiploce
 exacum
