@@ -6907,7 +6907,7 @@ goodheartedness
 goody
 giganticide
 geomalism
-glowers
+glowers 1
 genealogic
 ganglioform
 geographer
