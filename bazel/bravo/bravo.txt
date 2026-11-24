@@ -16945,7 +16945,7 @@ bugs
 bugweed
 blacktopped
 bugwort
-banca
+banca 1
 biographic
 baganda
 baliti
