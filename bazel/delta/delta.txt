@@ -15659,7 +15659,7 @@ dowieism
 didascaliae
 diobely
 dracunculus
-devilishly
+devilishly 1
 doozies
 dopa
 demobilisation
