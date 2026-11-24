@@ -3935,7 +3935,7 @@ dekes
 derivationally 1
 drisheen
 douser
-duopoly
+duopoly 1
 disleal
 diaphemetric
 deyship
