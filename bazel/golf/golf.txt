@@ -3699,7 +3699,7 @@ grapsus
 ghostfishes
 garrisonism
 gallinae 1
-gnathite
+gnathite 1
 goalmouth
 gyrencephalic
 ghostier
