@@ -16967,7 +16967,7 @@ dithery
 dredgers
 discreet
 didepsid
-dree
+dree 1
 dreepy
 docentship
 dayan
