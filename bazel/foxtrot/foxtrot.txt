@@ -5033,7 +5033,7 @@ flammation
 forepad
 flipping
 flatbeds
-flanneling
+flanneling 1
 fungoidal
 forepaw
 ferries
