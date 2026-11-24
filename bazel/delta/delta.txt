@@ -12169,7 +12169,7 @@ dredger
 dichloromethane
 daystreak
 dilker
-disproven
+disproven 1
 declinations
 dehusk
 depthometer
