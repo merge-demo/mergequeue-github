@@ -12889,7 +12889,7 @@ beauticians 1
 boost
 bromizes
 bruin
-biblicolegal
+biblicolegal 1
 babassus
 burdenable
 birle
