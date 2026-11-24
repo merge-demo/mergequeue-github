@@ -19427,7 +19427,7 @@ actinians
 aahing
 afterstate
 alexins
-athwartwise
+athwartwise 1
 authorship
 augurial
 argentry
