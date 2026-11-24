@@ -7374,7 +7374,7 @@ gamming
 gullishness
 glisky
 gardenful
-gossipped
+gossipped 1
 glochidial
 gossips
 gestor
