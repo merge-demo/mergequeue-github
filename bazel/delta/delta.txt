@@ -3109,7 +3109,7 @@ dinornithic
 defalcating
 dipteral
 deaths
-defamation
+defamation 1
 duckwife
 dingling
 detachableness
