@@ -18089,7 +18089,7 @@ contentless
 conjugable
 cardinalism 1
 compactile
-coenobitical
+coenobitical 1
 carbinol
 coannexing
 coenocentrum
