@@ -16616,7 +16616,7 @@ buccaning
 beraunite
 buccanned
 bent
-buccanning
+buccanning 1
 blastogeny
 bilaminated
 biometry
