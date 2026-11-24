@@ -10960,7 +10960,7 @@ esopus
 envoy
 eggy
 eupotamic
-encoignure
+encoignure 1
 esparcet
 equivocalness
 echiurid
