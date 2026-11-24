@@ -11079,7 +11079,7 @@ endotheliocyte
 ecologists
 epimerum
 estocada
-euskaric
+euskaric 1
 electors
 expunging
 endosome
