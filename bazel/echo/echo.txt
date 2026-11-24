@@ -7221,7 +7221,7 @@ ephemeromorphic
 eupnoeas
 exudate 1
 enthronize
-eyalet
+eyalet 1
 enzootics 1
 escheve
 entophytous
