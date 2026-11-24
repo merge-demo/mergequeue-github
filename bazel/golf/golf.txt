@@ -5064,7 +5064,7 @@ gecarcinus
 gastrogenital 1
 gv
 gerunds
-gustful
+gustful 1
 gularis
 garland
 ganged

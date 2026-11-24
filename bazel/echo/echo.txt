@@ -6716,7 +6716,7 @@ expertising
 entosclerite
 eulogiser
 ecrevisse
-epulis
+epulis 1
 espundia
 endamebiasis
 entertainingly
