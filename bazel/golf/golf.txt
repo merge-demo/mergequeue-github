@@ -2136,7 +2136,7 @@ galla
 globosity
 gaudete
 graced
-glycoluric
+glycoluric 1
 gazellelike
 gaviae
 gentianaceae
