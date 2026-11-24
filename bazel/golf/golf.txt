@@ -3194,7 +3194,7 @@ glossiness
 governmentalist
 geotilla
 grigs
-geotropy
+geotropy 1
 guardant
 glossolabiolaryngeal
 gametoid
