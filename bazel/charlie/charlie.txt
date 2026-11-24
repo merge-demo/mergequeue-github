@@ -19270,7 +19270,7 @@ coloner
 cupuliferae
 colones
 colonette
-colongitude
+colongitude 1
 colony
 crabbier
 cabezones
