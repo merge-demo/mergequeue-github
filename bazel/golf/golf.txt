@@ -6425,7 +6425,7 @@ glucocorticord
 grotto
 grasswidowhood
 goitrogenic
-galibi
+galibi 1
 garbing
 glossopteris
 golaseccan 1
