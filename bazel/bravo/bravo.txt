@@ -18163,7 +18163,7 @@ butyrin
 besonnet
 begets
 bosses
-biogenase
+biogenase 1
 butyrometer
 barometrically
 barrio

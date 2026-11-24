@@ -13941,7 +13941,7 @@ cynosures
 cynosurus
 cynotherapy
 cynoxylon
-cinquains
+cinquains 1
 counterrevolutionize
 cinquanter
 cinque
