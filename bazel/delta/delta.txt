@@ -1596,7 +1596,7 @@ deadwork
 deaerated
 dorsum
 deaf
-dynamogenous
+dynamogenous 1
 deafened
 doorjambs
 dummered
