@@ -13031,7 +13031,7 @@ kvanvs
 kvapw
 kvar
 kvarff
-kvasduo
+kvasduo 1
 kvatcc
 kvawculevyqk
 kvazegov
