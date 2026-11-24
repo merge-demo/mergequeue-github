@@ -985,7 +985,7 @@ fastigated
 faretta
 financialist
 foresaid
-foldable
+foldable 1
 fervid
 fishing
 flustering
