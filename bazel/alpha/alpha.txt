@@ -8259,7 +8259,7 @@ antichristian 1
 ariettas
 autogauge
 alienage
-alienated
+alienated 1
 alienation
 allactite
 alchemized

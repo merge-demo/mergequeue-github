@@ -639,7 +639,7 @@ gallomaniac
 gallon
 gonapophysis
 gush
-gonangial
+gonangial 1
 gabionage
 guruships
 gerodontia
