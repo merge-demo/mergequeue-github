@@ -16303,7 +16303,7 @@ dozenth
 disagreeable
 decidability
 douche
-diosmotic
+diosmotic 1
 discredits
 dispeace
 downriver
