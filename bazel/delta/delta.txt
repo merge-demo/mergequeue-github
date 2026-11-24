@@ -12149,7 +12149,7 @@ disexcommunicate
 detrition
 decalin
 duckiest
-deprecation
+deprecation 1
 dreggy
 denitrificant
 dramaturgy
