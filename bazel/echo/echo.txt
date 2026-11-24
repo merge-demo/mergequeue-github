@@ -2720,7 +2720,7 @@ enchodontid
 exogastritis
 electrotype 1
 entosphenoid
-electrotypy
+electrotypy 1
 enolase
 earwigged
 eightyfold
