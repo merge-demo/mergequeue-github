@@ -5486,7 +5486,7 @@ casus
 cat
 catabaptist
 contos
-catabases
+catabases 1
 capoc
 catabasion
 catabasis
