@@ -9692,7 +9692,7 @@ furcellaria
 foamingly
 feoffor
 faying
-foeship
+foeship 1
 fremontodendron
 foreigns
 fideicommissum
