@@ -10788,7 +10788,7 @@ chinks
 concameration
 cilicious
 chalkcutter
-chorisos
+chorisos 1
 castigatories
 cheeter
 chinners
