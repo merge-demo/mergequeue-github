@@ -4087,7 +4087,7 @@ groining
 gletscher
 grifted
 gastrectomies
-germanical
+germanical 1
 gimcrack
 gleaned
 galictis
