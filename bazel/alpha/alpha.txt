@@ -12549,7 +12549,7 @@ anemotropism
 accersition
 antiphlogistian
 apatosaurus
-amandus
+amandus 1
 alogia
 appositionally
 anthribid
