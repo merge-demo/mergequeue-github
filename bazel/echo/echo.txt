@@ -10271,7 +10271,7 @@ epilogist
 enspangle
 effodientia
 elasticizer
-ergal
+ergal 1
 extravasate
 eulogium
 excipulum
