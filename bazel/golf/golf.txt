@@ -4843,7 +4843,7 @@ geometroidea
 giggish
 glaciology
 glaciomarine
-guideway
+guideway 1
 gypaetus
 griffinism
 gynecidal 1
