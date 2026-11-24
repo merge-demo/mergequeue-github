@@ -4592,7 +4592,7 @@ cyanea
 chutnee
 colorationally
 carnosine
-carnous
+carnous 1
 carns
 chamaecistus
 caro
