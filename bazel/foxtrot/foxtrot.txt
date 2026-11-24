@@ -10942,7 +10942,7 @@ flanconade
 forgetness
 feuded
 furfuran 1
-forewit
+forewit 1
 foreseing
 facsimiles
 fooled
