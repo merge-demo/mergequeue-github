@@ -25527,7 +25527,7 @@ coronations
 chitchatty 1
 coronel
 chamaerrhine
-coronership
+coronership 1
 chasidim
 coroneted
 chaise
