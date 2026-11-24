@@ -3437,7 +3437,7 @@ addeem
 admirableness
 addend
 absquatulation
-anaerobically
+anaerobically 1
 avenine
 antedonin
 avoyership
