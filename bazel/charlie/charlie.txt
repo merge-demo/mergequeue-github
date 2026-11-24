@@ -8279,7 +8279,7 @@ chaldean
 chiver
 caucused
 caricetum
-contravariant
+contravariant 1
 councillary
 chalder
 coholder
