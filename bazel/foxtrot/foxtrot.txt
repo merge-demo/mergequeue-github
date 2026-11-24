@@ -9641,7 +9641,7 @@ foresign
 fecklessly
 feliform
 fulcrumage
-flabrum
+flabrum 1
 freewheelingness
 forfoughen
 fluoborate
