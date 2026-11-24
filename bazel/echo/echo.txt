@@ -5822,7 +5822,7 @@ enray
 ephoi
 effluvia
 environing
-environmentalist
+environmentalist 1
 elephant
 electroencephalograms
 egyptologer
