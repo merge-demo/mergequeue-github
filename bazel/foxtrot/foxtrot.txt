@@ -5982,7 +5982,7 @@ forecasters
 footscald
 floodwood
 foisty
-fulah
+fulah 1
 floricultural
 faitour
 flutebird
