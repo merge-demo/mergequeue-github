@@ -10822,7 +10822,7 @@ exochorda
 exsibilate
 echinid
 extrusive
-enthralling
+enthralling 1
 extracultural
 eupatorium
 ethnobiology
