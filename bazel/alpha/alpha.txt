@@ -18031,7 +18031,7 @@ anguiform
 attrap
 appropriativeness
 antipodean
-archimandrites
+archimandrites 1
 aprioristically
 atrazines
 acrologies
