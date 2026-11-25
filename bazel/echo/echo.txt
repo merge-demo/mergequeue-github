@@ -10859,7 +10859,7 @@ electrolyzed
 enlivenments
 emborders
 econometrics
-ergot
+ergot 1
 esodic
 enologist
 excised
