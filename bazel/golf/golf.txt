@@ -2930,7 +2930,7 @@ geocerite
 gubernation
 greenheaded
 gallons
-glabreity
+glabreity 1
 gulley
 growlier
 glumpish
