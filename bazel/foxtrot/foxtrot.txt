@@ -1036,7 +1036,7 @@ fulfill
 farmeress
 fireling
 flerrying
-farmerly
+farmerly 1
 forrel
 ferash
 fletcherize
