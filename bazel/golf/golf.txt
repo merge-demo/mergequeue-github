@@ -1721,7 +1721,7 @@ glaucin
 gussie
 goblinish
 governmentally
-gnarlier
+gnarlier 1
 gallicize
 gulf
 guardrails
