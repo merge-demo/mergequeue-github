@@ -3939,7 +3939,7 @@ amygdalotome
 aristotelism
 absconding
 adjures
-aspersorium
+aspersorium 1
 autotyphization 1
 acanthine
 absinthes
