@@ -10530,7 +10530,7 @@ epilachnides
 estop
 eucharistial
 eurylaimoid
-eudaemony
+eudaemony 1
 eucharistic
 eucharistically
 earthfall
