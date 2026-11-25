@@ -1262,7 +1262,7 @@ fermentative
 flutteringly
 farseeing
 figgier
-finalized
+finalized 1
 forenoon
 fastidium
 friation
