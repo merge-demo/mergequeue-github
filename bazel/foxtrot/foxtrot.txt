@@ -11548,7 +11548,7 @@ fretfully
 ferociousness 1
 footlessly
 fetting
-fusiform
+fusiform 1
 fusil
 frictionized
 fowage
