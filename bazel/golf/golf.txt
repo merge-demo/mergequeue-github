@@ -8376,7 +8376,7 @@ glutael
 gladsomeness 1
 ganoid
 granites
-genro
+genro 1
 guisards
 gerundival 1
 gingerbread
