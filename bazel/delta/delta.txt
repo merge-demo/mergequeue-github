@@ -13411,7 +13411,7 @@ disquisitions
 disquisitor
 disquisitional
 dismarble
-deepfreezed
+deepfreezed 1
 disform
 diffusion
 dennstaedtia
