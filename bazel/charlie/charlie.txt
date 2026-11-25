@@ -23562,7 +23562,7 @@ cacopathy 1
 climature
 chancelled
 conviviality
-continuality
+continuality 1
 conchiolin
 continuancy
 clupein
