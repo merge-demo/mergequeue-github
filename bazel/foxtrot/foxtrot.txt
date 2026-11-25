@@ -1469,7 +1469,7 @@ flavorings
 fruiter 1
 favourable
 friedman
-fiqh
+fiqh 1
 flamer
 foreshows
 fabulate
