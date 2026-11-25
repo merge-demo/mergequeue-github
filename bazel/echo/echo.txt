@@ -952,7 +952,7 @@ equates
 emanatory
 exeresis
 ecuadorian
-ecumenacy
+ecumenacy 1
 engraffing
 equilibristic
 ecumenicism
