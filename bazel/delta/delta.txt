@@ -3224,7 +3224,7 @@ drool
 dens
 dolichocnemic
 demoniac
-defenceable
+defenceable 1
 dekle
 doftberry
 defencive
