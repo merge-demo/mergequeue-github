@@ -10077,7 +10077,7 @@ groomish
 gigman
 galivanting
 glore
-gudgeon
+gudgeon 1
 grobianism
 gauntest
 graecize
