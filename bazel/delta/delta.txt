@@ -4602,7 +4602,7 @@ dejecting
 derere
 dights
 diastases
-decard
+decard 1
 disorienting
 dellies
 disroof
