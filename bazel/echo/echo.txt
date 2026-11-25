@@ -6101,7 +6101,7 @@ enlistments
 erasion
 elastomeric
 encomienda
-electionary
+electionary 1
 eugenic
 eulachon
 elasmosaur
