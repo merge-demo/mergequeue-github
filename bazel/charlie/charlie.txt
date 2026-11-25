@@ -9126,7 +9126,7 @@ cindered
 chartist
 chartless
 caricatured
-chartography
+chartography 1
 chartographic
 crystalline
 crossfall
