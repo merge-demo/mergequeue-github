@@ -9371,7 +9371,7 @@ fivers
 frayne 1
 frankish
 functionary
-fummle
+fummle 1
 fastenings
 fowk
 frails
