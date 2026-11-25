@@ -11753,7 +11753,7 @@ dispensation
 drawled
 dermography
 desoxymorphine
-debtor
+debtor 1
 discreetly
 declarant
 didler
