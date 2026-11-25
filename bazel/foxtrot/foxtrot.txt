@@ -4722,7 +4722,7 @@ frettage
 fictation
 fruitfuller
 frumentarious
-flabbergast
+flabbergast 1
 forkfuls
 fougue
 feathermonger
