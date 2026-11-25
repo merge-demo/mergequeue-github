@@ -6914,7 +6914,7 @@ geographer
 geneserine 1
 gangliglia
 gulosity
-gestations
+gestations 1
 galacthidrosis
 gaoling
 geochemically
