@@ -7038,7 +7038,7 @@ earphone
 enactory
 embellished
 epiphenomenon
-eundem
+eundem 1
 emote
 entrapping
 entrustment
