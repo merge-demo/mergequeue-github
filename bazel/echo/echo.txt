@@ -9268,7 +9268,7 @@ esdras
 erred
 errhines
 encyclopedize
-extraclassroom
+extraclassroom 1
 erron
 empathies
 electrotellurograph
