@@ -6552,7 +6552,7 @@ flensing
 flutterment
 flimflammed
 fluviolacustrine
-fleetly
+fleetly 1
 funereal
 foretack
 flamless
