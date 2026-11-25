@@ -7437,7 +7437,7 @@ diapensia
 daddynut
 detrimentally
 daroga
-deviate
+deviate 1
 dancer
 drumfire
 disequilibriums
