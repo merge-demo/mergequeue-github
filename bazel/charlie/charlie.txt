@@ -25391,7 +25391,7 @@ coulombic
 consummate
 commensalism
 corny
-cornic
+cornic 1
 cornice
 costodiaphragmatic
 cuarta
