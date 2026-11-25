@@ -4370,7 +4370,7 @@ granulite
 gemstone
 gliriformia
 gravestead
-glossata
+glossata 1
 globules
 gharries
 gumbotil
