@@ -9363,7 +9363,7 @@ enkindle
 expectedly
 earmindedness 1
 escalator
-excommunicable
+excommunicable 1
 ergonomics
 eupepsia
 escalated
