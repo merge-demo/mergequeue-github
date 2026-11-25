@@ -8142,7 +8142,7 @@ chainless
 counteractions
 crosscheck
 chlortetracycline
-chumping
+chumping 1
 craspedon
 chainlike
 confrontal
