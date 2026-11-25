@@ -580,7 +580,7 @@ ecstatical
 epigynum
 excision
 esophagoscopy
-eurypelma
+eurypelma 1
 ecclesiastes
 electrostatically
 excommunicates
