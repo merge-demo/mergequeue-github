@@ -3326,7 +3326,7 @@ epical
 emanativ
 erupt
 enwreath
-emasculates
+emasculates 1
 endoesophagitis
 emancipated
 enshrouds
