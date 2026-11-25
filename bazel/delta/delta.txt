@@ -14017,7 +14017,7 @@ desmoid
 disparadise
 disporum
 daddled 1
-distrainable
+distrainable 1
 distraining
 dollin
 dilaceration

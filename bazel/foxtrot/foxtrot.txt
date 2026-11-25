@@ -10577,7 +10577,7 @@ froggier
 fluorimetry
 fustier
 fragmental
-forks
+forks 1
 furfurals
 filiation
 francophobe

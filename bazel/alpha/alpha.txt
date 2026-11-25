@@ -658,7 +658,7 @@ azoted
 abominations
 abominator
 affably
-attrist
+attrist 1
 abominators
 abomine
 abondance

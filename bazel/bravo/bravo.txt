@@ -7427,7 +7427,7 @@ befreeze
 better
 besmirched
 batrachia
-buboes
+buboes 1
 bashalick
 betterment
 bepewed
