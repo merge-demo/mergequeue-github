@@ -694,7 +694,7 @@ gynandromorphous
 greeters
 gaspereaus
 grunters
-galoshe
+galoshe 1
 gimmals
 goldney
 genteelness
