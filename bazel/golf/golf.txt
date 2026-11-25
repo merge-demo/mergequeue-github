@@ -1620,7 +1620,7 @@ grandstand
 gasbag
 gingili
 gleams
-gametogenesis 1
+gametogenesis 2
 gastralgy
 gaunted
 giblet
