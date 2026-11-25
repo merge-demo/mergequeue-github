@@ -8754,7 +8754,7 @@ kohaxm
 kohbmtxeu
 kohbo
 kohbtxbn
-kohch
+kohch 1
 kohcunifxvchd
 kohdajdtal
 kohdbwreqr
