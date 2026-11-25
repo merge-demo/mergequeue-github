@@ -10345,7 +10345,7 @@ attains
 anaphorically
 affination
 athetized
-ataxic
+ataxic 1
 aristocratically
 alkalic
 amerces
