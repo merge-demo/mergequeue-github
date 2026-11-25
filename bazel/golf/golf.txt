@@ -98,7 +98,7 @@ gabbai
 gadge
 gynobaseous
 goldthread
-goodnaturedness
+goodnaturedness 1
 glassily
 greengill
 gadgetry
