@@ -8368,7 +8368,7 @@ geast
 gulfing
 geoblast
 gaize 1
-guru
+guru 1
 grandstander
 gemelled
 glides
