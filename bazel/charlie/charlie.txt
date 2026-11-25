@@ -5764,7 +5764,7 @@ catechetic
 congenator
 chapatti
 cottony
-concinnating
+concinnating 1
 catechin
 catechisable
 citharoedic
