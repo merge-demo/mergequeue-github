@@ -7950,7 +7950,7 @@ dashers
 dextrad
 dextral
 directed
-dextran
+dextran 1
 dextranase
 doublelunged
 disallowable
