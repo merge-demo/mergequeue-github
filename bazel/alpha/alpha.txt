@@ -20288,7 +20288,7 @@ arroyuelo
 apostolate
 arrosive
 aleuritic
-antistreptococcal
+antistreptococcal 1
 allowances
 acquophonia
 amazement
