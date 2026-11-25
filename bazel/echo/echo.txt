@@ -2522,7 +2522,7 @@ eparcuale
 epitomisation
 eulytite
 equitriangular
-excerebrate
+excerebrate 1
 eviration
 emesidae
 entoiled
