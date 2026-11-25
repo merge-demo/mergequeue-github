@@ -13267,7 +13267,7 @@ endotoxoid
 evangelicism 1
 explicitness
 ectocuneiform
-epitheliomata
+epitheliomata 1
 elapids
 eglantine
 etches
