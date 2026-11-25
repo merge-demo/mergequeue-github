@@ -5475,7 +5475,7 @@ deregister
 disenablement
 deorsum
 deossification 1
-deuterostomatous
+deuterostomatous 1
 dissipates
 dyakisdodecahedron
 deoxycorticosterone
