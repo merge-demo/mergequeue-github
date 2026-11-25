@@ -12003,7 +12003,7 @@ exclaims
 epitenon
 exclamative
 endolymphic
-epithermally
+epithermally 1
 excreation
 exclamatory
 exclaves

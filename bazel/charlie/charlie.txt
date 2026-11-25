@@ -15199,7 +15199,7 @@ catamneses
 centipede
 conforms
 cade
-curtailments
+curtailments 1
 clairseach
 caplan
 cloisteral

@@ -4142,7 +4142,7 @@ genitivally
 grapsidae
 gentilities
 grundy
-geochronology
+geochronology 1
 gnawing
 gregarian
 gringo
