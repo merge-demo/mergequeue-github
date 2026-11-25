@@ -12034,7 +12034,7 @@ chorous
 chort
 chortle
 chondrodite
-chortlers
+chortlers 1
 cheating
 cooee
 chortosterol

@@ -4112,7 +4112,7 @@ felicitously
 foresightless
 fungusy
 frostation
-fergusonite
+fergusonite 1
 featherbrain
 fattable
 fanterie
