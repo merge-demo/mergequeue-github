@@ -8709,7 +8709,7 @@ eradications
 enjoyed
 esthesiogenic
 elastometry
-enhallow
+enhallow 1
 electroencephalograph
 equisided
 equisignal
