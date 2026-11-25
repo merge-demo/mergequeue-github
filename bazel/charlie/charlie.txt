@@ -27228,7 +27228,7 @@ countervote
 correlation
 counterwager
 cervicaprine
-chlorhydrate
+chlorhydrate 1
 catbird
 coetus
 counterweigh
