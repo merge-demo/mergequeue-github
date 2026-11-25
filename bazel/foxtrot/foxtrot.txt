@@ -9123,7 +9123,7 @@ fleeceflower
 floridly
 floozies
 fr
-flintlike
+flintlike 1
 furdle
 funambulated
 faulkner
