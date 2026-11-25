@@ -3738,7 +3738,7 @@ delustrant
 dackering
 dehisce
 dasymeter
-dichromism
+dichromism 1
 deglutinate
 depot
 domitic
