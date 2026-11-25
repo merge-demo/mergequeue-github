@@ -5354,7 +5354,7 @@ grandiloquently
 glycopeptide
 galivant
 gynecomastism
-grandevity
+grandevity 1
 globuliferous
 gombeenism
 goofer
