@@ -1212,7 +1212,7 @@ boches
 biscot
 bearhide
 balloting
-bakra
+bakra 1
 bruchus
 backslid
 beds
