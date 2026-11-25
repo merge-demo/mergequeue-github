@@ -4729,7 +4729,7 @@ enrapture
 eulogism
 engerminate
 executonis
-epigean
+epigean 1
 estre
 emplaced
 exponentiating

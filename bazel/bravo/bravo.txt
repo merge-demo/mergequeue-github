@@ -12308,7 +12308,7 @@ bombardments
 bombline
 bowdrill
 bombast
-buglers
+buglers 1
 bicker
 bezzi
 beldame
