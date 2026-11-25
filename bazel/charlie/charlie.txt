@@ -3106,7 +3106,7 @@ capacitations
 cresamine
 capacitative
 chorine
-capacitativly
+capacitativly 1
 coldness
 can
 capacitive
