@@ -10340,7 +10340,7 @@ grubstaking
 gules
 gown
 gonoph
-grot
+grot 1
 glebal
 guarana
 gaums
