@@ -4439,7 +4439,7 @@ fluigramme
 frogwort
 frenghi
 fraiser
-fei
+fei 1
 falsary
 fovent
 flogmaster
