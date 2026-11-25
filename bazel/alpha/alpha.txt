@@ -13182,7 +13182,7 @@ amniotome
 approver
 allorrhythmic
 animatedly
-anticynic
+anticynic 1
 angekok
 animating
 amphibolic
