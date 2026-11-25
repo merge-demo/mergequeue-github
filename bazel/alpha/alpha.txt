@@ -4177,7 +4177,7 @@ armorers
 acetoxyls
 anabaptistically
 amalgamable
-actinometer
+actinometer 1
 adoptedly
 archaeornithes
 adoptee
