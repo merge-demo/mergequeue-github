@@ -11783,7 +11783,7 @@ agrege
 acacine
 analeptic
 anabasis
-adenoidectomies
+adenoidectomies 1
 analgesics
 anthropophagous
 allargando
