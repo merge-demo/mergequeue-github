@@ -10405,7 +10405,7 @@ cementing
 cryptometer
 chiffonnieres
 conchinin
-chiffons
+chiffons 1
 continuable
 chifforobe
 chlorinity
