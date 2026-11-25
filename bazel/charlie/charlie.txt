@@ -17460,7 +17460,7 @@ cobbles
 cobblestone
 clepsydras
 cobblestoned
-corollated
+corollated 1
 chokeweed
 cobbling
 cobbra
