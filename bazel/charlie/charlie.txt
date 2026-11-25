@@ -2785,7 +2785,7 @@ cannisters
 crystallographically
 convally
 cannonaded
-cohorts
+cohorts 1
 cannonading
 cannonarchy
 cannonballed
