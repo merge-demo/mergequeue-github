@@ -16258,7 +16258,7 @@ damaskeening
 draughtswomanship
 deforest
 deteriorate
-downface
+downface 1
 downstair
 duodenocystostomy
 dacryolite
