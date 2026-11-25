@@ -3079,7 +3079,7 @@ escribed
 enshrine
 equilater
 emetia
-exhaustible
+exhaustible 1
 equated
 excreters 1
 eardrop
