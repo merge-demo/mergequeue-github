@@ -5236,7 +5236,7 @@ casqued
 cushat
 casquetel
 colemouse
-cassabas
+cassabas 1
 cassabully
 customs
 cultist
