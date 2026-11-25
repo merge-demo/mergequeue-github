@@ -2715,7 +2715,7 @@ fruitive 1
 flatteress
 funnier
 figpecker
-ficche
+ficche 1
 fathomer
 fantasts 1
 fiefs
