@@ -139,7 +139,7 @@ evaporativity
 economizes
 extravasating
 elon 1
-enchasten
+enchasten 1
 epiphysial
 elisha
 epididymides
