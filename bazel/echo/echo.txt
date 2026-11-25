@@ -8061,7 +8061,7 @@ expansiveness
 expiator
 embarred
 epigrammatizer
-earnests
+earnests 1
 epiphegus
 enwombed
 emgalla
