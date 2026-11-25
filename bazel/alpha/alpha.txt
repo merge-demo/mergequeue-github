@@ -12283,7 +12283,7 @@ ancylus
 actinodrome
 armorica
 ancyrean
-affectedly
+affectedly 1
 ancistrocladaceous
 ancistroid
 ancodont
