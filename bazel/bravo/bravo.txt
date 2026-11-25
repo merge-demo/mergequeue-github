@@ -10355,7 +10355,7 @@ bowpin
 blanc
 beneath
 baltimorite
-bergomask
+bergomask 1
 bolsheviki
 bumbler
 ballist
