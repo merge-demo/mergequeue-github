@@ -10244,7 +10244,7 @@ fjarding
 firiness
 fishweed
 fennecs
-flamingoes
+flamingoes 1
 foundationed
 ferronickel
 forebow
