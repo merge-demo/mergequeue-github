@@ -13952,7 +13952,7 @@ elaborateness
 eudeve
 entoire
 extraparliamentary
-ectotrophic
+ectotrophic 1
 expressless
 epimer
 endokaryogamy
