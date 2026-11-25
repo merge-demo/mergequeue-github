@@ -11708,7 +11708,7 @@ anaesthetize
 apodidae 1
 anaesthetized
 anaesthetizer
-arthralgic
+arthralgic 1
 adsum
 arbalester
 anaetiological
