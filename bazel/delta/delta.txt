@@ -11089,7 +11089,7 @@ disapprovals
 demagog
 disapproves
 disillusioned
-doppelkummel
+doppelkummel 1
 demonetisation
 dirt
 denitrified
