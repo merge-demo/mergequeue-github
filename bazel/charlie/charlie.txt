@@ -28802,7 +28802,7 @@ cresive
 cornucopian
 cresoline
 carline
-cresorcinol
+cresorcinol 1
 cryogenies
 ctg
 cresoxy
