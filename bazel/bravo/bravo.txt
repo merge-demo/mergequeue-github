@@ -6201,7 +6201,7 @@ buckjumper
 benic
 benight
 buzzed
-bandalore
+bandalore 1
 benighter
 barked
 brittlestem
