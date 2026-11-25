@@ -13862,7 +13862,7 @@ devours
 distemperedly
 dendritically
 drinn
-distempering
+distempering 1
 distemperoid
 distending
 drowns
