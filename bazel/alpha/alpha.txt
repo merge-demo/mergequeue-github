@@ -16645,7 +16645,7 @@ apert
 arsonation
 asperates
 archelaus
-apraxic
+apraxic 1
 aigremore
 asyndeta
 alternipinnate
