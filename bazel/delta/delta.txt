@@ -18265,7 +18265,7 @@ dinaric
 dogged
 duplicidentata
 desmopyknosis
-determinably
+determinably 1
 daydreamt
 decibels
 duckboards
