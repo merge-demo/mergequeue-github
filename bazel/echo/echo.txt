@@ -6477,7 +6477,7 @@ encephalometer
 earfuls
 encheck
 exercisable
-ensorcellment
+ensorcellment 1
 ensorrow
 encumberment
 ectodactylism
