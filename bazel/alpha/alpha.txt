@@ -12856,7 +12856,7 @@ angiotripsy
 angiotrophic
 antiepicenter
 angiport
-autoinductive
+autoinductive 1
 ammoniticone
 aeroscopically
 angle
