@@ -14134,7 +14134,7 @@ disulfide
 decession
 decasualised
 disanimate
-diol
+diol 1
 desacralize
 diapason
 disulfiram

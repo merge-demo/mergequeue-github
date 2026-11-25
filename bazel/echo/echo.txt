@@ -4835,7 +4835,7 @@ executory
 excipient
 encomiumia
 encompassment
-embira
+embira 1
 excusation
 episiotomy 1
 echard
