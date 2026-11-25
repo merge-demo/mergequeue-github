@@ -15585,7 +15585,7 @@ bromacetanilide
 bristlelike
 brigander
 beingless
-borer
+borer 1
 babyhoods
 bristliness
 brucina
