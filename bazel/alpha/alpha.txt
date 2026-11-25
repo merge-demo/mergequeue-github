@@ -11570,7 +11570,7 @@ after
 anacamptics
 araquaju
 antiperistasis
-anacanthine
+anacanthine 1
 avourneen
 anacanthous
 arshin
