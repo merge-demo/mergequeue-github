@@ -762,7 +762,7 @@ didnt
 diselenide
 demagnetisable 1
 delimitized
-dominicale
+dominicale 1
 drapeable
 diapnotic
 dermoidal
