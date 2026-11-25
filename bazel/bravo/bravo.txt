@@ -4544,7 +4544,7 @@ bienness 1
 biradiated
 bathroot
 bater
-bool
+bool 1
 bedabble
 beagles
 barricadoed
