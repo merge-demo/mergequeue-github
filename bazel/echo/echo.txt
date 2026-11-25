@@ -841,7 +841,7 @@ ectocondylar
 endophytic
 efficient
 electrolyser
-excrementous
+excrementous 1
 enchair
 exocarps
 elong
