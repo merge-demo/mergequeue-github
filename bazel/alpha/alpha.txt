@@ -9221,7 +9221,7 @@ alnaschar
 aposiopestic
 astracism
 awest
-alethic
+alethic 1
 authenticating
 alnicoes
 alnilam
