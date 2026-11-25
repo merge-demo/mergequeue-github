@@ -10780,7 +10780,7 @@ amiantuses
 amyxorrhea
 architis
 amlikar
-amlong
+amlong 1
 ammelide
 apodemal
 apothecary
