@@ -1521,7 +1521,7 @@ foamers
 franklinite
 fattenable
 fauntleroy
-frankability
+frankability 1
 flagellaria
 freely
 faurd
