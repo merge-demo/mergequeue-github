@@ -21,7 +21,7 @@ aivr
 archerfish
 aardwolves
 aaronite
-amphipod
+amphipod 1
 antineutrinos
 agreges
 arrogations
