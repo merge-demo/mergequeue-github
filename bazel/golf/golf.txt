@@ -5875,7 +5875,7 @@ gravimetric
 goliards
 gallinaceous
 graphometrist
-ganglionary
+ganglionary 1
 gallywasp
 gyle
 glucosaemia
