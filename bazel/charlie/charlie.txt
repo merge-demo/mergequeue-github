@@ -13313,7 +13313,7 @@ clitoria
 chinning
 churchwarden
 cyclopedias
-cyclopedical
+cyclopedical 1
 cyclopentanone
 curlyhead
 covenanting
