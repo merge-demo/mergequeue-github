@@ -7459,7 +7459,7 @@ desmotropism
 drivable
 debating
 denude
-doctoral
+doctoral 1
 dubhgall
 distalia
 detruding
