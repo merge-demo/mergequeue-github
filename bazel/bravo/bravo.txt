@@ -6556,7 +6556,7 @@ bakehead 1
 boatside
 borickite
 brekky
-benzothiazole
+benzothiazole 1
 berberi
 breastrope
 bout
