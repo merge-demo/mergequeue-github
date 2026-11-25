@@ -6218,7 +6218,7 @@ corbel
 corticifugal
 caudebeck
 caudex
-caudices
+caudices 1
 cassolette
 cystiferous
 concise
