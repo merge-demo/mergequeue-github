@@ -1461,7 +1461,7 @@ defacements
 dictional
 disinfect
 durain
-dihydrosphingosine
+dihydrosphingosine 1
 domical
 deltation
 dietotoxicity 1
