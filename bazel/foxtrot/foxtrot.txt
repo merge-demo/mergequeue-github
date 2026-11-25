@@ -10806,7 +10806,7 @@ featliness
 forclose
 fricasseed
 ferntickled
-fluxure
+fluxure 1
 fanegas
 feff
 fibrohemorrhagic
