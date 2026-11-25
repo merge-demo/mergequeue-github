@@ -1492,7 +1492,7 @@ gymnarchus
 gluconate 1
 galosh
 guacamole
-gastrulae
+gastrulae 1
 guarachas
 gunocracy
 gasifies
