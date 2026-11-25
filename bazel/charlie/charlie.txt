@@ -8458,7 +8458,7 @@ chamotte
 coarbiter
 cauligenous
 champagneless
-champagning
+champagning 1
 chockman
 champagnize
 cardiogenic
