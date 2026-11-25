@@ -10552,7 +10552,7 @@ falding
 fibration
 foreland
 fliping
-foughty
+foughty 1
 foreloper
 favose
 feudalist
