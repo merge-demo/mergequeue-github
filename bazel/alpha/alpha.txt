@@ -16615,7 +16615,7 @@ acalculia
 apeek
 adipocyte
 apelles
-acuminate
+acuminate 1
 athirst
 amphigonic
 affiliate
