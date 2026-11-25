@@ -6030,7 +6030,7 @@ centricipital
 cylindroogival
 catholicoi
 catholicon
-clinkers
+clinkers 1
 catholicos
 curarize
 coraciiform
