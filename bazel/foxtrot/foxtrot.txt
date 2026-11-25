@@ -7247,7 +7247,7 @@ foiled
 footslogger
 flailed
 financiery
-fatstocks
+fatstocks 1
 fluorogen
 foregoing
 fissuration
