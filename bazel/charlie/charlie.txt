@@ -26655,7 +26655,7 @@ consensus
 contracapitalist
 clinopyramid
 counterabut
-counteracted
+counteracted 1
 colada
 counteracter
 costrels
