@@ -182,7 +182,7 @@ golfer
 goaled
 gabarit
 gammacism
-groschen
+groschen 1
 gavage
 gelled
 garred
