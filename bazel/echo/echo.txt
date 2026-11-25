@@ -13320,7 +13320,7 @@ explosively
 explosiveness
 equipt
 electromyograph
-elusively
+elusively 1
 eyewear
 encomendero
 expone
