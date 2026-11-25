@@ -2729,7 +2729,7 @@ acrite
 asthenobiosis
 astringent
 arriba
-antidysenteric
+antidysenteric 1
 arctiid
 any
 ambosexual
