@@ -6967,7 +6967,7 @@ gelatinize
 galoshed
 gorgonise
 gigglers 1
-granjeno
+granjeno 1
 grinds
 glyconeogenesis
 grasseye
