@@ -8472,7 +8472,7 @@ easterlies
 eprise
 epimorpha
 endures
-epsilons
+epsilons 1
 expressionistic
 entryways
 entrants
