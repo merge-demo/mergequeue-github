@@ -2279,7 +2279,7 @@ doused
 decemstriate
 dowsers
 disceptator
-dithioglycol
+dithioglycol 1
 decemuiri
 downcut
 derby
