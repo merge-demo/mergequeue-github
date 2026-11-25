@@ -2822,7 +2822,7 @@ grenadines
 goosehouse
 gnathoplasty
 genuflection
-gallates
+gallates 1
 galactophlysis
 grayhair
 graminous
