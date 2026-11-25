@@ -5087,7 +5087,7 @@ decuria
 derailed
 dietetic
 donatary
-decalogist
+decalogist 1
 dendrochirota
 dessicate
 describing

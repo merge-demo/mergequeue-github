@@ -6560,7 +6560,7 @@ furrings
 flibbertigibbets
 flysches
 flattened
-feaked
+feaked 1
 fluxile
 faunistical
 fluxionist
