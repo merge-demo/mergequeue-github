@@ -7742,7 +7742,7 @@ deils
 disembarrass
 dram
 dysarthrosis
-deintellectualize
+deintellectualize 1
 defoliage
 devise
 dayton
