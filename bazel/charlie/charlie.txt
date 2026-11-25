@@ -14073,7 +14073,7 @@ capivi
 corpuscle
 circe
 circean
-circensian
+circensian 1
 circinate
 coxcombs
 chirinola
