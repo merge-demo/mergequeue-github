@@ -3202,7 +3202,7 @@ flouse
 fices
 fuchsinophilous
 fesels
-freeholds
+freeholds 1
 fairyland
 frosh
 fickle
