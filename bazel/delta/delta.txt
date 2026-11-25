@@ -11178,7 +11178,7 @@ depopulate
 disbars
 disbase
 dani
-disbeliefs
+disbeliefs 1
 diarchic
 decemjugate
 dissociating
