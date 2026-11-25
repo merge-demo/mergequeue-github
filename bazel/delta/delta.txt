@@ -1085,7 +1085,7 @@ dearticulation
 dartled
 dedecorate
 defuses
-dartling
+dartling 1
 decanoyl
 downpour
 defluxion
