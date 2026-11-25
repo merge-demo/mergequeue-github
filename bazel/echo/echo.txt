@@ -5052,7 +5052,7 @@ enrolled
 eclairs
 econometer
 entreasure
-encaenia 1
+encaenia 2
 evens
 endophragmal
 equimolal
