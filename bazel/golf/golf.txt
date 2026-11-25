@@ -5701,7 +5701,7 @@ gushes 1
 girdlestead
 greedier
 grandnephews
-glossemic
+glossemic 1
 glaciometer
 gorilline
 gesundheit
