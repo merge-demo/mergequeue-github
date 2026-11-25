@@ -5188,7 +5188,7 @@ apyrexia
 ambilaevous
 achen
 affaite
-affect
+affect 1
 anaxonia
 aflicker
 authoritarianism
