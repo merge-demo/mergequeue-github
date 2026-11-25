@@ -7598,7 +7598,7 @@ carus
 corrugating
 cooked
 citrulline
-chondric
+chondric 1
 corydaline
 cophouse
 cerebrifugal
