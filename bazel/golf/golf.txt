@@ -979,7 +979,7 @@ grouting
 gagmen
 ganched
 gonotokont
-goner
+goner 1
 gerodontology
 granddads
 gundi
