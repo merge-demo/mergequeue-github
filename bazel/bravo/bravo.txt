@@ -17873,7 +17873,7 @@ bloviate
 bushbody
 bushbuck 1
 blotchier
-bushbucks
+bushbucks 1
 batrachium
 bearbush
 begowk
