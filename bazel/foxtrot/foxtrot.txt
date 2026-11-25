@@ -1966,7 +1966,7 @@ fancy
 feebless
 filatory
 fillock
-fernticle
+fernticle 1
 fibratus
 functionalize
 frigiferous
