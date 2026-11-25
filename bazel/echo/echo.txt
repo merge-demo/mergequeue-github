@@ -2287,7 +2287,7 @@ equally
 extemporization
 eudiometry
 enchantments
-exormia
+exormia 1
 enbloc
 endolymph
 excretal
