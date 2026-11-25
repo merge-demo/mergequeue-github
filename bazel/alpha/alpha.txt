@@ -8705,7 +8705,7 @@ anapterygote
 aller
 allergenic
 abouchement
-allergenicity
+allergenicity 1
 atheology
 alang
 ankylotome
