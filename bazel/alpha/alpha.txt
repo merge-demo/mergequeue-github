@@ -2903,7 +2903,7 @@ across
 aubrietas
 anguilliform
 alvus
-allege
+allege 1
 ameristic
 alice
 assaultive
