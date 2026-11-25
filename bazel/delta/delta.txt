@@ -2887,7 +2887,7 @@ devotions
 drepanis 1
 deuteroscopic
 discernment
-deluded
+deluded 1
 dronet
 dinoceratid
 draper
