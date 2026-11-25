@@ -9188,7 +9188,7 @@ dyeability
 denazification
 demilance
 devilman
-ditriglyph
+ditriglyph 1
 dieb
 dusterman
 delaine
