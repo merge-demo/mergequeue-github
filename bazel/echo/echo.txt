@@ -572,7 +572,7 @@ episiorrhaphy
 echinulated
 endogastrically
 echis
-enthean
+enthean 1
 euglenas
 echitamine
 eccentrical
