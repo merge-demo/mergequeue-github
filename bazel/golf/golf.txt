@@ -5507,7 +5507,7 @@ glisteringly
 gorblimy
 grubble
 gerridae
-gloomingly
+gloomingly 1
 garnishment
 gadaria
 gastroparietal
