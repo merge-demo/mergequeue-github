@@ -6308,7 +6308,7 @@ guidsire 1
 gyrons
 guijo
 gastroatonia
-gastriloquous
+gastriloquous 1
 gastrocele
 gymnorhininae
 goblin

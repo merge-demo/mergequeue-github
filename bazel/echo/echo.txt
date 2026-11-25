@@ -13043,7 +13043,7 @@ exhibiting
 ebauchoir
 euhemerised
 ebonites
-epiperipheral
+epiperipheral 1
 elocutionary
 expediter
 enunciates
