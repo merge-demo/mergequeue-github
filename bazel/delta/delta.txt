@@ -15152,7 +15152,7 @@ disallows
 dullpate
 decayable
 doing
-discopodous
+discopodous 1
 dotish
 doitkin
 dojigger
