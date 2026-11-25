@@ -8183,7 +8183,7 @@ eyl
 essayette
 eurythmies
 estadio
-elegances
+elegances 1
 excorticate
 endopleura
 electrolysis
