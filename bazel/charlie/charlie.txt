@@ -21095,7 +21095,7 @@ conand
 connivence
 conarial
 conarium
-champacol
+champacol 1
 conationalistic
 comelily
 curatic

@@ -1287,7 +1287,7 @@ azurean
 acataphasia
 alstonidine
 arillated
-acatastatic
+acatastatic 1
 autoanalysis
 acate
 acategorical

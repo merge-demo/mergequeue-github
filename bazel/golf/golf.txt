@@ -7570,7 +7570,7 @@ ghastfulness
 glucolysis
 gruntle
 geophyte
-gamash
+gamash 1
 gowdnie
 goalie
 gaspiness
