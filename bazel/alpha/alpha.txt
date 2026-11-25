@@ -20845,7 +20845,7 @@ academicals
 arfvedsonite
 avulsed
 argufies
-armipotent
+armipotent 1
 arx
 arzan
 acapu
