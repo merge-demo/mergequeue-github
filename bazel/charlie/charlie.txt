@@ -1171,7 +1171,7 @@ calculatedness
 chromophilic
 calculates
 calculatingly
-cony
+cony 1
 compeer
 correlate
 calculational
