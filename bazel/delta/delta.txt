@@ -2044,7 +2044,7 @@ diverberate
 decahedron
 disclassify
 drearier
-degamis
+degamis 1
 dentatocrenate
 dayward
 decahedrons
