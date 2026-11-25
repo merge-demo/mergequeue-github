@@ -8041,7 +8041,7 @@ chaetae
 chemin
 chaetal
 carromata
-chanidae
+chanidae 1
 clanks
 chaetifera
 chaetiferous
