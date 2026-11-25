@@ -4148,7 +4148,7 @@ gregarian
 gringo
 gnars
 gymnasts
-gibbi
+gibbi 1
 grahamism
 gigback
 glottal
