@@ -1049,7 +1049,7 @@ haurpojl
 hausbf
 hausda
 hausehyeof
-hausi
+hausi 1
 hausptplrdfmn
 hauukvex
 hauvisvuyg
