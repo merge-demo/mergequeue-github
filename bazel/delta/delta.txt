@@ -9152,7 +9152,7 @@ desmopathy
 dramatising
 didynamous 1
 diffractometer 1
-diffund
+diffund 1
 descend
 dunnage
 druggiest
