@@ -4503,7 +4503,7 @@ encephalasthenia
 effloresced
 escocheon
 erythrophagous
-encephalitic
+encephalitic 1
 executively 1
 emulators
 embryophyta
