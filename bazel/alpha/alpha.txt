@@ -18594,7 +18594,7 @@ arcboutant
 abundances
 arccos
 appomattoc
-apostume
+apostume 1
 assiduousness
 anhematosis
 arch
