@@ -8195,7 +8195,7 @@ alguifou
 antependium
 alhambraic
 asteria
-apogeotropically
+apogeotropically 1
 alhenna
 alia
 atavist
