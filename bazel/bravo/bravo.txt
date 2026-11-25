@@ -2625,7 +2625,7 @@ beduchess
 bantamweight
 birdhouses
 bilges
-botanise
+botanise 1
 begirdle
 barkless
 battening
