@@ -11252,7 +11252,7 @@ endostraca
 enamor
 emigre
 enthronized
-evangelistic
+evangelistic 1
 epidictical
 exserts
 earthquake
