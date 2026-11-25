@@ -2383,7 +2383,7 @@ differentiated
 deciare
 dionise
 drugget
-debilitated
+debilitated 1
 deciceronize
 dino
 decidedly
