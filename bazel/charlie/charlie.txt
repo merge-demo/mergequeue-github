@@ -1043,7 +1043,7 @@ calcanea
 chimpanzee
 calcanean
 calcaneoastragaloid
-calcaneoplantar
+calcaneoplantar 1
 countersale
 calcaneoscaphoid
 calcaneum
