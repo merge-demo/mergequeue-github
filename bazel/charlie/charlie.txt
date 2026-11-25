@@ -29698,7 +29698,7 @@ cambiform
 croissant
 croissante
 crojack
-carousingly
+carousingly 1
 complimented
 coliplication
 cromaltite
