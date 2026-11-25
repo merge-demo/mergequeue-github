@@ -3402,7 +3402,7 @@ dichotomic
 disinhuming
 darer
 deflecting
-deflectionize
+deflectionize 1
 dampnesses
 daphnaceae
 diamante
