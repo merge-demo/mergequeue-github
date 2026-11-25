@@ -11839,7 +11839,7 @@ abas
 appulsion
 analoga
 analogy
-analogic
+analogic 1
 anteposition
 ascertained
 anaximandrian

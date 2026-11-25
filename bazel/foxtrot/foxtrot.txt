@@ -552,7 +552,7 @@ fronts
 formamidoxime
 foresays
 flosculose
-fainest
+fainest 1
 ff
 fertilely
 figless
