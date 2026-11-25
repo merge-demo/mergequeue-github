@@ -25533,7 +25533,7 @@ coroneted
 chaise
 crutchlike
 cordeliere
-coronets
+coronets 1
 coronetted
 crushability
 coronettee

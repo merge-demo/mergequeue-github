@@ -11126,7 +11126,7 @@ ebullioscopy
 erotetic
 euthycomi
 exploitable
-enol
+enol 1
 eurasia
 exsiliency
 euthytatic
