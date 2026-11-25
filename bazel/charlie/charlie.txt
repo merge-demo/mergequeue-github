@@ -16025,7 +16025,7 @@ clever
 cowberries
 cleverer
 cleverish
-clevis
+clevis 1
 columbous
 codicilic
 caridea
