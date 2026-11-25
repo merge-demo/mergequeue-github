@@ -5595,7 +5595,7 @@ flowery
 furbearer
 froebelist
 fanaticized
-forefeel
+forefeel 1
 fossilation
 formulary 1
 fmt
