@@ -3567,7 +3567,7 @@ disfrock
 disseminate
 diethylamine
 disenchanter
-defunctionalize
+defunctionalize 1
 defusion
 deformalize
 dingles
