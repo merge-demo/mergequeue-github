@@ -5200,7 +5200,7 @@ elephants
 electrology
 economists
 entocoele
-ergotist
+ergotist 1
 enterovirus
 eastings
 electroballistician
