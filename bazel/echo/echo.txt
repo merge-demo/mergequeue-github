@@ -9826,7 +9826,7 @@ estats
 eternise
 ethnolinguistic
 enamelware
-elenchtical
+elenchtical 1
 exact
 estrich
 etagre
