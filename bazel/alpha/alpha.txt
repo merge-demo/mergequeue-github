@@ -13398,7 +13398,7 @@ ankylotic
 anklejack
 ankles
 aetolian
-aminase
+aminase 1
 assimilatory
 ameban
 awny
