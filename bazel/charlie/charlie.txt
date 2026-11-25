@@ -24353,7 +24353,7 @@ circumflex
 cool
 cooled
 changepocket
-crosshairs
+crosshairs 1
 cavally
 cooley
 capitatum
