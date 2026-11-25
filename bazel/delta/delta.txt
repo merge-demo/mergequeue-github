@@ -11198,7 +11198,7 @@ disbelieves
 disavowals
 doughfeet
 dendropogon
-deprives
+deprives 1
 disconduce
 dispersoidology
 dogmatized
