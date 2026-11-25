@@ -4357,7 +4357,7 @@ frankable
 flatulences
 fandango
 fourflusher
-fu
+fu 1
 fellows
 forewomen
 foresleeve
