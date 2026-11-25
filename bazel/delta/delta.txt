@@ -10290,7 +10290,7 @@ desiderium
 dioecia
 dioecian
 dioeciopolygamous
-disclout
+disclout 1
 duodenal
 dustpans
 demonograph
