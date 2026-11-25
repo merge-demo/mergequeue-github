@@ -9385,7 +9385,7 @@ epoptic
 euspongia 1
 erythrolitmin 1
 eventail
-embolies
+embolies 1
 eucleid
 edifyingness
 ebdomade
