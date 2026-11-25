@@ -13811,7 +13811,7 @@ extracarpal
 extratropical 1
 extendible
 excepted
-editorializing
+editorializing 1
 extracerebral
 embolo
 elucidative
