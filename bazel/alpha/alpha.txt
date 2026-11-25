@@ -8201,7 +8201,7 @@ alia
 atavist
 aln
 alterne
-ahush
+ahush 1
 antarctalia
 alias
 aleutians
