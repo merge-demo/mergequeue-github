@@ -6522,7 +6522,7 @@ furcular
 fluther
 foldskirt
 fortifying
-flexuousness 1
+flexuousness 2
 fulminant
 floggingly
 floodboard
