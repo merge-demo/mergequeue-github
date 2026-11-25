@@ -4924,7 +4924,7 @@ demagnetizes
 devilwise
 dicondylian
 dacrycystalgia
-dynastic
+dynastic 1
 depositum
 demonstrations
 doctrinary
