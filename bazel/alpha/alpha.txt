@@ -9948,7 +9948,7 @@ autotrophy 1
 addict
 amplitudes
 anatomicopathological
-altoun
+altoun 1
 amazer
 accented 1
 antihelixes
