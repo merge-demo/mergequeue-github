@@ -12374,7 +12374,7 @@ deepening
 decempartite
 didymiums 1
 decoagulation
-dishaunt
+dishaunt 1
 deflationary
 dichromaticism
 deathweed
