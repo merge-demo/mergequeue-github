@@ -5530,7 +5530,7 @@ excitate
 equiformity
 enzymosis
 enervation 1
-ethnically
+ethnically 1
 enetophobia
 enfaces
 earthshattering
