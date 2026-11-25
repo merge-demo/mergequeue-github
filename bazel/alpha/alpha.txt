@@ -17144,7 +17144,7 @@ autocycle
 apokrea
 authenticly
 androecia
-apolar
+apolar 1
 amphidiploid
 averin
 apolysis
