@@ -8472,7 +8472,7 @@ ferritic
 filmsetter
 fortin
 frondesce
-factorized
+factorized 1
 formatter
 father
 floridans
