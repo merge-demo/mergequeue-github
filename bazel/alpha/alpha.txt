@@ -951,7 +951,7 @@ absorptional
 aggregate
 arethusa
 actinopoda
-adulterately
+adulterately 1
 antichymosin
 apprehension
 aecidiostage
