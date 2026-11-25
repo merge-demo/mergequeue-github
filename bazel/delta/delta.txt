@@ -13020,7 +13020,7 @@ dromiceiidae
 deliria
 diotrephes
 dopiness
-disparity
+disparity 1
 disruptability
 dithecous
 dispeed
