@@ -11195,7 +11195,7 @@ flotorial
 fidgetily
 freechurchism
 fungoids
-fixating
+fixating 1
 foremanship
 fippence
 futuric
