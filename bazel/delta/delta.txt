@@ -11852,7 +11852,7 @@ diamines
 discurre
 dislikable
 discursify
-deplumed
+deplumed 1
 donatively
 domineered
 dbl
