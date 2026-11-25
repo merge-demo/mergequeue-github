@@ -27838,7 +27838,7 @@ cyclometers
 cozes
 cerebroside
 cozie
-conspect
+conspect 1
 civiliser
 cp
 clitoridean
