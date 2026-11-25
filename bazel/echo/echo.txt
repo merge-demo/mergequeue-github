@@ -1816,7 +1816,7 @@ engraulis 1
 erodium
 effetely
 enamors
-eroding
+eroding 1
 encroached
 egotheism
 epithalamy
