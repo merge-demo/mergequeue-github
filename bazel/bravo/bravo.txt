@@ -5580,7 +5580,7 @@ brassicaceous
 beknottedly
 bathythermogram
 basophile
-biotype
+biotype 1
 beknow
 blimpishly
 bel
