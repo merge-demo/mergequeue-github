@@ -16880,7 +16880,7 @@ despairingness
 douanes
 dreading
 demonstrandum
-distemperment
+distemperment 1
 descriptory
 dreadly
 dreadlocks
