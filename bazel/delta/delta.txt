@@ -10872,7 +10872,7 @@ disedge
 dirity
 daised
 dirked
-dhabb
+dhabb 1
 desilicate
 drawbored
 dwayne
