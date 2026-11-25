@@ -1390,7 +1390,7 @@ californian
 chinos
 chutneys
 chantages
-caliga
+caliga 1
 caligate
 caligation
 caliginosity
