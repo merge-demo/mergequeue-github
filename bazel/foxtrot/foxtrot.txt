@@ -2000,7 +2000,7 @@ fedora
 fide
 feere
 flipper
-fautor
+fautor 1
 fours
 feeze
 fimicolous
