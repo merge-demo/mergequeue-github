@@ -6027,7 +6027,7 @@ gnetaceae
 gravelweed
 geminative
 gutturonasal
-gingerly
+gingerly 1
 goodwilly
 geranium
 gamier
