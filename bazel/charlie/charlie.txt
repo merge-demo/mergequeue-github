@@ -12651,7 +12651,7 @@ chubbiest
 chubs
 chuckawalla
 chucked
-childkind
+childkind 1
 chucker
 chuckfarthing
 chuckhole

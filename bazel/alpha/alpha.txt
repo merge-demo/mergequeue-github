@@ -16494,7 +16494,7 @@ antioxidant
 ampholyte
 anxiously
 anxiousness
-antifogmatic
+antifogmatic 1
 abbesses
 agalactia
 acetabuliferous
