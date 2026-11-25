@@ -8220,7 +8220,7 @@ gasconading
 genevois
 graphemics
 graphically
-glutamates
+glutamates 1
 glorioso
 graphiological
 gemotes
