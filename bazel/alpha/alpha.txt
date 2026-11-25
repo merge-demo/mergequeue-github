@@ -10324,7 +10324,7 @@ arundineous
 allotheria
 ankylopoietic
 anolympiad
-autompne
+autompne 1
 atrabilarian
 amentiform
 aplodiorite
