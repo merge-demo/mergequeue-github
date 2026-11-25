@@ -10958,7 +10958,7 @@ audiencer
 attabal
 alodia
 adipsia
-amoebiform
+amoebiform 1
 arbitrer
 acceptant
 autodialers
