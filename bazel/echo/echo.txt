@@ -8913,7 +8913,7 @@ eleutheromaniac
 ergoted
 explosible
 encephalomalaxis
-ergotism
+ergotism 1
 ergotizing
 erichthoid
 ewder
