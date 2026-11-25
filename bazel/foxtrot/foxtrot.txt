@@ -2648,7 +2648,7 @@ ferrumination
 fluviatic
 fraters
 feedings
-felspathic
+felspathic 1
 fainaigue
 froufrou
 flickering
