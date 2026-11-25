@@ -2948,7 +2948,7 @@ freezed
 foxberries
 fac
 flaked
-furloughs
+furloughs 1
 fungological
 froths
 fevered
