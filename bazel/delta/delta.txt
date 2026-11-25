@@ -6659,7 +6659,7 @@ deserting
 drabs
 diastimeter
 desertlessly
-dungaree
+dungaree 1
 deserts
 deserve
 depreciatoriness
