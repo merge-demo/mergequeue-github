@@ -14678,7 +14678,7 @@ antilogarithm
 apastra
 anthropomorphism
 alchemical
-antiarins
+antiarins 1
 actuate
 aggressively
 aerothermodynamics
