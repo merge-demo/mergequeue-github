@@ -21077,7 +21077,7 @@ acalypha
 auricularia
 attachedly
 amblygon
-ascogone
+ascogone 1
 abstinency 1
 antipleuritic
 adjournment
