@@ -4531,7 +4531,7 @@ conidial
 carnaptious
 congratulate
 carnaria
-carnassial
+carnassial 1
 carnate
 corupay
 cordialize
