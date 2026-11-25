@@ -28299,7 +28299,7 @@ chromites
 craterless
 craterlet
 craterlike
-covariance
+covariance 1
 cheepily
 copywise
 craticular
