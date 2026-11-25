@@ -1841,7 +1841,7 @@ febricitant
 frictions
 fore
 feastless
-febrific
+febrific 1
 flaccid
 feloid
 febrile
