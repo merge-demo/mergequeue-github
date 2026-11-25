@@ -9745,7 +9745,7 @@ burdocks 1
 basifugal
 buffered
 bistipulate
-bistort
+bistort 1
 bedarkened
 bistorts
 beetlehead
