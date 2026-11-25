@@ -994,7 +994,7 @@ ecchymotic
 expositors
 endorsing
 excel
-enquiring
+enquiring 1
 exorbital
 earthwork
 edaphosaurus
