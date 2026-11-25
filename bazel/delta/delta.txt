@@ -11562,7 +11562,7 @@ derivers
 discompliance
 dowry
 discomposed
-deaccessioned
+deaccessioned 1
 discomposedness
 desmachymatous
 dements
