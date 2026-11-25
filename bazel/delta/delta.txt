@@ -10730,7 +10730,7 @@ durions
 driftages
 deferrers
 dat
-decompensatory
+decompensatory 1
 diarthrosis
 discreditable
 deckie
