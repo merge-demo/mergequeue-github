@@ -21635,7 +21635,7 @@ assayed
 aphonous
 amorist
 assayers
-aphorists
+aphorists 1
 assaying
 androgens
 adenectopic
