@@ -1799,7 +1799,7 @@ eocene
 elliott
 earplugs
 excrement
-embrutes
+embrutes 1
 epigonism
 enfranch
 eyespots
