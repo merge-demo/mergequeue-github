@@ -2261,7 +2261,7 @@ distractibility
 dustbox
 determinative
 decelerates
-dentolabial
+dentolabial 1
 decembrist
 demnition
 decemcostate
