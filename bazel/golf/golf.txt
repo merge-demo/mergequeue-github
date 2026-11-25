@@ -4176,7 +4176,7 @@ globuloid
 gelinotte
 graphemic
 glycoproteid
-gastroarthritis
+gastroarthritis 1
 goodly
 guaranin 1
 gemmule
