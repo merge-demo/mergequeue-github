@@ -4132,7 +4132,7 @@ anthracene
 annuent
 adnerval
 apparatchiks
-abutting
+abutting 1
 apotracheal
 adventuresomely
 alternisepalous
