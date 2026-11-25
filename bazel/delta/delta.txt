@@ -12236,7 +12236,7 @@ detector
 dampers
 deviators
 dysfunctions
-disfurnish
+disfurnish 1
 deport
 disfurnished
 dangerless
