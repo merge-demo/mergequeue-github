@@ -11341,7 +11341,7 @@ dupioni
 discerped
 discontinued
 dowset
-deambulatories
+deambulatories 1
 davens
 deprivate
 discerpible
