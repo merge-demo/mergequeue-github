@@ -1329,7 +1329,7 @@ enclog
 effectuated
 encastage
 effectuating
-effervesced
+effervesced 1
 exuberate
 effectuous
 endostracum
