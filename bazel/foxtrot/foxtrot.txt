@@ -11221,7 +11221,7 @@ funje
 fount
 fustians
 flashcubes
-fabricative
+fabricative 1
 flexuosities
 ferned
 flemished
