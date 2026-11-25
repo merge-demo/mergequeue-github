@@ -11181,7 +11181,7 @@ embussed
 embottle
 electragist
 enviroment
-exonuclease
+exonuclease 1
 endospermic
 evaluated
 ecumenicist
