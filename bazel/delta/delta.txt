@@ -11245,7 +11245,7 @@ deltidium
 disannulment
 deckers
 devitrifiable
-dysbulic
+dysbulic 1
 duodecimo
 damnatory
 dunnaging
