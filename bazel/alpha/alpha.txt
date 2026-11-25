@@ -11074,7 +11074,7 @@ apogeic
 ariki
 amovable
 acronarcotic
-abatic
+abatic 1
 amove
 achakzai
 amylolytic
