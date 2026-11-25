@@ -7301,7 +7301,7 @@ exoascaceae
 ejicient
 enclitics
 exlex
-elechi
+elechi 1
 engird
 excheat
 encharnel
