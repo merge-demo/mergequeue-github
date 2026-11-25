@@ -3936,7 +3936,7 @@ geomorphy
 gnoff
 gladatorial
 graphicly
-gigatons
+gigatons 1
 gastroschisis
 genetical
 geoduck

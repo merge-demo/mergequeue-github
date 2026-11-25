@@ -9615,7 +9615,7 @@ acroamatics 1
 autoinoculation
 assument
 amygdaliform
-abominates
+abominates 1
 arachnoid
 anaglyptography
 atonalist

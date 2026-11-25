@@ -649,7 +649,7 @@ damnifies
 damningly
 disposals 1
 damnonians
-doomfully
+doomfully 1
 deflowers
 dioscorea
 demiatheist
