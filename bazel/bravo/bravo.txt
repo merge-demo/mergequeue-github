@@ -17956,7 +17956,7 @@ boloroot
 bushlike
 beclamors
 byte
-bookbinding
+bookbinding 1
 byssinosis
 bedot
 bemoult
