@@ -2549,7 +2549,7 @@ echoist
 electromagnetism
 euomphalus
 elaborations
-euonymous
+euonymous 1
 endosmose
 egremoigne
 encomiologic
