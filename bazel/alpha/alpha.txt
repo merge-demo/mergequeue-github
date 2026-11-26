@@ -9783,7 +9783,7 @@ anamesite
 ampelopsin
 amalgamationist
 amalgamative
-amalgamatize
+amalgamatize 1
 amicabilities
 amperage
 amalgamization
