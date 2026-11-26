@@ -2374,7 +2374,7 @@ expostulate
 electroplates
 ecumenical
 emulsifying
-egba
+egba 1
 episteme
 electrocolloidal
 edulcoration
