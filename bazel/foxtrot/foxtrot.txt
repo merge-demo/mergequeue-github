@@ -5177,7 +5177,7 @@ favour
 farsakh
 flatulency
 flatfeet
-flatulencies
+flatulencies 1
 fictions
 flameflower
 feeding
