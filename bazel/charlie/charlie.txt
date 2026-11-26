@@ -1288,7 +1288,7 @@ calepin
 calesero
 cteniform
 cupressinoxylon
-conviciate
+conviciate 1
 calf
 calfish
 chromophotograph
