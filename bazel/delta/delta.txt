@@ -8940,7 +8940,7 @@ dumpishness 1
 deboshment
 damascene
 deceivable
-deathblows
+deathblows 1
 dichotically
 disklike
 dirigible
