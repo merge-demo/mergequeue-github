@@ -218,7 +218,7 @@ earthwall
 entte
 exoticalness
 edaphodont
-empetrous
+empetrous 1
 eluvium
 echogram
 europeanization
