@@ -6031,7 +6031,7 @@ gingerly
 goodwilly
 geranium
 gamier
-gelatinously
+gelatinously 1
 griffinesque
 gulllike
 greking
