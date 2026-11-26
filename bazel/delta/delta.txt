@@ -2140,7 +2140,7 @@ daedalus 1
 decently
 decanonize
 dynamitish
-decanting
+decanting 1
 digitized
 demonianism
 detectors
