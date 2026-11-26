@@ -6970,7 +6970,7 @@ faintling
 faineance
 fluoboric
 flay 1
-festucous
+festucous 1
 fetishization
 fissicostate
 formylation
