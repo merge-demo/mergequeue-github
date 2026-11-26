@@ -4889,7 +4889,7 @@ gladier 1
 guaranteeing
 gleam
 glozes
-gyrotheca
+gyrotheca 1
 gimme
 grandstanding
 gladiola
