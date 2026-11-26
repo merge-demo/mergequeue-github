@@ -985,7 +985,7 @@ emasculating
 enthymematic
 ensaffron
 ensealing
-endomitotic
+endomitotic 1
 excrementary
 edaphology
 etymological
