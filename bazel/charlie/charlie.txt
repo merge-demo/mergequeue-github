@@ -18937,7 +18937,7 @@ carpuspi
 coupelet
 cochal
 conjugate
-cryptoclimatology
+cryptoclimatology 1
 coadaptation
 collarless
 collate
