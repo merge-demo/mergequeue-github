@@ -8447,7 +8447,7 @@ fescues
 formamidine 1
 fasels
 fluorinating
-freethinking
+freethinking 1
 fulminous
 fuliginousness
 francomania
