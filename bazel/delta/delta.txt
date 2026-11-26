@@ -3687,7 +3687,7 @@ degraduate
 digitinervate
 degravate
 demipike
-degreaser
+degreaser 1
 dacryohemorrhea
 degreases
 daffadowndilly
