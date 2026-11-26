@@ -11115,7 +11115,7 @@ ascots
 analects
 achromatized
 arca
-amperian
+amperian 1
 amphistomum
 attenuation
 allotypically
