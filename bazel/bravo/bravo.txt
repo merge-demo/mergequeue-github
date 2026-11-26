@@ -7702,7 +7702,7 @@ bhaktimarga
 boomy
 besin
 behavioral
-bhangi
+bhangi 1
 bhara
 bharal
 basaltiform
