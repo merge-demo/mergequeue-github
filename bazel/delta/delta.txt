@@ -11490,7 +11490,7 @@ discolored 1
 dar
 doest
 defalcations
-deads
+deads 1
 discolorment
 discolouring
 discolourization
