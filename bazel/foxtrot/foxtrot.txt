@@ -7615,7 +7615,7 @@ fees
 funipendulous
 fescenninity
 ferganite
-forefeelingly
+forefeelingly 1
 frogging 1
 foreffelt
 folioed
