@@ -6873,7 +6873,7 @@ ermine
 exults
 epidermoidal
 educability
-entomologist
+entomologist 1
 entomologize
 entrap
 entomologized
