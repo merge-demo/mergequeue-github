@@ -2795,7 +2795,7 @@ acrolein
 antianthropocentric
 antireactionary
 acroleins
-acrolithan
+acrolithan 1
 acheirous
 apachette
 awork
