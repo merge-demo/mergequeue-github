@@ -1960,7 +1960,7 @@ francia
 fainaiguing 1
 forbite
 formalistically
-forecaster
+forecaster 1
 fothergilla 1
 fancy
 feebless
