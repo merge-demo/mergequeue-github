@@ -11932,7 +11932,7 @@ excess
 epithelia
 equestrienne
 ericineous
-excessively
+excessively 1
 ecole
 espousals
 endamebas

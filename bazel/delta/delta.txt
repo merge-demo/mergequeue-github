@@ -6892,7 +6892,7 @@ dahoons
 dealbation
 desolateness
 deadheading
-desolates
+desolates 1
 desolating
 doffers
 drabber
