@@ -17609,7 +17609,7 @@ coccochromatic
 coccogone
 coccogoneae
 concyclically
-coccoidal
+coccoidal 1
 coccolite
 counterresolution
 calabashes
