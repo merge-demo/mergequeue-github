@@ -1711,7 +1711,7 @@ enamel
 electrolyses
 earpieces
 echolocate
-endogenicity
+endogenicity 1
 ejaculating
 enterosyphilis
 embolon
