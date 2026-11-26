@@ -9772,7 +9772,7 @@ gastriloquial
 gelatinous
 gregarine
 gonochorismus
-giantess
+giantess 1
 geic
 gean 1
 gelidities
