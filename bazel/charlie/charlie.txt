@@ -19555,7 +19555,7 @@ columbid
 columbidae
 cobblestones
 cankerous
-columbiferous
+columbiferous 1
 costula
 chronanagram
 columbiformes
