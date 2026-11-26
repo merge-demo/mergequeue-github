@@ -7474,7 +7474,7 @@ grapplement
 gomerals
 gasconaded
 gists
-geodesy
+geodesy 1
 gades
 gonorrhoea
 groundwater
