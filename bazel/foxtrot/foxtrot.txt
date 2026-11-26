@@ -8654,7 +8654,7 @@ frictionproof
 faintest
 footing
 forspoke
-fellatory
+fellatory 1
 flaunt
 flawed
 fillebeg
