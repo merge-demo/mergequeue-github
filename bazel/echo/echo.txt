@@ -277,7 +277,7 @@ expiries
 easterling
 exhumers
 epigoneion
-enqueue
+enqueue 1
 enantioblastic
 endognath
 ectocuniform
