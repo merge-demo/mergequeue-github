@@ -8725,7 +8725,7 @@ equitative
 electrican
 experimentee
 experimentator
-equitemporaneous
+equitemporaneous 1
 eluted
 euphemisms
 ethysulphuric
