@@ -13258,7 +13258,7 @@ crass
 cyclohexanone
 cyclohexyl
 cycloheximide
-chetverik
+chetverik 1
 communicants
 cataloguer
 chemiatry
