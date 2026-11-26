@@ -17685,7 +17685,7 @@ colonisation
 christianization
 connecting
 cockades
-canorously
+canorously 1
 camelina
 curviform
 cyatheaceous
