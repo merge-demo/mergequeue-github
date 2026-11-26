@@ -5072,7 +5072,7 @@ desensitizers
 dendraspis
 doomwatcher
 daler
-disilicide
+disilicide 1
 dendraxon
 decolorizer
 delightsome
