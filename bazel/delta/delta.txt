@@ -18667,7 +18667,7 @@ danaide 1
 draffiest
 dwalm
 dwarfer
-duckboat
+duckboat 1
 dwarfishness
 documentarily
 dwarfisms
