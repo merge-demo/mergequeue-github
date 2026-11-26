@@ -21351,7 +21351,7 @@ asynchronisms
 antichurchian
 asyndetic
 androphore
-amyloses
+amyloses 1
 analectic
 amphoras
 azobacter

@@ -5524,7 +5524,7 @@ bouvier
 broadloom
 bejant
 blintz
-bejel
+bejel 1
 brawly
 bilineated
 babist 1
