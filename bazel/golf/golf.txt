@@ -6776,7 +6776,7 @@ garvanzo
 ganocephala
 gonionia
 gnosticize
-genericness
+genericness 1
 gamelang
 ganam
 gamgee
