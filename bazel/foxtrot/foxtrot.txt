@@ -11485,7 +11485,7 @@ figural
 finnmarks
 furthest
 flittering
-firmity
+firmity 1
 fiercened
 furtively
 furud
