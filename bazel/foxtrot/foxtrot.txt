@@ -6564,7 +6564,7 @@ feaked
 fluxile
 faunistical
 fluxionist
-fluxive
+fluxive 1
 fouett
 footcloth 1
 fetiales
