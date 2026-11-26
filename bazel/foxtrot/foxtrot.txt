@@ -5290,7 +5290,7 @@ flawing
 flabbergasted
 footloose
 flawlessness
-fangy
+fangy 1
 foamed
 floppily
 frangulinic

@@ -11954,7 +11954,7 @@ chorines
 collunarium
 cachina
 chorioallantoic
-chorioallantoid
+chorioallantoid 1
 chorioallantois
 centrifugation
 cornbread
