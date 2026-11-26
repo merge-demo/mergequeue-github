@@ -3704,7 +3704,7 @@ goalmouth
 gyrencephalic
 ghostier
 galah
-geodetically
+geodetically 1
 glumelike
 ghostish
 gelatigenous
