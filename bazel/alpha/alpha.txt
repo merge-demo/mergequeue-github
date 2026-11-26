@@ -8518,7 +8518,7 @@ antiphonetic
 alkylidene
 afterburners
 autocoids
-astronautics
+astronautics 1
 actinotrocha
 atabal
 aborts
