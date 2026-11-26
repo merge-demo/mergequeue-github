@@ -20277,7 +20277,7 @@ arrogates 1
 amphiboly
 attitudinizing
 acutangular
-adpromission
+adpromission 1
 aribin
 arrogation
 adenyls
