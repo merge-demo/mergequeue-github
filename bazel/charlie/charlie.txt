@@ -15934,7 +15934,7 @@ conics
 coadministration
 coryphylly
 cobelligerent
-cold
+cold 1
 cleptomaniac
 clerestoried
 cliched
