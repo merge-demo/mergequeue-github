@@ -1488,7 +1488,7 @@ bacteremia
 borstal
 bistable
 booked
-bedsick
+bedsick 1
 balladic
 balladised
 balladism
