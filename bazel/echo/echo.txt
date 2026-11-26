@@ -4027,7 +4027,7 @@ eyeblack
 endometritis
 expresser
 elucidations
-emphysema
+emphysema 1
 endobronchitis
 emphyteutic
 emolumentary
