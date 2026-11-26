@@ -3256,7 +3256,7 @@ capitasti
 capitated
 capitatim
 cputime
-capitation
+capitation 1
 casimere
 capitations
 cyclotomy

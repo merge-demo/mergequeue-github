@@ -2146,7 +2146,7 @@ embryologists
 emcees
 engarde
 egged
-elated
+elated 1
 etherealise
 epitria
 exoneration
