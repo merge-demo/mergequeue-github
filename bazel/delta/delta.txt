@@ -7391,7 +7391,7 @@ detonation
 disowned
 detonations
 dusking
-demean
+demean 1
 detonative
 detonize
 detour
