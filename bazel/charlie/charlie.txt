@@ -22494,7 +22494,7 @@ collingly
 conjugales
 conjugality 1
 cv
-conjugatae
+conjugatae 1
 cyprinine
 conduplicated
 conjugationally
