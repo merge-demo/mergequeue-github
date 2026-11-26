@@ -2150,7 +2150,7 @@ ganglands
 guillermo
 gazette
 ginnet
-gumshoing
+gumshoing 1
 goslet
 gymnolaematous
 giunta
