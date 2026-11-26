@@ -8744,7 +8744,7 @@ diatomeae
 diatomicity
 duetted
 downright 1
-dinting
+dinting 1
 defocusses
 deescalations
 diatomist
