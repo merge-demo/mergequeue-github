@@ -7237,7 +7237,7 @@ bathochromatic
 barbarity
 ballplayers
 bimanual
-bipartible
+bipartible 1
 brankiest
 bestsellerdom
 bacchii
