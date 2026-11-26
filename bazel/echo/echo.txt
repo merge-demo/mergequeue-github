@@ -11106,7 +11106,7 @@ espies
 esquiredom
 encage
 entune
-emulated
+emulated 1
 emblemish
 eutaenia
 etheostomoid
