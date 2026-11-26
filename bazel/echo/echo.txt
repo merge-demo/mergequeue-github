@@ -4780,7 +4780,7 @@ entomophytous
 establishments
 exploratory
 extracardial
-encloister
+encloister 1
 extend
 endosporously
 emeried
