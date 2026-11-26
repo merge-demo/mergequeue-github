@@ -8666,7 +8666,7 @@ gladys
 gerip
 grapy
 goopy
-geyser
+geyser 1
 glossless
 gateado
 gritty
