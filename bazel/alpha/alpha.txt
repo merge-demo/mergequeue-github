@@ -222,7 +222,7 @@ abolishments
 acridyl
 ambystomidae
 avidous
-apotactite
+apotactite 1
 alantolic
 apteran
 acology
