@@ -9956,7 +9956,7 @@ frantic
 frigiddaria
 favor
 frigidly 1
-foundation
+foundation 1
 forthfigured
 facias
 fragment
