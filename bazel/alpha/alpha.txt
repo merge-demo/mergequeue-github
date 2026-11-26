@@ -4326,7 +4326,7 @@ acetmethylanilide
 adrowse
 arecaine
 abridgments
-atabrine
+atabrine 1
 amortizing
 anterevolutionary
 acarida
