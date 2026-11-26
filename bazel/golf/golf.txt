@@ -9021,7 +9021,7 @@ gritstone
 grasswidow
 ghent
 gneissose
-geog
+geog 1
 gobletful
 gnathophorous
 gravenstein
