@@ -12018,7 +12018,7 @@ amphithalmi
 amara
 antigravitation
 apostrophize
-anaretical
+anaretical 1
 arc
 arboret
 asymtotes
