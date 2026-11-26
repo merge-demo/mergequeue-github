@@ -12177,7 +12177,7 @@ hukrforaw
 huksjz
 hukslhl
 huksubcwxa
-huktf
+huktf 1
 hukthz
 huktzvcg
 huku
