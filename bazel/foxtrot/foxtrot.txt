@@ -5242,7 +5242,7 @@ forecastingly
 farley
 fidfad
 factum
-fortemente
+fortemente 1
 fratcher
 flavoriness
 falangist
