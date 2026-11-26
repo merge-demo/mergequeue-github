@@ -955,7 +955,7 @@ dumpers
 deaned 1
 domable
 dueful
-dadaistically
+dadaistically 1
 drolushness
 detonational
 departed
