@@ -10051,7 +10051,7 @@ fablemonger
 fait
 flabbiest
 feloniously
-familistical
+familistical 1
 fascinated
 figure
 faradonervous
