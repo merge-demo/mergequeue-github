@@ -5367,7 +5367,7 @@ glees
 gormands
 ganoses
 gipsyism
-geotechnics
+geotechnics 1
 glycosidically
 gitter
 gelandejump
