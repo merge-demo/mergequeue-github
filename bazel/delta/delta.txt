@@ -1247,7 +1247,7 @@ denizate
 disserve
 datelining
 datemark
-disenter
+disenter 1
 dentalise
 drink
 durational
