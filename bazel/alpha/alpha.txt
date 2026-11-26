@@ -23012,7 +23012,7 @@ antacrid
 atropia
 armenian
 atropidae
-altigraph
+altigraph 1
 atropine
 atropisms
 atropos
