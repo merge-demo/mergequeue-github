@@ -14468,7 +14468,7 @@ drabbet
 dawdler
 daemones
 disproof
-divertisement
+divertisement 1
 dextrogyrous
 divertissements
 decurrency
