@@ -10784,7 +10784,7 @@ gandered
 gignitive
 gamesomely
 gaincall
-guttated
+guttated 1
 gorki
 gazelles
 gawky
