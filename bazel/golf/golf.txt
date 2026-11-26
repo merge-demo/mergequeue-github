@@ -2466,7 +2466,7 @@ gromwells
 garbure
 gemote
 genouillere 1
-glassing
+glassing 1
 gourinae
 gemsbuck
 guardful
