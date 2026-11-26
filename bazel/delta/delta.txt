@@ -3215,7 +3215,7 @@ dashpot
 defeit
 de
 dogdom
-deciding
+deciding 1
 douses
 defeminized
 dipsadine
