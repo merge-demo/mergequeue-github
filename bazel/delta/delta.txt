@@ -11671,7 +11671,7 @@ discost
 digitally
 discotheque
 discothque
-disengirdle
+disengirdle 1
 diagramed
 dehumanised
 discountable
