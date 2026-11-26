@@ -323,7 +323,7 @@ gesneria
 garlic
 gastrea
 gynophore
-goujons
+goujons 1
 galactocele
 gymnopaedic 1
 guised
