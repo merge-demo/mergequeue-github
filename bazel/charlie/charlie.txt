@@ -19906,7 +19906,7 @@ clayish
 comity
 comitia
 comitial
-colortype
+colortype 1
 comitium
 cuscuses
 comitje
