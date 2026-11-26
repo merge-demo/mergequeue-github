@@ -942,7 +942,7 @@ calaba
 crawfoot
 calabari
 cornices
-collared
+collared 1
 colpotomy
 calorically
 canterburies
