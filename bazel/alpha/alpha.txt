@@ -15859,7 +15859,7 @@ antiplurality
 antipodal
 antipode
 antipodic
-autocoprophagous
+autocoprophagous 1
 argufied
 antipodism
 antipoetical
