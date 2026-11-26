@@ -21818,7 +21818,7 @@ asseveratory
 asshead
 assi
 archiblastula
-allotropous
+allotropous 1
 altimetrical
 assidual
 agathodaemon
