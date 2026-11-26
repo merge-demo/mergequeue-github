@@ -3438,7 +3438,7 @@ dumbwaiters
 deliberandum
 deuteroalbumose
 deerlet
-dasyuroid
+dasyuroid 1
 doddy
 draconid
 deflore
