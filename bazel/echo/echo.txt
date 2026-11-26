@@ -13078,7 +13078,7 @@ everlastingness
 embrothelled 1
 embolomeri 1
 echites
-expending
+expending 1
 eleuin
 ejectable
 expenditrix
