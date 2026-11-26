@@ -22028,7 +22028,7 @@ confit
 caesalpiniaceous
 confiteor
 comparts
-confix
+confix 1
 confixing
 carf
 conflagration
