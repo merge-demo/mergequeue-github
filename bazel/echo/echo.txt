@@ -327,7 +327,7 @@ entoperipheral
 enticer
 enameling
 elfship
-euboic
+euboic 1
 eastling
 escapee
 eruditionist
