@@ -19068,7 +19068,7 @@ asinine
 airbrick
 arulo
 archpolitician
-archprelate
+archprelate 1
 archprelatic
 avys 1
 adjudicator
