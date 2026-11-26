@@ -10494,7 +10494,7 @@ amicronucleate
 aubaine
 anomite
 affirmly
-assertorily
+assertorily 1
 amidation
 aliofar
 amide
