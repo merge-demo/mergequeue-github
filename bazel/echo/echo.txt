@@ -4983,7 +4983,7 @@ entoplastron
 endeavourer
 encouragement
 enstamp
-endeavouring
+endeavouring 1
 egression 1
 endeictic
 entropium
