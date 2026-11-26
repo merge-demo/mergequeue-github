@@ -13990,7 +13990,7 @@ emboitement
 epitoniidae
 embargoist
 epicoracohumeral
-exaltate
+exaltate 1
 extralimital
 enfigure
 extrapolatory
