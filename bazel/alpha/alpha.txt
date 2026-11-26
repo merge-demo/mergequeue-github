@@ -22283,7 +22283,7 @@ addressees
 astragalotibial
 athermic
 anisilic
-astragalus
+astragalus 1
 astrain
 antimissile
 apostils
