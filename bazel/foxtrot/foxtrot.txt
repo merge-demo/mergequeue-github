@@ -5487,7 +5487,7 @@ forbids
 formes
 filchers
 feculae
-floey
+floey 1
 fenderless
 fricassee
 friezy
