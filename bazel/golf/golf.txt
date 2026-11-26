@@ -3312,7 +3312,7 @@ geneticists
 germanized
 germanizer
 germule 1
-germanness
+germanness 1
 ganging 1
 gunrunner
 genapped
