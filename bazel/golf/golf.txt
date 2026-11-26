@@ -8267,7 +8267,7 @@ giardiasis
 gre
 garamond
 gaseosity
-gurries
+gurries 1
 gara
 geopolitist 1
 galenite
