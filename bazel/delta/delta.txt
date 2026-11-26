@@ -848,7 +848,7 @@ dreamtime
 dartmoor
 disinterested
 detracter
-despoticly
+despoticly 1
 drizzling
 deteriorator
 duralumin
