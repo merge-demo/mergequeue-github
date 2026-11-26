@@ -8146,7 +8146,7 @@ enclosers
 elutriation
 ebenales
 embowelment
-excursed
+excursed 1
 epithermal
 elleck
 eliminative 1
