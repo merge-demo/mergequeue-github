@@ -2190,7 +2190,7 @@ fratercula
 farmhouse
 fumulus
 fluster
-felts
+felts 1
 forthtell
 fishworker
 feltwort
