@@ -10782,7 +10782,7 @@ gammadia
 grandevous
 gandered
 gignitive
-gamesomely
+gamesomely 1
 gaincall
 guttated
 gorki
