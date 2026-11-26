@@ -11635,7 +11635,7 @@ amanita
 autodialled
 assafoetida
 anabrotic
-anacoluthons
+anacoluthons 1
 alow
 archurger
 anacreontically
