@@ -8152,7 +8152,7 @@ elleck
 eliminative 1
 elmy
 eclectically
-erudit
+erudit 1
 echeveria
 episcopate
 expulsions
