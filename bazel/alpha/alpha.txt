@@ -13014,7 +13014,7 @@ anhalonine
 antioptimistic
 anhalouidine
 antisimoniacal
-annihilable
+annihilable 1
 anharmonic
 abbreviating
 aluniferous
