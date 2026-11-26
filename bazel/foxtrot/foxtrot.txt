@@ -6725,7 +6725,7 @@ fogproof
 frugally
 flaughter
 fellator
-frangulaceae
+frangulaceae 1
 filamentous
 foramens
 fibroadenoma
