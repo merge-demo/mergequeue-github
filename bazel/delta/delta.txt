@@ -2804,7 +2804,7 @@ deftnesses
 duodecahedral
 dint
 drypoints
-dari
+dari 1
 decresc
 desalination
 delphinus
