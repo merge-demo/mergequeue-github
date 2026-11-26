@@ -9060,7 +9060,7 @@ allowableness
 alkalises
 ammonoid
 allowed
-attorned
+attorned 1
 assertiveness
 acquiescing
 assagais
