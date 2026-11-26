@@ -6920,7 +6920,7 @@ gaoling
 geochemically
 goodishness
 grallatores
-gastight
+gastight 1
 groupthink
 gynecomorphous 1
 glyoxyl
