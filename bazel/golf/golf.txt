@@ -6426,7 +6426,7 @@ grotto
 grasswidowhood
 goitrogenic
 galibi
-garbing
+garbing 1
 glossopteris
 golaseccan 1
 glassman
