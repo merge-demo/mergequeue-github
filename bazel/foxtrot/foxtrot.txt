@@ -2064,7 +2064,7 @@ favissae
 fusulas
 fieldfare
 frory
-forensically
+forensically 1
 feldspathoid
 foys
 forehook
