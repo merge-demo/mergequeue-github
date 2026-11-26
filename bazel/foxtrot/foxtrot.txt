@@ -3215,7 +3215,7 @@ fusilade 1
 foredetermination
 flutterers
 flavourer
-flotages
+flotages 1
 fringiness
 foods
 fogman
