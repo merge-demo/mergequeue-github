@@ -11100,7 +11100,7 @@ barrooms
 buoyance
 bodikin
 backbreaking
-bakongo
+bakongo 1
 berengena
 bidpai
 blomstrandine
