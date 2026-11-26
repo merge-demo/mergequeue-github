@@ -668,7 +668,7 @@ apostrophation
 abonnement
 artesian
 aborad
-aboral
+aboral 1
 abord
 aboriginality
 anhydrosis 1
