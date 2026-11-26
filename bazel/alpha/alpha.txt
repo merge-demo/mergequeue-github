@@ -11649,7 +11649,7 @@ altricial
 anacruses
 anaculture
 aortitis
-anacusic
+anacusic 1
 anadems
 autointellectual
 anadenia
