@@ -8081,7 +8081,7 @@ gribane
 gamone
 gaiters
 geomorphogeny
-giblets
+giblets 1
 grimily
 granophyre 1
 gooseliver
