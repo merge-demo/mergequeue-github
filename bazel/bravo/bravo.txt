@@ -8048,7 +8048,7 @@ bagroom
 bicornuate
 bicornute 1
 beshadow
-bicorporate
+bicorporate 1
 banyai
 belleeks
 bacteriohemolysin
