@@ -15492,7 +15492,7 @@ diapery
 disbands
 denunciant 1
 donator
-detergence
+detergence 1
 discodactyl
 deceivableness
 dispell
