@@ -4490,7 +4490,7 @@ gristles
 geophytes
 guacimo
 gypsyhead
-gloeocapsoid
+gloeocapsoid 1
 girlie
 grantiidae
 gypsying
