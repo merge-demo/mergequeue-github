@@ -8773,7 +8773,7 @@ facelifts
 foreplace
 fraud
 fated
-frugality
+frugality 1
 floroon
 fashionative
 fumbler
