@@ -22077,7 +22077,7 @@ arethuse
 aprons
 adhesives
 astereognosis
-arthrosporic
+arthrosporic 1
 aburban
 autotoxis
 asteriidae
