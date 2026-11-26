@@ -8180,7 +8180,7 @@ boone
 battailous
 bluebuck
 biethnic
-binds
+binds 1
 baryes
 baccar
 beswarming
