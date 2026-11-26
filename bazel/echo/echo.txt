@@ -5332,7 +5332,7 @@ ergodicity
 elegiast
 eliminability 1
 endosclerite
-extrahepatic
+extrahepatic 1
 eurybathic
 endoscope
 endoscopes
