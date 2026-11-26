@@ -4166,7 +4166,7 @@ ifsknwrwamtx
 ifslfrm
 ifsmfaaoth
 ifsmjktlryc
-ifsngyay
+ifsngyay 1
 ifsssthjsnrgm 1
 ifstcyvwnvng
 ifsujgsedcp
