@@ -845,7 +845,7 @@ excrementous
 enchair
 exocarps
 elong
-ectodermosis
+ectodermosis 1
 ennuyante
 erastianize
 exfetation
