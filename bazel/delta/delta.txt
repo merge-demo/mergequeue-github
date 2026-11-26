@@ -18501,7 +18501,7 @@ drongos
 duffer
 durances
 downcast
-divorced
+divorced 1
 duraspinalis 1
 diacritic
 duration
