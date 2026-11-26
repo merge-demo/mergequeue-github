@@ -16590,7 +16590,7 @@ denotative
 donjon
 dikdiks
 dactylopius
-derout
+derout 1
 denotations
 dialuric
 decorations
