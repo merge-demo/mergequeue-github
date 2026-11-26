@@ -6283,7 +6283,7 @@ didymolite
 daughters
 dermatopathic
 davoch
-dodecanesian
+dodecanesian 1
 dermatophyte
 disarming
 decarboxylation
