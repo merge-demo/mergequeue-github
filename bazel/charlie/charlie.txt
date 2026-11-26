@@ -526,7 +526,7 @@ cadets
 cataleptoid
 cadetship
 counterstamp
-cadettes
+cadettes 1
 colorists
 coprecipitating
 competence
