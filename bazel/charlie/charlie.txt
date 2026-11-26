@@ -8240,7 +8240,7 @@ candytuft
 charvet
 chalcanth
 chalcedony
-cusconine
+cusconine 1
 calabrasella
 chalcedonyx
 chalchuite
