@@ -17363,7 +17363,7 @@ apostrophes
 atomising
 atik
 aunties
-avoirdupois
+avoirdupois 1
 apologia
 aways
 amplification
