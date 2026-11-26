@@ -2656,7 +2656,7 @@ greatest
 guaraguao
 gospodipoda
 grangerisation
-gloriosity
+gloriosity 1
 gangliectomy
 gourde
 gervas

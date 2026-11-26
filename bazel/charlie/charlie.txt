@@ -23765,7 +23765,7 @@ contraries
 contrarily
 chancellory
 contrariness
-contrarious
+contrarious 1
 contrariously
 cellae
 contrariousness
