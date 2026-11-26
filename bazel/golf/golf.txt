@@ -950,7 +950,7 @@ gopher
 gumwood
 gammoners
 gentlewomen
-gooseries
+gooseries 1
 glycyphyllin
 geocentrical
 gamogamy
