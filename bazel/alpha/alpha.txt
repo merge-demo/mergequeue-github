@@ -892,7 +892,7 @@ amphineurous
 aeronomy
 alachah
 akroterion
-anabong
+anabong 1
 audiometric
 apogeotropic
 archband
