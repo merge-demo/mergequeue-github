@@ -23561,7 +23561,7 @@ acetoxime
 auloi
 anthropotomist
 abastardize
-amphisbaenous
+amphisbaenous 1
 aulophobia
 anthophilian
 archpresbyterate
