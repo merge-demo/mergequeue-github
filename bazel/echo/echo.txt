@@ -8233,7 +8233,7 @@ elydoric
 exaltee
 epistases
 epistasies
-energy
+energy 1
 enhancers
 epibenthos
 enrapturedly
