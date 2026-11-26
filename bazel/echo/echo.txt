@@ -9657,7 +9657,7 @@ espinal
 electrogalvanic
 expressmen
 enters
-epilogize
+epilogize 1
 excitable
 ensearcher
 espingole
