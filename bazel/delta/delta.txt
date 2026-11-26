@@ -8222,7 +8222,7 @@ diadkokinesia
 diadochi
 ductible
 depigment
-deossify
+deossify 1
 dados
 dipus 1
 disspreading
