@@ -5330,7 +5330,7 @@ ernest
 estocs
 ergodicity
 elegiast
-eliminability 1
+eliminability 2
 endosclerite
 extrahepatic
 eurybathic
