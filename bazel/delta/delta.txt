@@ -16370,7 +16370,7 @@ denaturation
 douppioni
 delayage
 downtown
-debar
+debar 1
 downtrampling
 downtreading
 dicynodont
