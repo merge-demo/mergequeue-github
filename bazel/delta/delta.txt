@@ -13873,7 +13873,7 @@ dipter
 distensions
 disgress
 disprison
-disterminate
+disterminate 1
 declaimant
 disrobed
 dustily
