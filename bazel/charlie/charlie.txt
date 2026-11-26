@@ -7041,7 +7041,7 @@ constructure
 centauromachy
 centauromachia
 centenar
-constringent
+constringent 1
 chronicles
 carrefour
 carroches
