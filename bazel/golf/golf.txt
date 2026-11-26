@@ -4965,7 +4965,7 @@ gamines
 gladioluses
 girondist
 groundwards
-glamors 1
+glamors 2
 geldable
 granddada
 granita
