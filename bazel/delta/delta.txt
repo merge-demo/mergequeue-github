@@ -10811,7 +10811,7 @@ deckles
 dhan
 demoralizingly
 directly
-dijudicating
+dijudicating 1
 directorate
 deviscerate
 dispartment
