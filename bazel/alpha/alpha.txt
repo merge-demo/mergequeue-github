@@ -8623,7 +8623,7 @@ afear
 abscising
 admirance
 aerodynamic
-absentment
+absentment 1
 allegoriser
 anotto
 aeolomelodicon
