@@ -11992,7 +11992,7 @@ ententes
 emergence
 excitometabolic
 embryonally
-excellently
+excellently 1
 excitons
 embosses
 excitosecretory
