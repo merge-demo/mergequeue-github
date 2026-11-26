@@ -1012,7 +1012,7 @@ fluoborid
 feeblest
 farinas
 foglietto
-fascicles
+fascicles 1
 filmgoing
 flexuose
 flatlong
