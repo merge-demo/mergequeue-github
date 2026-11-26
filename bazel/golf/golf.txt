@@ -4548,7 +4548,7 @@ gingering
 gyrate 1
 garigue
 gyrated
-gosain
+gosain 1
 grandfatherish
 germinable
 gummed
