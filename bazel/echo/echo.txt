@@ -4266,7 +4266,7 @@ expolish
 expendible
 expressways
 equidiagonal
-epityphlon
+epityphlon 1
 escutcheons
 experiment
 endometrium
