@@ -8025,7 +8025,7 @@ chaconnes
 caudatolenticular
 countermovement
 cytozoa
-codirectional
+codirectional 1
 chacte
 chad
 chadarim
