@@ -9986,7 +9986,7 @@ anciency
 analogues
 antimerging
 autoregressive
-ambergris
+ambergris 1
 agrafe
 amberite
 aduncous
