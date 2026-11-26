@@ -12288,7 +12288,7 @@ extradites
 ellagitannin
 epibolic
 exsequatur
-exempted
+exempted 1
 exemption
 essenhout
 entremess
