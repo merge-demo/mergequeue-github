@@ -3912,7 +3912,7 @@ dejeuner
 dekadrachm
 dekagramme
 doggerelize
-discommunity
+discommunity 1
 decumbiture
 designating
 discomedusan
