@@ -1857,7 +1857,7 @@ bandied
 bilinear
 bandikai
 batrachoplasty
-biparty
+biparty 1
 bimetalism
 bandiness
 bascunan 1
