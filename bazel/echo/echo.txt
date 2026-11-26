@@ -10085,7 +10085,7 @@ escharine
 echidnidae
 ethenes
 ethenoid
-ethenol
+ethenol 1
 eyecups
 ensorcelize
 eschatocol
