@@ -27995,7 +27995,7 @@ cragwork
 controllership
 craichy
 crayer
-cloisterliness
+cloisterliness 1
 commendator
 crayfishes
 conditory
