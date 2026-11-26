@@ -5077,7 +5077,7 @@ fun
 fuligo
 fundless
 fumettes
-frsikets
+frsikets 1
 flagboat
 flareback
 furnishness
