@@ -7699,7 +7699,7 @@ getter
 gynandrophore 1
 gaspy
 gaw
-gemutlich
+gemutlich 1
 gerontism
 gest
 graduands
