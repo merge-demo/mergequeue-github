@@ -4316,7 +4316,7 @@ fanner
 fiddling
 forficulate 1
 freshest
-fease
+fease 1
 florescence
 forequarters
 fluyt
