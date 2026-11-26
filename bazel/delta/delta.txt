@@ -5970,7 +5970,7 @@ deadeningly
 deprogrammings
 deprograms
 dropforged
-deprome
+deprome 1
 demisphere
 drawling
 disaffectedly
