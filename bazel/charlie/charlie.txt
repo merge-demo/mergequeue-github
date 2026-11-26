@@ -20488,7 +20488,7 @@ compassed
 cotham
 cobwebbiest
 chinchiest
-coasting
+coasting 1
 compassion
 compassionate
 couthiness
