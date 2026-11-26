@@ -5869,7 +5869,7 @@ deprecator
 dysbarism
 datism
 deprecatory
-deoxidised
+deoxidised 1
 desensitization
 deota
 degradingness
