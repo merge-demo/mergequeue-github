@@ -2538,7 +2538,7 @@ fados
 freeboot
 fem
 functionalistic
-foresightful
+foresightful 1
 falerno
 foreconceive
 fairyhood
