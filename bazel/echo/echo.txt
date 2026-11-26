@@ -7805,7 +7805,7 @@ epigastrium
 epigastrocele
 epigee
 escapism
-endaze
+endaze 1
 excyst
 electromagnetize
 extrudable
