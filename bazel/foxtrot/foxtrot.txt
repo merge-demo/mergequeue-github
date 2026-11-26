@@ -2294,7 +2294,7 @@ flotation
 foreface
 fistulizing
 flagelliferous
-fenestrae
+fenestrae 1
 foreword
 fenestrated
 feminizing
