@@ -21101,7 +21101,7 @@ antefurcae
 aortography
 ascones
 asconoid
-abaff
+abaff 1
 air
 ascophore
 alfas
