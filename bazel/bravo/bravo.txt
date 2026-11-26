@@ -1029,7 +1029,7 @@ bunglings
 bailiaries
 bargainwise
 bailieries
-botargos
+botargos 1
 bailiffs
 blennorrhea
 billons
