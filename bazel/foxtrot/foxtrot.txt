@@ -5418,7 +5418,7 @@ foremade
 frisado
 factorial
 fledgiest
-floatless
+floatless 1
 foisonless
 fabian
 feasten
