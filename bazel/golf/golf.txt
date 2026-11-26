@@ -3016,7 +3016,7 @@ geomancy 1
 garnered
 grumbled
 glosser
-gushingness
+gushingness 1
 gauchest
 gaggle
 glorias
