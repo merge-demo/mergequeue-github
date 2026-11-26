@@ -7354,7 +7354,7 @@ detestation
 decomponent
 detestations
 dethronement
-diminute
+diminute 1
 dethronements
 dethrones 1
 discommodes
