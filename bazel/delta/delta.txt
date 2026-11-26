@@ -9135,7 +9135,7 @@ disdiaclasis
 disgracement
 didicoy
 dorymen
-digger
+digger 1
 didie
 didies
 didym
