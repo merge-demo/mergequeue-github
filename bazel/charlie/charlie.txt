@@ -10420,7 +10420,7 @@ chondrotome
 chiffre
 chigetai
 chigga
-chiggers
+chiggers 1
 congession
 chigoes
 chih
