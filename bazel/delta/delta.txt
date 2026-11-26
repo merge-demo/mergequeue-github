@@ -3541,7 +3541,7 @@ desaturate
 desiccated
 dagobas
 desmomyaria
-dufoil
+dufoil 1
 drapery
 drowsiest
 defrauds
