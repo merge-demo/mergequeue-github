@@ -5802,7 +5802,7 @@ concourses
 catechumens
 catechumenship
 codo
-catechutannic
+catechutannic 1
 conquest
 coumarate
 categorematical
