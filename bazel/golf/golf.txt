@@ -19,7 +19,7 @@ genetous 1
 granitize 1
 goter
 gastroadynamic
-gashouse
+gashouse 1
 geotropic 1
 gabbro
 gabelleman
