@@ -5279,7 +5279,7 @@ endopods
 epistolarily
 endoproctous
 elutor
-endopterygota
+endopterygota 1
 errorist
 exudatory
 endoradiosonde
