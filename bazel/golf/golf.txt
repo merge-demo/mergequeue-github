@@ -2263,7 +2263,7 @@ glasswort
 gipons
 glarry
 gospeller 1
-gangrel
+gangrel 1
 grandpaternal
 glamoury
 gigantoblast
