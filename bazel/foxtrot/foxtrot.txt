@@ -10939,7 +10939,7 @@ fulness
 fess
 fulnesses 1
 flanconade
-forgetness
+forgetness 1
 feuded
 furfuran 1
 forewit
