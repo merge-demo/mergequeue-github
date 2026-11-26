@@ -9676,7 +9676,7 @@ glossography
 graphologies
 griphe
 gametange
-gradative
+gradative 1
 glareous
 galapee
 guzzle
