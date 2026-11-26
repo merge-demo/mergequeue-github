@@ -11212,7 +11212,7 @@ funic
 footlers
 faradise
 fistulae
-foreday
+foreday 1
 farsang
 furzed
 funiculars
