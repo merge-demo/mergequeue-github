@@ -2247,7 +2247,7 @@ elysee
 electic
 ethnal
 electioneer
-elaphurine
+elaphurine 1
 elections
 elevatory 1
 exocolitis
