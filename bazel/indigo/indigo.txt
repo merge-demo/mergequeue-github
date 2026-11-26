@@ -10935,7 +10935,7 @@ isgmo
 isgmyqr
 isgpjpneffqabe
 isgsdxyyqukq
-isgswnyzt
+isgswnyzt 1
 isguwyipa
 isgy
 isharkxkss
