@@ -2772,7 +2772,7 @@ gastrotympanites
 gentianella
 gregatim
 gadhelic 1
-gung
+gung 1
 granulitic
 grabbled
 garbs
