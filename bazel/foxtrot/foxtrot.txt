@@ -4155,7 +4155,7 @@ fatling
 fenchyl
 feezed
 fireboy
-flying
+flying 1
 fiendishly
 fraticelli
 firebomb
