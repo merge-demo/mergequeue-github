@@ -20327,7 +20327,7 @@ communital
 coetaneousness
 communitarianism
 community
-communitive
+communitive 1
 corruptless
 communization
 contumeliousness
