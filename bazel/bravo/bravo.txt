@@ -12869,7 +12869,7 @@ bangster
 bkpt
 burk
 basihyoid
-barthian
+barthian 1
 breastwise
 boong
 bourignonist
