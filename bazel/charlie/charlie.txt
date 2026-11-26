@@ -31124,7 +31124,7 @@ cunila
 characterizable 1
 crystalliferous
 chumpy
-counternotice
+counternotice 1
 cunnilinctus
 cunnilinguism
 cavalries
