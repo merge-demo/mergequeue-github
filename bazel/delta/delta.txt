@@ -6458,7 +6458,7 @@ dictatrix
 deodara
 digitization
 dragomanic
-desalinated
+desalinated 1
 diaereses
 deafeningly
 dodecanoic
