@@ -5711,7 +5711,7 @@ beliefless
 badman
 beliers
 blemishing
-belies
+belies 1
 braziery
 believers
 beamful
