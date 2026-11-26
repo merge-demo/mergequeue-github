@@ -16261,7 +16261,7 @@ clinometric
 cantos
 condylura
 canisters
-clinometrical
+clinometrical 1
 calendal
 carvol
 clinopinacoid
