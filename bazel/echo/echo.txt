@@ -6256,7 +6256,7 @@ editorialize
 enforcedly
 egrid
 eardrops
-endamaged
+endamaged 1
 eidology
 enplane
 electromotor
