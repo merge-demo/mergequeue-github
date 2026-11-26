@@ -5188,7 +5188,7 @@ denigrates
 dipolarize
 denigrator
 dietine
-desulphurizing
+desulphurizing 1
 dumbfounded
 denyingly
 denim
