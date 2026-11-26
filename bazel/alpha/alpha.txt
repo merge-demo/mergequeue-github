@@ -14014,7 +14014,7 @@ achronychous
 antebaptismal
 andesyte
 albigenses
-acculturational
+acculturational 1
 adjustation
 affronting
 arrhythmia
