@@ -17443,7 +17443,7 @@ dermatographic
 damascener
 diagrammatician
 dentiroster
-devitrified
+devitrified 1
 drouking
 deprehension
 deforcer
