@@ -9873,7 +9873,7 @@ diosphenol
 dinmont
 doctrinable
 dimber
-doek
+doek 1
 desilicification
 dace
 dimensionally
