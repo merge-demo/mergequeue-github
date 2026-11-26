@@ -24501,7 +24501,7 @@ coparenary
 civilizations
 compartmentation
 coparents
-caroigne
+caroigne 1
 copartiment
 circles
 commandrie
