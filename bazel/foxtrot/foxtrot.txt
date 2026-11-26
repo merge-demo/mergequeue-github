@@ -763,7 +763,7 @@ fezzan
 fibroangioma
 ferv
 frequently 1
-fanciful
+fanciful 1
 fibreboard
 fanciless
 foliicolous
