@@ -16591,7 +16591,7 @@ donjon
 dikdiks
 dactylopius
 derout
-denotations
+denotations 1
 dialuric
 decorations
 deionization
