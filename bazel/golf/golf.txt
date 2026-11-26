@@ -475,7 +475,7 @@ gospelize
 gravitationally
 gemmery 1
 geelhout
-glutoid
+glutoid 1
 galeorhinidae
 grouches
 galere
