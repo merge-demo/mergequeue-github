@@ -11583,7 +11583,7 @@ foretalking
 fthm
 fusionist
 fusions
-freity
+freity 1
 floscular
 fissional
 foregallery
