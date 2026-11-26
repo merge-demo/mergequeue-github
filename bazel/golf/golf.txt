@@ -5227,7 +5227,7 @@ germinant
 glyptologist
 goldarnedest
 glandulousness
-gluttoness
+gluttoness 1
 gaywing
 garnisheed
 gleeks
