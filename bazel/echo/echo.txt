@@ -3328,7 +3328,7 @@ erupt
 enwreath
 emasculates
 endoesophagitis
-emancipated
+emancipated 1
 enshrouds
 ellipsometer
 edison
