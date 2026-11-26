@@ -17885,7 +17885,7 @@ durance
 dejectedly
 donate
 duenas
-duenesses
+duenesses 1
 discandy
 disserted
 diddles
