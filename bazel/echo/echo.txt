@@ -13483,7 +13483,7 @@ enterparlance
 epidural
 episiorrhagia
 extraconstitutional
-exsanguinating
+exsanguinating 1
 exposing
 ethmoidal
 eudaemonic
