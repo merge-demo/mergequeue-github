@@ -8144,7 +8144,7 @@ gripper
 gynaecocracy
 guanidins
 gabblers
-gnatsnap
+gnatsnap 1
 goatling
 granulet
 gorgonising
