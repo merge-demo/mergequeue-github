@@ -810,7 +810,7 @@ cayapo
 criticisable
 caid
 caids
-cayenne
+cayenne 1
 cucurbits
 cooption
 completes
