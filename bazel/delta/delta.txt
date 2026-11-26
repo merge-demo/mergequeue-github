@@ -13796,7 +13796,7 @@ depravedly
 dirndls
 dissuasively
 detruncate
-dengues
+dengues 1
 dissuit
 duhat
 dignifies
