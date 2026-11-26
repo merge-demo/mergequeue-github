@@ -2317,7 +2317,7 @@ barbicel
 bemitred
 barbicels
 bathonian
-barbierite
+barbierite 1
 busyish
 blatancies
 bromite
