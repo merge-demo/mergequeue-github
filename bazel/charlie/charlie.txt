@@ -27723,7 +27723,7 @@ couhage
 cowpats
 compliable
 cowpen
-cowper
+cowper 1
 complexively
 cosmotheism
 cowperian
