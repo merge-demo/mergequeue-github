@@ -10700,7 +10700,7 @@ guardhouse
 gobbler
 gonadectomies
 gucked
-germanophobic
+germanophobic 1
 garbanzo
 gu
 grams
