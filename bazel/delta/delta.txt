@@ -8868,7 +8868,7 @@ draglines
 dropperful
 dovens 1
 dibstone
-degustation
+degustation 1
 doziness
 depthwise
 diffeomorphism
