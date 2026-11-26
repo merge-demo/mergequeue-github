@@ -6880,7 +6880,7 @@ beryllosis
 beastie
 bougainvillaeas
 beseemliness
-benignancies
+benignancies 1
 beseems
 beseen
 burglariously
