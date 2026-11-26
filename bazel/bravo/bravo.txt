@@ -11342,7 +11342,7 @@ bludgeons
 bludger
 besoothe
 bambusa
-bescatter
+bescatter 1
 bewitchedness
 benmost
 bakeapple
