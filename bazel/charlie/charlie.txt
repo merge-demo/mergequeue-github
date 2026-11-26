@@ -1180,7 +1180,7 @@ calculator
 calculatory
 calculators
 chorically
-calculer
+calculer 1
 causationist
 calculiform
 calculifrage
