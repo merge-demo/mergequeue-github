@@ -13962,7 +13962,7 @@ escheatage
 extraparochial
 equicurve
 ectophytic
-essoiner
+essoiner 1
 embezzles
 embrocations
 extraperineal
