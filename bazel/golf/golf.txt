@@ -10869,7 +10869,7 @@ gastrulation
 gils
 gyrophora
 goggan 1
-goaltending
+goaltending 1
 graperoot
 geniculated
 goonies
