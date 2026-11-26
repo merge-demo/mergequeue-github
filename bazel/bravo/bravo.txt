@@ -1810,7 +1810,7 @@ bivial
 beslime
 bullose 1
 bialystoker
-bandaged
+bandaged 1
 bandaging
 berylloid
 bowlin 1
