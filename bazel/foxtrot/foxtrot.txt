@@ -8215,7 +8215,7 @@ frijolito
 faze
 forage
 funicles
-fauvists
+fauvists 1
 fruticulose
 florence
 forfending
