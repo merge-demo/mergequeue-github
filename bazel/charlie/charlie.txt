@@ -18558,7 +18558,7 @@ coiffuring
 coifing
 coeducate 1
 conner
-catheptic
+catheptic 1
 canonists
 coigne
 cader
