@@ -1295,7 +1295,7 @@ dysodyle
 doitrified
 dardanarius
 disturbed
-daturism
+daturism 1
 delusive
 diphycercal
 dauber
