@@ -7253,7 +7253,7 @@ alant
 alantic
 aquabib
 alantolactone
-assimilability
+assimilability 1
 alighten
 alares
 aspiring
