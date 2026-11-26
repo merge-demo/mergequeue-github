@@ -2771,7 +2771,7 @@ gentiana
 gastrotympanites
 gentianella
 gregatim
-gadhelic 1
+gadhelic 2
 gung
 granulitic
 grabbled
