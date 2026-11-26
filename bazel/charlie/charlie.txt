@@ -10925,7 +10925,7 @@ cerement
 chirognomic
 chirognomically
 chuppahs
-chirognomist
+chirognomist 1
 cerebrates
 contd
 cimmaron
