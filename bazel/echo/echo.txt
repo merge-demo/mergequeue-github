@@ -2884,7 +2884,7 @@ elaphomycetaceae
 easygoingness
 encephalalgia
 eleutherozoa
-euhemeristic
+euhemeristic 1
 ensorcel
 endew
 empark
