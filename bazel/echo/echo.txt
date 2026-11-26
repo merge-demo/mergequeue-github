@@ -11444,7 +11444,7 @@ eligibility
 esthacyte
 evese
 entomostraca
-entheate
+entheate 1
 embryotic
 expdt 1
 elided
