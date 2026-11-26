@@ -3026,7 +3026,7 @@ gaulding
 ginglymoidal
 gregarinosis
 gloom
-geogenic
+geogenic 1
 gorily
 gyrally
 grudgekin
