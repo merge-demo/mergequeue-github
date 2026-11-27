@@ -10697,7 +10697,7 @@ deepen
 dipnoans
 danelaw
 doublewords
-dipodic
+dipodic 1
 dipodid
 deleble
 destained
