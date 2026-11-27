@@ -19101,7 +19101,7 @@ archprimate
 acroataxia
 archregent
 archrogue
-archruler
+archruler 1
 apparentness
 antimediaevalism
 arachnophagous
