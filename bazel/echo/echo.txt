@@ -4680,7 +4680,7 @@ encyclopedias
 ekoi
 entanglers
 exuberance
-entablement
+entablement 1
 energico
 euphoniad
 embezzled
