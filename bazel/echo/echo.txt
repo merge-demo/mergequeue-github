@@ -7243,7 +7243,7 @@ effervesce
 embrave
 economese
 ergatomorphism
-evolutionally
+evolutionally 1
 epicurize
 excrescences
 eohippus
