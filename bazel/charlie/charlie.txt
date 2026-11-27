@@ -4310,7 +4310,7 @@ carhops
 contorted
 continuing
 cary
-caryatid
+caryatid 1
 caryatidal
 cigaresque
 caryatids
