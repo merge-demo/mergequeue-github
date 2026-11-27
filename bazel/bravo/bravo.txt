@@ -7091,7 +7091,7 @@ becalmed
 boyos
 bawdiness
 bespell
-bespelled
+bespelled 1
 bespend
 bespew
 biparietal
