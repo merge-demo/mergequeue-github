@@ -9159,7 +9159,7 @@ gusain
 glaceed
 garapata
 geogonic
-gouldian
+gouldian 1
 glauconitization
 gripgrass
 grouchily
