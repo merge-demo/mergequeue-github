@@ -1183,7 +1183,7 @@ chorically
 calculer
 causationist
 calculiform
-calculifrage
+calculifrage 1
 chancefully
 calculist
 chedar
