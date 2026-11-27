@@ -5953,7 +5953,7 @@ goss
 glumosity
 gondang
 gonopodia
-governante
+governante 1
 germlike
 gastrohydrorrhea
 grangerize
