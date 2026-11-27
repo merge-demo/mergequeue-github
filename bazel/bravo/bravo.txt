@@ -6196,7 +6196,7 @@ bengalese
 batavian
 bengola
 bipartient 1
-beni
+beni 1
 buckjumper
 benic
 benight
