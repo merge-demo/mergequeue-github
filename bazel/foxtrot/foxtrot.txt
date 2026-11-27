@@ -10843,7 +10843,7 @@ furoin 1
 fishpool
 forficate
 flaminian
-fortified
+fortified 1
 fumblingly
 fallout
 frisky
