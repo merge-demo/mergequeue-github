@@ -7683,7 +7683,7 @@ engagingly
 ectocrine
 espece
 epicuticle
-extroversion
+extroversion 1
 epicuticular
 entomotomist
 exacta
