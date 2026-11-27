@@ -575,7 +575,7 @@ echis
 enthean
 euglenas
 echitamine
-eccentrical
+eccentrical 1
 ecstatical
 epigynum
 excision
