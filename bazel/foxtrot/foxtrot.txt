@@ -4388,7 +4388,7 @@ fixion
 fishboats
 fonduk
 fishbolts
-flechette
+flechette 1
 funt
 floorshifts
 flagged
