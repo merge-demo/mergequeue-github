@@ -5435,7 +5435,7 @@ ed
 equid 1
 emigrants
 eightsman
-example
+example 1
 elsewhither
 electronvolt
 endowment
