@@ -3419,7 +3419,7 @@ devitrifying
 deflesh
 deflexibility
 dysgenics
-diversely
+diversely 1
 deflocculant
 dragsman
 dimethylhydrazine
