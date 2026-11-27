@@ -1591,7 +1591,7 @@ deadpanned
 deadpans
 depayse
 daikering
-disinfector
+disinfector 1
 deadwork
 deaerated
 dorsum
