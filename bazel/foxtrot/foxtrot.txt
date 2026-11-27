@@ -784,7 +784,7 @@ forecovert
 fanfolds
 fluorines
 financing
-flunker
+flunker 1
 fanfaronading
 folkloric
 footworn
