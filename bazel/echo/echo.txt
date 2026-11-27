@@ -8892,7 +8892,7 @@ earflaps
 ergatomorphic
 ergo
 extrameridian
-ergodic
+ergodic 1
 euphoria
 estaminets
 expectorators
