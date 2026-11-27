@@ -1156,7 +1156,7 @@ calcsinter
 chinnam
 cranioclasis
 calcspars
-cotwal
+cotwal 1
 crunches
 chilopoda
 calculability
