@@ -5928,7 +5928,7 @@ coloplication
 catharist
 catharistic
 choctaws
-crumbcloth
+crumbcloth 1
 chenilles
 calcrete
 coppernosed
