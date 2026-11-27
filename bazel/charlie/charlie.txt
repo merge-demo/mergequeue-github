@@ -15876,7 +15876,7 @@ cleidagra
 calms
 chamal
 cadaverize
-cleidocostal
+cleidocostal 1
 cleidoic
 chiromance
 cherts
