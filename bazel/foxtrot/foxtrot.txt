@@ -223,7 +223,7 @@ fishingly
 flatway
 facular
 fruitworm
-feverroot
+feverroot 1
 fluorotype
 faculous
 firelock
