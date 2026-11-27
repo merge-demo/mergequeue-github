@@ -2341,7 +2341,7 @@ feoffs
 fasciole
 fra
 fiftyfold
-footstalk
+footstalk 1
 formalizing
 fer
 firecoat
