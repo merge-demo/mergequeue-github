@@ -10802,7 +10802,7 @@ fleeten
 feudalising
 fucinita
 freesilverite
-featliness
+featliness 1
 forclose
 fricasseed
 ferntickled
