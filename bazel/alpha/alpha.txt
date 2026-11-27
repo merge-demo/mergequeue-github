@@ -18895,7 +18895,7 @@ aboiteaus
 abridge
 archigastrula
 archigonic
-astalk
+astalk 1
 autotomising
 addoom
 aphelian
