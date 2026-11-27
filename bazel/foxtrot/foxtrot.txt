@@ -11128,7 +11128,7 @@ fetometry
 fishtail
 farle
 footmarks
-furuncular
+furuncular 1
 flaggery
 formylated
 forumize
