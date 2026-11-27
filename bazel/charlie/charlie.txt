@@ -17027,7 +17027,7 @@ coexplosion
 cupmate
 cortisone
 cnidopod
-conoids
+conoids 1
 confoundable
 cardiacs
 capernoity
