@@ -4414,7 +4414,7 @@ almightiness
 alphanumerics
 anconeous
 ambulators
-adulterousness
+adulterousness 1
 afterimages
 angiotonin
 ads
