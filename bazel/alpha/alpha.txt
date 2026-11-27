@@ -10767,7 +10767,7 @@ antighostism
 abandonments
 anteinitial 1
 amities
-amitotic
+amitotic 1
 azotizes
 anormality
 acrolith
