@@ -12928,7 +12928,7 @@ esmayle
 embryologic
 erasmus
 expatiates
-expatiating
+expatiating 1
 electable
 esses
 embracery
