@@ -25503,7 +25503,7 @@ cochlitis
 coromell
 chronoscopv
 coronach
-coronachs
+coronachs 1
 coronadite
 coronado
 coronados
