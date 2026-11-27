@@ -11478,7 +11478,7 @@ formular
 fuzzle
 foothill
 ferrite
-foredescribe
+foredescribe 1
 farms
 facilities
 figural
