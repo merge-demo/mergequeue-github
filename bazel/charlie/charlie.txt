@@ -17894,7 +17894,7 @@ contingentiam
 carneous
 codol
 chants
-codominant
+codominant 1
 crested
 crystallographical
 combes
