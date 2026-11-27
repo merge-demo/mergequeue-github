@@ -6386,7 +6386,7 @@ derodidymus
 derog
 demeanour
 doronicum
-despond
+despond 1
 derogate
 denuclearization
 derogates
