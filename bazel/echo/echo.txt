@@ -9361,7 +9361,7 @@ escalating
 escalations
 enkindle
 expectedly
-earmindedness 1
+earmindedness 2
 escalator
 excommunicable
 ergonomics
