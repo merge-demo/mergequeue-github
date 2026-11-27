@@ -12492,7 +12492,7 @@ bellyflaught
 barcarolle
 biennially
 brakier
-bloomerism
+bloomerism 1
 bonelessly
 bonelet
 brouhahas
