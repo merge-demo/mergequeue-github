@@ -5310,7 +5310,7 @@ endorsable
 entopterygoid
 excerpt
 extravagation
-enrolles
+enrolles 1
 ethylmorphine
 excretolic
 enslaves
