@@ -13927,7 +13927,7 @@ encapsulates
 evincingly
 extranational
 erective
-endomysial
+endomysial 1
 endorhinitis
 extraneous
 extraneousness
