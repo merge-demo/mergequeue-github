@@ -1384,7 +1384,7 @@ gastrostegal
 gravitometer
 garnetter
 glyconeogenetic
-guttular
+guttular 1
 garniec
 gamily
 governs
