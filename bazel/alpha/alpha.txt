@@ -1233,7 +1233,7 @@ acarari
 ardelia
 acarian
 apothece
-acarid
+acarid 1
 accord
 addorsed
 anarthropod
