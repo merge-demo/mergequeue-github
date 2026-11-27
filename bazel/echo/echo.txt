@@ -8361,7 +8361,7 @@ estivated
 exclusory
 endiadem
 epithyme
-extacie
+extacie 1
 eloped
 epityphlitis
 erythrosinophile
