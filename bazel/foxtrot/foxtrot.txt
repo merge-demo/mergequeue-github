@@ -725,7 +725,7 @@ featherlet
 famp
 famuli
 frustrater
-fana
+fana 1
 feoffment
 fluxion
 feministics 1
