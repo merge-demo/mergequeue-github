@@ -13985,7 +13985,7 @@ antapexes
 antapodosis
 abecedaria
 allopolyploid
-ampalaya
+ampalaya 1
 altogether
 astronomien
 actualising
