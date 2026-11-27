@@ -14470,7 +14470,7 @@ anthribidae
 antipharisaic
 antimonate
 arunta
-adjudged
+adjudged 1
 antiburgher
 ail
 alima
