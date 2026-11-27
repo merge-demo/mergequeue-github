@@ -172,7 +172,7 @@ garoted
 glamour
 greyhen
 gorgoneion
-groggily
+groggily 1
 goliathize
 goniometry
 gluteoperineal
