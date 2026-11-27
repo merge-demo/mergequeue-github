@@ -10238,7 +10238,7 @@ dinophilea
 discontinuance
 depute
 dealfishes
-donkeyish
+donkeyish 1
 demulsibility
 dinosauria
 dystomous
