@@ -2175,7 +2175,7 @@ extrovertively 1
 ethoxycaffeine
 entrances
 epizoan
-eructate
+eructate 1
 endocyclic
 evanescently
 elbowy
