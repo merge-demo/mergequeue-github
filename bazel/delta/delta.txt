@@ -16823,7 +16823,7 @@ deuteride
 dishonorary
 drawings
 duplicando
-deliquescent
+deliquescent 1
 dissociable
 disring
 dendrodus
