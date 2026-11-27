@@ -25745,7 +25745,7 @@ citrines
 chatta
 compote
 coronal
-cleruch
+cleruch 1
 corrigibly
 corrigiola
 corrival
