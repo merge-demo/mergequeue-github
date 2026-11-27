@@ -16180,7 +16180,7 @@ counterpenalty
 cavidae
 climograph
 conversazioni
-clinamen
+clinamen 1
 clinamina
 clinandrdria
 clinch
