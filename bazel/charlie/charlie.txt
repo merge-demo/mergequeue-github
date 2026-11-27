@@ -26456,7 +26456,7 @@ crowbars
 calli
 cotqueans
 courbache
-cotransduction
+cotransduction 1
 cotransfuse
 cotranslator
 cotranspire
