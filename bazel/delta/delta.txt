@@ -11405,7 +11405,7 @@ disciplinatory
 datchas
 disciples
 discipling
-disciplining
+disciplining 1
 depopulator
 diphosphothiamine
 discipular
