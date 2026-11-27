@@ -9532,7 +9532,7 @@ bicipitous
 boarfish
 barbacoan
 bys
-bisagre
+bisagre 1
 basidium
 belays
 bisayan
