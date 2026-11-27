@@ -1867,7 +1867,7 @@ anadyomene
 anacoluthia
 athlothete
 acestes
-acceleration
+acceleration 1
 adstrict
 anthropomorphological
 advanced
