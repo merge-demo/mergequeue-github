@@ -15535,7 +15535,7 @@ classable
 coplanarity
 classbook
 classed
-cyclicism
+cyclicism 1
 classers
 classfellow
 classy
