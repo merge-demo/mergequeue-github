@@ -7968,7 +7968,7 @@ dithyrambically
 durenol
 dextrocularity
 daphnes
-dedicature
+dedicature 1
 disincorporation
 drowse
 diagnosticated
