@@ -14502,7 +14502,7 @@ conster
 cissy
 compassionless
 cissies
-cissoidal
+cissoidal 1
 chionis
 chateaubriand
 clefs
