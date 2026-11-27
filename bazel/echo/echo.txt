@@ -1351,7 +1351,7 @@ ervil
 exsect
 embusque
 earthiest
-effendis
+effendis 1
 empty
 efferently
 efferents
