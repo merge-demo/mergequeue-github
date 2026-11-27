@@ -10163,7 +10163,7 @@ embroideress 1
 emeraldine
 etherially
 extravagances
-eyedropper
+eyedropper 1
 exertion
 expressness
 electrothermally
