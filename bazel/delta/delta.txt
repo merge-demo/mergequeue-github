@@ -4892,7 +4892,7 @@ deactivator
 demonolater
 drupose
 dismality
-dissimilation
+dissimilation 1
 dissecting
 discreditableness
 dishmonger 1
