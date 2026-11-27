@@ -5383,7 +5383,7 @@ ectozoans
 embowers
 elotillo
 ensnow
-emarginate
+emarginate 1
 enuresises
 executiveship
 erogeny
