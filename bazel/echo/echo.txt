@@ -12893,7 +12893,7 @@ emusifies
 expansile
 expansionism
 englyn
-esotropic
+esotropic 1
 expansionist
 expansionistic
 enserf
