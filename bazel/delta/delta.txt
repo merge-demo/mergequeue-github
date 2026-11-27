@@ -79,7 +79,7 @@ deltal
 dobbin
 disfavorer
 damning
-direcly
+direcly 1
 deescalating
 dumb
 deploying
