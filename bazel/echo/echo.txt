@@ -4280,7 +4280,7 @@ etherene
 esotrope
 excruciatingly
 earjewel
-eremital
+eremital 1
 encephaloscopy
 emulsions
 equidistantial
