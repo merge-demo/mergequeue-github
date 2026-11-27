@@ -15191,7 +15191,7 @@ doleance
 delectably
 directory
 dolefully
-detainment
+detainment 1
 deeryards
 drawlier
 deathfulness
