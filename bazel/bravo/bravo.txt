@@ -8054,7 +8054,7 @@ belleeks
 bacteriohemolysin
 bicostate
 billows
-bicrenate
+bicrenate 1
 bicrofarad
 bicrural
 broodiness
