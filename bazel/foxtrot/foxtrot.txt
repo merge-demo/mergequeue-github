@@ -2751,7 +2751,7 @@ festellae
 ficary
 festered
 faliscan
-frizer
+frizer 1
 friedelite
 foreparts
 fights
