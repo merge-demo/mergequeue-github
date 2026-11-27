@@ -4462,7 +4462,7 @@ extremists
 econometrically
 encarnalizing
 encarpa 1
-encarpium
+encarpium 1
 encarpus
 endrin
 enworthy
