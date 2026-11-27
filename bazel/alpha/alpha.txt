@@ -12515,7 +12515,7 @@ anemographically
 anemologic
 anticonfederationist
 anemometrically
-attenuated
+attenuated 1
 amanuenses
 anemometrographically
 alfilaria
