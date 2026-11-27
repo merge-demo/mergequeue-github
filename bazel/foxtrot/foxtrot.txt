@@ -4149,7 +4149,7 @@ frogleaf
 fusilading
 foramina
 fulk
-felonry
+felonry 1
 flexed 1
 fatling
 fenchyl
