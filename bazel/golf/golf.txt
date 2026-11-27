@@ -1764,7 +1764,7 @@ gastrophilism
 gorgeously
 gyrofrequencies
 grivation
-glacify
+glacify 1
 groupoids
 gastropneumonic
 governmentish
