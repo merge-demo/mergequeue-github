@@ -1490,7 +1490,7 @@ bistable
 booked
 bedsick
 balladic
-balladised
+balladised 1
 balladism
 braked
 bartree 1
