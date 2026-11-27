@@ -1317,7 +1317,7 @@ flout
 fallowness
 frictionally
 fineleaf
-foramination
+foramination 1
 falser
 fyttes
 famose
