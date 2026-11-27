@@ -851,7 +851,7 @@ fustigated
 failsafe
 farforthly
 flexing
-fellness
+fellness 1
 farenheit
 fantasmal 1
 fundus
