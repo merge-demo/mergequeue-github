@@ -12586,7 +12586,7 @@ epitheliomas
 eatableness
 embezzlement
 exochorion
-enterocolitis
+enterocolitis 1
 eaglestone
 escheat
 earthpeas
