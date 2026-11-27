@@ -1877,7 +1877,7 @@ gossip
 gyrostabilized
 gleir
 graptolithina 1
-graveled
+graveled 1
 gambles
 gazehound
 growlery
