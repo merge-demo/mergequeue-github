@@ -1462,7 +1462,7 @@ dictional
 disinfect
 durain
 dihydrosphingosine
-domical
+domical 1
 deltation
 dietotoxicity 1
 dawtit
