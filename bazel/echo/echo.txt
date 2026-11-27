@@ -3528,7 +3528,7 @@ encarpi
 embodiers
 embodies
 elevens
-essential
+essential 1
 embassage
 ekes
 epepophysial
