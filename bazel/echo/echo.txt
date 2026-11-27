@@ -9114,7 +9114,7 @@ eltrot
 experientialist
 exploding
 erythrosiderite
-exosporous
+exosporous 1
 egoistically
 exacerbescent
 erythrosis
