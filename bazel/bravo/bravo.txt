@@ -4799,7 +4799,7 @@ bruckle
 bandicoots
 bedrugged
 bedrugs
-bemeans
+bemeans 1
 brakesman
 befancy
 bits
