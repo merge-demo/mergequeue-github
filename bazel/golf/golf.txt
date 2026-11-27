@@ -9721,7 +9721,7 @@ gascromh
 gundygut
 gastrogenic 1
 grievant
-goldeneyes
+goldeneyes 1
 goodwills
 gargantuan
 guidonian 1
