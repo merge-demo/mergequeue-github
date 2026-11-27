@@ -2727,7 +2727,7 @@ dappledness
 decurves
 decorable
 deist
-delectable
+delectable 1
 duetto
 decorate
 decorating
