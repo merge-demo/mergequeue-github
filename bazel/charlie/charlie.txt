@@ -4993,7 +4993,7 @@ conceptuality
 crystallizing
 chevrony
 cartulary
-cartularies
+cartularies 1
 carapache
 cabbagelike
 collaring
