@@ -1629,7 +1629,7 @@ gastreas
 glaucosuria
 gyrinid 1
 gaucheness
-glassteel
+glassteel 1
 gravitational
 grimly
 grimines
