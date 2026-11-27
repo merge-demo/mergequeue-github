@@ -9142,7 +9142,7 @@ flopover
 fluing
 fuzee
 fruitarian
-fractionalized
+fractionalized 1
 forjudging
 ferriprussic
 fodient
