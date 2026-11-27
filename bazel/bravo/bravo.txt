@@ -12427,7 +12427,7 @@ banisterine
 bond
 bipinnatifid
 bless
-bondar
+bondar 1
 bockerel
 bastardly
 bonderize

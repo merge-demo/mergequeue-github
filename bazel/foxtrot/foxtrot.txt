@@ -10487,7 +10487,7 @@ fervencies
 floggable
 felsosphaerite
 frostroot
-floe
+floe 1
 freshment
 frillery
 favouringly
