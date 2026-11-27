@@ -13995,7 +13995,7 @@ antievolutional
 austenitized
 aerosiderite
 aryepiglottic
-ablatively
+ablatively 1
 antarctogaea
 amphitropal
 alencon

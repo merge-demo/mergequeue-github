@@ -21887,7 +21887,7 @@ conferred
 conferrence
 cornerbind
 camalig
-conferrers
+conferrers 1
 cohorn
 counterstain
 crotchet
