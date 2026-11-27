@@ -818,7 +818,7 @@ bafflers
 baffling
 bafflingly
 bulbus
-bartletts
+bartletts 1
 bushelbasket
 bonelike
 bedene
