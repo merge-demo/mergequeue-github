@@ -8303,7 +8303,7 @@ dispossess 1
 droob
 dissimile
 disinvigorate 1
-defocus
+defocus 1
 diagredium
 dermatopathia
 diaguitas
