@@ -12450,7 +12450,7 @@ dislocable
 diastematic
 dishrags
 dishtowels
-detrital
+detrital 1
 dishumanize
 deipnodiplomatic
 doffer
