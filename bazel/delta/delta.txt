@@ -2565,7 +2565,7 @@ dematerialize
 discus
 dorsocephalic
 distiller
-declensionally
+declensionally 1
 declensions
 decretist
 declimatize
