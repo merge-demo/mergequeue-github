@@ -18444,7 +18444,7 @@ arbela
 adeline
 aliyas
 antipendium 1
-antitussive
+antitussive 1
 arber
 autolesion
 aviates
