@@ -645,7 +645,7 @@ elocute
 eclegma
 ehrman
 etatism
-excretitious
+excretitious 1
 establishment
 equisufficiency
 esophagocele
