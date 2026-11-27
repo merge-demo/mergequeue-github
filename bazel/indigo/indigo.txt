@@ -1240,7 +1240,7 @@ iaxpy
 iaxqoe
 iaxqur
 iaxrad
-iaxriu
+iaxriu 1
 iaxrxyloryqp
 iaxsr
 iaxstin
