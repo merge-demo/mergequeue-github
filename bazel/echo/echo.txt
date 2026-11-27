@@ -2872,7 +2872,7 @@ estuarian
 elytriferous
 enterotoxin
 ectosteally
-ecbasis
+ecbasis 1
 expt
 endomorphic
 elder
