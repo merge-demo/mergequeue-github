@@ -16628,7 +16628,7 @@ becrampon
 bowmaker
 blackarm
 battleship
-beanpole
+beanpole 1
 bejewelled
 brawls
 butte
