@@ -15747,7 +15747,7 @@ dicyanine
 dogshore 1
 dorm
 donec
-downlie
+downlie 1
 doggoneder
 dormancies
 dizygotic
