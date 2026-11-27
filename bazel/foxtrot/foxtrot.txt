@@ -8289,7 +8289,7 @@ forehoof
 frontlets
 forgiving
 flintify 1
-forgoer
+forgoer 1
 fidges
 forgoers
 fetas
