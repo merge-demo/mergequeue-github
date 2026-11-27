@@ -9658,7 +9658,7 @@ electrogalvanic
 expressmen
 enters
 epilogize
-excitable
+excitable 1
 ensearcher
 espingole
 execrative
