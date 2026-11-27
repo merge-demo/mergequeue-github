@@ -3852,7 +3852,7 @@ dolose
 discreate
 dimwit
 defoams
-diviningly
+diviningly 1
 deciduous
 dicellate
 deionizations
