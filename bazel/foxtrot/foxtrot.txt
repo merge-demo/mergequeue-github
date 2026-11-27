@@ -1324,7 +1324,7 @@ famose
 flyable
 factionally
 frantically
-fluxible
+fluxible 1
 fatherly
 fartherer
 feest
