@@ -5851,7 +5851,7 @@ dimagnesic
 depraver
 dragonfly
 dewaxing
-deadtongue
+deadtongue 1
 dags
 dentaries
 dermatocoptic
