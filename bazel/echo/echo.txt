@@ -2471,7 +2471,7 @@ elutriate
 elean
 emerges
 eches
-ethanol
+ethanol 1
 electrogalvanization
 equivalence
 electrogenic
