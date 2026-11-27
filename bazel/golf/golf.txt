@@ -1246,7 +1246,7 @@ groff
 gonorrhea
 gravures
 grogged
-galactostasis
+galactostasis 1
 gooding
 gonglike
 gooroo
