@@ -4582,7 +4582,7 @@ contrastimulation
 carnivals
 carnivoral
 carnivore
-carnivorism
+carnivorism 1
 cordialness
 carnivorously
 comart
