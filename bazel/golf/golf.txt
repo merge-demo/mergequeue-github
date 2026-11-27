@@ -5985,7 +5985,7 @@ gigantomachy
 granuloadipose
 giftedness
 gaur
-glutose
+glutose 1
 gainspeaking
 gluttonish
 grainsman
