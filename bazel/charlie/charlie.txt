@@ -4219,7 +4219,7 @@ chiron
 coloboma
 carabideous
 cardsharp
-chlorites
+chlorites 1
 cavaliered
 chinatown
 care
