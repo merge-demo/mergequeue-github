@@ -18903,7 +18903,7 @@ aldohexose
 ausu
 aposafranine
 archilute
-archimagus
+archimagus 1
 augustan
 adenomas
 archimedean
