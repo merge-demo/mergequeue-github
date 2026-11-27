@@ -10072,7 +10072,7 @@ gorgerin
 gigabits
 gossampine
 guerrillas
-guesdism
+guesdism 1
 groomish
 gigman
 galivanting
