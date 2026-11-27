@@ -7517,7 +7517,7 @@ graypate
 gemstones
 giggling
 gloomfully
-glossopharyngeal
+glossopharyngeal 1
 glitch
 guessable
 glottalized
