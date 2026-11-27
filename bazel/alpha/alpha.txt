@@ -14091,7 +14091,7 @@ antehypophysis
 antheming
 antidynamic
 amentia
-antejudiciary
+antejudiciary 1
 antelocation
 aulostomidae
 apriorist
