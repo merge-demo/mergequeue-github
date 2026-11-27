@@ -8336,7 +8336,7 @@ endured 1
 enchannel
 exercised
 emulating
-eagling
+eagling 1
 epitheme
 evangelise
 enscrolls
