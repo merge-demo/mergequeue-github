@@ -1142,7 +1142,7 @@ enation
 eponymism
 equivalved
 eupatrid
-easefulness
+easefulness 1
 editorship
 editorships
 elasticness
