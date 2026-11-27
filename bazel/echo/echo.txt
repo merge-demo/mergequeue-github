@@ -9515,7 +9515,7 @@ escrowing
 esculents
 esculin
 expansively
-essences
+essences 1
 evenhead
 eugenesis
 epimorphism
