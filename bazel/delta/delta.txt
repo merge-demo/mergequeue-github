@@ -8702,7 +8702,7 @@ dismayed
 diphtherotoxin
 dolesomely
 dehumanized
-diastoles
+diastoles 1
 diastomatic
 davyne
 diastral
