@@ -9462,7 +9462,7 @@ bores
 barbarian
 birn 1
 byrnie
-biotope
+biotope 1
 battlefront
 birodo
 bisulphide
