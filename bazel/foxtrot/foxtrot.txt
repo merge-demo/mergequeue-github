@@ -3036,7 +3036,7 @@ fioriture
 fairyology
 firemanship
 feoffers
-footwears
+footwears 1
 frostflower
 frenchen 1
 fissioned
