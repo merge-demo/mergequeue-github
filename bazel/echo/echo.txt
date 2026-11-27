@@ -8779,7 +8779,7 @@ enround
 electrodepositable
 elegist 1
 erections
-eviller
+eviller 1
 enterobiliary
 etcetera
 exemplificative
