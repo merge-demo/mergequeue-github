@@ -859,7 +859,7 @@ cairned
 cladoselachidae
 cumbrously
 crackrope
-coamiable
+coamiable 1
 contrivancy
 couverte
 cairngorm
