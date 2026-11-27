@@ -343,7 +343,7 @@ alcoate
 auletris
 apodia
 acetonemia
-aftwards
+aftwards 1
 abends
 anacephalaeosis
 aberdeen
