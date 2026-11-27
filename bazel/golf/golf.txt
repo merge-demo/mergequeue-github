@@ -5605,7 +5605,7 @@ giantesque
 grithbreach
 grime
 girdlecake
-grossular
+grossular 1
 grabman
 groundwall
 goldseed
