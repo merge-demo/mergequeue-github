@@ -3962,7 +3962,7 @@ escapologist
 emirate
 euxanthin
 euskara
-extremistic
+extremistic 1
 encephalic 1
 emotioned
 emotionize
