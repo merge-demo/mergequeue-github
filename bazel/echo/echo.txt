@@ -8551,7 +8551,7 @@ ethicism
 emblement
 ethylenoid
 enorganic
-easts
+easts 1
 exclusively
 epichoristic
 equative
