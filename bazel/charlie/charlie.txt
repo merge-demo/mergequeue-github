@@ -11068,7 +11068,7 @@ coalize
 chitimacha
 chitimachan
 checksums
-coappears
+coappears 1
 chitinoid
 chitinous 1
 chitins
