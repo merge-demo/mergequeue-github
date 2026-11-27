@@ -10075,7 +10075,7 @@ frisks
 frondiform
 feudatary
 firster
-foredecree
+foredecree 1
 formalise
 fearfulness
 flightshot
