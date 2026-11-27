@@ -8364,7 +8364,7 @@ graminaceae
 galvanoglyphy
 glucofrangulin
 gedecktwork
-geast
+geast 1
 gulfing
 geoblast
 gaize 1
