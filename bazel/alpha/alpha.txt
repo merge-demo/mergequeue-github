@@ -14509,7 +14509,7 @@ allylate
 anthropographic
 ascenseur
 anthropol
-anthropolatry
+anthropolatry 1
 antigraphy
 askesis
 anthropolatric
