@@ -14470,7 +14470,7 @@ daemones
 disproof
 divertisement
 dextrogyrous
-divertissements
+divertissements 1
 decurrency
 deferment
 divested
