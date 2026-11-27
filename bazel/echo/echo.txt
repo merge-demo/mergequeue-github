@@ -13822,7 +13822,7 @@ extracystic
 equiarticulate
 entomolite
 extracivic
-energeticist
+energeticist 1
 engenderer
 enscale
 euchroite
