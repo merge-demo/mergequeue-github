@@ -1076,7 +1076,7 @@ esculic
 envergure
 exostotic
 edible
-expeditive
+expeditive 1
 embase
 endothelial
 embeddable
