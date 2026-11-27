@@ -15785,7 +15785,7 @@ antipestilently
 ablauts
 agonistical
 anvilled
-aviolite
+aviolite 1
 amidic
 antiphylloxeric
 amphibiotica
