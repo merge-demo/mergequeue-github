@@ -5505,7 +5505,7 @@ ensuing
 endoplasmic
 extramundane
 endotheliomyxoma
-energize
+energize 1
 egging
 energizers
 eosinophilia
