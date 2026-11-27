@@ -4551,7 +4551,7 @@ appertise
 advertisers
 attunes
 albication
-assuagable
+assuagable 1
 adjuvant
 allobars
 antirationalistic
