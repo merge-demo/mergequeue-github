@@ -14030,7 +14030,7 @@ extrastomachal
 ethmolith
 elocutionist
 esterase
-endopterygotous
+endopterygotous 1
 extratellurian
 extrait
 electroergometer
