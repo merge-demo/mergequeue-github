@@ -6401,7 +6401,7 @@ benzophloroglucinol
 betting
 benedight
 bewake
-benzophthalazine
+benzophthalazine 1
 breakup
 benzil
 banewort
