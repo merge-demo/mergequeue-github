@@ -16176,7 +16176,7 @@ demospongiae
 dowagers
 dispersions
 dertra
-degas
+degas 1
 droplet
 desalinized
 deweylite
