@@ -16101,7 +16101,7 @@ antiscolic
 antiscorbutical
 acrosphacelus
 antiscrofulous
-antiseismic
+antiseismic 1
 antiselene
 acroarthritis
 antisemitic
