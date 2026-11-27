@@ -13729,7 +13729,7 @@ extersive
 exerting
 epitrochoidal
 ectosphere
-extincted
+extincted 1
 extincting
 enterostomies
 editable
