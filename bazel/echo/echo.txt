@@ -7748,7 +7748,7 @@ ean
 eftsoon
 endrins
 exterritorially 1
-emergents
+emergents 1
 englify
 ensure
 emendable
