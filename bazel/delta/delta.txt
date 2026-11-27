@@ -10250,7 +10250,7 @@ destry
 dinotherian
 dins
 defenestrate
-dinted
+dinted 1
 dintless
 ducal
 degradedly
