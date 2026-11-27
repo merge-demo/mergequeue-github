@@ -1952,7 +1952,7 @@ endict
 exarchateship
 elementalist
 ejaculatory
-erdvark
+erdvark 1
 elishah
 ejectively
 enfierce
