@@ -11629,7 +11629,7 @@ discontinuously
 drop
 discontinuousness
 disconula
-disconvenience
+disconvenience 1
 dauphin
 discommodiousness
 disconventicle
