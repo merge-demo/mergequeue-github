@@ -15786,7 +15786,7 @@ ablauts
 agonistical
 anvilled
 aviolite
-amidic
+amidic 1
 antiphylloxeric
 amphibiotica
 acarpellous
