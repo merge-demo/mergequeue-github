@@ -27028,7 +27028,7 @@ cunctatorship
 counterposition
 counterposting
 counterpotence
-cantilated
+cantilated 1
 counterpotency
 counterpotent
 constance
