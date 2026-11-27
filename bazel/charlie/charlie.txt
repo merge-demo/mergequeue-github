@@ -10996,7 +10996,7 @@ crocodilia
 counterinsurgencies
 crutcher
 catananche
-clavises
+clavises 1
 chirp
 chirped
 chirpers
