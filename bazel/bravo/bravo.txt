@@ -12128,7 +12128,7 @@ basketball
 besmutch
 bugger
 bealing
-boldu
+boldu 1
 butterweed
 boled
 bolelike
