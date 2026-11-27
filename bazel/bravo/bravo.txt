@@ -12469,7 +12469,7 @@ bondsman
 blueys
 braeman
 bromgelatin
-bulbose
+bulbose 1
 bondsmen
 bonify
 bdls
