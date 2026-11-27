@@ -16963,7 +16963,7 @@ comparable
 clustered
 canulating
 cabbalistically
-clusterfist
+clusterfist 1
 catechu
 caprifigs
 coerceable
