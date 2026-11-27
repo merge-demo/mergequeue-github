@@ -2698,7 +2698,7 @@ frighteningness
 floodwall
 fishify
 flamant
-frenzies 1
+frenzies 2
 flambe
 faithing
 fungused
