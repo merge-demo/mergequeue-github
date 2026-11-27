@@ -1428,7 +1428,7 @@ gothicism
 grapenuts
 golfs
 gemologists
-gn
+gn 1
 gargle
 gynoeciumcia
 gelatinising
