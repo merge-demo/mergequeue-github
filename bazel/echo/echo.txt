@@ -6004,7 +6004,7 @@ emetomorphine 1
 ectomere
 encumbrancer
 eudromias
-equivaliant
+equivaliant 1
 eudemon
 ethrog
 equiexcellency
