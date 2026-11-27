@@ -13750,7 +13750,7 @@ cubbyholes
 cinema
 cinemactic
 cinemagoer
-circumlocutionary
+circumlocutionary 1
 cinemagoers
 cinemas
 cinematheque
