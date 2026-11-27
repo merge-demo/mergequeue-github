@@ -1747,7 +1747,7 @@ accusor
 annerre
 accustomation
 armouring
-adelaster
+adelaster 1
 armpit
 accustomedly
 accustomizing
