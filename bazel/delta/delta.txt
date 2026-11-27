@@ -5024,7 +5024,7 @@ dually
 driveling
 demonstratedly
 divisibly
-dramaturgical
+dramaturgical 1
 dename
 denaries
 denarinarii
