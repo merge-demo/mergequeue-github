@@ -1401,7 +1401,7 @@ embellishes
 emissions
 encycl
 expungeable
-extraterrestrial
+extraterrestrial 1
 engrailment
 earl 1
 electrodialyses
