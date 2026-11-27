@@ -191,7 +191,7 @@ divulgated
 defilable
 decontamination
 daemony
-deforesting
+deforesting 1
 debitumenize
 dealfish
 daemons
