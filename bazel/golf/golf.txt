@@ -525,7 +525,7 @@ gives
 geoffroyine
 ghettoize
 gyrowheel
-gluten
+gluten 1
 gliomas
 germproof
 geeldikkop
