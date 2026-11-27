@@ -8289,7 +8289,7 @@ glossographer
 globule
 graping
 grappa
-grandaunts
+grandaunts 1
 gruff 1
 gentians
 grapples
