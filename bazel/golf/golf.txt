@@ -7905,7 +7905,7 @@ gruelling
 gametangium
 goi
 gounau
-gentleheartedness
+gentleheartedness 1
 garbless
 guyana
 granny
