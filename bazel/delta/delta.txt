@@ -4730,7 +4730,7 @@ diamondwise
 diffareation
 disrelish
 demiwolf
-deprivals
+deprivals 1
 demob
 devi
 disremember
