@@ -18273,7 +18273,7 @@ abstinent
 aquiculture
 arabist
 appreciator
-arabit
+arabit 1
 appreciative
 acetometrical
 animaters
