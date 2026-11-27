@@ -5916,7 +5916,7 @@ denuders
 desecrator
 decompression
 dollmaking
-demagnetizer
+demagnetizer 1
 depressional
 dulia
 depressions 1
