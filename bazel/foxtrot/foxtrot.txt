@@ -6610,7 +6610,7 @@ frogfish
 fundholder
 flapperism
 forestaffs
-flirtier
+flirtier 1
 forecondemn
 fogey
 foulbrood
