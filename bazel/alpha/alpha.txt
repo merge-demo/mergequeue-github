@@ -7144,7 +7144,7 @@ atopite
 akre
 akrochordite
 allophore
-akroter
+akroter 1
 akroteria
 arithmetization
 aktistetae
