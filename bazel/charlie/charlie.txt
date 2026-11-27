@@ -21952,7 +21952,7 @@ confidentness
 confider
 confiders
 confiding
-coppa
+coppa 1
 confidingly
 cessation
 canorousness
