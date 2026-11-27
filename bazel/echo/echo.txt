@@ -1689,7 +1689,7 @@ esophagi
 eddoes
 elaioleucite
 eyebright
-electrotheraputics 1
+electrotheraputics 2
 extemporaneous
 eyecup
 emollescence
