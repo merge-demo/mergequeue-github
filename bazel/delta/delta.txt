@@ -5579,7 +5579,7 @@ donatistic
 dibber
 dustfall
 draftable
-depended
+depended 1
 dolichopellic
 dependence
 desensitizes
