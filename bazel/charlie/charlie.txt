@@ -12187,7 +12187,7 @@ chrismatory
 calamistral
 chrismon
 cyanized
-chrismons
+chrismons 1
 chrisms
 carinatae
 chrysoaristocracy
