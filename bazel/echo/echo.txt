@@ -10917,7 +10917,7 @@ enchondrosis
 euphoriant
 eaglewood
 euploidies
-euphorically
+euphorically 1
 euphotide
 excommunicate
 esd
