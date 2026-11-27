@@ -22966,7 +22966,7 @@ atriopore
 atrip
 asthenopic
 argyraspides 1
-asquat
+asquat 1
 archaical
 atriplex
 atrypoid
