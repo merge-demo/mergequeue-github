@@ -11542,7 +11542,7 @@ albification
 anabibazon
 autochthons
 anabiotic
-autosauria
+autosauria 1
 antihypertensive
 androdioecism
 acheweed
