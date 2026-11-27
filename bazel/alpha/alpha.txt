@@ -5203,7 +5203,7 @@ archinformer
 antitangent
 autopoint
 aloeswood
-aratinga
+aratinga 1
 affection
 apostasies
 arbutinase
