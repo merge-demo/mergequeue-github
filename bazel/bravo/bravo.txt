@@ -1290,7 +1290,7 @@ bradycinesia
 biogasses
 bacao
 brochantite
-bury
+bury 1
 bedbug
 bedust
 boleite
