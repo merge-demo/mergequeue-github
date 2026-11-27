@@ -10287,7 +10287,7 @@ flandowser
 fitten
 finary
 folksongs
-fanged
+fanged 1
 fingerings
 frazed
 fluormeter
