@@ -17899,7 +17899,7 @@ duessa
 delayingly
 duets
 diatonical
-demulce
+demulce 1
 demeans
 dazzling
 delirifacient
