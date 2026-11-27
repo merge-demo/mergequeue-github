@@ -5538,7 +5538,7 @@ fluemen
 floating
 fleshful
 favourite
-furunculus
+furunculus 1
 favouredly
 foamily
 foreordain
