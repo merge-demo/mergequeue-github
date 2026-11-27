@@ -17519,7 +17519,7 @@ appearers
 absoluter
 alclad
 autonomic
-anhydrize
+anhydrize 1
 anacoluthically
 acerbest
 archipelagoes
