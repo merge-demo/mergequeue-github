@@ -19675,7 +19675,7 @@ comatiks
 comatosely
 countercharged
 comatoseness
-comatosity
+comatosity 1
 comatula
 combaron
 combasou
