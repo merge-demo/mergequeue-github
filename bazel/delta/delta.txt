@@ -180,7 +180,7 @@ daedalic
 diminish
 diphenylmethane
 drachmai
-dopiest
+dopiest 1
 damas
 decipherer
 daedaloid
