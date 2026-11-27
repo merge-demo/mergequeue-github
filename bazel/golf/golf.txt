@@ -6737,7 +6737,7 @@ globulimeter
 geyseral
 gurdfish
 gruine
-glenoid
+glenoid 1
 guiltlessness
 goniocraniometry
 grouters
