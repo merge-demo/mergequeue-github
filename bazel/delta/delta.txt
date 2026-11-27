@@ -2506,7 +2506,7 @@ dresser
 declaimer
 dilaters
 declamatory
-dateable
+dateable 1
 decibar
 dendrochronology
 drysaltery
