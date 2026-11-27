@@ -15927,7 +15927,7 @@ antiprostate
 antiprostatic
 adiabat
 astrobiologically
-attentively
+attentively 1
 ammocete
 affectual
 argillocalcite
