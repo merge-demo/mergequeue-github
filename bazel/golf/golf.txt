@@ -7033,7 +7033,7 @@ glamorizes
 grillade
 grindle
 gomart
-gigameter
+gigameter 1
 gaudish
 gooseberry
 gimbaled
