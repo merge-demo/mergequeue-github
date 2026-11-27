@@ -4925,7 +4925,7 @@ erythroneocytosis
 evolves 1
 ephyrula
 eyednesses
-enterocoelic
+enterocoelic 1
 electrodialysis
 endable
 escaroles

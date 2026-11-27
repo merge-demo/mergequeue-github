@@ -9074,7 +9074,7 @@ alloxan
 absterged
 alloxans
 arsenicalism
-alloxantin
+alloxantin 1
 anthracoid
 alloxuraemia
 alloxuremia
