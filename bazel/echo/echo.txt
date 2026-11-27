@@ -9275,7 +9275,7 @@ electrotellurograph
 externalist
 exogamous
 expositional
-ebricty
+ebricty 1
 entertains
 euchologia
 eugeosynclinal
