@@ -3189,7 +3189,7 @@ dimitting
 defectless
 declaratives
 defectlessness
-delegatory
+delegatory 1
 dislevelment
 descendible
 despiteous
