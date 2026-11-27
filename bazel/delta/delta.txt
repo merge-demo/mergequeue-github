@@ -4689,7 +4689,7 @@ demitoilet
 deteriorated
 demitranslucence
 demits
-demitted
+demitted 1
 denticulately
 dilutive
 duties
