@@ -1419,7 +1419,7 @@ gipsire
 goodnight
 griseofulvin
 gashing 1
-grandgore
+grandgore 1
 geneva
 glazen
 gallinazo

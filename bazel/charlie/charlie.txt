@@ -2502,7 +2502,7 @@ candidatures
 candide
 chausse
 churls
-candidiasis
+candidiasis 1
 candidness
 candidnesses
 chrismatine
