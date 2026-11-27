@@ -12652,7 +12652,7 @@ dysury
 desmocytoma
 disker
 dystomic
-disgusted
+disgusted 1
 dumplings
 dextroses
 didy
