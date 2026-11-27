@@ -22145,7 +22145,7 @@ confrerie
 cass
 confricamentum
 counsellors
-confrontation
+confrontation 1
 confrontationist
 chimopeelagic
 confrontations
