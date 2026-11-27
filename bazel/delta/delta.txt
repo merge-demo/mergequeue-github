@@ -16202,7 +16202,7 @@ dizens
 deallocates
 defats
 doweress
-dingeys
+dingeys 1
 dunches
 dent
 dowery
