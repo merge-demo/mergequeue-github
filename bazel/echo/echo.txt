@@ -10562,7 +10562,7 @@ evangelistarium
 effuse
 equationist
 endboard 1
-eclectical
+eclectical 1
 ensurers
 equational
 elevates
