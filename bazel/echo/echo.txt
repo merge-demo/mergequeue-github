@@ -11398,7 +11398,7 @@ empennages
 ergamine
 eyebree
 epichoric
-euxanthone
+euxanthone 1
 erpetoichthys
 escaladed
 extrinsical
