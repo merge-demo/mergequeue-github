@@ -6179,7 +6179,7 @@ barbless
 buchmanism
 befinger
 biliary
-boarishly
+boarishly 1
 buttinsky
 breedbate
 blackleggery
