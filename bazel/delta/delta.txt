@@ -2929,7 +2929,7 @@ dichotic
 downbeat
 desulphuret
 dedicating
-disorientating
+disorientating 1
 dedication
 drafting
 disfavor
