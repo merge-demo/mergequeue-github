@@ -910,7 +910,7 @@ gaverick
 geld
 guna
 gelatinate
-gambia
+gambia 1
 garnishable
 grittiness
 gosport
