@@ -9616,7 +9616,7 @@ grumium
 glaucodote
 geests
 goiter
-grizzlier
+grizzlier 1
 geochemical
 guarish
 gummite
