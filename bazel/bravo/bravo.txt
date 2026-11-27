@@ -12673,7 +12673,7 @@ bororo
 benthamite
 boogies
 biotechnology
-bordures
+bordures 1
 bubbles
 bulbine
 burlecue
