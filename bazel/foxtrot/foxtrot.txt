@@ -5205,7 +5205,7 @@ foxiness
 frontierlike
 frivolers
 fiot
-foreclaw
+foreclaw 1
 fuchsia
 frumpery
 funest
