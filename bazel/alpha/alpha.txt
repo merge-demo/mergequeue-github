@@ -2954,7 +2954,7 @@ actinautographic
 aerotonometer
 actine
 actinenchyma
-artiness
+artiness 1
 antijam
 acting
 actiniae
