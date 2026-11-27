@@ -6099,7 +6099,7 @@ epilator
 enlightenedly
 enlistments
 erasion
-elastomeric
+elastomeric 1
 encomienda
 electionary
 eugenic
