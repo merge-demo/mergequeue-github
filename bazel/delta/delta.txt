@@ -14148,7 +14148,7 @@ demandingness
 decedent
 disulphate 1
 depursement
-desulfurated
+desulfurated 1
 decrepit
 daybook
 dragoon
