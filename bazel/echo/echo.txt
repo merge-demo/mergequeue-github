@@ -12367,7 +12367,7 @@ extradictionary 1
 eurasian
 exfoliative
 ebbman
-erodibility
+erodibility 1
 exhalents
 etude
 entermise
