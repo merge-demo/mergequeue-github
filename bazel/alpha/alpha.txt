@@ -9982,7 +9982,7 @@ ambeers
 anay
 angioneurotic
 amphicarpous
-anciency
+anciency 1
 analogues
 antimerging
 autoregressive
