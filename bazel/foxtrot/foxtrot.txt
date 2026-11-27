@@ -3388,7 +3388,7 @@ familistic
 foreyards
 fusilades
 fastigate
-fopling
+fopling 1
 fossilification
 flappering
 fishermen 1
