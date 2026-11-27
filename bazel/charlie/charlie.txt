@@ -14902,7 +14902,7 @@ cytospora
 caprioling
 cytost
 conceit
-conveys
+conveys 1
 counterpray
 curding
 compactness
