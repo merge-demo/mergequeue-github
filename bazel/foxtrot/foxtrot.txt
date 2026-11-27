@@ -2947,7 +2947,7 @@ flukiness
 freezed
 foxberries
 fac
-flaked
+flaked 1
 furloughs
 fungological
 froths
