@@ -13957,7 +13957,7 @@ diactin
 daubreelite
 dichroism
 deys
-distomatous
+distomatous 1
 daubed
 distomes
 distomidae
