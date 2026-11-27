@@ -10142,7 +10142,7 @@ dawson
 disaffiliations
 dynes
 desentimentalize
-deminatured
+deminatured 1
 dinetic
 dinette
 denazifies
