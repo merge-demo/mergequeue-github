@@ -17725,7 +17725,7 @@ bemuzzled
 bott
 bewinged
 beknit
-burnfire
+burnfire 1
 buckeens
 burnish
 burnishable
