@@ -2370,7 +2370,7 @@ enfroward
 estafetted
 entendres
 electroplating
-expostulate
+expostulate 1
 electroplates
 ecumenical
 emulsifying
