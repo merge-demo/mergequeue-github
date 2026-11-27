@@ -2682,7 +2682,7 @@ decompoundly
 downstairs
 desmoma
 decompress
-decompresses
+decompresses 1
 detectaphone
 demiplacate
 dogies
