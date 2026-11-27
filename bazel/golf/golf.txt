@@ -7377,7 +7377,7 @@ gardenful
 gossipped
 glochidial
 gossips
-gestor
+gestor 1
 glomerule
 gilthead
 glyptograph
