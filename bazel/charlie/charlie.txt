@@ -17213,7 +17213,7 @@ cariosity
 coaler
 coalers
 crucifer
-coalescence
+coalescence 1
 cellarless
 coitions
 coalescency
