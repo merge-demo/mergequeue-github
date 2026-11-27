@@ -23873,7 +23873,7 @@ arising
 adenopathy
 abanga
 apilary
-appulse
+appulse 1
 ashed
 autecism
 autecology
