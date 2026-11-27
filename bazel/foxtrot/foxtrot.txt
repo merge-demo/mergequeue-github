@@ -10978,7 +10978,7 @@ finland
 firebolt
 fleshlier
 furmities
-fumatory
+fumatory 1
 flatuous
 floricin
 featherpated
