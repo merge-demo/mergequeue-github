@@ -24337,7 +24337,7 @@ cookout
 craniophore
 conjury
 cookroom
-coral
+coral 1
 concentrate
 caverning
 caritas
