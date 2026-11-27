@@ -315,7 +315,7 @@ exserting
 extortionate
 expedient
 ebon
-eradicate
+eradicate 1
 esotericism
 extrema
 eirenarch
