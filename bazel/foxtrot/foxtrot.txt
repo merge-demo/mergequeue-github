@@ -9699,7 +9699,7 @@ fideicommissum
 firmly
 firebrat
 frenatae
-frenched
+frenched 1
 futuramic
 furiously
 frenchify
