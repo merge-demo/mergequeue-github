@@ -3673,7 +3673,7 @@ advisorily
 armeriaceae
 autodigestion
 abnegation
-adenophorous
+adenophorous 1
 abyssinian
 acephalite
 accumulative 1
