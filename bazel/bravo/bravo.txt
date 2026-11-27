@@ -9371,7 +9371,7 @@ birdies
 boondocker
 butterflying
 brimse
-basidial
+basidial 1
 boastless
 basocyte
 buriti
