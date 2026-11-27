@@ -15939,7 +15939,7 @@ cleptomaniac
 clerestoried
 cliched
 cinchonizing
-clergy
+clergy 1
 clergyable
 cotoneaster
 clergylike
