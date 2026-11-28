@@ -9963,7 +9963,7 @@ diolefine 1
 droner
 dodged
 diminution
-deeplier
+deeplier 1
 deaerates
 didactics
 dramaturgist
