@@ -16176,7 +16176,7 @@ collinearly
 chechen
 chaunting
 clime
-counterpenalty
+counterpenalty 1
 cavidae
 climograph
 conversazioni
