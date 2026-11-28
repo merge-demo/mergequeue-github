@@ -17637,7 +17637,7 @@ dtente
 diplococci
 disapprobation
 dreamed
-duadic
+duadic 1
 demilitarise
 difluence
 duads
