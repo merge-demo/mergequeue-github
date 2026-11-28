@@ -9776,7 +9776,7 @@ bartender
 brokenhearted
 banderoles
 boos
-brigandish
+brigandish 1
 bisubstituted
 benzoquinone
 bisubstitution
