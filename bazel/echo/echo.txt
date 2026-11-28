@@ -11425,7 +11425,7 @@ escorting
 eicosane
 explorers
 eluctation
-enhaloing
+enhaloing 1
 expenditor
 encephalosis
 edgebone
