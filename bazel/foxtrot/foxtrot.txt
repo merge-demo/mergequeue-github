@@ -1287,7 +1287,7 @@ frigs
 factitiously
 foins
 footlocker
-fossoria
+fossoria 1
 fastuousness
 fluctuous
 flarfishes
