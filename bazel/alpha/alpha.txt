@@ -10564,7 +10564,7 @@ amyelic 1
 amyelous
 agt
 aposematically 1
-alphamerical
+alphamerical 1
 amygdal
 aludels
 affectate
