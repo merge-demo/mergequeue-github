@@ -1168,7 +1168,7 @@ edrioasteroidea
 epipany
 electrotyped
 epaulette
-expectancies
+expectancies 1
 edriophthalmatous
 extramental
 educand
