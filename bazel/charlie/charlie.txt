@@ -3878,7 +3878,7 @@ carbonimeter
 carbonimide
 choultries
 contrastimulant
-costaea
+costaea 1
 chinkle
 criminalness
 centrosymmetry
