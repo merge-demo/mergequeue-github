@@ -18587,7 +18587,7 @@ cephalopod
 coyly
 crowders
 corralled
-connex
+connex 1
 clanless
 coimplore
 coyn
