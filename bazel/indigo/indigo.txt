@@ -11181,7 +11181,7 @@ isxgpwr
 isxgq
 isxhbgjd
 isxko
-isxlurgw
+isxlurgw 1
 isxmkfocq
 isxnppuwq
 isxpakamcoco
