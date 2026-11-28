@@ -25360,7 +25360,7 @@ cornetfishes
 chunkier
 cornetist
 cornetists
-cornets
+cornets 1
 centums
 cornetter
 carkled
