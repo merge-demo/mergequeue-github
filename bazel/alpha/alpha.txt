@@ -8295,7 +8295,7 @@ auks
 alif
 applicatorily
 andropetalous
-amatively
+amatively 1
 archapostle
 aliferous
 amorousness
