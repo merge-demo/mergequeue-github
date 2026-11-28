@@ -14037,7 +14037,7 @@ antecedaneously
 antecede
 anapes
 alexiteric
-atamans
+atamans 1
 axopodium
 atmometry
 accomplished
