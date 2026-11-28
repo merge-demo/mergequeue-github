@@ -1901,7 +1901,7 @@ debout
 deervetch
 donging
 denticulated
-delicateness
+delicateness 1
 debowel
 depravity
 debride
