@@ -11854,7 +11854,7 @@ dislikable
 discursify
 deplumed
 donatively
-domineered
+domineered 1
 dbl
 dissociableness
 discurtain
