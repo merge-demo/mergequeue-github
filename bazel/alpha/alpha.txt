@@ -8846,7 +8846,7 @@ agynary
 amidrazone
 acadia
 asyntrophy
-anglicist
+anglicist 1
 allocatur
 acanthocephalan
 astound
