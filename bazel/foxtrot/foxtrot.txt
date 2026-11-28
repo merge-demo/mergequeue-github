@@ -5363,7 +5363,7 @@ futuristic 1
 fraughting
 feedbin
 fettles
-flanken
+flanken 1
 feebleness
 fascia
 fruiteries 1
