@@ -16961,7 +16961,7 @@ demihorse
 dullness
 downcurve
 dredgeful
-disintegrate
+disintegrate 1
 discerp
 dithery
 dredgers
