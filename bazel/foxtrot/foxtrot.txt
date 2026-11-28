@@ -9140,7 +9140,7 @@ footropes
 frothi
 flopover
 fluing
-fuzee
+fuzee 1
 fruitarian
 fractionalized
 forjudging
