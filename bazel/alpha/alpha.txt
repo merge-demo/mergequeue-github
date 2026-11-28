@@ -10150,7 +10150,7 @@ ambroid
 arboraceous
 ambrosiaceae
 adoptabilities
-ambrosias
+ambrosias 1
 argine
 ambrosiate
 affords
