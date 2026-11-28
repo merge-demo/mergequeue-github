@@ -4706,7 +4706,7 @@ chantage
 conchometry
 catty
 caddow
-compatibles
+compatibles 1
 cyathi
 costalgia
 chapmen
