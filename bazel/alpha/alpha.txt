@@ -15183,7 +15183,7 @@ assyrian
 arabesques
 archontic
 amphimictical
-aberrometer
+aberrometer 1
 amil
 arctocephalus
 aerostat
