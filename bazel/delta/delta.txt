@@ -11441,7 +11441,7 @@ dollar
 deoccidentalize
 discoactine
 documentation
-diallages
+diallages 1
 deedeed
 drungar
 devaluations
