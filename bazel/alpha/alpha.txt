@@ -19071,7 +19071,7 @@ archpolitician
 archprelate
 archprelatic
 avys 1
-adjudicator
+adjudicator 1
 askingly
 approvals
 archprelatical
