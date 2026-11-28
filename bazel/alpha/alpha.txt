@@ -4131,7 +4131,7 @@ adnephrine
 anthracene
 annuent
 adnerval
-apparatchiks
+apparatchiks 1
 abutting
 apotracheal
 adventuresomely
