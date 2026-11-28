@@ -8112,7 +8112,7 @@ diabetometer
 dandyprat
 demetallize
 demineralize
-denominative
+denominative 1
 dwarfling
 diplopodic
 discanter
