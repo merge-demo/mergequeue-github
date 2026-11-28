@@ -2019,7 +2019,7 @@ allegoristic
 aeneas
 achaean
 antiexpressionistic
-aperistalsis
+aperistalsis 1
 aequoreal
 actinogram
 agglutinating
