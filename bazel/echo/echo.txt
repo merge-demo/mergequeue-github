@@ -6615,7 +6615,7 @@ enterocleisis
 electrician
 enquicken
 equiponderant
-excluding
+excluding 1
 echinorhynchus
 esperantidist
 embryous
