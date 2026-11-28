@@ -2000,7 +2000,7 @@ edward
 ekka
 enolate
 exophoric
-ekphorias
+ekphorias 1
 empetrum
 experienceless
 eryngo
