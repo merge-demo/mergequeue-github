@@ -1609,7 +1609,7 @@ geulah
 galavant
 glottic
 gasteromycetous
-geneat
+geneat 1
 giraffine
 gasteropoda
 gummy
