@@ -2705,7 +2705,7 @@ electrotheraputic
 emyds
 elaeopten
 electrothermal 1
-ephippial
+ephippial 1
 emulsoidal
 exteriorise
 essed
