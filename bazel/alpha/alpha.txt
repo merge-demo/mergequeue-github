@@ -11492,7 +11492,7 @@ aerometry
 agglomerant
 anisettes
 acetoin
-ascospore
+ascospore 1
 anapnoeic
 alenu
 amusers
