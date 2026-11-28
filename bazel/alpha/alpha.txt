@@ -11375,7 +11375,7 @@ adempt
 arcuses
 ampler
 amplexicaul
-amphictyonic
+amphictyonic 1
 anomiacea
 alchemising
 artels
