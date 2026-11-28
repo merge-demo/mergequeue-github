@@ -4800,7 +4800,7 @@ feltmonger
 flaunching 1
 freshened
 fooling
-flaggy
+flaggy 1
 formicated
 foaly
 foreshowed
