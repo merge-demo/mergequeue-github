@@ -15709,7 +15709,7 @@ cannas
 clavicorn
 clavicornes
 clavicotomy
-clavicular
+clavicular 1
 clavicularium
 claviculate
 chrysohermidin
