@@ -18442,7 +18442,7 @@ carboxylate
 capillitial
 crystalloblastic
 centrale
-cograil
+cograil 1
 chilipepper
 crestmoreite
 chaogenous
