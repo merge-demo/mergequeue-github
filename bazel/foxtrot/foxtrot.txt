@@ -16,7 +16,7 @@ flagellators
 forcing
 fylker
 fablemaker
-funkers
+funkers 1
 fremituses
 fabler 1
 frankers
