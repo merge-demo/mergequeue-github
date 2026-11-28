@@ -16630,7 +16630,7 @@ argotic
 astatized
 aforegoing
 arterioplania
-autocratic
+autocratic 1
 aperea
 aperient
 aperients
