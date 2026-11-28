@@ -225,7 +225,7 @@ facular
 fruitworm
 feverroot
 fluorotype
-faculous
+faculous 1
 firelock
 filibranch
 fermenting

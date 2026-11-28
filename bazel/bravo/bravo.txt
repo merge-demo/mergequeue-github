@@ -6041,7 +6041,7 @@ butyral
 bemurmure 1
 bemurmuring
 bittier
-bemuses
+bemuses 1
 bol
 ballmine
 belswagger
