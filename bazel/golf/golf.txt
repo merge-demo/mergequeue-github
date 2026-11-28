@@ -2572,7 +2572,7 @@ gonochorism
 galenites
 grosses
 gaiterless
-giveaways
+giveaways 1
 generalized
 graywall
 guv
