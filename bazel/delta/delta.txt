@@ -12013,7 +12013,7 @@ disencharm
 doctrix
 disenclose
 daint
-diammine
+diammine 1
 decimus
 domicella
 distichous
