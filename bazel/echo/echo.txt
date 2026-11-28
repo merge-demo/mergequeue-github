@@ -5268,7 +5268,7 @@ edginesses
 edificative
 euchroic
 exsected
-enantiomeride
+enantiomeride 1
 extrascriptural
 escartelly
 euphuizing
