@@ -14430,7 +14430,7 @@ disfiguringly
 dressmaker
 dimethylamine
 divert
-dioptrometer
+dioptrometer 1
 dasyphyllous
 disraeli
 defunctionalization
