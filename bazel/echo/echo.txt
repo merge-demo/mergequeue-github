@@ -4548,7 +4548,7 @@ entoptoscope
 emigrationist
 encephalos
 encapsulated
-empales
+empales 1
 encephalospinal
 ecclesiastic
 elevatedness
