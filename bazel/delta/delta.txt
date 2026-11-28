@@ -15409,7 +15409,7 @@ deforestation
 detoxify
 dragonet
 djebel
-disanoint
+disanoint 1
 dolichoprosopic
 dimity
 daisycutter
