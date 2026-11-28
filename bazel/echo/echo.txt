@@ -8778,7 +8778,7 @@ embossable
 enround
 electrodepositable
 elegist 1
-erections
+erections 1
 eviller
 enterobiliary
 etcetera
