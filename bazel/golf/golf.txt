@@ -5532,7 +5532,7 @@ genear
 globalizing
 gisants
 groggeries
-gyrovagi
+gyrovagi 1
 gently
 gump
 grassfinch
