@@ -17194,7 +17194,7 @@ director
 diaphoresis
 decursive
 depletory
-drive
+drive 1
 diastrophism
 dehair
 deermeat
