@@ -12568,7 +12568,7 @@ darac
 ditrematous
 dhole
 deluxe
-disinheriting
+disinheriting 1
 demyship
 disinhume
 djagatay
