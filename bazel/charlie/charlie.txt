@@ -16004,7 +16004,7 @@ connach
 crossbirth
 cracked
 cluppe
-cleruchies
+cleruchies 1
 cardroom
 clerum
 counterindentation
