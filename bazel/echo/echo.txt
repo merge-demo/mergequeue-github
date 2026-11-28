@@ -12316,7 +12316,7 @@ epimerite 1
 erichtoid
 eavesing
 enjambment
-eradicating
+eradicating 1
 emusive
 earthlings
 ethic
