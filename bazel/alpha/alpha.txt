@@ -10466,7 +10466,7 @@ amianthus
 arcform
 amyatonic
 amic 1
-amicability
+amicability 1
 antiadiaphorist
 appredicate
 amicably
