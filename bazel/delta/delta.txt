@@ -16856,7 +16856,7 @@ demicaponier
 discophile
 donnishness
 dribbet
-deadlock
+deadlock 1
 durwan
 disceptation
 diminutival
