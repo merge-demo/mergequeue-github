@@ -3386,7 +3386,7 @@ folily
 feeless 1
 familistic
 foreyards
-fusilades
+fusilades 1
 fastigate
 fopling
 fossilification
