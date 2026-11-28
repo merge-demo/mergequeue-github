@@ -50,7 +50,7 @@ fruited
 finds
 foolhardihood
 foreshowing
-forcipulate
+forcipulate 1
 feedway
 flams
 frab
