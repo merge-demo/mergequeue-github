@@ -10367,7 +10367,7 @@ francium
 flashcube
 fletcherite
 formatting
-frontierless
+frontierless 1
 fireproofness
 farmyards
 fungite
