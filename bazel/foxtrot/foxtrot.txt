@@ -816,7 +816,7 @@ frogeyes
 formfitting
 fixatives 1
 fluctuations
-fanjet
+fanjet 1
 fastened
 flemings
 forerequest
