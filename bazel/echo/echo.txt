@@ -9270,7 +9270,7 @@ errhines
 encyclopedize
 extraclassroom
 erron
-empathies
+empathies 1
 electrotellurograph
 externalist
 exogamous
