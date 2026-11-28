@@ -3323,7 +3323,7 @@ distributors
 deplaning
 diotocardia
 disputably
-defines
+defines 1
 dispensatively
 deionizes
 donated
