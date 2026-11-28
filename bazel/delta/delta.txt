@@ -2309,7 +2309,7 @@ dynamical
 deliberant
 decentralising
 duckhunting
-dhurrie
+dhurrie 1
 decentralize
 dewatering
 decentralizing
