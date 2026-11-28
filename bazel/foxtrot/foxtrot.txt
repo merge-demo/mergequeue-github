@@ -1984,7 +1984,7 @@ furile
 fishgig
 fulvid
 feedstock
-fibroserous
+fibroserous 1
 floccosely
 firespout
 forerake
