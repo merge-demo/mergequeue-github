@@ -10014,7 +10014,7 @@ eternalised 1
 enweb
 extradict
 emotiomuscular
-electrode
+electrode 1
 eurhythmical 1
 electrodiagnostically
 extrorsal
