@@ -6201,7 +6201,7 @@ flaxes
 fulgurate
 foretops
 feebling
-frequency
+frequency 1
 flagmaker
 furbished
 fibroareolar
