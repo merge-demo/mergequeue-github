@@ -1371,7 +1371,7 @@ gauss
 ginners
 garglers
 graplins
-glamorizer 1
+glamorizer 2
 glyoxylic
 ghastly
 glugglug
