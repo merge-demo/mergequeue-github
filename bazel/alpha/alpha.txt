@@ -20671,7 +20671,7 @@ atlaslike
 annunciates
 afflicts
 artiad
-artichoke
+artichoke 1
 acidimetrical
 afghani
 aspirates
