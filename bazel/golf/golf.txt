@@ -3558,7 +3558,7 @@ garmentworker 1
 ganglions
 gymnorhina
 geomagnetist
-gluconeogenesis
+gluconeogenesis 1
 grugru
 gunslinging
 grinded
