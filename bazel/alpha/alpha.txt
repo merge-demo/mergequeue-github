@@ -12861,7 +12861,7 @@ ammoniticone
 aeroscopically
 angle
 arenarious
-annalism
+annalism 1
 angled
 argenol
 apostil
