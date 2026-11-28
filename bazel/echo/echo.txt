@@ -10288,7 +10288,7 @@ esquamate
 empemata
 enteromycosis
 escorial
-emulsifiability
+emulsifiability 1
 ethylamine
 extralite
 elevatedly
