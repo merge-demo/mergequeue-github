@@ -1284,7 +1284,7 @@ affrontee
 acatamathesia
 artinskian
 azurean
-acataphasia
+acataphasia 1
 alstonidine
 arillated
 acatastatic
