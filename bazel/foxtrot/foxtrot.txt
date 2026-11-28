@@ -3513,7 +3513,7 @@ formulism
 fictionalizes
 farness
 fermentology
-fraternity
+fraternity 1
 fleches 1
 falcones
 fastigiate
