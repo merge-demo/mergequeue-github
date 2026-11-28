@@ -1675,7 +1675,7 @@ gamelion
 gorkiesque
 gif
 gastrodermal
-gastrodermis 1
+gastrodermis 2
 gulfweed
 guayabo
 gastroduodenitis
