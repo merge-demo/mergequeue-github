@@ -2959,7 +2959,7 @@ discounted
 dedolation
 deseret
 destinal
-dotingness
+dotingness 1
 diegesis
 diplasiasmus
 deduces
