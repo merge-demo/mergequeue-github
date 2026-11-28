@@ -7127,7 +7127,7 @@ garnett
 gnathostomatous
 grundyism
 gamecock
-gorals
+gorals 1
 genealogize
 gastrocystic
 goran
