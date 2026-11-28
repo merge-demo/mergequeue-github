@@ -1239,7 +1239,7 @@ iaxoftgrqkhvf
 iaxpy
 iaxqoe
 iaxqur
-iaxrad
+iaxrad 1
 iaxriu
 iaxrxyloryqp
 iaxsr
