@@ -11028,7 +11028,7 @@ chirrupy
 chirrupper
 combustor
 chirt
-chirurgeon
+chirurgeon 1
 crimean
 chirurgeonly
 chirurgery
