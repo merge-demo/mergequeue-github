@@ -8768,7 +8768,7 @@ anglist
 anticeremonially
 allied
 allies
-alligated
+alligated 1
 acceders
 autoagglutinating
 arctoid
