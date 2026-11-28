@@ -12397,7 +12397,7 @@ encephalology
 ephemerida
 exposures
 exhibition
-enforce
+enforce 1
 eradiate
 exhibitionism
 essenian
