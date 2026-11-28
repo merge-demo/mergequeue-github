@@ -5966,7 +5966,7 @@ galactopathy
 grubs
 ginkgoes
 geoemtry 1
-gastroparesis
+gastroparesis 1
 garreted
 groucho
 gimmicked
