@@ -6084,7 +6084,7 @@ gypsography
 gph
 gnats
 glutaeous
-gorbit
+gorbit 1
 guttie
 gibbled
 grisset

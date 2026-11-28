@@ -11192,7 +11192,7 @@ enterers
 evalue
 evanesced
 eternalism
-evanescence
+evanescence 1
 encephalomalacosis
 epidotic
 exuberantly
