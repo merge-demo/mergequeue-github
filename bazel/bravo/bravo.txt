@@ -292,7 +292,7 @@ beaune
 brachiocyllosis
 backarrows
 backbar
-bedright
+bedright 1
 birkenhead
 biolith
 booter
