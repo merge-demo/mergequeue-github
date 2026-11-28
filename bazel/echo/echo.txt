@@ -8098,7 +8098,7 @@ enlargedness
 encover
 extrasyphilitic
 extraordinaries
-expressable
+expressable 1
 epiplasmic
 epiplectic
 exhausting

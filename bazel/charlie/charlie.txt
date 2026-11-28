@@ -8470,7 +8470,7 @@ characterstring
 crummed
 champaka
 conducts
-clubridden
+clubridden 1
 champaks
 cholines
 commensalistic
