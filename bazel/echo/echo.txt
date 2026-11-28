@@ -2224,7 +2224,7 @@ endognathion
 eldersisterly
 epiglottiditis
 eggless
-equiprobable
+equiprobable 1
 encrisp
 eldest
 effigiated
