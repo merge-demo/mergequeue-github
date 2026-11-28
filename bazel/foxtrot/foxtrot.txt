@@ -6761,7 +6761,7 @@ felonweed
 foiter
 fraxin
 felloe
-frayed
+frayed 1
 fried
 formative
 fronded
