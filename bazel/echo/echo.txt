@@ -7411,7 +7411,7 @@ electoral
 echinochloa
 epenetic
 everglade
-explosion
+explosion 1
 ensculpture
 entasia
 exsanguineous
