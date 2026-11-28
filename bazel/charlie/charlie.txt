@@ -28738,7 +28738,7 @@ crepy
 crepiest
 crepine
 creping
-crepis
+crepis 1
 cevennian
 crepitated
 corage
