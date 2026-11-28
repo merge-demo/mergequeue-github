@@ -13753,7 +13753,7 @@ equilibrated
 effervescence
 emancipationist
 evokers
-enki
+enki 1
 extispex
 epithalamial
 effusely
