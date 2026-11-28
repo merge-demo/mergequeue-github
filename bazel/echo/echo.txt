@@ -1213,7 +1213,7 @@ ennuyee
 extermine
 emmies
 epimorphosis
-educible
+educible 1
 emotionless
 expiates
 epimeric
