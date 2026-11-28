@@ -25068,7 +25068,7 @@ awrong
 acromyodian
 anural
 anesthetizing
-antipapistic
+antipapistic 1
 ax
 abasia
 ascochyta
