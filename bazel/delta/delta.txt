@@ -15192,7 +15192,7 @@ delectably
 directory
 dolefully
 detainment
-deeryards
+deeryards 1
 drawlier
 deathfulness
 dolefuls
