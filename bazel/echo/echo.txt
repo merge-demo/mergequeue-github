@@ -1704,7 +1704,7 @@ encapsulations
 eyedot
 expediential
 exploder
-evener
+evener 1
 exaggerating
 enunciatory
 enamel
