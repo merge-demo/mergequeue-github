@@ -4217,7 +4217,7 @@ echolalic
 electroetching
 exocardiac
 enghle
-emeutes
+emeutes 1
 egoize
 enwound
 extratheistic
