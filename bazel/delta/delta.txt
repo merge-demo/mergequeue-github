@@ -5019,7 +5019,7 @@ diplographical
 dressmakership
 disnest
 dannie
-demurrant
+demurrant 1
 dually
 driveling
 demonstratedly
