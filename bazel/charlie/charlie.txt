@@ -24493,7 +24493,7 @@ copalite
 copalm 1
 coparcenar
 coparcenary
-cyclopropane
+cyclopropane 1
 comic
 coparcener
 coparceny
