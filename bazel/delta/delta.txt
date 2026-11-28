@@ -1189,7 +1189,7 @@ dogfall
 desmotropy
 discepted
 deglutitory
-deaminization
+deaminization 1
 disestablishmentarian
 dastardize
 diaphragmal
