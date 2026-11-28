@@ -10849,7 +10849,7 @@ fallout
 frisky
 flagitiously
 forwore
-frondosely
+frondosely 1
 franciscan
 frousy
 fabledom
