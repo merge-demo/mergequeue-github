@@ -9489,7 +9489,7 @@ dodecadrachm
 digestively 1
 dural
 digestiveness
-dipteroi
+dipteroi 1
 diamonded
 dermad
 domically
