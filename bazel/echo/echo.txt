@@ -10095,7 +10095,7 @@ etheostominae
 elytroid
 exasperates
 esthetician
-encrinitic
+encrinitic 1
 electrophoresed
 earwax
 ether
