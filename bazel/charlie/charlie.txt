@@ -13097,7 +13097,7 @@ ciboney
 cibophobia
 cryptocarpic
 cyborg
-ceros
+ceros 1
 cibory
 ciboules
 cyc
