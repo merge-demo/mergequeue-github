@@ -2302,7 +2302,7 @@ fanglement
 fistulana
 fatherlessness
 faunule 1
-fenestrato
+fenestrato 1
 fifteenfold
 featherheaded
 febrility
