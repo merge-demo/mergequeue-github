@@ -2677,7 +2677,7 @@ electrosurgery
 enventual
 epididymovasostomy
 egotist
-esophagism
+esophagism 1
 electrotactic
 eyra 1
 emmanuel
