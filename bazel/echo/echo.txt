@@ -12999,7 +12999,7 @@ evanescenrly
 equivale
 elderbrotherish
 estoppage
-embitterer
+embitterer 1
 enjoins
 edictally
 expectorative
