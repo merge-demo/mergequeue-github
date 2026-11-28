@@ -1592,7 +1592,7 @@ callose
 crafts
 calloses
 callosities
-conductimetric
+conductimetric 1
 calloused
 callouses
 contraprogressist
