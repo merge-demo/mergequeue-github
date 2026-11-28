@@ -2080,7 +2080,7 @@ dilatory
 decalage
 dinghy
 decalcifies
-dartle
+dartle 1
 dendrography
 drip
 demonologies
