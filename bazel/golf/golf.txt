@@ -9107,7 +9107,7 @@ goldwork
 geoid
 garotte
 governableness 1
-grumose
+grumose 1
 guttation
 geophagist
 guillemet
