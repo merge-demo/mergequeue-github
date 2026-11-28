@@ -4368,7 +4368,7 @@ ginglymodi
 gozill 1
 granulite
 gemstone
-gliriformia
+gliriformia 1
 gravestead
 glossata
 globules
