@@ -19470,7 +19470,7 @@ advantage
 arkab
 appetible
 argin
-argyranthous
+argyranthous 1
 acroceridae
 appestat
 argive
