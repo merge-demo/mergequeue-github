@@ -3353,7 +3353,7 @@ ecdyses
 eyry
 entrep
 eulogic
-expresses
+expresses 1
 environed
 elegies
 encheer
