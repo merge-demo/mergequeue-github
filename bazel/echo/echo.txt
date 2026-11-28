@@ -488,7 +488,7 @@ erythrophilous
 ecclesiological
 ecclesiologically
 exchanging
-expunged
+expunged 1
 egregiously
 eucaryotic
 epiphylline
