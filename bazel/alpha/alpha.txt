@@ -9711,7 +9711,7 @@ alveole
 alveolectomy
 alveoli
 alveoliform
-aduncated
+aduncated 1
 aquatints
 alveololabial
 achene
