@@ -313,7 +313,7 @@ fraternation
 feints
 fag
 feint
-fostell
+fostell 1
 finagles 1
 fibrillated
 finochio
