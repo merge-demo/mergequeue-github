@@ -4999,7 +4999,7 @@ foundationally
 fleetingness
 fettle 1
 flood
-faured
+faured 1
 flaneurs
 flanked
 formulaically
