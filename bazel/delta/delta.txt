@@ -10586,7 +10586,7 @@ decorticate
 despotist
 diplogenesis
 diagonalize
-deseam
+deseam 1
 dirges
 doxographical
 dittology
