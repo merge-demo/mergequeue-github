@@ -1081,7 +1081,7 @@ challengable
 costoclavicular
 calchas
 calche
-cordials
+cordials 1
 creeling
 calcicolous
 calcicosis
