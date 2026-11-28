@@ -4924,7 +4924,7 @@ english
 erythroneocytosis
 evolves 1
 ephyrula
-eyednesses
+eyednesses 1
 enterocoelic
 electrodialysis
 endable
