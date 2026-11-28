@@ -3763,7 +3763,7 @@ embrowning
 embrues
 executive
 edificial
-exceeding
+exceeding 1
 embruing
 enfranchises
 edulcorate
