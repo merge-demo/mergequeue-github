@@ -23674,7 +23674,7 @@ contradicter
 chylocaulously
 causatum
 cabezons
-classwise
+classwise 1
 colliquament 1
 contradiction
 coruscative
