@@ -2621,7 +2621,7 @@ canephore
 canephori
 canephoroi
 canepin
-cooser
+cooser 1
 ciphonies
 cheeseflower
 cursaro
