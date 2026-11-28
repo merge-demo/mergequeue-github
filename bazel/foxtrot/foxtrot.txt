@@ -11245,7 +11245,7 @@ frontispieces
 fucivorous 1
 funmaking
 flit
-flakeless
+flakeless 1
 famble
 faciest
 featherwork 1
