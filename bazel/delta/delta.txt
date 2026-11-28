@@ -10374,7 +10374,7 @@ defenders
 departures
 detenant
 diospyraceous
-deforming
+deforming 1
 dyotheism
 daisee
 debonairly
