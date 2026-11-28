@@ -11616,7 +11616,7 @@ chastising
 counterbore
 choriambuses
 cholelithotrity
-crosscurrent
+crosscurrent 1
 coed
 crankbird
 configurationism
