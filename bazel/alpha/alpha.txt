@@ -64,7 +64,7 @@ alcheringa
 abaddon
 abadengo
 aerially
-argusfish
+argusfish 1
 arcadian
 abaiser
 abbadide
