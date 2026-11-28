@@ -5058,7 +5058,7 @@ bibracteolate
 bemas
 bewith
 befeather
-becoming
+becoming 1
 beeswax
 bodger
 biloculine
