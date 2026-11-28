@@ -8208,7 +8208,7 @@ aleutians
 assassins
 amora
 alibied
-ambiverts
+ambiverts 1
 anhemolytic 1
 autocatalepsy
 adermia
