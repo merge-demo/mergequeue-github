@@ -11105,7 +11105,7 @@ foyaite
 fundamentalists
 flatbread
 fastland
-formality
+formality 1
 firecrackers
 fins
 factionate
