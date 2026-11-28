@@ -15530,7 +15530,7 @@ diopsides
 deliquesced 1
 disaffection
 disintegrationist
-disvalued
+disvalued 1
 derobe
 dispassionateness
 dement
