@@ -15958,7 +15958,7 @@ clericals
 chordaceous
 carpometacarpus
 clericature
-cointension
+cointension 1
 colloquialize
 clericism
 conglomerator
