@@ -8535,7 +8535,7 @@ esoterically
 eupnea
 exsufflicate
 esophagotome
-enteromere
+enteromere 1
 equatable
 eudaemons
 ecclesiasticize
