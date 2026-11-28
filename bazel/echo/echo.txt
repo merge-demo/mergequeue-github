@@ -6442,7 +6442,7 @@ exarchy
 enleen
 exhalants
 eastering
-egestion
+egestion 1
 exsanguinate
 egbert
 eucryphiaceous
