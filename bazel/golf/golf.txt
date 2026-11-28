@@ -9477,7 +9477,7 @@ glycose
 gladiate
 glossy
 ganser
-glossographical
+glossographical 1
 gleeishly
 gauffering
 grilled

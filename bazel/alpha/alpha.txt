@@ -16352,7 +16352,7 @@ acoin
 amphilogism
 aminopropionic
 acalepha
-antivibrating
+antivibrating 1
 antivibrator
 antivibratory
 antivitalist
