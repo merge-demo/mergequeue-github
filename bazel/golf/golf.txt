@@ -9073,7 +9073,7 @@ glassworking
 glasser
 grimalkin
 genitive
-gentianwort
+gentianwort 1
 ghast
 grimme
 gipsyhood 1
