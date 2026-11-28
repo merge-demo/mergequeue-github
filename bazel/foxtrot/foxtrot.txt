@@ -2102,7 +2102,7 @@ finetop
 favorless
 frument
 fayence
-fermentate 1
+fermentate 2
 fluming
 feminist
 falcate
