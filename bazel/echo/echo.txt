@@ -9307,7 +9307,7 @@ ericaceous
 enticeful
 espieglerie
 erubescent
-entelechy
+entelechy 1
 ecus
 electroori
 erucivorous
