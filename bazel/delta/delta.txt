@@ -15566,7 +15566,7 @@ dons
 deltahedron
 donsie 1
 deflocculent
-donsky
+donsky 1
 donum
 donzel
 discovering
