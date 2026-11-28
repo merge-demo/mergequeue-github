@@ -11281,7 +11281,7 @@ eschewal
 exterrestrial 1
 evaporability
 emanating
-enwrapped
+enwrapped 1
 ectoplasy
 extraversive
 eutaxy
