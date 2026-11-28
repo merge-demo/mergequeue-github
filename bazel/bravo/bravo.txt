@@ -6121,7 +6121,7 @@ blenniiform
 barograph
 bulimoid
 betide
-barquette
+barquette 1
 badaxe
 bolshevizing
 bitolyl
