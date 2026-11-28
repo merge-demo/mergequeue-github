@@ -25007,7 +25007,7 @@ clavial
 cordiality
 cordialities
 crimini
-coction
+coction 1
 cnibophore
 cheskeys
 cordycepin
