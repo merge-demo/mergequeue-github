@@ -17815,7 +17815,7 @@ counselling
 cacking
 codeine
 codeines
-codelinquency
+codelinquency 1
 crypta
 codelinquent
 coden
