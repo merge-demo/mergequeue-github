@@ -18194,7 +18194,7 @@ crisscross
 coevolution
 coimplicate
 calumniousness
-cryochoric
+cryochoric 1
 collectiveness
 coexerted
 cheeked
