@@ -21861,7 +21861,7 @@ confectioner
 confed
 chukkers
 confederalist
-confederate
+confederate 1
 contrastedly
 confederater
 complimentary
