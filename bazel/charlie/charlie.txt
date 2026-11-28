@@ -21671,7 +21671,7 @@ compriest
 chondria 1
 counterpressure
 cimolite
-cobalamine
+cobalamine 1
 cervicoaxillary
 cancered
 creasing
