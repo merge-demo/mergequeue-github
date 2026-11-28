@@ -21159,7 +21159,7 @@ aseity
 aselar
 associator
 asellate
-andabata
+andabata 1
 apostates
 anthracitiferous
 agnathic
