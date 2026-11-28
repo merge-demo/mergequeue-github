@@ -3632,7 +3632,7 @@ ghees
 garaged
 gladen
 guanylic
-granilla 1
+granilla 2
 glottalize
 gigantal
 gld
