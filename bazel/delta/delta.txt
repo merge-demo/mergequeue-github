@@ -5296,7 +5296,7 @@ diatomaceoid
 denouncers
 detestable
 detinue
-dentale
+dentale 1
 dissimulate
 dilettanteish
 degressively
