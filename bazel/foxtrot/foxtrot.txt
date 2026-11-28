@@ -2371,7 +2371,7 @@ ferforth
 frapped
 falconiformes
 frogling
-feudist
+feudist 1
 fibrocrystalline
 francic
 freeloving
