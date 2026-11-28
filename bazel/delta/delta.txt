@@ -16540,7 +16540,7 @@ draftsmanship
 dynastidan
 dyspnoic
 draftwoman
-detergent
+detergent 1
 denar
 drivebolt
 deteriorationist
