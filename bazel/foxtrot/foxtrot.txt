@@ -10973,7 +10973,7 @@ foreadapt
 forthright
 focaloid
 foremilk
-firstborn
+firstborn 1
 finland
 firebolt
 fleshlier
