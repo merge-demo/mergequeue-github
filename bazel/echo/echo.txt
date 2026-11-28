@@ -8107,7 +8107,7 @@ exacum
 epiplocele 1
 epiploitis
 embryoscopic
-enthuse
+enthuse 1
 epiprecoracoid
 extrude
 elegant
