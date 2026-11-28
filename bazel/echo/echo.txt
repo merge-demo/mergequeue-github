@@ -241,7 +241,7 @@ exigeante
 easel
 eumerism
 euripus
-exhumer
+exhumer 1
 elate
 enjoyments
 elaborative
