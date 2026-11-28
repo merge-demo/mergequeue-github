@@ -10517,7 +10517,7 @@ amidogen
 amidoguaiacol
 awabakal
 automacy
-apprentice 1
+apprentice 2
 attacks
 aromatites
 abusing
