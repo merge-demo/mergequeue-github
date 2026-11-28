@@ -2274,7 +2274,7 @@ forshape
 full 1
 flavones
 filamentiferous
-fantails
+fantails 1
 folktale
 fulmineous
 fragging
