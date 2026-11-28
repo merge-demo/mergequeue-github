@@ -22617,7 +22617,7 @@ concertanti
 chug
 clinker
 crevice
-connived
+connived 1
 chromochalcography
 connives
 captance
