@@ -31207,7 +31207,7 @@ chalque
 cuproplumbite
 cuproscheelite
 cytoplastic
-chromaticity
+chromaticity 1
 cuprose
 cuprums
 czechoslovaks
