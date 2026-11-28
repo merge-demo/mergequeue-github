@@ -5049,7 +5049,7 @@ elapsing
 emplace
 elaeomargaric
 enrolled
-eclairs
+eclairs 1
 econometer
 entreasure
 encaenia 1
