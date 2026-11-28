@@ -4449,7 +4449,7 @@ floppiest
 fishman
 float
 frowzly
-feelable
+feelable 1
 flossy
 fraternizer
 fishmouth
