@@ -5581,7 +5581,7 @@ extraovular
 enfilades
 escutcheoned
 eerinesses
-encasement
+encasement 1
 enucleator
 erroneousness
 essentiality
