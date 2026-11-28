@@ -7530,7 +7530,7 @@ dentiloquy
 decapper
 deuterium
 deinocephalia
-declaimed
+declaimed 1
 dominators
 deuterocanonical
 deuterocasease
