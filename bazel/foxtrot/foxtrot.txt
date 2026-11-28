@@ -2060,7 +2060,7 @@ foggiest
 felahin
 fissipes
 fendillation
-favissae
+favissae 1
 fusulas
 fieldfare
 frory
